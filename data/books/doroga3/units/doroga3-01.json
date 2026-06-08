@@ -1,0 +1,711 @@
+{
+ "id": "doroga3-01",
+ "num": 1,
+ "title": "Урок 1 — Людей неинтересных в мире нет…",
+ "vi": "Trên đời không có ai là không thú vị…",
+ "ru": "Урок 1 · Людей неинтересных в мире нет… (Пассивные конструкции. Глаголы с -ся)",
+ "icon": "👥",
+ "color": "#e11d48",
+ "sectionPrefix": "doroga3-01-s",
+ "group": "Дорога в Россию",
+ "sections": [
+  {
+   "id": "doroga3-01-s001",
+   "type": "grammar",
+   "title": "Урок 1 — Mở đầu «Людей неинтересных в мире нет…»",
+   "num": null,
+   "blocks": [
+    {"t": "note", "text": "Tên bài lấy từ câu thơ nổi tiếng của Евгений Евтушенко: «Людей неинтересных в мире нет» — «Trên đời không có ai là không thú vị». Chủ đề bài: con người, gia đình, tính cách và tài năng."},
+    {"t": "para", "text": "Nội dung chính: • Поговорим — hỏi chuyện về gia đình; • Ngữ pháp I — câu chủ động và bị động với động từ НСВ và СВ; • Ngữ pháp II — động từ với tiểu từ -СЯ (4 nhóm); • Bài đọc «Открытие» (Khám phá) theo truyện ngắn A.П. Чехов; • Từ vựng về tính cách con người."},
+    {"t": "note", "text": "Sách gốc không kèm audio — hãy dùng nút đọc (TTS) của web để nghe các bài đọc, hội thoại và câu mẫu."}
+   ]
+  },
+  {
+   "id": "doroga3-01-s002",
+   "type": "exercise",
+   "title": "Поговорим — Задания 1–3 (Nói về gia đình)",
+   "num": null,
+   "blocks": [
+    {"t": "instruction", "text": "Давайте поговорим о семье. (Chúng ta hãy nói chuyện về gia đình.)"},
+    {"t": "subhead", "text": "1. а) Вы хотите знать: (Bạn muốn biết:)"},
+    {"t": "para", "text": "— Какая семья у вашего собеседника? (Gia đình của người đối thoại với bạn như thế nào?)\n— Сколько человек в его семье? (Gia đình anh ấy có mấy người?)\n— Как зовут его родителей, братьев, сестёр? (Bố mẹ, anh chị em của anh ấy tên là gì?)\n— Сколько им лет? (Họ bao nhiêu tuổi?)\n— Где живёт его семья? (Gia đình anh ấy sống ở đâu?)\n— Чем занимаются его родители, какая у них профессия? (Bố mẹ anh ấy làm gì, nghề nghiệp của họ là gì?)"},
+    {"t": "para", "text": "б) Вы слушали диалог. Сообщите, что вы узнали о семье одного из собеседников. (Bạn đã nghe đoạn hội thoại. Hãy kể lại những gì bạn biết được về gia đình của một trong hai người.)"},
+    {"t": "subhead", "text": "2. а) Вы хотите знать:"},
+    {"t": "para", "text": "— На кого похож ваш собеседник? (Người đối thoại của bạn giống ai?)\n— На кого он похож по характеру? (Về tính cách anh ấy giống ai?)\n— Какой характер у его родителей? (Bố mẹ anh ấy tính tình thế nào?)\n— Чем они увлекаются? (Họ say mê điều gì?)\n— Как они проводят свободное время? (Họ sử dụng thời gian rảnh như thế nào?)"},
+    {"t": "para", "text": "б) Вы слушали диалог. Сообщите, что вы узнали о семье одного из собеседников."},
+    {"t": "subhead", "text": "3. а) Вы хотите знать:"},
+    {"t": "para", "text": "— Где живёт семья вашего собеседника — в городе или в деревне? Почему? (Gia đình người đối thoại sống ở thành phố hay nông thôn? Vì sao?)\n— Его семья живёт в собственном доме или в квартире? (Gia đình anh ấy ở nhà riêng hay căn hộ?)\n— Какой у его семьи дом (сколько этажей) / какая квартира (сколько комнат)? (Nhà mấy tầng / căn hộ mấy phòng?)\n— Есть ли у его семьи домашние животные (сколько, какие)? (Nhà có nuôi con vật gì không?)\n— Кто заботится о них, кто гуляет с ними? (Ai chăm sóc, ai dắt chúng đi dạo?)"},
+    {"t": "para", "text": "б) Вы слушали диалог. Сообщите, что вы узнали о семье одного из собеседников."}
+   ]
+  },
+  {
+   "id": "doroga3-01-s003",
+   "type": "grammar",
+   "title": "Новая грамматика · I. Активные и пассивные конструкции с глаголами НСВ и СВ",
+   "num": null,
+   "blocks": [
+    {"t": "note", "text": "Эта грамматика нужна вам для чтения учебников, газет и журналов. (Phần ngữ pháp này cần cho bạn khi đọc sách giáo khoa, báo và tạp chí.)"},
+    {"t": "para", "text": "Câu CHỦ ĐỘNG (активная конструкция): chủ thể ở cách 1 + động từ + đối tượng ở cách 4. Câu BỊ ĐỘNG (пассивная конструкция): đối tượng trở thành chủ ngữ ở cách 1, chủ thể hành động chuyển sang cách 5 (творительный падеж). Với động từ НСВ dùng dạng -ся (изучается), với động từ СВ dùng tính động từ bị động ngắn đuôi (изучен, изучена…)."}
+   ]
+  },
+  {
+   "id": "doroga3-01-s004",
+   "type": "exercise",
+   "title": "Задание 1 — Объявления (Các thông báo)",
+   "num": 1,
+   "blocks": [
+    {"t": "instruction", "text": "Прослушайте объявления. Скажите, где можно увидеть или услышать их. Что вы узнали из этих объявлений? (Hãy nghe các thông báo. Cho biết có thể thấy hoặc nghe chúng ở đâu. Bạn biết được gì từ các thông báo này?)"},
+    {"t": "para", "text": "1. Добро пожаловать! Новая станция метро открывается первого января. (Chào mừng! Ga tàu điện ngầm mới sẽ mở cửa ngày 1 tháng Giêng.)\n2. Внимание! Книги выдаются только по читательским билетам. (Chú ý! Sách chỉ được cho mượn theo thẻ bạn đọc.)\n3. Уважаемые покупатели! Лекарства продаются только по рецепту. (Kính thưa quý khách! Thuốc chỉ bán theo đơn.)\n4. Купите нашу книгу! Вы узнаете, как готовятся национальные русские блюда. (Hãy mua cuốn sách của chúng tôi! Bạn sẽ biết các món ăn dân tộc Nga được nấu như thế nào.)\n5. Посмотрите нашу передачу! В ней рассказывается, как создавался первый космический корабль и как формировался первый отряд космонавтов. (Hãy xem chương trình của chúng tôi! Trong đó kể về con tàu vũ trụ đầu tiên đã được chế tạo và đội phi hành gia đầu tiên đã được thành lập như thế nào.)\n6. Уважаемые пассажиры! Проездные билеты продаются водителем только на остановках. (Kính thưa hành khách! Vé xe chỉ được tài xế bán tại các điểm dừng.)\n7. Приглашаем вас в букинистический магазин на Арбате! Здесь принимаются и продаются старинные книги, альбомы и открытки. (Mời bạn đến hiệu sách cũ trên phố Arbat! Ở đây nhận mua và bán sách cổ, album và bưu thiếp.)\n8. Уважаемые пассажиры! В нашем самолёте курить запрещается. (Kính thưa hành khách! Trên máy bay của chúng tôi cấm hút thuốc.)\n9. Уважаемые студенты и школьники! На наши летние курсы русского языка принимаются все желающие. (Các bạn sinh viên và học sinh thân mến! Khoá tiếng Nga mùa hè của chúng tôi nhận tất cả những ai có nguyện vọng.)\n10. Уважаемые клиенты! В нашем банке обменивается валюта всех стран. (Kính thưa quý khách! Ngân hàng chúng tôi đổi ngoại tệ của mọi nước.)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s005",
+   "type": "exercise",
+   "title": "Задание 2 — Фрагменты биографий (пассив НСВ)",
+   "num": 2,
+   "blocks": [
+    {"t": "instruction", "text": "а) Прочитайте фрагменты биографий известных людей. Скажите, кем были эти люди, знали ли вы об этих людях раньше. (Đọc các trích đoạn tiểu sử người nổi tiếng. Cho biết họ là ai, trước đây bạn có biết về họ không.)"},
+    {"t": "para", "text": "В середине XIX века известный русский коллекционер Павел Михайлович Третьяков начал собирать лучшие картины русских художников. Коллекция картин собиралась им долгие годы. А в 1892 году П.М. Третьяков подарил эту коллекцию Москве.\n(Giữa thế kỷ XIX, nhà sưu tầm nổi tiếng người Nga Pavel Mikhailovich Tretyakov bắt đầu sưu tầm những bức tranh đẹp nhất của các hoạ sĩ Nga. Bộ sưu tập tranh được ông gây dựng trong nhiều năm dài. Và năm 1892 P.M. Tretyakov đã tặng bộ sưu tập này cho Moskva.)"},
+    {"t": "para", "text": "Фамилию Бехтеревы хорошо знают во всём мире. Бехтеревы — это семья учёных, которые занимались и занимаются изучением мозга человека. Научные исследования начал Владимир Михайлович Бехтерев (1857–1927) в конце XIX века. В течение нескольких лет в России им создавался Институт по изучению мозга. Затем научная работа в этой области продолжалась его дочерью и внуком. Традиции семьи сохраняются и сейчас: правнучка Владимира Михайловича Бехтерева Наташа учится в медицинском институте, чтобы стать врачом.\n(Họ Bekhterev được cả thế giới biết đến. Bekhterev là một gia đình các nhà khoa học đã và đang nghiên cứu bộ não con người. Các nghiên cứu khoa học do Vladimir Mikhailovich Bekhterev (1857–1927) khởi đầu vào cuối thế kỷ XIX. Trong nhiều năm, Viện nghiên cứu não được ông xây dựng ở Nga. Sau đó công việc khoa học trong lĩnh vực này được con gái và cháu trai ông tiếp tục. Truyền thống gia đình vẫn được giữ gìn đến nay: chắt gái của V.M. Bekhterev là Natasha đang học trường y để trở thành bác sĩ.)"},
+    {"t": "para", "text": "Самая известная симфония русского композитора Дмитрия Дмитриевича Шостаковича — Седьмая («Ленинградская»). Это произведение создавалось композитором в начале Великой Отечественной войны (в 1941 году). Седьмая симфония впервые исполнялась в Ленинграде в радиостудии и передавалась на всю страну. В это время город находился в блокаде: вокруг стояла немецко-фашистская армия.\n(Bản giao hưởng nổi tiếng nhất của nhà soạn nhạc Nga Dmitri Dmitrievich Shostakovich là Bản giao hưởng số 7 («Leningrad»). Tác phẩm này được nhà soạn nhạc sáng tác vào đầu Chiến tranh Vệ quốc vĩ đại (năm 1941). Bản giao hưởng số 7 lần đầu được trình diễn tại Leningrad trong phòng thu phát thanh và được truyền đi khắp cả nước. Lúc đó thành phố đang bị phong toả: quân đội phát xít Đức bao vây xung quanh.)"},
+    {"t": "para", "text": "В 1755 году открылся и начал работу Московский университет. Учёные, которые преподавали в университете, приглашались из-за границы. Лекции читались иностранными преподавателями на латинском, греческом и немецком языках. Но основатель Московского университета Михаил Васильевич Ломоносов хотел, чтобы лекции в первом российском университете читались российскими преподавателями на русском языке.\n(Năm 1755 Đại học Tổng hợp Moskva mở cửa và bắt đầu hoạt động. Các nhà khoa học giảng dạy ở trường được mời từ nước ngoài. Các bài giảng do giảng viên nước ngoài đọc bằng tiếng Latinh, Hy Lạp và Đức. Nhưng người sáng lập Đại học Moskva — Mikhail Vasilievich Lomonosov — muốn rằng ở trường đại học đầu tiên của nước Nga, bài giảng phải do giảng viên người Nga đọc bằng tiếng Nga.)"},
+    {"t": "instruction", "text": "б) Обратите внимание на выделенные формы глаголов. Напишите инфинитивы этих глаголов и определите их вид. (Chú ý các dạng động từ in đậm: собиралась, создавался, продолжалась, сохраняются, исполнялась, передавалась, приглашались, читались. Viết nguyên thể của các động từ này và xác định thể.)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s006",
+   "type": "grammar",
+   "title": "Гр. 1 — Переходные и непереходные глаголы (Động từ ngoại động và nội động)",
+   "num": null,
+   "blocks": [
+    {"t": "instruction", "text": "Прочитайте примеры в таблице 1. Скажите, чем отличаются переходные глаголы от непереходных. Дополните таблицу своими примерами. (Đọc ví dụ trong bảng 1. Cho biết động từ ngoại động khác nội động ở chỗ nào. Bổ sung ví dụ của bạn.)"},
+    {"t": "table", "title": "Таблица 1", "head": ["Непереходные глаголы (Nội động từ)", "Переходные глаголы: что (с)делать? + объект (4) (Ngoại động từ + bổ ngữ cách 4)"], "rows": [
+     ["Виктор отдыхает. (Viktor nghỉ ngơi.)", "Виктор читает книгу. (Viktor đọc sách.)"],
+     ["Анна работала. (Anna đã làm việc.)", "Анна написала письмо. (Anna đã viết thư.)"],
+     ["Друзья будут заниматься. (Các bạn sẽ học bài.)", "Друзья будут изучать химию. (Các bạn sẽ học môn hoá.)"]
+    ]},
+    {"t": "note", "text": "Chỉ ĐỘNG TỪ NGOẠI ĐỘNG (có bổ ngữ trực tiếp cách 4) mới tạo được câu bị động."}
+   ]
+  },
+  {
+   "id": "doroga3-01-s007",
+   "type": "grammar",
+   "title": "Гр. 2 — Пассивные конструкции с глаголами НСВ (Câu bị động với động từ chưa hoàn thành thể)",
+   "num": null,
+   "blocks": [
+    {"t": "instruction", "text": "Прочитайте примеры в таблице 2. Посмотрите на схему. Скажите, чем отличаются активные конструкции от пассивных. От каких глаголов образуются пассивные формы? (Đọc ví dụ bảng 2, xem sơ đồ. Câu chủ động khác câu bị động ở đâu? Dạng bị động được tạo từ động từ nào?)"},
+    {"t": "table", "title": "Таблица 2", "head": ["Актив (А) — Chủ động", "Пассив (П) — Bị động"], "rows": [
+     ["Студент изучает / изучал иностранный язык. (Sinh viên học / đã học ngoại ngữ.)", "Иностранный язык изучается / изучался студентом. (Ngoại ngữ được sinh viên học / đã được học.)"],
+     ["На пятом курсе студенты пишут дипломные работы. (Năm thứ năm sinh viên viết luận văn.)", "Дипломные работы пишутся студентами на пятом курсе. (Luận văn được sinh viên viết vào năm thứ năm.)"],
+     ["Учёные будут решать эту сложную научную проблему. (Các nhà khoa học sẽ giải quyết vấn đề khoa học phức tạp này.)", "Эта сложная научная проблема будет решаться учёными. (Vấn đề khoa học phức tạp này sẽ được các nhà khoa học giải quyết.)"]
+    ]},
+    {"t": "para", "text": "Sơ đồ: А: кто? (1) + глагол НСВ + что? (4) — «Студент изучает русский язык». ⇄ П: что? (1) + глагол НСВ + -ся + кем? (5) — «Русский язык изучается студентом» (hoặc «Студентом изучается русский язык»)."},
+    {"t": "para", "text": "Các thì của dạng bị động НСВ: изучается (hiện tại) — изучался / изучалась (quá khứ) — будет изучаться (tương lai)."}
+   ]
+  },
+  {
+   "id": "doroga3-01-s008",
+   "type": "grammar",
+   "title": "Гр. 3 — Случаи употребления пассивных конструкций с глаголами НСВ",
+   "num": null,
+   "blocks": [
+    {"t": "note", "text": "(cần soát lại) Trang 9 của sách trong bản PDF bị thay nhầm bằng trang thông tin xuất bản, nên bảng «3. Случаи употребления пассивных конструкций» không đọc được. Nội dung khái quát theo các bài tập của bài học:"},
+    {"t": "para", "text": "Câu bị động НСВ thường dùng khi: • người nói quan tâm đến HÀNH ĐỘNG/QUÁ TRÌNH chứ không phải người thực hiện («Коллекция собиралась долгие годы»); • trong thông báo, biển hiệu, văn phong báo chí — khoa học («Лекарства продаются только по рецепту»); • khi chủ thể hành động không quan trọng hoặc ai cũng rõ («В школах составляется расписание занятий»). Chủ thể (nếu cần nêu) đứng ở cách 5: «Газета читается молодёжью»."}
+   ]
+  },
+  {
+   "id": "doroga3-01-s009",
+   "type": "exercise",
+   "title": "Задание 3 — Передайте информацию по-другому (активные конструкции)",
+   "num": 3,
+   "blocks": [
+    {"t": "instruction", "text": "а) Прочитайте (или прослушайте) сообщения. Как можно передать эту информацию по-другому? (Используйте активные конструкции.) (Đọc/nghe các thông báo. Diễn đạt lại bằng câu chủ động.)"},
+    {"t": "para", "text": "1. Все учебные вопросы решаются деканом. (Mọi vấn đề học tập được trưởng khoa giải quyết.)\n2. Контрольная работа будет выполняться студентами на компьютере. (Bài kiểm tra sẽ được sinh viên làm trên máy tính.)\n3. Эта картина создавалась художником 5 лет. (Bức tranh này được hoạ sĩ vẽ trong 5 năm.)\n4. Энциклопедии и словари хорошо покупаются студентами и школьниками. (Từ điển bách khoa và từ điển được sinh viên, học sinh mua nhiều.)\n5. Газета «Московский комсомолец» с интересом читается молодёжью. (Báo «Moskovsky Komsomolets» được giới trẻ đọc một cách thích thú.)\n6. В Центре международного образования МГУ студентами изучаются русский язык и другие предметы. (Tại Trung tâm giáo dục quốc tế ĐHTH Moskva, sinh viên học tiếng Nga và các môn khác.)\n7. На встрече с известным актёром зрителями задавались интересные вопросы. (Trong buổi gặp diễn viên nổi tiếng, khán giả đã đặt nhiều câu hỏi thú vị.)\n8. На уроке сначала преподавателем объясняется новая грамматика, а потом студентами выполняются упражнения. (Trong giờ học, đầu tiên giáo viên giảng ngữ pháp mới, sau đó sinh viên làm bài tập.)"},
+    {"t": "instruction", "text": "б) Как изменятся сообщения, если вы измените время глаголов? (Các câu sẽ thay đổi thế nào nếu đổi thì của động từ?)"},
+    {"t": "model", "text": "Образец: Все учебные вопросы решались / будут решаться деканом."}
+   ]
+  },
+  {
+   "id": "doroga3-01-s010",
+   "type": "exercise",
+   "title": "Задание 4 — Закончите предложения справа (активные конструкции)",
+   "num": 4,
+   "blocks": [
+    {"t": "instruction", "text": "Запишите данную информацию по-другому. Закончите предложения справа (используйте активные конструкции). (Viết lại thông tin theo cách khác — hoàn thành câu bên phải bằng cấu trúc chủ động.)"},
+    {"t": "para", "text": "1. На конференции психологов обсуждалась проблема воспитания детей. → На конференции психологи… (Tại hội nghị, các nhà tâm lý đã thảo luận vấn đề giáo dục trẻ em.)\n2. В настоящее время учёными всего мира создаются лекарства от СПИДа. → В настоящее время учёные всего мира… (Hiện nay các nhà khoa học toàn thế giới đang điều chế thuốc chữa AIDS.)\n3. Мировой океан исследуется учёными разных стран. → Учёные разных стран… (Đại dương thế giới đang được các nhà khoa học nhiều nước nghiên cứu.)\n4. Памятник Петру I в Москве создавался известным скульптором Зурабом Церетели несколько лет. → Известный скульптор Зураб Церетели… (Tượng đài Pyotr I ở Moskva được nhà điêu khắc nổi tiếng Zurab Tsereteli xây dựng trong nhiều năm.)\n5. Санкт-Петербург строился русским царём Петром I много лет. → Русский царь Пётр I… (Sankt-Peterburg được sa hoàng Nga Pyotr I xây dựng nhiều năm.)\n6. Долгие годы коллекция музея Эрмитаж собиралась царской семьёй. → Долгие годы царская семья… (Trong nhiều năm dài, bộ sưu tập bảo tàng Hermitage được hoàng gia sưu tầm.)\n7. Шестая симфония впервые исполнялась её автором П.И. Чайковским в Санкт-Петербурге. → П.И. Чайковский впервые… (Bản giao hưởng số 6 lần đầu được chính tác giả P.I. Tchaikovsky trình diễn tại Sankt-Peterburg.)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s011",
+   "type": "exercise",
+   "title": "Задание 5 — Замените пассивную конструкцию активной",
+   "num": 5,
+   "blocks": [
+    {"t": "instruction", "text": "Прослушайте словосочетания, замените пассивную конструкцию активной. (Nghe các cụm từ, đổi cấu trúc bị động thành chủ động.)"},
+    {"t": "model", "text": "Образец 1: задача решается → задачу решают (bài toán được giải → người ta giải bài toán)"},
+    {"t": "para", "text": "ужин готовится, цветы продаются, проблема решается, праздник отмечается, природа исследуется, планеты изучаются, ректор выбирается, дом строится\n(bữa tối đang được nấu, hoa được bán, vấn đề được giải quyết, ngày lễ được kỷ niệm, thiên nhiên được nghiên cứu, các hành tinh được nghiên cứu, hiệu trưởng được bầu, ngôi nhà đang được xây)"},
+    {"t": "model", "text": "Образец 2: школа будет строиться → школу будут строить"},
+    {"t": "para", "text": "день рождения будет отмечаться, книга будет издаваться, песня будет исполняться, президент будет выбираться, работа будет выполняться, сувениры будут продаваться\n(sinh nhật sẽ được tổ chức, sách sẽ được xuất bản, bài hát sẽ được trình diễn, tổng thống sẽ được bầu, công việc sẽ được thực hiện, đồ lưu niệm sẽ được bán)"},
+    {"t": "model", "text": "Образец 3: здание строилось → здание строили"},
+    {"t": "para", "text": "коллекция собиралась, институт создавался, Новый год праздновался, школа строилась, история изучалась, фильм показывался, полёт готовился\n(bộ sưu tập đã được gây dựng, viện đã được thành lập, năm mới đã được đón mừng, trường học đã được xây, lịch sử đã được học, bộ phim đã được chiếu, chuyến bay đã được chuẩn bị)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s012",
+   "type": "exercise",
+   "title": "Задание 6 — Биографии ещё раз (активные конструкции)",
+   "num": 6,
+   "blocks": [
+    {"t": "instruction", "text": "Прочитайте (прослушайте) фрагменты биографий ещё раз (стр. 6, упр. 2), замените пассивные конструкции активными. Расскажите, что вы узнали. (Đọc lại các trích đoạn tiểu sử ở Задание 2, thay câu bị động bằng câu chủ động. Kể lại những gì bạn biết được.)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s013",
+   "type": "exercise",
+   "title": "Задание 7 — Текст «Татьяна Устинова»",
+   "num": 7,
+   "blocks": [
+    {"t": "instruction", "text": "а) Прочитайте текст. Скажите, кто такая Татьяна Устинова? (Đọc bài và cho biết Tatyana Ustinova là ai?)"},
+    {"t": "para", "text": "Недавно в газете «Труд» была напечатана статья, в которой рассказывалось о семье московской писательницы Татьяны Устиновой. Вся её дружная семья живёт за городом в большом старом доме. На кухне постоянно готовится еда, дети играют, а в саду гуляет их большая собака Кузя. В этой семье все друг друга любят и всегда помогают друг другу. Романы создаются здесь же, в этом уютном доме, и печатаются на старом компьютере, который писательница купила когда-то очень давно у знакомых.\n(Mới đây trên báo «Trud» có đăng một bài viết kể về gia đình nữ nhà văn Moskva Tatyana Ustinova. Cả gia đình hoà thuận của bà sống ở ngoại ô trong một ngôi nhà cũ rộng lớn. Trong bếp lúc nào cũng đang nấu ăn, trẻ con chơi đùa, còn trong vườn con chó lớn Kuzya đi dạo. Trong gia đình này mọi người yêu thương và luôn giúp đỡ lẫn nhau. Các cuốn tiểu thuyết được viết ngay tại đây, trong ngôi nhà ấm cúng này, và được gõ trên chiếc máy tính cũ mà nữ nhà văn đã mua của người quen từ rất lâu.)"},
+    {"t": "para", "text": "Этот дом, сад и эта семья, где все кричат, ссорятся и мирятся, дороги ей (cần soát lại — dòng chữ nhỏ khó đọc). Её герои — нормальные, живые люди, с которыми мы встречаемся каждый день. Поэтому книги Татьяны Устиновой читаются очень легко и с удовольствием.\n(Ngôi nhà, khu vườn và gia đình này — nơi mọi người la hét, cãi cọ rồi làm lành — rất thân thương với bà. Nhân vật của bà là những con người bình thường, sống động mà ta gặp hằng ngày. Vì thế sách của Tatyana Ustinova đọc rất nhẹ nhàng và thú vị.)"},
+    {"t": "instruction", "text": "б) Задайте вопросы по тексту, чтобы уточнить, правильно ли ваши друзья поняли этот текст. (Đặt câu hỏi theo bài để kiểm tra xem bạn bè có hiểu đúng không.)\nв) Прочитайте текст ещё раз, замените пассивные конструкции активными. (Đọc lại bài, thay câu bị động bằng câu chủ động.)\nг) Расскажите, что вы узнали о семье и работе Татьяны Устиновой. Запишите эту информацию (3–5 предложений). (Kể lại những gì bạn biết về gia đình và công việc của Ustinova. Viết lại 3–5 câu.)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s014",
+   "type": "exercise",
+   "title": "Задание 8 — Запишите информацию по-другому",
+   "num": 8,
+   "blocks": [
+    {"t": "instruction", "text": "Прослушайте сообщения и запишите эту информацию по-другому (используйте активные конструкции). (Nghe các thông báo và ghi lại bằng câu chủ động.)"},
+    {"t": "para", "text": "1. Сейчас в Москве строятся новые современные дома. (Hiện nay ở Moskva đang xây những ngôi nhà mới hiện đại.)\n2. В университете ректор выбирается один раз в 7 лет. (Ở trường đại học, hiệu trưởng được bầu 7 năm một lần.)\n3. В поликлинике больные принимаются каждый день с девяти утра. (Phòng khám tiếp nhận bệnh nhân hằng ngày từ 9 giờ sáng.)\n4. Романы Б. Акунина всегда читаются с удовольствием. (Tiểu thuyết của B. Akunin luôn được đọc một cách thích thú.)\n5. В магазине «Подарки» на Тверской улице продаются русские сувениры. (Cửa hàng «Quà tặng» trên phố Tverskaya bán đồ lưu niệm Nga.)\n6. В микроволновой печи мясо и рыба готовятся очень быстро. (Trong lò vi sóng, thịt và cá được nấu rất nhanh.)\n7. Всемирно известный русский самовар делается на заводе в российском городе Туле. (Ấm samovar Nga nổi tiếng thế giới được sản xuất tại nhà máy ở thành phố Tula.)\n8. В дружной семье все проблемы обсуждаются и решаются на семейном совете. (Trong gia đình hoà thuận, mọi vấn đề được bàn bạc và giải quyết trong hội đồng gia đình.)\n9. В начале учебного года в школах и институтах составляется расписание занятий. (Đầu năm học, các trường phổ thông và đại học lập thời khoá biểu.)\n10. Раньше теория относительности А. Эйнштейна изучалась только в институте, а сейчас эта теория изучается в школе. (Trước đây thuyết tương đối của A. Einstein chỉ được học ở đại học, còn bây giờ được học ở trường phổ thông.)\n11. Рассказы Татьяны Толстой печатаются в лучших российских журналах. (Truyện ngắn của Tatyana Tolstaya được in trên những tạp chí hàng đầu nước Nga.)\n12. Космический полёт готовится в Центре подготовки космонавтов в Звёздном городке. (Chuyến bay vũ trụ được chuẩn bị tại Trung tâm huấn luyện phi hành gia ở Thành phố Ngôi sao.)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s015",
+   "type": "exercise",
+   "title": "Задание 9 — Объявления ещё раз (активные конструкции)",
+   "num": 9,
+   "blocks": [
+    {"t": "instruction", "text": "Прочитайте объявления ещё раз (стр. 5, упр. 1). Замените пассивные конструкции активными. (Đọc lại các thông báo ở Задание 1, thay câu bị động bằng câu chủ động.)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s016",
+   "type": "exercise",
+   "title": "Задание 10 — Текст «Центры планирования семьи» (Trung tâm kế hoạch hoá gia đình)",
+   "num": 10,
+   "blocks": [
+    {"t": "instruction", "text": "Прочитайте текст. а) Скажите, какая проблема обсуждается в этом тексте. (Đọc bài. a) Cho biết vấn đề gì được bàn trong bài.)"},
+    {"t": "para", "text": "Сейчас почти во всех больших городах России создаются центры планирования семьи. В эти центры приходят молодые люди, чтобы получить консультации опытных психологов, врачей и педагогов. В этих центрах обсуждаются наиболее важные проблемы молодой семьи: материальные проблемы, проблема жилья, проблема рождения и воспитания ребёнка.\n(Hiện nay ở hầu hết các thành phố lớn của Nga đang thành lập các trung tâm kế hoạch hoá gia đình. Những người trẻ đến đây để nhận tư vấn của các nhà tâm lý, bác sĩ và nhà giáo dục giàu kinh nghiệm. Tại các trung tâm này, những vấn đề quan trọng nhất của gia đình trẻ được đem ra bàn bạc: vấn đề vật chất, nhà ở, sinh con và nuôi dạy con.)"},
+    {"t": "para", "text": "В последнее время психологами и педагогами часто обсуждается вопрос: сколько детей должно быть в семье — один или несколько? И каждой семьёй эта проблема решается по-своему.\n(Thời gian gần đây, các nhà tâm lý và giáo dục thường bàn câu hỏi: gia đình nên có mấy con — một hay nhiều? Và mỗi gia đình giải quyết vấn đề này theo cách riêng.)"},
+    {"t": "para", "text": "Многодетные семьи сейчас «вышли из моды». Считается, что один ребёнок — это удобно. Одному ребёнку в семье уделяется больше времени и внимания, он лучше обеспечивается материально. Но единственные дети, особенно подростки, часто говорят о своём одиночестве. Такие дети могут быть неуверенными в себе, в своих силах, потому что постоянно опекаются своими папами, мамами, бабушками и дедушками.\n(Gia đình đông con bây giờ đã «lỗi mốt». Người ta cho rằng một con thì tiện: đứa con duy nhất được dành nhiều thời gian và sự quan tâm hơn, được chu cấp vật chất tốt hơn. Nhưng những đứa con một, nhất là tuổi thiếu niên, thường nói về nỗi cô đơn của mình. Những đứa trẻ ấy có thể thiếu tự tin vào bản thân, vào sức mình, vì luôn được bố mẹ, ông bà bao bọc.)"},
+    {"t": "para", "text": "Конечно, если в семье много детей, родители не могут проводить много времени с каждым ребёнком. Но в многодетных семьях младшие дети воспитываются старшими братьями и сёстрами, которые играют и занимаются с ними. Дети в больших семьях быстро становятся самостоятельными и уверенными в себе.\n(Tất nhiên, nếu gia đình đông con, bố mẹ không thể dành nhiều thời gian cho từng đứa. Nhưng trong gia đình đông con, các em nhỏ được anh chị lớn dạy dỗ, chơi và học cùng. Trẻ em trong gia đình lớn nhanh chóng trở nên tự lập và tự tin.)"},
+    {"t": "note", "text": "Từ mới: уделять время кому? (3) / уделять внимание детям — dành thời gian / sự quan tâm cho ai; опекать кого? (4) детей — bao bọc, chăm nom; воспитывать кого? (4) детей — nuôi dạy; обеспечивать кого? (4) чем? (5) — обеспечить детей книгами — chu cấp, bảo đảm cho ai cái gì."},
+    {"t": "instruction", "text": "б) Найдите в тексте 9 пассивных конструкций и замените их активными. (Tìm trong bài 9 cấu trúc bị động và thay bằng chủ động.)\nв) Спросите своих друзей, что они думают об этой проблеме. Согласны ли они с автором этой статьи? Какая у них семья? (Hỏi bạn bè nghĩ gì về vấn đề này. Họ có đồng ý với tác giả không? Gia đình họ thế nào?)\nг) Что вы узнали из беседы с вашими друзьями? Выскажите своё мнение. (Bạn biết được gì từ cuộc trò chuyện? Nêu ý kiến của bạn.)\nд) Есть ли в вашем городе центр планирования семьи? Чем он занимается? Как вы думаете, нужен ли такой центр? (Thành phố bạn có trung tâm kế hoạch hoá gia đình không? Nó làm gì? Theo bạn có cần trung tâm như vậy không?)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s017",
+   "type": "grammar",
+   "title": "Гр. 4–5 — Пассивные конструкции с глаголами СВ (Câu bị động với động từ hoàn thành thể)",
+   "num": null,
+   "blocks": [
+    {"t": "instruction", "text": "Прочитайте примеры в таблице 4. Посмотрите на схему. Скажите, чем отличаются активные конструкции от пассивных. (Đọc ví dụ bảng 4, xem sơ đồ. Câu chủ động khác câu bị động thế nào?)"},
+    {"t": "table", "title": "Таблица 4", "head": ["А — Chủ động", "П — Bị động"], "rows": [
+     ["М.В. Ломоносов основал Московский университет в 1755 году. (Lomonosov sáng lập ĐH Moskva năm 1755.)", "Московский университет был основан М.В. Ломоносовым в 1755 году. (ĐH Moskva được Lomonosov sáng lập năm 1755.)"],
+     ["Студент быстро решил трудную задачу. (Sinh viên giải nhanh bài toán khó.)", "Трудная задача быстро решена студентом. (Bài toán khó được sinh viên giải nhanh.)"],
+     ["На вечере молодой артист прочитает стихи. (Trong dạ hội, nghệ sĩ trẻ sẽ đọc thơ.)", "На вечере стихи будут прочитаны молодым артистом. (Trong dạ hội, thơ sẽ được nghệ sĩ trẻ đọc.)"]
+    ]},
+    {"t": "para", "text": "Sơ đồ: А: кто? (1) + глагол СВ + что? (4) — «Артист прочитал/прочитает рассказ», «Поэт написал/напишет книгу». ⇄ П: что? (1) + пассивная форма от глагола СВ + кем? (5) — «Рассказ прочитан / был прочитан / будет прочитан артистом», «Книга написана / была написана / будет написана поэтом»."},
+    {"t": "note", "text": "Dạng bị động của động từ СВ là TÍNH ĐỘNG TỪ BỊ ĐỘNG NGẮN ĐUÔI (краткое страдательное причастие): прочитан, -а, -о, -ы. Quá khứ thêm был/была/было/были, tương lai thêm будет/будут."}
+   ]
+  },
+  {
+   "id": "doroga3-01-s018",
+   "type": "exercise",
+   "title": "Задание 11 — Фрагменты биографий (пассив СВ)",
+   "num": 11,
+   "blocks": [
+    {"t": "instruction", "text": "а) Прочитайте фрагменты биографий известных людей. Скажите, кем были эти люди. Знали ли вы об этих людях раньше? (Đọc trích đoạn tiểu sử các nhân vật nổi tiếng. Họ là ai? Trước đây bạn có biết họ không?)"},
+    {"t": "para", "text": "В 1878 году известный русский художник Виктор Михайлович Васнецов переехал в Москву. А в 1894 году в центре Москвы, в Троицком переулке (сейчас переулок Васнецова), он построил дом, в котором жил со своей семьёй. Дом был построен по проекту самого художника. Мебель в доме была сделана его родным братом Аркадием. В этом доме В.М. Васнецовым были созданы его лучшие картины.\n(Năm 1878, hoạ sĩ Nga nổi tiếng Viktor Mikhailovich Vasnetsov chuyển đến Moskva. Năm 1894, ở trung tâm Moskva, ngõ Troitsky (nay là ngõ Vasnetsov), ông xây ngôi nhà nơi ông sống cùng gia đình. Ngôi nhà được xây theo đồ án của chính hoạ sĩ. Đồ gỗ trong nhà do em trai ruột Arkady làm. Trong ngôi nhà này, những bức tranh đẹp nhất của Vasnetsov đã ra đời.)"},
+    {"t": "para", "text": "В 1905 году молодым учёным Альбертом Эйнштейном было сделано великое научное открытие. Им была создана теория относительности. Современники очень удивились этому открытию, ведь Альберту Эйнштейну тогда было всего 26 лет. Эта теория не сразу была принята учёными. В наше время эта теория изучается не только студентами, но и школьниками старших классов.\n(Năm 1905, nhà khoa học trẻ Albert Einstein đã có một phát minh khoa học vĩ đại. Ông đã xây dựng thuyết tương đối. Người đương thời rất ngạc nhiên trước phát minh này, vì khi đó Einstein mới 26 tuổi. Lý thuyết này không được giới khoa học chấp nhận ngay. Ngày nay nó được không chỉ sinh viên mà cả học sinh trung học phổ thông học.)"},
+    {"t": "para", "text": "Всем известно, что опера «Князь Игорь» была написана русским композитором А.П. Бородиным. Но не все знают, что автор не закончил свою оперу. После смерти А.П. Бородина работа над этим произведением была закончена другим русским композитором — Н.А. Римским-Корсаковым.\n(Ai cũng biết vở opera «Công tước Igor» do nhà soạn nhạc Nga A.P. Borodin viết. Nhưng không phải ai cũng biết tác giả chưa hoàn thành vở opera của mình. Sau khi Borodin qua đời, công việc với tác phẩm này được một nhà soạn nhạc Nga khác — N.A. Rimsky-Korsakov — hoàn tất.)"},
+    {"t": "para", "text": "Периодический закон химических элементов был открыт русским учёным-химиком Д.И. Менделеевым в 1869 году. А таблица химических элементов была создана учёным в 1871 году. Существует легенда, что эту таблицу Д.И. Менделеев увидел во сне.\n(Định luật tuần hoàn các nguyên tố hoá học được nhà hoá học Nga D.I. Mendeleev phát hiện năm 1869. Còn bảng các nguyên tố hoá học được ông lập năm 1871. Có truyền thuyết kể rằng Mendeleev đã nhìn thấy bảng này trong giấc mơ.)"},
+    {"t": "instruction", "text": "б) Обратите внимание на выделенные формы глаголов (был построен, была сделана, были созданы, было сделано, была создана, была принята, была написана, была закончена, был открыт). Напишите инфинитивы этих глаголов и определите их вид. (Chú ý các dạng động từ in đậm. Viết nguyên thể và xác định thể.)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s019",
+   "type": "grammar",
+   "title": "Гр. 6 — Образование пассивных форм от глаголов СВ (Cấu tạo dạng bị động của động từ СВ)",
+   "num": null,
+   "blocks": [
+    {"t": "instruction", "text": "Посмотрите таблицу 5. Расскажите, как образуются пассивные формы от некоторых глаголов СВ. Дополните таблицу своими примерами. (Xem bảng 5. Cho biết dạng bị động của một số động từ СВ được tạo như thế nào. Bổ sung ví dụ.)"},
+    {"t": "table", "title": "Таблица 5", "head": ["Động từ СВ", "Hậu tố", "Dạng bị động ngắn đuôi"], "rows": [
+     ["сдела-ть, прода-ть, потеря-ть, основа-ть", "+ -н (-а, -о, -ы)", "сделан, продан, потерян, основан (-а, -о, -ы)"],
+     ["реши-ть, изучи-ть, постро-ить", "+ -ен / -ён (-а, -о, -ы)", "решён, изучен, построен (-а, -о, -ы)"],
+     ["откры-ть, забы-ть, уби-ть, приня-ть", "+ -т (-а, -о, -ы)", "открыт, забыт, убит, принят (-а, -о, -ы)"]
+    ]},
+    {"t": "note", "text": "Đuôi -н/-ен/-т biến đổi theo giống và số của chủ ngữ: журнал куплен, книга куплена, письмо написано, дома построены."}
+   ]
+  },
+  {
+   "id": "doroga3-01-s020",
+   "type": "exercise",
+   "title": "Задание 12 — Составьте предложения (Таблица 5)",
+   "num": 12,
+   "blocks": [
+    {"t": "instruction", "text": "Используйте материал таблицы 5, чтобы составить предложения со следующими словами: книга, тетрадь, дом, ключ, решения, письмо, магазины, задание, музей. (Dùng bảng 5 đặt câu với các từ: sách, vở, nhà, chìa khoá, các quyết định, thư, các cửa hàng, bài tập, bảo tàng.)"},
+    {"t": "model", "text": "Образец: Книга продана (потеряна, куплена, открыта…). Эта книга куплена в магазине. (Cuốn sách đã được bán (bị mất, được mua, được mở…). Cuốn sách này được mua ở cửa hàng.)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s021",
+   "type": "exercise",
+   "title": "Задание 13 — Передайте информацию активными конструкциями",
+   "num": 13,
+   "blocks": [
+    {"t": "instruction", "text": "Прочитайте (прослушайте) предложения. Передайте эту информацию по-другому (замените пассивные конструкции активными). (Đọc/nghe các câu. Diễn đạt lại bằng câu chủ động.)"},
+    {"t": "para", "text": "1. Эта старая машина была куплена родителями очень давно. (Chiếc xe cũ này được bố mẹ mua từ rất lâu.)\n2. Тест будет проведён преподавателем на следующей неделе. (Bài kiểm tra sẽ được giáo viên tổ chức vào tuần sau.)\n3. Дом в деревне был построен моим дедушкой. (Ngôi nhà ở quê do ông tôi xây.)\n4. Книга подарена мне другом на день рождения. (Cuốn sách được bạn tặng tôi nhân sinh nhật.)\n5. Эта сложная операция будет сделана опытным хирургом. (Ca mổ phức tạp này sẽ do bác sĩ phẫu thuật giàu kinh nghiệm thực hiện.)\n6. Эта книга написана известным писателем. (Cuốn sách này do nhà văn nổi tiếng viết.)\n7. Научная статья была прочитана студенткой очень внимательно. (Bài báo khoa học được nữ sinh viên đọc rất chăm chú.)\n8. Ремонт в доме сделан хорошим мастером. (Việc sửa nhà do người thợ giỏi làm.)\n9. Картина была нарисована московской художницей. (Bức tranh do nữ hoạ sĩ Moskva vẽ.)\n10. Стихи известного поэта будут переведены хорошим переводчиком. (Thơ của nhà thơ nổi tiếng sẽ được một dịch giả giỏi dịch.)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s022",
+   "type": "exercise",
+   "title": "Задание 14 — Закончите предложения справа",
+   "num": 14,
+   "blocks": [
+    {"t": "instruction", "text": "Запишите данную информацию по-другому. Закончите предложения справа (используйте активные конструкции). (Viết lại thông tin — hoàn thành câu bên phải bằng câu chủ động.)"},
+    {"t": "para", "text": "1. Интересная статья была написана российским журналистом во время путешествия на Северный полюс. → Российский журналист… (Bài báo thú vị được nhà báo Nga viết trong chuyến thám hiểm Bắc Cực.)\n2. Учёными-психологами был сделан вывод, что компьютерные игры развивают способности человека. → Учёные-психологи… (Các nhà tâm lý học đã rút ra kết luận rằng trò chơi máy tính phát triển năng lực con người.)\n3. Скоро московским издательством «Вагриус» будет издана книга о самых интересных событиях XX века. → Московское издательство «Вагриус»… (Sắp tới NXB «Vagrius» ở Moskva sẽ xuất bản cuốn sách về những sự kiện thú vị nhất thế kỷ XX.)\n4. Грузовой автомобиль «мерседес» назван специалистами лучшим автомобилем 2004 года. → Специалисты… (Xe tải «Mercedes» được các chuyên gia bình chọn là xe tốt nhất năm 2004.)\n5. Фотографии были сделаны моим другом в студенческом спортивном лагере. → Мой друг… (Những bức ảnh do bạn tôi chụp ở trại thể thao sinh viên.)\n6. В статье талантливым учёным будут собраны и проанализированы результаты научных экспериментов. → Талантливый учёный… (Trong bài báo, nhà khoa học tài năng sẽ tập hợp và phân tích kết quả các thí nghiệm khoa học.)\n7. На экскурсии туристами будут осмотрены самые интересные места в городе. → Туристы… (Trong chuyến tham quan, du khách sẽ thăm những nơi thú vị nhất thành phố.)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s023",
+   "type": "grammar",
+   "title": "Гр. 7 — Случаи употребления пассивных конструкций с глаголами СВ (Таблица 6)",
+   "num": null,
+   "blocks": [
+    {"t": "instruction", "text": "Прочитайте примеры в таблице 6. Посмотрите на схему. Чем отличаются эти конструкции? Какая форма глагола используется в активной и какая — в пассивной конструкции? (Đọc ví dụ bảng 6. Các cấu trúc khác nhau thế nào? Dạng động từ nào dùng trong câu chủ động, dạng nào trong câu bị động?)"},
+    {"t": "table", "title": "Таблица 6", "head": ["когда? / где?", "А — Chủ động (không chủ ngữ, ngôi 3 số nhiều)", "П — Bị động"], "rows": [
+     ["Недавно в Москве (Gần đây ở Moskva)", "открыли новый театр. (người ta đã mở nhà hát mới)", "был открыт новый театр. (nhà hát mới đã được mở)"],
+     ["В 2005 году (Năm 2005)", "построят новую библиотеку МГУ. (người ta sẽ xây thư viện mới của MGU)", "будет построена новая библиотека МГУ. (thư viện mới của MGU sẽ được xây)"],
+     ["В 2003 году в Петербурге (Năm 2003 ở Peterburg)", "выбрали нового губернатора города. (người ta đã bầu thống đốc mới)", "был выбран новый губернатор города. (thống đốc mới đã được bầu)"]
+    ]},
+    {"t": "para", "text": "Sơ đồ «Когда? / Где?»: выбрали кого? ⇄ был выбран кто?; выберут ⇄ будет выбран; построили что? ⇄ было построено что?; построят ⇄ будет построено."}
+   ]
+  },
+  {
+   "id": "doroga3-01-s024",
+   "type": "exercise",
+   "title": "Задание 15 — Скажите по-другому (активные конструкции)",
+   "num": 15,
+   "blocks": [
+    {"t": "instruction", "text": "а) Прослушайте словосочетания, скажите по-другому (замените пассивную конструкцию активной). (Nghe các cụm từ, nói lại theo cách khác — thay bị động bằng chủ động.)"},
+    {"t": "model", "text": "1. Образец: школа построена → школу построили"},
+    {"t": "para", "text": "библиотека закрыта, магазин открыт, картина нарисована, продукты куплены, дом продан, обед приготовлен, ключ потерян, решение принято, задача решена, газеты прочитаны\n(thư viện đã đóng cửa, cửa hàng đã mở, bức tranh đã được vẽ, thực phẩm đã được mua, ngôi nhà đã bán, bữa trưa đã nấu xong, chìa khoá bị mất, quyết định đã được thông qua, bài toán đã giải xong, báo đã đọc xong)"},
+    {"t": "model", "text": "2. Образец: здание было построено → здание построили"},
+    {"t": "para", "text": "город был основан, теория была создана, картина была нарисована, закон был открыт, письмо было написано, открытие было сделано, работа была продолжена, фильм был показан\n(thành phố đã được thành lập, lý thuyết đã được xây dựng, bức tranh đã được vẽ, định luật đã được phát hiện, bức thư đã được viết, phát minh đã được thực hiện, công việc đã được tiếp tục, bộ phim đã được chiếu)"},
+    {"t": "model", "text": "3. Образец: дом будет построен → дом построят"},
+    {"t": "para", "text": "экзамен будет сдан, здание будет построено, планета будет исследована, домашнее задание будет сделано, проблема будет решена, касса будет открыта, книга будет издана, решение будет найдено\n(kỳ thi sẽ được vượt qua, toà nhà sẽ được xây, hành tinh sẽ được nghiên cứu, bài tập về nhà sẽ được làm, vấn đề sẽ được giải quyết, quầy vé sẽ mở, sách sẽ được xuất bản, giải pháp sẽ được tìm ra)"},
+    {"t": "instruction", "text": "б) Распространите данные сообщения (1 и 2) с помощью вопросов где? когда? кем? и т. д. (Mở rộng các thông báo (1 và 2) bằng các câu hỏi ở đâu? khi nào? bởi ai?…)"},
+    {"t": "model", "text": "Образец: школа построена → В этом районе школа была построена недавно. (Trường học được xây → Ở khu này trường học mới được xây gần đây.)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s025",
+   "type": "exercise",
+   "title": "Задание 16 — Передайте информацию по-другому",
+   "num": 16,
+   "blocks": [
+    {"t": "instruction", "text": "Прочитайте (прослушайте) предложения. Передайте эту информацию по-другому (замените пассивные конструкции активными). (Đọc/nghe các câu, diễn đạt lại bằng câu chủ động.)"},
+    {"t": "para", "text": "1. Письмо было написано вчера вечером. (Bức thư được viết tối qua.)\n2. Продукты были куплены утром. (Thực phẩm được mua buổi sáng.)\n3. Трудное упражнение сделано на уроке. (Bài tập khó đã làm trên lớp.)\n4. В 2008 году в стране будет выбран новый президент. (Năm 2008 cả nước sẽ bầu tổng thống mới.)\n5. В столовой был найден учебник по математике. (Trong nhà ăn người ta nhặt được cuốn sách giáo khoa toán.)\n6. Ключ был потерян в автобусе. (Chìa khoá bị mất trên xe buýt.)\n7. В следующем году будет построена новая школа. (Sang năm sẽ xây trường học mới.)\n8. В воскресенье магазин будет закрыт. (Chủ nhật cửa hàng sẽ đóng cửa.)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s026",
+   "type": "exercise",
+   "title": "Задание 17 — Сообщения (пассив СВ)",
+   "num": 17,
+   "blocks": [
+    {"t": "instruction", "text": "Прочитайте (прослушайте) сообщения и скажите, что вы узнали. Передайте эту информацию по-другому (замените пассивные конструкции активными). (Đọc/nghe các thông báo, cho biết bạn biết được gì. Diễn đạt lại bằng câu chủ động.)"},
+    {"t": "para", "text": "1. Информация о разных факультетах МГУ получена из Интернета. (Thông tin về các khoa của MGU được lấy từ Internet.)\n2. В следующей передаче будет продолжен рассказ о проблемах молодой семьи. (Trong chương trình sau sẽ tiếp tục câu chuyện về các vấn đề của gia đình trẻ.)\n3. Новая модель мобильного телефона будет сделана для людей, которые любят не только надёжную технику, но и красивые вещи. (Mẫu điện thoại di động mới sẽ được làm cho những người yêu thích không chỉ thiết bị bền mà cả đồ đẹp.)\n4. На международную конференцию будут приглашены учёные из университетов разных стран. (Các nhà khoa học từ nhiều trường đại học các nước sẽ được mời dự hội nghị quốc tế.)\n5. Новый российский фильм «Возвращение» впервые был показан на Международном кинофестивале в Венеции. (Bộ phim Nga mới «Trở về» lần đầu được chiếu tại LHP quốc tế Venice.)\n6. Гостиница «Москва» в центре города скоро будет перестроена. (Khách sạn «Moskva» ở trung tâm thành phố sắp được xây lại.)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s027",
+   "type": "exercise",
+   "title": "Задание 18 — Биографии ещё раз (упр. 11)",
+   "num": 18,
+   "blocks": [
+    {"t": "instruction", "text": "Прочитайте фрагменты биографий ещё раз (стр. 12–13, упр. 11), замените пассивные конструкции активными. Расскажите, что вы узнали. (Đọc lại các trích đoạn tiểu sử ở Задание 11, thay câu bị động bằng câu chủ động. Kể lại những gì bạn biết được.)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s028",
+   "type": "exercise",
+   "title": "Задание 19 — Текст «Чайка» (Vở kịch «Hải âu»)",
+   "num": 19,
+   "blocks": [
+    {"t": "instruction", "text": "а) Быстро прочитайте текст и скажите, какой символ имеет Московский Художественный театр и где можно увидеть этот символ. (Đọc nhanh bài và cho biết Nhà hát Nghệ thuật Moskva có biểu tượng gì, có thể thấy biểu tượng đó ở đâu.)"},
+    {"t": "para", "text": "Пьеса «Чайка» была написана Антоном Павловичем Чеховым в 1896 году в Мелихове. Эта пьеса была особенно дорога Чехову, потому что в ней писатель впервые рассказал о нелёгкой судьбе людей, которые, как и сам Чехов, выбрали творческую профессию. Герои пьесы — девушка, которая мечтает стать великой актрисой, и молодой начинающий писатель. Оба они мечтают о славе, верят в свой талант и в свои силы, но не знают, какие трудности встретятся им на их нелёгком пути.\n(Vở kịch «Hải âu» được Anton Pavlovich Chekhov viết năm 1896 ở Melikhovo. Vở kịch này đặc biệt quý giá với Chekhov, vì trong đó lần đầu tiên nhà văn kể về số phận không dễ dàng của những người, giống như chính Chekhov, đã chọn nghề sáng tạo. Nhân vật của vở kịch là một cô gái mơ ước thành nữ diễn viên vĩ đại và một nhà văn trẻ mới vào nghề. Cả hai đều mơ về vinh quang, tin vào tài năng và sức lực của mình, nhưng không biết những khó khăn nào đang chờ họ trên con đường gian nan.)"},
+    {"t": "para", "text": "Впервые «Чайка» была поставлена в 1896 году в Санкт-Петербурге. К сожалению, пьеса не имела успеха, потому что не была понята зрителями. Антон Павлович Чехов очень переживал эту неудачу. Поэтому, когда режиссёр Московского Художественного театра Константин Сергеевич Станиславский предложил Чехову поставить «Чайку» в Москве, Антон Павлович согласился не сразу. Он приходил в театр, читал актёрам свою пьесу, был на репетициях спектакля и убедился, что его пьеса была правильно понята режиссёром и молодыми талантливыми артистами (cần soát lại). Так началась творческая дружба писателя с театром.\n(Lần đầu «Hải âu» được dàn dựng năm 1896 ở Sankt-Peterburg. Tiếc rằng vở kịch không thành công vì không được khán giả hiểu. Chekhov rất đau buồn vì thất bại này. Vì vậy khi đạo diễn Nhà hát Nghệ thuật Moskva Konstantin Sergeevich Stanislavsky đề nghị Chekhov dựng «Hải âu» ở Moskva, ông không đồng ý ngay. Ông đến nhà hát, đọc vở kịch cho các diễn viên, dự các buổi tập và tin chắc rằng vở kịch của mình đã được đạo diễn và các nghệ sĩ trẻ tài năng hiểu đúng. Tình bạn sáng tạo giữa nhà văn và nhà hát bắt đầu như thế.)"},
+    {"t": "para", "text": "В 1898 году чеховская пьеса «Чайка» была поставлена на сцене Московского Художественного театра. Пьеса имела огромный успех. Она была хорошо встречена зрителями. Они долго аплодировали, бросали цветы на сцену и не хотели уходить из театра. С тех пор летящая чайка стала символом Московского Художественного театра. Этот символ и сейчас можно увидеть на здании этого театра, на его занавесе и на театральных билетах.\n(Năm 1898, vở «Hải âu» của Chekhov được dựng trên sân khấu Nhà hát Nghệ thuật Moskva. Vở kịch thành công vang dội, được khán giả đón nhận nồng nhiệt. Họ vỗ tay rất lâu, ném hoa lên sân khấu và không muốn rời nhà hát. Từ đó con hải âu đang bay trở thành biểu tượng của Nhà hát Nghệ thuật Moskva. Ngày nay vẫn có thể thấy biểu tượng này trên toà nhà nhà hát, trên màn sân khấu và trên vé xem kịch.)"},
+    {"t": "instruction", "text": "б) Прочитайте текст ещё раз и ответьте на вопросы: (Đọc lại bài và trả lời câu hỏi:)"},
+    {"t": "para", "text": "1. Почему пьеса «Чайка» была очень дорога А.П. Чехову? (Vì sao vở «Hải âu» rất quý giá với Chekhov?)\n2. Где зрители впервые увидели эту пьесу? (Khán giả xem vở kịch lần đầu ở đâu?)\n3. Почему спектакль в Петербурге не имел успеха? (Vì sao buổi diễn ở Peterburg không thành công?)\n4. Какой театр предложил А.П. Чехову поставить «Чайку» во второй раз? (Nhà hát nào đề nghị Chekhov dựng «Hải âu» lần thứ hai?)\n5. Как встретили пьесу «Чайка» московские зрители? (Khán giả Moskva đón nhận vở kịch thế nào?)\n6. Почему можно сказать, что спектакль в Москве прошёл с успехом? (Vì sao có thể nói buổi diễn ở Moskva thành công?)"},
+    {"t": "instruction", "text": "в) Какие ещё вопросы по тексту вы можете задать? (Bạn còn có thể đặt những câu hỏi nào theo bài?)\nг) Найдите в тексте 6 пассивных конструкций и замените их активными. (Tìm trong bài 6 cấu trúc bị động và thay bằng chủ động.)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s029",
+   "type": "exercise",
+   "title": "Задание 20 — Это интересно знать: Что? Где? Когда? (Изобретения и открытия)",
+   "num": 20,
+   "blocks": [
+    {"t": "instruction", "text": "Прочитайте информацию об изобретениях и открытиях. Расскажите, что нового вы узнали (используйте активные конструкции). Можете ли вы что-нибудь добавить к данной информации? (Đọc thông tin về các phát minh và khám phá. Kể lại điều mới bạn biết được — dùng câu chủ động. Bạn có thể bổ sung gì không?)"},
+    {"t": "para", "text": "1. Первый термометр был изобретён итальянским учёным Галилео Галилеем (1564–1642). (Nhiệt kế đầu tiên do nhà bác học Ý Galileo Galilei phát minh.)\n2. Электрический ток был открыт итальянским анатомом и физиологом Луиджи Гальвани (1737–1798). (Dòng điện được nhà giải phẫu — sinh lý học Ý Luigi Galvani phát hiện.)\n3. Рентгеновские лучи были открыты немецким физиком Конрадом Рентгеном (1845–1923) в 1895 году. (Tia X được nhà vật lý Đức Konrad Röntgen phát hiện năm 1895.)\n4. Проект первого парашюта был сделан итальянским учёным, инженером и художником Леонардо да Винчи (1452–1519). (Bản thiết kế chiếc dù đầu tiên do nhà bác học, kỹ sư, hoạ sĩ Ý Leonardo da Vinci thực hiện.)\n5. Динамит был изобретён шведским инженером-химиком Альфредом Нобелем (1833–1896). (Thuốc nổ dynamite do kỹ sư hoá học Thuỵ Điển Alfred Nobel phát minh.)\n6. Шампанское было создано французским монахом по имени Дон Периньон. (Rượu champagne do tu sĩ Pháp tên Dom Pérignon tạo ra.)\n7. Первый в мире словарь был создан в Китае. (Cuốn từ điển đầu tiên trên thế giới ra đời ở Trung Quốc.)\n8. Очки были изобретены английским философом Роджером Бэконом (1214–1292). (Kính đeo mắt do triết gia Anh Roger Bacon phát minh.)\n9. Здание Большого театра в Москве было построено русским архитектором О.И. Бове в 1825 году. (Toà nhà Nhà hát Bolshoi ở Moskva do kiến trúc sư Nga O.I. Bove xây năm 1825.)\n10. Скульптура «Рабочий и колхозница» была создана известным русским скульптором Верой Мухиной. (Tượng «Công nhân và nữ nông trang viên» do nhà điêu khắc Nga nổi tiếng Vera Mukhina sáng tác.)\n11. Первое кругосветное путешествие было совершено в 1519 году португальским мореплавателем Фернандо Магелланом. (Chuyến đi vòng quanh thế giới đầu tiên do nhà hàng hải Bồ Đào Nha Fernão de Magalhães thực hiện năm 1519.)\n12. Америка была открыта итальянским мореплавателем Христофором Колумбом 12 октября 1492 года. (Châu Mỹ được nhà hàng hải Ý Christopher Columbus phát hiện ngày 12/10/1492.)\n13. Видеомагнитофон был изобретён в 1956 году. (Đầu máy video được phát minh năm 1956.)\n14. Телефон был изобретён американцем Александром Беллом (1847–1922) в 1876 году. (Điện thoại do người Mỹ Alexander Bell phát minh năm 1876.)\n15. Первая космическая ракета была создана в России конструктором Сергеем Павловичем Королёвым (1906–1966). (Tên lửa vũ trụ đầu tiên được chế tạo ở Nga bởi công trình sư Sergei Pavlovich Korolyov.)\n16. Первый полёт в космос был совершён российским космонавтом Юрием Гагариным в 1961 году. (Chuyến bay đầu tiên vào vũ trụ do phi hành gia Nga Yuri Gagarin thực hiện năm 1961.)\n17. Голубые джинсы впервые были сшиты американцем Леви Страуссом. (Quần jeans xanh lần đầu được người Mỹ Levi Strauss may.)\n18. Первое в мире метро было построено в 1863 году в Лондоне. (Tàu điện ngầm đầu tiên trên thế giới được xây năm 1863 ở London.)\n19. Бумага была изобретена в Китае во втором веке. (Giấy được phát minh ở Trung Quốc vào thế kỷ II.)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s030",
+   "type": "grammar",
+   "title": "Новая грамматика · II. Употребление глаголов с частицей -СЯ (Động từ với tiểu từ -СЯ)",
+   "num": null,
+   "blocks": [
+    {"t": "instruction", "text": "Посмотрите, в каких ситуациях употребляются эти глаголы. (Xem các động từ này dùng trong những tình huống nào.)"},
+    {"t": "table", "title": "5 nhóm động từ -СЯ", "head": ["Nhóm", "Ví dụ"], "rows": [
+     ["1. Пассивные конструкции с глаголами НСВ (см. стр. 7) — Câu bị động НСВ", "Студентами изучаются иностранные языки. (Ngoại ngữ được sinh viên học.)"],
+     ["2. Собственно-возвратные глаголы (-ся = себя) — Động từ phản thân thực thụ", "Молодой человек одевается. (Chàng trai mặc quần áo.)"],
+     ["3. Взаимно-возвратные глаголы — Động từ tương hỗ", "Друзья встретились и обнялись. (Hai người bạn gặp nhau và ôm nhau.)"],
+     ["4. Глаголы, обозначающие непроизвольное действие — Hành động tự xảy ra", "Был сильный ветер, и окно открылось. (Gió mạnh và cửa sổ tự mở.)"],
+     ["5. Глаголы, которые без -ся не употребляются — Động từ không dùng được nếu thiếu -ся", "Мой друг — очень весёлый человек. Он всегда улыбается. (Bạn tôi rất vui tính. Anh ấy luôn mỉm cười.)"]
+    ]}
+   ]
+  },
+  {
+   "id": "doroga3-01-s031",
+   "type": "grammar",
+   "title": "-СЯ · 1. Собственно-возвратные глаголы (-ся = себя)",
+   "num": null,
+   "blocks": [
+    {"t": "para", "text": "Девочка причёсывается. (Cô bé tự chải đầu.) Ребёнок умывается. (Đứa trẻ tự rửa mặt.) Ở đây -ся = себя: hành động hướng vào chính mình."},
+    {"t": "table", "title": "Сравните! (Hãy so sánh!)", "head": ["глагол + -СЯ (tự làm cho mình)", "глагол + КОГО? / ЧТО? (làm cho người khác)"], "rows": [
+     ["Девушка причёсывается. (Cô gái chải đầu.) — причёсываться (= причёсывать себя) / причесаться", "Мастер причёсывает девушку. (Thợ làm tóc chải đầu cho cô gái.) — причёсывать кого? (4) / причесать"],
+     ["Ребёнок одевается. (Đứa bé tự mặc quần áo.) — одеваться (= одевать себя) / одеться", "Мама одевает ребёнка. (Mẹ mặc quần áo cho con.) — одевать кого?/что? (4) / одеть (сына, дочь…)"]
+    ]}
+   ]
+  },
+  {
+   "id": "doroga3-01-s032",
+   "type": "exercise",
+   "title": "Задание 21 — Подписи к рисункам (động từ phản thân)",
+   "num": 21,
+   "blocks": [
+    {"t": "instruction", "text": "Посмотрите на рисунки, сделайте к ним подписи (выберите внизу нужный глагол). (Xem tranh và viết chú thích — chọn động từ phù hợp bên dưới.)"},
+    {"t": "para", "text": "Động từ để chọn: причёсываться / причёсывать кого? (4) — chải đầu / chải đầu cho ai; одеваться / одевать кого? (4) — mặc quần áo / mặc cho ai; раздеваться / раздевать кого? (4) — cởi quần áo / cởi cho ai; умываться / умывать кого? (4) — rửa mặt / rửa mặt cho ai; бриться / брить кого? (4) — cạo râu / cạo cho ai; мыться / мыть кого? что? (4) — tắm / tắm rửa cho ai."},
+    {"t": "note", "text": "Tranh trong sách: bà chải đầu cho cháu, mẹ rửa mặt cho con, người đàn ông tắm, con mèo tự liếm lông, cô gái tắm vòi sen, ông cụ soi gương cạo râu, bác sĩ rửa tay, gia đình mặc áo khoác ở phòng gửi đồ… Hãy đặt câu mô tả từng tranh."}
+   ]
+  },
+  {
+   "id": "doroga3-01-s033",
+   "type": "exercise",
+   "title": "Задание 22 — Утро человека (Buổi sáng của một người)",
+   "num": 22,
+   "blocks": [
+    {"t": "instruction", "text": "а) Опишите утро человека. Что он делает утром? (См. глаголы в упр. 21.) (Tả buổi sáng của một người. Anh ấy làm gì vào buổi sáng? — dùng các động từ ở bài 21.)"},
+    {"t": "instruction", "text": "б) Расскажите, что вы делаете утром. Спросите своего друга, что он делает утром. (Kể bạn làm gì buổi sáng. Hỏi bạn của bạn xem anh ấy làm gì buổi sáng.)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s034",
+   "type": "exercise",
+   "title": "Задание 23 — Диалоги (парикмахерская, одежда, сборы)",
+   "num": 23,
+   "blocks": [
+    {"t": "instruction", "text": "а) Прослушайте диалоги. Скажите, где они происходят. Каковы намерения говорящих, что хотят сделать эти люди? (Nghe các hội thoại. Chúng diễn ra ở đâu? Người nói có ý định gì?)"},
+    {"t": "note", "text": "стричься — постричься (cắt tóc — cho mình); стричь — постричь кого? (4) (cắt tóc cho ai)"},
+    {"t": "para", "text": "1)\n— Здравствуйте, что вы хотите? (Chào chị, chị muốn gì ạ?)\n— Я хотела бы постричься. (Tôi muốn cắt tóc.)\n— Как вас постричь? (Chị muốn cắt thế nào?)\n— Коротко, я не люблю длинные волосы. (Cắt ngắn, tôi không thích tóc dài.)\n— Хорошо. Я сделаю вам модную короткую причёску. (Vâng. Tôi sẽ làm cho chị kiểu tóc ngắn hợp mốt.)"},
+    {"t": "para", "text": "• Вы пришли в парикмахерскую. Что вы скажете мастеру? (Bạn đến hiệu làm tóc. Bạn sẽ nói gì với thợ?)"},
+    {"t": "para", "text": "2)\n— Ты не знаешь, сегодня тепло? (Cậu có biết hôm nay trời ấm không?)\n— Нет, сегодня на улице очень холодно. Тебе нужно тепло одеться. (Không, hôm nay ngoài trời rất lạnh. Cậu cần mặc ấm.)\n— Хорошо, у меня есть тёплая куртка. Я пойду в этой куртке. (Được, mình có áo khoác ấm. Mình sẽ mặc áo đó.)"},
+    {"t": "para", "text": "• Узнайте о погоде сегодня и решите, как вы оденетесь. (Tìm hiểu thời tiết hôm nay và quyết định bạn sẽ mặc gì.)"},
+    {"t": "para", "text": "3)\n— Мы опаздываем на поезд! Ты готова? (Chúng ta muộn tàu rồi! Em xong chưa?)\n— Почти, я умываюсь и причёсываюсь. (Sắp xong, em đang rửa mặt và chải đầu.)\n— У нас нет времени, ты скоро? (Không còn thời gian đâu, em nhanh không?)\n— Да, я сейчас быстро оденусь. (Vâng, em mặc đồ nhanh đây.)\n— Ну, сколько можно тебя ждать?! (Trời, phải đợi em đến bao giờ?!)\n— Я уже готова: умылась, причесалась, оделась… Сейчас выхожу. (Em xong rồi: đã rửa mặt, chải đầu, mặc đồ… Ra ngay đây.)"},
+    {"t": "para", "text": "• Вы опаздываете на урок, поторопите своего друга. (Bạn sắp muộn học, hãy giục bạn mình.)\n• Вы ещё не готовы, попросите друга подождать. Скажите, что вам надо сделать. (Bạn chưa xong, hãy xin bạn đợi và nói bạn còn phải làm gì.)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s035",
+   "type": "grammar",
+   "title": "-СЯ · 2. Взаимно-возвратные глаголы (Động từ tương hỗ)",
+   "num": null,
+   "blocks": [
+    {"t": "para", "text": "Каждое утро друзья встречаются и здороваются. (Sáng nào các bạn cũng gặp nhau và chào nhau.) Hành động qua lại giữa hai (nhiều) người: ⇄."},
+    {"t": "table", "title": "Сравните!", "head": ["глагол + -СЯ (lẫn nhau)", "глагол + КОГО? / ЧТО? (một chiều)"], "rows": [
+     ["Молодые люди целуются. (Đôi bạn trẻ hôn nhau.) — целоваться ⇄ с кем? (5) / поцеловаться", "Мама целует ребёнка. (Mẹ hôn con.) — целовать кого?/что? (4) / поцеловать"],
+     ["На вокзале люди встречаются друг с другом. (Ở nhà ga mọi người gặp nhau.) — встречаться с кем? (5) / встретиться", "Иван встречает друга на вокзале. (Ivan đón bạn ở nhà ga.) — встречать кого?/что? (4) / встретить"]
+    ]}
+   ]
+  },
+  {
+   "id": "doroga3-01-s036",
+   "type": "exercise",
+   "title": "Задание 24 — Подписи к рисункам (động từ tương hỗ)",
+   "num": 24,
+   "blocks": [
+    {"t": "instruction", "text": "Посмотрите на рисунки, сделайте к ним подписи (выберите нужный глагол справа). (Xem tranh, viết chú thích — chọn động từ phù hợp bên phải.)"},
+    {"t": "para", "text": "Động từ để chọn:\n• ссориться с кем? (5) — поссориться с кем? (5) (cãi nhau với ai); ссорить кого? (4) с кем? (5) — поссорить (làm ai cãi nhau với ai)\n• мириться с кем? (5) — помириться с кем? (5) (làm lành với ai); мирить кого? (4) с кем? (5) — помирить (hoà giải ai với ai)\n• обниматься с кем? (5) — обняться с кем? (5) (ôm nhau); обнимать кого? (4) — обнять кого? (4) (ôm ai)\n• встречаться с кем? (5) — встретиться с кем? (5) (gặp nhau); встречать кого?/что? (4) — встретить (đón/gặp ai)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s037",
+   "type": "exercise",
+   "title": "Задание 25 — Восстановите предложения",
+   "num": 25,
+   "blocks": [
+    {"t": "instruction", "text": "Восстановите предложения: выберите глагол справа, поставьте его в нужную форму. (Khôi phục các câu: chọn động từ bên phải và chia đúng dạng.)"},
+    {"t": "para", "text": "1. Это известный художник. Я … с ним на выставке. Нас … мой друг, который его хорошо знает. (познакомиться / познакомить) (Đây là hoạ sĩ nổi tiếng. Tôi đã làm quen với ông ấy ở triển lãm. Bạn tôi — người quen ông ấy — đã giới thiệu chúng tôi.)\n2. Вчера моя бабушка приехала к нам в гости. Я … её на вокзале. Дома она … со своими детьми и внуками. (встретить / встретиться) (Hôm qua bà tôi đến chơi. Tôi đón bà ở ga. Ở nhà bà gặp gỡ con cháu.)\n3. Мы часто ссоримся с моим другом и не хотим … . Наши родители всегда … нас. (мириться / мирить) (Tôi và bạn hay cãi nhau và không muốn làm lành. Bố mẹ luôn hoà giải chúng tôi.)\n4. Когда мать и дочь …, они всегда … . (встречаться / встретиться / целовать / целоваться) (Khi hai mẹ con gặp nhau, họ luôn hôn nhau.)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s038",
+   "type": "exercise",
+   "title": "Задание 26 — Диалоги (ссора, переписка)",
+   "num": 26,
+   "blocks": [
+    {"t": "instruction", "text": "Прослушайте диалоги. Расскажите, что вы узнали из них. Составьте аналогичные диалоги (используйте выделенные глаголы). (Nghe các hội thoại, kể lại nội dung. Lập hội thoại tương tự với các động từ in đậm.)"},
+    {"t": "para", "text": "1)\n— Что случилось, почему ты такая грустная? (Có chuyện gì mà cậu buồn thế?)\n— Утром я поссорилась со своим другом. (Sáng nay mình cãi nhau với bạn trai.)\n— Ничего, я думаю, вечером вы уже помиритесь. Вы не можете целый день не разговаривать друг с другом. (Không sao, mình nghĩ tối nay hai người sẽ làm lành thôi. Hai người không thể cả ngày không nói chuyện với nhau được.)"},
+    {"t": "para", "text": "• У вашего друга (подруги) плохое настроение. Узнайте, что случилось. (Bạn của bạn đang buồn. Hãy hỏi xem có chuyện gì.)"},
+    {"t": "para", "text": "2)\n— Кому ты пишешь? (Cậu viết thư cho ai thế?)\n— Своему другу. Мы познакомились летом. (Cho bạn mình. Bọn mình quen nhau mùa hè.)\n— Вы встречаетесь? (Hai người có gặp nhau không?)\n— Нет, он живёт в другом городе, мы переписываемся по Интернету. (Không, anh ấy sống ở thành phố khác, bọn mình thư từ qua Internet.)"},
+    {"t": "note", "text": "переписываться с кем? (5) НСВ — thư từ qua lại với ai"},
+    {"t": "para", "text": "• Узнайте у друга, с кем он переписывается или кому он звонит. (Hỏi bạn xem anh ấy thư từ với ai hoặc gọi điện cho ai.)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s039",
+   "type": "grammar",
+   "title": "-СЯ · 3. Глаголы, обозначающие непроизвольное действие (Hành động tự xảy ra)",
+   "num": null,
+   "blocks": [
+    {"t": "para", "text": "Осторожно, двери закрываются! (Chú ý, cửa đang đóng!) Погода меняется. (Thời tiết đang thay đổi.) Hành động xảy ra như tự nó, không có chủ thể cố ý."},
+    {"t": "table", "title": "Сравните!", "head": ["глагол + -СЯ (tự xảy ra)", "глагол + КОГО? / ЧТО? (có chủ thể)"], "rows": [
+     ["Был сильный ветер, и окно открылось. (Gió mạnh và cửa sổ bật mở.) — открываться / открыться", "Не могу открыть дверь, у меня нет ключа. (Tôi không mở được cửa, không có chìa khoá.) — открывать что? (4) / открыть"]
+    ]}
+   ]
+  },
+  {
+   "id": "doroga3-01-s040",
+   "type": "exercise",
+   "title": "Задание 27 — Восстановите предложения",
+   "num": 27,
+   "blocks": [
+    {"t": "instruction", "text": "Восстановите предложения, выберите глагол справа, поставьте его в нужную форму. (Khôi phục các câu, chọn động từ bên phải và chia đúng dạng.)"},
+    {"t": "para", "text": "1. Студенты … книги и начали писать диктант. (закрыть / закрыться) (Sinh viên gập sách lại và bắt đầu viết chính tả.)\n2. Я встретил своего друга и не узнал его. Он очень … . (изменить / измениться) (Tôi gặp bạn mà không nhận ra. Anh ấy thay đổi nhiều quá.)\n3. Осенью погода часто … : утром холодно, а днём тепло. (менять / меняться) (Mùa thu thời tiết hay thay đổi: sáng lạnh, trưa ấm.)\n4. В этой комнате очень жарко, потому что окно не … . (открывать / открываться) (Phòng này rất nóng vì cửa sổ không mở được.)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s041",
+   "type": "grammar",
+   "title": "-СЯ · 4. Глаголы, которые без -ся не употребляются",
+   "num": null,
+   "blocks": [
+    {"t": "para", "text": "Мы смотрели очень весёлый фильм и смеялись. (Chúng tôi xem một bộ phim rất vui và cười suốt.) Một số động từ luôn có -ся: смеяться (cười), улыбаться (mỉm cười), бояться (sợ), заниматься (học/làm), ложиться (nằm xuống), бороться (đấu tranh), прощаться (chào tạm biệt), нравиться (thích)…"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s042",
+   "type": "exercise",
+   "title": "Задание 28 — Подписи к рисункам (động từ luôn có -ся)",
+   "num": 28,
+   "blocks": [
+    {"t": "instruction", "text": "Посмотрите на рисунки, сделайте к ним подписи (выберите нужный глагол). (Xem tranh, viết chú thích — chọn động từ phù hợp.)"},
+    {"t": "para", "text": "Động từ để chọn: заниматься чем? (5) — học, luyện tập; ложиться + (спать) — đi ngủ; улыбаться кому? (3) — mỉm cười với ai; бороться с кем? (5) — đấu vật/đấu tranh với ai; прощаться с кем? (5) — chào tạm biệt ai."}
+   ]
+  },
+  {
+   "id": "doroga3-01-s043",
+   "type": "exercise",
+   "title": "Задание 29 — Диалоги (бояться, ложиться спать, видеться)",
+   "num": 29,
+   "blocks": [
+    {"t": "instruction", "text": "Прослушайте диалоги. Скажите, что вы узнали из них. Каковы намерения говорящих, что хотят сделать эти люди? Составьте аналогичные диалоги (используйте выделенные глаголы). (Nghe các hội thoại. Bạn biết được gì? Người nói định làm gì? Lập hội thoại tương tự.)"},
+    {"t": "note", "text": "бояться кого? чего? (2) / что делать? — sợ ai/cái gì, sợ làm gì"},
+    {"t": "para", "text": "1)\n— Завтра я еду в Минск. (Mai mình đi Minsk.)\n— Ты полетишь на самолёте? (Cậu bay máy bay à?)\n— Нет, я поеду на поезде. Я боюсь летать, да и билеты стоят дорого. (Không, mình đi tàu. Mình sợ bay, vả lại vé cũng đắt.)"},
+    {"t": "para", "text": "• Спросите друга, как он собирается поехать на родину. (Hỏi bạn xem anh ấy định về quê bằng gì.)"},
+    {"t": "para", "text": "2)\n— Когда тебе можно позвонить? (Khi nào gọi điện cho cậu được?)\n— Звони вечером, но не поздно, потому что в десять я ложусь спать. (Gọi buổi tối nhé, nhưng đừng muộn, vì 10 giờ mình đi ngủ.)"},
+    {"t": "para", "text": "• Узнайте у друга, когда ему можно позвонить. (Hỏi bạn xem khi nào có thể gọi điện cho anh ấy.)"},
+    {"t": "para", "text": "3)\n— Сколько лет, сколько зим! (Bao nhiêu năm rồi mới gặp!)\n— Да, давно мы не виделись. (Ừ, lâu lắm rồi chúng ta không gặp nhau.)\n— А я тебя сразу узнал, ты совсем не изменился. (Mình nhận ra cậu ngay, cậu chẳng thay đổi gì cả.)"},
+    {"t": "para", "text": "• Что вы скажете, если вы встретили друга, которого давно не видели? (Bạn sẽ nói gì khi gặp lại người bạn lâu ngày không gặp?)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s044",
+   "type": "exercise",
+   "title": "Задание 30 — Пословицы и поговорки (Tục ngữ)",
+   "num": 30,
+   "blocks": [
+    {"t": "instruction", "text": "Прочитайте русские народные пословицы и поговорки. Как вы понимаете их смысл? (Đọc các câu tục ngữ, thành ngữ dân gian Nga. Bạn hiểu ý nghĩa của chúng thế nào?)"},
+    {"t": "para", "text": "• Никогда не ошибается тот, кто ничего не делает. (Người không bao giờ sai là người không làm gì cả.)\n• Любишь кататься, люби и саночки возить. (Thích trượt xe thì cũng phải thích kéo xe trượt — muốn hưởng thì phải chịu khó.)\n• Скоро сказка сказывается, да не скоро дело делается. (Chuyện cổ tích kể thì nhanh, việc làm thì chẳng chóng — nói dễ làm khó.)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s045",
+   "type": "exercise",
+   "title": "Задание 31 — Новые слова и выражения (trước khi đọc «Открытие»)",
+   "num": 31,
+   "blocks": [
+    {"t": "instruction", "text": "В тексте, который вы будете читать, вы встретите новые слова и выражения. Познакомьтесь с ними. а) Прочитайте примеры и объяснения. Постарайтесь понять значение выделенных слов без словаря. (Trong bài đọc sắp tới có từ mới. a) Đọc ví dụ và lời giải thích, cố hiểu nghĩa các từ in đậm không cần từ điển.)"},
+    {"t": "para", "text": "1. вскакивать — вскочить = очень быстро встать (bật dậy rất nhanh): «Услышал звонок и вскочил…», «Вскочил и побежал…» (Nghe chuông và bật dậy… Bật dậy và chạy đi…)\n2. хватать — схватить = очень быстро взять что? (4) (chộp lấy, vớ nhanh lấy): ручку, книгу, карандаш. «Он быстро схватил ручку и записал адрес.» (Anh ấy vớ nhanh cây bút và ghi địa chỉ.)\n3. делать — сделать машинально = делать, как машина, не думая об этом (làm một cách máy móc, vô thức): «Он думал о прошлом и машинально рисовал что-то на бумаге.» (Anh ấy nghĩ về quá khứ và vô thức vẽ gì đó trên giấy.)\n4. задуматься: «Он прочитал статью и задумался.» = Он прочитал статью и стал думать. (Anh ấy đọc bài báo rồi trầm ngâm suy nghĩ.)\n5. спать (НСВ) / засыпать (НСВ) — заснуть (СВ) (ngủ / thiếp ngủ — ngủ thiếp đi): «Он лёг в постель и сразу заснул.» (Anh ấy lên giường và ngủ thiếp đi ngay.)"},
+    {"t": "instruction", "text": "б) Скажите, как вы понимаете эти слова, словосочетания и предложения. В каких ситуациях вы можете употребить их? (Cho biết bạn hiểu các từ, cụm từ và câu sau thế nào. Có thể dùng chúng trong tình huống nào?)"},
+    {"t": "para", "text": "1. от нечего делать курил (смотрел в окно, рисовал, решил почитать…) — vì rảnh rỗi không có việc gì làm nên hút thuốc (nhìn ra cửa sổ, vẽ, định đọc sách…)\n2. Что это за книга (новость, проблема…)? = Какая это книга (новость, проблема…)? — Đây là sách (tin tức, vấn đề) gì vậy?\n3. хочешь не хочешь, надо идти (работать, заниматься, служить в армии…) — muốn hay không thì vẫn phải đi (làm việc, học, đi nghĩa vụ…)\n4. открыть талант (способности) — phát hiện ra tài năng (năng khiếu)\n5. умереть от ужаса (от смеха, от любви…) — chết khiếp (chết cười, chết vì yêu…)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s046",
+   "type": "exercise",
+   "title": "Задание 32 — Текст «Открытие» (по рассказу А.П. Чехова)",
+   "num": 32,
+   "blocks": [
+    {"t": "instruction", "text": "Прочитайте текст по рассказу А.П. Чехова. Скажите, почему он так называется? (Đọc bài phỏng theo truyện ngắn của A.P. Chekhov. Vì sao truyện có tên như vậy?)"},
+    {"t": "subhead", "text": "Открытие — Khám phá"},
+    {"t": "para", "text": "Инженер Бахромкин, важный господин, сидел у себя дома за письменным столом и от нечего делать думал о грустном. Сегодня вечером на балу у знакомых он случайно встретился с дамой, в которую лет 20–25 тому назад был влюблён. Раньше это была замечательная красавица, в которую легко было влюбиться. Особенно хорошо Бахромкин помнил её большие глубокие голубые глаза и длинные золотые волосы. Красавица была гордой и неприступной, смотрела строго и редко улыбалась. Но когда она улыбалась, все мужчины обращали на неё внимание. Теперь же это была худая болтливая пожилая женщина с кислыми глазами и жёлтыми зубами…\n(Kỹ sư Bakhromkin, một quý ông bệ vệ, ngồi ở nhà bên bàn viết và vì rảnh rỗi nên nghĩ về chuyện buồn. Tối nay tại vũ hội nhà người quen, ông tình cờ gặp lại người phụ nữ mà chừng 20–25 năm trước ông từng yêu. Ngày xưa đó là một giai nhân tuyệt sắc, dễ khiến người ta phải lòng. Bakhromkin nhớ nhất đôi mắt xanh to thăm thẳm và mái tóc vàng óng dài của nàng. Người đẹp kiêu hãnh và khó gần, ánh nhìn nghiêm nghị và hiếm khi mỉm cười. Nhưng khi nàng cười, mọi đàn ông đều phải chú ý. Còn bây giờ đó là một bà già gầy gò, lắm lời, ánh mắt cau có và hàm răng vàng ố…)"},
+    {"t": "para", "text": "— Ужасно! — думал Бахромкин и машинально что-то рисовал карандашом на листе бумаги, который лежал перед ним на столе. — Только природа может сделать такое зло человеку. Если бы красавица знала, что с ней будет, в кого она превратится через 20 лет, она умерла бы от ужаса…\n(«Khủng khiếp! — Bakhromkin nghĩ, tay vô thức vẽ gì đó bằng bút chì lên tờ giấy trước mặt. — Chỉ thiên nhiên mới có thể gây điều ác như thế cho con người. Nếu người đẹp biết trước điều gì chờ mình, mình sẽ biến thành ai sau 20 năm, hẳn nàng đã chết khiếp…»)"},
+    {"t": "para", "text": "Бахромкин долго думал, потом посмотрел на лист бумаги и вскочил.\n— Господи! Это что за новости? Я рисовать умею?!\nНа листе бумаги, на котором он машинально что-то рисовал карандашом, появилась прелестная женская головка. Это была та самая красавица, в которую он был раньше влюблён. Конечно, рисунок был не очень хорошим, но портрет получился похожим.\n(Bakhromkin nghĩ hồi lâu, rồi nhìn tờ giấy và bật dậy. «Trời ơi! Chuyện gì thế này? Mình biết vẽ ư?!» Trên tờ giấy ông vô thức vẽ bằng bút chì hiện ra một gương mặt phụ nữ xinh xắn. Đó chính là người đẹp ông từng yêu. Tất nhiên bức vẽ không thật đẹp, nhưng chân dung rất giống.)"},
+    {"t": "para", "text": "— Что за новости? — продолжал удивляться Бахромкин. — Я умею рисовать! Пятьдесят два года жил на свете и не думал, что у меня есть таланты, и вдруг, когда жизнь идёт к старости, — благодарю, не ожидал, — талант открылся! Не может быть!\n(«Chuyện gì vậy? — Bakhromkin tiếp tục kinh ngạc. — Mình biết vẽ! Sống trên đời năm mươi hai năm chưa từng nghĩ mình có tài, thế mà đột nhiên, khi cuộc đời đã về già — xin cảm ơn, thật không ngờ — tài năng bỗng lộ ra! Không thể nào!»)"},
+    {"t": "para", "text": "Бахромкин, который не верил в чудеса, схватил карандаш и нарисовал голову старухи около красивой головки… Этот рисунок получился у него так же хорошо, как и первый.\n— И это неплохо?! — удивился Бахромкин. — Значит, я художник! Значит, у меня есть талант! Как же я не знал этого раньше? Вот чудо!\n(Bakhromkin vốn không tin vào phép màu, chộp lấy bút chì và vẽ đầu một bà lão cạnh gương mặt xinh đẹp… Bức vẽ này cũng đẹp chẳng kém bức đầu. «Cái này cũng không tệ?! — Bakhromkin ngạc nhiên. — Vậy là mình là hoạ sĩ! Vậy là mình có tài! Sao trước đây mình không biết nhỉ? Đúng là phép màu!»)"},
+    {"t": "para", "text": "Бахромкин очень удивился, что у него есть способности к рисованию. Он удивился бы гораздо меньше, если бы нашёл у себя в старом пальто деньги или стал бы большим начальником. Целый час он сидел за столом и рисовал головы, деревья, пожар, лошадей…\n— Очень хорошо! Прекрасно! — восхищался он. — Если бы я немного поучился рисовать, совсем было бы отлично.\n(Bakhromkin rất ngạc nhiên vì mình có năng khiếu vẽ. Ông sẽ ít ngạc nhiên hơn nhiều nếu tìm thấy tiền trong chiếc áo măng tô cũ hay được thăng làm sếp lớn. Suốt cả giờ ông ngồi bên bàn vẽ những gương mặt, cây cối, đám cháy, ngựa… «Rất tốt! Tuyệt vời! — ông trầm trồ. — Giá mình được học vẽ chút ít thì hẳn là hoàn hảo.»)"},
+    {"t": "para", "text": "Слуга, который принёс ужин в кабинет Бахромкину, помешал ему рисовать дальше и восхищаться своими рисунками. Бахромкин поел и задумался… Он вспомнил, что ни разу в жизни не подумал, что у него есть какой-нибудь талант. В молодости, правда, он много читал, играл в домашнем театре, пел, рисовал декорации. Сейчас он продолжал много читать, любил театр, знал наизусть хорошие стихи, удачно шутил и хорошо говорил.\n(Người hầu mang bữa tối vào phòng làm việc khiến Bakhromkin phải dừng vẽ và thôi tự thán phục tranh của mình. Ông ăn xong rồi trầm ngâm… Ông nhớ ra cả đời chưa từng nghĩ mình có tài năng gì. Hồi trẻ, quả thật, ông đọc nhiều, diễn kịch tại gia, hát, vẽ phông cảnh. Bây giờ ông vẫn đọc nhiều, yêu sân khấu, thuộc lòng những bài thơ hay, hài hước có duyên và ăn nói giỏi.)"},
+    {"t": "para", "text": "— А что, — подумал Бахромкин, — может быть, я ещё умею стихи и романы писать? Если бы я открыл свой талант в молодости, я стал бы художником или поэтом? А?\nБахромкин вспомнил случай из детства. Однажды, когда он гулял с матерью, на улице они встретили какого-то бедного, плохо одетого человека. Мать поцеловала ему руку.\n— Мама, зачем ты это сделала? — удивился мальчик.\n— Это очень известный поэт! — ответила ему мать.\nТогда Бахромкин понял, что многие люди с большим уважением относятся к поэтам, художникам, композиторам.\n(«Biết đâu, — Bakhromkin nghĩ, — có khi mình còn biết làm thơ, viết tiểu thuyết? Nếu phát hiện tài năng từ thời trẻ, mình đã thành hoạ sĩ hay nhà thơ rồi chăng?» Bakhromkin nhớ lại một chuyện thời thơ ấu. Một lần đi dạo cùng mẹ, trên phố họ gặp một người nghèo, ăn mặc tồi tàn. Mẹ ông đã hôn tay người đó. «Mẹ ơi, sao mẹ làm thế?» — cậu bé ngạc nhiên. «Đó là nhà thơ rất nổi tiếng!» — mẹ trả lời. Khi ấy Bakhromkin hiểu rằng nhiều người rất kính trọng các nhà thơ, hoạ sĩ, nhạc sĩ.)"},
+    {"t": "para", "text": "И теперь Бахромкин стал думать о другой жизни — жизни художника или поэта, которую нельзя сравнить с жизнью простых людей.\n— Интересная у них жизнь, небудничная, необычная… Слава, известность. Поэт или художник спит или сидит в ресторане, а в это время люди читают его стихи или смотрят картины. И все знают имена этих поэтов или художников, не знать их невозможно. Да, необыкновенная жизнь. А что, если бы я сейчас был художником? — мечтал Бахромкин. — Как бы я себя чувствовал?\n(Và giờ Bakhromkin bắt đầu nghĩ về một cuộc đời khác — cuộc đời của hoạ sĩ hay nhà thơ, không thể so với cuộc sống của người thường. «Đời họ thú vị, không tẻ nhạt, khác thường… Vinh quang, danh tiếng. Nhà thơ hay hoạ sĩ ngủ hoặc ngồi trong nhà hàng, còn lúc đó mọi người đọc thơ anh ta, ngắm tranh anh ta. Ai cũng biết tên các nhà thơ, hoạ sĩ ấy, không biết là không thể. Phải, một cuộc đời phi thường. Thế nếu bây giờ mình là hoạ sĩ thì sao? — Bakhromkin mơ màng. — Mình sẽ cảm thấy thế nào nhỉ?»)"},
+    {"t": "para", "text": "Бахромкин мысленно нарисовал себе картину: вот он, художник или поэт, тёмной ночью возвращается домой. У художников и поэтов не бывает лошадей, поэтому, хочешь не хочешь, надо идти пешком. У него нет квартиры, он живёт в дешёвой гостинице. Он приходит к себе в гостиницу, усталый и голодный. Ему очень хочется есть, но ужина нет. Гостиница плохая, комната маленькая и грязная, постель холодная и жёсткая. В другую гостиницу он не может переехать, потому что нет денег. В конце концов он засыпает в холодной неудобной постели и знает, что у него нет лошадей, нет своего тёплого дома, в среднем ящике стола нет дорогих сигар, а в нижнем ящике — нет чековой книжки.\n(Bakhromkin hình dung trong đầu một bức tranh: đây, ông — hoạ sĩ hay nhà thơ — đêm tối trở về nhà. Hoạ sĩ và nhà thơ làm gì có ngựa, nên muốn hay không cũng phải đi bộ. Ông không có căn hộ, sống trong khách sạn rẻ tiền. Ông về đến khách sạn, mệt và đói. Rất muốn ăn nhưng không có bữa tối. Khách sạn tồi, phòng nhỏ và bẩn, giường lạnh và cứng. Chuyển sang khách sạn khác thì không thể vì không có tiền. Cuối cùng ông thiếp đi trên chiếc giường lạnh lẽo khó chịu và biết rằng mình không có ngựa, không có ngôi nhà ấm áp của riêng mình, ngăn giữa bàn không có xì gà đắt tiền, còn ngăn dưới — không có sổ séc.)"},
+    {"t": "para", "text": "Картина, которую нарисовал Бахромкин, была ужасной. Бахромкин лёг в свою тёплую мягкую постель и стал засыпать…\n— Хорошо, что я в молодости не открыл в себе никакого таланта! У меня сейчас есть всё: хорошая работа, дом, слуги, деньги… — подумал он и заснул.\n(Bức tranh mà Bakhromkin tưởng tượng ra thật khủng khiếp. Bakhromkin nằm xuống chiếc giường êm ấm của mình và bắt đầu thiếp ngủ… «May mà hồi trẻ mình không phát hiện ra tài năng nào trong mình! Bây giờ mình có tất cả: công việc tốt, nhà cửa, người hầu, tiền bạc…» — ông nghĩ rồi ngủ thiếp đi.)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s047",
+   "type": "exercise",
+   "title": "Задание 33 — Соответствуют ли предложения тексту?",
+   "num": 33,
+   "blocks": [
+    {"t": "instruction", "text": "Прочитайте предложения и скажите, соответствуют ли они тексту. Аргументируйте свой ответ. (Đọc các câu và cho biết chúng có đúng với bài đọc không. Lập luận cho câu trả lời.)"},
+    {"t": "para", "text": "1. Бахромкин увидел свою старую знакомую. Она совсем не изменилась. (Bakhromkin gặp người quen cũ. Bà ấy hoàn toàn không thay đổi.)\n2. Бахромкин подумал, что мог стать хорошим художником, потому что неожиданно нарисовал два портрета. (Bakhromkin nghĩ mình có thể thành hoạ sĩ giỏi vì bất ngờ vẽ được hai bức chân dung.)\n3. Бахромкин думал, что у художников и поэтов необычная, интересная жизнь. (Bakhromkin nghĩ hoạ sĩ và nhà thơ có cuộc sống khác thường, thú vị.)\n4. Бахромкину было очень жаль, что в молодости он не открыл в себе никакого таланта. (Bakhromkin rất tiếc vì thời trẻ không phát hiện ra tài năng nào của mình.)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s048",
+   "type": "exercise",
+   "title": "Задание 34 — Ответьте на вопросы. Перескажите фрагменты текста",
+   "num": 34,
+   "blocks": [
+    {"t": "instruction", "text": "Ответьте на вопросы. Перескажите фрагменты текста. (Trả lời câu hỏi. Kể lại các đoạn của bài đọc.)"},
+    {"t": "para", "text": "1. Что помогло инженеру Бахромкину открыть свои способности к рисованию? (Điều gì giúp kỹ sư Bakhromkin phát hiện năng khiếu vẽ của mình?)\n2. Какой казалась Бахромкину жизнь художника? Какие плюсы и минусы он видел в этой жизни? (Cuộc đời hoạ sĩ hiện ra với Bakhromkin thế nào? Ông thấy những mặt hay và dở nào?)\n3. Как вы можете описать материальное положение и жизнь Бахромкина? К каким выводам он пришёл и почему? (Bạn mô tả hoàn cảnh vật chất và cuộc sống của Bakhromkin thế nào? Ông đi đến kết luận gì và vì sao?)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s049",
+   "type": "exercise",
+   "title": "Задание 35 — Диалог с Бахромкиным. Письмо другу",
+   "num": 35,
+   "blocks": [
+    {"t": "instruction", "text": "а) Представьте себе, что вы разговариваете с Бахромкиным и он начал рассказывать вам эту историю: «— Вечером я был у знакомых и встретил там женщину…» Какие вопросы вы зададите Бахромкину, чтобы он рассказал всю эту историю до конца? Составьте диалог с ним. (Hình dung bạn đang trò chuyện với Bakhromkin và ông bắt đầu kể: «Tối nọ tôi đến nhà người quen và gặp một phụ nữ…» Bạn sẽ hỏi gì để ông kể hết câu chuyện? Lập hội thoại.)"},
+    {"t": "instruction", "text": "б) Напишите другу письмо и коротко изложите содержание этого рассказа. Начните так: (Viết thư cho bạn, tóm tắt nội dung truyện. Bắt đầu như sau:)"},
+    {"t": "example", "text": "Дорогой друг! Ты знаешь, что я люблю читать рассказы Чехова. Мне понравился рассказ, который я прочитал неделю назад. В этом рассказе один инженер неожиданно открыл у себя способности к рисованию…\n(Bạn thân mến! Cậu biết là mình thích đọc truyện ngắn Chekhov. Mình rất thích truyện mình đọc tuần trước. Trong truyện đó, một kỹ sư bất ngờ phát hiện mình có năng khiếu vẽ…)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s050",
+   "type": "exercise",
+   "title": "Задание 36 — Словосочетания со словами одного корня (Từ cùng gốc)",
+   "num": 36,
+   "blocks": [
+    {"t": "instruction", "text": "Составьте возможные словосочетания со словами одного корня. Запишите предложение с одним из словосочетаний. (Lập các cụm từ với những từ cùng gốc. Viết một câu với một trong các cụm từ.)"},
+    {"t": "para", "text": "1. грустить (ст/щ) о ком? о чём? (6): о матери, о доме, о том, что… (buồn nhớ về ai/điều gì) — грустный → грустный человек (người buồn bã); грустно → грустно вспоминать (buồn khi nhớ lại); грусть → смотрел с грустью (nhìn với nỗi buồn). «Он грустил о том, что лето кончилось.» (Anh ấy buồn vì mùa hè đã hết.) «Мне грустно… потому что весело тебе» (М.Ю. Лермонтов). (Tôi buồn… vì em đang vui.)"},
+    {"t": "para", "text": "2. восхищаться — восхититься кем? чем? (5): другом, музыкой… (thán phục ai/cái gì) — восхитительный → восхитительный вечер (buổi tối tuyệt diệu); восхищение → говорил с восхищением (nói với sự thán phục). «Люди всегда восхищаются произведениями искусства.» (Người ta luôn ngưỡng mộ các tác phẩm nghệ thuật.)"},
+    {"t": "para", "text": "3. удивляться — удивиться чему? (3): неожиданному письму… (ngạc nhiên trước điều gì) — удивление → слушал с удивлением (nghe với vẻ ngạc nhiên); удивительный → удивительное открытие (khám phá kỳ diệu). «Люди всегда удивляются красоте природы.» (Người ta luôn ngỡ ngàng trước vẻ đẹp thiên nhiên.)"},
+    {"t": "para", "text": "4. сравнивать — сравнить что? (4) с чем? (5): оригинал с копией (so sánh bản gốc với bản sao) — сравнение чего? (2) с чем? (5) → сравнение оригинала с копией; сравнительный → сравнительный анализ (phân tích so sánh). «Сравните свой характер с характером вашего друга.» (Hãy so sánh tính cách bạn với tính cách của bạn mình.) «Сравните свой родной язык с русским языком.» (So sánh tiếng mẹ đẻ của bạn với tiếng Nga.)"},
+    {"t": "para", "text": "5. превращаться — превратиться во что? в кого? (4) (biến thành) — что? (1) превращается во что? (4); превращение чего? (2) во что? (4): «Вода превращается в лёд.» (Nước biến thành băng.) «превращение воды в лёд» (sự biến nước thành băng). «Из маленького мальчика он превратился в красивого, стройного молодого человека.» (Từ cậu bé con, anh ấy đã trở thành một chàng trai đẹp, cân đối.)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s051",
+   "type": "exercise",
+   "title": "Задание 37 — Отглагольные существительные (Danh từ phái sinh từ động từ)",
+   "num": 37,
+   "blocks": [
+    {"t": "instruction", "text": "Образуйте отглагольные существительные и составьте с ними словосочетания. (Tạo danh từ từ động từ và lập cụm từ với chúng.)"},
+    {"t": "model", "text": "Образец: 1. изучить что? (4) природу → изучение чего? (2) природы (nghiên cứu thiên nhiên → việc nghiên cứu thiên nhiên)"},
+    {"t": "para", "text": "2. объяснить… (giải thích → объяснение)\n3. обсудить… (thảo luận → обсуждение)\n4. сохранить… (giữ gìn → сохранение)\n5. решить… (giải quyết → решение)\n6. воспитать… (nuôi dạy → воспитание)\n7. исследовать… (nghiên cứu → исследование)\n8. сравнить… (so sánh → сравнение)\n9. основать… (sáng lập → основание)\n10. приготовить… (chuẩn bị, nấu → приготовление)\n11. исполнить… (trình diễn, thực hiện → исполнение)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s052",
+   "type": "exercise",
+   "title": "Задание 38 — Прямое и переносное значение (Nghĩa đen và nghĩa bóng)",
+   "num": 38,
+   "blocks": [
+    {"t": "instruction", "text": "Прочитайте словосочетания, сравните их значения в прямом и переносном смысле. (Đọc các cụm từ, so sánh nghĩa đen và nghĩa bóng.)"},
+    {"t": "model", "text": "Образец: золотое кольцо — кольцо из золота (nhẫn vàng — nhẫn làm bằng vàng); золотые часы — часы из золота (đồng hồ vàng). НО! золотой характер — очень хороший характер (tính vàng — tính rất tốt); золотое сердце — об очень добром, отзывчивом человеке (trái tim vàng — người rất tốt bụng); золотая голова — об очень умном человеке (cái đầu vàng — người rất thông minh)."},
+    {"t": "para", "text": "1. кислый лимон, кислая капуста, кислое молоко, кислые яблоки (chanh chua, bắp cải muối chua, sữa chua, táo chua) — НО! кислая улыбка (nụ cười gượng gạo, nhăn nhó), кислое лицо (bộ mặt chua chát, cau có).\n2. глубокая река, глубокое озеро (sông sâu, hồ sâu) — НО! глубокие глаза (đôi mắt sâu thẳm), глубокий ум (trí tuệ sâu sắc), глубокие мысли (những suy nghĩ sâu sắc)."}
+   ]
+  },
+  {
+   "id": "doroga3-01-s053",
+   "type": "exercise",
+   "title": "Задание 39 — Составьте все возможные словосочетания",
+   "num": 39,
+   "blocks": [
+    {"t": "instruction", "text": "Составьте все возможные словосочетания. (Lập tất cả các cụm từ có thể.)"},
+    {"t": "para", "text": "Tính từ: длинный / короткий (dài / ngắn), болтливый (lắm lời), важный (quan trọng, bệ vệ), гордый (kiêu hãnh), неудобный (bất tiện), жёсткий / мягкий (cứng / mềm), бедный / богатый (nghèo / giàu), тёмный (tối), пожилой (đứng tuổi), седой (tóc bạc), будничный (thường nhật, tẻ nhạt), грязный / чистый (bẩn / sạch), холодный (lạnh), дешёвый / дорогой (rẻ / đắt)."},
+    {"t": "para", "text": "Danh từ: ресторан (nhà hàng), картина (bức tranh), гостиница (khách sạn), комната (căn phòng), улица (đường phố), женщина (người phụ nữ), дело (công việc), кровать (cái giường), ночь (đêm), день (ngày), старик (ông lão), вопрос (câu hỏi), дом (ngôi nhà), человек (con người), характер (tính cách)."}
+   ]
+  },
+  {
+   "id": "doroga3-01-s054",
+   "type": "exercise",
+   "title": "Задание 40 — Существительные и прилагательные (черты характера)",
+   "num": 40,
+   "blocks": [
+    {"t": "instruction", "text": "а) Найдите прилагательные, которые соответствуют данным существительным. (Tìm tính từ tương ứng với các danh từ sau.)"},
+    {"t": "para", "text": "Danh từ: трудолюбие (tính chăm chỉ), ум (trí tuệ), лень (tính lười), красота (vẻ đẹp), доброта (lòng tốt), юность (tuổi trẻ), хитрость (sự ranh mãnh), глупость (sự ngốc nghếch), жадность (tính tham lam), честность (tính trung thực), грубость (sự thô lỗ), грусть (nỗi buồn), уверенность (sự tự tin), самостоятельность (tính tự lập)."},
+    {"t": "para", "text": "Tính từ: хитрый (ranh mãnh), глупый (ngốc), жадный (tham lam), честный (trung thực), уверенный (tự tin), самостоятельный (tự lập), добрый (tốt bụng), трудолюбивый (chăm chỉ), грустный (buồn), красивый (đẹp), юный (trẻ trung), умный (thông minh), ленивый (lười), грубый (thô lỗ)."},
+    {"t": "instruction", "text": "б) Составьте словосочетания с данными прилагательными и существительными. (Lập cụm từ với các tính từ và danh từ trên.)"},
+    {"t": "model", "text": "Образец: Я всегда удивлялся трудолюбию моего друга. Он всегда был очень трудолюбивым человеком. (Tôi luôn ngạc nhiên trước tính chăm chỉ của bạn tôi. Anh ấy lúc nào cũng là người rất chăm chỉ.)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s055",
+   "type": "exercise",
+   "title": "Задание 41 — Поговорим: черты характера (Nói về tính cách)",
+   "num": 41,
+   "blocks": [
+    {"t": "instruction", "text": "Ответьте на вопросы, выскажите свою точку зрения. В своих ответах используйте слова из упр. № 40. (Trả lời câu hỏi, nêu quan điểm của bạn. Dùng từ ở bài 40.)"},
+    {"t": "para", "text": "1. Какие черты характера человека вам нравятся или не нравятся и почему? (Bạn thích/không thích những nét tính cách nào và vì sao?) — Có thể bắt đầu: «Мне нравятся добрые люди…» hoặc «Мне нравятся такие черты характера, как доброта…»\n2. Какие черты характера ваших друзей вам нравятся или не нравятся? Есть ли эти качества у вас? (Bạn thích/không thích nét tính cách nào của bạn bè? Bạn có những phẩm chất đó không?)\n3. Как вы думаете, от чего зависит характер человека? Меняется ли он? Как? Почему? (Theo bạn tính cách phụ thuộc vào điều gì? Nó có thay đổi không? Thế nào? Vì sao?)\n4. Какую роль играет семья в формировании характера человека? (Gia đình đóng vai trò gì trong việc hình thành tính cách?)\n5. Всегда ли человек знает о своих талантах и способностях? (Con người có luôn biết về tài năng và năng lực của mình không?)\n6. Кто и что может помочь человеку открыть и развить свои способности? (Ai và điều gì có thể giúp con người phát hiện và phát triển năng lực của mình?)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s056",
+   "type": "exercise",
+   "title": "Задание 42 — Письмо друга (Viết thư trả lời)",
+   "num": 42,
+   "blocks": [
+    {"t": "instruction", "text": "Вы получили письмо от своего друга. Прочитайте это письмо и напишите ответ. (Bạn nhận được thư của bạn mình. Đọc thư và viết thư trả lời.)"},
+    {"t": "example", "text": "Дорогой друг!\nНедавно я прочитал интересный рассказ о жизни одного человека. Он рано ушёл из родительского дома, так как решил, что семья не играет никакой роли в жизни человека. Каждый человек сам формирует свой характер, открывает свои способности и таланты. Что ты думаешь об этом? Мне это очень интересно. Напиши мне. Ты ведь знаешь мой адрес и e-mail.\n(Bạn thân mến! Gần đây mình đọc một truyện thú vị về cuộc đời một con người. Anh ấy sớm rời nhà bố mẹ vì cho rằng gia đình chẳng có vai trò gì trong đời người. Mỗi người tự hình thành tính cách, tự khám phá năng lực và tài năng của mình. Cậu nghĩ sao về điều này? Mình rất muốn biết. Viết cho mình nhé. Cậu biết địa chỉ và e-mail của mình mà.)"},
+    {"t": "note", "text": "Теперь вы можете: (Gợi ý nội dung trả lời:) 1. Рассказать о себе и о своём друге. (Kể về bản thân và bạn mình.) 2. Описать свой день, рассказать о своём режиме дня. (Tả một ngày, nói về nếp sinh hoạt.) 3. Описать характер человека. (Tả tính cách một con người.) 4. Рассказать о его талантах и способностях. (Kể về tài năng và năng lực của người đó.)"}
+   ]
+  },
+  {
+   "id": "doroga3-01-s057",
+   "type": "grammar",
+   "title": "Từ vựng Урок 1 (Лексика)",
+   "num": null,
+   "blocks": [
+    {"t": "subhead", "text": "Câu bị động & học thuật"},
+    {"t": "para", "text": "переходный / непереходный глагол — động từ ngoại động / nội động; активная / пассивная конструкция — câu chủ động / bị động; объявление — thông báo, lời rao; выдаваться — được phát, cấp; запрещаться — bị cấm; обмениваться — được trao đổi; коллекционер — nhà sưu tầm; коллекция — bộ sưu tập; мозг — bộ não; исследование — sự nghiên cứu; симфония — bản giao hưởng; исполняться — được trình diễn; блокада — sự phong toả; основатель — người sáng lập; издательство — nhà xuất bản; издаваться — được xuất bản; губернатор — thống đốc; изобретать/изобрести — phát minh; мореплаватель — nhà hàng hải; скульптура — tác phẩm điêu khắc; парашют — cái dù."},
+    {"t": "subhead", "text": "Gia đình & giáo dục"},
+    {"t": "para", "text": "планирование семьи — kế hoạch hoá gia đình; воспитывать/воспитать — nuôi dạy; воспитание — sự giáo dục; опекать — bao bọc, chăm nom; обеспечивать/обеспечить кого чем — chu cấp, bảo đảm; уделять время/внимание кому — dành thời gian/sự quan tâm; многодетная семья — gia đình đông con; единственный ребёнок — con một; подросток — thiếu niên; одиночество — nỗi cô đơn; самостоятельный — tự lập; уверенный в себе — tự tin; писательница — nữ nhà văn; печататься — được in."},
+    {"t": "subhead", "text": "Động từ -СЯ thường dùng"},
+    {"t": "para", "text": "причёсываться/причесаться — chải đầu; одеваться/одеться — mặc quần áo; раздеваться/раздеться — cởi quần áo; умываться/умыться — rửa mặt; бриться/побриться — cạo râu; мыться/помыться — tắm rửa; стричься/постричься — cắt tóc; ссориться/поссориться — cãi nhau; мириться/помириться — làm lành; обниматься/обняться — ôm nhau; целоваться/поцеловаться — hôn nhau; встречаться/встретиться — gặp nhau; переписываться — thư từ qua lại; здороваться/поздороваться — chào hỏi; видеться — gặp mặt nhau; ложиться спать — đi ngủ; бояться — sợ; бороться — đấu tranh; прощаться/попрощаться — chào tạm biệt; улыбаться/улыбнуться — mỉm cười; смеяться — cười; заниматься — học, luyện tập; открываться/открыться — (tự) mở; закрываться/закрыться — (tự) đóng; меняться/измениться — thay đổi."},
+    {"t": "subhead", "text": "Bài đọc «Открытие» & tính cách"},
+    {"t": "para", "text": "вскакивать/вскочить — bật dậy; хватать/схватить — chộp lấy; машинально — một cách máy móc, vô thức; задуматься — trầm ngâm suy nghĩ; засыпать/заснуть — ngủ thiếp đi; от нечего делать — vì rảnh rỗi; хочешь не хочешь — muốn hay không; что это за…? — … gì vậy?; умереть от ужаса — chết khiếp; неприступный — kiêu kỳ, khó gần; болтливый — lắm lời; пожилой — đứng tuổi; прелестный — xinh xắn, yêu kiều; чудо — phép màu; слуга — người hầu; превращаться/превратиться — biến thành; грустить — buồn; восхищаться/восхититься — thán phục; удивляться/удивиться — ngạc nhiên; сравнивать/сравнить — so sánh; трудолюбие, трудолюбивый — tính chăm chỉ, chăm chỉ; лень, ленивый — tính lười, lười; доброта, добрый — lòng tốt, tốt bụng; хитрость, хитрый — sự ranh mãnh, ranh mãnh; глупость, глупый — sự ngốc, ngốc; жадность, жадный — tính tham, tham lam; честность, честный — trung thực; грубость, грубый — thô lỗ; уверенность — sự tự tin; самостоятельность — tính tự lập; черта характера — nét tính cách; судьба — số phận; слава — vinh quang; занавес — màn sân khấu; пословица — câu tục ngữ."}
+   ]
+  }
+ ]
+}

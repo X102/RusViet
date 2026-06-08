@@ -1,0 +1,255 @@
+{
+ "id": "skazki1-024",
+ "num": 24,
+ "title": "Волк — Con sói",
+ "vi": "Волк — Con sói",
+ "ru": "Волк",
+ "icon": "🐺",
+ "color": "#475569",
+ "sectionPrefix": "skazki1-024-s",
+ "group": "Truyện № 31–60",
+ "sections": [
+  {
+   "id": "skazki1-024-s001",
+   "type": "story",
+   "num": 49,
+   "title": "№ 49 · Волк — Con sói",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Truyện loài vật cực ngắn kiểu tích luỹ (cumulative): con sói dùng một bài ca ngọt ngào dụ ông bà lão lần lượt thí từng con vật rồi đến cả bà lão; chỉ khi ông lão vớ cái que cời lò nện cho một trận, sói mới chịu chạy. Kết bi hài cộc lốc rất đặc trưng lối kể của Afanasyev."
+    },
+    {
+     "t": "para",
+     "text": "Жил старик со старухой; у них было пять овец, шестой жеребец, седьмая телка. (Ngày xưa có một ông lão sống cùng bà lão; nhà họ nuôi năm con cừu, con thứ sáu là một con ngựa đực, con thứ bảy là một con bê cái.)"
+    },
+    {
+     "t": "para",
+     "text": "Пришел к ним волк и стал петь песню: (Một con sói tìm đến nhà họ rồi cất giọng hát:)"
+    },
+    {
+     "t": "para",
+     "text": "Жил жилец, (Có chàng ở trọ,)"
+    },
+    {
+     "t": "para",
+     "text": "На кустике дворец; (Trên bụi cây con dựng phủ đường;)"
+    },
+    {
+     "t": "para",
+     "text": "У него пять овец, (Chàng nuôi năm chú cừu non,)"
+    },
+    {
+     "t": "para",
+     "text": "Шестой жеребец, (Con thứ sáu — chú ngựa tơ,)"
+    },
+    {
+     "t": "para",
+     "text": "Седьмая телка. (Con thứ bảy — chú bê cái nhỏ.)"
+    },
+    {
+     "t": "para",
+     "text": "Старуха и говорит старику: «Ох, какая песня-то славная! Старик, дай ему овечку». (Bà lão liền bảo ông lão: «Ôi, bài hát hay làm sao! Ông ơi, cho nó một con cừu đi».)"
+    },
+    {
+     "t": "para",
+     "text": "Старик дал ему, волк съел и опять пришел с этой же песнию, и ходил с нею до тех пор, пока не поел овец, жеребца, телку и старуху. (Ông lão cho nó, sói xơi xong lại mò tới với đúng bài hát ấy, cứ thế lui tới mãi cho đến khi ăn sạch cả đàn cừu, con ngựa đực, con bê cái, rồi đến cả bà lão.)"
+    },
+    {
+     "t": "para",
+     "text": "Остался один старик; волк пришел и к нему с этой песнию. (Chỉ còn trơ lại một mình ông lão; sói cũng tìm đến chỗ ông với bài hát ấy.)"
+    },
+    {
+     "t": "para",
+     "text": "Старик взял кочергу и ну ею возить волка. (Ông lão chộp lấy cái que cời lò, cứ thế nện túi bụi vào con sói.)"
+    },
+    {
+     "t": "para",
+     "text": "Волк убежал и с тех пор к старику ни ногой; а старик остался, горемычный, один горе мыкать. (Sói cắm đầu chạy mất, từ đó cạch hẳn, chẳng dám bén mảng đến nhà ông lão nữa; còn ông lão thì trơ trọi một mình, khốn khổ, lủi thủi gặm nhấm nỗi đau.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "жеребец",
+     "vi": "ngựa đực, ngựa giống",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "телка",
+     "vi": "bê cái, bò con cái (dạng cổ của тёлка)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "жилец",
+     "vi": "người ở trọ, kẻ trú ngụ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "дворец",
+     "vi": "cung điện, lâu đài (ở đây dùng giễu cho cái tổ trên bụi cây)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кочерга",
+     "vi": "que cời lò (để cời than trong lò sưởi Nga)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "возить",
+     "vi": "(khẩu ngữ) nện, phang liên hồi (ну ею возить — cứ thế nện)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ни ногой",
+     "vi": "cạch hẳn, không hề bén mảng tới (thành ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "горемычный",
+     "vi": "khốn khổ, bất hạnh, đáng thương",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "горе мыкать",
+     "vi": "sống lay lắt khổ sở, gặm nhấm nỗi đau (thành ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "славный",
+     "vi": "hay, tuyệt, đáng yêu (khẩu ngữ, lời khen)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "песния",
+     "vi": "(dạng cổ của песня) bài hát",
+     "g": null
+    }
+   ]
+  },
+  {
+   "id": "skazki1-024-s002",
+   "type": "story",
+   "num": 50,
+   "title": "№ 50 · Волк — Con sói",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Dị bản thứ hai cùng tên nhưng kết có hậu. Hai con vật mang biệt danh láy vần khôi hài: «кошечка-судомоечка» (mèo con rửa bát) và «собачка-пустолаечка» (chó con sủa vu vơ). Ông lão lần lượt thí từng con vật để giữ lại bà lão, truyện khép bằng câu vè quen thuộc của truyện cổ Nga «живут, хлеб жуют» — sống yên, nhai bánh qua ngày."
+    },
+    {
+     "t": "para",
+     "text": "Жил-был старик да старушка, у них была кошечка-судомоечка, собачка-пустолаечка, овечка да коровушка. (Ngày xưa có một ông lão và một bà lão, nhà họ nuôi một cô mèo con chuyên rửa bát, một chú chó con chỉ sủa vu vơ, một con cừu cùng một con bò cái.)"
+    },
+    {
+     "t": "para",
+     "text": "Дознался волк, что у старика много скотины; пошел просить себе. (Sói dò la biết được nhà ông lão lắm gia súc; bèn mò đến đòi xin về phần mình.)"
+    },
+    {
+     "t": "para",
+     "text": "Пришел и говорит: «Отдавай старуху!» (Nó đến nơi rồi nói: «Nộp bà lão ra đây!»)"
+    },
+    {
+     "t": "para",
+     "text": "Старику жаль отдать старушку; отдал вместо ее кошечку-судомоечку. (Ông lão tiếc, chẳng nỡ giao bà lão; bèn đưa cô mèo con rửa bát ra thế.)"
+    },
+    {
+     "t": "para",
+     "text": "Волку этого мало; съел и опять пришел к старику: «Подавай старуху!» (Sói chừng ấy chưa đủ; xơi xong lại mò đến chỗ ông lão: «Đưa bà lão ra đây!»)"
+    },
+    {
+     "t": "para",
+     "text": "Старику жаль отдавать старушку; отдал за нее собачку-пустолаечку. (Ông lão tiếc, chẳng nỡ giao bà lão; bèn đưa chú chó con sủa vu vơ ra thế.)"
+    },
+    {
+     "t": "para",
+     "text": "Съел волк и опять идет за старухою. (Sói xơi xong lại lần nữa đến đòi bà lão.)"
+    },
+    {
+     "t": "para",
+     "text": "Старик не дает старушки; отдал за нее овечку, а потом и коровушку. (Ông lão nhất quyết không giao bà lão; bèn đưa con cừu ra thế, rồi sau đến cả con bò cái.)"
+    },
+    {
+     "t": "para",
+     "text": "А старушку себе оставил; и стали они вдвоем жить да быть, и теперь живут, хлеб жуют. (Còn bà lão thì ông giữ lại cho riêng mình; thế là hai ông bà sống bên nhau yên ấm, và đến giờ vẫn sống, vẫn nhai bánh qua ngày.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "судомоечка",
+     "vi": "cô rửa bát thuê — ở đây là biệt danh láy vần đặt cho con mèo",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "пустолаечка",
+     "vi": "kẻ sủa vu vơ (chó sủa vô cớ) — biệt danh đặt cho con chó",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "коровушка",
+     "vi": "bò cái (dạng thân mật, âu yếm: «bò cưng»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "дознаться",
+     "vi": "dò ra, biết được (sau khi tìm hiểu, nghe ngóng)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "скотина",
+     "vi": "gia súc, súc vật nuôi trong nhà",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "отдавать",
+     "vi": "giao nộp, đưa cho, nhường đi",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "подавать",
+     "vi": "đưa ra đây, nộp ra (подавай — lối ra lệnh)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "жаль",
+     "vi": "tiếc, chẳng nỡ, thương tiếc",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "жить да быть",
+     "vi": "sống yên ấm bên nhau (lối nói trong truyện cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "хлеб жевать",
+     "vi": "nhai bánh sống qua ngày — câu vè khép truyện cổ (живут, хлеб жуют)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

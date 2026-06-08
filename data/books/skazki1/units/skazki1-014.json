@@ -1,0 +1,157 @@
+{
+ "id": "skazki1-014",
+ "num": 14,
+ "title": "Лиса и тетерев — Cáo và gà gô",
+ "vi": "Лиса и тетерев — Cáo và gà gô",
+ "ru": "Лиса и тетерев",
+ "icon": "🐦",
+ "color": "#4d7c0f",
+ "sectionPrefix": "skazki1-014-s",
+ "group": "Truyện № 31–60",
+ "sections": [
+  {
+   "id": "skazki1-014-s001",
+   "type": "story",
+   "num": 31,
+   "title": "№ 31 · Лиса и тетерев — Cáo và gà gô",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "«Cáo và gà gô» (kiểu truyện loài vật, mô-típ «hòa ước giả» giữa muông thú — ATU 62): cáo bịa ra một «sắc lệnh» bắt lũ gà gô phải rời cây xuống đất rong chơi, cốt dụ con mồi xuống tầm vồ. Gà gô — dân gian quen gọi là Tê-ren-chi, cái tên đặt theo tiếng gù «te-te» của loài này — cứ giả ngây «bù-bù-bù» cho qua chuyện. Đến khi nghe vó ngựa lẫn tiếng chó, gà gô cố ý tả con vật đuổi theo có «đuôi cong như cái móc» — mà chỉ chó săn mới cụp đuôi như thế, ngựa con thì không — khiến cáo hoảng vía bỏ chạy."
+    },
+    {
+     "t": "para",
+     "text": "Бежала лисица по лесу, увидала на дереве тетерева и говорит ему: (Cáo ta chạy trong rừng, chợt trông thấy con gà gô đậu trên cây, liền cất tiếng nói với nó:)"
+    },
+    {
+     "t": "para",
+     "text": "«Терентий, Терентий! Я в городе была». («Tê-ren-chi, Tê-ren-chi ơi! Ta vừa ở trên tỉnh về đấy.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Бу-бу-бу, бу-бу-бу! Была, так была». («Bù-bù-bù, bù-bù-bù! Ở thì ở thôi.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Терентий, Терентий! Я указ добыла». («Tê-ren-chi, Tê-ren-chi ơi! Ta xin được cả một đạo sắc lệnh rồi.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Бу-бу-бу, бу-бу-бу! Добыла, так добыла». («Bù-bù-bù, bù-bù-bù! Được thì được thôi.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Чтобы вам, тетеревам, не сидеть по деревам, а все бы гулять по зеленым лугам». («Sắc lệnh truyền rằng từ nay lũ gà gô các ngươi chớ đậu trên cây nữa, mà phải xuống dạo chơi khắp những đồng cỏ xanh.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Бу-бу-бу, бу-бу-бу! Гулять, так гулять». («Bù-bù-bù, bù-bù-bù! Dạo thì dạo thôi.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Терентий, кто там едет?» — спрашивает лисица, услышав конский топот и собачий лай. («Tê-ren-chi, ai đang tới kia thế?» — cáo hỏi, khi nghe có tiếng vó ngựa dồn dập lẫn tiếng chó sủa.)"
+    },
+    {
+     "t": "para",
+     "text": "«Мужик». («Một bác nông dân.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Кто за ним бежит?» («Thế ai chạy theo sau bác ta?»)"
+    },
+    {
+     "t": "para",
+     "text": "«Жеребенок». («Một chú ngựa con.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Как у него хвост-то?» («Đuôi nó ra làm sao?»)"
+    },
+    {
+     "t": "para",
+     "text": "«Крючком». («Cong như cái móc.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Ну так прощай, Терентий! Мне дома недосуг». («Thế thì xin chào nhé, Tê-ren-chi! Ở nhà ta đang bận túi bụi, chẳng rảnh đâu.»)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "тетерев",
+     "vi": "gà gô đen (chim rừng họ trĩ); nhân vật trong truyện tên Tê-ren-chi",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "Терентий",
+     "vi": "tên dân dã đặt cho gà gô (gợi từ tiếng gù «te-te» của loài này)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "указ",
+     "vi": "sắc lệnh, chỉ dụ (lệnh của vua/quan)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "добыть (добыла)",
+     "vi": "kiếm được, xoay được, lấy về được",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "деревам (= деревьям)",
+     "vi": "dạng số nhiều cổ của «cây» (по деревам = trên các cây)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "луг (по лугам)",
+     "vi": "bãi cỏ, đồng cỏ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "гулять",
+     "vi": "đi dạo, rong chơi",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "топот (конский топот)",
+     "vi": "tiếng vó/bước chân dồn dập",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "лай (собачий лай)",
+     "vi": "tiếng (chó) sủa",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "крючком (крючок)",
+     "vi": "(cong) như cái móc câu",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "недосуг (мне недосуг)",
+     "vi": "không rảnh, đang bận (từ cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "мужик",
+     "vi": "bác nông dân, người đàn ông quê",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

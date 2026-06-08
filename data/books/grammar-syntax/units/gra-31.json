@@ -1,0 +1,152 @@
+{
+ "id": "gra-31",
+ "num": 31,
+ "title": "Câu ghép chính phụ (V): Mệnh đề phụ nguyên nhân và kết quả",
+ "vi": "Câu ghép chính phụ (V): Mệnh đề phụ nguyên nhân và kết quả",
+ "ru": "Сложноподчинённые предложения: придаточная часть причины и следствия",
+ "icon": "💡",
+ "color": "#b91c1c",
+ "sectionPrefix": "gra-31-s",
+ "group": "Раздел 3 · Câu phức (Сложное предложение)",
+ "sections": [
+  {
+   "id": "gra-31-s001",
+   "type": "grammar",
+   "title": "Liên kết chính phụ với mệnh đề phụ nguyên nhân và kết quả (придаточная часть причины и следствия)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Mệnh đề phụ với các liên từ và tổ hợp liên từ потому́ что, так как, оттого́ что, благодаря́ тому́ что, и́з-за того́ что, в си́лу того́ что, ввиду́ того́ что, всле́дствие того́ что, зате́м что, поско́льку chỉ ra NGUYÊN NHÂN hoặc CĂN CỨ của điều được nói tới trong mệnh đề chính. Mệnh đề phụ KẾT QUẢ được nối với mệnh đề chính bằng liên từ так что."
+    },
+    {
+     "t": "para",
+     "text": "Các liên từ và tổ hợp liên từ mang ý nghĩa nguyên nhân:\nа) các liên từ потому́ что, так как, поско́льку (sách xếp поско́льку vào lớp từ cũ):\nГрушни́цкий не зна́ет люде́й и их сла́бых струн, потому́ что занима́лся це́лую жизнь одни́м собо́й (М. Ле́рмонтов) (Grushnitsky không hiểu con người và những sợi dây yếu mềm của họ, vì suốt cả đời anh ta chỉ bận tâm tới mỗi bản thân — M. Lermontov);\nМо́жет быть, Блок иска́л э́ту тишину́ и бли́зость мо́ря потому́, что она́ возвраща́ет смяте́нному челове́ческому се́рдцу споко́йствие (К. Паусто́вский) (Có lẽ Blok tìm kiếm sự tĩnh lặng ấy và sự kề cận với biển vì nó trả lại bình yên cho trái tim con người đang xao động — K. Paustovsky);\nЯ не хочу́ покида́ть Берли́н, не сказа́в тебе́ «проща́й». Э́то и поня́тно, так как мы провели́ вме́сте до́лгие неде́ли, са́мое гру́стное вре́мя на́шей жи́зни (Д. Гра́нин) (Anh không muốn rời Berlin mà chưa nói với em lời «vĩnh biệt». Điều đó cũng dễ hiểu, vì chúng ta đã bên nhau những tuần lễ dài — quãng thời gian buồn nhất của đời mình — D. Granin);\nТак как за́втра выступле́ние бы́ло назна́чено до восхо́да со́лнца, то по́сле у́жина все ра́но легли́ спать (В. Арсе́ньев) (Vì cuộc lên đường ngày mai được ấn định trước lúc mặt trời mọc, nên sau bữa tối mọi người đều đi ngủ sớm — V. Arsenyev);\nПоско́льку уча́сток оказа́лся си́льно заболо́ченным, пришло́сь сро́чно приня́ться за осу́шку его́ (А. Купри́н) (Vì khoảnh đất hóa ra lầy thụt nặng, đành phải khẩn trương bắt tay tháo khô nó — A. Kuprin)."
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Mệnh đề phụ nguyên nhân với liên từ потому́ что đứng SAU mệnh đề chính. Mệnh đề phụ với các liên từ khác có thể đứng trước mệnh đề chính khi cần làm nổi bật nguyên nhân."
+    },
+    {
+     "t": "para",
+     "text": "б) các liên từ phức và tổ hợp liên từ оттого́ что, благодаря́ тому́ что, и́з-за того́ что, в си́лу того́ что, ввиду́ того́ что, всле́дствие того́ что:\nОттого́ что мы вста́ли о́чень ра́но и пото́м ничего́ не де́лали, э́тот день каза́лся о́чень дли́нным, са́мым дли́нным в мое́й жи́зни (А. Че́хов) (Vì chúng tôi dậy rất sớm rồi sau đó chẳng làm gì, ngày hôm ấy tưởng như dài lắm — dài nhất trong đời tôi — A. Chekhov);\nБлагодаря́ тому́ что мы рабо́таем без посре́дников, проду́кция на́шего заво́да име́ет оптима́льное соотноше́ние цены́ и ка́чества (Nhờ làm việc không qua trung gian, sản phẩm của nhà máy chúng tôi có tương quan giá cả – chất lượng tối ưu);\nМно́гие води́тели попада́ют в ава́рии и́з-за того́, что во вре́мя движе́ния разгова́ривают по моби́льному телефо́ну (Nhiều tài xế gặp tai nạn do nói chuyện điện thoại di động trong khi lái xe);\nВ си́лу того́ что кру́пные корпора́ции располага́ют «неограни́ченными возмо́жностями соверше́нствования произво́дства и осуществле́ния техни́ческого прогре́сса», они́ бы́ли объя́влены «революцио́нными элеме́нтами совреме́нного о́бщества» (Do các tập đoàn lớn nắm trong tay «những khả năng vô hạn trong việc hoàn thiện sản xuất và thực hiện tiến bộ kỹ thuật», chúng được tuyên bố là «những nhân tố cách mạng của xã hội hiện đại»);\nВвиду́ того́ что пропускна́я спосо́бность по́рта ограни́чена, была́ устано́влена очерёдность на разгру́зку и погру́зку судо́в (Do năng lực thông qua của cảng có hạn, người ta đã quy định thứ tự lần lượt cho việc dỡ và xếp hàng tàu);\nВ гора́х с пра́вой стороны́ кита́йцы мы́ли зо́лото, но бро́сили э́то де́ло всле́дствие того́, что добы́ча драгоце́нного мета́лла не опра́вдывала затра́чиваемых на него́ уси́лий (В. Арсе́ньев) (Trên dãy núi phía tay phải, người Hoa từng đãi vàng, nhưng đã bỏ nghề do việc khai thác thứ kim loại quý ấy không bõ những công sức bỏ ra — V. Arsenyev)."
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Các tổ hợp liên từ với что có thể được tách bằng dấu phẩy (потому́, что…) khi đại từ chỉ định ở phần đầu được nhấn mạnh bằng ngữ điệu."
+    },
+    {
+     "t": "para",
+     "text": "Liên từ mang ý nghĩa kết quả — так что:\nДождь лил как из ведра́, так что на крыльцо́ нельзя́ бы́ло вы́йти (С. Акса́ков) (Mưa như trút nước, thành thử không thể bước ra thềm — S. Aksakov);\nТут в ко́мнату ворва́лся ве́тер, так что пла́мя свече́й в канделя́брах легло́ (М. Булга́ков) (Vừa lúc đó gió ùa vào phòng, khiến ngọn lửa các cây nến trên giá rạp hẳn xuống — M. Bulgakov)."
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Mệnh đề phụ kết quả luôn đứng SAU mệnh đề chính."
+    }
+   ]
+  },
+  {
+   "id": "gra-31-s002",
+   "type": "exercise",
+   "title": "Упражнение 440",
+   "num": 440,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy đọc các câu. Chú ý các liên từ nối các vế của câu ghép chính phụ mang ý nghĩa nguyên nhân và kết quả."
+    },
+    {
+     "t": "para",
+     "text": "Ngữ liệu của bài 440 chính là phần lý thuyết «Liên kết chính phụ với mệnh đề phụ nguyên nhân và kết quả» ở mục ngay trên: nhóm а) потому́ что, так как, поско́льку; nhóm б) оттого́ что, благодаря́ тому́ что, и́з-за того́ что, в си́лу того́ что, ввиду́ того́ что, всле́дствие того́ что; liên từ kết quả так что — cùng toàn bộ ví dụ minh hoạ và các khung chú ý."
+    }
+   ]
+  },
+  {
+   "id": "gra-31-s003",
+   "type": "exercise",
+   "title": "Упражнение 441",
+   "num": 441,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Điền vào chỗ trống (…) trong các câu liên từ потому́ что hoặc оттого́ что. Giải thích cách chọn của bạn, nêu các phương án có thể. Trong các câu nhận được, ở những chỗ có thể, hãy dùng liên từ так как."
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Liên từ оттого́ что chỉ nguyên nhân TRỰC TIẾP làm nảy sinh hành động của mệnh đề chính: Ко́жа покрасне́ла оттого́, что я весь день провела́ на со́лнце (Da tôi ửng đỏ vì tôi phơi nắng suốt cả ngày)."
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Liên từ потому́ что chỉ những hoàn cảnh làm cơ sở cho hành động của mệnh đề chính: Он зашёл к нам в го́сти, потому́ что случа́йно оказа́лся в на́шем райо́не (Anh ấy ghé chơi nhà chúng tôi vì tình cờ có mặt ở khu phố chúng tôi)."
+    },
+    {
+     "t": "para",
+     "text": "1. По берега́м реки́ трава́ росла́ густа́я и изумру́дно-зелёная … здесь бы́ло доста́точно вла́ги (Dọc hai bờ sông, cỏ mọc rậm rạp và xanh màu ngọc bích, vì ở đây có đủ độ ẩm); 2. Мне ста́ло нело́вко … мы сиди́м в прису́тствии пожило́го челове́ка (Tôi thấy ngượng ngùng vì chúng tôi cứ ngồi trước mặt một người cao tuổi); 3. В зри́тельном за́ле вам вряд ли уда́стся найти́ свобо́дное ме́сто … все биле́ты на спекта́кль давно́ про́даны (Trong khán phòng các bạn khó lòng tìm được chỗ trống, vì toàn bộ vé xem vở diễn đã bán hết từ lâu); 4. … я не суме́л во́время сдать экза́мены, мне пришло́сь отложи́ть пое́здку к роди́телям (Vì tôi không kịp thi xong đúng hạn, tôi đành hoãn chuyến về thăm bố mẹ); 5. На у́лицах почти́ не́ было маши́н … день был воскре́сный (Trên đường phố hầu như không có xe cộ, vì hôm đó là chủ nhật); 6. Ему́ ста́ло сты́дно … он не смог вы́полнить твою́ про́сьбу (Anh ấy thấy xấu hổ vì đã không thể thực hiện điều bạn nhờ); 7. Соиска́тели рабо́ты не уме́ют выторго́вывать себе́ зарпла́ту, и происхо́дит э́то … кандида́ты не зна́ют пра́вил торго́вли (Người tìm việc không biết mặc cả lương cho mình, và điều đó xảy ra vì các ứng viên không nắm được quy tắc thương lượng); 8. День обеща́л быть тёплым и со́лнечным … на не́бе не́ было ви́дно ни о́блачка (Ngày hôm ấy hứa hẹn ấm áp và nắng đẹp, vì trên trời không thấy một gợn mây); 9. Кома́нда победи́ла в соревнова́ниях … ка́ждый из нас ве́рил в э́ту побе́ду и шёл к фи́нишу на преде́ле свои́х возмо́жностей (Đội đã thắng trong cuộc thi đấu vì mỗi chúng tôi đều tin vào chiến thắng và tiến về đích với tận cùng sức lực của mình); 10. Ребёнок мо́жет капри́зничать … роди́тели не уделя́ют ему́ доста́точного внима́ния (Đứa trẻ có thể sinh hờn dỗi vì bố mẹ không dành cho nó đủ sự quan tâm); 11. Не забу́дь взять зо́нтик … в любо́й моме́нт мо́жет пойти́ дождь (Đừng quên mang theo ô, vì trời có thể đổ mưa bất cứ lúc nào); 12. Внеза́пно поду́л ве́тер и на у́лице ста́ло темно́ … ту́чи закры́ли со́лнце (Bỗng nhiên gió nổi lên và ngoài trời tối sầm lại vì mây đen che khuất mặt trời); 13. Перегово́ры затяну́лись … ни одна́ из сторо́н не хоте́ла идти́ на усту́пки (Cuộc đàm phán kéo dài lê thê vì không bên nào chịu nhượng bộ); 14. Я не хочу́ есть … неда́вно обе́дал (Tôi không muốn ăn vì vừa mới ăn trưa xong); 15. Серебро́ покрыва́ется тёмным налётом … прису́тствующие в во́здухе озо́н и сероводоро́д вступа́ют с ним в хими́ческую реа́кцию (Bạc bị phủ một lớp xỉn sẫm màu vì ozon và hydro sunfua có trong không khí phản ứng hóa học với nó); 16. Она́ просну́лась … кто́-то гро́мко произнёс её и́мя (Cô ấy tỉnh giấc vì có ai đó gọi to tên cô); 17. Шко́льный выпускно́й бал — э́то пра́здник весёлый и гру́стный одновре́менно. Гру́стный … проща́ние со шко́лой — э́то проща́ние с беззабо́тным де́тством (Vũ hội tốt nghiệp phổ thông là ngày hội vừa vui vừa buồn. Buồn — vì chia tay mái trường là chia tay tuổi thơ vô lo vô nghĩ); 18. Я не мог ничего́ сказа́ть … не понима́л, о чём идёт речь (Tôi không thể nói gì vì không hiểu câu chuyện đang bàn về điều gì); 19. В ни́жнем этаже́ о́кна, вероя́тно, бы́ли откры́ты … отту́да отчётливо слы́шались голоса́ и смех (Ở tầng dưới các cửa sổ có lẽ đang mở, vì từ đó vọng lên rõ mồn một tiếng nói và tiếng cười); 20. Ему́ ста́ло ве́село … всё зако́нчилось и мо́жно бы́ло отдохну́ть (Anh ấy thấy vui hẳn lên vì mọi việc đã xong và đã có thể nghỉ ngơi)."
+    }
+   ]
+  },
+  {
+   "id": "gra-31-s004",
+   "type": "exercise",
+   "title": "Упражнение 442",
+   "num": 442,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Dùng các liên từ благодаря́ тому́ что hoặc и́з-за того́ что (nếu có thể), hãy nêu phương án đồng nghĩa cho các câu sau. Giải thích cách chọn của bạn."
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): благодаря́ тому́ что chỉ nguyên nhân mang ý nghĩa TÍCH CỰC; и́з-за того́ что chỉ nguyên nhân bị đánh giá TIÊU CỰC."
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Các tổ hợp liên từ với что được tách bằng dấu phẩy: 1) khi có từ chêm xen (коне́чно, мо́жет быть, вероя́тно…) hoặc tiểu từ nhấn mạnh (и́менно, то́лько, лишь…): Он так стра́нно ведёт себя́, наве́рное, потому́, что ма́ло нас зна́ет (Anh ta xử sự lạ lùng như vậy có lẽ vì ít hiểu chúng tôi); 2) khi có phủ định: Я верну́лся не потому́, что пове́рил вам (Tôi quay lại không phải vì đã tin các người)."
+    },
+    {
+     "t": "para",
+     "text": "1. Сниже́ние коммуна́льных тари́фов в столи́це ста́ло возмо́жным, потому́ что бы́ли на́йдены дополни́тельные исто́чники поступле́ний в городско́й бюдже́т (Việc giảm giá dịch vụ công cộng ở thủ đô trở nên khả thi vì đã tìm được các nguồn thu bổ sung cho ngân sách thành phố); 2. Зерновы́е культу́ры дорожа́ют, потому́ что их всё ча́ще испо́льзуют для произво́дства биото́плива (Ngũ cốc ngày càng đắt vì chúng ngày càng hay được dùng để sản xuất nhiên liệu sinh học); 3. Электри́ческий самова́р подхо́дит для испо́льзования в кварти́рах и про́чих жилы́х помеще́ниях, потому́ что нагре́в воды́ в нём происхо́дит за счёт нагрева́тельного элеме́нта, а не твёрдого то́плива (Ấm samovar điện thích hợp dùng trong căn hộ và các không gian ở khác, vì nước trong ấm được đun nóng nhờ bộ phận đốt nóng chứ không phải nhiên liệu rắn); 4. Услы́шав его́ слова́, все рассмея́лись, потому́ что действи́тельно бы́ло смешно́ (Nghe những lời anh ta nói, mọi người đều bật cười, vì quả thật là buồn cười); 5. Паде́ние эконо́мики произойдёт, скоре́е всего́, потому́, что уме́ньшатся объёмы торго́вли (Kinh tế suy giảm, nhiều khả năng, là vì khối lượng thương mại sẽ thu hẹp); 6. В соотве́тствии с постула́тами но́вой идеоло́гии мы дости́гли «определённых успе́хов» и́менно потому́, что сосредото́чили всю полноту́ вла́сти в одни́х рука́х (Theo các định đề của hệ tư tưởng mới, chúng ta đạt được «những thành tựu nhất định» chính là vì đã tập trung toàn bộ quyền lực vào một mối); 7. Челове́к, в отли́чие от живо́тных, облада́ет созна́нием, потому́ что инстинкти́вное нача́ло в нём проявля́ется значи́тельно в ме́ньшей сте́пени (Con người, khác với loài vật, có ý thức, vì bản năng nơi con người biểu hiện ở mức độ ít hơn đáng kể); 8. Самолёты опа́здывали потому́, что моско́вские аэропо́рты бы́ли закры́ты (Máy bay trễ chuyến vì các sân bay Moskva bị đóng cửa); 9. Всем показа́лось, что у меня́ был рассе́янный вид, потому́ что Серге́ю пришло́сь два́жды повторя́ть мне, что за́втра он уезжа́ет (Mọi người đều thấy tôi có vẻ lơ đãng, vì Sergey phải nhắc với tôi tới hai lần rằng mai anh ấy lên đường); 10. В пе́рвом полуго́дии Сберба́нк за́нял лиди́рующую пози́цию в сфе́ре вы́дачи автокреди́тов, потому́ что упрости́л процеду́ру их вы́дачи (Trong sáu tháng đầu năm, Sberbank chiếm vị trí dẫn đầu về cho vay mua ô tô, vì đã đơn giản hóa thủ tục cấp khoản vay); 11. Самостоя́тельным челове́к стано́вится потому́, что принима́ет на себя́ отве́тственность (Con người trở nên tự lập vì biết nhận lấy trách nhiệm về mình); 12. Подписа́ние мемора́ндума ста́ло возмо́жным во мно́гом потому́, что в произво́дство пришли́ кру́пные ча́стные инве́сторы (Việc ký bản ghi nhớ trở nên khả thi phần nhiều vì các nhà đầu tư tư nhân lớn đã bước vào lĩnh vực sản xuất); 13. Крестья́нские дома́ стро́ились из сосны́ и́ли е́ли, потому́ что строи́тельного ка́мня в стране́ бы́ло о́чень ма́ло (Nhà nông dân được dựng bằng gỗ thông hoặc gỗ vân sam, vì đá xây dựng trong nước rất hiếm); 14. В то у́тро я опозда́л на рабо́ту, потому́ что буди́льник не зазвони́л (Sáng hôm ấy tôi đi làm muộn vì đồng hồ báo thức không reo); 15. Он смог досро́чно сдать все экза́мены, потому́ что серьёзно относи́лся к учёбе (Anh ấy thi xong tất cả các môn trước hạn, vì có thái độ nghiêm túc với việc học); 16. В воскресе́нье мы отпра́вились на да́чу, потому́ что на́до бы́ло отдохну́ть (Chủ nhật chúng tôi đi về nhà nghỉ ngoại ô, vì cần được nghỉ ngơi); 17. С тече́нием вре́мени голла́ндский язы́к в Ю́жной А́фрике стал изменя́ться и всё бо́льше отклоня́ться от но́рмы, потому́ что торго́вые и культу́рные свя́зи с Голла́ндией постепе́нно утра́чивались (Theo thời gian, tiếng Hà Lan ở Nam Phi bắt đầu biến đổi và ngày càng xa rời chuẩn mực, vì các mối liên hệ thương mại và văn hóa với Hà Lan dần mai một)."
+    }
+   ]
+  },
+  {
+   "id": "gra-31-s005",
+   "type": "exercise",
+   "title": "Упражнение 443",
+   "num": 443,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Điền vào chỗ trống (…) trong các câu các liên từ в си́лу того́ что, ввиду́ того́ что, всле́дствие того́ что. Giải thích cách chọn của bạn, nêu các phương án có thể."
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Các liên từ в си́лу того́ что, ввиду́ того́ что, всле́дствие того́ что thuộc phong cách hành chính – công vụ hoặc khoa học. Liên từ в си́лу того́ что chỉ nguyên nhân BÊN TRONG, ảnh hưởng trực tiếp đến tình huống của mệnh đề chính (do các nhân tố hay đánh giá chủ quan): Он не мог зако́нчить рабо́ту в си́лу того́, что был некомпете́нтен в э́том вопро́се (Anh ta không thể hoàn thành công việc do thiếu năng lực trong vấn đề này). Liên từ ввиду́ того́ что chỉ nguyên nhân BÊN NGOÀI, có ảnh hưởng gián tiếp (do hoàn cảnh, sự kiện khách quan): Он не мог зако́нчить рабо́ту ввиду́ того́, что в ми́ре разрази́лся экономи́ческий кри́зис (Anh ta không thể hoàn thành công việc do khủng hoảng kinh tế bùng nổ trên thế giới). Liên từ всле́дствие того́ что nhấn mạnh rằng mệnh đề chính là HỆ QUẢ của những hoàn cảnh bên ngoài được nói tới trong mệnh đề phụ: Он не мог зако́нчить рабо́ту всле́дствие того́, что на ста́нции произошла́ ава́рия (Anh ta không thể hoàn thành công việc do ở nhà ga đã xảy ra sự cố)."
+    },
+    {
+     "t": "para",
+     "text": "1. … экспеди́ция не оправда́ла возло́женных на неё наде́жд, пришло́сь отказа́ться от её дальне́йшего финанси́рования (Do đoàn thám hiểm không đáp ứng được những kỳ vọng đặt vào nó, người ta đành thôi không tiếp tục cấp kinh phí); 2. … иссле́дование дифференциа́ции за́работной пла́ты за про́шлый год ещё не зако́нчено, мы испо́льзовали да́нные предыду́щего го́да (Do nghiên cứu về phân hóa tiền lương của năm ngoái chưa hoàn tất, chúng tôi đã dùng số liệu của năm trước đó); 3. … обстоя́тельства измени́лись, встре́чу представи́телей двух стран пришло́сь перенести́ на друго́е вре́мя (Do hoàn cảnh thay đổi, cuộc gặp của đại diện hai nước đành phải dời sang thời điểm khác); 4. Затме́ния происхо́дят … одно́ небе́сное те́ло закрыва́ет друго́е ли́бо тень одного́ те́ла па́дает на друго́е тако́е же те́ло (Nhật – nguyệt thực xảy ra do một thiên thể che khuất thiên thể khác, hoặc bóng của thiên thể này đổ lên một thiên thể tương tự khác); 5. … ско́рого прекраще́ния боевы́х де́йствий не предви́дится, мно́гие задаю́тся вопро́сом: каку́ю пози́цию займёт президе́нт? (Do chưa thấy triển vọng sớm chấm dứt chiến sự, nhiều người đặt câu hỏi: tổng thống sẽ giữ lập trường nào?); 6. … обще́ственный тра́нспорт в на́шей стране́ предназна́чен в основно́м для люде́й с ни́зким у́ровнем дохо́да, его́ необходи́мо соверше́нствовать (Do giao thông công cộng ở nước ta chủ yếu dành cho người thu nhập thấp, cần phải hoàn thiện nó); 7. Чу́вства не мо́гут обма́нывать … они́ вообще́ не произво́дят каки́х-либо сужде́ний, отве́тственность за оши́бки всегда́ несёт рассу́док (Cảm giác không thể đánh lừa, do chúng vốn không đưa ra bất kỳ phán đoán nào; trách nhiệm về sai lầm luôn thuộc về lý trí); 8. Рассмотре́ние де́ла прекращено́ … исте́ц не доказа́л нали́чие компете́нции исполни́тельного дире́ктора, подписа́вшего догово́р со стороны́ отве́тчика, на его́ заключе́ние (Việc xét xử vụ án bị đình chỉ do nguyên đơn không chứng minh được rằng giám đốc điều hành — người ký hợp đồng thay mặt bị đơn — có thẩm quyền ký kết hợp đồng đó); 9. Этни́ческая пробле́ма на Украи́не возни́кла … украи́нское госуда́рство в его́ ны́нешних грани́цах представля́ет собо́й иску́сственное творе́ние Ста́лина (Vấn đề sắc tộc ở Ukraina nảy sinh do nhà nước Ukraina trong đường biên giới hiện nay là một tạo phẩm nhân tạo của Stalin); 10. Мы теря́ем де́ньги … в своё вре́мя бы́ли при́няты до конца́ не прорабо́танные реше́ния (Chúng ta mất tiền do trước đây đã thông qua những quyết định chưa được nghiên cứu thấu đáo); 11. … спи́сок прися́жных заседа́телей по го́роду Москве́ опублико́ван не́ был, мно́гие задаю́т вопро́с, явля́ется ли Моско́вский городско́й суд «судо́м, со́зданным на основа́нии зако́на» (Do danh sách hội thẩm viên của thành phố Moskva chưa được công bố, nhiều người đặt câu hỏi liệu Tòa án thành phố Moskva có phải là «tòa án được lập ra trên cơ sở luật pháp» hay không); 12. … на мирово́м энергети́ческом ры́нке не существу́ет равнове́сия ме́жду спро́сом и предложе́нием, энергети́ческий фа́ктор на сего́дняшний день явля́ется гла́вным (Do trên thị trường năng lượng thế giới không tồn tại thế cân bằng cung – cầu, nhân tố năng lượng hiện nay là nhân tố chủ chốt); 13. Вопро́с соотноше́ния ку́рса национа́льной валю́ты к мировы́м валю́там всегда́ актуа́лен … курс постоя́нно нахо́дится в не́котором движе́нии (Vấn đề tương quan tỷ giá đồng nội tệ với các đồng tiền thế giới luôn mang tính thời sự, do tỷ giá liên tục có những biến động nhất định); 14. … низкочасто́тные сигна́лы распространя́ются ме́дленнее, они́ облада́ют тенде́нцией к отстава́нию от бо́лее бы́стрых высокочасто́тных сигна́лов и прихо́дят к концу́ ли́нии с фа́зовым сдви́гом (Do các tín hiệu tần số thấp lan truyền chậm hơn, chúng có xu hướng tụt lại sau các tín hiệu tần số cao nhanh hơn và đến cuối đường truyền với độ lệch pha); 15. Федерати́вная Респу́блика Герма́ния в своём заявле́нии отме́тила, что всеце́ло подде́рживает возвраще́ние бе́женцев, но «возде́рживается от голосова́ния … в те́ксте не отражены́ други́е ключевы́е аспе́кты сложи́вшейся ситуа́ции» (CHLB Đức trong tuyên bố của mình nêu rõ hoàn toàn ủng hộ việc hồi hương người tị nạn, nhưng «bỏ phiếu trắng do văn bản không phản ánh các khía cạnh then chốt khác của tình hình hiện tại»); 16. Сто́ит отме́тить, что при созда́нии звукоза́писей права́ исполни́телей признаю́тся … их тво́рческое уча́стие необходи́мо для того́, что́бы дать жизнь музыка́льным произведе́ниям (Đáng lưu ý rằng với các bản ghi âm, quyền của nghệ sĩ biểu diễn được công nhận do sự tham gia sáng tạo của họ là cần thiết để thổi sự sống vào tác phẩm âm nhạc); 17. … недви́жимость остаётся недосту́пной и́з-за высо́кой сто́имости и сло́жности кредитова́ния, автомоби́ль явля́ется бо́лее реа́льным сре́дством вложе́ния сбереже́ний (Do bất động sản vẫn ngoài tầm với bởi giá cao và tín dụng phức tạp, ô tô là phương tiện gửi gắm tiền tiết kiệm thực tế hơn); 18. Экспе́рты схо́дятся во мне́нии, что на ры́нке за́городной недви́жимости ожида́ется бум «отло́женного спро́са» … в настоя́щее вре́мя покупа́тели за́няли выжида́тельную пози́цию (Các chuyên gia nhất trí rằng thị trường bất động sản ngoại ô sẽ đón cơn sốt «cầu bị dồn nén», do hiện nay người mua đang giữ thế chờ đợi); 19. … вну́тренняя рабо́та явля́ется диало́гом ме́жду сознаю́щим и бессозна́тельным элеме́нтами, она́ всегда́ приво́дит к це́лому спе́ктру вну́тренних конфли́ктов (Do hoạt động nội tâm là cuộc đối thoại giữa yếu tố ý thức và yếu tố vô thức, nó luôn dẫn tới cả một phổ những xung đột nội tâm); 20. Ещё до кри́зиса наблюда́лась тенде́нция к увеличе́нию сто́имости услу́г на разрабо́тку и продвиже́ние интерне́т-са́йтов. Я счита́ю, что така́я тенде́нция сохрани́тся … тре́бования в разрабо́тке са́йтов ста́ли повыша́ться (Ngay từ trước khủng hoảng đã thấy xu hướng tăng giá dịch vụ thiết kế và quảng bá website. Tôi cho rằng xu hướng này sẽ còn tiếp diễn, do các yêu cầu đối với việc thiết kế website đã bắt đầu cao hơn); 21. … строи́тельство объе́кта бы́ло остано́влено, необходи́мо приня́ть ме́ры для его́ консерва́ции (Do việc xây dựng công trình đã bị đình lại, cần áp dụng các biện pháp bảo quản công trình)."
+    }
+   ]
+  },
+  {
+   "id": "gra-31-s006",
+   "type": "exercise",
+   "title": "Упражнение 444",
+   "num": 444,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Dùng liên từ phụ thuộc так что hoặc liên từ đẳng lập поэ́тому (nếu có thể), hãy nêu phương án đồng nghĩa cho các câu sau. Giải thích cách chọn của bạn."
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Mệnh đề phụ kết quả chỉ ra kết quả, kết cục, kết luận rút ra từ tình huống KHÁCH QUAN nêu ở mệnh đề chính: Спи́чки отсыре́ли, так что мы не смогли́ разже́чь костёр (Diêm bị ẩm, thành thử chúng tôi không nhóm được lửa). (= Мы не смогли́ разже́чь костёр, потому́ что спи́чки отсыре́ли.) Nếu mệnh đề chính nêu các nhân tố CHỦ QUAN thì không thể dùng так что; khi đó dùng liên từ đẳng lập поэ́тому: Мы о́чень уста́ли, поэ́тому не смогли́ разже́чь костёр (Chúng tôi mệt quá, vì thế không nhóm được lửa). (= Мы не смогли́ разже́чь костёр, потому́ что о́чень уста́ли.)"
+    },
+    {
+     "t": "para",
+     "text": "1. Сквозь ве́тви мо́жно бы́ло без труда́ уви́деть да́льний коне́ц ле́са, потому́ что листвы́ на дере́вьях не́ было (Qua những cành cây có thể dễ dàng nhìn thấy đầu kia cánh rừng, vì trên cây không còn lá); 2. Сапоги́ уходи́ли в во́ду по щи́колотку, потому́ что под нога́ми бы́ли сы́рость и грязь (Đôi ủng lún xuống nước tới mắt cá chân, vì dưới chân toàn ẩm ướt và bùn lầy); 3. В тот день я ушёл с рабо́ты пора́ньше, потому́ что спеши́л на встре́чу с дру́гом (Hôm đó tôi rời chỗ làm sớm hơn, vì vội tới cuộc hẹn với bạn); 4. В не́скольких ме́трах вокру́г ничего́ не́ было ви́дно, потому́ что густо́й и ни́зкий тума́н оку́тал весь го́род (Cách vài mét xung quanh đã không nhìn thấy gì, vì màn sương dày và là thấp trùm kín cả thành phố); 5. Мы не смогли́ прие́хать на да́чу, потому́ что пошёл дождь (Chúng tôi không thể về nhà nghỉ ngoại ô, vì trời đổ mưa); 6. Я мог ви́деть да́же выраже́ние его́ глаз, потому́ что подошёл о́чень бли́зко (Tôi nhìn thấy được cả ánh mắt anh ta, vì tôi đã lại rất gần); 7. Мне пришло́сь це́лый час ждать свое́й о́череди, потому́ что в поликли́нике бы́ло мно́го наро́ду (Tôi phải chờ tới lượt mình cả tiếng đồng hồ, vì phòng khám rất đông người); 8. Он хорошо́ говори́л по-португа́льски, потому́ что жил и рабо́тал в Брази́лии (Anh ấy nói tiếng Bồ Đào Nha giỏi, vì từng sống và làm việc ở Brazil); 9. Ка́ждый уча́сток земно́й пове́рхности получа́ет максима́льное коли́чество со́лнечной эне́ргии, потому́ что со́лнце в э́то вре́мя го́да поднима́ется высоко́ над горизо́нтом (Mỗi khoảnh bề mặt trái đất nhận được lượng năng lượng mặt trời tối đa, vì vào mùa này mặt trời lên cao trên đường chân trời); 10. Мы ре́дко встреча́лись, потому́ что жи́ли в ра́зных города́х (Chúng tôi ít khi gặp nhau, vì sống ở hai thành phố khác nhau); 11. Лы́жи оставля́ли едва́ заме́тный след, потому́ что снег был сухо́й и пло́тный (Đôi ván trượt chỉ để lại vệt mờ khó thấy, vì tuyết khô và chắc); 12. Мне пришло́сь потра́тить не́сколько часо́в, что́бы вы́яснить, что произошло́, потому́ что информа́ции об э́том собы́тии нигде́ не́ было (Tôi phải mất mấy tiếng đồng hồ để tìm hiểu xem chuyện gì đã xảy ra, vì chẳng nơi nào có thông tin về sự kiện này); 13. Совеща́ние начало́сь без меня́, потому́ что в тот день я опозда́л на рабо́ту (Cuộc họp bắt đầu mà không có tôi, vì hôm đó tôi đi làm muộn); 14. Мне хоте́лось спать, потому́ что накану́не я просиде́л до утра́ за компью́тером (Tôi buồn ngủ díp mắt, vì đêm hôm trước tôi ngồi máy tính tới tận sáng); 15. Дви́гаться я мог с трудо́м, потому́ что неожи́данно дала́ о себе́ знать ста́рая ра́на (Tôi cử động hết sức khó khăn, vì vết thương cũ bất ngờ trở chứng); 16. Мне не́ о чем с ва́ми говори́ть, потому́ что я вас не зна́ю (Tôi chẳng có gì để nói với ông, vì tôi không biết ông)."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,577 @@
+{
+ "id": "doroga1-01",
+ "num": 1,
+ "title": "Bảng chữ cái & ngữ âm — Câu «Это дом»",
+ "vi": "Bảng chữ cái & ngữ âm — Câu «Это дом»",
+ "ru": "Урок 1 · Русский алфавит. Гласные и согласные звуки. ИК-1, ИК-3",
+ "icon": "🔤",
+ "color": "#0ea5e9",
+ "sectionPrefix": "doroga1-01-s",
+ "group": "Дорога в Россию",
+ "sections": [
+  {
+   "id": "doroga1-01-s001",
+   "type": "grammar",
+   "title": "Урок 1 — Mở đầu · Русский алфавит (Bảng chữ cái)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "goal",
+     "text": "Mục tiêu Урок 1: làm quen bảng chữ cái tiếng Nga; luyện các nguyên âm а, о, у, э, и, ы và phụ âm м, н, п, б, ф, в, т, д, л; quy tắc đọc chữ «о» không trọng âm; mẫu câu «Э́то дом» (Đây là ngôi nhà), «Анто́н до́ма» (Anton ở nhà) và ngữ điệu ИК-1 (câu kể), ИК-3 (câu hỏi không có từ để hỏi)."
+    },
+    {
+     "t": "para",
+     "text": "🎧 Audio gốc của Урок 1 nằm trong nhóm «Uroki 1–2» (17 track) — xem mục «Nghe audio gốc» ở cuối bài."
+    },
+    {
+     "t": "subhead",
+     "text": "Русский алфавит — Bảng chữ cái tiếng Nga (33 chữ cái)"
+    },
+    {
+     "t": "table",
+     "rows": [
+      ["Chữ", "Tên chữ", "Chữ", "Tên chữ", "Chữ", "Tên chữ"],
+      ["Аа", "а", "Кк", "ка", "Хх", "ха"],
+      ["Бб", "бэ", "Лл", "эль", "Цц", "цэ"],
+      ["Вв", "вэ", "Мм", "эм", "Чч", "че"],
+      ["Гг", "гэ", "Нн", "эн", "Шш", "ша"],
+      ["Дд", "дэ", "Оо", "о", "Щщ", "ща"],
+      ["Ее", "е", "Пп", "пэ", "ъ", "твёрдый знак (dấu cứng)"],
+      ["Ёё", "ё", "Рр", "эр", "ы", "ы"],
+      ["Жж", "жэ", "Сс", "эс", "ь", "мягкий знак (dấu mềm)"],
+      ["Зз", "зэ", "Тт", "тэ", "Ээ", "э"],
+      ["Ии", "и", "Уу", "у", "Юю", "ю"],
+      ["Йй", "и краткое (и ngắn)", "Фф", "эф", "Яя", "я"]
+     ]
+    },
+    {
+     "t": "para",
+     "text": "Пойте! (Hãy hát!) — luyện 5 nguyên âm theo nốt nhạc: а — о — у — э — ы."
+    }
+   ]
+  },
+  {
+   "id": "doroga1-01-s002",
+   "type": "exercise",
+   "title": "Задание 1 — Гласные звуки (Nguyên âm)",
+   "num": 1,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Слушайте, повторяйте, читайте. (Nghe, nhắc lại, đọc.) Luyện các nguyên âm."
+    },
+    {
+     "t": "para",
+     "text": "1. Аа [а]: а-а-а · а-о-у · ао-оа;  2. Оо [о]: о-о-о · о-у-а · уо-оу;  3. Уу [у]: у-у-у · у-о-а · оа-оу."
+    },
+    {
+     "t": "para",
+     "text": "4. Ээ [э]: э-э-э · а-э · аэ-эа-эо-эу;  5. Ии [и]: и-и-и · и-ы · иэ-эи-ио-иа;  6. ы [ы]: ы-ы-ы · ы-и · и-ы-а · у-ы-а."
+    },
+    {
+     "t": "note",
+     "text": "Một vài tổ hợp âm cuối trang in mờ trong bản scan (cần soát lại), nhưng nguyên tắc luyện là đọc chuỗi nguyên âm liền mạch, giữ khẩu hình rõ từng âm."
+    }
+   ]
+  },
+  {
+   "id": "doroga1-01-s003",
+   "type": "exercise",
+   "title": "Задание 2 — Читайте (Đọc chuỗi nguyên âm)",
+   "num": 2,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Читайте. (Đọc.)"
+    },
+    {
+     "t": "para",
+     "text": "а-о-у · а-ы-и · а-э-и · о-и-у | о-а-у · и-ы-а · э-и-а · и-э-а | у-о-а · у-и-э · и-а-ы | и-ы-о-у · у-а-ы-и (bản scan mờ — cần soát lại một vài tổ hợp)."
+    },
+    {
+     "t": "note",
+     "text": "Пишите (Tập viết): А а · О о · У у · Э э · И и · ы — luyện viết tay các chữ nguyên âm."
+    }
+   ]
+  },
+  {
+   "id": "doroga1-01-s004",
+   "type": "exercise",
+   "title": "Задание 3 — Согласные звуки: М, Н, П (Phụ âm)",
+   "num": 3,
+   "blocks": [
+    {
+     "t": "subhead",
+     "text": "Согласные звуки — Phụ âm"
+    },
+    {
+     "t": "instruction",
+     "text": "Слушайте, повторяйте, читайте. (Nghe, nhắc lại, đọc.)"
+    },
+    {
+     "t": "para",
+     "text": "Мм [м]: ма · мо · му · мэ · мы | а-ма · о-мо · у-му · э-мэ · ы-мы | ма-ам · мо-ом · му-ум · мэ-эм | ма́ма (mẹ), мы (chúng tôi)."
+    },
+    {
+     "t": "para",
+     "text": "Нн [н]: на · но · ну · нэ · ны | а-на · о-но · у-ну · э-нэ · ы-ны | на-ан · но-он · ну-ун · нэ-эн | он (anh ấy), но (nhưng), А́нна (Anna)."
+    },
+    {
+     "t": "para",
+     "text": "Пп [п]: па · по · пу · пы · пэ | а-па · о-по · у-пу · ы-пы · э-пэ | па-ап · по-оп · пу-уп | па́па (bố)."
+    },
+    {
+     "t": "note",
+     "text": "Пишите (Tập viết): М м — ма, му, мы, ма́ма · Н н — на, но, ну, ны, А́нна · П п — па, по, пу, пы, па́па."
+    }
+   ]
+  },
+  {
+   "id": "doroga1-01-s005",
+   "type": "grammar",
+   "title": "Phụ âm Б, Ф, В — cặp đối lập [п]–[б], [ф]–[в]",
+   "num": null,
+   "blocks": [
+    {
+     "t": "para",
+     "text": "Бб [б]: ба · а-ба · у-ба · ы-ба · бам | бо · о-бо · у-бо · ы-бо · бом | бу · у-бу · ы-бу · бум | бэ · э-бэ · бон."
+    },
+    {
+     "t": "para",
+     "text": "Phân biệt [п]–[б] (vô thanh – hữu thanh): па-ба · по-бо · пу-бу · пы-бы | па-по-ба-бо · пу-пэ-бу-бэ | па-по-пу-пэ-пы · ба-бо-бу-бэ-бы | пам-бам · пом-бом · пум-бум."
+    },
+    {
+     "t": "para",
+     "text": "Фф [ф]: фа · а-фа · фа-аф | фо · о-фо · фо-оф | фу · у-фу · фу-уф | фы · и-фы · иф-фы."
+    },
+    {
+     "t": "para",
+     "text": "Вв [в]: ва · а-ва · ы-ва · и-ва | во · о-во · у-во · и-во | ву · у-ву · ы-ву · и-ву | вы · ы-вы · и-вы | вэ · э-вэ | Вы (các bạn/ngài), вам (cho các bạn), вон (kìa)."
+    },
+    {
+     "t": "para",
+     "text": "Phân biệt [ф]–[в]: фа-ва · фо-во · фу-ву · фы-вы (vài tổ hợp ba phụ âm in mờ trong bản scan — cần soát lại)."
+    },
+    {
+     "t": "note",
+     "text": "Пишите (Tập viết): Б б — ба, бо, бу, бы · Ф ф — фа, фо, фу, фы · В в — ва, во, ву, вы."
+    }
+   ]
+  },
+  {
+   "id": "doroga1-01-s006",
+   "type": "exercise",
+   "title": "Задание 4 — [ф]–[п], [в]–[б]",
+   "num": 4,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Слушайте, повторяйте, читайте. (Nghe, nhắc lại, đọc.) Phân biệt [ф]–[п] và [в]–[б]."
+    },
+    {
+     "t": "para",
+     "text": "[ф]–[п]: фа-па-фпа · фо-по-фпо · фу-пу-фпу · фы-пы-фпы."
+    },
+    {
+     "t": "para",
+     "text": "[в]–[б]: ва-ба-вба · во-бо-вбо · ву-бу-вбу · вы-бы-вбы."
+    }
+   ]
+  },
+  {
+   "id": "doroga1-01-s007",
+   "type": "exercise",
+   "title": "Задание 5 — Phụ âm Т, Д, Л",
+   "num": 5,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Слушайте, повторяйте, читайте. (Nghe, nhắc lại, đọc.)"
+    },
+    {
+     "t": "para",
+     "text": "Тт [т]: та · а-та · та-ат | то · о-то · то-от | ту · у-ту · ту-ут | ты · и-ты | тэ | там (ở kia), тут (ở đây), тот (cái kia), вот (đây), том (tập sách), тон (giọng)."
+    },
+    {
+     "t": "para",
+     "text": "Дд [д]: да · а-да | до · о-до | ду · у-ду | ды · и-ды | дом (ngôi nhà), Дон (sông Đông), дым (khói), да (vâng) | ма-да · мо-до · му-ду · мы-ды | на-да · но-до · ну-ду · ны-ды."
+    },
+    {
+     "t": "para",
+     "text": "Phân biệt [т]–[д]: та-да · то-до · ту-ду · тэ-дэ · ты-ды | та-то-да-до · ту-ду-тэ-дэ | том-дом · там-дам · тут-дут · тва-два | фа-та-фта · фо-то-фто · фу-ту-фту · фы-ты-фты | ва-да-вда · во-до-вдо · ву-ду-вду · вы-ды-вды."
+    },
+    {
+     "t": "para",
+     "text": "Лл [л]: ла · а-ла · ла-ал · лам · мал (nhỏ) | ло · о-ло · ло-ол · лом · мол | лу · у-лу · лу-ул · мул | лы · ы-лы · выл · был (đã ở/đã là) | на-ла · но-ло · ну-лу | ма-на-ла · мо-но-ло · му-ну-лу | алло́ (alô), ла́мпа (cái đèn)."
+    },
+    {
+     "t": "note",
+     "text": "Пишите (Tập viết): Т т — та, то, ту, ты, там, вот · Д д — да · Л л — ла, ло, лу, лы, ла́мпа, алло́. Hình minh hoạ trong sách: дом (ngôi nhà), дым (khói), Дон (sông Đông); người gọi điện thoại: «Алло́! Алло́!»."
+    }
+   ]
+  },
+  {
+   "id": "doroga1-01-s008",
+   "type": "grammar",
+   "title": "Quy tắc đọc: chữ «о» không trọng âm → [а]",
+   "num": null,
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Quy tắc giảm âm (редукция): nguyên âm «о» KHÔNG mang trọng âm đọc thành [а]; chữ «а» không trọng âm vẫn đọc [а]. Vì vậy phải nhớ trọng âm của từng từ."
+    },
+    {
+     "t": "para",
+     "text": "а → [а]: там [там], И́нна [и́на] · «о» có trọng âm → [о]: дом [дом] · «о» không trọng âm → [а]: она́ [ана́]."
+    },
+    {
+     "t": "para",
+     "text": "ма́ма [ма́ма] · па́па [па́па] · алло́ [ало́] · фо́то [фо́та] · вода́ [вада́]."
+    },
+    {
+     "t": "para",
+     "text": "Сравните (Hãy so sánh): он [он] — она́ [ана́] · вот [вот] — вода́ [вада́]. Вот вода́. (Đây là nước.)"
+    }
+   ]
+  },
+  {
+   "id": "doroga1-01-s009",
+   "type": "exercise",
+   "title": "Задание 6 — Đọc từ với trọng âm đúng",
+   "num": 6,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "а) Слушайте, повторяйте, читайте. (Nghe, nhắc lại, đọc.)"
+    },
+    {
+     "t": "para",
+     "text": "он (anh ấy) · там (ở kia) · дом (ngôi nhà) · тут (ở đây) · ты (bạn) · мы (chúng tôi) · вы (các bạn)."
+    },
+    {
+     "t": "para",
+     "text": "э́то [э́та] (đây là) · фо́то [фо́та] (bức ảnh) · ма́ма [ма́ма] (mẹ) · па́па [па́па] (bố) · ла́мпа [ла́мпа] (cái đèn) · А́нна [а́нːа] (Anna) · А́лла [а́лːа] (Alla)."
+    },
+    {
+     "t": "para",
+     "text": "луна́ [луна́] (mặt trăng) · Ива́н [ива́н] (Ivan) · Анто́н [анто́н] (Anton) · она́ [ана́] (cô ấy) · вода́ [вада́] (nước)."
+    },
+    {
+     "t": "para",
+     "text": "Э́то Ива́н. (Đây là Ivan.) · Э́то ма́ма и па́па. (Đây là mẹ và bố.)"
+    }
+   ]
+  },
+  {
+   "id": "doroga1-01-s010",
+   "type": "grammar",
+   "title": "Câu «Это …» và ngữ điệu ИК-1 (câu kể)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Mẫu câu «Э́то + danh từ» = «Đây là …». Câu kể đọc với ngữ điệu ИК-1: giọng hạ xuống ở âm tiết mang trọng tâm câu."
+    },
+    {
+     "t": "para",
+     "text": "Э́то Ива́н. (Đây là Ivan.) · Э́то он. (Đây là anh ấy.) · Э́то ма́ма. (Đây là mẹ.) · Э́то па́па. (Đây là bố.) · Э́то ма́ма и па́па. (Đây là mẹ và bố.) · Э́то дом. (Đây là ngôi nhà.) · Э́то ла́мпа. (Đây là cái đèn.)"
+    },
+    {
+     "t": "para",
+     "text": "ИК-1 ↘: Э́то Ива́н. · Э́то ма́ма. · Э́то А́нна и А́лла."
+    }
+   ]
+  },
+  {
+   "id": "doroga1-01-s011",
+   "type": "exercise",
+   "title": "Задание 7 — Кто это? Что это?",
+   "num": 7,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "а) Слушайте, повторяйте, читайте. (Nghe, nhắc lại, đọc.)"
+    },
+    {
+     "t": "para",
+     "text": "Э́то дом. Э́то ла́мпа. (Đây là ngôi nhà. Đây là cái đèn.) · Э́то И́нна и Ива́н. (Đây là Inna và Ivan.) · Э́то ма́ма и па́па. (Đây là mẹ và bố.) · Э́то Ива́н, Анто́н и А́нна. (Đây là Ivan, Anton và Anna.)"
+    },
+    {
+     "t": "instruction",
+     "text": "б) Посмотрите на рисунки. Скажите: Кто э́то? Что э́то? (Nhìn tranh và nói: Đây là ai? Đây là cái gì?)"
+    },
+    {
+     "t": "note",
+     "text": "Кто? = Ai? (hỏi về người) · Что? = Cái gì? (hỏi về vật). Tranh trong sách: ngôi nhà, cái đèn, mặt trăng, bố mẹ, chàng trai…"
+    }
+   ]
+  },
+  {
+   "id": "doroga1-01-s012",
+   "type": "exercise",
+   "title": "Задание 8 — Где …? (Ở đâu?)",
+   "num": 8,
+   "blocks": [
+    {
+     "t": "para",
+     "text": "А́лла там. (Alla ở kia.) · Ива́н тут. (Ivan ở đây.) · Анто́н до́ма. (Anton ở nhà.)"
+    },
+    {
+     "t": "instruction",
+     "text": "а) Слушайте, повторяйте, читайте. (Nghe, nhắc lại, đọc.)"
+    },
+    {
+     "t": "para",
+     "text": "Э́то А́нна. Она́ тут. (Đây là Anna. Cô ấy ở đây.) · Э́то Ива́н. Он до́ма. (Đây là Ivan. Anh ấy ở nhà.) · А́нна и Ива́н до́ма. Мы тут. (Anna và Ivan ở nhà. Chúng tôi ở đây.)"
+    },
+    {
+     "t": "instruction",
+     "text": "б) Посмотрите на рисунок. Скажите: Где дом? Где Анто́н и Ива́н? Где А́нна? (Nhìn tranh và nói: Ngôi nhà ở đâu? Anton và Ivan ở đâu? Anna ở đâu?)"
+    }
+   ]
+  },
+  {
+   "id": "doroga1-01-s013",
+   "type": "grammar",
+   "title": "Ngữ điệu ИК-3 — câu hỏi không có từ để hỏi",
+   "num": null,
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Câu hỏi KHÔNG có từ để hỏi (kiểu «Đây là Anton phải không?») dùng ngữ điệu ИК-3: giọng lên cao mạnh ở từ được hỏi rồi hạ xuống. Trên chữ viết, câu hỏi này giống hệt câu kể — chỉ khác ngữ điệu và dấu «?»."
+    },
+    {
+     "t": "para",
+     "text": "— Э́то Анто́н? — Да, э́то Анто́н. / Да, э́то он. (— Đây là Anton à? — Vâng, đây là Anton. / Vâng, là anh ấy.)"
+    },
+    {
+     "t": "para",
+     "text": "ИК-3 ↗: Э́то Анто́н? · Э́то А́нна? · Ла́мпа там?"
+    },
+    {
+     "t": "para",
+     "text": "— Э́то А́нна? — Да, э́то А́нна. / Да, э́то она́. — Она́ до́ма? — Да, до́ма. / Да, она́ до́ма. (— Đây là Anna à? — Vâng, đây là Anna. / Vâng, là cô ấy. — Cô ấy ở nhà à? — Vâng, ở nhà. / Vâng, cô ấy ở nhà.)"
+    },
+    {
+     "t": "para",
+     "text": "Сравните (So sánh): ИК-1 ↘ câu kể: Э́то А́нна. · А́нна до́ма. · Там дом. — ИК-3 ↗ câu hỏi: Э́то Ива́н? · Ива́н до́ма? · Там вода́?"
+    },
+    {
+     "t": "para",
+     "text": "— Анто́н до́ма? — Да, он до́ма. · — Анто́н до́ма? — Да, Анто́н. · — Дом там? — Да, там. · — Там дом? — Да, дом. (Trọng tâm hỏi rơi vào từ nào thì giọng lên cao ở từ đó, và câu trả lời nhắc lại đúng từ ấy.)"
+    }
+   ]
+  },
+  {
+   "id": "doroga1-01-s014",
+   "type": "exercise",
+   "title": "Задание 9 — Câu kể ↔ câu hỏi",
+   "num": 9,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Слушайте, повторяйте, читайте. (Nghe, nhắc lại, đọc.)"
+    },
+    {
+     "t": "para",
+     "text": "1. Э́то Ива́н. — Э́то Ива́н? — Да, он. (Đây là Ivan. — Đây là Ivan à? — Vâng, anh ấy.) 2. А́нна до́ма. — А́нна до́ма? — Да, она́. (Anna ở nhà. — Anna ở nhà à? — Vâng, cô ấy.) 3. Ма́ма там. — Ма́ма там? — Да, там. (Mẹ ở kia. — Mẹ ở kia à? — Vâng, ở kia.) 4. Ла́мпа тут. — Ла́мпа тут? — Да, тут. (Cái đèn ở đây. — Cái đèn ở đây à? — Vâng, ở đây.)"
+    }
+   ]
+  },
+  {
+   "id": "doroga1-01-s015",
+   "type": "exercise",
+   "title": "Задание 10 — Hỏi nhau theo tranh",
+   "num": 10,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Посмотрите на рисунок и задайте друг другу вопросы. (Nhìn tranh và đặt câu hỏi cho nhau.)"
+    },
+    {
+     "t": "model",
+     "text": "— Э́то дом? — Да, э́то дом. · — Ива́н там? — Да, там. (— Đây là ngôi nhà à? — Vâng, đây là ngôi nhà. — Ivan ở kia à? — Vâng, ở kia.)"
+    }
+   ]
+  },
+  {
+   "id": "doroga1-01-s016",
+   "type": "exercise",
+   "title": "Задание 11 — Đặt câu hỏi cho bạn bè",
+   "num": 11,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Задайте друзьям эти вопросы. (Hãy đặt cho bạn bè những câu hỏi sau và để bạn trả lời.)"
+    },
+    {
+     "t": "para",
+     "text": "1. А́нна до́ма? (Anna ở nhà à?) 2. И́нна там? (Inna ở kia à?) 3. Там И́нна? (Ở kia là Inna à?) 4. Ла́мпа тут? (Cái đèn ở đây à?) 5. Тут ла́мпа? (Ở đây là cái đèn à?) 6. Там вода́? (Ở kia là nước à?) 7. Вода́ там? (Nước ở kia à?) 8. А́нна до́ма? — câu lặp ở cột khác của sách (cần soát lại bản in)."
+    }
+   ]
+  },
+  {
+   "id": "doroga1-01-s017",
+   "type": "exercise",
+   "title": "Задание 12 — Читайте (Đọc)",
+   "num": 12,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Читайте. (Đọc.)"
+    },
+    {
+     "t": "para",
+     "text": "Э́то ма́ма и па́па? Да, э́то ма́ма и па́па. (Đây là bố mẹ à? Vâng, đây là bố mẹ.) · А́нна там? Да, А́нна там. Она́ до́ма. (Anna ở kia à? Vâng, Anna ở kia. Cô ấy ở nhà.) · Э́то дом. Ла́мпа тут? Да, тут. (Đây là ngôi nhà. Cái đèn ở đây à? Vâng, ở đây.)"
+    }
+   ]
+  },
+  {
+   "id": "doroga1-01-s018",
+   "type": "exercise",
+   "title": "Задание 13 — Nói chuyện điện thoại",
+   "num": 13,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "а) Вам позвони́ли. Отве́тьте. (Có người gọi điện cho bạn. Hãy trả lời.)"
+    },
+    {
+     "t": "para",
+     "text": "— Алло́! — Да-да! — Э́то Ива́н. Анто́н до́ма? — Да, он до́ма. (— Alô! — Vâng! — Tôi là Ivan đây. Anton có nhà không? — Có, anh ấy ở nhà.)"
+    },
+    {
+     "t": "para",
+     "text": "— Алло́! — Э́то Ван Лин. И́нна до́ма? — Да, да. Она́ до́ма. (— Alô! — Tôi là Van Lin đây. Inna có nhà không? — Có, có. Cô ấy ở nhà.)"
+    },
+    {
+     "t": "instruction",
+     "text": "б) Позвони́те и узна́йте, до́ма ли Анто́н, Ива́н, А́нна, И́нна. (Hãy gọi điện và hỏi xem Anton, Ivan, Anna, Inna có ở nhà không.)"
+    }
+   ]
+  },
+  {
+   "id": "doroga1-01-s019",
+   "type": "grammar",
+   "title": "Từ vựng Урок 1 (Лексика)",
+   "num": null,
+   "blocks": [
+    {"t": "vocab", "ru": "ма́ма", "vi": "mẹ", "g": null},
+    {"t": "vocab", "ru": "па́па", "vi": "bố, cha", "g": null},
+    {"t": "vocab", "ru": "дом", "vi": "ngôi nhà", "g": null},
+    {"t": "vocab", "ru": "до́ма", "vi": "ở nhà (trạng từ: Он до́ма — Anh ấy ở nhà)", "g": null},
+    {"t": "vocab", "ru": "дым", "vi": "khói", "g": null},
+    {"t": "vocab", "ru": "ла́мпа", "vi": "cái đèn", "g": null},
+    {"t": "vocab", "ru": "фо́то", "vi": "bức ảnh", "g": null},
+    {"t": "vocab", "ru": "вода́", "vi": "nước", "g": null},
+    {"t": "vocab", "ru": "луна́", "vi": "mặt trăng", "g": null},
+    {"t": "vocab", "ru": "он", "vi": "anh ấy, ông ấy; nó (giống đực)", "g": null},
+    {"t": "vocab", "ru": "она́", "vi": "cô ấy, bà ấy; nó (giống cái)", "g": null},
+    {"t": "vocab", "ru": "ты", "vi": "bạn, cậu (xưng hô thân mật)", "g": null},
+    {"t": "vocab", "ru": "мы", "vi": "chúng tôi, chúng ta", "g": null},
+    {"t": "vocab", "ru": "вы", "vi": "các bạn; ông/bà (xưng hô lịch sự)", "g": null},
+    {"t": "vocab", "ru": "там", "vi": "ở kia, ở đó", "g": null},
+    {"t": "vocab", "ru": "тут", "vi": "ở đây", "g": null},
+    {"t": "vocab", "ru": "вот", "vi": "đây là, đây (kèm chỉ trỏ): Вот вода́ — Đây là nước", "g": null},
+    {"t": "vocab", "ru": "вон", "vi": "kìa, đằng kia (xa hơn «вот»)", "g": null},
+    {"t": "vocab", "ru": "э́то", "vi": "đây là; cái này, điều này", "g": null},
+    {"t": "vocab", "ru": "да", "vi": "vâng, đúng vậy", "g": null},
+    {"t": "vocab", "ru": "и", "vi": "và", "g": null},
+    {"t": "vocab", "ru": "но", "vi": "nhưng", "g": null},
+    {"t": "vocab", "ru": "алло́", "vi": "alô (khi nghe điện thoại)", "g": null},
+    {"t": "vocab", "ru": "кто", "vi": "ai (hỏi về người)", "g": null},
+    {"t": "vocab", "ru": "что", "vi": "cái gì (hỏi về vật)", "g": null},
+    {"t": "vocab", "ru": "где", "vi": "ở đâu", "g": null},
+    {"t": "vocab", "ru": "Дон", "vi": "sông Đông (tên sông ở Nga)", "g": null},
+    {
+     "t": "note",
+     "text": "Tên người Nga gặp trong bài: А́нна (Anna), А́лла (Alla), И́нна (Inna), Ива́н (Ivan), Анто́н (Anton)."
+    }
+   ]
+  },
+  {
+   "id": "doroga1-01-s020",
+   "type": "grammar",
+   "title": "Домашнее задание — Bài tập về nhà",
+   "num": null,
+   "blocks": [
+    {
+     "t": "subhead",
+     "text": "Дома́шнее зада́ние (Bài tập về nhà)"
+    },
+    {
+     "t": "instruction",
+     "text": "1а) Каки́е вопро́сы за́дал Анто́н? (Anton đã hỏi những câu gì?) Khôi phục câu hỏi dựa vào câu trả lời."
+    },
+    {
+     "t": "para",
+     "text": "— …? — Да, он до́ма. · — …? — Да, э́то дом. · — …? — Да, там. · — …? — Да, ла́мпа тут. · — …? — Да, э́то фо́то. · — …? — Да, тут вода́."
+    },
+    {
+     "t": "instruction",
+     "text": "1б) Как Ива́н отве́тил на вопро́сы? Напиши́те. (Ivan đã trả lời các câu hỏi thế nào? Hãy viết câu trả lời.)"
+    },
+    {
+     "t": "para",
+     "text": "— Э́то Анто́н? — … · — А́нна до́ма? — … · — Вода́ там? — … · — Э́то И́нна? — … · — Ла́мпа тут? — … · — Э́то фо́то? — … (câu cuối in mờ — cần soát lại)."
+    },
+    {
+     "t": "instruction",
+     "text": "2) Напиши́те слова́ и предложе́ния и поста́вьте ударе́ния. (Viết các từ và câu sau, đánh dấu trọng âm.)"
+    },
+    {
+     "t": "para",
+     "text": "мы, он, она́, вы, ма́ма, па́па, А́нна, Анто́н, Ива́н, дом, там, тут, ла́мпа, до́ма, фо́то, вода́. — Э́то дом. Там ла́мпа. Ма́ма и па́па до́ма."
+    },
+    {
+     "t": "instruction",
+     "text": "3) Напиши́те упражне́ния 7(б), 8(б), 10, 11, 12. (Viết các bài tập 7b, 8b, 10, 11, 12 vào vở.)"
+    },
+    {
+     "t": "instruction",
+     "text": "4) Найди́те отве́ты на вопро́сы. Напиши́те вопро́сы и отве́ты. (Ghép câu hỏi với câu trả lời rồi viết lại cả cặp.)"
+    },
+    {
+     "t": "table",
+     "rows": [
+      ["Câu hỏi", "Câu trả lời"],
+      ["Э́то Ива́н?", "Да, он."],
+      ["Ма́ма до́ма?", "Да, она́ до́ма."],
+      ["Там вода́?", "Да, вода́."],
+      ["Фо́то тут?", "Да, тут."],
+      ["Тут ла́мпа?", "Да, ла́мпа."]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "doroga1-01-s021",
+   "type": "grammar",
+   "title": "Nghe audio gốc — Уроки 1–2",
+   "num": null,
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Đĩa audio gốc gộp chung Урок 1 và Урок 2 thành nhóm «Uroki 1–2» (17 track, không ghi số track trong sách). Các bài «Слушайте, повторяйте» của Урок 1 (Задания 1, 3–6, 8, 9) nghe lần lượt theo các track đầu; phần sau thuộc Урок 2."
+    },
+    {"t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/01.mp3", "label": "Уроки 1–2 · Track 1"},
+    {"t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/02.mp3", "label": "Уроки 1–2 · Track 2"},
+    {"t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/03.mp3", "label": "Уроки 1–2 · Track 3"},
+    {"t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/04.mp3", "label": "Уроки 1–2 · Track 4"},
+    {"t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/05.mp3", "label": "Уроки 1–2 · Track 5"},
+    {"t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/06.mp3", "label": "Уроки 1–2 · Track 6"},
+    {"t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/07.mp3", "label": "Уроки 1–2 · Track 7"},
+    {"t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/08.mp3", "label": "Уроки 1–2 · Track 8"},
+    {"t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/09.mp3", "label": "Уроки 1–2 · Track 9"},
+    {"t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/10.mp3", "label": "Уроки 1–2 · Track 10"},
+    {"t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/11.mp3", "label": "Уроки 1–2 · Track 11"},
+    {"t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/12.mp3", "label": "Уроки 1–2 · Track 12"},
+    {"t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/13.mp3", "label": "Уроки 1–2 · Track 13"},
+    {"t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/14.mp3", "label": "Уроки 1–2 · Track 14"},
+    {"t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/15.mp3", "label": "Уроки 1–2 · Track 15"},
+    {"t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/16.mp3", "label": "Уроки 1–2 · Track 16"},
+    {"t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/17.mp3", "label": "Уроки 1–2 · Track 17"}
+   ]
+  }
+ ]
+}

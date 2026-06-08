@@ -1,0 +1,1171 @@
+{
+ "id": "gra-03",
+ "num": 3,
+ "title": "Liên kết phụ thuộc: điều khiển không giới từ",
+ "vi": "Liên kết phụ thuộc: điều khiển không giới từ",
+ "ru": "Подчинительная связь: управление без предлогов",
+ "icon": "📐",
+ "color": "#14b8a6",
+ "sectionPrefix": "gra-03-s",
+ "sections": [
+  {
+   "id": "gra-03-s001",
+   "type": "exercise",
+   "title": "Управление глаголов (Sự điều khiển của động từ)",
+   "num": null,
+   "blocks": []
+  },
+  {
+   "id": "gra-03-s002",
+   "type": "exercise",
+   "title": "Упражнение 8",
+   "num": 8,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Đọc các cụm từ động từ + danh từ không có giới từ. Chú ý đến các trường hợp điều khiển giống nhau của các động từ gần nghĩa."
+    },
+    {
+     "t": "para",
+     "text": "а) Глаго́л + роди́тельный паде́ж существи́тельного (Động từ + danh từ Cách 2):"
+    },
+    {
+     "t": "para",
+     "text": "хоте́ть (жела́ть) (muốn/ao ước) сча́стья (hạnh phúc), здоро́вья (sức khỏe), поко́я (sự yên bình);"
+    },
+    {
+     "t": "note",
+     "text": "Lưu ý (1): Các động từ хоте́ть (muốn), жела́ть (ao ước), проси́ть (xin), тре́бовать (đòi hỏi), ждать (chờ đợi) được dùng với danh từ ở Cách 2 (Sinh cách) khi mang nghĩa trừu tượng: хоте́ть сча́стья (muốn hạnh phúc), здоро́вья (sức khỏe), поко́я (yên bình), và dùng với danh từ ở Cách 4 (Đối cách) khi mang nghĩa cụ thể: хоте́ть конфе́ту (muốn cái kẹo), торт (bánh gato), моро́женое (kem)."
+    },
+    {
+     "t": "para",
+     "text": "достига́ть/дости́чь (đạt được) побе́ды (chiến thắng), верши́ны (đỉnh cao), справедли́вости (sự công bằng);"
+    },
+    {
+     "t": "para",
+     "text": "проси́ть/попроси́ть (xin), (тре́бовать/потре́бовать) (đòi hỏi) по́мощи (sự giúp đỡ);"
+    },
+    {
+     "t": "para",
+     "text": "ждать/подожда́ть (chờ đợi) реше́ния (quyết định), сообще́ния (tin nhắn/thông báo);"
+    },
+    {
+     "t": "para",
+     "text": "боя́ться (sợ), (пуга́ться/испуга́ться (hoảng sợ), опаса́ться (e ngại)) темноты́ (bóng tối), мыше́й (chuột)."
+    },
+    {
+     "t": "note",
+     "text": "! (Gợi ý ngữ pháp): Trong liên kết điều khiển, từ phụ thuộc đứng ở dạng cách gián tiếp (các cách khác ngoài Danh cách) có giới từ hoặc không có giới từ và không thay đổi theo dạng của từ chính. Bất kỳ từ loại nào cũng có thể đóng vai trò là từ chính trong liên kết điều khiển."
+    },
+    {
+     "t": "note",
+     "text": "! (Gợi ý ngữ pháp): Trong liên kết điều khiển, từ phụ thuộc gắn với từ chính không có giới từ trong trường hợp nó đóng vai trò là đối tượng trực tiếp; nếu từ phụ thuộc đại diện cho một tình huống, nó được sử dụng trong cụm từ có giới từ: чита́ть кни́гу (đọc sách - đối tượng trực tiếp) — чита́ть о живо́тных (đọc về động vật - về việc động vật cư xử như thế nào)."
+    },
+    {
+     "t": "para",
+     "text": "б) Глаго́л + да́тельный паде́ж существи́тельного (Động từ + danh từ Cách 3):"
+    },
+    {
+     "t": "para",
+     "text": "ве́рить/пове́рить (tin), (доверя́ть) (tin tưởng) лю́дям (con người), изве́стию (tin tức);"
+    },
+    {
+     "t": "para",
+     "text": "ра́доваться/обра́доваться (vui mừng) встре́че (cuộc gặp gỡ);"
+    },
+    {
+     "t": "para",
+     "text": "зави́довать/позави́довать (ghen tị) успе́хам (thành công);"
+    },
+    {
+     "t": "para",
+     "text": "улыба́ться/улыбну́ться (mỉm cười với) ребёнку (đứa bé);"
+    },
+    {
+     "t": "para",
+     "text": "нра́виться/понра́виться (làm hài lòng/được yêu thích bởi) гостя́м (khách);"
+    },
+    {
+     "t": "para",
+     "text": "сочу́вствовать/посочу́вствовать (cảm thông) дру́гу (bạn bè), го́рю (nỗi đau khổ);"
+    },
+    {
+     "t": "para",
+     "text": "меша́ть/помеша́ть (làm phiền/cản trở) заня́тиям (việc học tập);"
+    },
+    {
+     "t": "para",
+     "text": "вреди́ть/навреди́ть (gây hại) здоро́вью (sức khỏe);"
+    },
+    {
+     "t": "para",
+     "text": "говори́ть/сказа́ть (nói với) прия́телю (người bạn)."
+    },
+    {
+     "t": "para",
+     "text": "в) Глаго́л + вини́тельный паде́ж существи́тельного (Động từ + danh từ Cách 4):"
+    },
+    {
+     "t": "para",
+     "text": "чита́ть/прочита́ть (đọc), (просма́тривать/просмотре́ть) (xem lướt qua) рома́н (tiểu thuyết);"
+    },
+    {
+     "t": "para",
+     "text": "писа́ть/написа́ть (viết), (сочиня́ть/сочини́ть) (sáng tác) письмо́ (bức thư);"
+    },
+    {
+     "t": "para",
+     "text": "люби́ть (yêu), (обожа́ть (tôn sùng/yêu mến), жале́ть (thương hại/tiếc), уважа́ть (tôn trọng)) роди́телей (bố mẹ);"
+    },
+    {
+     "t": "para",
+     "text": "ненави́деть (ghét), (презира́ть) (khinh miệt) врага́ (kẻ thù);"
+    },
+    {
+     "t": "para",
+     "text": "защища́ть/защити́ть (bảo vệ) диссерта́цию (luận án), (своё мне́ние) (ý kiến của mình);"
+    },
+    {
+     "t": "para",
+     "text": "учи́ть/вы́учить (học) но́вые слова́ (từ mới);"
+    },
+    {
+     "t": "para",
+     "text": "изуча́ть/изучи́ть (nghiên cứu/học) ру́сский язы́к (tiếng Nga);"
+    },
+    {
+     "t": "para",
+     "text": "де́лать/сде́лать (làm), (выполня́ть/вы́полнить (hoàn thành), проверя́ть/прове́рить (kiểm tra)) зада́ние (nhiệm vụ/bài tập);"
+    },
+    {
+     "t": "para",
+     "text": "брать/взять (lấy), (дава́ть/дать (đưa), покупа́ть/купи́ть (mua), продава́ть/прода́ть (bán), име́ть (có)) кни́гу (quyển sách)."
+    },
+    {
+     "t": "para",
+     "text": "г) Глаго́л + твори́тельный паде́ж существи́тельного (Động từ + danh từ Cách 5):"
+    },
+    {
+     "t": "para",
+     "text": "интересова́ться/заинтересова́ться (quan tâm), (увлека́ться/увле́чься (say mê), наслажда́ться (thưởng thức), восхища́ться (ngưỡng mộ), дорожи́ть (trân trọng)) поэ́зией (thơ ca);"
+    },
+    {
+     "t": "para",
+     "text": "занима́ться/заня́ться (tập luyện/làm) спо́ртом (thể thao);"
+    },
+    {
+     "t": "para",
+     "text": "горди́ться (tự hào), (хва́статься/похва́статься) (khoe khoang) зна́ниями (kiến thức);"
+    },
+    {
+     "t": "para",
+     "text": "отлича́ться/отличи́ться (nổi bật/khác biệt), (сла́виться/просла́виться) (nổi tiếng) умо́м (trí thông minh);"
+    },
+    {
+     "t": "para",
+     "text": "руководи́ть (lãnh đạo), (кома́ндовать) (chỉ huy) людьми́ (con người);"
+    },
+    {
+     "t": "para",
+     "text": "боле́ть/заболе́ть (bị ốm/mắc bệnh) гри́ппом (cúm);"
+    },
+    {
+     "t": "para",
+     "text": "страда́ть (bị/mắc chứng) расстро́йством па́мяти (rối loạn trí nhớ);"
+    },
+    {
+     "t": "para",
+     "text": "же́ртвовать/поже́ртвовать (hy sinh) жи́знью (cuộc sống/tính mạng);"
+    },
+    {
+     "t": "para",
+     "text": "по́льзоваться/воспо́льзоваться (sử dụng/tận dụng) сове́том (lời khuyên), (компью́тером) (máy vi tính)."
+    },
+    {
+     "t": "para",
+     "text": "д) Глаго́л + предло́жный паде́ж существи́тельного (Động từ + danh từ Cách 6):"
+    },
+    {
+     "t": "para",
+     "text": "(Ghi chú ngữ pháp): Danh từ ở Cách 6 (Giới cách) chỉ được sử dụng với giới từ."
+    },
+    {
+     "t": "para",
+     "text": "Với mỗi động từ hãy đặt một vài cụm từ. Biến đổi chúng theo ngôi và số."
+    }
+   ]
+  },
+  {
+   "id": "gra-03-s003",
+   "type": "exercise",
+   "title": "Упражнение 9",
+   "num": 9,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Sử dụng các cấu trúc dưới đây, hãy xác định ý nghĩa của các thành phần phụ thuộc trong thành phần cụm động từ không có giới từ. Xác định chúng đặc trưng cho những cách nào ở mức độ lớn hơn."
+    },
+    {
+     "t": "para",
+     "text": "объе́кт жела́ния и́ли опасе́ния (đối tượng của mong muốn hoặc lo sợ) -> Thường là Cách 2 (Родительный падеж) (ví dụ: хоте́ть сча́стья, боя́ться темноты́)."
+    },
+    {
+     "t": "para",
+     "text": "носи́тель эмоциона́льного или физи́ческого состоя́ния (vật mang trạng thái cảm xúc hoặc thể chất) -> Thường là Cách 3 (Дательный падеж) (khi chỉ người trải nghiệm trạng thái, ví dụ trong câu vô nhân xưng мне гру́стно - tôi buồn) hoặc Cách 4 (Винительный падеж) (làm đối tượng trực tiếp bị tác động, ví dụ люби́ть ма́му). Lưu ý: Trong ngữ cảnh bài tập 8, nhóm b) (cách 3) như сочу́вствовать дру́гу (cảm thông với bạn - bạn là người chịu đựng trạng thái) phù hợp nhất."
+    },
+    {
+     "t": "para",
+     "text": "исто́чник состоя́ния субъе́кта (nguồn gốc trạng thái của chủ thể) -> Thường là Cách 5 (Творительный падеж) (ví dụ: боле́ть гри́ппом - ốm do cúm/bị cúm)."
+    },
+    {
+     "t": "para",
+     "text": "объе́кт эмоциона́льного состоя́ния и́ли интере́са (đối tượng của trạng thái cảm xúc hoặc sự quan tâm) -> Thường là Cách 5 (Творительный падеж) (ví dụ: интересова́ться пое́зией, горди́ться сы́ном) hoặc Cách 3 (Дательный падеж) (ví dụ: ра́доваться встре́че)."
+    },
+    {
+     "t": "para",
+     "text": "объе́кт физи́ческих и́ли мента́льных де́йствий (đối tượng của hành động vật lý hoặc tinh thần) -> Thường là Cách 4 (Винительный падеж) (ví dụ: чита́ть кни́гу, стро́ить дом)."
+    }
+   ]
+  },
+  {
+   "id": "gra-03-s004",
+   "type": "exercise",
+   "title": "Упражнение 10",
+   "num": 10,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy tìm trong văn bản các cụm từ động từ + danh từ không có giới từ. Xác định cách và ý nghĩa của các từ phụ thuộc."
+    },
+    {
+     "t": "para",
+     "text": "Văn bản (trích tác phẩm của Ch. Aitmatov):"
+    },
+    {
+     "t": "para",
+     "text": "Казанга́пу тогда́ уже́ бы́ло лет под со́рок. (Lúc đó Kazangap đã gần bốn mươi tuổi.)"
+    },
+    {
+     "t": "para",
+     "text": "А вполне́ возмо́жно, так каза́лось оттого́, что и усы́, ко́ротко подстри́женные щёточкой, и небольша́я бу́рая боро́дка придава́ли ему́ черты́ жи́зненной зре́лости. (Và rất có thể, có vẻ như vậy là do cả bộ ria mép được cắt ngắn như bàn chải, và bộ râu nhỏ màu nâu đã mang lại cho ông ấy những nét chín chắn từng trải.)"
+    },
+    {
+     "t": "para",
+     "text": "Но бо́льше всего́ дове́рие он внуша́л рассуди́тельностью ре́чи. (Nhưng hơn tất cả, ông gợi lên sự tin cậy bằng sự chín chắn trong lời nói.)"
+    },
+    {
+     "t": "para",
+     "text": "внуша́л дове́рие (gợi lên sự tin cậy): дове́рие - Cách 4 (Винительный падеж), đối tượng của hành động."
+    },
+    {
+     "t": "para",
+     "text": "Укуба́ла сра́зу прони́клась уваже́нием к э́тому челове́ку. (Ukubala ngay lập tức cảm thấy kính trọng người đàn ông này.)"
+    },
+    {
+     "t": "para",
+     "text": "прони́клась уваже́нием (thấm nhuần sự kính trọng): уваже́нием - Cách 5 (Творительный падеж), đối tượng cảm xúc/trạng thái."
+    },
+    {
+     "t": "para",
+     "text": "И всё, что он говори́л, бы́ло к ме́сту. (Và tất cả những gì ông nói đều đúng chỗ/hợp lý.)"
+    },
+    {
+     "t": "para",
+     "text": "Раз, говори́т, така́я беда́, конту́зия ещё в те́ле сиди́т, то к чему́ здоро́вью вреди́ть. (Một khi, ông nói, đã có tai họa như vậy, chấn thương vẫn còn trong cơ thể, thì làm hại sức khỏe để làm gì.)"
+    },
+    {
+     "t": "para",
+     "text": "здоро́вью вреди́ть (làm hại sức khỏe): здоро́вью - Cách 3 (Дательный падеж), đối tượng chịu tác động tiêu cực."
+    },
+    {
+     "t": "para",
+     "text": "Я, говори́т, сра́зу приме́тил, Едиге́й, через си́лу даётся тебе́ э́та рабо́та. (Tôi, ông nói, đã nhận thấy ngay, Edigei à, công việc này quá sức đối với cậu.)"
+    },
+    {
+     "t": "para",
+     "text": "приме́тил... Едиге́й (để ý/nhận thấy... Edigei? - Lưu ý: Ở đây \"Едигей\" là hô ngữ, không phải bổ ngữ. Bổ ngữ ẩn là tình huống). Tuy nhiên, nếu xét \"приметил (кого?)\" thì có thể hiểu ngầm là nhận thấy cậu."
+    },
+    {
+     "t": "para",
+     "text": "даётся тебе́ (được trao cho/xảy ra với cậu - nghĩa là cậu làm việc này vất vả): тебе́ - Cách 3 (Дательный падеж), chủ thể trải nghiệm trạng thái khó khăn."
+    },
+    {
+     "t": "para",
+     "text": "Не окре́п ты ещё для таки́х дел. (Cậu vẫn chưa khỏe hẳn cho những việc như thế.)"
+    },
+    {
+     "t": "para",
+     "text": "Но́ги едва́ таска́ешь. (Chân cậu lê đi trầy trật/Cậu lê chân một cách khó nhọc.)"
+    },
+    {
+     "t": "para",
+     "text": "но́ги... таска́ешь (lê chân): но́ги - Cách 4 (Винительный падеж), đối tượng của hành động vật lý."
+    },
+    {
+     "t": "para",
+     "text": "Сейча́с бы тебе́ побы́ть где поле́гче, на све́жем во́здухе, молока́ це́льного попи́ть вво́лю. (Bây giờ cậu nên ở đâu đó nhẹ nhàng hơn, trong không khí trong lành, uống thỏa thích sữa nguyên kem.)"
+    },
+    {
+     "t": "para",
+     "text": "молока́... попи́ть (uống sữa): молока́ - Cách 2 (Родительный падеж - chỉ một phần/số lượng), đối tượng tiêu thụ."
+    },
+    {
+     "t": "para",
+     "text": "Вот, ска́жем, у нас на разъе́зде лю́ди по кра́й нужны́ на путевы́х рабо́тах. (Ví dụ như ở chỗ ga xép của chúng tôi, người ta đang cực kỳ cần người cho công việc đường sắt.)"
+    },
+    {
+     "t": "para",
+     "text": "Но́вый нача́льник разъе́зда вся́кий раз речь заво́дит: ты, мол, старожи́л, зазови́ к нам подходя́щих люде́й. (Ông trưởng ga xép mới lần nào cũng bắt đầu câu chuyện: ông là người sống lâu năm, hãy gọi những người phù hợp đến chỗ chúng tôi.)"
+    },
+    {
+     "t": "para",
+     "text": "речь заво́дит (bắt đầu câu chuyện/lời nói): речь - Cách 4 (Винительный падеж), đối tượng của hành động."
+    },
+    {
+     "t": "para",
+     "text": "зазови́... люде́й (gọi/mời mọi người): люде́й - Cách 4 (Винительный падеж), đối tượng của hành động (người)."
+    },
+    {
+     "t": "para",
+     "text": "А где они́, таки́е лю́ди? Все на войне́. (Nhưng họ ở đâu, những người như thế? Tất cả đều ở chiến tranh.)"
+    },
+    {
+     "t": "para",
+     "text": "А кто отвоева́л, так тем и в други́х места́х рабо́ты хвата́ет. (Còn ai đã đánh xong trận, thì họ cũng có đủ việc làm ở những nơi khác.)"
+    },
+    {
+     "t": "para",
+     "text": "тем... хвата́ет (họ có đủ...): тем - Cách 3 (Дательный падеж), chủ thể sở hữu/trải nghiệm trong câu vô nhân xưng."
+    },
+    {
+     "t": "para",
+     "text": "рабо́ты хвата́ет (đủ việc làm): рабо́ты - Cách 2 (Родительный падеж), đối tượng của sự hiện hữu/đủ đầy."
+    },
+    {
+     "t": "para",
+     "text": "Коне́чно, и у нас житьё не рай. (Tất nhiên, cuộc sống ở chỗ chúng tôi cũng không phải thiên đường.)"
+    },
+    {
+     "t": "para",
+     "text": "В тя́жком ме́сте пребыва́ем — круго́м сарозе́ки, безлю́дье да безво́дье. (Chúng tôi ở một nơi khắc nghiệt - xung quanh là thảo nguyên Sarozeiki, không người và không nước.)"
+    },
+    {
+     "t": "para",
+     "text": "Во́ду приво́зят в цисте́рне на неде́лю. (Nước người ta chở đến trong xe bồn dùng cho cả tuần.)"
+    },
+    {
+     "t": "para",
+     "text": "во́ду приво́зят (chở nước): во́ду - Cách 4 (Винительный падеж), đối tượng của hành động."
+    },
+    {
+     "t": "para",
+     "text": "И то́же перебо́и в приво́зе воды́ случа́ются. (Và cũng xảy ra những gián đoạn trong việc chở nước.)"
+    },
+    {
+     "t": "para",
+     "text": "А всё равно́, говори́л Казанга́п, лу́чше в сарозе́ках быть на своём отши́бе, чем так мыта́риться по ра́зным места́м. (Nhưng dù sao, Kazangap nói, thà ở Sarozeiki ở nơi hẻo lánh của mình, còn hơn là vất vưởng khắp nơi như thế.)"
+    },
+    {
+     "t": "para",
+     "text": "Кры́ша над голово́й бу́дет, постоя́нная рабо́та бу́дет, пока́жем, нау́чим, что на́до де́лать, да своё хозя́йство мо́жно завести́. (Sẽ có mái nhà trên đầu, sẽ có công việc ổn định, chúng tôi sẽ chỉ bảo, sẽ dạy phải làm gì, và có thể lập trang trại/kinh tế riêng.)"
+    },
+    {
+     "t": "para",
+     "text": "что... де́лать (làm gì): что - Cách 4 (Винительный падеж), đối tượng hành động."
+    },
+    {
+     "t": "para",
+     "text": "хозя́йство... завести́ (lập/gây dựng kinh tế/trang trại): хозя́йство - Cách 4 (Винительный падеж), đối tượng hành động."
+    },
+    {
+     "t": "para",
+     "text": "Э́то как ру́ки прило́жишь. (Điều đó tùy thuộc vào việc cậu bắt tay vào làm như thế nào/cố gắng ra sao.)"
+    },
+    {
+     "t": "para",
+     "text": "ру́ки прило́жишь (đặt tay vào/bắt tay vào làm): ру́ки - Cách 4 (Винительный падеж), công cụ/đối tượng thành ngữ."
+    },
+    {
+     "t": "para",
+     "text": "Вдвоём-то, говоря́т, вы вполне́ зарабо́таете на жизнь. (Hai người, người ta nói, các bạn sẽ kiếm đủ sống.)"
+    },
+    {
+     "t": "para",
+     "text": "А там здоро́вье вернётся, вре́мя пока́жет, заскуча́ете — подади́тесь куда́ полу́чше… (Ч. Айтма́тов). (Rồi sức khỏe sẽ trở lại, thời gian sẽ trả lời (thời gian sẽ chỉ cho thấy), nếu buồn chán — các bạn sẽ đi đến nơi nào tốt hơn... (Ch. Aitmatov).)"
+    },
+    {
+     "t": "para",
+     "text": "вре́мя пока́жет (thời gian sẽ chỉ ra): время là chủ ngữ, nhưng nếu xét cụm động từ thì покажет (sẽ chỉ ra) thường đi với что (cái gì - bổ ngữ ẩn). [Lưu ý: Trong câu này время là chủ ngữ, покажет là vị ngữ, không phải cụm ĐT+DT phụ thuộc]."
+    },
+    {
+     "t": "para",
+     "text": "Dưới đây là phần dịch và giải thích chi tiết cho các bài tập 11, 12 và 13."
+    }
+   ]
+  },
+  {
+   "id": "gra-03-s005",
+   "type": "exercise",
+   "title": "Упражнение 11",
+   "num": 11,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Mở ngoặc đơn, sử dụng các danh từ ở đúng dạng. Giải thích sự lựa chọn của bạn."
+    },
+    {
+     "t": "para",
+     "text": "Он всегда́ отлича́лся хра́бростью, но име́л доста́точно та́кта и сде́ржанности, что́бы не демонстри́ровать своё геро́йство ка́ждую мину́ту;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Anh ấy luôn nổi bật bởi sự dũng cảm, nhưng có đủ sự tế nhị và kiềm chế để không phô trương sự anh hùng của mình mỗi phút."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "отлича́лся хра́бростью: Động từ отлича́ться/отличи́ться (nổi bật, khác biệt) yêu cầu danh từ ở Cách 5 (Tạo cách - Творительный падеж)."
+    },
+    {
+     "t": "para",
+     "text": "име́л та́кта и сде́ржанности: Ở đây dùng Cách 2 (Sinh cách - Родительный падеж) chỉ số lượng bộ phận (partitive genitive) sau từ chỉ lượng доста́точно (đủ)."
+    },
+    {
+     "t": "para",
+     "text": "демонстри́ровать своё геро́йство: Động từ демонстри́ровать (phô trương, trình diễn) yêu cầu Cách 4 (Đối cách - Винительный падеж) cho đối tượng trực tiếp."
+    },
+    {
+     "t": "para",
+     "text": "Зави́довать успе́ху друго́го челове́ка мо́жет то́лько неуда́чник, си́льный челове́к обы́чно восхища́ется чужи́ми побе́дами;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Chỉ kẻ thất bại mới có thể ghen tị với thành công của người khác, người mạnh mẽ thường ngưỡng mộ những chiến thắng của người khác."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "зави́довать успе́ху: Động từ зави́довать (ghen tị) yêu cầu Cách 3 (Tặng cách - Дательный падеж)."
+    },
+    {
+     "t": "para",
+     "text": "восхища́ется чужи́ми побе́дами: Động từ восхища́ться (ngưỡng mộ) yêu cầu Cách 5 (Tạo cách - Творительный падеж)."
+    },
+    {
+     "t": "para",
+     "text": "Уме́ние сочу́вствовать чужо́му го́рю и ра́доваться чужи́м достиже́ниям — ре́дкие ка́чества в челове́ке, э́то почти́ тала́нт;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Khả năng cảm thông với nỗi đau khổ của người khác và vui mừng trước những thành tựu của người khác là những phẩm chất hiếm có ở con người, đó gần như là một tài năng."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "сочу́вствовать чужо́му го́рю: Động từ сочу́вствовать (cảm thông) yêu cầu Cách 3."
+    },
+    {
+     "t": "para",
+     "text": "ра́доваться чужи́м достиже́ниям: Động từ ра́доваться (vui mừng) yêu cầu Cách 3."
+    },
+    {
+     "t": "para",
+     "text": "Она́ учи́лась на тре́тьем ку́рсе в университе́те, изуча́ла эконо́мику, занима́лась обще́ственными нау́ками;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Cô ấy học năm thứ ba tại trường đại học, nghiên cứu kinh tế học, tham gia nghiên cứu (làm về) các môn khoa học xã hội."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "изуча́ла эконо́мику: Động từ изуча́ть (nghiên cứu, học) yêu cầu Cách 4 (Đối cách)."
+    },
+    {
+     "t": "para",
+     "text": "занима́лась обще́ственными нау́ками: Động từ занима́ться (tập luyện, làm việc gì đó) yêu cầu Cách 5."
+    },
+    {
+     "t": "para",
+     "text": "Он ча́сто проси́л по́мощи у свои́х колле́г, но я не по́мню, что́бы он когда́-нибудь воспо́льзовался сове́том друго́го челове́ка;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Anh ấy thường xuyên xin sự giúp đỡ từ các đồng nghiệp của mình, nhưng tôi không nhớ là anh ấy đã bao giờ tận dụng lời khuyên của người khác."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "проси́л по́мощи: Động từ проси́ть (xin) đi với danh từ trừu tượng thường dùng Cách 2 (Sinh cách - Родительный падеж)."
+    },
+    {
+     "t": "para",
+     "text": "воспо́льзовался сове́том: Động từ воспо́льзоваться (tận dụng, sử dụng) yêu cầu Cách 5."
+    },
+    {
+     "t": "para",
+     "text": "Для того́ что́бы быть хоро́шим руководи́телем, то есть руководи́ть подчинёнными так, что́бы им бы́ло прия́тно и что́бы результа́ты их труда́ бы́ли заме́тны, на́до бо́льше доверя́ть лю́дям;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Để trở thành một người lãnh đạo giỏi, nghĩa là lãnh đạo cấp dưới sao cho họ cảm thấy dễ chịu và để kết quả lao động của họ được ghi nhận, cần phải tin tưởng mọi người nhiều hơn."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "руководи́ть подчинёнными: Động từ руководи́ть (lãnh đạo) yêu cầu Cách 5."
+    },
+    {
+     "t": "para",
+     "text": "доверя́ть лю́дям: Động từ доверя́ть (tin tưởng) yêu cầu Cách 3."
+    },
+    {
+     "t": "para",
+     "text": "Я всегда́ ненави́дел зубрёжку, но часа́ми учи́л незнако́мые слова́, так как опаса́лся плохо́й оце́нки;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Tôi luôn ghét việc học vẹt, nhưng tôi đã học hàng giờ những từ mới, vì tôi lo ngại bị điểm kém."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "ненави́дел зубрёжку: Động từ ненави́деть (ghét) yêu cầu Cách 4."
+    },
+    {
+     "t": "para",
+     "text": "учи́л незнако́мые слова́: Động từ учи́ть (học) yêu cầu Cách 4."
+    },
+    {
+     "t": "para",
+     "text": "опаса́лся плохо́й оце́нки: Động từ опаса́ться (e ngại, lo sợ) yêu cầu Cách 2 (Sinh cách)."
+    },
+    {
+     "t": "para",
+     "text": "Она́ была́ о́чень разносторо́нним челове́ком: обожа́ла литерату́ру, интересова́лась жи́вописью, занима́лась спо́ртом, сама́ сочиня́ла стихи́, но бо́льше всего́ мы восхища́лись её уме́нием оцени́ть обстано́вку и прийти́ на по́мощь друзья́м в тру́дную мину́ту;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Cô ấy là một người rất đa tài: tôn sùng văn học, quan tâm đến hội họa, tập luyện thể thao, tự sáng tác thơ, nhưng hơn tất cả chúng tôi ngưỡng mộ khả năng đánh giá tình hình của cô ấy và (khả năng) đến giúp đỡ bạn bè trong lúc khó khăn."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "обожа́ла литерату́ру: Обожа́ть (tôn sùng, yêu thích) + Cách 4."
+    },
+    {
+     "t": "para",
+     "text": "интересова́лась жи́вописью: Интересова́ться (quan tâm) + Cách 5."
+    },
+    {
+     "t": "para",
+     "text": "занима́лась спо́ртом: Занима́ться (tập luyện) + Cách 5."
+    },
+    {
+     "t": "para",
+     "text": "сочиня́ла стихи́: Сочиня́ть (sáng tác) + Cách 4."
+    },
+    {
+     "t": "para",
+     "text": "восхища́лись её уме́нием: Восхища́ться (ngưỡng mộ) + Cách 5."
+    },
+    {
+     "t": "para",
+     "text": "Я не про́сто уважа́ю э́того челове́ка, я высоко́ ценю́ на́ши отноше́ния и горжу́сь пра́вом называ́ть себя́ его́ дру́гом;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Tôi không chỉ tôn trọng người này, tôi đánh giá cao mối quan hệ của chúng tôi và tự hào về quyền được gọi mình là bạn của anh ấy."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "уважа́ю э́того челове́ка: Уважа́ть (tôn trọng) + Cách 4 (với danh từ động vật dùng dạng giống Cách 2)."
+    },
+    {
+     "t": "para",
+     "text": "ценю́ на́ши отноше́ния: Цени́ть (đánh giá cao) + Cách 4."
+    },
+    {
+     "t": "para",
+     "text": "горжу́сь пра́вом: Горди́ться (tự hào) + Cách 5."
+    },
+    {
+     "t": "para",
+     "text": "Я ненави́жу командиро́вки, к тому́ же на э́тот раз я ещё опаса́юсь плохо́й пого́ды, в э́то вре́мя го́да о́чень легко́ заболе́ть гри́ппом и́ли анги́ной;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Tôi ghét đi công tác, thêm vào đó lần này tôi còn e ngại thời tiết xấu, vào thời gian này trong năm rất dễ bị mắc bệnh cúm hoặc viêm họng."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "ненави́жу командиро́вки: Ненави́деть (ghét) + Cách 4."
+    },
+    {
+     "t": "para",
+     "text": "опаса́юсь плохо́й пого́ды: Опаса́ться (e ngại) + Cách 2."
+    },
+    {
+     "t": "para",
+     "text": "заболе́ть гри́ппом и́ли анги́ной: Заболе́ть (mắc bệnh) + Cách 5."
+    },
+    {
+     "t": "para",
+     "text": "Когда́ защища́ешь ро́дину, мо́жно отда́ть са́мое дорого́е, что у тебя́ есть, мо́жно да́же поже́ртвовать жи́знью."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Khi bảo vệ tổ quốc, có thể hiến dâng điều quý giá nhất mà bạn có, thậm chí có thể hy sinh cả tính mạng."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "защища́ешь ро́дину: Защища́ть (bảo vệ) + Cách 4."
+    },
+    {
+     "t": "para",
+     "text": "отда́ть са́мое дорого́е: Отда́ть (trả lại, hiến dâng) + Cách 4."
+    },
+    {
+     "t": "para",
+     "text": "поже́ртвовать жи́знью: Же́ртвовать (hy sinh) + Cách 5."
+    }
+   ]
+  },
+  {
+   "id": "gra-03-s006",
+   "type": "exercise",
+   "title": "Упражнение 12",
+   "num": 12,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Mở ngoặc đơn, sử dụng các danh từ ở đúng dạng. Giải thích sự lựa chọn của bạn."
+    },
+    {
+     "t": "para",
+     "text": "В моём положе́нии мне на́до остерега́ться просту́ды;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Trong tình trạng của tôi, tôi cần phải đề phòng cảm lạnh."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Động từ остерега́ться (đề phòng, coi chừng) yêu cầu Cách 2 (Sinh cách - Родительный падеж)."
+    },
+    {
+     "t": "para",
+     "text": "Вам не́зачем стыди́ться свои́х слов, ведь всё, что вы сказа́ли, — пра́вда;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Bạn không việc gì phải xấu hổ về những lời nói của mình, bởi vì tất cả những gì bạn nói đều là sự thật."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Động từ стыди́ться (xấu hổ) yêu cầu Cách 2."
+    },
+    {
+     "t": "para",
+     "text": "Не сто́ит сра́зу возража́ть собесе́днику, на́до постара́ться поня́ть его́ то́чку зре́ния;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Không nên phản đối người đối thoại ngay lập tức, cần phải cố gắng hiểu quan điểm của người đó."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Возража́ть (phản đối) + Cách 3 (Tặng cách - Дательный падеж); поня́ть (hiểu) + Cách 4 (Đối cách - Винительный падеж)."
+    },
+    {
+     "t": "para",
+     "text": "Я не могу́ поступи́ться при́нципами;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Tôi không thể từ bỏ các nguyên tắc (nhượng bộ về nguyên tắc)."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Поступи́ться (từ bỏ, nhượng bộ cái gì đó quý giá) + Cách 5 (Tạo cách - Творительный падеж)."
+    },
+    {
+     "t": "para",
+     "text": "Кто хва́лится свои́ми досто́инствами, не заслу́живает уваже́ния;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Ai khoe khoang những ưu điểm của mình thì không xứng đáng được tôn trọng."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Хва́литься (khoe khoang - đồng nghĩa với хвастаться) + Cách 5; заслу́живать (xứng đáng) + Cách 2."
+    },
+    {
+     "t": "para",
+     "text": "Нельзя́ сиде́ть на ме́сте, на́до добива́ться успе́ха, что́бы пото́м не му́читься угрызе́ниями со́вести;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Không thể ngồi yên một chỗ, cần phải đạt được thành công, để sau này không bị day dứt bởi sự cắn rứt lương tâm."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Добива́ться (đạt được - đồng nghĩa với достигать) + Cách 2; му́читься (đau khổ, day dứt) + Cách 5 (bởi cái gì)."
+    },
+    {
+     "t": "para",
+     "text": "Она́ всегда́ восторга́лась на́шими побе́дами и сочу́вствовала пораже́ниям;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Cô ấy luôn tán thưởng những chiến thắng của chúng tôi và cảm thông với những thất bại."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Восторга́ться (tán thưởng, say mê - đồng nghĩa восхищаться) + Cách 5; сочу́вствовать (cảm thông) + Cách 3."
+    },
+    {
+     "t": "para",
+     "text": "В спо́ре я стара́лся быть сде́ржанным и корре́ктным, я никогда́ не жа́ждал кро́ви, тем бо́лее, е́сли э́то кровь мои́х друзе́й;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Trong tranh luận tôi đã cố gắng kiềm chế và lịch sự, tôi chưa bao giờ khát máu, nhất là nếu đó là máu của bạn bè tôi."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Жа́ждать (khao khát, thèm muốn - nghĩa mạnh của хотеть/желать) + Cách 2."
+    },
+    {
+     "t": "para",
+     "text": "Не ду́май об э́том серьёзно, он про́сто вы́думал э́ту исто́рию;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Đừng nghĩ về điều đó một cách nghiêm túc, anh ta chỉ bịa ra câu chuyện này thôi."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Вы́думать (nghĩ ra, bịa ra - đồng nghĩa сочинить) + Cách 4."
+    },
+    {
+     "t": "para",
+     "text": "Не та́к-то про́сто управля́ть заво́дом, кро́ме обы́чных произво́дственных дел прихо́дится разбира́ться с людьми́, находи́ть подхо́д к ка́ждому челове́ку;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Không đơn giản để quản lý một nhà máy, ngoài những việc sản xuất thông thường còn phải giải quyết vấn đề với con người, tìm cách tiếp cận với mỗi người."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Управля́ть (quản lý, điều khiển - đồng nghĩa руководить) + Cách 5."
+    },
+    {
+     "t": "para",
+     "text": "Е́сли зако́нчишь отчёт, оста́вь его́ на столе́;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Nếu bạn hoàn thành bản báo cáo, hãy để nó trên bàn."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Зако́нчить (hoàn thành - đồng nghĩa сделать/выполнить) + Cách 4."
+    },
+    {
+     "t": "para",
+     "text": "Невозмо́жно проти́виться свои́м чу́вствам;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Không thể chống lại tình cảm của chính mình."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Проти́виться (chống lại, kháng cự) + Cách 3."
+    },
+    {
+     "t": "para",
+     "text": "Е́сли ты прав, на́до уме́ть отста́ивать свою́ пози́цию;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Nếu bạn đúng, cần phải biết bảo vệ lập trường của mình."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Отста́ивать (bảo vệ, giữ vững - đồng nghĩa защищать) + Cách 4."
+    },
+    {
+     "t": "para",
+     "text": "Сообщи́ роди́телям, когда́ ты прие́дешь."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Hãy báo cho bố mẹ biết khi nào bạn đến."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Сообщи́ть (thông báo - đồng nghĩa сказать/говорить) + Cách 3."
+    },
+    {
+     "t": "para",
+     "text": "Sử dụng bài tập 8, hãy tìm các từ đồng nghĩa cho các động từ xác định cách của danh từ trong các cụm từ, với cùng các phương án điều khiển cách."
+    },
+    {
+     "t": "para",
+     "text": "Стыди́ться (xấu hổ) ~ Боя́ться / Стесня́ться (+ Cách 2)."
+    },
+    {
+     "t": "para",
+     "text": "Возража́ть (phản đối) ~ Отвеча́ть (+ Cách 3)."
+    },
+    {
+     "t": "para",
+     "text": "Поступи́ться (từ bỏ, nhượng bộ) ~ Же́ртвовать (+ Cách 5)."
+    },
+    {
+     "t": "para",
+     "text": "Хва́литься (khoe khoang) ~ Хва́статься (+ Cách 5)."
+    },
+    {
+     "t": "para",
+     "text": "Добива́ться (đạt được) ~ Достига́ть (+ Cách 2)."
+    },
+    {
+     "t": "para",
+     "text": "Восторга́ться (tán thưởng) ~ Восхища́ться (+ Cách 5)."
+    },
+    {
+     "t": "para",
+     "text": "Жа́ждать (khao khát) ~ Жела́ть / Хоте́ть (+ Cách 2)."
+    },
+    {
+     "t": "para",
+     "text": "Вы́думать (bịa ra) ~ Сочини́ть (+ Cách 4)."
+    },
+    {
+     "t": "para",
+     "text": "Управля́ть (quản lý) ~ Руководи́ть / Кома́ндовать (+ Cách 5)."
+    },
+    {
+     "t": "para",
+     "text": "Зако́нчить (hoàn thành) ~ Сде́лать / Вы́полнить (+ Cách 4)."
+    },
+    {
+     "t": "para",
+     "text": "Отста́ивать (bảo vệ) ~ Защища́ть (+ Cách 4)."
+    },
+    {
+     "t": "para",
+     "text": "Сообщи́ть (thông báo) ~ Сказа́ть / Говори́ть (+ Cách 3)."
+    }
+   ]
+  },
+  {
+   "id": "gra-03-s007",
+   "type": "exercise",
+   "title": "Упражнение 13",
+   "num": 13,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Điền động từ cần thiết theo ý nghĩa vào chỗ trống. Giải thích sự lựa chọn của bạn, chỉ ra các phương án."
+    },
+    {
+     "t": "para",
+     "text": "В твои́ го́ды я акти́вно занима́лся спо́ртом;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Ở tuổi của bạn, tôi đã tích cực tập luyện thể thao."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Cụm từ занима́ться спо́ртом (tập thể thao) + Cách 5."
+    },
+    {
+     "t": "para",
+     "text": "Рабо́тать приходи́лось мно́го, и по́этому в выходны́е дни мы ра́довались (hoặc жда́ли) любо́й возмо́жности вы́ехать за́ город и отдохну́ть;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Phải làm việc nhiều, vì vậy vào những ngày nghỉ chúng tôi vui mừng (hoặc chờ đợi) bất kỳ cơ hội nào để ra ngoại ô nghỉ ngơi."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "Nếu dùng ра́довались (vui mừng) thì danh từ ở Cách 3: ра́доваться + любо́й возмо́жности (Dative). Điều này phù hợp về ý nghĩa (vui khi có cơ hội)."
+    },
+    {
+     "t": "para",
+     "text": "Nếu dùng жда́ли (chờ đợi) thì danh từ ở Cách 2: ждать + любо́й возмо́жности (Genitive). Hình thái từ возможности giống nhau ở cả Cách 2 và Cách 3 (số ít giống cái đuôi mềm -ь). Tuy nhiên, ждать возможности nghe tự nhiên hơn trong ngữ cảnh mong chờ ngày nghỉ. Sách đáp án chọn ра́довались."
+    },
+    {
+     "t": "para",
+     "text": "Не сто́ит ве́рить пусты́м обеща́ниям;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Không nên tin vào những lời hứa suông."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Ве́рить (tin) + Cách 3 (обещаниям)."
+    },
+    {
+     "t": "para",
+     "text": "Я останови́лся, потому́ что испуга́лся стра́нного шо́роха, но сейча́с всё в поря́дке, я могу́ идти́ да́льше;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Tôi dừng lại, bởi vì tôi sợ tiếng sột soạt lạ, nhưng bây giờ mọi thứ đều ổn, tôi có thể đi tiếp."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Động từ cần điền phải phản ánh hành động bị ngắt quãng do sợ hãi. Останови́лся (dừng lại) phù hợp ngữ cảnh \"đi tiếp\" sau đó."
+    },
+    {
+     "t": "para",
+     "text": "На ве́чере бы́ло ску́чно, по́этому я о́чень обра́довался появле́нию но́вого го́стя и пошёл ему́ навстре́чу;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Buổi dạ hội tẻ nhạt, vì vậy tôi rất vui mừng trước sự xuất hiện của vị khách mới và đi ra đón anh ấy."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Обра́довался (vui mừng) + Cách 3 (появлению)."
+    },
+    {
+     "t": "para",
+     "text": "Кто́-то горди́тся (hoặc хва́стается) свои́ми зна́ниями, кто́-то умо́м, кому́-то нра́вится расска́зывать о свои́х знако́мых, а мне горди́ться (hoặc хва́статься) осо́бенно не́чем: живу́ как все;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Có người tự hào (khoe khoang) về kiến thức của mình, người thì về trí thông minh, có người thích kể về những người quen của mình, còn tôi thì không có gì đặc biệt để tự hào (khoe khoang): tôi sống như mọi người."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "Горди́ться/Хва́статься + Cách 5 (знаниями)."
+    },
+    {
+     "t": "para",
+     "text": "Нра́вится (thích - cấu trúc Ai đó [Dat] thích [Nom/Inf]) + Infinitive (рассказывать)."
+    },
+    {
+     "t": "para",
+     "text": "Горди́ться/Хва́статься + Cách 5 (нечем)."
+    },
+    {
+     "t": "para",
+     "text": "В после́дний день он отличи́лся свои́м уме́нием бы́стро принима́ть реше́ния и спас всю кома́нду;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Vào ngày cuối cùng, anh ấy đã trở nên nổi bật (lập công) nhờ khả năng ra quyết định nhanh chóng và đã cứu cả đội."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Отличи́лся (nổi bật, lập công) + Cách 5 (умением)."
+    },
+    {
+     "t": "para",
+     "text": "Я не чита́ю журна́лы, а то́лько просма́триваю статьѝ, кото́рые меня́ интересу́ют;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Tôi không đọc tạp chí, mà chỉ xem lướt qua những bài báo mà tôi quan tâm."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Чита́ю/Просма́триваю + Cách 4 (журналы, статьи)."
+    },
+    {
+     "t": "para",
+     "text": "Он не проси́л у вас по́мощи, он хоте́л, что́бы вы посочу́вствовали его́ го́рю, а вы да́же его́ не вы́слушали до конца́;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Anh ấy không xin các bạn giúp đỡ, anh ấy muốn các bạn cảm thông với nỗi đau khổ của anh ấy, thế mà các bạn thậm chí còn không nghe anh ấy nói hết."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "Проси́л (xin) + Cách 2 (помощи)."
+    },
+    {
+     "t": "para",
+     "text": "Посочу́вствовали (cảm thông) + Cách 3 (горю)."
+    },
+    {
+     "t": "para",
+     "text": "Не на́до остава́ться по́сле рабо́ты и же́ртвовать свои́м свобо́дным вре́менем, зако́нчишь всё за́втра в рабо́чее вре́мя;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Không cần phải ở lại sau giờ làm và hy sinh thời gian rảnh rỗi của mình, bạn sẽ hoàn thành mọi thứ vào ngày mai trong giờ làm việc."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Же́ртвовать (hy sinh) + Cách 5 (временем)."
+    },
+    {
+     "t": "para",
+     "text": "Жела́ю вам сча́стья и здоро́вья!"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Chúc (mong muốn cho) các bạn hạnh phúc và sức khỏe!"
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Жела́ю (chúc, mong muốn) + Cách 2 (счастья, здоровья)."
+    },
+    {
+     "t": "para",
+     "text": "Я не могу́ уйти́ пря́мо сейча́с, я до́лжен подожда́ть (hoặc ждать) звонка́;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Tôi không thể đi ngay bây giờ, tôi phải chờ cuộc gọi."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Ждать/Подожда́ть (chờ đợi) + Cách 2 (звонка)."
+    },
+    {
+     "t": "para",
+     "text": "Воспо́льзуйся мои́м сове́том и съе́зди отдохну́ть;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Hãy tận dụng lời khuyên của tôi và đi nghỉ đi."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Воспо́льзоваться (tận dụng) ở mệnh lệnh cách + Cách 5 (советом)."
+    },
+    {
+     "t": "para",
+     "text": "Зря ты зави́дуешь его́ успе́хам, е́сли ты захо́чешь, ты сам мо́жешь мно́гого дости́чь в жи́зни;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Bạn ghen tị với thành công của anh ấy là vô ích, nếu bạn muốn, bản thân bạn có thể đạt được nhiều thứ trong đời."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "Зави́дуешь (ghen tị) + Cách 3 (успехам)."
+    },
+    {
+     "t": "para",
+     "text": "Дости́чь (đạt được) + Cách 2 (многого)."
+    },
+    {
+     "t": "para",
+     "text": "Весь ве́чер я занима́лся уро́ками, учи́л пра́вила, гото́вился к контро́льной рабо́те;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Cả buổi tối tôi đã làm bài tập, học các quy tắc, chuẩn bị cho bài kiểm tra."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "Занима́лся (làm, học) + Cách 5 (уроками)."
+    },
+    {
+     "t": "para",
+     "text": "Учи́л (học thuộc) + Cách 4 (правила)."
+    },
+    {
+     "t": "para",
+     "text": "Получи́в изве́стие о том, что меня́ при́няли в университе́т, я не мог пове́рить своему́ сча́стью;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Nhận được tin rằng tôi đã được nhận vào đại học, tôi không thể tin vào hạnh phúc của mình."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Пове́рить (tin) + Cách 3 (счастью)."
+    },
+    {
+     "t": "para",
+     "text": "Я уважа́ю (hoặc разделя́ю) ва́ше мне́ние, но и от свое́й пози́ции не хочу́ отка́зываться, я бу́ду её защища́ть на учёном сове́те университе́та."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Tôi tôn trọng (hoặc chia sẻ) ý kiến của bạn, nhưng tôi cũng không muốn từ bỏ lập trường của mình, tôi sẽ bảo vệ nó tại hội đồng khoa học của trường đại học."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "Уважа́ю (tôn trọng) + Cách 4 (мнение)."
+    },
+    {
+     "t": "para",
+     "text": "Защища́ть (bảo vệ) + Cách 4 (её - thay cho позиция)."
+    }
+   ]
+  }
+ ]
+}

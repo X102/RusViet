@@ -1,0 +1,1511 @@
+{
+ "id": "gra-11",
+ "num": 11,
+ "title": "Giới từ mang ý nghĩa số lượng",
+ "vi": "Giới từ mang ý nghĩa số lượng",
+ "ru": "Предлоги со значением количества",
+ "icon": "🪄",
+ "color": "#a855f7",
+ "sectionPrefix": "gra-11-s",
+ "sections": [
+  {
+   "id": "gra-11-s001",
+   "type": "exercise",
+   "title": "Упражнение 119",
+   "num": 119,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Đọc các cụm từ. Hãy chú ý đến các giới từ được sử dụng khi diễn đạt số lượng."
+    },
+    {
+     "t": "para",
+     "text": "1. Предло́ги с со́бственно-коли́чественным значе́нием (Giới từ mang ý nghĩa số lượng thực sự):"
+    },
+    {
+     "t": "para",
+     "text": "а) Предло́г ука́зывает на коли́чественно-определи́тельное значе́ние (Giới từ chỉ ý nghĩa định lượng xác định/xấp xỉ):"
+    },
+    {
+     "t": "para",
+     "text": "ребёнок в три го́да: đứa trẻ lên ba tuổi (chỉ độ tuổi chính xác)."
+    },
+    {
+     "t": "para",
+     "text": "дом в два этажа́: ngôi nhà hai tầng (chỉ kích thước/quy mô)."
+    },
+    {
+     "t": "para",
+     "text": "во́зраст под пятьдеся́т: tuổi gần năm mươi (xấp xỉ, chưa đến 50)."
+    },
+    {
+     "t": "para",
+     "text": "же́нщина о́коло тридцати́: người phụ nữ khoảng ba mươi tuổi (xung quanh 30)."
+    },
+    {
+     "t": "para",
+     "text": "мужчи́на за со́рок: người đàn ông ngoài bốn mươi (đã qua 40)."
+    },
+    {
+     "t": "para",
+     "text": "фра́за из пяти́ слов: câu gồm năm từ (thành phần cấu tạo)."
+    },
+    {
+     "t": "para",
+     "text": "вы́брать (вы́бор) из трёх челове́к: chọn (sự lựa chọn) từ ba người (tách ra từ tổng thể)."
+    },
+    {
+     "t": "para",
+     "text": "б) Предло́г ука́зывает на коли́чественно-уточня́ющее значе́ние (Giới từ chỉ ý nghĩa định lượng chính xác hóa/so sánh):"
+    },
+    {
+     "t": "para",
+     "text": "бо́льше (ме́ньше) на полтора́ ме́тра: lớn hơn (nhỏ hơn) một mét rưỡi (so sánh hơn kém bằng phép cộng/trừ)."
+    },
+    {
+     "t": "para",
+     "text": "впереди́ на оди́н шаг: phía trước một bước."
+    },
+    {
+     "t": "para",
+     "text": "отста́ть на два́дцать очко́в: tụt lại sau hai mươi điểm."
+    },
+    {
+     "t": "para",
+     "text": "увели́чить (уба́вить) на два сантиме́тра: tăng (giảm) hai xăng-ti-mét."
+    },
+    {
+     "t": "para",
+     "text": "прийти́ на час ра́ньше: đến sớm hơn một tiếng."
+    },
+    {
+     "t": "para",
+     "text": "увели́чить (уме́ньшить) в три ра́за: tăng (giảm) gấp ba lần (so sánh bằng phép nhân/chia)."
+    },
+    {
+     "t": "para",
+     "text": "име́ть в большо́м коли́честве: có với số lượng lớn."
+    },
+    {
+     "t": "para",
+     "text": "большинство́ в два го́лоса: đa số hơn hai phiếu (thắng nhờ hơn 2 phiếu)."
+    },
+    {
+     "t": "para",
+     "text": "2. Предло́ги с коли́чественно-осложнённым значе́нием (Giới từ mang ý nghĩa số lượng phức tạp/kết hợp):"
+    },
+    {
+     "t": "para",
+     "text": "а) Предло́г ука́зывает на коли́чественно-темпора́льное значе́ние (Giới từ chỉ ý nghĩa số lượng - thời gian):"
+    },
+    {
+     "t": "para",
+     "text": "вы́расти (измене́ния) за два го́да: lớn lên (sự thay đổi) trong vòng hai năm (khoảng thời gian hoàn thành)."
+    },
+    {
+     "t": "para",
+     "text": "жени́ться в два́дцать пять лет: kết hôn vào năm hai mươi lăm tuổi (thời điểm)."
+    },
+    {
+     "t": "para",
+     "text": "уе́хать на два дня: đi vắng hai ngày (khoảng thời gian dự định)."
+    },
+    {
+     "t": "para",
+     "text": "б) Предло́г ука́зывает на коли́чественно-лока́льное значе́ние (Giới từ chỉ ý nghĩa số lượng - địa điểm):"
+    },
+    {
+     "t": "para",
+     "text": "жить (дом) в двух шага́х от шко́лы: sống (nhà) cách trường hai bước chân (khoảng cách rất gần)."
+    },
+    {
+     "t": "para",
+     "text": "иска́ть в четырёх ме́трах от стола́: tìm cách bàn bốn mét."
+    },
+    {
+     "t": "para",
+     "text": "в) Предло́г ука́зывает на коли́чественно-распредели́тельное значе́ние (Giới từ chỉ ý nghĩa số lượng - phân phối):"
+    },
+    {
+     "t": "para",
+     "text": "дать по три конфе́ты: cho mỗi người ba cái kẹo."
+    },
+    {
+     "t": "para",
+     "text": "плати́ть по два рубля́ за шту́ку: trả hai rúp cho mỗi cái."
+    },
+    {
+     "t": "para",
+     "text": "сложи́ть лист в четы́ре ра́за: gấp tờ giấy làm bốn."
+    },
+    {
+     "t": "para",
+     "text": "учи́ться в две сме́ны: học hai ca (chia làm 2 ca)."
+    },
+    {
+     "t": "para",
+     "text": "рабо́тать на двух рабо́тах: làm hai công việc (tại hai nơi)."
+    },
+    {
+     "t": "para",
+     "text": "г) Предло́г ука́зывает на значе́ние арифмети́ческих де́йствий (Giới từ chỉ ý nghĩa các phép tính số học):"
+    },
+    {
+     "t": "para",
+     "text": "приба́вить к пяти́: cộng vào năm (5 + ...)."
+    },
+    {
+     "t": "para",
+     "text": "вы́честь из четырёх: trừ đi từ bốn (4 - ...)."
+    },
+    {
+     "t": "para",
+     "text": "отня́ть от двена́дцати: lấy đi từ mười hai (12 - ...)."
+    },
+    {
+     "t": "para",
+     "text": "умно́жить на во́семь: nhân với tám (... x 8)."
+    },
+    {
+     "t": "para",
+     "text": "раздели́ть на шесть: chia cho sáu (... : 6)."
+    },
+    {
+     "t": "para",
+     "text": "квадра́тный ко́рень из девяти́: căn bậc hai của chín ( ($\\sqrt{9}$),."
+    }
+   ]
+  },
+  {
+   "id": "gra-11-s002",
+   "type": "exercise",
+   "title": "Предлоги со значением количества (Giới từ mang ý nghĩa số lượng)",
+   "num": null,
+   "blocks": []
+  },
+  {
+   "id": "gra-11-s003",
+   "type": "exercise",
+   "title": "Упражнение 120",
+   "num": 120,
+   "blocks": [
+    {
+     "t": "para",
+     "text": "Mở ngoặc đơn, sử dụng các danh từ ở cách cần thiết với giới từ в, под, за hoặc о́коло. Giải thích sự lựa chọn của bạn, chỉ ra các phương án."
+    },
+    {
+     "t": "note",
+     "text": "! (Gợi ý ngữ pháp):"
+    },
+    {
+     "t": "para",
+     "text": "Khi diễn đạt tuổi tác, sử dụng cấu trúc không giới từ (thường với động từ быть): Ему́ (бы́ло) пять лет (Cậu ấy (đã) 5 tuổi), hoặc giới từ в + Cách 4 (Đối cách): ма́льчик в пять лет (cậu bé lên 5 tuổi)."
+    },
+    {
+     "t": "para",
+     "text": "Khi chỉ độ tuổi xấp xỉ, sử dụng các giới từ под, за, о́коло."
+    },
+    {
+     "t": "para",
+     "text": "Giới từ под (gần đến, sắp đến) và за (ngoài, đã qua) + Cách 4 (Đối cách) được sử dụng với các số từ tròn chục như два́дцать, три́дцать, со́рок (hai mươi, ba mươi, bốn mươi)..."
+    },
+    {
+     "t": "para",
+     "text": "Giới từ о́коло (khoảng) + Cách 2 (Sinh cách) được sử dụng với bất kỳ số từ nào: Ему́ о́коло десяти́ (семна́дцати, двадцати́ восьми́) (Cậu ấy khoảng mười (mười bảy, hai mươi tám) tuổi)."
+    },
+    {
+     "t": "para",
+     "text": "Обы́чно ребёнок в шесть лет (шесть лет) уже́ уме́ет чита́ть;"
+    },
+    {
+     "t": "instruction",
+     "text": "Dịch: Thông thường trẻ em lên sáu tuổi (vào năm sáu tuổi) đã biết đọc."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Chỉ độ tuổi chính xác → в + Cách 4. (Cũng có thể dùng không giới từ: ребёнок шести лет - Cách 2, nhưng đề bài yêu cầu giới từ)."
+    },
+    {
+     "t": "para",
+     "text": "— Ско́лько ему́ лет? — Я ду́маю, ему́ где́-то под се́мьдесят (за се́мьдесят / о́коло семидесяти́);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: — Ông ấy bao nhiêu tuổi? — Tôi nghĩ ông ấy đâu đó gần bảy mươi (ngoài bảy mươi / khoảng bảy mươi)."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Chỉ độ tuổi ước lượng với số tròn chục (70). Под (sắp 70), за (hơn 70), около (khoảng 70). Từ где-то (đâu đó) nhấn mạnh sự không chắc chắn."
+    },
+    {
+     "t": "para",
+     "text": "Ему́ бы́ло под шестьдеся́т (за шестьдеся́т / о́коло шестидесяти́), когда́ он вы́шел на пе́нсию;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Ông ấy đã gần sáu mươi (ngoài sáu mươi / khoảng sáu mươi) khi ông ấy về hưu."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Tương tự câu 2, số tròn chục (60)."
+    },
+    {
+     "t": "para",
+     "text": "В во́зрасте о́коло двадцати́ пяти́ лет он перее́хал в Воро́неж;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Ở độ tuổi khoảng hai mươi lăm, anh ấy đã chuyển đến Voronezh."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Số từ двадцать пять không phải tròn chục (chẵn chục), nên theo quy tắc sách, dùng около + Cách 2. (Lưu ý: В возрасте thường đi với Cách 2 không giới từ, nhưng để dùng около, ta chèn nó vào: В возрасте (чего?) khoảng 25 năm)."
+    },
+    {
+     "t": "para",
+     "text": "— Ему́ уже́ есть два́дцать лет? — Да, немно́го за два́дцать;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: — Cậu ấy đã được hai mươi tuổi chưa? — Rồi, hơn hai mươi một chút."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: За + Cách 4 chỉ độ tuổi đã qua mốc đó một chút."
+    },
+    {
+     "t": "para",
+     "text": "Она́ прекра́сно вы́глядит, я дала́ бы ей о́коло тридцати́ пяти́ лет. — Да, она́ вы́глядит на три́дцать пять, хотя́ ей уже́ далеко́ за со́рок;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Cô ấy trông rất tuyệt, tôi sẽ đoán cô ấy khoảng ba mươi lăm tuổi. — Vâng, cô ấy trông như ba mươi lăm, mặc dù cô ấy đã ngoài bốn mươi nhiều rồi (đã qua 40 lâu rồi)."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "Vế 1: 35 không phải tròn chục → около + Cách 2."
+    },
+    {
+     "t": "para",
+     "text": "Vế 2: 40 là tròn chục, cụm далеко за... (quá ... nhiều/xa) rất phổ biến → за + Cách 4."
+    },
+    {
+     "t": "para",
+     "text": "Молоды́е лю́ди в шестна́дцать лет (о́коло шестна́дцати лет) должны́ быть гото́вы к тому́, что́бы сде́лать свой вы́бор в жи́зни;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Những người trẻ ở tuổi mười sáu (khoảng mười sáu tuổi) cần phải sẵn sàng để đưa ra lựa chọn của mình trong cuộc sống."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Nếu nói về độ tuổi quy định chung chung/chính xác → в + Cách 4. Nếu ước lượng → около + Cách 2."
+    },
+    {
+     "t": "para",
+     "text": "В де́сять лет я уже́ знал, кем я бу́ду в жи́зни;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Vào năm mười tuổi tôi đã biết mình sẽ là ai trong đời."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Mốc thời gian cụ thể trong quá khứ → в + Cách 4."
+    },
+    {
+     "t": "para",
+     "text": "Ему́ бы́ло о́коло шестна́дцати лет (шестна́дцать лет), когда́ он получи́л води́тельские права́ и на́чал води́ть маши́ну;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Cậu ấy khoảng mười sáu tuổi (mười sáu tuổi) khi cậu ấy nhận bằng lái và bắt đầu lái xe."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Tương tự, có thể dùng chính xác (không giới từ hoặc в) hoặc ước lượng (около)."
+    },
+    {
+     "t": "para",
+     "text": "Ему́ бы́ло немно́го за три́дцать, и он был в по́лном расцве́те сил;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Anh ấy hơn ba mươi một chút, và anh ấy đang ở độ sung sức nhất."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Немного за + số tròn chục → за + Cách 4."
+    },
+    {
+     "t": "para",
+     "text": "Подро́сток ле́т четырна́дцати (о́коло четырна́дцати лет) о́чень боле́зненно воспринима́ет любу́ю несправедли́вость по отноше́нию к себе́ и́ли бли́зким ему́ лю́дям;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Thiếu niên tầm mười bốn tuổi (khoảng 14 tuổi) đón nhận rất đau đớn bất kỳ sự bất công nào đối với bản thân hoặc những người thân cận."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "Cấu trúc đảo лет четырнадцати (Cách 2 không giới từ, đảo danh từ lên trước số từ) chỉ sự xấp xỉ."
+    },
+    {
+     "t": "para",
+     "text": "Theo yêu cầu đề bài dùng giới từ: около + Cách 2 (около четырнадцати лет)."
+    },
+    {
+     "t": "para",
+     "text": "— Вы же совсе́м ещё молодо́й челове́к! — Како́й же я молодо́й? Мне уже́ под со́рок (за со́рок). — Как под со́рок (за со́рок)? Мы же неда́вно отмеча́ли ва́ше тридцатишестиле́тие. — Зна́чит, вам сейча́с о́коло тридцати́ семи́ лет (три́дцать семь лет);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: — Ông vẫn còn là một người rất trẻ! — Trẻ gì chứ? Tôi đã gần bốn mươi (ngoài bốn mươi) rồi. — Sao lại gần bốn mươi (ngoài bốn mươi)? Chúng ta mới tổ chức sinh nhật thứ 36 của ông gần đây mà. — Có nghĩa là, bây giờ ông khoảng ba mươi bảy tuổi (ba mươi bảy tuổi)."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "Vế 1, 2: Мне уже... dùng под (sắp đến) hoặc за (đã qua) với số tròn chục (40)."
+    },
+    {
+     "t": "para",
+     "text": "Vế 3: 37 không tròn chục → около (khoảng) hoặc dùng số chính xác không giới từ (Вам сейчас 37 лет)."
+    }
+   ]
+  },
+  {
+   "id": "gra-11-s004",
+   "type": "exercise",
+   "title": "Упражнение 121",
+   "num": 121,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Từ những từ đã cho, hãy đặt các cụm từ, sử dụng các danh từ cần thiết theo ngữ nghĩa ở cách phù hợp với giới từ hoặc không có giới từ. Trong trường hợp cần thiết, hãy sử dụng các từ tham khảo."
+    },
+    {
+     "t": "note",
+     "text": "! (Gợi ý ngữ pháp):"
+    },
+    {
+     "t": "para",
+     "text": "Khi chỉ kích thước chính xác, sử dụng danh từ chỉ đơn vị đo lường ở Cách 5 (Tạo cách), sau đó là số từ không có giới từ hoặc với giới từ в: де́рево высото́й три ме́тра (cây cao ba mét), де́рево высото́й в три ме́тра (cây cao [kích thước] là ba mét)."
+    },
+    {
+     "t": "para",
+     "text": "Từ tham khảo: досто́инство (mệnh giá), сто́имость (giá trị/giá tiền), глубина́ (độ sâu), длина́ (chiều dài), мо́щность (công suất), си́ла (cường độ/lực), объём (thể tích/dung lượng), ширина́ (chiều rộng), рост (chiều cao - người)."
+    },
+    {
+     "t": "para",
+     "text": "Путь длино́й (в) четы́ре киломе́тра;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Quãng đường dài bốn km."
+    },
+    {
+     "t": "para",
+     "text": "Проспе́кт ширино́й (в) два́дцать ме́тров;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Đại lộ rộng hai mươi mét."
+    },
+    {
+     "t": "para",
+     "text": "Моне́та досто́инством (в) пятьдеся́т копе́ек;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Đồng xu mệnh giá năm mươi kopeck."
+    },
+    {
+     "t": "para",
+     "text": "Мужчи́на ро́стом (в) сто во́семьдесят сантиме́тров;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Người đàn ông cao một mét tám mươi."
+    },
+    {
+     "t": "para",
+     "text": "О́зеро глубино́й (в) де́сять ме́тров;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Hồ sâu mười mét."
+    },
+    {
+     "t": "para",
+     "text": "Напряже́ние в две́сти два́дцать вольт;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Điện áp 220 volt. (Lưu ý: Thường dùng trực tiếp giới từ в mà không cần danh từ chỉ tính chất như силой/мощностью, hoặc dùng напряжением в...)."
+    },
+    {
+     "t": "para",
+     "text": "Кни́га объёмом (в) пятьсо́т страни́ц;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Cuốn sách dày (dung lượng) năm trăm trang."
+    },
+    {
+     "t": "para",
+     "text": "Ток си́лой (в) две́сти два́дцать ампе́р;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Dòng điện cường độ 220 ampe."
+    },
+    {
+     "t": "para",
+     "text": "Костю́м сто́имостью (в) ты́сяча две́сти пятьдеся́т рубле́й."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Bộ vest trị giá một nghìn hai trăm năm mươi rúp."
+    },
+    {
+     "t": "para",
+     "text": "Hãy nhớ lại xem giới từ nào được sử dụng khi miêu tả đồ vật bằng một đồ vật khác mà kích thước của nó không thay đổi (cố định). Hãy đưa ra ví dụ."
+    },
+    {
+     "t": "para",
+     "text": "Trả lời: Sử dụng giới từ с + Cách 4 (Đối cách) (kích thước bằng...)."
+    },
+    {
+     "t": "para",
+     "text": "Ví dụ: град с кури́ное яйцо́ (mưa đá to bằng trứng gà), лу́жа с мо́ре (vũng nước to bằng cái biển), мужичо́к с ногото́к (chú bé hạt tiêu - người bé bằng cái móng tay)."
+    }
+   ]
+  },
+  {
+   "id": "gra-11-s005",
+   "type": "exercise",
+   "title": "Упражнение 122",
+   "num": 122,
+   "blocks": [
+    {
+     "t": "para",
+     "text": "Từ những từ đã cho, hãy lập các cụm từ, sử dụng giới từ cần thiết theo ngữ nghĩa из hoặc в. Giải thích sự lựa chọn của bạn, chỉ ra các phương án."
+    },
+    {
+     "t": "note",
+     "text": "! (Gợi ý ngữ pháp):"
+    },
+    {
+     "t": "para",
+     "text": "Giới từ из được sử dụng khi chỉ số lượng chính xác các thành phần cấu tạo nên vật thể: буке́т из трёх роз (bó hoa gồm ba bông hồng)."
+    },
+    {
+     "t": "para",
+     "text": "Nếu số lượng các thành phần cấu tạo có ý nghĩa nguyên tắc/cơ bản khi sử dụng vật thể hoặc phân loại hiện tượng (chỉ quy mô/kích thước tổng thể), sử dụng giới từ в: уче́бник в два́дцать печа́тных листо́в (sách giáo khoa dày 20 tay sách/bản in), конце́рт в трёх отделе́ниях (buổi hòa nhạc gồm 3 phần)."
+    },
+    {
+     "t": "para",
+     "text": "Khi chỉ các bộ phận cấu thành riêng lẻ (chi tiết đi kèm), sử dụng giới từ с (với): кастрю́ля с двумя́ ру́чками (nồi có hai quai)."
+    },
+    {
+     "t": "para",
+     "text": "Семья́ из трёх челове́к;"
+    },
+    {
+     "t": "instruction",
+     "text": "Dịch: Gia đình gồm ba người (thành phần cấu tạo)."
+    },
+    {
+     "t": "para",
+     "text": "Телегра́мма из тридцати́ пяти́ слов (в три́дцать пять слов);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Bức điện tín gồm 35 từ. (из - cấu tạo, в - độ dài/chi phí tính theo từ)."
+    },
+    {
+     "t": "para",
+     "text": "Ча́йный серви́з из двадцати́ предме́тов (на два́дцать персо́н);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Bộ ấm chén trà gồm 20 món (из). (Nếu nói dành cho bao nhiêu người thì dùng на 20 персон)."
+    },
+    {
+     "t": "para",
+     "text": "Отря́д из ста челове́к (в сто челове́к);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Đội quân gồm 100 người. (из - thành phần, в - quân số/quy mô)."
+    },
+    {
+     "t": "para",
+     "text": "Вы́бор из семи́ кандида́тов;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Sự lựa chọn từ 7 ứng viên."
+    },
+    {
+     "t": "para",
+     "text": "Бале́т в четырёх а́ктах;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Vở ba lê gồm 4 màn (cấu trúc tác phẩm → в)."
+    },
+    {
+     "t": "para",
+     "text": "Кварти́ра из пяти́ ко́мнат (в пять ко́мнат);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Căn hộ 5 phòng. (в пять комнат là cách nói chỉ quy mô căn hộ phổ biến)."
+    },
+    {
+     "t": "para",
+     "text": "О́тпуск в два́дцать четы́ре рабо́чих дня;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Kỳ nghỉ phép dài 24 ngày làm việc (độ dài/quy định → в)."
+    },
+    {
+     "t": "para",
+     "text": "Класс из двадцати́ девяти́ ученико́в;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Lớp học gồm 29 học sinh (thành phần)."
+    },
+    {
+     "t": "para",
+     "text": "Музыка́льное произведе́ние в трёх частя́х;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Tác phẩm âm nhạc gồm 3 phần (cấu trúc → в)."
+    },
+    {
+     "t": "para",
+     "text": "Слова́рь в три́дцать две ты́сячи слов (из тридцати́ двух ты́сяч слов);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Cuốn từ điển 32 ngàn từ. (в chỉ quy mô ấn phẩm)."
+    },
+    {
+     "t": "para",
+     "text": "Чемода́н с тремя́ отделе́ниями (в три отделе́ния);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Vali có 3 ngăn. (Để chỉ cấu trúc bên trong/đặc điểm thiết kế dùng в hoặc с)."
+    },
+    {
+     "t": "para",
+     "text": "Обе́д из четырёх блюд;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Bữa trưa gồm 4 món (thành phần)."
+    },
+    {
+     "t": "para",
+     "text": "Комо́д с четырьмя́ я́щиками (в четы́ре я́щика);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Tủ com-mốt có 4 ngăn kéo."
+    },
+    {
+     "t": "para",
+     "text": "Обе́денный гарниту́р из стола́, четырёх сту́льев и шка́фа для посу́ды;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Bộ bàn ăn gồm bàn, 4 ghế và tủ bát (liệt kê thành phần → из)."
+    },
+    {
+     "t": "para",
+     "text": "Конце́рт в трёх отделе́ниях;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Buổi hòa nhạc gồm 3 phần (cấu trúc → в)."
+    },
+    {
+     "t": "para",
+     "text": "Диссерта́ция из двух глав (в двух глава́х);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Luận án gồm 2 chương."
+    },
+    {
+     "t": "para",
+     "text": "Стихотворе́ние из двена́дцати строк (в двена́дцать строк);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Bài thơ 12 dòng."
+    },
+    {
+     "t": "para",
+     "text": "Дом в два этажа́."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Ngôi nhà 2 tầng (quy mô/kiểu loại → в)."
+    }
+   ]
+  },
+  {
+   "id": "gra-11-s006",
+   "type": "exercise",
+   "title": "Упражнение 123",
+   "num": 123,
+   "blocks": [
+    {
+     "t": "para",
+     "text": "Mở ngoặc đơn, sử dụng các danh từ ở cách cần thiết với giới từ в hoặc на. Giải thích sự lựa chọn của bạn, chỉ ra các phương án."
+    },
+    {
+     "t": "note",
+     "text": "! (Gợi ý ngữ pháp):"
+    },
+    {
+     "t": "para",
+     "text": "Khi kết hợp với tính từ ở dạng so sánh hơn, giới từ на + Cách 4 (Đối cách) chỉ sự khác biệt về số lượng: на год мла́дше (trẻ hơn một tuổi); giới từ в + Cách 4 (Đối cách) chỉ tỷ lệ giữa các khối lượng/kích thước (so sánh gấp bao nhiêu lần): в два ра́за ста́рше (lớn hơn gấp hai lần, già gấp đôi)."
+    },
+    {
+     "t": "para",
+     "text": "Khi ước lượng xấp xỉ, tức là trong trường hợp từ chính đứng trước số từ định lượng, các giới từ đứng sau từ chính: ра́за в два ста́рше (già hơn khoảng gấp đôi), го́да на два моло́же (trẻ hơn khoảng hai tuổi)."
+    },
+    {
+     "t": "para",
+     "text": "В э́том году́ он стал занима́ться во мно́го раз (мно́го раз) лу́чше;"
+    },
+    {
+     "t": "instruction",
+     "text": "Dịch: Năm nay cậu ấy đã bắt đầu học tốt hơn gấp nhiều lần."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: So sánh bội số (tốt hơn bao nhiêu lần) → dùng в + Cách 4 (во много раз).,"
+    },
+    {
+     "t": "para",
+     "text": "Он всегда́ был на не́сколько сантиме́тров (не́сколько сантиме́тров) вы́ше меня́;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Cậu ấy luôn cao hơn tôi vài xăng-ti-mét."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: So sánh hơn kém về đơn vị đo lường (cao hơn bao nhiêu) → dùng на + Cách 4.,,"
+    },
+    {
+     "t": "para",
+     "text": "Сего́дня мы прошли́ путь ра́за в три (ра́за три) длинне́е, чем вчера́;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Hôm nay chúng tôi đã đi quãng đường dài hơn khoảng gấp ba lần so với hôm qua."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "So sánh gấp bao nhiêu lần → giới từ в."
+    },
+    {
+     "t": "para",
+     "text": "Cấu trúc đảo (ра́за три thay vì три ра́за) chỉ sự ước lượng xấp xỉ → giới từ в đặt giữa danh từ và số từ (ра́за в три).,,"
+    },
+    {
+     "t": "para",
+     "text": "Тебе́ на́до в два ра́за (два ра́за) бо́льше вре́мени тра́тить на учёбу;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Bạn cần dành thời gian cho việc học nhiều hơn gấp hai lần."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: So sánh bội số (nhiều hơn gấp mấy lần) → dùng в + Cách 4.,,"
+    },
+    {
+     "t": "para",
+     "text": "Сего́дня у нас на две па́ры (две па́ры) бо́льше, чем у вас, вряд ли нам уда́стся встре́титься по́сле заня́тий;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Hôm nay chúng tôi có nhiều hơn các bạn hai tiết đôi (kíp học), khó mà chúng ta gặp nhau được sau giờ học."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: So sánh hơn kém về số lượng cụ thể (nhiều hơn bao nhiêu) → dùng на + Cách 4.,"
+    },
+    {
+     "t": "para",
+     "text": "Э́тим ле́том температу́ра на не́сколько гра́дусов (не́сколько гра́дусов) вы́ше, чем в про́шлом году́;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Mùa hè này nhiệt độ cao hơn vài độ so với năm ngoái."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: So sánh hơn kém về đơn vị đo lường → dùng на + Cách 4.,"
+    },
+    {
+     "t": "para",
+     "text": "На́до бы́ло в те́сто положи́ть в два ра́за (два ра́за) ме́ньше са́хара, тогда́ пиро́г не был бы таки́м сла́дким;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Lẽ ra phải cho đường vào bột ít hơn gấp hai lần, thì bánh đã không ngọt như thế."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: So sánh tỷ lệ (ít hơn gấp mấy lần) → dùng в + Cách 4.,"
+    },
+    {
+     "t": "para",
+     "text": "Твой шаг коро́че моеѓо сантиме́тров на де́сять (сантиме́тров де́сять), по э́тому ты с трудо́м успева́ешь за мно́й;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Bước chân của bạn ngắn hơn của tôi khoảng mười xăng-ti-mét, vì thế bạn vất vả mới theo kịp tôi."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "So sánh hơn kém (ngắn hơn bao nhiêu) → giới từ на."
+    },
+    {
+     "t": "para",
+     "text": "Cấu trúc đảo (сантиме́тров де́сять) chỉ sự ước lượng → giới từ на đặt giữa (сантиме́тров на де́сять).,,"
+    },
+    {
+     "t": "para",
+     "text": "Мне нужны́ боти́нки на разме́р (разме́р) бо́льше;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Tôi cần đôi giày lớn hơn một cỡ."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: So sánh hơn kém về kích thước → dùng на + Cách 4.,"
+    },
+    {
+     "t": "para",
+     "text": "Она́, как всегда́, пришла́ на полчаса́ (полчаса́) по́зже назна́ченного вре́мени;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Cô ấy, như mọi khi, đã đến muộn hơn nửa tiếng so với giờ hẹn."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: So sánh hơn kém về thời gian → dùng на + Cách 4.,"
+    },
+    {
+     "t": "para",
+     "text": "Путь че́рез лес в полтора́ ра́за (полтора́ ра́за) коро́че;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Đường đi qua rừng ngắn hơn gấp rưỡi (1,5 lần)."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: So sánh tỷ lệ → dùng в + Cách 4.,"
+    },
+    {
+     "t": "para",
+     "text": "Э́тот суп невозмо́жно есть, ты положи́л со́ли ра́за в четы́ре (ра́за четы́ре) бо́льше, чем ну́жно."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Món súp này không thể ăn nổi, bạn đã bỏ muối nhiều hơn khoảng gấp bốn lần mức cần thiết."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Ước lượng tỷ lệ → dùng в đặt giữa (ра́за в четы́ре).,"
+    }
+   ]
+  },
+  {
+   "id": "gra-11-s007",
+   "type": "exercise",
+   "title": "Упражнение 124",
+   "num": 124,
+   "blocks": [
+    {
+     "t": "para",
+     "text": "Mở ngoặc đơn, sử dụng các danh từ ở cách cần thiết với giới từ в hoặc на. Giải thích sự lựa chọn của bạn."
+    },
+    {
+     "t": "note",
+     "text": "! (Gợi ý ngữ pháp):"
+    },
+    {
+     "t": "para",
+     "text": "Với các từ вы́играть (thắng), проигра́ть (thua):"
+    },
+    {
+     "t": "para",
+     "text": "Khi chỉ sự chênh lệch về số lượng điểm số thắng/thua, số từ kết hợp ở Cách 4 không có giới từ: вы́играть (проигра́ть) два очка́ (thắng/thua hai điểm)."
+    },
+    {
+     "t": "para",
+     "text": "Với các từ ра́зница (sự chênh lệch), преиму́щество (lợi thế/ưu thế), переве́с (sự vượt trội), превосхо́дство (sự hơn hẳn/ưu việt), большинство́ (đa số):"
+    },
+    {
+     "t": "para",
+     "text": "Dùng Cách 4 với giới từ в: ра́зница в два очка́ (chênh lệch hai điểm)."
+    },
+    {
+     "t": "para",
+     "text": "Với các động từ отста́ть (tụt lại), опереди́ть (vượt trước), обойти́ (vượt qua), оторва́ться (bứt phá/bỏ xa) và các từ khác:"
+    },
+    {
+     "t": "para",
+     "text": "Dùng Cách 4 với giới từ на: отста́ть на два очка́ (tụt lại sau hai điểm)."
+    },
+    {
+     "t": "para",
+     "text": "На после́днем кру́ге ло́шадь вы́рвалась вперёд, и ему́ удало́сь обойти́ проти́вников на два ко́рпуса (два ко́рпуса);"
+    },
+    {
+     "t": "instruction",
+     "text": "Dịch: Ở vòng cuối cùng, con ngựa đã bứt lên phía trước, và anh ấy đã vượt qua các đối thủ hai thân ngựa."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Động từ обойти́ (vượt qua) đi với giới từ на để chỉ khoảng cách chênh lệch.,,"
+    },
+    {
+     "t": "para",
+     "text": "Его́ прое́кт был при́нят большинство́м в пять голосо́в (пять голосо́в);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Dự án của anh ấy đã được thông qua với đa số phiếu hơn năm phiếu (chênh lệch 5 phiếu)."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Danh từ большинство́ đi với giới từ в để chỉ lượng chênh lệch.,,"
+    },
+    {
+     "t": "para",
+     "text": "В настоя́щий моме́нт он лиди́рует с ра́зницей в ноль це́лых семь деся́тых секу́нды (ноль це́лых семь деся́тых секу́нды);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Hiện tại anh ấy đang dẫn đầu với sự chênh lệch 0,7 giây."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Danh từ ра́зница đi với giới từ в.,,"
+    },
+    {
+     "t": "para",
+     "text": "Сра́зу по́сле ста́рта он продемонстри́ровал своё преиму́щество, оторва́вшись от сопе́рников на не́сколько ме́тров (не́сколько ме́тров);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Ngay sau khi xuất phát, anh ấy đã thể hiện ưu thế của mình, bứt xa khỏi các đối thủ vài mét."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Động từ оторва́ться (bứt xa) đi với giới từ на.,,"
+    },
+    {
+     "t": "para",
+     "text": "Да, он проигра́л две па́ртии (две па́ртии), но матч ещё не зако́нчен;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Vâng, anh ấy đã thua hai ván, nhưng trận đấu vẫn chưa kết thúc."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Động từ проигра́ть (thua) chỉ số lượng thua đi với Cách 4 không giới từ.,,"
+    },
+    {
+     "t": "para",
+     "text": "Переве́с да́же в сто голосо́в (сто голосо́в) не позволя́ет говори́ть о я́вном преиму́ществе одноѓо из претенде́нтов;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Sự vượt trội thậm chí một trăm phiếu cũng không cho phép nói về ưu thế rõ ràng của một trong các ứng viên."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Danh từ переве́с đi với giới từ в.,,"
+    },
+    {
+     "t": "para",
+     "text": "Мы жела́ем «Спартаку́» успе́ха, в настоя́щий моме́нт кома́нда лиди́рует в о́бщем зачёте с преиму́ществом в три очка́ (три очка́);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Chúng tôi chúc \"Spartak\" thành công, hiện tại đội đang dẫn đầu bảng tổng sắp với ưu thế ba điểm."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Danh từ преиму́щество đi với giới từ в.,,"
+    },
+    {
+     "t": "para",
+     "text": "В слу́чае про́игрыша кома́ндой э́того ма́тча с ра́зницей в два заби́тых го́ла (два заби́тых го́ла) тру́дно рассчи́тывать на побе́ду в турни́ре;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Trong trường hợp đội thua trận đấu này với cách biệt hai bàn thắng, thật khó để hy vọng vào chiến thắng trong giải đấu."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Danh từ ра́зница đi với giới từ в.,,"
+    },
+    {
+     "t": "para",
+     "text": "В нача́ле турни́ра он отстава́л от сопе́рников на де́сять очко́в (де́сять очко́в), но зате́м вы́играл подря́д не́сколько па́ртий (не́сколько па́ртий) и вы́рвался вперёд, попа́в в число́ ли́деров;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Đầu giải đấu anh ấy tụt sau các đối thủ mười điểm, nhưng sau đó đã thắng liên tiếp vài ván và vươn lên dẫn trước, lọt vào nhóm những người dẫn đầu."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "Отстава́л на де́сять очко́в: Động từ отстава́ть (tụt lại) đi với giới từ на."
+    },
+    {
+     "t": "para",
+     "text": "Вы́играл не́сколько па́ртий: Động từ вы́играть (thắng) đi với Cách 4 không giới từ.,,"
+    },
+    {
+     "t": "para",
+     "text": "Превосхо́дство в не́сколько со́тен челове́к (не́сколько со́тен челове́к) мо́жет реши́ть исхо́д сраже́ния."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Sự áp đảo (vượt trội) về quân số vài trăm người có thể quyết định kết quả trận chiến."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Danh từ превосхо́дство đi với giới từ в.,,"
+    }
+   ]
+  },
+  {
+   "id": "gra-11-s008",
+   "type": "exercise",
+   "title": "Упражнение 125",
+   "num": 125,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Sử dụng các dạng danh từ có giới từ thay cho các trạng từ chỉ số lượng, hãy đưa ra phương án đồng nghĩa cho các câu sau."
+    },
+    {
+     "t": "note",
+     "text": "! (Gợi ý ngữ pháp):,"
+    },
+    {
+     "t": "para",
+     "text": "Để thay thế cho các trạng từ мно́го (nhiều), ма́ло (ít), доста́точно (đủ) và các từ khác trong các phong cách viết, người ta sử dụng các dạng danh từ có giới từ:"
+    },
+    {
+     "t": "para",
+     "text": "в большо́м коли́честве (với số lượng lớn),"
+    },
+    {
+     "t": "para",
+     "text": "в избы́тке (dư thừa/thừa thãi),"
+    },
+    {
+     "t": "para",
+     "text": "в доста́точном коли́честве (với số lượng đủ),"
+    },
+    {
+     "t": "para",
+     "text": "в недоста́точном коли́честве (với số lượng không đủ/thiếu)."
+    },
+    {
+     "t": "para",
+     "text": "Ví dụ: У нас доста́точно уче́бников. (Chúng tôi có đủ sách giáo khoa) — У нас уче́бники в доста́точном коли́честве. (Chúng tôi có sách giáo khoa với số lượng đủ)."
+    },
+    {
+     "t": "para",
+     "text": "У нас доста́точно проду́ктов (проду́кты в доста́точном коли́честве), ты мо́жешь не ходи́ть сего́дня в магази́н;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Chúng ta có đủ thực phẩm (thực phẩm với số lượng đủ), hôm nay bạn có thể không đi cửa hàng."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Trạng từ доста́точно (đủ) được thay thế bằng cụm danh từ có giới từ в доста́точном коли́честве."
+    },
+    {
+     "t": "para",
+     "text": "Чего́-чего́, а са́хара у нас бо́льше, чем ну́жно (са́хара у нас в избы́тке);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Gì chứ đường thì chúng ta có thừa (đường ở chỗ chúng ta có dư thừa)."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Cụm бо́льше, чем ну́жно (nhiều hơn mức cần thiết) được thay bằng в избы́тке (dư thừa)."
+    },
+    {
+     "t": "para",
+     "text": "На на́шей вы́ставке предста́влено мно́го книг (книг в большо́м коли́честве) по э́той тема́тике;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Tại triển lãm của chúng tôi có trưng bày nhiều sách (sách với số lượng lớn) về chủ đề này."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Trạng từ мно́го (nhiều) được thay bằng в большо́м коли́честве."
+    },
+    {
+     "t": "para",
+     "text": "К сожале́нию, приме́ров подо́брано недоста́точно (приме́ров в недоста́точном коли́честве), а́втор до́лжен попо́лнить их, пре́жде чем сдава́ть статью́ в реда́кцию;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Rất tiếc, các ví dụ được chọn không đủ (các ví dụ với số lượng không đủ/thiếu), tác giả cần bổ sung chúng trước khi nộp bài cho tòa soạn."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Недоста́точно (không đủ) được thay bằng в недоста́точном коли́честве."
+    },
+    {
+     "t": "para",
+     "text": "Е́сли ты реши́шь пое́хать с на́ми, тебе́ пона́добятся лы́жи, пала́тка и мно́го консе́рвов (консе́рвы в большо́м коли́честве);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Nếu bạn quyết định đi cùng chúng tôi, bạn sẽ cần ván trượt, lều và nhiều đồ hộp (đồ hộp với số lượng lớn)."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Мно́го (nhiều) được thay bằng в большо́м коли́честве."
+    },
+    {
+     "t": "para",
+     "text": "Молоды́х люде́й у неё бы́ло доста́точно (в доста́точном коли́честве), но за́муж она́ так и не вы́шла;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Cô ấy có đủ (với số lượng đủ) các chàng trai trẻ (theo đuổi), nhưng mãi vẫn không lấy chồng."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Доста́точно (đủ) được thay bằng в доста́точном коли́честве."
+    },
+    {
+     "t": "para",
+     "text": "По́езда до́лго не́ было, и на платфо́рме скопи́лось мно́го люде́й (люде́й в большо́м коли́честве);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Tàu mãi không đến, và trên sân ga đã tụ tập nhiều người (người với số lượng lớn)."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Мно́го (nhiều) được thay bằng в большо́м коли́честве."
+    },
+    {
+     "t": "para",
+     "text": "Эне́ргии у него́ сли́шком мно́го (в избы́тке), на двои́х хвати́ло бы;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Năng lượng của cậu ấy quá nhiều (dư thừa), đủ cho cả hai người."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Сли́шком мно́го (quá nhiều) được thay bằng в избы́тке."
+    },
+    {
+     "t": "para",
+     "text": "Рабо́ты в э́то вре́мя у нас доста́точно (в доста́точном коли́честве), и скуча́ть бу́дет не́когда;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Công việc vào thời gian này chúng tôi có đủ (với số lượng đủ), và sẽ không có thời gian mà buồn chán đâu."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Доста́точно (đủ) được thay bằng в доста́точном коли́честве."
+    },
+    {
+     "t": "para",
+     "text": "Медве́дей в э́тих места́х во́дится мно́го (в большо́м коли́честве), но охо́та на них запрещена́;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Gấu ở những nơi này có nhiều (với số lượng lớn), nhưng việc săn bắt chúng bị cấm."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Мно́го (nhiều) được thay bằng в большо́м коли́честве."
+    },
+    {
+     "t": "para",
+     "text": "Стра́нно, что вы не могли́ купи́ть биле́т, на э́то направле́ние биле́тов обы́чно мно́го (в большо́м коли́честве), и пробле́м с ни́ми никогда́ не́ было;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Thật lạ là bạn không mua được vé, tuyến đường này vé thường có nhiều (với số lượng lớn), và chưa bao giờ có vấn đề gì với chúng cả."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Мно́го (nhiều) được thay bằng в большо́м коли́честве."
+    },
+    {
+     "t": "para",
+     "text": "С ним о́чень прия́тно разгова́ривать, он зна́ет мно́го ра́зных исто́рий (исто́рий в большо́м коли́честве) и отли́чно уме́ет их расска́зывать."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Nói chuyện với anh ấy rất thú vị, anh ấy biết nhiều câu chuyện khác nhau (câu chuyện với số lượng lớn) và kể chúng rất hay."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Мно́го (nhiều) được thay bằng в большо́м коли́честве."
+    },
+    {
+     "t": "para",
+     "text": "Trong những câu nào khi diễn đạt số lượng có thể sử dụng các cấu trúc как раз (vừa đúng/vừa đủ), сто́лько, ско́лько ну́жно (nhiều như mức cần thiết/đủ dùng)? Hãy đưa ra ví dụ sử dụng các cấu trúc này trong câu."
+    },
+    {
+     "t": "para",
+     "text": "Trả lời: Các cấu trúc này có thể thay thế cho từ доста́точно (đủ). Đó là các câu số 1, 6, 9."
+    },
+    {
+     "t": "para",
+     "text": "Ví dụ:"
+    },
+    {
+     "t": "para",
+     "text": "Câu 1: У нас проду́ктов как раз (сто́лько, ско́лько ну́жно)."
+    },
+    {
+     "t": "para",
+     "text": "Câu 6: Молоды́х люде́й у неё бы́ло сто́лько, ско́лько ну́жно."
+    },
+    {
+     "t": "para",
+     "text": "Câu 9: Рабо́ты в э́то вре́мя у нас как раз (сто́лько, ско́лько ну́жно)."
+    }
+   ]
+  },
+  {
+   "id": "gra-11-s009",
+   "type": "exercise",
+   "title": "Упражнение 126",
+   "num": 126,
+   "blocks": [
+    {
+     "t": "para",
+     "text": "Mở ngoặc đơn, sử dụng các danh từ ở cách cần thiết không có giới từ hoặc với các giới từ cần thiết theo ngữ nghĩa в hoặc на. Giải thích sự lựa chọn của bạn."
+    },
+    {
+     "t": "note",
+     "text": "! (Gợi ý ngữ pháp):"
+    },
+    {
+     "t": "para",
+     "text": "Với các động từ сложи́ть (xếp/gấp lại), согну́ть (uốn cong/gập), сверну́ть (cuộn lại) sử dụng giới từ в + Cách 4 (Đối cách) (gấp làm mấy lần)."
+    },
+    {
+     "t": "para",
+     "text": "Với các động từ раздели́ть (chia), разре́зать (cắt ra), разорва́ть (xé ra), разби́ть (đập vỡ/chia nhỏ) sử dụng giới từ на + Cách 4 (Đối cách) (chia thành các phần)."
+    },
+    {
+     "t": "para",
+     "text": "Сложи́ лист бума́ги в два ра́за (два ра́за), и тогда́ он войдёт в э́тот конве́рт;"
+    },
+    {
+     "t": "instruction",
+     "text": "Dịch: Hãy gấp tờ giấy làm hai (lần), và khi đó nó sẽ vừa chiếc phong bì này."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Động từ сложи́ть (gấp) đi với в + Cách 4 để chỉ số lần gấp."
+    },
+    {
+     "t": "para",
+     "text": "Мне на́до разре́зать э́то мя́со на не́сколько куско́в (не́сколько куско́в);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Tôi cần cắt miếng thịt này thành vài miếng."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Động từ разре́зать (cắt thành phần) đi với на + Cách 4."
+    },
+    {
+     "t": "para",
+     "text": "Но́жниц нет, придётся разорва́ть э́тот листо́к на две ча́сти (две ча́сти);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Không có kéo, đành phải xé tờ giấy này thành hai phần."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Động từ разорва́ть (xé thành phần) đi với на + Cách 4."
+    },
+    {
+     "t": "para",
+     "text": "Он передвига́лся с трудо́м, согну́вшись в три поги́бели (три поги́бели) под тя́жестью огро́много чемода́на;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Anh ấy di chuyển một cách khó khăn, gập người xuống thấp (gập làm ba) dưới sức nặng của chiếc vali khổng lồ."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Thành ngữ согну́ться в три поги́бели (còng lưng xuống/gập người lại vì nặng hoặc khúm núm) dùng giới từ в."
+    },
+    {
+     "t": "para",
+     "text": "Снача́ла на́до раздели́ть апельси́н на до́льки (до́льки), а пото́м мо́жешь ре́зать их для сала́та;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Trước tiên cần chia quả cam thành các múi, rồi sau đó bạn có thể cắt chúng ra làm sa lát."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Động từ раздели́ть (chia thành phần) đi với на + Cách 4."
+    },
+    {
+     "t": "para",
+     "text": "Ва́за упа́ла и разби́лась на мно́жество ме́лких куско́в (мно́жество ме́лких куско́в);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Chiếc bình rơi xuống và vỡ tan thành vô số mảnh nhỏ."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Động từ разби́ться (vỡ thành phần) đi với на + Cách 4."
+    },
+    {
+     "t": "para",
+     "text": "Весь день мы рабо́тали в саду́: сгреба́ли осе́нние ли́стья и скла́дывали их в три больши́е корзи́ны (три больши́е корзи́ны);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Cả ngày chúng tôi làm việc trong vườn: cào lá mùa thu và xếp chúng vào ba cái giỏ lớn."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Động từ скла́дывать ở đây mang nghĩa \"xếp vào đâu\" (chỉ hướng chuyển động vào bên trong vật chứa), nên dùng в + Cách 4 (vào trong giỏ)."
+    },
+    {
+     "t": "para",
+     "text": "Попро́буй сверну́ть газе́ту в два ра́за (два ра́за), тогда́ она́ войдёт в твою́ су́мку;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Hãy thử cuộn (gấp) tờ báo làm hai, khi đó nó sẽ vừa túi của bạn."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Động từ сверну́ть (cuộn/gấp lại) đi với в + Cách 4."
+    },
+    {
+     "t": "para",
+     "text": "Ду́маю, тебе́ лу́чше разби́ть статью́ на не́сколько пара́графов (не́сколько пара́графов), тогда́ её бу́дет ле́гче чита́ть;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Tôi nghĩ tốt hơn bạn nên chia (tách) bài báo thành vài đoạn, khi đó sẽ dễ đọc hơn."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Động từ разби́ть (chia nhỏ) đi với на + Cách 4."
+    },
+    {
+     "t": "para",
+     "text": "Пе́ред соревнова́ниями уча́стников олимпиа́ды раздели́ли на четы́ре кома́нды (четы́ре кома́нды) в зави́симости от их во́зраста;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Trước cuộc thi, các thành viên tham gia Olympic đã được chia thành bốn đội tùy theo độ tuổi."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Động từ раздели́ть (chia thành nhóm/phần) đi với на + Cách 4."
+    },
+    {
+     "t": "para",
+     "text": "Вряд ли найдётся жела́ющий купи́ть тако́й большо́й кусо́к земли́, придётся разби́ть её на не́сколько уча́стков (не́сколько уча́стков) и продава́ть ка́ждый из них отде́льно;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Khó mà tìm được người muốn mua mảnh đất lớn như thế, sẽ phải chia nó thành vài lô (mảnh) và bán riêng từng lô một."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Động từ разби́ть (chia đất đai) đi với на + Cách 4."
+    },
+    {
+     "t": "para",
+     "text": "Арбу́з вы́пал из его́ рук, упа́л на асфа́льт и с тре́ском разломи́лся на две полови́ны (две полови́ны)."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Quả dưa hấu tuột khỏi tay anh ấy, rơi xuống nhựa đường và vỡ toác (kêu rắc một cái) thành hai nửa."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Động từ разломи́ться (gãy/vỡ thành phần) đi với на + Cách 4."
+    },
+    {
+     "t": "para",
+     "text": "Ở những chỗ có thể, hãy thay thế các cấu trúc định lượng có giới từ bằng trạng từ попола́м (làm đôi/làm hai nửa)."
+    },
+    {
+     "t": "para",
+     "text": "Câu 3: ... разорва́ть э́тот листо́к попола́м. (xé tờ giấy làm đôi)."
+    },
+    {
+     "t": "para",
+     "text": "Câu 12: ... разломи́лся попола́м. (vỡ làm đôi)."
+    }
+   ]
+  },
+  {
+   "id": "gra-11-s010",
+   "type": "exercise",
+   "title": "Упражнение 127",
+   "num": 127,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Trong các câu sau, hãy xác định (gạch dưới) các cấu trúc chỉ sự thường xuyên hoặc tính chất giai đoạn (pha) của hành động. Hãy tìm từ đồng nghĩa cho chúng."
+    },
+    {
+     "t": "note",
+     "text": "! (Gợi ý ngữ pháp): Khi chỉ sự thường xuyên hoặc tính chất giai đoạn của hành động, sử dụng giới từ в + Cách 4 (Đối cách)."
+    },
+    {
+     "t": "para",
+     "text": "Ты до́лжен вы́пить э́то лека́рство в три приёма;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Bạn phải uống thuốc này làm ba lần (chia làm 3 lần uống)."
+    },
+    {
+     "t": "para",
+     "text": "Cấu trúc: в три приёма."
+    },
+    {
+     "t": "para",
+     "text": "Đồng nghĩa: за три ра́за."
+    },
+    {
+     "t": "para",
+     "text": "На э́той неде́ле я рабо́таю в у́тро, а на сле́дующей неде́ле бу́ду рабо́тать в ве́чер;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Tuần này tôi làm việc ca sáng, còn tuần sau tôi sẽ làm ca tối."
+    },
+    {
+     "t": "para",
+     "text": "Cấu trúc: в у́тро, в ве́чер."
+    },
+    {
+     "t": "para",
+     "text": "Đồng nghĩa: в у́треннюю сме́ну (ca sáng), в вече́рнюю сме́ну (ca tối)."
+    },
+    {
+     "t": "para",
+     "text": "Шко́лы перепо́лнены, и в не́которых микрорайо́нах шко́льники занима́ются в две сме́ны;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Các trường học quá tải, và ở một số khu dân cư học sinh phải học hai ca (chia làm 2 ca)."
+    },
+    {
+     "t": "para",
+     "text": "Cấu trúc: в две сме́ны."
+    },
+    {
+     "t": "para",
+     "text": "Đồng nghĩa: в два пото́ка."
+    },
+    {
+     "t": "para",
+     "text": "Бою́сь, за оди́н раз тебе́ не уда́стся офо́рмить все докуме́нты, придётся э́то сде́лать в два захо́да;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: E rằng làm một lần bạn không thể hoàn thành mọi giấy tờ, sẽ phải làm việc đó làm hai đợt (hai lượt đi)."
+    },
+    {
+     "t": "para",
+     "text": "Cấu trúc: за оди́н раз, в два захо́да."
+    },
+    {
+     "t": "para",
+     "text": "Đồng nghĩa: сра́зу (ngay - cho \"за один раз\"), за два ра́за (trong hai lần - cho \"в два захода\")."
+    },
+    {
+     "t": "para",
+     "text": "Вре́мени на осмо́тр достопримеча́тельностей у нас немно́го, на́до постара́ться уложи́ться в оди́н день."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Thời gian để tham quan thắng cảnh chúng ta không có nhiều, cần cố gắng gói gọn trong một ngày."
+    },
+    {
+     "t": "para",
+     "text": "Cấu trúc: в оди́н день."
+    },
+    {
+     "t": "para",
+     "text": "Đồng nghĩa: за оди́н день."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,793 @@
+{
+ "id": "skazki1-005",
+ "num": 5,
+ "title": "Лиса-исповедница — Cáo nghe xưng tội",
+ "vi": "Лиса-исповедница — Cáo nghe xưng tội",
+ "ru": "Лиса-исповедница",
+ "icon": "🦊",
+ "color": "#b45309",
+ "sectionPrefix": "skazki1-005-s",
+ "group": "Truyện № 1–30",
+ "sections": [
+  {
+   "id": "skazki1-005-s001",
+   "type": "story",
+   "num": 15,
+   "title": "№ 15 · Лиса-исповедница — Cáo nghe xưng tội",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Truyện «cáo nghe xưng tội» — kiểu cốt truyện cáo dụ gà trống xuống cây bằng cách rủ đi xưng tội, rồi định ăn thịt. Bản ghi văn xuôi này châm biếm thói đạo đức giả; gà trống nhanh trí lấy chuyện hứa cho cáo chức «bà nướng bánh thánh» mà gỡ bẫy thoát thân."
+    },
+    {
+     "t": "para",
+     "text": "Однажды лиса всю большую осеннюю ночь протаскалась по лесу не евши. (Một bận, suốt cả đêm thu dài dằng dặc, cáo lang thang khắp khu rừng mà chẳng kiếm được gì bỏ bụng.)"
+    },
+    {
+     "t": "para",
+     "text": "На зоре прибежала она в деревню, взошла на двор к мужику и полезла на насесть к курам. (Tảng sáng, nó chạy về làng, lẻn vào sân nhà một bác nông dân rồi trèo lên sào đậu của đàn gà.)"
+    },
+    {
+     "t": "para",
+     "text": "Только что подкралась и хотела схватить одну курицу, а петуху пришло время петь: вдруг он крыльями захлопал, ногами затопал и закричал во все горло. (Vừa rón rén lại gần, toan vồ lấy một con gà mái thì cũng vừa đến giờ gà trống gáy: bất thần nó vỗ cánh phành phạch, giậm chân thình thịch rồi ra sức gân cổ gáy vang.)"
+    },
+    {
+     "t": "para",
+     "text": "Лиса с насести-то так со страху полетела, что недели три лежала в лихорадке. (Cáo hoảng quá ngã lộn nhào từ trên sào xuống, đến nỗi nằm liệt sốt run cầm cập mất ba tuần liền.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот раз вздумалось петуху пойти в лес — разгуляться, а лисица уж давно его стережет; спряталась за куст и поджидает, скоро ли петух подойдет. (Một hôm gà trống nảy ra ý đi vào rừng dạo chơi, mà cáo thì đã rình nó từ lâu; nó nấp sau bụi cây, chực xem bao giờ gà trống mới tới.)"
+    },
+    {
+     "t": "para",
+     "text": "А петух увидел сухое дерево, взлетел на него и сидит себе. (Còn gà trống trông thấy một cây khô, liền bay vút lên đậu chễm chệ trên đó.)"
+    },
+    {
+     "t": "para",
+     "text": "В то время лисе скучно показалось дожидаться, захотелось сманить петуха с дерева; вот думала, думала, да и придумала: дай прельщу его. (Đợi mãi, cáo đâm sốt ruột, muốn dụ gà trống xuống khỏi cây; nó nghĩ tới nghĩ lui, rồi cũng nghĩ ra một kế: thôi thì ta phỉnh phờ nó vậy.)"
+    },
+    {
+     "t": "para",
+     "text": "Подходит к дереву и стала здоровкаться: «Здравствуй, Петенька!» (Nó lại gần gốc cây, cất tiếng chào hỏi: «Chào chú Gà trống thân yêu!»)"
+    },
+    {
+     "t": "para",
+     "text": "«Зачем ее лукавый занес?» — думает петух. («Con quỷ nào lại đưa nó đến đây thế không biết?» — gà trống nghĩ thầm.)"
+    },
+    {
+     "t": "para",
+     "text": "А лиса приступает с своими хитростями: «Я тебе, Петенька, добра хочу — на истинный путь наставить и разуму научить. (Còn cáo thì giở trò ranh ma: «Chú Gà trống ơi, ta chỉ muốn điều tốt cho chú thôi — dẫn chú về đường ngay nẻo chính, dạy cho chú điều khôn lẽ phải.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот ты, Петя, имеешь у себя пятьдесят жен, а на исповеди ни разу не бывал. (Chú xem, chú Petya này, chú có những năm chục bà vợ mà chưa một lần đi xưng tội.)"
+    },
+    {
+     "t": "para",
+     "text": "Слезай ко мне и покайся, а я все грехи с тебя сниму и на смех не подыму». (Xuống đây với ta mà sám hối đi, ta sẽ gột sạch mọi tội lỗi cho chú, lại chẳng đem chú ra giễu cợt đâu».)"
+    },
+    {
+     "t": "para",
+     "text": "Петух стал спускаться ниже и ниже и попал прямо лисе в лапы. (Gà trống cứ tụt dần xuống thấp, thấp mãi, rồi sa thẳng vào vuốt cáo.)"
+    },
+    {
+     "t": "para",
+     "text": "Схватила его лиса и говорит: «Теперь я задам тебе жару! (Cáo chộp ngay lấy nó mà rằng: «Bây giờ thì ta cho mày một trận biết tay!)"
+    },
+    {
+     "t": "para",
+     "text": "Ты у меня за все ответишь; попомнишь, блудник и пакостник, про свои худые дела! (Mày sẽ phải trả giá hết với ta; rồi mày sẽ nhớ đời, quân dâm đãng, đồ phá phách, về những việc xấu xa của mày!)"
+    },
+    {
+     "t": "para",
+     "text": "Вспомни, как я в осеннюю темную ночь приходила и хотела попользоваться одним куренком, а я в то время три дня ничего не ела, и ты крыльями захлопал и ногами затопал!..» (Nhớ lại xem, cái đêm thu tối trời ta mò đến, định xơi tạm một con gà giò — lúc ấy ta đã ba ngày chẳng có gì vào bụng — thế mà mày vỗ cánh phành phạch, giậm chân thình thịch!..»)"
+    },
+    {
+     "t": "para",
+     "text": "«Ах, лиса! — говорит петух. — Ласковые твои словеса, премудрая княгиня! («Ôi, cáo ơi! — gà trống đáp. — Lời lẽ của cô sao mà ngọt ngào, hỡi nàng công nương cao minh!)"
+    },
+    {
+     "t": "para",
+     "text": "Вот у нашего архиерея скоро пир будет; в то время стану я просить, чтоб тебя сделали просвирнею, и будут нам с тобой просвиры мягкие, кануны сладкие, и пойдет про нас слава добрая». (Sắp tới đây đức Giám mục của chúng tôi sẽ mở tiệc lớn; bấy giờ tôi sẽ xin cho cô được làm bà nướng bánh thánh, thế là cô với tôi sẽ có bánh thánh mềm thơm, rượu mật lễ ngọt ngào, và tiếng thơm sẽ đồn xa về hai ta».)"
+    },
+    {
+     "t": "para",
+     "text": "Лиса распустила лапы, а петух порх на дубок. (Cáo lơi vuốt ra, gà trống liền vù một cái bay tót lên cây sồi.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "протаскаться",
+     "vi": "lang thang vạ vật mệt nhoài (khẩu ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "зоря (на зоре)",
+     "vi": "lúc rạng đông, tảng sáng (dạng cổ của «заря»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "насесть",
+     "vi": "sào đậu cho gà ngủ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "куренок",
+     "vi": "gà giò, gà choai (khẩu ngữ; = цыплёнок)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "лукавый",
+     "vi": "ác quỷ, ma quỷ (uyển ngữ; nghĩa gốc «xảo trá»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "исповедь",
+     "vi": "sự xưng tội (nghi lễ Chính Thống giáo)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "покаяться",
+     "vi": "sám hối, ăn năn hối lỗi",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "блудник",
+     "vi": "kẻ dâm đãng, quân trác táng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "пакостник",
+     "vi": "đồ phá phách, kẻ chuyên làm điều bậy bạ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "словеса",
+     "vi": "lời lẽ (dạng cổ, số nhiều trang trọng của «слово»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "княгиня",
+     "vi": "công nương, vương phi",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "архиерей",
+     "vi": "giám mục (giáo phẩm cao Chính Thống giáo)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "просвирня",
+     "vi": "bà chuyên nướng bánh thánh (просвира) cho nhà thờ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кануны (канун)",
+     "vi": "đồ ngọt/rượu mật dùng trong lễ cầu hồn",
+     "g": null
+    }
+   ]
+  },
+  {
+   "id": "skazki1-005-s002",
+   "type": "story",
+   "num": 16,
+   "title": "№ 16 · Лиса-исповедница — Cáo nghe xưng tội (dị bản giễu kinh kệ)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Dị bản giễu nhại văn nhà thờ: cáo nói bằng giọng kinh kệ cổ (đầy «чадо», «сниди», «почто», «велиим гласом») và viện cả dụ ngôn Kinh Thánh để dụ gà trống; gà trống đáp trả cũng bằng giọng ấy rồi gỡ bẫy, cuối truyện còn buông lời chế nhạo. Bản dài và nhiều điển tích hơn bản №15."
+    },
+    {
+     "t": "para",
+     "text": "Зело удивительно: шла лисица из дальних пустынь. (Thật lạ lùng thay: có một con cáo từ chốn hoang vu xa xôi lần tới.)"
+    },
+    {
+     "t": "para",
+     "text": "Завидевши петуха на высоцем древе, говорит ему ласковые словеса: «О милое мое чадо, петел! (Trông thấy gà trống đậu trên cây cao, nó buông những lời ngọt ngào: «Hỡi đứa con yêu dấu của ta, gà trống ơi!)"
+    },
+    {
+     "t": "para",
+     "text": "Сидишь ты на высоцем древе да мыслишь ты мысли недобрые, проклятые; вы де́ржите жен помногу: кто держит десять, кто — двадцать, и́нный — тридцать, прибывает со временем до сорока! (Con ngồi trên cây cao mà trong lòng cứ nghĩ những điều xấu xa, đáng nguyền rủa; các ngươi giữ vợ thật nhiều: kẻ giữ mười, kẻ hai mươi, kẻ khác ba mươi, lâu dần lên tới bốn mươi!)"
+    },
+    {
+     "t": "para",
+     "text": "Где сойдетесь, тут и деретесь о своих женах, как о наложницах. (Hễ gặp nhau ở đâu là các ngươi lại đánh nhau ở đó vì đám vợ, cứ như tranh nhau lũ thê thiếp.)"
+    },
+    {
+     "t": "para",
+     "text": "Сниди, милое мое чадо, на землю да покайся! (Hãy xuống đi, đứa con yêu dấu của ta, xuống mặt đất mà sám hối!)"
+    },
+    {
+     "t": "para",
+     "text": "Я шла из дальних пустынь, не пила, не ела, много нужды претерпела; все тебя, мое милое чадо, исповедать хотела». (Ta từ chốn hoang vu xa xôi lặn lội tới, chẳng uống chẳng ăn, chịu bao nỗi nhọc nhằn; chỉ mong được nghe con xưng tội, hỡi đứa con yêu dấu của ta».)"
+    },
+    {
+     "t": "para",
+     "text": "«О мати моя, лисица! Я не постился и не молился; приди в и́нное время». («Ôi mẹ cáo của con ơi! Con chưa ăn chay, chưa cầu nguyện; mẹ hãy đến vào dịp khác vậy».)"
+    },
+    {
+     "t": "para",
+     "text": "«О милое мое чадо, петел! Не постился и не молился, но сниди на землю, покайся, да не во грехах умреши». («Hỡi đứa con yêu dấu của ta, gà trống ơi! Dẫu chưa ăn chay chưa cầu nguyện, con cứ xuống đất mà sám hối đi, kẻo lại chết trong tội lỗi».)"
+    },
+    {
+     "t": "para",
+     "text": "«О мати моя, лисица, сахарные уста, ласковые словеса, льстивый твой язык! («Ôi mẹ cáo của con, đôi môi đường mật, lời lẽ ngọt ngào, cái lưỡi nịnh hót dẻo quẹo của mẹ!)"
+    },
+    {
+     "t": "para",
+     "text": "Не осуждайте друг друга, и сами не осуждены будете; кто что посеял, тот и пожнет. (Chớ xét đoán lẫn nhau thì mình sẽ không bị xét đoán; ai gieo gì thì gặt nấy.)"
+    },
+    {
+     "t": "para",
+     "text": "Хочешь ты меня силой к покаянию привести и не спасти, а тело мое пожрать». (Mẹ muốn ép con sám hối, mà chẳng phải để cứu rỗi con, chỉ cốt để ngốn ngấu lấy thân xác con thôi».)"
+    },
+    {
+     "t": "para",
+     "text": "«О милое мое чадо, петел! Почто ты такую речь говоришь? Почто я учиню так? («Hỡi đứa con yêu dấu của ta, gà trống ơi! Cớ sao con lại nói lời như thế? Lẽ nào ta lại làm vậy?)"
+    },
+    {
+     "t": "para",
+     "text": "Читывал ли ты притчу про мытаря и фарисея, как мытарь спасся, а фарисей погиб за гордость? (Con đã từng đọc dụ ngôn về người thu thuế và người Pharisêu chưa, rằng người thu thuế được cứu rỗi, còn người Pharisêu thì chết vì thói kiêu căng?)"
+    },
+    {
+     "t": "para",
+     "text": "Ты, мое милое чадо, без покаяния на высоцем древе погибнешь. (Con yêu dấu của ta ơi, không chịu sám hối thì con sẽ chết gục trên cây cao kia mất.)"
+    },
+    {
+     "t": "para",
+     "text": "Сниди на землю пониже, будешь к покаянию поближе; прощен и разрешен и до царствия небесного допущен». (Hãy xuống đất, thấp xuống chút nữa, ấy là gần với sự sám hối hơn; con sẽ được tha thứ, được xá tội và được nhận vào nước thiên đàng».)"
+    },
+    {
+     "t": "para",
+     "text": "Узнал петух на своей душе тяжкий грех, умилился и прослезился и стал спускаться с ветки на ветку, с прутка на пруток, с сучка на сучок, с пенька на пенек; спустился петел на землю и сел перед лисицу. (Gà trống thấy trong hồn mình mang tội nặng, lòng dịu lại mà ứa nước mắt, rồi bắt đầu tụt từ cành này sang cành khác, từ que này sang que nọ, từ nhánh này sang nhánh kia, từ mấu này sang mấu khác; gà trống xuống tới đất, đậu ngay trước mặt cáo.)"
+    },
+    {
+     "t": "para",
+     "text": "Скочила лисица, яко лукавая птица, схватила петуха в свои острые когти, зрит на него свирепыми глазами, скрежещет острыми зубами; хочет, как некоего беззаконника, жива пожрать. (Cáo nhảy chồm lên như con chim quỷ quyệt, quặp lấy gà trống trong những móng vuốt nhọn hoắt, trừng cặp mắt dữ tợn nhìn nó, nghiến hàm răng sắc lẻm; nó muốn nuốt sống gà trống như nuốt một kẻ tội đồ phạm pháp.)"
+    },
+    {
+     "t": "para",
+     "text": "И рече петел лисице: «О мати моя, лисица, сахарные уста, ласковые словеса, льстивый твой язык! Ты ли меня спасешь, как тело мое пожрешь?» (Gà trống bèn thưa với cáo: «Ôi mẹ cáo của con, đôi môi đường mật, lời lẽ ngọt ngào, cái lưỡi nịnh hót dẻo quẹo! Mẹ cứu rỗi con sao được, một khi mẹ đã ngốn mất thân xác con?»)"
+    },
+    {
+     "t": "para",
+     "text": "«Не дорого твое тело и цветное платье, да дорого отплатить некую дружбу. («Tấm thân mày với bộ áo sặc sỡ của mày chẳng đáng là bao, nhưng có món «ân tình» này thì ta phải trả cho bằng được.)"
+    },
+    {
+     "t": "para",
+     "text": "Помнишь ли ты? Я шла ко крестьянину, хотела малого куренка съесть; а ты, дурак, бездельник, сидишь на высоких седалах, закричал-завопил велиим гласом, ногами затопал, крыльями замахал; (Mày còn nhớ chăng? Ta mò đến nhà một bác nông dân, định xơi một con gà giò bé tí; thế mà mày, đồ ngốc, quân ăn không ngồi rồi, đậu trên sào cao, gân cổ kêu la inh ỏi, giậm chân, đập cánh phành phạch;)"
+    },
+    {
+     "t": "para",
+     "text": "тогда курицы заговорили, гуси загоготали, собаки залаяли, жеребцы заржали, коровы замычали. (thế là gà mái nháo nhác, ngỗng kêu quàng quạc, chó sủa nhặng lên, ngựa đực hí vang, bò rống ầm ĩ.)"
+    },
+    {
+     "t": "para",
+     "text": "Услыхали все мужики и бабы: бабы прибежали с помелами, а мужики с топорами и хотели мне за куренка смерть учинить; (Tất cả đàn ông đàn bà nghe thấy: các bà vác chổi chạy tới, các ông cầm rìu, toan đem ta ra trị tội chết chỉ vì một con gà giò;)"
+    },
+    {
+     "t": "para",
+     "text": "а сова у них из рода в род пребывает и всегда курят поедает. (ấy vậy mà con cú thì đời đời kiếp kiếp cứ sống yên trong nhà người ta, lúc nào cũng chén gà chén qué.)"
+    },
+    {
+     "t": "para",
+     "text": "А тебе, дурак, бездельник, не быть теперь живому!». (Còn mày, đồ ngốc, quân vô tích sự, phen này thì đừng hòng sống sót!»)"
+    },
+    {
+     "t": "para",
+     "text": "Рече петух лисице: «О мати моя, лисица, сахарные уста, ласковые словеса, льстивый твой язык! (Gà trống nói với cáo: «Ôi mẹ cáo của con, đôi môi đường mật, lời lẽ ngọt ngào, cái lưỡi nịnh hót dẻo quẹo!)"
+    },
+    {
+     "t": "para",
+     "text": "Вчерашнего числа звали меня ко Трунчинскому митрополиту во дьяки, выхваляли всем крылосом и собором: хорош молодец, изряден, горазд книги читать, и голос хорош. (Mới ngày hôm qua, người ta gọi con đến chỗ đức Tổng giám mục xứ Trunchinsk làm phụ tế, cả ca đoàn lẫn hội đồng nhà thờ đều khen nức nở: chàng trai khôi ngô, tài giỏi, đọc kinh sách thông làu, giọng lại hay.)"
+    },
+    {
+     "t": "para",
+     "text": "Не могу ли тебя, мати моя лисица, упросить своим прошеньем хоть в просвирни? (Hay là con đem lời cầu xin giúp mẹ, mẹ cáo của con, cho mẹ được làm chân bà nướng bánh thánh chăng?)"
+    },
+    {
+     "t": "para",
+     "text": "Тут нам будет велик доход: станут нам давать сладкие просвиры, большие перепечи, и масличко, и яички, и сырчики». (Bấy giờ ta sẽ có món lợi to: người ta sẽ cho bánh thánh ngọt, những chiếc bánh nướng lớn, lại có cả dầu, trứng và phô mai tươi nữa».)"
+    },
+    {
+     "t": "para",
+     "text": "Узнала лисица петушиный признак (sic), отпустила петуха из своих когтей послабже. (Cáo nghe ra cái giọng lưỡi của gà trống, liền nới lỏng móng vuốt thả nó ra đôi chút.)"
+    },
+    {
+     "t": "para",
+     "text": "Вырвался петух, взлетел на высокое древо, закричал-завопил велиим гласом: «Дорогая боярыня просвирня, здравствуй! (Gà trống vùng thoát ra, bay vút lên cây cao, gân cổ kêu la inh ỏi: «Kính chào bà lớn nướng bánh thánh!)"
+    },
+    {
+     "t": "para",
+     "text": "Велик ли доход, сладки ли просвиры? Не стерла ли горб, нося перепечи? (Lợi lộc có lớn không, bánh thánh có ngọt không? Vác bánh nướng lắm có chai sần cả tấm lưng gù chưa?)"
+    },
+    {
+     "t": "para",
+     "text": "Не охоча ли, ворогуша, до орехов? Да есть ли у тебя зубы?» (Hay là mụ chằn còn thèm cả hạt dẻ nữa? Mà mụ có còn cái răng nào không đấy?»)"
+    },
+    {
+     "t": "para",
+     "text": "Пошла лисица в лес, яко долгий бес, и возрыда горько: «Сколько-де я по земле не бывала, а такой срамоты отроду не видала. (Cáo lủi vào rừng, dài thượt như con quỷ đói, mà khóc rống lên cay đắng: «Bao lâu nay ta lăn lóc khắp gầm trời, mà nỗi nhục nhã thế này thì từ thuở cha sinh mẹ đẻ chưa từng thấy.)"
+    },
+    {
+     "t": "para",
+     "text": "Когда бывают петухи в дьяконах, лисицы в просвирнях!» (Đời thuở nào gà trống lại đi làm phụ tế, còn cáo thì đi nướng bánh thánh cho được!»)"
+    },
+    {
+     "t": "para",
+     "text": "Ему же слава и держава отныне и до веку, и сказке конец. (Vinh quang và quyền uy thuộc về Người, từ nay cho đến muôn đời — và câu chuyện đến đây là hết.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "зело",
+     "vi": "rất, hết sức (từ cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "петел",
+     "vi": "gà trống (dạng cổ của «петух»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "чадо",
+     "vi": "đứa con (từ cổ, trang trọng)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "сниди",
+     "vi": "hãy xuống (mệnh lệnh cổ của «сойди»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "мати",
+     "vi": "mẹ (dạng cổ của «мать»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "почто",
+     "vi": "vì sao, cớ sao (từ cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "притча",
+     "vi": "dụ ngôn răn dạy; ở đây nhắc tích người thu thuế (мытарь) và người Pharisêu (фарисей)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "мытарь",
+     "vi": "người thu thuế (điển tích Kinh Thánh)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "рече",
+     "vi": "đã nói, bèn nói (dạng cổ của «сказал»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "яко",
+     "vi": "như, ví như (từ cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "велиим гласом",
+     "vi": "bằng giọng lớn vang (cụm cổ = «громким голосом»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "митрополит",
+     "vi": "Tổng giám mục (giáo phẩm cao Chính Thống giáo)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "дьяк",
+     "vi": "phụ tế, người giúp việc lễ trong nhà thờ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "боярыня",
+     "vi": "bà lớn, phu nhân quý tộc (vợ boyar)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ворогуша",
+     "vi": "mụ chằn, đồ yêu tinh (lời mắng; gốc chỉ cơn sốt rét bị nhân hóa)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "держава",
+     "vi": "quyền uy, vương quyền (trong câu kết theo lối kinh kệ)",
+     "g": null
+    }
+   ]
+  },
+  {
+   "id": "skazki1-005-s003",
+   "type": "story",
+   "num": 17,
+   "title": "№ 17 · Лиса-исповедница — Cáo nghe xưng tội (dị bản thơ)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Dị bản bằng thơ/đồng dao của «Cáo nghe xưng tội»: mở đầu là chuyện sói ăn thịt lợn nái, rồi cáo xin chia thịt mà bị sói doạ; cáo chạy sang dụ gà trống y như các bản trước, song lần này lời lẽ được gieo vần theo lối kể rong dân gian. Cuối truyện gà trống nhại giọng đọc kinh «cầu hồn» của nhà thờ, đọc ra một tràng tên người quê mùa để chế giễu cáo. Nguyên bản có một chỗ khuyết (dấu chấm lửng)."
+    },
+    {
+     "t": "para",
+     "text": "Как волки озорничали, (Thuở lũ sói còn nghịch ngợm làm càn,)"
+    },
+    {
+     "t": "para",
+     "text": "Себя величали, — (Tự khoe khoang, vênh váo xưng tụng mình, —)"
+    },
+    {
+     "t": "para",
+     "text": "Сходила свинья со двора, (Có con lợn nái rời khỏi sân nhà,)"
+    },
+    {
+     "t": "para",
+     "text": "Сводила за собой махоньких и беленьких. (Dẫn theo cả bầy lợn con nhỏ xíu trắng tinh.)"
+    },
+    {
+     "t": "para",
+     "text": "Она думала — по́ лесу-ле́су, (Nó cứ tưởng mình đang dạo trong rừng trong rú,)"
+    },
+    {
+     "t": "para",
+     "text": "Ан у колос, у овес. (Ai dè lại lạc vào ruộng lúa, ruộng yến mạch.)"
+    },
+    {
+     "t": "para",
+     "text": "У ней были зубки ловки, (Răng nó vốn nhanh nhẹn khéo léo,)"
+    },
+    {
+     "t": "para",
+     "text": "Усё схватывала головки, (Đớp sạch hết mọi đầu bông.)"
+    },
+    {
+     "t": "para",
+     "text": "Подходила к волку близко, (Nó lại gần con sói,)"
+    },
+    {
+     "t": "para",
+     "text": "Поклонилась ему низко: (Cúi rạp mình chào nó:)"
+    },
+    {
+     "t": "para",
+     "text": "«Здравствуй, волк-волчок! («Chào anh sói, sói xám ơi!)"
+    },
+    {
+     "t": "para",
+     "text": "Не будет ли с тебя (Hay anh đã đủ no rồi với)"
+    },
+    {
+     "t": "para",
+     "text": "Махоньких и беленьких?» — (Mấy đứa nhỏ xíu trắng tinh kia chăng?» —)"
+    },
+    {
+     "t": "para",
+     "text": "«Эх ты, свинушка! («Chà, con lợn nái này!)"
+    },
+    {
+     "t": "para",
+     "text": "Я глазами окину — (Ta chỉ đảo mắt một cái thôi —)"
+    },
+    {
+     "t": "para",
+     "text": "И тебя не покину». (Là cả mày ta cũng chẳng tha».)"
+    },
+    {
+     "t": "para",
+     "text": "Взял за щетину (Sói tóm lấy túm lông gáy,)"
+    },
+    {
+     "t": "para",
+     "text": "И повалил на спину. (Vật ngửa lợn ra.)"
+    },
+    {
+     "t": "para",
+     "text": "И стал косточки объедать, (Rồi gặm rỉa từng khúc xương,)"
+    },
+    {
+     "t": "para",
+     "text": "А мякушко в кучку сбирать. (Còn thịt mềm thì dồn lại thành đống.)"
+    },
+    {
+     "t": "para",
+     "text": "Бежала непорочная лисица: (Có con cáo «trong sạch vô tội» chạy tới:)"
+    },
+    {
+     "t": "para",
+     "text": "«Ох ты, кум-куманек! («Ôi anh thông gia, anh bạn quý ơi!)"
+    },
+    {
+     "t": "para",
+     "text": "Некупленное у тебя, дешевое; (Chỗ thịt này anh nào có phải mua, rẻ rề;)"
+    },
+    {
+     "t": "para",
+     "text": "Не поделишь ли мясца?» — (Chia cho tôi miếng thịt với chăng?» —)"
+    },
+    {
+     "t": "para",
+     "text": "«Эх ты, кумушка! («Chà, chị thông gia này!)"
+    },
+    {
+     "t": "para",
+     "text": "Ведаешь, Ермак (Chị có hay câu nói về thằng Ermak)"
+    },
+    {
+     "t": "para",
+     "text": "Зап... натощак? (Đ... lúc bụng đói meo chăng?)"
+    },
+    {
+     "t": "para",
+     "text": "И тебе того не миновать». (Rồi chị cũng chẳng thoát khỏi cảnh ấy đâu».)"
+    },
+    {
+     "t": "para",
+     "text": "Лисица слышит нерадостны речи, (Cáo nghe những lời chẳng lành ấy,)"
+    },
+    {
+     "t": "para",
+     "text": "Назад, назад, да и бежать! (Vội lùi lại, lùi lại, rồi ba chân bốn cẳng chạy biến!)"
+    },
+    {
+     "t": "para",
+     "text": "Прибежала в город Козельск; (Nó chạy một mạch tới thành Kozelsk;)"
+    },
+    {
+     "t": "para",
+     "text": "В городе во Козельске (Ở trong cái thành Kozelsk ấy,)"
+    },
+    {
+     "t": "para",
+     "text": "Сидит красное чадо — (Có một đứa con xinh đẹp đang đậu —)"
+    },
+    {
+     "t": "para",
+     "text": "Петух на дубу. (Ấy là chú gà trống trên cây sồi.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ох ты, петух-петушок! («Ôi chú gà trống, gà trống ơi!)"
+    },
+    {
+     "t": "para",
+     "text": "Спущайся ты на низящее, (Chú hãy tụt xuống chỗ thấp hơn nào,)"
+    },
+    {
+     "t": "para",
+     "text": "С низящего на землящее; (Từ chỗ thấp xuống tận sát mặt đất;)"
+    },
+    {
+     "t": "para",
+     "text": "Я твою душу (Để ta đưa hồn chú)"
+    },
+    {
+     "t": "para",
+     "text": "На небеса взнесу». (Lên tận chín tầng mây xanh».)"
+    },
+    {
+     "t": "para",
+     "text": "Петух сдуру лисицу послухал, (Gà trống dại dột nghe lời cáo,)"
+    },
+    {
+     "t": "para",
+     "text": "Слезал на низящее, (Tụt xuống chỗ thấp hơn,)"
+    },
+    {
+     "t": "para",
+     "text": "С низящего на землящее. (Từ chỗ thấp xuống tận sát mặt đất.)"
+    },
+    {
+     "t": "para",
+     "text": "Лисица стала петушка вертеть, (Cáo liền vần vò chú gà trống,)"
+    },
+    {
+     "t": "para",
+     "text": "Петушку невмочь стало терпеть, (Gà trống đau đến không sao chịu nổi,)"
+    },
+    {
+     "t": "note",
+     "text": "(Đến đây nguyên bản khuyết một đoạn — chính là chỗ gà trống nhanh trí gỡ bẫy, thoát khỏi vuốt cáo rồi bay trở lên cây.)"
+    },
+    {
+     "t": "para",
+     "text": "Ох ты, лисица, желтая княгиня! (Ôi cáo ơi, nàng công nương lông vàng!)"
+    },
+    {
+     "t": "para",
+     "text": "Как у нашего у батюшки (Ở chỗ cha xứ của chúng tôi đây,)"
+    },
+    {
+     "t": "para",
+     "text": "Маслицем (блинки) поливают, (Người ta rưới bơ thơm lên (những chiếc bánh blin),)"
+    },
+    {
+     "t": "para",
+     "text": "Тебя в гости поджидают; (Đang chờ đón cô tới làm khách đấy;)"
+    },
+    {
+     "t": "para",
+     "text": "Там-то не по-нашему, (Ở đó đâu có xuềnh xoàng như chốn chúng tôi,)"
+    },
+    {
+     "t": "para",
+     "text": "Пироги с кашею. (Toàn bánh nướng nhân cháo kê đề huề.)"
+    },
+    {
+     "t": "para",
+     "text": "Помяни, господи, (Lạy Chúa, xin Người nhớ đến)"
+    },
+    {
+     "t": "para",
+     "text": "Сидора да Макара, (Ông Sidor cùng ông Makar,)"
+    },
+    {
+     "t": "para",
+     "text": "Третьего Захара, (Người thứ ba là ông Zakhar,)"
+    },
+    {
+     "t": "para",
+     "text": "Трех Матрен (Cùng ba bà Matryona,)"
+    },
+    {
+     "t": "para",
+     "text": "Да Луку с Петром, (Lại thêm ông Luka với ông Pyotr,)"
+    },
+    {
+     "t": "para",
+     "text": "Деда-мироеда, (Lão già keo kiệt bóc lột dân làng,)"
+    },
+    {
+     "t": "para",
+     "text": "Бабку-бельматку (?). (Mụ già mắt lòa kèm nhèm (?),)"
+    },
+    {
+     "t": "para",
+     "text": "Тюшу да Катюшу, (Cùng cái Tyusha với cái Katyusha,)"
+    },
+    {
+     "t": "para",
+     "text": "Бабушку Матрюшу! (Và bà lão Matryusha!)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "озорничать",
+     "vi": "nghịch ngợm, quấy phá, làm càn",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "величаться",
+     "vi": "tự đề cao, vênh vang xưng tụng mình",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "махонький",
+     "vi": "bé tí, nhỏ xíu (phương ngữ = малюсенький)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "усё (всё)",
+     "vi": "tất cả (phương ngữ của «всё»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "щетина",
+     "vi": "lông cứng ở gáy và lưng con lợn",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "мякушко (мякоть)",
+     "vi": "phần thịt mềm (dạng thân mật, phương ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кум (кум-куманек)",
+     "vi": "ông thông gia/cha đỡ đầu; lối xưng hô thân mật dân dã",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "непорочный",
+     "vi": "trong sạch, không tì vết (ở đây dùng mỉa mai con cáo)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ведать (ведаешь)",
+     "vi": "biết, hay biết (từ cổ = знать)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "низящее",
+     "vi": "chỗ thấp (từ tự đặt theo vần dân gian)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "землящее",
+     "vi": "chỗ sát mặt đất (từ tự đặt theo vần dân gian)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "сдуру",
+     "vi": "vì ngu ngốc, vì dại dột",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "невмочь",
+     "vi": "không kham nổi, chịu hết xiết",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "батюшка",
+     "vi": "cha xứ, linh mục (cũng là lối gọi «bố»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "мироед",
+     "vi": "kẻ keo kiệt bóc lột dân làng (nghĩa đen «kẻ ăn cả thế gian»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "помянуть (помяни, господи)",
+     "vi": "cầu cho, tưởng nhớ (công thức đọc kinh cầu hồn nhà thờ)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

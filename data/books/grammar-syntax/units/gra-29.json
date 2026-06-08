@@ -1,0 +1,224 @@
+{
+ "id": "gra-29",
+ "num": 29,
+ "title": "Câu ghép chính phụ (III): Mệnh đề phụ thời gian",
+ "vi": "Câu ghép chính phụ (III): Mệnh đề phụ thời gian",
+ "ru": "Сложноподчинённые предложения: придаточная часть времени",
+ "icon": "⏰",
+ "color": "#be185d",
+ "sectionPrefix": "gra-29-s",
+ "group": "Раздел 3 · Câu phức (Сложное предложение)",
+ "sections": [
+  {
+   "id": "gra-29-s001",
+   "type": "grammar",
+   "title": "Liên kết chính phụ với mệnh đề phụ thời gian (придаточная часть времени)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Mệnh đề phụ thời gian (придаточная часть времени) với các liên từ когда́, пока́, как, как вдруг, в то вре́мя как, по́сле того́ как, с тех по́р как, как то́лько, до того́ как, перед те́м как, пре́жде чем — chỉ ra thời điểm diễn ra hành động hoặc thời điểm biểu hiện của đặc trưng."
+    },
+    {
+     "t": "para",
+     "text": "Các liên từ mang ý nghĩa thời gian:\nа) các liên từ когда́, пока́, в то вре́мя как, как, как вдруг mang ý nghĩa ĐỒNG THỜI: Когда́ с ним пыта́лись заговори́ть, он молча́л (Khi người ta thử bắt chuyện với anh ta, anh ta cứ lặng im); Мы успе́ли собра́ть ве́щи, пока́ он вызыва́л такси́ (Chúng tôi kịp thu dọn đồ đạc trong lúc anh ấy gọi taxi); Не прошло́ и десяти́ мину́т, как мы уже́ сиде́ли в сало́не самолёта (Chưa đầy mười phút sau, chúng tôi đã ngồi trong khoang máy bay); Я стал уже́ засыпа́ть, как вдруг услы́шал шо́рох (И. Гончаро́в) (Tôi vừa thiu thiu ngủ thì bỗng nghe tiếng sột soạt — I. Goncharov); Гонча́рные изде́лия и кера́мика испо́льзуются в быту́, в то вре́мя как фарфо́ровые отно́сятся к произведе́ниям иску́сства (Đồ gốm và đồ đất nung được dùng trong sinh hoạt hằng ngày, trong khi đồ sứ thuộc về các tác phẩm nghệ thuật);\nб) các liên từ когда́, как, по́сле того́ как, с тех по́р как, как то́лько, перед те́м как, пре́жде чем, пока́ mang ý nghĩa KHÔNG ĐỒNG THỜI:\n1. Hành động của mệnh đề phụ xảy ra trước hành động của mệnh đề chính: Когда́ рассвело́, перед на́шими глаза́ми откры́лся вид на кре́пость (Khi trời rạng sáng, trước mắt chúng tôi mở ra quang cảnh tòa pháo đài); Как начало́сь э́то представле́ние, никому́ вокру́г поко́я нет (Từ lúc màn trình diễn ấy bắt đầu, chẳng ai xung quanh được yên); Как то́лько он заговори́л, все замолча́ли (Anh ta vừa cất lời là mọi người im bặt); По́сле того́ как заня́тия зако́нчились, все разъе́хались по дома́м (Sau khi buổi học kết thúc, mọi người ai về nhà nấy); С тех по́р как я при́нял ва́ше предложе́ние, моя́ жизнь измени́лась (Từ khi tôi nhận lời đề nghị của ngài, cuộc đời tôi đã thay đổi).\n2. Hành động của mệnh đề phụ xảy ra sau hành động của mệnh đề chính: По слу́хам, до того́ как сде́латься корреспонде́нтом промы́шленной америка́нской печа́ти, гость был кру́пным инжене́ром (Л. Лео́нов) (Nghe đồn, trước khi trở thành phóng viên của báo chí công nghiệp Mỹ, vị khách từng là một kỹ sư tầm cỡ — L. Leonov); Перед те́м как уйти́, он попроща́лся со все́ми (Trước khi đi, anh ấy chào tạm biệt mọi người); Пре́жде чем вы дади́те согла́сие, хороше́нько поду́майте (Trước khi đồng ý, các bạn hãy suy nghĩ thật kỹ); Он сиде́л мо́лча, пока́ не при́нял реше́ние (Anh ấy ngồi lặng im cho đến khi đưa ra được quyết định)."
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Mệnh đề phụ mang ý nghĩa thời gian có thể đứng trước hoặc sau mệnh đề chính."
+    }
+   ]
+  },
+  {
+   "id": "gra-29-s002",
+   "type": "exercise",
+   "title": "Упражнение 427",
+   "num": 427,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy đọc các câu. Chú ý các liên từ nối các vế của câu ghép chính phụ mang ý nghĩa thời gian."
+    },
+    {
+     "t": "para",
+     "text": "Ngữ liệu của bài 427 chính là phần lý thuyết «Liên kết chính phụ với mệnh đề phụ thời gian» trình bày ở mục ngay trên: các liên từ mang ý nghĩa đồng thời (nhóm а) và không đồng thời (nhóm б) cùng toàn bộ ví dụ minh hoạ và khung chú ý."
+    }
+   ]
+  },
+  {
+   "id": "gra-29-s003",
+   "type": "exercise",
+   "title": "Упражнение 428",
+   "num": 428,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Mở ngoặc, đặt động từ thể hoàn thành hoặc thể chưa hoàn thành vào hình thức cần thiết. Giải thích cách chọn của bạn, nêu các phương án có thể."
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Sự ĐỒNG THỜI của các hành động ở mệnh đề chính và mệnh đề phụ được biểu đạt bằng động từ thể chưa hoàn thành: Когда́ шёл дождь, все ра́довались (Khi trời mưa, ai nấy đều mừng). Ở mệnh đề chính có thể có động từ thể hoàn thành, chỉ hành động diễn ra trong lúc hành động của mệnh đề phụ đang tiếp diễn: Когда́ мы выходи́ли из до́ма, пошёл дождь (Khi chúng tôi đang ra khỏi nhà thì trời đổ mưa)."
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Tính KẾ TIẾP của các hành động được biểu đạt bằng động từ thể hoàn thành: Когда́ дождь прошёл, вы́глянуло со́лнце (Khi cơn mưa qua đi, mặt trời ló rạng)."
+    },
+    {
+     "t": "para",
+     "text": "1. Когда́ Бе́ндер с завхо́зом (проходи́ть — пройти́) по до́му, две́ри салютова́ли стра́шными уда́рами (Khi Bender cùng viên quản trị đi qua toà nhà, những cánh cửa «chào» họ bằng những cú sập kinh hoàng); 2. Когда́ сканда́л был в зени́те, (явля́ться — яви́ться) милиционе́р и мо́лча стал тащи́ть дво́рника в райо́н (Khi vụ om sòm lên đến đỉnh điểm, một viên cảnh sát xuất hiện và lẳng lặng lôi người gác sân về đồn); 3. Ей и на са́мом де́ле показа́лось, что судьба́ (разлуча́ть — разлучи́ть) их в ту по́ру, когда́ они́ люби́ли друг дру́га (Bà quả thật cảm thấy số phận đã chia lìa hai người đúng vào cái thuở họ còn yêu nhau); 4. Когда́ проезжа́ли Лубя́нскую пло́щадь, Ипполи́т Матве́евич (беспоко́иться — забеспоко́иться) (Khi xe chạy qua quảng trường Lubyanka, Ippolit Matveevich bỗng thấy lo lắng); 5. Несча́стье (посеща́ть — посети́ть) Э́ллочку в тот ра́достный ве́чер, когда́ Э́ллочка примеря́ла о́чень ми́ленькую крепдеши́новую ко́фточку (Tai hoạ ập đến với Ellochka vào đúng buổi tối vui vẻ ấy, khi Ellochka đang ướm thử chiếc áo cánh crếp-đờ-sin rất xinh); 6. Тепе́рь, когда́ он на мину́ту (остава́ться — оста́ться) вдвоём с очарова́тельной гражда́нкой Калачёвой, ему́ захоте́лось рассказа́ть ей обо все́х го́рестях и волне́ниях, но он не посме́л э́того сде́лать (Giờ đây, khi được ở riêng một phút với quý cô Kalachova kiều diễm, ông những muốn kể cho nàng nghe mọi nỗi buồn khổ và lo âu của mình, nhưng không dám làm thế); 7. Оста́п нахму́рился. Он не люби́л, когда́ пре́сса (поднима́ть — подня́ть) вой вокру́г его́ и́мени (Ostap cau mày. Anh không thích khi báo chí làm rùm beng quanh tên tuổi mình); 8. Ипполи́т Матве́евич постепе́нно станови́лся подхали́мом. Когда́ он смотре́л на Оста́па, глаза́ его́ (приобрета́ть — приобрести́) голубо́й жанда́рмский отте́нок (Ippolit Matveevich dần trở thành kẻ xu nịnh. Mỗi khi nhìn Ostap, mắt ông lại ánh lên sắc xanh hiến binh); 9. Оста́п Бе́ндер люби́л эффе́кты. То́лько перед тре́тьим гудко́м, когда́ Ипполи́т Матве́евич уже́ не сомнева́лся в том, что бро́шен на произво́л судьбы́, Оста́п (замеча́ть — заме́тить) его́ (Ostap Bender ưa những màn gây ấn tượng. Mãi trước hồi còi thứ ba, khi Ippolit Matveevich đã hết nghi ngờ rằng mình bị bỏ mặc cho số phận, Ostap mới nhận ra ông); 10. То́лько здесь, в Пятиго́рске, когда́ теа́тр Колу́мба ста́вил тре́тий раз перед изумлёнными горожа́нами свою́ «Жени́тьбу», компаньо́ны (понима́ть — поня́ть) всю тру́дность пого́ни за сокро́вищами (Chỉ đến đây, ở Pyatigorsk, khi nhà hát Columbus diễn vở «Lễ cưới» lần thứ ba trước những thị dân sửng sốt, hai cộng sự mới hiểu hết nỗi gian nan của cuộc săn kho báu); 11. Когда́ все пропуска́ бы́ли вы́даны и в фойе́ уме́ньшили свет, Я́ков Менела́евич (вспомина́ть — вспо́мнить): э́ти чи́стые глаза́, э́тот уве́ренный взгляд он ви́дел в Тага́нской тюрьме́ в 1922 году́, когда́ и сам сиде́л там по пустяко́вому де́лу (Khi mọi thẻ vào cửa đã phát hết và đèn tiền sảnh được vặn nhỏ, Yakov Menelaevich chợt nhớ ra: đôi mắt trong veo ấy, ánh nhìn tự tin ấy ông đã từng thấy trong nhà tù Taganka năm 1922, khi chính ông cũng ngồi đó vì một vụ vặt vãnh); 12. Когда́ мы (получа́ть — получи́ть) на́ши де́ньги, мы истра́тим их гора́здо рациона́льнее. Не пра́вда ли? (Khi nào nhận được tiền của mình, chúng ta sẽ tiêu số tiền ấy hợp lý hơn nhiều. Chẳng phải sao?); 13. И друзья́, мечта́я о том, что они́ ку́пят, когда́ (станови́ться — стать) богача́ми, вы́шли из Пассанау́ра. Ипполи́т Матве́евич жи́во вообража́л себе́ поку́пку но́вых носко́в и отъе́зд за грани́цу (Và đôi bạn, mơ về những thứ sẽ mua khi trở nên giàu có, rời khỏi Passanaur. Ippolit Matveevich hình dung sống động cảnh sắm tất mới và chuyến xuất ngoại); 14. На рассве́те, когда́ страх немно́го (уменьша́ться — уме́ньшиться), Оста́п вы́брал месте́чко, побли́зости кото́рого не́ было ни стен, кото́рые могли́ бы обвали́ться, ни люде́й, кото́рые могли́ бы помеша́ть, и приступи́л к вскры́тию сту́ла (Lúc rạng sáng, khi nỗi sợ đã vơi đi đôi chút, Ostap chọn một chỗ mà gần đó không có bức tường nào có thể đổ sập, không có người nào có thể quấy rầy, rồi bắt tay «mổ» chiếc ghế); 15. Когда́ он очну́лся, то (ви́деть — уви́деть) ря́дом с собо́й заро́сший лило́вой щети́ной подборо́док Воробья́нинова. Ипполи́т Матве́евич то́же был без созна́ния (Khi tỉnh lại, anh thấy ngay cạnh mình cái cằm lởm chởm râu tím của Vorobyaninov. Ippolit Matveevich cũng đang bất tỉnh); 16. Бы́ло уже́ почти́ светло́, когда́ Воробья́нинов, бро́сив всё как бы́ло в ша́хматном кабине́те, забы́в там плоскогу́бцы и фура́жку с золоты́м клеймо́м несуществу́ющего я́хт-клу́ба, нике́м не заме́ченный, тяжело́ и уста́ло (вылеза́ть — вы́лезти) через окно́ на у́лицу (Trời đã gần sáng hẳn khi Vorobyaninov — bỏ lại mọi thứ nguyên trạng trong phòng cờ, để quên ở đó chiếc kìm và chiếc mũ lưỡi trai gắn phù hiệu vàng của một câu lạc bộ du thuyền không hề tồn tại — không ai trông thấy, nặng nề và mệt mỏi trèo qua cửa sổ ra phố) (И. Ильф, Е. Петро́в. «Двена́дцать сту́льев» — I. Ilf, E. Petrov. «Mười hai chiếc ghế»)."
+    }
+   ]
+  },
+  {
+   "id": "gra-29-s004",
+   "type": "exercise",
+   "title": "Упражнение 429",
+   "num": 429,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Điền liên từ пока́ hoặc в то вре́мя как vào chỗ ba chấm. Giải thích cách chọn của bạn, nêu các phương án. Sau đó, trong các câu nhận được, hãy dùng liên từ đồng nghĩa е́сли hoặc а ở những chỗ có thể."
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Liên từ пока́ thường được dùng khi hành động của mệnh đề chính và mệnh đề phụ gắn với nhau cả về thời gian lẫn nơi chốn: Пока́ ру́сские переправля́лись на друго́й бе́рег, францу́зы атакова́ли (Trong lúc quân Nga vượt sang bờ bên kia, quân Pháp tấn công)."
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Liên từ в то вре́мя как thường được dùng khi hành động của hai mệnh đề diễn ra cùng lúc nhưng ở những nơi khác nhau: В то вре́мя как я гото́вился к экза́менам, мои́ друзья́ отдыха́ли на ю́ге (Trong khi tôi ôn thi thì các bạn tôi đi nghỉ ở miền Nam)."
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Nếu liên từ е́сли có thể làm từ đồng nghĩa thay cho пока́ thì KHÔNG thể thay пока́ bằng в то вре́мя как: Пока́ (Е́сли) челове́к жив, он всё мо́жет испра́вить (Chừng nào (Nếu) con người còn sống thì còn sửa chữa được tất cả). Trong các trường hợp còn lại, phương án đồng nghĩa của cấu trúc với пока́ và в то вре́мя как là câu ghép đẳng lập với liên từ а: Ру́сские переправля́лись на друго́й бе́рег, а францу́зы атакова́ли; Я гото́вился к экза́менам, а мои́ друзья́ отдыха́ли."
+    },
+    {
+     "t": "para",
+     "text": "1. … все до́ма, мы мо́жем обсуди́ть пла́ны на выходны́е (… mọi người đều đang ở nhà, ta có thể bàn kế hoạch cho ngày nghỉ cuối tuần); 2. … под прое́ктом зако́на нет по́дписи президе́нта, он явля́ется рабо́чим материа́лом, а не зако́ном (… dự luật chưa có chữ ký của tổng thống thì nó mới chỉ là tài liệu làm việc chứ chưa phải là luật); 3. В небольши́х организа́циях рабо́тает оди́н систе́мный администра́тор, … на отраслевы́х предприя́тиях их мо́жет быть це́лая кома́нда (Ở các tổ chức nhỏ chỉ có một quản trị viên hệ thống làm việc, … ở các doanh nghiệp quy mô ngành có thể có cả một đội ngũ); 4. … не по́здно, на́до предприня́ть все необходи́мые ме́ры (… còn chưa muộn, cần áp dụng mọi biện pháp cần thiết); 5. … во всей Евро́пе показа́тели рожда́емости неукло́нно снижа́ются, во Фра́нции наблюда́ется ежего́дный приро́ст населе́ния (… trên toàn châu Âu tỷ suất sinh giảm đều đặn thì ở Pháp lại ghi nhận mức tăng dân số hằng năm); 6. На́до бы останови́ться, осмотре́ться, но я и так сли́шком по́здно на́чал, мо́лодость прошла́ — хо́чется успе́ть сде́лать мно́гое, … ещё что́-то мо́жешь (Lẽ ra nên dừng lại nhìn quanh, nhưng đằng nào tôi cũng đã bắt đầu quá muộn, tuổi trẻ đã qua — chỉ muốn kịp làm thật nhiều việc, … còn có thể làm được điều gì đó); 7. Мы не стреми́мся к сниже́нию цен — они́ стаби́льны в тече́ние до́лгого вре́мени, … ка́чество услу́г, предоставля́емых на́ми, неизме́нно растёт (Chúng tôi không chạy theo việc giảm giá — giá ổn định suốt thời gian dài, … chất lượng dịch vụ chúng tôi cung cấp lại không ngừng tăng); 8. … в Росси́и нет необходи́мых нам произво́дств, прихо́дится закупа́ть дета́ли за грани́цей (… ở Nga chưa có những cơ sở sản xuất chúng tôi cần thì đành phải mua linh kiện ở nước ngoài); 9. … гром не гря́нет, мужи́к не перекре́стится (ру́сская посло́вица) (… sấm chưa nổ thì người mu-gích chưa làm dấu thánh — tục ngữ Nga, ý nói «nước đến chân mới nhảy»); 10. Газе́та «Таймс» заяви́ла, что фильм бази́руется исключи́тельно на вы́рванных из конте́кста фа́ктах, … други́е сре́дства ма́ссовой информа́ции критикова́ли фильм за то, что в нём испо́льзуются не име́ющие исто́чника видеоматериа́лы (Báo «Times» tuyên bố bộ phim chỉ dựa trên những sự kiện bị tách rời khỏi ngữ cảnh, … các phương tiện truyền thông khác thì phê phán bộ phim vì dùng những tư liệu video không rõ nguồn gốc); 11. В на́шей кли́нике испо́льзуются са́мые совреме́нные ме́тоды лече́ния: … вы спи́те, стомато́лог мо́жет вы́полнить практи́чески весь объём рабо́ты (Phòng khám của chúng tôi áp dụng những phương pháp điều trị hiện đại nhất: … bạn đang ngủ, bác sĩ nha khoa có thể thực hiện gần như toàn bộ khối lượng công việc); 12. … де́ти бу́дут игра́ть в лабири́нте, взро́слые мо́гут посиде́ть за сто́ликом кафе́ на второ́м этаже́ и понаблюда́ть за ни́ми сквозь прозра́чные тру́бы и перехо́ды (… bọn trẻ chơi trong mê cung, người lớn có thể ngồi bên bàn cà phê trên tầng hai và quan sát chúng qua những đường ống và lối đi trong suốt); 13. Рестора́н «Ча́стный» предложи́л свои́м гостя́м говя́дину по-бургу́ндски с лу́ком-шало́том и сельдере́ем, … в рестора́не «Град Петро́въ» пригото́вили восхити́тельные тюри́нгские колба́ски с карто́фельным пюре́ и капу́стой (Nhà hàng «Chastny» mời thực khách món thịt bò kiểu Burgundy với hành hương và cần tây, … ở nhà hàng «Grad Petrov» người ta chế biến những chiếc xúc xích Thüringen tuyệt hảo kèm khoai tây nghiền và bắp cải); 14. … не́которые синтети́ческие препара́ты ока́зывают вре́дное побо́чное де́йствие на органи́зм челове́ка, лече́ние наро́дными (нетрадицио́нными) сре́дствами тысячеле́тиями надёжно слу́жит лю́дям (… một số dược phẩm tổng hợp gây tác dụng phụ có hại cho cơ thể con người, thì việc chữa trị bằng các phương thuốc dân gian (phi truyền thống) đã hàng nghìn năm nay phục vụ con người một cách đáng tin cậy)."
+    }
+   ]
+  },
+  {
+   "id": "gra-29-s005",
+   "type": "exercise",
+   "title": "Упражнение 430",
+   "num": 430,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy giải thích vì sao trong các câu dưới đây không nên dùng liên từ в то вре́мя как. Đưa ra phương án đúng cho từng câu."
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Trong tiếng Nga hiện nay, liên từ в то вре́мя как được dùng khi chỉ sự đồng thời của các hành động ở mệnh đề chính và mệnh đề phụ; KHÔNG dùng để biểu đạt sự so sánh–đối chiếu."
+    },
+    {
+     "t": "para",
+     "text": "1. Определе́ние ста́дии заболева́ния тре́бует вре́мени, в то вре́мя как больны́е стремя́тся нача́ть лече́ние как мо́жно ра́ньше (Việc xác định giai đoạn bệnh cần thời gian, trong khi người bệnh lại muốn bắt đầu điều trị càng sớm càng tốt); 2. В то вре́мя как 90 % де́тских игру́шек сде́ланы из пластма́ссы, небольша́я их часть — металли́ческие, а иногда́ да́же встреча́ются и деревя́нные (Trong khi 90 % đồ chơi trẻ em làm bằng nhựa, một phần nhỏ là đồ kim loại, thỉnh thoảng còn gặp cả đồ gỗ); 3. Фи́рма-производи́тель металлоиска́телей ука́зывает то́лько да́нные из лаборато́рии, в то вре́мя как на пра́ктике э́ти све́дения далеки́ от пра́вды (Hãng sản xuất máy dò kim loại chỉ nêu các số liệu trong phòng thí nghiệm, trong khi trên thực tế những số liệu ấy khác xa sự thật); 4. На ле́вом боку́ смартфо́на располага́ются кно́пки управле́ния зву́ком, в то вре́мя как спра́ва нахо́дится кно́пка бы́строго до́ступа к ка́мере (Cạnh trái của smartphone là các nút điều chỉnh âm lượng, trong khi bên phải là nút truy cập nhanh camera); 5. Пеки́н явля́ется полити́ческим, образова́тельным и культу́рным це́нтром Кита́я, в то вре́мя как гла́вными экономи́ческими це́нтрами страны́ счита́ются Шанха́й и Гонко́нг (Bắc Kinh là trung tâm chính trị, giáo dục và văn hoá của Trung Quốc, trong khi các trung tâm kinh tế chính của đất nước được coi là Thượng Hải và Hồng Kông)."
+    }
+   ]
+  },
+  {
+   "id": "gra-29-s006",
+   "type": "exercise",
+   "title": "Упражнение 431",
+   "num": 431,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Dùng liên từ когда́, hãy nêu phương án đồng nghĩa của các câu. Chú ý: hành động của mệnh đề phụ với liên từ как, как вдруг diễn ra trong khuôn khổ hành động được biểu đạt ở mệnh đề chính."
+    },
+    {
+     "t": "para",
+     "text": "1. Не прошло́ и го́да, как он верну́лся в родно́е село́ (Chưa đầy một năm sau, anh ấy đã trở về làng quê); 2. О́сень ещё не наступи́ла, как начали́сь проливны́е дожди́ (Mùa thu còn chưa tới mà những trận mưa như trút đã bắt đầu); 3. Спекта́кль ещё продолжа́лся, как вдруг на сце́не неожи́данно пога́с свет (Vở diễn còn đang tiếp tục thì bỗng nhiên đèn trên sân khấu vụt tắt); 4. Я гото́вился к экза́менам, как вдруг мне позвони́ли друзья́ и попроси́ли прие́хать (Tôi đang ôn thi thì bỗng các bạn gọi điện bảo tôi đến chỗ họ); 5. Мы ещё то́лько подходи́ли к остано́вке, как пришёл авто́бус (Chúng tôi mới chỉ đang đi đến bến thì xe buýt đã tới); 6. Он сиде́л в кабине́те, как вдруг услы́шал шаги́ на ле́стнице (Ông đang ngồi trong phòng làm việc thì bỗng nghe tiếng bước chân trên cầu thang); 7. Вот уже́ пя́тый день, как я гости́л у ба́бушки (Thế là tôi về chơi nhà bà đã sang ngày thứ năm)."
+    }
+   ]
+  },
+  {
+   "id": "gra-29-s007",
+   "type": "exercise",
+   "title": "Упражнение 432",
+   "num": 432,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy đọc các câu. Giải thích sự khác nhau trong cách dùng các liên từ как то́лько, по́сле того́ как, с тех по́р как, когда́, как. Nếu có thể, hãy nêu các phương án liên từ đồng nghĩa trong từng câu."
+    },
+    {
+     "t": "para",
+     "text": "а) 1. Как то́лько бу́дет мо́жно, отпра́влюсь — то́лько не в Евро́пу, изба́ви бо́же! — пое́ду в Аме́рику, в Ара́вию, в И́ндию, — аво́сь где́-нибудь умру́ на доро́ге! (Hễ có thể là tôi lên đường ngay — chỉ có điều không sang châu Âu đâu, lạy trời! — tôi sẽ đi Mỹ, đi Ả Rập, đi Ấn Độ — biết đâu sẽ chết ở dọc đường nơi nào đó!); 2. С тех по́р как мы зна́ем друг дру́га, ты ничего́ мне не дал, кро́ме страда́ний... (Từ thuở chúng ta quen biết nhau, anh chẳng cho em điều gì ngoài khổ đau...); 3. Едва́ успе́л я наки́нуть бу́рку, как повали́л снег (Tôi vừa kịp khoác chiếc áo choàng dạ thì tuyết đổ xuống); 4. С тех по́р как я живу́ и де́йствую, судьба́ ка́к-то всегда́ приводи́ла меня́ к развя́зке чужи́х драм, как бу́дто без меня́ никто́ не мог бы ни умере́ть, ни прийти́ в отча́яние (Từ khi tôi sống và hành động, số phận chẳng hiểu sao cứ luôn đưa tôi đến đoạn kết những tấn kịch của người khác, cứ như thể thiếu tôi thì chẳng ai chết nổi hay tuyệt vọng nổi); 5. Быва́ло, по це́лым часа́м сло́ва не добьёшься, зато́ уж иногда́, как начнёт расска́зывать, так живо́тики надорвёшь со сме́ха (Có khi hàng giờ liền không moi nổi của lão một lời, nhưng đôi lúc, hễ lão bắt đầu kể chuyện là cười vỡ cả bụng); 6. — Да вот хоть черке́сы, — продолжа́л он, — как напью́тся бузы́ на сва́дьбе и́ли на похорона́х, так и пошла́ ру́бка (— Thì đấy, như đám người Cherkes, — ông tiếp, — hễ uống say buza trong đám cưới hay đám tang là y như rằng có chém giết); 7. Что стра́сти? — ведь ра́но иль по́здно их сла́дкий неду́г Исче́знет при сло́ве рассу́дка; И жизнь, как посмо́тришь с холо́дным внима́ньем вокру́г, Така́я пуста́я и глу́пая шу́тка (Đam mê ư? — bởi sớm hay muộn căn bệnh ngọt ngào của chúng cũng tiêu tan trước tiếng nói của lý trí; còn cuộc đời, khi ta lạnh lùng chăm chú nhìn quanh, chỉ là một trò đùa trống rỗng và ngớ ngẩn) (М. Ле́рмонтов — M. Lermontov)."
+    },
+    {
+     "t": "para",
+     "text": "б) 1. С тех по́р как я встре́тил Мэ́ри, мне ста́ло ле́гче жить (Từ khi gặp Mary, tôi thấy cuộc sống nhẹ nhõm hơn); 2. По́сле того́ как она́ переста́ла встреча́ться с Воло́дей, за ней на́чал уха́живать актёр Грифцо́в (Sau khi cô thôi hẹn hò với Volodya, diễn viên Griftsov bắt đầu theo đuổi cô); 3. Разуме́ется, по́сле того́ как Журавлёва сня́ли, и́менно э́ти лю́ди гро́мче всех поноси́ли бы́вшего дире́ктора, но они́ не отказа́лись ни от ле́сти, ни от кля́уз, пыта́лись то растро́гать, то запуга́ть Голова́нова (Dĩ nhiên, sau khi Zhuravlyov bị cách chức, chính những kẻ ấy là những kẻ lớn tiếng nhất mạt sát vị giám đốc cũ, nhưng họ vẫn không từ bỏ thói xu nịnh lẫn trò đơn kiện bịa đặt, khi thì tìm cách lay động, khi thì doạ dẫm Golovanov); 4. Он отвлёк Наде́жду Его́ровну от гру́стных мы́слей; по́сле того́ как он ушёл, она́ до́лго ещё улыба́лась (Anh làm Nadezhda Egorovna khuây khoả những ý nghĩ buồn; sau khi anh đi rồi, bà còn mỉm cười mãi); 5. Как то́лько он вы́бежал на у́лицу, он сра́зу по́нял — беда́! (Vừa chạy ra phố, anh hiểu ngay — có chuyện chẳng lành!); 6. Ага́фья Ива́новна, как овдове́ла, вечера́ми печа́лилась (Agafya Ivanovna từ ngày goá chồng cứ mỗi tối lại buồn rầu) (И. Эренбу́рг — I. Erenburg)."
+    }
+   ]
+  },
+  {
+   "id": "gra-29-s008",
+   "type": "exercise",
+   "title": "Упражнение 433",
+   "num": 433,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Điền các liên từ как то́лько, по́сле того́ как, с тех по́р как, когда́, как vào chỗ ba chấm. Giải thích cách chọn của bạn, nêu các phương án."
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Liên từ как là từ đồng nghĩa của các liên từ как то́лько, по́сле того́ как, с тех по́р как. Nó được dùng trong khẩu ngữ, trong các mệnh đề phụ không mở rộng: Мы, как прие́хали, не зна́ли ни мину́ты поко́я. — С тех по́р как (по́сле того́ как, как то́лько) мы прие́хали, мы не зна́ли ни мину́ты поко́я (Từ khi (sau khi, ngay khi) đến nơi, chúng tôi không được một phút yên ổn). Nếu vị ngữ của mệnh đề chính là động từ thể hoàn thành thì từ đồng nghĩa của как chỉ có thể là как то́лько: Она́, как (как то́лько) уви́дела его́, влюби́лась без па́мяти (Nàng vừa nhìn thấy chàng là đã yêu như điếu đổ)."
+    },
+    {
+     "t": "para",
+     "text": "1. … челове́к научи́лся говори́ть, он спра́шивает об одно́м: в чём смысл жи́зни? (… con người học được cách nói, anh ta cứ hỏi mãi một điều: ý nghĩa cuộc sống là gì?); 2. … мы заду́мали издава́ть журна́л, прошёл год (… chúng tôi nảy ra ý định xuất bản tạp chí, một năm đã trôi qua); 3. … я переста́л есть мучно́е и сла́дкое, я похуде́л на де́сять килогра́ммов (… tôi thôi ăn đồ bột và đồ ngọt, tôi đã giảm được mười cân); 4. … ты перестаёшь учи́ться сам, ты теря́ешь пра́во учи́ть други́х (… bạn ngừng tự học thì bạn mất quyền dạy người khác); 5. … я ушёл с рабо́ты, я на́чал ду́мать, что де́лать да́льше (… tôi nghỉ việc, tôi bắt đầu nghĩ xem nên làm gì tiếp theo); 6. Любо́вь, подо́бно огню́, не зна́ет поко́я: она́ перестаёт жить, … перестаёт наде́яться и́ли боро́ться (Tình yêu, tựa như ngọn lửa, không biết đến ngơi nghỉ: nó ngừng sống … nó ngừng hy vọng hoặc ngừng tranh đấu); 7. Сего́дня исполня́ется ро́вно год, … на́чал веща́ние телекана́л «Спорт» (Hôm nay tròn đúng một năm … kênh truyền hình «Sport» bắt đầu phát sóng); 8. … в Росси́и появи́лись пе́рвые «лега́льные» миллионе́ры, мно́гие поня́тия о доста́тке и успе́хе измени́лись (… ở Nga xuất hiện những triệu phú «hợp pháp» đầu tiên, nhiều quan niệm về sung túc và thành đạt đã thay đổi); 9. На ско́льзкой доро́ге необходи́мо тормози́ть сра́зу, … загоре́лись стоп-сигна́лы впереди́ иду́щего автомоби́ля (Trên đường trơn cần phanh ngay … đèn phanh của xe chạy phía trước bật sáng); 10. … вы найдёте интересу́ющую вас кни́гу, пройди́те к ка́ссе (… bạn tìm được cuốn sách mình cần, hãy ra quầy thu ngân); 11. … зароди́лась нау́ка, фило́софы, психо́логи, эко́логи и представи́тели други́х отрасле́й зна́ний обсужда́ют возмо́жность существова́ния внеземно́го ра́зума (… khoa học ra đời, các triết gia, nhà tâm lý học, nhà sinh thái học và đại diện các ngành tri thức khác vẫn bàn luận về khả năng tồn tại của trí tuệ ngoài Trái Đất); 12. … я по́нял, что на́до забы́ть о пробле́мах и дви́гаться да́льше, я взя́лся за де́ло с удво́енной эне́ргией (… tôi hiểu rằng cần quên những rắc rối đi mà tiến bước, tôi bắt tay vào việc với nghị lực gấp đôi); 13. … Али́на верну́лась из о́тпуска, прошло́ не́сколько ме́сяцев (… Alina đi nghỉ phép về, đã mấy tháng trôi qua); 14. … вы преодоле́ете пе́рвые тру́дности, ва́ша рабо́та пока́жется вам ну́жной и интере́сной (… bạn vượt qua những khó khăn đầu tiên, công việc sẽ trở nên cần thiết và thú vị đối với bạn); 15. Мне ста́ло ле́гче, … я узна́л о том, что реше́ние при́нято (Tôi thấy nhẹ lòng hơn … tôi biết rằng quyết định đã được thông qua); 16. Не волну́йся, я напишу́ тебе́, … прие́ду (Đừng lo, … đến nơi là anh viết thư cho em ngay); 17. … я услы́шал после́дние но́вости, сра́зу по́нял: речь идёт обо мне́ (… nghe những tin tức mới nhất, tôi hiểu ngay: người ta đang nói về tôi)."
+    }
+   ]
+  },
+  {
+   "id": "gra-29-s009",
+   "type": "exercise",
+   "title": "Упражнение 434",
+   "num": 434,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Điền các liên từ до того́ как, по́сле того́ как, пре́жде чем vào chỗ ba chấm. Giải thích cách chọn của bạn, nêu các phương án. (Lưu ý: theo khoá đáp án của sách, trong bài này còn dùng cả liên từ перед те́м как — hãy cân nhắc thêm liên từ này khi điền.)"
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Liên từ до того́ как được dùng khi giữa tình huống của mệnh đề chính và mệnh đề phụ có một QUÃNG thời gian: До того́ как поступи́ть в университе́т, он рабо́тал на заво́де (Trước khi vào đại học, anh ấy đã làm việc ở nhà máy). Liên từ перед те́м как được dùng khi các tình huống nối tiếp nhau, KHÔNG có quãng ngắt: Перед те́м как уйти́, он попроща́лся со все́ми (Trước lúc đi, anh ấy chào tạm biệt mọi người)."
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Liên từ пре́жде чем thường được dùng khi miêu tả những tình huống bắt buộc hoặc theo thông lệ: Пре́жде чем вы дади́те согла́сие, хороше́нько поду́майте (Trước khi đồng ý, anh hãy suy nghĩ thật kỹ). Khi đó ở mệnh đề chính thường có các từ на́до, необходи́мо, должно́ v.v.: Пре́жде чем вы дади́те согла́сие, вы должны́ хороше́нько поду́мать."
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Nếu mệnh đề phụ đứng sau mệnh đề chính, các liên từ phức có thể tách thành hai phần; khi đó dấu phẩy đặt sau đại từ chỉ định: Э́то произошло́ перед те́м, как я уе́хал в командиро́вку (Chuyện đó xảy ra ngay trước khi tôi đi công tác)."
+    },
+    {
+     "t": "para",
+     "text": "1. … я на́чал писа́ть контро́льную рабо́ту, я посмотре́л на часы́, что́бы узна́ть, ско́лько у меня́ есть вре́мени (… bắt đầu làm bài kiểm tra, tôi nhìn đồng hồ để biết mình còn bao nhiêu thời gian); 2. Не волну́йся, мы внима́тельно изучи́ли докуме́нт, … поста́вили под ним свои́ по́дписи (Đừng lo, chúng tôi đã nghiên cứu văn bản thật kỹ … đặt bút ký vào đó); 3. … ты ся́дешь за стол, вы́мой ру́ки (… ngồi vào bàn ăn, con hãy rửa tay); 4. … как я перее́хал в Новосиби́рск, я не́сколько лет прорабо́тал в Воро́неже (… tôi chuyển đến Novosibirsk, tôi đã có mấy năm làm việc ở Voronezh); 5. … мы присту́пим к обсужде́нию теку́щих вопро́сов, нам необходи́мо вы́брать прези́диум (… chúng ta bắt tay thảo luận các vấn đề trước mắt, cần bầu ra đoàn chủ tịch); 6. К сча́стью, … как произошёл взрыв, все посети́тели кафе́ бы́ли эвакуи́рованы (May thay, … vụ nổ xảy ra, toàn bộ khách trong quán cà phê đã được sơ tán); 7. … вы остано́вите свой вы́бор на туристи́ческой компа́нии, сто́ит прове́рить её надёжность (… bạn chốt chọn một công ty du lịch, nên kiểm tra độ tin cậy của nó); 8. … я на́чал изуча́ть францу́зский язы́к, я не́сколько раз побыва́л во Фра́нции (… tôi bắt đầu học tiếng Pháp, tôi đã mấy lần đến Pháp); 9. Она́ до́лго ду́мала, … реши́лась на э́тот риско́ванный шаг (Cô ấy suy nghĩ rất lâu … dám quyết định bước đi mạo hiểm này); 10. … Анато́лий Ко́ршун вступи́л в до́лжность председа́теля СПК «Зами́рский», он руководи́л хозя́йством в Кле́цком райо́не (… Anatoly Korshun nhậm chức chủ tịch hợp tác xã «Zamirsky», ông từng lãnh đạo một nông trang ở huyện Kletsk); 11. … вы начнёте настра́ивать компью́тер для подключе́ния, внима́тельно прочита́йте инстру́кции (… bạn bắt đầu cài đặt máy tính để kết nối, hãy đọc kỹ hướng dẫn); 12. … вы присту́пите к рабо́те с электроприбо́ром, прове́рьте напряже́ние в се́ти (… bạn thao tác với thiết bị điện, hãy kiểm tra điện áp trong mạng); 13. Все зна́ют, что тво́рчество начина́ется задо́лго … актёр выхо́дит на сце́ну (Ai cũng biết sự sáng tạo bắt đầu từ rất lâu … người diễn viên bước ra sân khấu); 14. Не все роди́тели ве́рно оце́нивают, наско́лько ребёнок гото́в к учёбе, поэ́тому … вы отдади́те его́ в шко́лу, поле́зно поговори́ть со шко́льным психо́логом (Không phải phụ huynh nào cũng đánh giá đúng mức độ sẵn sàng đi học của con, vì vậy … cho con vào trường, nên trò chuyện với chuyên gia tâm lý học đường); 15. … вы присту́пите к выполне́нию те́стовых зада́ний, внима́тельно прочита́йте инстру́кции (… bạn bắt tay làm các bài trắc nghiệm, hãy đọc kỹ hướng dẫn); 16. … на́ша компа́ния начала́ э́кспорт автомоби́лей в Кита́й, она́ поставля́ла их в стра́ны Бли́жнего Восто́ка (… công ty chúng tôi bắt đầu xuất khẩu ô tô sang Trung Quốc, công ty từng cung cấp xe sang các nước Trung Đông); 17. … орке́стр прие́хал в По́льшу, он дал не́сколько конце́ртов в Ло́ндоне (… dàn nhạc đến Ba Lan, họ đã có vài buổi hoà nhạc ở London); 18. … начну́тся репети́ции, мы проведём тща́тельный отбо́р актёров на гла́вные ро́ли (… các buổi tập bắt đầu, chúng tôi sẽ tuyển chọn kỹ lưỡng diễn viên cho các vai chính); 19. … она́ напи́шет заявле́ние об ухо́де, я посове́товал ей проконсульти́роваться с юри́стом (… cô ấy viết đơn xin nghỉ việc, tôi đã khuyên cô tham khảo ý kiến luật sư); 20. Снача́ла всё шло прекра́сно, мы провели́ на пля́же не́сколько дней и загоре́ли, … пого́да испо́ртилась (Thoạt đầu mọi việc đều tuyệt: chúng tôi đã có mấy ngày trên bãi biển và rám nắng, … thời tiết trở xấu)."
+    }
+   ]
+  },
+  {
+   "id": "gra-29-s010",
+   "type": "exercise",
+   "title": "Упражнение 435",
+   "num": 435,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Dùng động từ nguyên thể (инфинитив), hãy nêu — nếu có thể — phương án đồng nghĩa cho các câu với liên từ до того́ как, по́сле того́ как, пре́жде чем ở bài tập 434. Giải thích cách chọn của bạn, nêu các phương án."
+    },
+    {
+     "t": "model",
+     "text": "Mẫu: Пре́жде чем вы дади́те согла́сие, хороше́нько поду́майте. — Пре́жде чем дать согла́сие, хороше́нько поду́майте. (Trước khi anh đồng ý, hãy suy nghĩ thật kỹ. → Trước khi đồng ý, hãy suy nghĩ thật kỹ.)"
+    },
+    {
+     "t": "para",
+     "text": "Ngữ liệu của bài 435 là các câu của bài tập 434 ở mục trên: hãy biến đổi những câu có thể biến đổi, thay mệnh đề phụ bằng cấu trúc với động từ nguyên thể (chỉ được khi chủ thể của hai mệnh đề trùng nhau); với những câu không thể biến đổi, hãy giải thích lý do."
+    }
+   ]
+  }
+ ]
+}

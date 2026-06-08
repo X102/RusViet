@@ -1,0 +1,579 @@
+{
+  "id": "doroga1-02",
+  "num": 2,
+  "title": "Phụ âm К Г Х Р С З — Giống danh từ он/она́/оно́",
+  "vi": "Phụ âm К Г Х Р С З — Giống danh từ он/она́/оно́",
+  "ru": "Урок 2 · Согласные звуки к, г, х, р, с, з. Род существительных. ИК-2",
+  "icon": "🐱",
+  "color": "#10b981",
+  "sectionPrefix": "doroga1-02-s",
+  "group": "Дорога в Россию",
+  "sections": [
+    {
+      "id": "doroga1-02-s001",
+      "type": "grammar",
+      "title": "Урок 2 — Mở đầu",
+      "num": null,
+      "blocks": [
+        {
+          "t": "goal",
+          "text": "Mục tiêu Урок 2: luyện các phụ âm к, г, х, р, с, з; quy tắc phụ âm hữu thanh hoá vô thanh ở cuối từ (клуб → [клуп]); giống của danh từ — он/она́/оно́; câu hỏi «Кто э́то?» (Ai đây?) và «Когда́ уро́к?» (Khi nào có tiết học?); ngữ điệu ИК-2 (câu hỏi có từ để hỏi) so sánh với ИК-3; hội thoại điện thoại đơn giản."
+        },
+        {
+          "t": "para",
+          "text": "Đầu bài in lại bảng chữ cái tiếng Nga; các chữ trọng tâm của урок này được in đậm: Гг (гэ), Зз (зэ), Кк (ка), Рр (эр), Сс (эс), Хх (ха)."
+        },
+        {
+          "t": "para",
+          "text": "🎧 Audio gốc của Урок 2 nằm trong nhóm «Uroki 1–2» (17 track) — xem mục «Nghe audio gốc» ở cuối bài; Урок 2 chiếm các track phía sau của nhóm."
+        }
+      ]
+    },
+    {
+      "id": "doroga1-02-s002",
+      "type": "grammar",
+      "title": "I. Фонетическая зарядка — Khởi động ngữ âm",
+      "num": null,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "Слушайте, повторяйте, читайте. (Nghe, nhắc lại, đọc.) Пойте! (Hãy hát!): а — о — у — э — ы."
+        },
+        {
+          "t": "para",
+          "text": "а) а-о-у-э-ы-и · ва-фа-ба-па-да-та-ла-на · вба-вбо-вбу-вбы · вва-вла-вна-вма · вда-вдо-вду-вды-вмы · два-дву-дво · фта-фто-фту-фты · фпа-ффа-фта-фла-фна · вы-бы-ны-фы-мы-ты-лы-ны · и-ты, и-вы, и-мы, и-ды (một số tổ hợp in mờ trong bản scan — cần soát lại)."
+        },
+        {
+          "t": "para",
+          "text": "б) Đọc theo mô hình trọng âm: да, два, ты, вы, мы, тут, там, он · ма́ма, па́па, до́ма, ла́мпа, А́нна, И́нна · Ива́н, Анто́н, она́, алло́, вода́, луна́."
+        }
+      ]
+    },
+    {
+      "id": "doroga1-02-s003",
+      "type": "exercise",
+      "title": "Задание 1 — Согласные звуки: Кк, Гг, Хх",
+      "num": 1,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "Слушайте, повторяйте, читайте. Пишите. (Nghe, nhắc lại, đọc. Tập viết.) Luyện ba phụ âm mới Кк [к], Гг [г], Хх [х]."
+        },
+        {
+          "t": "subhead",
+          "text": "Кк [к]"
+        },
+        {
+          "t": "para",
+          "text": "ка · ка-ак · как — ко · ко-ок · кок — ку · ку-ук · лук. Пишите: ка, ко, ку, как, лук."
+        },
+        {
+          "t": "model",
+          "text": "Вот ко́мната. Это окно́. (Đây là căn phòng. Đây là cửa sổ.) · Это кот. Там молоко́. (Đây là con mèo. Sữa ở đằng kia.)"
+        },
+        {
+          "t": "para",
+          "text": "Từ luyện đọc: как (như thế nào), кот (con mèo), кто (ai), банк (ngân hàng) · бу́ква (chữ cái), окно́ (cửa sổ), ко́мната (căn phòng), молоко́ (sữa)."
+        },
+        {
+          "t": "subhead",
+          "text": "Гг [г]"
+        },
+        {
+          "t": "para",
+          "text": "га — го — гу · вга — вго — вгу · а-га — а-го — а-гу · и-га — и-го — и-гу · гда — гдо — гду — гды. Đối chiếu [к]–[г]: ка-га · ко-го · гу-гу? · гда-кта · гдо-кто · гду-кту."
+        },
+        {
+          "t": "para",
+          "text": "Chú ý cách đọc: мно́го [мно́га] (nhiều) · ма́ло [ма́ла] (ít) · когда́ [кагда́] (khi nào) · Во́лга [во́лга] (sông Volga)."
+        },
+        {
+          "t": "subhead",
+          "text": "Хх [х]"
+        },
+        {
+          "t": "para",
+          "text": "ха · ха-ах · и-ху — хо · ху-ух · и-хо — ху · хы · и-хо. ха-ха-ха · хо-хо-хо · ах-ох-ух · и-хо. Đối chiếu [к]–[г]–[х]: ка-ха · ак-ах · ка-га-ха — ко-хо · ок-ох · ко-го-хо — ку-ху · ук-ух · ку-гу-ху."
+        },
+        {
+          "t": "note",
+          "text": "Một vài tổ hợp âm của phần Хх in mờ trong bản scan (cần soát lại); nguyên tắc: luyện [х] xát gốc lưỡi, đối chiếu với [к] tắc."
+        }
+      ]
+    },
+    {
+      "id": "doroga1-02-s004",
+      "type": "grammar",
+      "title": "ПОГОДА — Thời tiết",
+      "num": null,
+      "blocks": [
+        {
+          "t": "para",
+          "text": "Хо́лодно! [хо́ладна] — Lạnh quá! · Пло́хо! [пло́ха] — Tệ quá! · Когда́ хо́лодно — пло́хо. (Khi trời lạnh thì thật tệ.) Hình minh hoạ: nhiệt kế chỉ −25°C."
+        },
+        {
+          "t": "note",
+          "text": "Nhắc lại quy tắc Урок 1: chữ «о» không mang trọng âm đọc gần như [а] — хо́лодно → [хо́ладна], пло́хо → [пло́ха]."
+        }
+      ]
+    },
+    {
+      "id": "doroga1-02-s005",
+      "type": "exercise",
+      "title": "Задание 2 — Читайте по моделям ударения",
+      "num": 2,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "Слушайте, повторяйте, читайте. (Nghe, nhắc lại, đọc.) Đọc các từ xếp theo mô hình trọng âm."
+        },
+        {
+          "t": "para",
+          "text": "1. кот, как, кто, дом, тут, там, банк;  2. пло́хо, мно́го, ма́ло, до́ма, бу́ква, ла́мпа;  3. окно́, когда́;  4. ко́мната;  5. пого́да, хо́лодно;  6. молоко́."
+        }
+      ]
+    },
+    {
+      "id": "doroga1-02-s006",
+      "type": "exercise",
+      "title": "Задание 3 — Рр [р]",
+      "num": 3,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "Слушайте, повторяйте, читайте. Пишите. (Nghe, nhắc lại, đọc. Tập viết.) Luyện âm rung Рр [р]: р-р-р."
+        },
+        {
+          "t": "para",
+          "text": "ра · ра-ар · вра · бар — ро · ро-ор · вро · бор — ру · ру-ур · вру · дар — ры · ры-ыр · вры · тар. тра-ра · тро-ро · тру-ру — дра · дро · дру · дры — рва · рву · рвы — ра-ла-на · ро-ло-но · ру-лу-ну? · ры-лы-ны. вра-вла-вна · вро-вло-вно · вру-влу-вну · вры-влы-вны (vài tổ hợp in mờ — cần soát lại)."
+        },
+        {
+          "t": "para",
+          "text": "Từ mới: парк (công viên), брат (anh/em trai), торт (bánh ga tô) · ры́ба (con cá), уро́к (bài học, tiết học), ка́рта (bản đồ), гру́ппа (nhóm, lớp), у́тром (vào buổi sáng) · подру́га (bạn nữ). Пишите: ра, ро, ру, ры, парк, ры́ба, уро́к, брат."
+        }
+      ]
+    },
+    {
+      "id": "doroga1-02-s007",
+      "type": "exercise",
+      "title": "Задание 4 — Читайте. Уточните",
+      "num": 4,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "а) Читайте. (Đọc.) б) Посмотрите на рисунки. Уточните, что изображено на рисунках. (Nhìn tranh và hỏi để xác nhận tranh vẽ gì.)"
+        },
+        {
+          "t": "para",
+          "text": "а) Это ка́рта. Там парк. (Đây là bản đồ. Công viên ở kia.) · Вот молоко́ и вода́. Там ры́ба и торт. (Đây là sữa và nước. Kia là cá và bánh ga tô.) · У́тром хо́лодно! (Buổi sáng trời lạnh! — hình mây tuyết −25°C.)"
+        },
+        {
+          "t": "model",
+          "text": "б) — Это ка́рта? — Да, это ка́рта. (— Đây là bản đồ à? — Vâng, đây là bản đồ.)"
+        },
+        {
+          "t": "subhead",
+          "text": "Phụ âm hữu thanh đọc thành vô thanh ở cuối từ"
+        },
+        {
+          "t": "para",
+          "text": "клуб → [клуп] (б ▸ [п]) · Ивано́в → [ивано́ф] (в ▸ [ф]) · друг → [друк] (г ▸ [к]) · го́род → [го́рат] (д ▸ [т])."
+        }
+      ]
+    },
+    {
+      "id": "doroga1-02-s008",
+      "type": "exercise",
+      "title": "Задание 5 — Прочитайте тексты",
+      "num": 5,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "а) Прочитайте тексты и схематично нарисуйте в тетради то, о чём прочитали в тексте. (Đọc các đoạn văn và vẽ phác vào vở những gì đọc được.) б) Правильно ли вы поняли, что изображено на рисунке вашего друга? Уточните. (Bạn hiểu đúng hình của bạn mình chưa? Hãy hỏi xác nhận.)"
+        },
+        {
+          "t": "para",
+          "text": "1. Вот ка́рта. Это го́род. Вот парк. Там дом. Это банк и клуб. (Đây là bản đồ. Đây là thành phố. Đây là công viên. Kia là ngôi nhà. Đây là ngân hàng và câu lạc bộ.)"
+        },
+        {
+          "t": "para",
+          "text": "2. Это уро́к. Вот гру́ппа. Это Анто́н, А́нна и Ван Лин. (Đây là giờ học. Đây là nhóm. Đây là Anton, Anna và Van Lin.)"
+        },
+        {
+          "t": "para",
+          "text": "3. Это дом. Вот ко́мната. Тут окно́. Там кот. (Đây là ngôi nhà. Đây là căn phòng. Cửa sổ ở đây. Con mèo ở kia.)"
+        },
+        {
+          "t": "model",
+          "text": "б) — Это ка́рта? — Да, ка́рта. — Это го́род? — Да, го́род. (— Đây là bản đồ à? — Vâng, bản đồ. — Đây là thành phố à? — Vâng, thành phố.)"
+        }
+      ]
+    },
+    {
+      "id": "doroga1-02-s009",
+      "type": "exercise",
+      "title": "Задание 6 — Сс, Зз",
+      "num": 6,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "а) Слушайте, повторяйте, читайте. Пишите. (Nghe, nhắc lại, đọc. Tập viết.) б) Прочитайте слова по моделям. (Đọc các từ theo mô hình.) в) Прочитайте текст и покажите на рисунках города и вещи. (Đọc đoạn văn và chỉ trên hình các thành phố, đồ vật.)"
+        },
+        {
+          "t": "subhead",
+          "text": "Сс [с]"
+        },
+        {
+          "t": "para",
+          "text": "са · са-ас · а-са — со · со-ос · у-со — су · су-ус · у-су — сы · сы-ыс · ы-сы. сма-ста-сна-спа-сва-ска. Пишите: са, со, су, сы, Москва́, страна́."
+        },
+        {
+          "t": "subhead",
+          "text": "Зз [з]"
+        },
+        {
+          "t": "para",
+          "text": "за · а-за — зо · о-зо — зу · у-зу — зы · ы-зы. Это му́ха: з-з-з. (Đây là con ruồi: z-z-z.) зма-зна-зва-зда-зла-зра."
+        },
+        {
+          "t": "para",
+          "text": "Đối chiếu [с]–[з] và cuối từ: за-аз [ас] · зо-оз [ос] · зу-уз [ус] (chữ «з» cuối từ đọc thành [с]) — са-за · со-зо · су-зу — сма-зма · сна-зна · сва-зва · ста-зда · сла-зла — смо-змо · сно-зно · сво-зво · сто-здо · сло-зло — сму-зму · сну-зну · сву-зву · сту-зду · слу-злу (vài tổ hợp in mờ — cần soát lại)."
+        },
+        {
+          "t": "para",
+          "text": "б) Đọc theo mô hình: сын (con trai), сок (nước ép), суп (súp), сыр (pho mát), стол (cái bàn), стул (cái ghế), звук (âm thanh) · сло́во (từ), су́мка (túi xách), за́втра (ngày mai) · Москва́ (Moskva), страна́ (đất nước), заво́д (nhà máy), расска́з (câu chuyện), авто́бус (xe buýt) · за́втрак (bữa sáng), у́тром (buổi sáng)."
+        },
+        {
+          "t": "para",
+          "text": "в) Вот ка́рта. Это го́род Москва́. Это го́род Во́логда. Это го́род Омск. (Đây là bản đồ. Đây là thành phố Moskva. Đây là thành phố Vologda. Đây là thành phố Omsk.) · Это ко́мната. Там стол и стул. Вот стул. Тут су́мка. Это стол. Тут суп, сок и сыр. (Đây là căn phòng. Kia là bàn và ghế. Đây là cái ghế. Túi xách ở đây. Đây là cái bàn. Trên này có súp, nước ép và pho mát.)"
+        }
+      ]
+    },
+    {
+      "id": "doroga1-02-s010",
+      "type": "grammar",
+      "title": "Род существительных — Giống của danh từ: он, она́, оно́",
+      "num": null,
+      "blocks": [
+        {
+          "t": "para",
+          "text": "Danh từ tiếng Nga có ba giống. Giống đực (он): tận cùng bằng phụ âm. Giống cái (она́): tận cùng bằng -а. Giống trung (оно́): tận cùng bằng -о. Khi thay danh từ bằng đại từ, dùng он/она́/оно́ tương ứng."
+        },
+        {
+          "t": "table",
+          "rows": [
+            [
+              "он (giống đực — phụ âm)",
+              "она́ (giống cái — tận cùng -а)",
+              "оно́ (giống trung — tận cùng -о)"
+            ],
+            [
+              "Ива́н, дом, парк, заво́д",
+              "А́нна, ко́мната, ла́мпа, ка́рта, ма́ма",
+              "окно́, молоко́, фо́то"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doroga1-02-s011",
+      "type": "exercise",
+      "title": "Задание 7 — Читайте",
+      "num": 7,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "Читайте. (Đọc.) Chú ý cách thay danh từ bằng đại từ он/она́/оно́."
+        },
+        {
+          "t": "para",
+          "text": "Это Ива́н. Он до́ма. Это ма́ма. Она́ до́ма. Это ла́мпа. Вот она́. Вот молоко́. Оно́ тут. Фо́то там? Да, оно́ там. (Đây là Ivan. Anh ấy ở nhà. Đây là mẹ. Bà ấy ở nhà. Đây là cái đèn. Nó đây. Sữa đây. Nó ở đây. Bức ảnh ở kia à? Vâng, nó ở kia.)"
+        }
+      ]
+    },
+    {
+      "id": "doroga1-02-s012",
+      "type": "exercise",
+      "title": "Задание 8 — Какие слова в какой корзине?",
+      "num": 8,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "а) Как вы думаете, какие слова лежат в какой корзине? (Theo bạn, từ nào nằm trong giỏ nào? Giỏ «он» — 17 từ, giỏ «она́» — 10 từ, giỏ «оно́» — 4 từ.) б) Поиграем! Используйте слова из упр. 8а). (Cùng chơi! Một người đọc danh từ, người kia đáp он/она́/оно́.)"
+        },
+        {
+          "t": "para",
+          "text": "брат, подру́га, стол, фо́то, стул, друг, дом, заво́д, парк, гру́ппа, окно́, ры́ба, суп, ко́мната, ла́мпа, молоко́, бу́ква, па́па, страна́, го́род, сло́во, сын, соба́ка, кот, банк, авто́бус, расска́з, су́мка, сыр, торт, вода́."
+        },
+        {
+          "t": "model",
+          "text": "брат ▸ он · вода́ ▸ она́."
+        },
+        {
+          "t": "note",
+          "text": "Chú ý: па́па tận cùng -а nhưng chỉ người nam → giống đực (он)."
+        }
+      ]
+    },
+    {
+      "id": "doroga1-02-s013",
+      "type": "grammar",
+      "title": "ИК-2 — Câu hỏi có từ để hỏi",
+      "num": null,
+      "blocks": [
+        {
+          "t": "para",
+          "text": "ИК-2 dùng trong câu hỏi có từ để hỏi (кто, как, когда́…): trọng âm câu nhấn mạnh vào từ để hỏi, cuối câu giọng đi xuống."
+        },
+        {
+          "t": "model",
+          "text": "— Кто э́то? — Это Ива́н. (— Ai đây? — Đây là Ivan.) · — Как вас зову́т? — Ива́н. (— Anh tên là gì? — Ivan.) · — А́нна, кто э́то? (— Anna, ai đây?)"
+        }
+      ]
+    },
+    {
+      "id": "doroga1-02-s014",
+      "type": "exercise",
+      "title": "Задание 9 — Прочитайте диалоги",
+      "num": 9,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "Прочитайте диалоги. Покажите, о каком рисунке идёт речь. (Đọc các hội thoại. Chỉ ra hội thoại nói về bức tranh nào.)"
+        },
+        {
+          "t": "para",
+          "text": "1. — И́ра, кто э́то? — Это Ива́н. (— Ira, ai đây? — Đây là Ivan.)  2. — Ива́н, кто э́то? — Это А́нна. (— Ivan, ai đây? — Đây là Anna.)  3. — Анто́н, кто э́то? — Это ма́ма и па́па. (— Anton, ai đây? — Đây là mẹ và bố.)"
+        },
+        {
+          "t": "para",
+          "text": "4. — Кто э́то? — Это кот. Он тут. (— Ai/con gì đây? — Đây là con mèo. Nó ở đây.)  5. — Кто э́то? — Это соба́ка. Она́ тут. (— Con gì đây? — Đây là con chó. Nó ở đây.)"
+        }
+      ]
+    },
+    {
+      "id": "doroga1-02-s015",
+      "type": "grammar",
+      "title": "Сравните — So sánh ИК-2 và ИК-3",
+      "num": null,
+      "blocks": [
+        {
+          "t": "para",
+          "text": "ИК-2 — câu hỏi CÓ từ để hỏi, giọng nhấn rồi đi xuống: — А́нна, кто э́то? — Это Ива́н. · ИК-3 — câu hỏi KHÔNG có từ để hỏi, giọng vút lên ở từ được hỏi: — Это Ива́н? — Да, это он. (— Đây là Ivan à? — Vâng, là anh ấy.)"
+        }
+      ]
+    },
+    {
+      "id": "doroga1-02-s016",
+      "type": "exercise",
+      "title": "Задание 10 — Диалоги уточнения",
+      "num": 10,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "а) Прочитайте диалоги. (Đọc các hội thoại.) б) Задайте вопросы по образцу а) своим друзьям. Используйте рисунки или фотографии. (Đặt câu hỏi theo mẫu với bạn bè, dùng tranh hoặc ảnh.)"
+        },
+        {
+          "t": "para",
+          "text": "1. — А́нна, кто э́то? — Это Анто́н. — Это Анто́н? — Да, это он. (— Anna, ai đây? — Đây là Anton. — Đây là Anton à? — Vâng, là anh ấy.)"
+        },
+        {
+          "t": "para",
+          "text": "2. — Анто́н, кто э́то? — Это И́ра. — Это И́ра? — Да, это она́. (— Anton, ai đây? — Đây là Ira. — Đây là Ira à? — Vâng, là cô ấy.)"
+        },
+        {
+          "t": "para",
+          "text": "3. — И́ра, кто э́то? — Это брат, Ива́н. — Это Ива́н? — Да, это он. (— Ira, ai đây? — Đây là anh trai, Ivan. — Đây là Ivan à? — Vâng, là anh ấy.)"
+        }
+      ]
+    },
+    {
+      "id": "doroga1-02-s017",
+      "type": "exercise",
+      "title": "Задание 11 — На какой вопрос ответил Антон?",
+      "num": 11,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "На какой вопрос ответил Анто́н? (Anton đã trả lời câu hỏi nào? Khôi phục các câu hỏi còn thiếu.)"
+        },
+        {
+          "t": "para",
+          "text": "1. — …? — Это А́нна.  2. — …? — Это Ива́н и А́нна.  3. — …? — Да, это кот.  4. — …? — Да, это соба́ка.  5. — …? — Это кот.  6. — …? — Это ма́ма.  7. — …? — Да, это Ива́н.  8. — …? — Да, это И́ра."
+        },
+        {
+          "t": "note",
+          "text": "Gợi ý: câu đáp giới thiệu («Это А́нна») → hỏi «Кто э́то?» (ИК-2); câu đáp «Да, это …» → hỏi «Это …?» (ИК-3)."
+        }
+      ]
+    },
+    {
+      "id": "doroga1-02-s018",
+      "type": "grammar",
+      "title": "Когда́? — ИК-2, ИК-3 và ИК-1",
+      "num": null,
+      "blocks": [
+        {
+          "t": "model",
+          "text": "— Когда́ уро́к? — За́втра. (— Khi nào có tiết học? — Ngày mai.)"
+        },
+        {
+          "t": "para",
+          "text": "Сравните (So sánh): ИК-2: Когда́ уро́к? → ИК-1: — У́тром. (— Buổi sáng.) · ИК-3: Уро́к у́тром? → ИК-1: — Да, уро́к за́втра у́тром. (— Tiết học vào buổi sáng à? — Vâng, tiết học sáng mai.) · ИК-2: Когда́ за́втрак? → ИК-1: — У́тром. · ИК-3: За́втрак у́тром? → ИК-1: — Да, за́втрак у́тром. (— Bữa sáng vào buổi sáng à? — Vâng.)"
+        }
+      ]
+    },
+    {
+      "id": "doroga1-02-s019",
+      "type": "exercise",
+      "title": "Задание 12 — Разговор по телефону",
+      "num": 12,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "а) Послушайте разговоры по телефону. (Nghe các cuộc nói chuyện điện thoại.) б) Позвоните своему другу или подруге и узнайте, дома ли они. (Gọi điện cho bạn mình và hỏi xem người cần gặp có ở nhà không.)"
+        },
+        {
+          "t": "para",
+          "text": "Hội thoại 1: Ива́н: — Алло́! · И́ра: — Да, да! Кто э́то? Это Ива́н? · Ива́н: — Да, Ива́н. Анто́н до́ма? · И́ра: — Да, он до́ма. Мину́ту! · Ива́н: — Спаси́бо! (Ivan: — Alô! · Ira: — Vâng, vâng! Ai đấy? Ivan à? · Ivan: — Vâng, Ivan đây. Anton có nhà không? · Ira: — Có, anh ấy ở nhà. Chờ một chút! · Ivan: — Cảm ơn!)"
+        },
+        {
+          "t": "para",
+          "text": "Hội thoại 2: И́ра: — Алло́! · Ива́н: — Да! Кто э́то? Это И́ра? · И́ра: — Да, И́ра. А́нна до́ма? · Ива́н: — Да, она́ до́ма. Мину́ту! · И́ра: — Спаси́бо! (Ira: — Alô! · Ivan: — Vâng! Ai đấy? Ira à? · Ira: — Vâng, Ira đây. Anna có nhà không? · Ivan: — Có, cô ấy ở nhà. Chờ một chút! · Ira: — Cảm ơn!)"
+        },
+        {
+          "t": "note",
+          "text": "Mẫu câu điện thoại: Мину́ту! — Chờ một chút! · Спаси́бо! — Cảm ơn!"
+        }
+      ]
+    },
+    {
+      "id": "doroga1-02-s020",
+      "type": "exercise",
+      "title": "Домашнее задание — Bài tập về nhà",
+      "num": 13,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "Bài tập về nhà của Урок 2 (4 bài)."
+        },
+        {
+          "t": "para",
+          "text": "1. Напишите слова и поставьте в них ударения, распределите слова по моделям 1)–6). (Viết các từ, đánh trọng âm và xếp theo 6 mô hình trọng âm): ла́мпа, авто́бус, молоко́, гру́ппа, за́втра, ка́рта, су́мка, страна́, расска́з, Москва́, уро́к, бу́ква, го́род, па́па, ма́ма, соба́ка, ры́ба, подру́га, окно́, за́втрак, заво́д, ко́мната, пого́да, сло́во, там."
+        },
+        {
+          "t": "para",
+          "text": "2. Напишите слова и предложения, поставьте ударения. (Viết các từ và câu, đánh trọng âm): за́втра, когда́, ма́ло, мно́го, пло́хо, хо́лодно, спаси́бо, у́тром. За́втра у́тром хо́лодно. (Sáng mai trời lạnh.) Это пло́хо. (Thật tệ.) Когда́ хо́лодно — пло́хо. (Khi trời lạnh thì thật tệ.)"
+        },
+        {
+          "t": "para",
+          "text": "3. Поставьте вопросы к выделенным словам. (Đặt câu hỏi cho các từ in đậm): Это Ива́н и Анто́н. Ива́н там, Анто́н тут. Уро́к у́тром. За́втрак у́тром. Это кот и соба́ка. Там соба́ка."
+        },
+        {
+          "t": "para",
+          "text": "4. Напишите упражнения 5(а), 6(в), 8(а), 9, 10, 11. (Viết lại các bài tập 5a, 6c, 8a, 9, 10, 11.)"
+        }
+      ]
+    },
+    {
+      "id": "doroga1-02-s021",
+      "type": "grammar",
+      "title": "Từ vựng Урок 2",
+      "num": null,
+      "blocks": [
+        {
+          "t": "subhead",
+          "text": "Danh từ — giống đực (он)"
+        },
+        { "t": "vocab", "ru": "авто́бус", "vi": "xe buýt", "g": null },
+        { "t": "vocab", "ru": "банк", "vi": "ngân hàng", "g": null },
+        { "t": "vocab", "ru": "брат", "vi": "anh trai, em trai", "g": null },
+        { "t": "vocab", "ru": "го́род", "vi": "thành phố (đọc [го́рат])", "g": null },
+        { "t": "vocab", "ru": "друг", "vi": "bạn (nam) (đọc [друк])", "g": null },
+        { "t": "vocab", "ru": "заво́д", "vi": "nhà máy", "g": null },
+        { "t": "vocab", "ru": "за́втрак", "vi": "bữa sáng", "g": null },
+        { "t": "vocab", "ru": "звук", "vi": "âm thanh", "g": null },
+        { "t": "vocab", "ru": "клуб", "vi": "câu lạc bộ (đọc [клуп])", "g": null },
+        { "t": "vocab", "ru": "кот", "vi": "con mèo (đực)", "g": null },
+        { "t": "vocab", "ru": "парк", "vi": "công viên", "g": null },
+        { "t": "vocab", "ru": "расска́з", "vi": "câu chuyện, truyện ngắn", "g": null },
+        { "t": "vocab", "ru": "сок", "vi": "nước ép, nước trái cây", "g": null },
+        { "t": "vocab", "ru": "стол", "vi": "cái bàn", "g": null },
+        { "t": "vocab", "ru": "стул", "vi": "cái ghế", "g": null },
+        { "t": "vocab", "ru": "суп", "vi": "súp, canh", "g": null },
+        { "t": "vocab", "ru": "сын", "vi": "con trai (con của bố mẹ)", "g": null },
+        { "t": "vocab", "ru": "сыр", "vi": "pho mát", "g": null },
+        { "t": "vocab", "ru": "торт", "vi": "bánh ga tô, bánh kem", "g": null },
+        { "t": "vocab", "ru": "уро́к", "vi": "bài học, tiết học", "g": null },
+        {
+          "t": "subhead",
+          "text": "Danh từ — giống cái (она́)"
+        },
+        { "t": "vocab", "ru": "бу́ква", "vi": "chữ cái", "g": null },
+        { "t": "vocab", "ru": "гру́ппа", "vi": "nhóm, lớp (nhóm học)", "g": null },
+        { "t": "vocab", "ru": "ка́рта", "vi": "bản đồ", "g": null },
+        { "t": "vocab", "ru": "ко́мната", "vi": "căn phòng", "g": null },
+        { "t": "vocab", "ru": "Москва́", "vi": "Mát-xcơ-va (thủ đô Nga)", "g": null },
+        { "t": "vocab", "ru": "му́ха", "vi": "con ruồi", "g": null },
+        { "t": "vocab", "ru": "пого́да", "vi": "thời tiết", "g": null },
+        { "t": "vocab", "ru": "подру́га", "vi": "bạn (nữ)", "g": null },
+        { "t": "vocab", "ru": "ры́ба", "vi": "con cá", "g": null },
+        { "t": "vocab", "ru": "соба́ка", "vi": "con chó", "g": null },
+        { "t": "vocab", "ru": "страна́", "vi": "đất nước", "g": null },
+        { "t": "vocab", "ru": "су́мка", "vi": "túi xách", "g": null },
+        {
+          "t": "subhead",
+          "text": "Danh từ — giống trung (оно́)"
+        },
+        { "t": "vocab", "ru": "молоко́", "vi": "sữa", "g": null },
+        { "t": "vocab", "ru": "окно́", "vi": "cửa sổ", "g": null },
+        { "t": "vocab", "ru": "сло́во", "vi": "từ, lời", "g": null },
+        {
+          "t": "subhead",
+          "text": "Từ khác"
+        },
+        { "t": "vocab", "ru": "два", "vi": "hai (số 2)", "g": null },
+        { "t": "vocab", "ru": "как", "vi": "như thế nào; (trong «Как вас зову́т?» — tên là gì)", "g": null },
+        { "t": "vocab", "ru": "когда́", "vi": "khi nào, bao giờ (đọc [кагда́])", "g": null },
+        { "t": "vocab", "ru": "ма́ло", "vi": "ít", "g": null },
+        { "t": "vocab", "ru": "мину́ту!", "vi": "chờ một chút! (khi nghe điện thoại)", "g": null },
+        { "t": "vocab", "ru": "мно́го", "vi": "nhiều", "g": null },
+        { "t": "vocab", "ru": "оно́", "vi": "nó (giống trung)", "g": null },
+        { "t": "vocab", "ru": "пло́хо", "vi": "tồi, tệ, xấu", "g": null },
+        { "t": "vocab", "ru": "спаси́бо", "vi": "cảm ơn", "g": null },
+        { "t": "vocab", "ru": "у́тром", "vi": "vào buổi sáng", "g": null },
+        { "t": "vocab", "ru": "хо́лодно", "vi": "lạnh, trời lạnh", "g": null }
+      ]
+    },
+    {
+      "id": "doroga1-02-s022",
+      "type": "grammar",
+      "title": "Nghe audio gốc — Уроки 1–2",
+      "num": null,
+      "blocks": [
+        {
+          "t": "note",
+          "text": "Đĩa audio gốc gộp chung Урок 1 và Урок 2 thành nhóm «Uroki 1–2» (17 track, sách không ghi số track). Các bài nghe của Урок 2 (Фонетическая зарядка, Задания 1, 2, 3, 6, 12) nằm ở các track phía sau của nhóm; phần đầu thuộc Урок 1."
+        },
+        { "t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/01.mp3", "label": "Уроки 1–2 · Track 1" },
+        { "t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/02.mp3", "label": "Уроки 1–2 · Track 2" },
+        { "t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/03.mp3", "label": "Уроки 1–2 · Track 3" },
+        { "t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/04.mp3", "label": "Уроки 1–2 · Track 4" },
+        { "t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/05.mp3", "label": "Уроки 1–2 · Track 5" },
+        { "t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/06.mp3", "label": "Уроки 1–2 · Track 6" },
+        { "t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/07.mp3", "label": "Уроки 1–2 · Track 7" },
+        { "t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/08.mp3", "label": "Уроки 1–2 · Track 8" },
+        { "t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/09.mp3", "label": "Уроки 1–2 · Track 9" },
+        { "t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/10.mp3", "label": "Уроки 1–2 · Track 10" },
+        { "t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/11.mp3", "label": "Уроки 1–2 · Track 11" },
+        { "t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/12.mp3", "label": "Уроки 1–2 · Track 12" },
+        { "t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/13.mp3", "label": "Уроки 1–2 · Track 13" },
+        { "t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/14.mp3", "label": "Уроки 1–2 · Track 14" },
+        { "t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/15.mp3", "label": "Уроки 1–2 · Track 15" },
+        { "t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/16.mp3", "label": "Уроки 1–2 · Track 16" },
+        { "t": "audio", "src": "data/books/doroga1/audio/uroki-1-2/17.mp3", "label": "Уроки 1–2 · Track 17" }
+      ]
+    }
+  ]
+}

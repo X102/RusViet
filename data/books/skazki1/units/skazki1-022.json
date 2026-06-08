@@ -1,0 +1,1205 @@
+{
+ "id": "skazki1-022",
+ "num": 22,
+ "title": "Напуганные медведь и волки — Gấu và bầy sói khiếp vía",
+ "vi": "Напуганные медведь и волки — Gấu và bầy sói khiếp vía",
+ "ru": "Напуганные медведь и волки",
+ "icon": "🐏",
+ "color": "#44403c",
+ "sectionPrefix": "skazki1-022-s",
+ "group": "Truyện № 31–60",
+ "sections": [
+  {
+   "id": "skazki1-022-s001",
+   "type": "story",
+   "num": 44,
+   "title": "№ 44 · Напуганные медведь и волки — Gấu và bầy sói khiếp vía",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Mở đầu nhóm bốn dị bản «Напуганные медведь и волки» (Gấu và bầy sói khiếp vía, kiểu truyện ATU 125 «thú dữ bỏ chạy vì khiếp con vật trốn nhà»). Dị bản này kể về con mèo ăn vụng và con cừu cùng trốn chủ: nhờ một cái đầu sói nhặt dọc đường và mưu mẹo của mèo, đôi bạn dọa cho cả bầy mười hai con sói lẫn gấu Mi-sa một phen chạy té khói."
+    },
+    {
+     "t": "para",
+     "text": "Жил себе старик да старуха, у них был кот да баран. (Ngày xưa có một ông lão và một bà lão, nhà nuôi một con mèo với một con cừu đực.)"
+    },
+    {
+     "t": "para",
+     "text": "Старуха укоп копит, а кот проказит. (Bà lão thì chắt chiu dành dụm của nả, còn con mèo thì chỉ rình phá phách.)"
+    },
+    {
+     "t": "para",
+     "text": "«Старик, — говорит старуха, — у нас на погребе нездорово». («Ông nó ơi, — bà lão nói, — dưới hầm chứa nhà mình có chuyện chẳng lành.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Надо поглядеть, — говорит ей старик, — не со стороны ли кто блудит». («Phải xem lại mới được, — ông lão bảo, — hay có kẻ ở đâu lẻn vào ăn vụng chăng.»)"
+    },
+    {
+     "t": "para",
+     "text": "Вот пошла старуха на погреб и усмотрела: кот сдвинул лапкой с горшка покрышку и слизывает себе сметанку; (Bà lão xuống hầm thì bắt quả tang: con mèo đã dùng chân hất nắp khỏi vò, đang liếm sạch chỗ kem chua;)"
+    },
+    {
+     "t": "para",
+     "text": "выгнала кота из погреба и пошла в избу, а кот наперед прибежал и запрятался на печи в углу. (bà đuổi mèo ra khỏi hầm rồi đi vào nhà, nhưng con mèo đã chạy trước, nấp tít trong góc trên bệ lò.)"
+    },
+    {
+     "t": "para",
+     "text": "«Хозяин! — сказывает старуха. — Вот мы не верили, что кот блудит, а он самый и есть; давай его убьем!» («Ông nó ơi! — bà lão kể. — Bấy lâu mình chẳng tin là mèo ăn vụng, hóa ra chính nó; thôi ta giết quách nó đi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Кот услыхал эти речи, как бросится с печки да бегом к барану в хлев и начал его обманывать: (Con mèo nghe lọt mấy lời ấy, liền nhảy phắt khỏi bệ lò, chạy thẳng ra chuồng tìm cừu mà bịa chuyện:)"
+    },
+    {
+     "t": "para",
+     "text": "«Брате баран! Меня хотят завтра убити, тебя зарезати». («Anh cừu ơi! Mai người ta định giết tôi, còn anh thì đem chọc tiết đấy.»)"
+    },
+    {
+     "t": "para",
+     "text": "И сговорились они оба бежать ночью от хозяина. (Thế là cả hai bàn nhau đang đêm trốn chủ mà đi.)"
+    },
+    {
+     "t": "para",
+     "text": "«Как же быть? — спрашивает баран. — Рад бы я с тобой лыжи навострить, да ведь хлев-то заперт!» («Nhưng làm sao bây giờ? — cừu hỏi. — Tôi cũng muốn cùng anh chuồn cho lẹ, ngặt nỗi chuồng khóa mất rồi!»)"
+    },
+    {
+     "t": "para",
+     "text": "«Ничего!» («Không sao!»)"
+    },
+    {
+     "t": "para",
+     "text": "Кот тотчас взобрался на дверь, скинул лапкой веревочку с гвоздя и выпустил барана. (Mèo lập tức leo lên cánh cửa, lấy chân hất sợi dây thừng khỏi đinh, thả cừu ra.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот и пошли они путем-дорогою, нашли волчью голову и взяли с собой; (Hai con dắt nhau lên đường, dọc đường nhặt được một cái đầu sói bèn mang theo;)"
+    },
+    {
+     "t": "para",
+     "text": "шли-шли, увидели: далеко в лесу светится огонек, они и пустились прямо на огонь. (đi mãi đi mãi, chợt thấy đằng xa trong rừng có ánh lửa lập lòe, bèn nhằm thẳng đốm lửa mà tới.)"
+    },
+    {
+     "t": "para",
+     "text": "Подходят, а вокруг огня греются двенадцать волков. (Lại gần thì ra quanh đống lửa có mười hai con sói đang ngồi sưởi ấm.)"
+    },
+    {
+     "t": "para",
+     "text": "«Бог помочь вам, волкам!» («Chào các bác sói, cầu trời phù hộ!»)"
+    },
+    {
+     "t": "para",
+     "text": "«Добро жаловать, кот да баран!» («Mời mèo với cừu lại đây!»)"
+    },
+    {
+     "t": "para",
+     "text": "«Брате, — спрашивает баран у кота, — что нам вечерять будет?» («Anh ơi, — cừu hỏi mèo, — bữa tối nay nhà mình ăn gì đây?»)"
+    },
+    {
+     "t": "para",
+     "text": "«А двенадцать-то волчьих голов! Поди выбери, которая пожирнее». («Thì mười hai cái đầu sói chứ gì! Ra mà chọn lấy cái nào béo nhất ấy.»)"
+    },
+    {
+     "t": "para",
+     "text": "Баран пошел в кусты, поднял повыше волчью голову, что дорогой-то нашли, и спрашивает: «Эта ли, брате кот?» (Cừu đi vào bụi rậm, giơ cao cái đầu sói nhặt được dọc đường lên mà hỏi: «Cái này được chưa, anh mèo?»)"
+    },
+    {
+     "t": "para",
+     "text": "«Нет, не эта, выбери получше». («Chưa, không phải cái đó, chọn cái nào ngon hơn đi.»)"
+    },
+    {
+     "t": "para",
+     "text": "Баран опять поднял ту же голову и опять спрашивает: «Эта ли?» (Cừu lại giơ vẫn cái đầu ấy lên, lại hỏi: «Cái này nhé?»)"
+    },
+    {
+     "t": "para",
+     "text": "Волки так напугались, что рады бы убежать, да без спросу не смеют. (Lũ sói khiếp đến mức chỉ muốn bỏ chạy, nhưng chưa xin phép thì chẳng dám.)"
+    },
+    {
+     "t": "para",
+     "text": "Четверо волков и стали проситься у кота и барана: «Пустите нас за дровами! Мы вам принесем». (Bốn con sói bèn xin phép mèo và cừu: «Cho chúng tôi đi kiếm củi! Chúng tôi sẽ mang về cho.»)"
+    },
+    {
+     "t": "para",
+     "text": "И ушли. (Rồi chúng đi mất.)"
+    },
+    {
+     "t": "para",
+     "text": "Остальные восемь волков еще пуще стали бояться кота да барана: коли двенадцать смогли поесть, а осьмерых и подавно поедят. (Tám con sói còn lại càng thêm sợ mèo với cừu: mười hai con mà còn xơi nổi, thì tám con này nuốt chửng là cái chắc.)"
+    },
+    {
+     "t": "para",
+     "text": "Стало еще четверо проситься за водою. (Lại bốn con nữa xin đi lấy nước.)"
+    },
+    {
+     "t": "para",
+     "text": "Кот отпустил: «Ступайте, да скорее ворочайтесь!» (Mèo cho đi: «Đi đi, mà mau mau quay về đấy!»)"
+    },
+    {
+     "t": "para",
+     "text": "Последние четыре волка отправились сходить за прежними волками: отчего-де не ворочаются? (Bốn con sói cuối cùng thì đi tìm mấy con sói lúc nãy: cớ sao mãi chưa thấy về?)"
+    },
+    {
+     "t": "para",
+     "text": "Кот отпустил, еще строже наказал поскорее приходить назад; а сам с бараном рад, что они ушли-то. (Mèo cũng cho đi, lại dặn đi dặn lại nghiêm hơn rằng phải về thật nhanh; còn nó với cừu thì mừng thầm vì lũ sói đã chuồn cả.)"
+    },
+    {
+     "t": "para",
+     "text": "Волки собрались вместе и пустились дальше в лес. (Bầy sói tụ lại với nhau rồi kéo nhau chạy sâu vào rừng.)"
+    },
+    {
+     "t": "para",
+     "text": "Попадается им медведь Михайло Иванович. (Giữa đường chúng gặp bác gấu Mi-khai-lô I-va-nô-vích.)"
+    },
+    {
+     "t": "para",
+     "text": "«Слыхал ли ты, Михайло Иванович, — спрашивают волки, — чтобы кот да баран съели по двенадцати волков?» («Bác Mi-khai-lô I-va-nô-vích ơi, — lũ sói hỏi, — bác đã nghe nói mèo với cừu xơi mỗi bữa mười hai con sói bao giờ chưa?»)"
+    },
+    {
+     "t": "para",
+     "text": "«Нет, ребятушки, не слыхивал». («Chưa, các chú ạ, ta chưa từng nghe.»)"
+    },
+    {
+     "t": "para",
+     "text": "«А мы сами видели этого кота да барана». («Thế mà chính mắt chúng tôi trông thấy con mèo với con cừu ấy đấy.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Как бы, ребятушки, и мне посмотреть, какова их храбрость?» («Hay là, các chú này, để ta cũng đến xem chúng gan dạ đến đâu nhỉ?»)"
+    },
+    {
+     "t": "para",
+     "text": "«Эх, Михайло Иваныч, ведь больно кот-от ретив, нельзя к нему поддоброхотиться: того и гляди, что в клочки изорвет! («Ấy, bác Mi-khai-lô I-va-nức ơi, con mèo ấy hung hăng lắm, chẳng tài nào lại gần làm thân được đâu: hở ra là nó xé tan thành từng mảnh ngay!)"
+    },
+    {
+     "t": "para",
+     "text": "Даром что мы прытки над собаками и зайцами, а тут ничего не возьмешь. (Bọn tôi nhanh nhẹn với lũ chó với thỏ là thế, vậy mà với nó thì đành chịu, chẳng làm gì nổi.)"
+    },
+    {
+     "t": "para",
+     "text": "Позовем-ка лучше их на обед». (Chi bằng ta mời chúng đến dự bữa thì hơn.»)"
+    },
+    {
+     "t": "para",
+     "text": "Стали посылать лисицу: «Ступай, позови кота да барана». (Chúng bèn sai cáo đi: «Mày đi mời mèo với cừu lại đây.»)"
+    },
+    {
+     "t": "para",
+     "text": "Лисица начала отговариваться: «Я хоть и прытка, да неувертлива; как бы они меня не съели!» (Cáo tìm cách thoái thác: «Em tuy nhanh chân nhưng vụng xoay xở; nhỡ chúng xơi mất em thì sao!»)"
+    },
+    {
+     "t": "para",
+     "text": "«Ступай!..» («Đi ngay!..»)"
+    },
+    {
+     "t": "para",
+     "text": "Делать нечего, побежала лисица за котом и бараном. (Chẳng còn cách nào, cáo đành chạy đi tìm mèo với cừu.)"
+    },
+    {
+     "t": "para",
+     "text": "Воротилась назад и сказывает: «Обещались быть; ах, Михайло Иванович, какой кот-то сердитый! (Lúc trở về, cáo kể: «Chúng hứa sẽ đến; chao ôi, bác Mi-khai-lô I-va-nô-vích ơi, con mèo dữ tợn quá chừng!)"
+    },
+    {
+     "t": "para",
+     "text": "Сидит на пне да ломает его когтями: это на нас точит он свои ножи! А глаза так и выпучил!..» (Nó ngồi trên gốc cây, lấy móng vuốt cào nát cả ra: ấy là nó đang mài dao để hại chúng ta đấy! Mắt thì trợn trừng cả lên!..»)"
+    },
+    {
+     "t": "para",
+     "text": "Медведь струхнул, сейчас посадил одного волка в сторожа на высокий пень, дал ему в лапы утирку и наказал: (Gấu đâm hoảng, liền đặt một con sói lên gốc cây cao làm lính canh, dúi vào chân nó một cái khăn lau mà dặn:)"
+    },
+    {
+     "t": "para",
+     "text": "«Коли увидишь кота с бараном, махай утиркою: мы пойдем — их повстречаем». («Hễ trông thấy mèo với cừu thì vẫy khăn lên: chúng ta sẽ kéo ra nghênh đón chúng.»)"
+    },
+    {
+     "t": "para",
+     "text": "Стали готовить обед; четыре волка притащили четыре коровы, а в повара медведь посадил сурка. (Chúng lo dọn bữa; bốn con sói lôi về bốn con bò, còn gấu thì cử con macmot làm đầu bếp.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот идут в гости кот да баран; завидели караульного, смекнули дело и стакнулись меж собою. (Mèo với cừu đến dự tiệc; vừa trông thấy tên lính canh, chúng hiểu ngay cơ sự, bèn ngầm bàn nhau.)"
+    },
+    {
+     "t": "para",
+     "text": "«Я, — говорит кот, — подползу тихонько по траве и сяду у самого пня супротив волчьей рожи, а ты, брат баран, разбежись и что есть силы ударь его лбом!» («Tôi, — mèo bảo, — sẽ lặng lẽ bò theo đám cỏ rồi ngồi ngay sát gốc cây, đối mặt cái mõm sói; còn anh, anh cừu, lấy đà rồi dồn hết sức húc đầu vào nó!»)"
+    },
+    {
+     "t": "para",
+     "text": "Баран разбежался, ударил со всей мочи и сшиб волка, а кот бросился ему прямо в морду, вцепился когтями и исцарапал до крови. (Cừu lấy đà, húc hết sức bình sinh, hất văng con sói; còn mèo thì lao thẳng vào mặt nó, bấu chặt móng vuốt, cào đến tóe máu.)"
+    },
+    {
+     "t": "para",
+     "text": "Медведь и волки, как увидели то, зачали меж собою растабаривать: (Gấu và bầy sói thấy vậy liền xì xào bàn tán với nhau:)"
+    },
+    {
+     "t": "para",
+     "text": "«Ну, ребятушки, вот какова рысь кота да барана! («Chà, các chú ơi, mèo với cừu nhanh nhẹn dữ dằn chưa kìa!)"
+    },
+    {
+     "t": "para",
+     "text": "Евстифейка-волка умудрились сшибить и изувечить с какого высокого пня, а нам где уж на земле устоять! (Cái gốc cây cao thế mà chúng còn hất ngã, đánh què được lão sói Ép-xti-phây-ka, thì chúng ta đứng dưới đất này sao mà trụ nổi!)"
+    },
+    {
+     "t": "para",
+     "text": "Им, знать, наше готовленье-то нипочем; они придут не угощаться, а нас пятнать. (Xem ra mâm cỗ ta bày chúng coi chẳng ra gì; chúng đến đâu phải để chén, mà là để hạ sát chúng ta.)"
+    },
+    {
+     "t": "para",
+     "text": "А, братцы, не лучше ли нам схорониться?» (Này anh em, hay là ta trốn quách đi cho rồi?»)"
+    },
+    {
+     "t": "para",
+     "text": "Волки все разбежались по́ лесу, медведь вскарабкался на сосну, сурок спрятался в нору, а лиса забилась под колодину. (Bầy sói chạy tan tác khắp rừng, gấu trèo tót lên cây thông, macmot chui vào hang, còn cáo thì rúc xuống dưới khúc gỗ mục.)"
+    },
+    {
+     "t": "para",
+     "text": "Кот с бараном принялись за наготовленные кушанья. (Mèo với cừu thì xúm vào chén những món đã dọn sẵn.)"
+    },
+    {
+     "t": "para",
+     "text": "Кот ест, а сам мурлычет: «Мало, мало!», обернулся как-то назад, увидел, что из норы торчит сурков хвост, испугался да как прыснет на сосну. (Mèo vừa ăn vừa gừ gừ: «Ít quá, ít quá!», rồi tình cờ ngoảnh lại, thấy cái đuôi macmot thò ra khỏi hang, hoảng quá vọt thẳng lên cây thông.)"
+    },
+    {
+     "t": "para",
+     "text": "Медведь устрахался кота, да напрямик с сосны на землю и ринулся и чуть-чуть не задавил лисы под колодиной. (Gấu khiếp vía con mèo, từ trên cây thông lao thẳng xuống đất, suýt nữa đè bẹp con cáo đang nấp dưới khúc gỗ.)"
+    },
+    {
+     "t": "para",
+     "text": "Побежал медведь, побежала лиса. (Gấu cắm cổ chạy, cáo cũng ù té chạy.)"
+    },
+    {
+     "t": "para",
+     "text": "«Знать ты, куманек, ушибся?» — спрашивает лисица. («Bác ngã có đau lắm không, bác bạn?» — cáo hỏi.)"
+    },
+    {
+     "t": "para",
+     "text": "«Нет, кумушка, если б я не спрыгнул, — кот бы давно меня съел!» («Không đâu, cô bạn ạ, nếu ta không nhảy xuống kịp thì con mèo nó đã xơi tái ta từ đời nào rồi!»)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "блудить",
+     "vi": "ăn vụng, phá phách, ăn trộm vặt (phương ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "проказить",
+     "vi": "giở trò nghịch ngợm, phá phách",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "покрышка",
+     "vi": "cái nắp (đậy nồi, vò)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "хлев",
+     "vi": "chuồng gia súc",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "навострить лыжи",
+     "vi": "chuồn, bỏ trốn (thành ngữ; nghĩa đen: chuốt nhọn ván trượt)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "вечерять",
+     "vi": "ăn bữa tối (phương ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ретивый",
+     "vi": "hăng hái, hung hăng, dữ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "поддоброхотиться",
+     "vi": "lại gần lấy lòng, làm thân (từ cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "прыткий",
+     "vi": "nhanh nhẹn, lanh lẹ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "утирка",
+     "vi": "khăn lau, khăn mặt (phương ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "растабаривать",
+     "vi": "bàn tán, chuyện trò (phương ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "стакнуться",
+     "vi": "ngầm bàn nhau, thông đồng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "колодина",
+     "vi": "khúc gỗ mục nằm dưới đất, cây đổ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "сурок",
+     "vi": "con macmot (sóc đất)",
+     "g": null
+    }
+   ]
+  },
+  {
+   "id": "skazki1-022-s002",
+   "type": "story",
+   "num": 45,
+   "title": "№ 45 · Напуганные медведь и волки — Gấu và bầy sói khiếp vía",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Dị bản thứ hai, nhân vật là dê đực và cừu đực cùng con mèo Vát-xka tinh ranh. Mèo bịa chuyện bà chủ sắp làm thịt dê, cừu để rủ chúng cùng bỏ trốn; ngoài rừng, ba con bạn lần lượt dọa gấu rồi cả bầy sói tám con (cầm đầu là con sói trắng) chạy bán sống bán chết — vẫn mô-típ quen thuộc «kẻ yếu lấy mưu thắng kẻ mạnh»."
+    },
+    {
+     "t": "para",
+     "text": "Жили-были на одном дворе козел да баран; жили промеж себя дружно: сена клок — и тот пополам, а коли вилы в бок — так одному коту Ваське. (Ngày xưa trong một sân nhà nọ có con dê đực và con cừu đực ở chung; chúng sống với nhau thuận hòa lắm: được nhúm cỏ khô cũng chia đôi, mà có bị chĩa đâm vào sườn thì cứ đổ cả lên đầu con mèo Vát-xka.)"
+    },
+    {
+     "t": "para",
+     "text": "Он такой вор и разбойник, за каждый час на промысле, и где плохо лежит — тут у него и брюхо болит. (Con mèo ấy vốn là quân trộm cắp gian manh, giờ nào cũng đi rình mò kiếm chác, hễ thấy chỗ nào hớ hênh là y như rằng nó lại đau bụng ngay.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот однажды лежат себе козел да баран и разговаривают промеж себя; где ни взялся котишко-мурлышко, серый лобишко, идет да таково жалостно плачет. (Một bữa nọ dê và cừu đang nằm chuyện trò với nhau; chẳng biết từ đâu chú mèo gừ-gừ trán xám lò dò tới, vừa đi vừa khóc lóc thảm thiết.)"
+    },
+    {
+     "t": "para",
+     "text": "Козел да баран и спрашивают: «Кот-коток, серенький лобок! О чем ты, ходя, плачешь, на трех ногах скачешь?» (Dê với cừu liền hỏi: «Mèo ơi là mèo, cái trán xám hơ! Đi đâu mà khóc, ba chân nhảy lò cò?»)"
+    },
+    {
+     "t": "para",
+     "text": "«Как мне не плакать? Била меня старая баба, била-била, уши выдирала, ноги поломала да еще удавку припасала». («Tôi không khóc sao được? Mụ già đánh tôi, đánh mãi đánh hoài, túm tai mà giật, bẻ gãy chân, lại còn sắm sẵn cả thòng lọng để treo cổ tôi nữa.»)"
+    },
+    {
+     "t": "para",
+     "text": "«А за какую вину такая тебе погибель?» («Mà mày phạm tội gì để đến nông nỗi chết người thế?»)"
+    },
+    {
+     "t": "para",
+     "text": "«Эх, за то погибель была, что себя не опознал да сметанку слизал». («Ấy, tai vạ chỉ vì tôi không biết giữ mình mà trót liếm vụng hũ kem chua thôi.»)"
+    },
+    {
+     "t": "para",
+     "text": "И опять заплакал кот-мурлыко. (Rồi chú mèo gừ-gừ lại òa lên khóc.)"
+    },
+    {
+     "t": "para",
+     "text": "«Кот-коток, серый лобок! О чем же ты еще плачешь?» («Mèo ơi là mèo, cái trán xám hơ! Mày còn khóc gì nữa đây?»)"
+    },
+    {
+     "t": "para",
+     "text": "«Как не плакать? Баба меня била да приговаривала: ко мне придет зять, где будет сметаны взять? За неволю придется колоть козла да барана!» («Sao mà không khóc? Mụ vừa đánh tôi vừa lẩm bẩm: con rể sắp tới chơi, biết lấy kem chua ở đâu ra? Cùng đường thì đành phải chọc tiết con dê với con cừu thôi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Заревели козел и баран: «Ах ты серый кот, бестолковый лоб! За что ты нас-то загубил? Вот мы тебя забодаем!» (Dê với cừu rống lên: «Ối cái con mèo xám, cái đầu ngu độn kia! Cớ sao mày hại lây cả bọn ta? Phen này ta húc cho mày chết!»)"
+    },
+    {
+     "t": "para",
+     "text": "Тут мурлыко вину свою приносил и прощенья просил. (Bấy giờ chú mèo gừ-gừ mới chịu nhận lỗi mà xin tha.)"
+    },
+    {
+     "t": "para",
+     "text": "Они простили его и стали втроем думу думать: как быть и что делать? (Hai con tha cho nó, rồi cả ba xúm lại bàn tính: phải làm sao, tính thế nào đây?)"
+    },
+    {
+     "t": "para",
+     "text": "«А что, середний брат баранко, — спросил мурлыко, — крепок ли у тебя лоб: попробуй-ка о ворота». («Này anh hai cừu, — mèo hỏi, — trán anh có cứng không: thử húc vào cánh cổng xem nào.»)"
+    },
+    {
+     "t": "para",
+     "text": "Баран с разбегу стукнулся о ворота лбом: покачнулись ворота, да не отворились. (Cừu lấy đà nện đầu vào cổng: cổng chao đảo nhưng chẳng bật ra.)"
+    },
+    {
+     "t": "para",
+     "text": "Поднялся старший брат мрасище-козлище, разбежался, ударился — и ворота отворились. (Đến lượt anh cả dê xồm to xác đứng dậy, lấy đà tông một cái — cổng liền bung ra.)"
+    },
+    {
+     "t": "para",
+     "text": "Пыль столбом подымается, трава к земле приклоняется, бегут козел да баран, а за ними скачет на трех ногах кот серый лоб. (Bụi bốc lên thành cột, cỏ rạp cả xuống đất, dê với cừu cắm cổ chạy, theo sau là chú mèo trán xám nhảy lò cò ba chân.)"
+    },
+    {
+     "t": "para",
+     "text": "Устал он и возмолился названым братьям: «Ни то старший брат, ни то средний брат! Не оставьте меньшого братишку на съеденье зверям». (Mệt quá, nó van xin hai người anh kết nghĩa: «Anh cả ơi, anh hai ơi! Đừng bỏ thằng em út lại cho thú dữ ăn thịt!»)"
+    },
+    {
+     "t": "para",
+     "text": "Взял козел, посадил его на себя, и понеслись они опять по горам, по долам, по сыпучим пескам. (Dê bèn cõng nó lên lưng, rồi cả bọn lại phóng đi, qua núi, qua thung, qua những bãi cát chảy.)"
+    },
+    {
+     "t": "para",
+     "text": "Долго бежали, и день и ночь, пока в ногах силы хватило. (Chúng chạy mãi, suốt ngày suốt đêm, cho đến khi chân còn lê được bước nào hay bước ấy.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот пришло крутое крутище, станово становище; под тем крутищем скошенное поле, на том поле стога́ что города стоят. (Rồi tới một sườn dốc dựng đứng, một chỗ dừng chân; dưới chân dốc là cánh đồng vừa gặt, trên đồng những đống cỏ khô sừng sững như những tòa thành.)"
+    },
+    {
+     "t": "para",
+     "text": "Остановились козел, баран и кот отдыхать; а ночь была осенняя, холодная. (Dê, cừu và mèo dừng lại nghỉ; đêm thu lạnh lẽo.)"
+    },
+    {
+     "t": "para",
+     "text": "«Где огня добыть?» — думают козел да баран; а мурлышко уже добыл бересты, обернул козлу рога и велел ему с баранком стукнуться лбами. («Kiếm đâu ra lửa bây giờ?» — dê với cừu nghĩ ngợi; thì chú mèo đã kiếm được mấy mảnh vỏ bạch dương, quấn quanh sừng dê rồi bảo dê húc đầu vào cừu.)"
+    },
+    {
+     "t": "para",
+     "text": "Стукнулись козел с бараном, да таково крепко, что искры из глаз посыпались; берестечко так и зарыдало. (Dê với cừu húc nhau, mạnh đến nỗi đom đóm mắt tóe ra; mảnh vỏ bạch dương lập tức bén lửa kêu lép bép.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ладно, — молвил серый кот, — теперь обогреемся», — да за словом и затопил стог сена. («Tốt rồi, — mèo xám nói, — giờ thì ta sưởi ấm được», — nói đoạn nó châm luôn đống cỏ khô.)"
+    },
+    {
+     "t": "para",
+     "text": "Не успели они путем обогреться, глядь — жалует незваный гость мужик-серячок Михайло Иванович. (Chúng chưa kịp sưởi cho ấm, ngó ra đã thấy một vị khách không mời mà tới: bác xám nhà quê Mi-khai-lô I-va-nô-vích.)"
+    },
+    {
+     "t": "para",
+     "text": "«Пустите, — говорит, — обогреться да отдохнуть; что-то неможется». («Cho ta sưởi nhờ với nghỉ chân chút, — gấu nói, — ta thấy trong người khó ở.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Добро жаловать, мужик-серячок муравейничек! Откуда, брат, идешь?» («Mời bác xám ăn kiến lại đây! Bác từ đâu tới vậy?»)"
+    },
+    {
+     "t": "para",
+     "text": "«Ходил на пасеку да подрался с мужиками, оттого и хворь прикинулась; иду к лисе лечиться». («Ta đi phá tổ ong thì đụng độ đánh nhau với mấy gã nông phu, thành ra ngã bệnh; giờ đến nhờ cáo chữa cho.»)"
+    },
+    {
+     "t": "para",
+     "text": "Стали вчетвером темну ночь делить: медведь под стогом, мурлыко на стогу, а козел с бараном у теплины. (Thế là cả bốn chia nhau qua đêm tối: gấu nằm dưới đống cỏ, mèo nằm trên đống cỏ, còn dê với cừu thì nằm cạnh đống lửa.)"
+    },
+    {
+     "t": "para",
+     "text": "Идут семь волков серых, восьмой белый, и прямо к стогу. (Bỗng có bảy con sói xám, con thứ tám lông trắng, kéo thẳng tới đống cỏ.)"
+    },
+    {
+     "t": "para",
+     "text": "«Фу-фу, — говорит белый волк, — нерусским духом пахнет. Какой-такой народ здесь? Давайте силу пытать!» («Phù-phù, — sói trắng nói, — có mùi lạ chẳng phải mùi người Nga. Quân nào ở đây thế? Nào, thử sức xem!»)"
+    },
+    {
+     "t": "para",
+     "text": "Заблеяли козел и баран со страстей, а мурлышко такую речь повел: (Dê với cừu sợ quá kêu be be, còn chú mèo thì lựa lời nói thế này:)"
+    },
+    {
+     "t": "para",
+     "text": "«Ахти, белый волк, над волками князь! Не серди нашего старшего; он, помилуй бог, сердит! («Ôi chao, sói trắng, chúa tể của loài sói! Chớ chọc giận anh cả nhà tôi; lạy trời, anh ấy dữ lắm đấy!)"
+    },
+    {
+     "t": "para",
+     "text": "— как расходится, никому несдобровать. (— hễ nổi cơn lên thì chẳng ai thoát nạn.)"
+    },
+    {
+     "t": "para",
+     "text": "Аль не видите у него бороды: в ней-то и сила, бородою он зверей побивает, а рогами только кожу сымает. (Các anh không thấy bộ râu của anh ấy sao: sức mạnh nằm cả trong đó, anh ấy lấy râu mà quật chết thú, còn sừng thì chỉ dùng để lột da thôi.)"
+    },
+    {
+     "t": "para",
+     "text": "Лучше с честью подойдите да попросите: хотим, дескать, поиграть с твоим меньшим братишком, что под стогом-то лежит». (Tốt hơn các anh hãy lễ phép lại gần mà thưa: chúng tôi muốn chơi đùa với cậu em út của anh đang nằm dưới đống cỏ kia.»)"
+    },
+    {
+     "t": "para",
+     "text": "Волки на том козлу кланялись, обступили Мишку и стали его задирать. (Lũ sói nghe vậy bèn cúi chào dê, rồi xúm quanh chú Gấu mà trêu chọc khiêu khích.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот он крепился-крепился, да как хватит на каждую лапу по волку; запели они Лазаря, выбрались кое-как, да, поджав хвосты, — подавай бог ноги! (Gấu cố nín nhịn mãi, rồi bất thần mỗi chân vớ lấy một con sói; lũ sói rên la thảm thiết, chật vật lắm mới gỡ ra được, cụp đuôi mà ba chân bốn cẳng chạy mất!)"
+    },
+    {
+     "t": "para",
+     "text": "А козел да баран тем времечком подхватили мурлыку и побежали в лес и опять наткнулись на серых волков. (Còn dê với cừu nhân lúc ấy vội vớ lấy mèo rồi chạy vào rừng, lại đụng phải bầy sói xám.)"
+    },
+    {
+     "t": "para",
+     "text": "Кот вскарабкался на самую макушку ели, а козел с бараном схватились передними ногами за еловый сук и повисли. (Mèo trèo tót lên tận ngọn cây vân sam, còn dê với cừu thì lấy hai chân trước bám vào một cành vân sam mà đu lủng lẳng.)"
+    },
+    {
+     "t": "para",
+     "text": "Волки стоят под елью, зубы оскалили и воют, глядя на козла и барана. (Lũ sói đứng dưới gốc vân sam, nhe răng tru lên, mắt nhìn chằm chằm dê với cừu.)"
+    },
+    {
+     "t": "para",
+     "text": "Видит кот серый лоб, что дело плохо, стал кидать в волков еловые шишки да приговаривать: (Mèo trán xám thấy tình thế chẳng lành, bèn ném quả thông vân sam xuống lũ sói mà nói:)"
+    },
+    {
+     "t": "para",
+     "text": "«Раз волк! Два волк! Три волк! Всего-то по волку на брата. («Một con sói! Hai con sói! Ba con sói! Tính ra mỗi anh em ta được một con sói.)"
+    },
+    {
+     "t": "para",
+     "text": "Я, мурлышко, давеча двух волков съел, и с косточками, так еще сытехонек; а ты, большой братим, за медведями ходил, да не изловил, бери себе и мою долю!» (Tôi đây, con mèo này, vừa nãy xơi hai con sói, cả xương cả xẩu, mà vẫn còn no nê; còn anh, anh cả ơi, đi săn gấu mà chẳng tóm được con nào, thì lấy luôn cả phần của tôi đi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Только сказал он эти речи, как козел сорвался и упал прямо рогами на волка. (Nó vừa dứt lời thì dê tuột tay, rơi đánh phịch, sừng cắm thẳng vào một con sói.)"
+    },
+    {
+     "t": "para",
+     "text": "А мурлыко знай свое кричит: «Держи его, лови его!» (Còn mèo cứ một mực gào lên: «Giữ lấy nó, bắt lấy nó!»)"
+    },
+    {
+     "t": "para",
+     "text": "Тут на волков такой страх нашел, что со всех ног припустили бежать без оглядки. (Bấy giờ lũ sói khiếp đảm đến mức ù té chạy hết tốc lực, không dám ngoái đầu.)"
+    },
+    {
+     "t": "para",
+     "text": "Так и ушли. (Thế là chúng bỏ đi cả.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "удавка",
+     "vi": "thòng lọng, dây thắt cổ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "забодать",
+     "vi": "húc (bằng sừng) cho chết",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "стог",
+     "vi": "đống cỏ khô lớn (ngoài đồng)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "береста",
+     "vi": "vỏ cây bạch dương (dễ bén lửa)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "теплина",
+     "vi": "đống lửa sưởi (phương ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "неможется",
+     "vi": "thấy ốm yếu, khó ở (động từ vô nhân xưng)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "муравейничек",
+     "vi": "kẻ phá tổ kiến (biệt danh trêu con gấu)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "хворь",
+     "vi": "bệnh tật, ốm đau",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "несдобровать",
+     "vi": "ắt mang vạ, chẳng được yên lành",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "петь Лазаря",
+     "vi": "rên rỉ kêu than, kể khổ (thành ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "оскалить",
+     "vi": "nhe răng (ra)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "шишка",
+     "vi": "quả nón (của cây lá kim, như thông, vân sam)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "блеять",
+     "vi": "kêu be be (cừu, dê)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "давеча",
+     "vi": "vừa nãy, mới đây (từ cổ/khẩu ngữ)",
+     "g": null
+    }
+   ]
+  },
+  {
+   "id": "skazki1-022-s003",
+   "type": "story",
+   "num": 46,
+   "title": "№ 46 · Напуганные медведь и волки — Gấu và bầy sói khiếp vía",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Dị bản thứ ba: lần này là dê đực Cô-dơ-ma Mi-ki-tích và cừu đực bỏ ông chủ lười nhác mà rủ nhau vào rừng. Một cái đầu sói cũ nhặt được dọc đường cùng mưu của dê khiến cả bầy sói tưởng đôi bạn đã hạ vô số đồng loại; gấu Mi-khai-lô đến bói quẻ tìm thì bị một phát súng của dê dọa cho chạy mất — khép lại bằng công thức «sống yên ổn, thoát mọi tai ương» quen thuộc của truyện kể dân gian."
+    },
+    {
+     "t": "para",
+     "text": "В некотором царстве, в некотором государстве жил-был мужичок, у него были козел да баран. (Ở một vương quốc nọ, trong một xứ sở kia, có một bác nông dân, nhà nuôi một con dê đực với một con cừu đực.)"
+    },
+    {
+     "t": "para",
+     "text": "Поленился мужик накосить сена; пришла зима, нечего есть козлу и барану, (Bác nông dân lười biếng chẳng chịu cắt cỏ khô tích trữ; mùa đông tới, dê với cừu chẳng còn gì mà ăn,)"
+    },
+    {
+     "t": "para",
+     "text": "стали они на весь двор реветь, а мужик схватил кнут и ну колотить их. (chúng bèn kêu rống ầm ĩ vang khắp sân, còn bác nông dân thì vớ lấy roi mà quật chúng túi bụi.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот козел и сказал барану: «Давай, брат, уйдем в лес; найдем стог сена и станем жить». (Bấy giờ dê mới bảo cừu: «Này anh, ta bỏ vào rừng đi; tìm một đống cỏ khô mà sống qua ngày.»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Пойдем, брат Козьма Микитич! Хуже не будет». (— «Đi thì đi, anh Cô-dơ-ma Mi-ki-tích! Chứ chả lẽ lại tệ hơn bây giờ.»)"
+    },
+    {
+     "t": "para",
+     "text": "Козел стащил у хозяина ружье, а баран куль, и пошли вдвоем; (Dê thó của chủ khẩu súng, còn cừu vác cái bao tải, rồi cả hai cùng lên đường;)"
+    },
+    {
+     "t": "para",
+     "text": "идут путем-дорогою и нашли старую волчью голову. (đang đi giữa đường thì nhặt được một cái đầu sói cũ.)"
+    },
+    {
+     "t": "para",
+     "text": "«Брат баран! — сказал тут козел. — Возьми эту голову и положи в куль». («Anh cừu ơi! — dê liền bảo. — Nhặt lấy cái đầu này bỏ vào bao đi.»)"
+    },
+    {
+     "t": "para",
+     "text": "— «На черта она нам? И так тяжело идти!» (— «Lấy cái của nợ ấy làm gì? Đi đã nặng muốn chết rồi!»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Возьми! Придем на место, сварим себе студень». (— «Cứ lấy! Tới nơi rồi ta nấu món thịt đông mà ăn.»)"
+    },
+    {
+     "t": "para",
+     "text": "Баран поднял волчью голову, положил в куль и понес. (Cừu nhặt cái đầu sói lên, bỏ vào bao mà vác đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Шли они, шли и, наконец, пришли в лес. (Chúng đi mãi đi mãi, cuối cùng cũng vào tới rừng.)"
+    },
+    {
+     "t": "para",
+     "text": "«Я совсем иззяб», — сказал баран. («Tôi rét cóng cả người rồi», — cừu nói.)"
+    },
+    {
+     "t": "para",
+     "text": "А козел увидал, что в стороне огонь светится, и говорит: «Вон где-то огонь горит; пойдем туда!» (Dê chợt thấy đằng kia có ánh lửa lập lòe, bèn nói: «Kìa, đâu đó có lửa đang cháy; ta lại đó đi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Пошли на огонь и прямехонько-таки наткнулись на волков; сидят кругом огня да греются. (Chúng nhằm đốm lửa đi tới, ai dè đâm sầm ngay vào một bầy sói; lũ sói đang ngồi quây quanh đống lửa sưởi ấm.)"
+    },
+    {
+     "t": "para",
+     "text": "Баран напугался, еле душа в теле держится. (Cừu sợ rúm cả người, hồn vía như muốn lìa khỏi xác.)"
+    },
+    {
+     "t": "para",
+     "text": "А козел говорит ему: «Не робей, баран!», а сам подошел к волкам: «Здорово, ребята!» (Còn dê thì bảo nó: «Đừng nhát thế, cừu ơi!», rồi tự mình bước tới chỗ lũ sói: «Chào các cậu!»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Здравствуй, Козьма Микитич!» (— «Chào anh Cô-dơ-ma Mi-ki-tích!»)"
+    },
+    {
+     "t": "para",
+     "text": "Вот, думают волки, славная будет пожива: козел да баран сами пришли, сами в рот просятся. (Lũ sói nghĩ bụng, phen này tha hồ một bữa ngon lành: dê với cừu tự dẫn xác đến, tự chui vào miệng mình.)"
+    },
+    {
+     "t": "para",
+     "text": "Только козел себе на уме. (Có điều dê đã có mưu tính sẵn trong bụng.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ну-ка, брат баран! Давай, — говорит, — сюда волчью голову; сварим да сделаем студень. («Nào, anh cừu! Đưa, — dê nói, — đưa cái đầu sói lại đây; ta nấu lên làm món thịt đông.)"
+    },
+    {
+     "t": "para",
+     "text": "Да смотри выбирай, чтоб был старый волк!» (Mà nhớ chọn cho được cái đầu sói thật già vào đấy nhé!»)"
+    },
+    {
+     "t": "para",
+     "text": "Баран вынул из куля волчью голову и несет козлу. (Cừu lôi từ trong bao ra cái đầu sói, đem lại cho dê.)"
+    },
+    {
+     "t": "para",
+     "text": "«Не та! — говорит козел. — Там, в кулю, есть другая голова, с самого старого волка, — ту и притащи». («Không phải cái đó! — dê bảo. — Trong bao còn cái đầu khác, của con sói già nhất kia, — lôi đúng cái đó ra đây.»)"
+    },
+    {
+     "t": "para",
+     "text": "Баран стал копаться в своем куле, копался, копался и несет опять ту же голову. (Cừu bèn lục lọi trong bao, moi mãi moi hoài, rồi lại đem ra vẫn cái đầu cũ.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ах ты, дурак, — закричал козел и ногами затопал, — не та!.. Посмотри, на самом исподе лежит». («Ôi cái đồ ngốc, — dê quát lên, giậm chân thình thịch, — không phải cái đó!.. Coi cho kỹ đi, nó nằm tít dưới đáy ấy.»)"
+    },
+    {
+     "t": "para",
+     "text": "Баран опять копался-копался и несет ту же самую голову. (Cừu lại moi móc một hồi, rồi vẫn đem ra đúng cái đầu ấy.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ну, вот теперь так! — сказал козел. — Эту самую голову мне и надобно». («Đấy, lần này mới phải! — dê nói. — Chính cái đầu này tôi mới cần.»)"
+    },
+    {
+     "t": "para",
+     "text": "А волки поглядывают да раздумывают: «Ишь сколько наколотил нашей братии! Одних голов целый куль». (Còn lũ sói cứ liếc nhìn mà nghĩ ngợi: «Chà, nó đã hạ biết bao nhiêu là đồng loại nhà mình! Riêng đầu lâu thôi cũng đầy cả một bao.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Нет ли у вас, братцы, — спрашивает козел, — в чем нам ужин изготовить?» («Các bác này, — dê hỏi, — các bác có cái gì để bọn tôi nấu bữa tối không?»)"
+    },
+    {
+     "t": "para",
+     "text": "Тут волки повскакали и побежали кто за дровами, кто за водою, кто за посудою, а у самих на уме — как бы уйти подобру-поздорову. (Thế là lũ sói bật dậy chạy tán loạn, con đi kiếm củi, con đi múc nước, con đi tìm nồi niêu, nhưng bụng dạ chúng chỉ nghĩ một điều — làm sao chuồn cho êm thấm trót lọt.)"
+    },
+    {
+     "t": "para",
+     "text": "Бегут, а навстречу им медведь. (Đang chạy thì gặp ngay con gấu đi ngược lại.)"
+    },
+    {
+     "t": "para",
+     "text": "«Куда вы, серые волки?» («Lũ sói xám chúng bay chạy đi đâu thế?»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Ах, Михайло Иванович! Ты не знаешь нашего горя: пришли к нам козел да баран, принесли с собой целый куль волчьих голов, хотят студень варить; (— «Ối bác Mi-khai-lô I-va-nô-vích ơi! Bác chẳng biết nỗi khổ của bọn tôi đâu: dê với cừu mò đến chỗ bọn tôi, vác theo cả một bao đầu sói, định nấu món thịt đông;)"
+    },
+    {
+     "t": "para",
+     "text": "мы убоялись, чтоб они и до нас-то не добрались, и убежали». (bọn tôi sợ chúng mó đến cả mình nữa, nên bỏ chạy.»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Ах вы, дурачье! — сказал медведь. — Козел да баран сами к вам пришли, только бери да кушай; а вы убоялись! (— «Ôi cái lũ ngốc! — gấu nói. — Dê với cừu tự dẫn xác đến tận nơi, chỉ việc vồ lấy mà xơi; thế mà các chú lại đâm sợ!)"
+    },
+    {
+     "t": "para",
+     "text": "Пойдемте-ка со мною». — «Пойдем!» (Đi với ta nào.» — «Đi thì đi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Козел и баран увидали, что волки назад идут, засуетились, забегали. (Dê với cừu thấy lũ sói quay trở lại thì cuống quýt, chạy quanh rối rít.)"
+    },
+    {
+     "t": "para",
+     "text": "Козел взобрался на дерево, изловчился и уселся, (Dê trèo lên cây, xoay xở mãi rồi cũng ngồi yên được,)"
+    },
+    {
+     "t": "para",
+     "text": "а баран лез, лез, никак не может высоко подняться, ухватился кое-как за сук передними ногами и повис на нем. (còn cừu trèo mãi trèo hoài chẳng sao lên cao được, đành quờ quạng bám lấy một cành bằng hai chân trước mà đu lủng lẳng.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот пришел и медведь с волками, смотрит: куда бы девались козел да баран? Нигде не видать. (Gấu cùng bầy sói kéo tới, ngó quanh: dê với cừu biến đi đâu mất rồi? Chẳng thấy bóng dáng đâu cả.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ну, братцы, — сказал медведь волкам, — собирайте желудей, стану ворожить: куда запропастился козел с бараном?» («Nào các chú, — gấu bảo lũ sói, — đi nhặt hạt sồi về đây, để ta bói một quẻ: dê với cừu lủi đi đằng nào rồi?»)"
+    },
+    {
+     "t": "para",
+     "text": "Волки набрали желудей; а медведь сел под дерево, стал выкидывать желудями и ворожить, как бабы на бобах гадают. (Lũ sói nhặt hạt sồi về; gấu ngồi xuống dưới gốc cây, gieo hạt sồi ra mà bói, y như mấy bà nhà quê gieo hạt đậu xem bói vậy.)"
+    },
+    {
+     "t": "para",
+     "text": "Баран говорит козлу: «Ах, козел, упаду; мочи нет — ногам больно!» (Cừu bảo dê: «Ối dê ơi, tôi rơi mất; chịu hết nổi rồi — chân đau quá!»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Держись, — отвечает козел, — а то ни за грош пропадем; они заедят нас!» (— «Bám chắc vào, — dê đáp, — không thì toi mạng cả lũ một cách vô ích; chúng xé xác mình ra mất!»)"
+    },
+    {
+     "t": "para",
+     "text": "Баран крепился-крепился, да как повалится наземь! (Cừu gắng gượng mãi gắng gượng hoài, rồi bất thần rơi đánh phịch xuống đất!)"
+    },
+    {
+     "t": "para",
+     "text": "Козел видит беду неминучую, выстрелил в ту ж минуту из ружья и закричал во всю глотку: «Хватай ворожею-то, держи его!» (Dê thấy tai họa không sao tránh khỏi, lập tức nổ luôn một phát súng rồi gân cổ gào lên: «Tóm lấy thằng thầy bói, giữ chặt nó lại!»)"
+    },
+    {
+     "t": "para",
+     "text": "Медведь испугался, как бросится бежать без оглядки, а волки за ним. (Gấu hoảng hồn, vùng dậy chạy thục mạng không dám ngoái lại, lũ sói cũng chạy theo sau.)"
+    },
+    {
+     "t": "para",
+     "text": "Так все и разбежались. (Thế là cả bọn chạy tán loạn hết.)"
+    },
+    {
+     "t": "para",
+     "text": "Тогда козел слез с дерева и не захотел оставаться в лесу. (Bấy giờ dê mới tụt khỏi cây, chẳng muốn ở lại trong rừng nữa.)"
+    },
+    {
+     "t": "para",
+     "text": "Воротился он вместе с бараном домой, и стали себе жить-поживать да лиха избывать. (Nó cùng cừu trở về nhà, rồi sống yên ổn với nhau, thoát khỏi mọi tai ương.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "студень",
+     "vi": "món thịt đông (nấu từ đầu/chân thú rồi để đông lại)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "куль",
+     "vi": "cái bao tải lớn (đựng đồ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "иззябнуть",
+     "vi": "rét cóng cả người (từ cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "пожива",
+     "vi": "miếng mồi, món hời kiếm chác được",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "себе на уме",
+     "vi": "bụng có tính toán riêng, khôn ngầm (thành ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "реветь",
+     "vi": "kêu rống, gào ầm lên (gia súc kêu)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кнут",
+     "vi": "roi da (để quất gia súc)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "испод",
+     "vi": "đáy, mặt dưới (на самом исподе = tít dưới đáy)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ворожить",
+     "vi": "bói toán, gieo quẻ làm phép",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ворожея",
+     "vi": "thầy bói, kẻ làm phép bói (ở đây trỏ con gấu)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "неминучий",
+     "vi": "không sao tránh khỏi (từ cổ; неминучая беда)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "лихо",
+     "vi": "tai ương, điều dữ (лиха избывать = thoát khỏi tai ương)",
+     "g": null
+    }
+   ]
+  },
+  {
+   "id": "skazki1-022-s004",
+   "type": "story",
+   "num": 47,
+   "title": "№ 47 · Напуганные медведь и волки — Gấu và bầy sói khiếp vía",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Dị bản thứ tư, khép lại nhóm bốn truyện: cừu đực và dê đực hay đi hoang nghe lỏm được ông bà chủ định làm thịt mình bèn trốn vào rừng. Bên đống lửa, đôi bạn lần lượt dọa ba con gấu bằng màn «sai nhau đi giết gấu làm bữa tối», khiến từng con kiếm cớ chuồn thẳng. Mưu mẹo lại thắng sức mạnh; cuối cùng cả hai trở về nhà, được tha mạng và hóa ra hiền lành ngoan ngoãn."
+    },
+    {
+     "t": "para",
+     "text": "Жили старик да старуха, у них были баран да козел, только такие блудливые: (Ngày xưa có ông lão với bà lão, nhà nuôi một con cừu đực và một con dê đực, ngặt nỗi chúng hay đi hoang:)"
+    },
+    {
+     "t": "para",
+     "text": "совсем от стада отбились, бегают себе по сторонам — ищи где хочешь. (lạc hẳn khỏi đàn, cứ chạy rông khắp nơi — có mà tìm đằng trời.)"
+    },
+    {
+     "t": "para",
+     "text": "«Знаешь что, старуха, — говорит старик, — давай заколем козла и барана, а то они с жиру бесятся! («Bà nó này, — ông lão bảo, — hay ta chọc tiết con dê với con cừu đi, chứ chúng béo quá hóa rửng mỡ rồi!)"
+    },
+    {
+     "t": "para",
+     "text": "Пожалуй, туда забегут, что и не найдешь; все равно пропадут даром». (Khéo chúng chạy đi đâu mất hút, có tìm cũng chẳng thấy; đằng nào rồi cũng toi công vô ích.»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Ну что ж? Заколем». (— «Thì sao nào? Chọc tiết thì chọc tiết.»)"
+    },
+    {
+     "t": "para",
+     "text": "А баран с козлом стояли под окошком, подслушали эти речи и убежали в густой-густой лес. (Mà cừu với dê đang đứng ngay dưới cửa sổ, nghe lỏm được hết những lời ấy, liền bỏ trốn vào khu rừng rậm rạp âm u.)"
+    },
+    {
+     "t": "para",
+     "text": "Прибежали и говорят: «Надо развести теперь огонь, а то холодно будет; вишь какая роса холодная». (Chạy đến nơi, chúng bảo nhau: «Giờ phải nhóm lửa lên thôi, không thì rét lắm; coi kìa, sương xuống lạnh buốt cả người.»)"
+    },
+    {
+     "t": "para",
+     "text": "Стали они таскать хворосту; набрали целую кучу. Надо огню добыть. (Chúng bèn đi tha củi khô về; gom được cả một đống lớn. Giờ phải kiếm cho ra lửa.)"
+    },
+    {
+     "t": "para",
+     "text": "Недалеко мужики жгли уголья. (Cách đó không xa có mấy bác nông dân đang đốt than.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот козел с бараном утащили у них головешку, развели огонь и сели греться. (Dê với cừu bèn thó của họ một thanh củi cháy dở, nhóm lửa lên rồi ngồi xuống sưởi ấm.)"
+    },
+    {
+     "t": "para",
+     "text": "Вдруг прибежали три медведя и уселись около костра. (Bỗng đâu ba con gấu chạy tới, ngồi phịch xuống quanh đống lửa.)"
+    },
+    {
+     "t": "para",
+     "text": "Что делать! (Biết làm sao bây giờ!)"
+    },
+    {
+     "t": "para",
+     "text": "Козел стал спрашивать: «Что, баран, есть хочешь?» — «Хочу». (Dê bèn lên tiếng hỏi: «Sao, cừu này, mày đói bụng không?» — «Đói chứ.»)"
+    },
+    {
+     "t": "para",
+     "text": "— «А что, ружье у тебя заряжено?» — «Заряжено». (— «Thế súng mày nạp đạn chưa?» — «Nạp rồi.»)"
+    },
+    {
+     "t": "para",
+     "text": "— «А топор востёр?» — «Востёр». (— «Còn rìu có sắc không?» — «Sắc lắm.»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Ну поди, добывай на ужин». (— «Vậy thì đi đi, kiếm cái gì về ăn tối.»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Нет, брат козел, я сейчас только пришел; не пойду». (— «Thôi, anh dê ơi, tôi vừa mới tới đây; tôi chả đi đâu.»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Неужто ж нам голодным спать? Ступай убей вот этого медведя; мы их не звали, они сами к нам пришли! Зажарим да поужинаем». (— «Chẳng lẽ ta nhịn đói mà ngủ? Đi giết ngay con gấu kia cho tôi; có ai mời chúng đâu, tự chúng dẫn xác đến đấy chứ! Quay lên mà đánh chén bữa tối.»)"
+    },
+    {
+     "t": "para",
+     "text": "Медведь оробел и говорит: «Ах, братцы — козел и баран! Где станете меня жарить? Вишь у вас какой малый огонь! (Gấu đâm hoảng, bèn nói: «Ấy, hai bác dê với cừu ơi! Các bác lấy đâu chỗ mà quay tôi cho chín? Coi kìa, lửa các bác bé tí teo thế kia!)"
+    },
+    {
+     "t": "para",
+     "text": "Пустите меня, я наломаю вам дров, разведу побольше костер, тогда убейте меня и жарьте». (Thả tôi ra, tôi sẽ bẻ củi về cho các bác, nhóm một đống lửa thật to, lúc ấy hẵng giết tôi mà quay.»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Хорошо, ступай за дровами». (— «Được, đi kiếm củi đi.»)"
+    },
+    {
+     "t": "para",
+     "text": "Медведь вскочил и давай бог ноги. (Gấu bật dậy, ba chân bốn cẳng chạy biến.)"
+    },
+    {
+     "t": "para",
+     "text": "«Кто себе враг! — думает он про себя. — Ни за что не ворочусь назад». («Đời nào lại tự rước họa vào thân! — gấu nghĩ bụng. — Có cho vàng cũng chẳng quay lại.»)"
+    },
+    {
+     "t": "para",
+     "text": "Другой медведь видит, что посланный за дровами не ворочается, и взяло его раздумье: пожалуй, они за меня теперь примутся. (Con gấu thứ hai thấy đứa được sai đi kiếm củi mãi chẳng về, đâm phân vân nghĩ ngợi: khéo bây giờ chúng quay sang xử đến lượt mình mất.)"
+    },
+    {
+     "t": "para",
+     "text": "«Пойду, — говорит, — помогу тому медведю, верно он так много наломал, что и притащить не в силу». («Để tôi, — nó nói, — đi giúp con gấu kia một tay, chắc nó bẻ nhiều củi quá nên một mình tha không xuể.»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Ну ступай, помоги». (— «Ừ thì đi mà giúp.»)"
+    },
+    {
+     "t": "para",
+     "text": "Вот и другой медведь убежал; остался еще один. (Thế là con gấu thứ hai cũng chạy mất; chỉ còn lại một con.)"
+    },
+    {
+     "t": "para",
+     "text": "Козел обождал немножко и говорит: «Ну, брат медведь, приходится тебя бить. Сам видишь, очередные-то ушли!» (Dê chờ một lát rồi bảo: «Nào, anh gấu, đành phải làm thịt anh thôi. Tự anh thấy đấy, mấy đứa đến lượt trước đã đi cả rồi!»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Ах, братцы, на чем же станете меня жарить? Огню-то вовсе нет. Лучше пойду я да погоню очередных назад». (— «Ấy hai bác, lấy gì mà quay tôi cho được? Lửa thì chẳng còn tí nào. Chi bằng để tôi đi lùa mấy đứa đến lượt kia quay về.»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Да и ты, пожалуй, не воротишься?» (— «Hay là mày cũng chẳng thèm quay lại nốt?»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Ну, право, ворочусь, да и тех с собой приведу!» (— «Ấy, thật mà, tôi quay lại ngay, lại còn lôi cả mấy đứa kia về cùng!»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Ступай, да поскорей приходи; не умирать же нам с голоду. Коли сам за вами пойду — всем худо будет». (— «Đi đi, mà về cho mau; chẳng lẽ để bọn ta chết đói à. Để ta phải đích thân đi lùa chúng bay — thì cả lũ đừng hòng yên thân.»)"
+    },
+    {
+     "t": "para",
+     "text": "И последний медведь со всех ног пустился бежать и убежал далеко-далеко. (Thế là con gấu cuối cùng cũng cắm cổ chạy hết tốc lực, chạy mãi tít tận đâu đâu.)"
+    },
+    {
+     "t": "para",
+     "text": "«Славно, брат, надули! — говорит козел. — Только, вишь, здесь надо каждого шороху бояться. Пойдем-ка домой, заодно пропадать, а может, старик-то и сжалится». («Cừ thật, anh em mình lừa khéo ghê! — dê nói. — Có điều, ở đây hễ nghe tiếng sột soạt nào cũng phải nơm nớp. Thôi ta về nhà đi, có chết thì chết một thể, mà biết đâu ông lão lại động lòng thương.»)"
+    },
+    {
+     "t": "para",
+     "text": "Вот и воротились домой. (Thế là chúng quay về nhà.)"
+    },
+    {
+     "t": "para",
+     "text": "Старик обрадовался: «Накорми-ка их!» — говорит старухе. (Ông lão mừng rỡ: «Cho chúng ăn đi!» — ông bảo bà lão.)"
+    },
+    {
+     "t": "para",
+     "text": "Козел и баран зачали ласкаться; старухе жалко их стало. (Dê với cừu xán lại làm nũng vuốt ve; bà lão đâm ra thương chúng.)"
+    },
+    {
+     "t": "para",
+     "text": "Она и говорит старику: «Неужто нам есть нечего! Не станем колоть козла и барана, пусть еще поживут!» (Bà bèn bảo ông lão: «Chẳng lẽ nhà mình hết cả cái ăn rồi sao! Đừng chọc tiết con dê với con cừu nữa, để chúng sống thêm ít lâu!»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Ну, ладно!» — сказал мужик. (— «Thôi, được!» — ông lão nói.)"
+    },
+    {
+     "t": "para",
+     "text": "Стали они жить себе, поживать да добра наживать; а козел с бараном баловство свое совсем оставили, сделались смирными да послушными. (Thế rồi cả nhà sống yên vui với nhau, làm ăn ngày một khấm khá; còn dê với cừu thì bỏ hẳn thói nghịch ngợm hư đốn, trở nên hiền lành ngoan ngoãn.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "блудливый",
+     "vi": "hay đi hoang, hay lạc đàn chạy rông (phương ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "с жиру беситься",
+     "vi": "béo quá sinh hư, rửng mỡ (thành ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "роса",
+     "vi": "sương (đọng trên cỏ cây)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "уголья",
+     "vi": "than củi (dạng cổ/số nhiều của уголь)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "головешка",
+     "vi": "thanh củi đang cháy dở",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "востёр",
+     "vi": "sắc (dạng cổ/khẩu ngữ của острый)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "неужто",
+     "vi": "chẳng lẽ, lẽ nào (khẩu ngữ/cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "оробеть",
+     "vi": "đâm sợ, khiếp vía, rụt rè lại",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "очередной",
+     "vi": "đến lượt, kế tiếp theo thứ tự",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "шорох",
+     "vi": "tiếng sột soạt khẽ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ласкаться",
+     "vi": "làm nũng, cọ mình âu yếm (để lấy lòng)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "баловство",
+     "vi": "thói nghịch ngợm, hư đốn",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

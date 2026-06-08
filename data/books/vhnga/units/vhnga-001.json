@@ -1,0 +1,127 @@
+{
+ "id": "vhnga-001",
+ "num": 1,
+ "title": "«Я вас любил…» — Tôi đã yêu em (Pushkin)",
+ "vi": "«Я вас любил…» — Tôi đã yêu em (Pushkin)",
+ "ru": "Я вас любил…",
+ "icon": "🕊️",
+ "color": "#9333ea",
+ "sectionPrefix": "vhnga-001-s",
+ "group": "Александр Пушкин · Thơ",
+ "sections": [
+  {
+   "id": "vhnga-001-s001",
+   "type": "story",
+   "num": 1,
+   "title": "«Я вас любил…» — “Tôi đã yêu em…” (A. Pushkin, 1829)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Một trong những bài thơ tình nổi tiếng nhất của văn học Nga — A.X. Puskin (Александр Сергеевич Пушкин, 1799–1837). Giọng điệu cao thượng: yêu mà vẫn chúc người mình yêu được hạnh phúc."
+    },
+    {
+     "t": "para",
+     "text": "Я вас любил: любовь ещё, быть может, (Tôi đã yêu em: tình yêu, biết đâu chừng,)"
+    },
+    {
+     "t": "para",
+     "text": "В душе́ мое́й уга́сла не совсе́м; (Trong hồn tôi vẫn chưa lụi tắt hẳn;)"
+    },
+    {
+     "t": "para",
+     "text": "Но пусть она́ вас бо́льше не трево́жит; (Nhưng thôi, đừng để nó quấy rầy em thêm nữa;)"
+    },
+    {
+     "t": "para",
+     "text": "Я не хочу́ печа́лить вас ниче́м. (Tôi chẳng muốn em buồn vì bất cứ điều gì.)"
+    },
+    {
+     "t": "para",
+     "text": "Я вас люби́л безмо́лвно, безнаде́жно, (Tôi đã yêu em lặng thầm, vô vọng,)"
+    },
+    {
+     "t": "para",
+     "text": "То ро́бостью, то ре́вностью томи́м; (Khi rụt rè, khi bị nỗi ghen giày vò;)"
+    },
+    {
+     "t": "para",
+     "text": "Я вас люби́л так и́скренно, так не́жно, (Tôi đã yêu em chân thành đến thế, dịu dàng đến thế,)"
+    },
+    {
+     "t": "para",
+     "text": "Как дай вам бог люби́мой быть други́м. (Cầu trời cho em được người khác yêu thương cũng đến nhường ấy.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó"
+    },
+    {
+     "t": "vocab",
+     "ru": "люби́ть",
+     "vi": "yêu",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "душа́",
+     "vi": "tâm hồn",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "уга́снуть",
+     "vi": "lụi tắt, tàn lụi",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "трево́жить",
+     "vi": "làm bận lòng, quấy rầy",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "печа́лить",
+     "vi": "làm buồn",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "безмо́лвно",
+     "vi": "lặng thầm, không lời",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "безнаде́жно",
+     "vi": "vô vọng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ро́бость",
+     "vi": "sự rụt rè",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ре́вность",
+     "vi": "sự ghen tuông",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "и́скренно",
+     "vi": "chân thành",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "не́жно",
+     "vi": "dịu dàng",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

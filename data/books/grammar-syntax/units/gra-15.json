@@ -1,0 +1,681 @@
+{
+ "id": "gra-15",
+ "num": 15,
+ "title": "Cách diễn đạt vị ngữ và vị thể",
+ "vi": "Cách diễn đạt vị ngữ và vị thể",
+ "ru": "Способы выражения сказуемого и предиката",
+ "icon": "🧩",
+ "color": "#8b5cf6",
+ "sectionPrefix": "gra-15-s",
+ "group": "Раздел 2 · Câu đơn (Простое предложение)",
+ "sections": [
+  {
+   "id": "gra-15-s001",
+   "type": "grammar",
+   "title": "VỊ NGỮ ĐỘNG TỪ (Глагольное сказуемое) — Lý thuyết",
+   "num": null,
+   "blocks": [
+    {
+     "t": "subhead",
+     "text": "1. Vị ngữ động từ ĐƠN (простое глагольное сказуемое) được diễn đạt bằng:"
+    },
+    {
+     "t": "para",
+     "text": "а) Dạng động từ ở mọi thức, thời và ngôi: Я жду госте́й (Tôi đang đợi khách); Принеси́те мне, пожа́луйста, па́пку (Làm ơn mang cho tôi cái cặp tài liệu); Ты бы вы́слушал меня́ внима́тельно (Giá cậu chịu nghe tôi cho chăm chú) — vị ngữ động từ HỢP DẠNG (согласо́ванное)."
+    },
+    {
+     "t": "para",
+     "text": "б) Động từ nguyên thể với nghĩa hành động bắt đầu mạnh mẽ: Тебе́ на́до бы́ло его́ снача́ла вы́слушать, а ты сра́зу руга́ться (Lẽ ra cậu phải nghe anh ấy nói đã, đằng này cậu mắng luôn); Так ты со мной шу́тки шути́ть?! (Vậy ra cậu định giễu cợt tôi đấy à?!); thán từ động từ: Он прыг в трамва́й и уе́хал (Anh ta nhảy tót lên tàu điện rồi đi mất); thức mệnh lệnh với nghĩa điều kiện, nhượng bộ, mong ước hoặc bắt buộc: Приди́ он сейча́с, мы бы не удиви́лись (Giả như anh ta đến ngay bây giờ, chúng tôi cũng chẳng ngạc nhiên); Будь он ге́ний, и э́то бы ему́ не помогло́ (Dù anh ta có là thiên tài thì điều đó cũng chẳng cứu được anh ta); Спаси́ вас Бог! (Cầu Chúa phù hộ anh!); Вы испо́ртили всё, а мне за вас отвеча́й (Các người làm hỏng hết, còn tôi thì cứ phải chịu trách nhiệm thay) — vị ngữ động từ KHÔNG HỢP DẠNG (несогласо́ванное). Các cấu trúc này được xét kỹ trong phần «Câu phức»."
+    },
+    {
+     "t": "para",
+     "text": "в) Tổ hợp: 1) hai động từ cùng dạng, có hoặc không có tiểu từ: Пойду́ погуля́ю (Tôi đi dạo cái đã); Сядь и расскажи́ всё по поря́дку (Ngồi xuống kể đầu đuôi xem nào); Он взял (да) и ушёл (Anh ta đùng một cái bỏ đi); Ждём не дождёмся ва́шего прие́зда (Chúng tôi mong anh đến dài cả cổ — lối nói mỉa mai: thật ra chẳng mong); 2) nguyên thể + dạng chia ngôi của chính động từ đó: Знать ничего́ не зна́ю (Tôi hoàn toàn không biết gì hết); Де́лать ничего́ не де́лают и други́м меша́ют (Làm thì chẳng làm gì mà còn cản trở người khác); 3) lặp lại cùng một dạng vị ngữ, có hoặc không có tiểu từ: Мы шли, шли и наконе́ц дошли́ (Chúng tôi đi mãi đi mãi rồi cuối cùng cũng đến); Сказа́л так сказа́л, как отре́зал (Đã nói là nói thẳng băng, như đinh đóng cột); 4) lối nói то́лько и де́лаю (де́лаешь…), что + động từ cùng dạng: Вы то́лько и де́лаете, что разгова́риваете (Các cậu chỉ có mỗi việc tán chuyện); 5) động từ + tiểu từ знай (себе́) với nghĩa phớt lờ, kháng cự thụ động: Он знай себе́ посме́ивается (Anh ta cứ tỉnh bơ cười khẩy) — vị ngữ động từ PHỨC HOÁ (осложнённое)."
+    },
+    {
+     "t": "para",
+     "text": "г) Cụm thành ngữ: Он вы́шел из себя́ (Anh ta nổi cáu); Мы заде́ли его́ за живо́е (Chúng tôi chạm vào nỗi đau của anh ấy); Я не пляшу́ под чужу́ю ду́дку (Tôi không nhảy theo điệu sáo của người khác); Он ещё не вы́жил из ума́ (Ông ấy chưa đến nỗi lú lẫn)."
+    },
+    {
+     "t": "subhead",
+     "text": "2. Vị ngữ động từ GHÉP (составное глагольное сказуемое) = động từ nguyên thể + thành tố đứng trước:"
+    },
+    {
+     "t": "para",
+     "text": "а) Trợ động từ chỉ sự bắt đầu, tiếp diễn hoặc kết thúc hành động: Он на́чал расска́зывать (Anh ấy bắt đầu kể); Мы ста́ли ждать (Chúng tôi bắt đầu đợi); Я продолжа́л чита́ть (Tôi tiếp tục đọc); Они́ зако́нчили рабо́тать (Họ đã làm xong); Он бро́сил кури́ть (Anh ấy bỏ thuốc lá); Мы переста́ли с ним ви́деться (Chúng tôi thôi không gặp anh ta nữa)."
+    },
+    {
+     "t": "para",
+     "text": "б) Động từ tình thái хоте́ть/захоте́ть, жела́ть/пожела́ть, мочь/смочь, пыта́ться/попыта́ться, стара́ться/постара́ться, отка́зываться/отказа́ться, наде́яться, боя́ться…: Я хочу́ спроси́ть (Tôi muốn hỏi); Мы пыта́лись найти́ доро́гу (Chúng tôi cố tìm đường); Он отказа́лся нам помога́ть (Anh ta từ chối giúp chúng tôi); Мы наде́ялись спра́виться с э́тим са́ми (Chúng tôi hy vọng tự xoay xở được); Я боя́лся опозда́ть (Tôi sợ đến muộn)."
+    },
+    {
+     "t": "para",
+     "text": "в) Tính từ ngắn đuôi và phân từ ngắn đuôi до́лжен, рад, наме́рен, спосо́бен, гото́в, скло́нен…: Я до́лжен идти́ (Tôi phải đi); Мы ра́ды вас ви́деть (Chúng tôi mừng được gặp anh); Я наме́рен продо́лжить э́то де́ло (Tôi định tiếp tục việc này); Они́ не спосо́бны поня́ть (Họ không có khả năng hiểu); Мы гото́вы вас вы́слушать (Chúng tôi sẵn sàng nghe anh nói); Я скло́нен ему́ пове́рить (Tôi thiên về phía tin anh ấy)."
+    },
+    {
+     "t": "para",
+     "text": "г) Trạng từ chỉ trạng thái: Мне сты́дно говори́ть об э́том (Tôi xấu hổ khi nói chuyện này); Ему́ оби́дно слу́шать э́то (Anh ấy tủi thân khi nghe điều đó); Ей бо́льно ходи́ть (Cô ấy đi lại thấy đau); Пожилы́м лю́дям поле́зно дви́гаться (Người cao tuổi vận động thì có ích)."
+    },
+    {
+     "t": "para",
+     "text": "д) Cụm thành ngữ: Я горе́л жела́нием нача́ть рабо́ту (Tôi cháy bỏng mong muốn bắt tay vào việc); Мы не име́ли наме́рения вреди́ть вам (Chúng tôi không hề có ý định hại anh); Он дал согла́сие встре́титься с на́ми (Anh ấy đã đồng ý gặp chúng tôi)."
+    }
+   ]
+  },
+  {
+   "id": "gra-15-s002",
+   "type": "exercise",
+   "title": "Упражнение 214",
+   "num": 214,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Đọc các câu (trong phần lý thuyết trên). Chú ý các từ và cụm từ diễn đạt vị ngữ (сказуемое) và vị thể (предикат) trong câu. Xác định sự khác nhau trong cách diễn đạt chúng."
+    },
+    {
+     "t": "para",
+     "text": "So sánh hai kiểu chính: vị ngữ động từ ĐƠN (kể cả dạng phức hoá và thành ngữ) — toàn bộ nghĩa từ vựng lẫn ngữ pháp nằm trong một dạng động từ; và vị ngữ động từ GHÉP — nghĩa ngữ pháp nằm ở thành tố phụ trợ (trợ động từ, từ tình thái, tính từ ngắn đuôi, trạng từ trạng thái, thành ngữ), còn nghĩa từ vựng chính nằm ở động từ nguyên thể."
+    }
+   ]
+  },
+  {
+   "id": "gra-15-s003",
+   "type": "exercise",
+   "title": "Упражнение 215",
+   "num": 215,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Tách vị ngữ động từ ghép trong các câu và thay chúng bằng cấu trúc với động từ nguyên thể thể chưa hoàn thành (НСВ). Xác định các cấu trúc này mang thêm nghĩa bổ sung gì. Sau đó thêm vào các câu có cấu trúc nguyên thể tiểu từ ну hoặc trạng từ сра́зу cho hợp nghĩa."
+    },
+    {
+     "t": "note",
+     "text": "Trong khẩu ngữ thường dùng cấu trúc với nguyên thể thể chưa hoàn thành thay cho dạng chia ngôi của động từ — đó là biến thể rút gọn của vị ngữ ghép với các động từ нача́ть, поле́зть, взду́мать…: Она́ (начала́) руга́ться (Cô ta (bắt đầu) mắng nhiếc); Он (поле́з) дра́ться (Hắn (xông vào) đánh nhau); Так ты (взду́мал) шу́тки шути́ть?! (Vậy ra cậu (giở trò) đùa cợt đấy à?!)."
+    },
+    {
+     "t": "note",
+     "text": "Nguyên thể ở vị trí vị ngữ chỉ cường độ hành động quá cao: Они́ ну спо́рить! (Họ cứ thế lao vào cãi nhau!) hoặc tính bất ngờ đối với người nói: Не успе́ли мы войти́, он сра́зу руга́ться (Chúng tôi chưa kịp bước vào, anh ta đã mắng luôn). Ở vị trí này chỉ dùng những động từ có thể diễn đạt hành động ở mức độ nhiều hay ít."
+    },
+    {
+     "t": "para",
+     "text": "1. Мы удиви́лись его́ прихо́ду, а он ки́нулся обнима́ться, как бу́дто ничего́ не произошло́ (Chúng tôi ngạc nhiên khi anh ta đến, còn anh ta thì lao vào ôm hôn như chưa hề có chuyện gì); 2. Мы его́ ещё не успе́ли ни в чём обвини́ть, а он на́чал защища́ться (Chúng tôi còn chưa kịp buộc tội gì, anh ta đã bắt đầu chống chế); 3. Она́ начала́ пла́кать, мы ничего́ не успе́ли сказа́ть (Cô ấy oà khóc, chúng tôi chưa kịp nói gì); 4. Он взду́мал крича́ть на нас, руга́ться, да́же ного́й то́пнул (Hắn giở trò quát tháo, chửi mắng chúng tôi, thậm chí còn giậm chân); 5. На́до бы́ло во всём разобра́ться, а они́ реши́ли бунтова́ть (Lẽ ra phải tìm hiểu rõ mọi chuyện, đằng này họ lại quyết định nổi loạn); 6. Не успе́л я войти́, она́ начала́ хохота́ть (Tôi chưa kịp bước vào, cô ấy đã cười phá lên); 7. Соба́ка должна́ показа́ть зу́бы и́ли зала́ять, а э́тот на́чал куса́ться, да́же не предупреди́в (Con chó đáng lẽ phải nhe răng hoặc sủa trước, đằng này con này cắn luôn, chẳng thèm báo trước); 8. Мы ещё не зако́нчили говори́ть, а он стал возража́ть нам (Chúng tôi nói chưa xong, anh ta đã bắt đầu phản bác); 9. Да́же не вы́слушав нас до конца́, она́ начала́ спо́рить (Thậm chí chưa nghe chúng tôi nói hết, cô ấy đã bắt đầu cãi); 10. Мы не успе́ли ничего́ объясни́ть, а он принялся́ осужда́ть нас (Chúng tôi chưa kịp giải thích gì, anh ta đã quay ra chỉ trích chúng tôi); 11. На́до бы́ло снача́ла попро́бовать поня́ть челове́ка, а ты на́чал издева́ться над ним (Lẽ ra trước hết phải thử hiểu người ta, đằng này cậu lại đi nhạo báng anh ấy); 12. Мы про́бовали объясни́ть, почему́ не мо́жем ниче́м помо́чь, а граждани́н стал возмуща́ться (Chúng tôi cố giải thích vì sao không thể giúp gì, thế mà ông khách bắt đầu phẫn nộ); 13. Я шёл по у́лице и его́ не тро́гал, а он поле́з дра́ться (Tôi đang đi trên phố, chẳng động gì đến hắn, thế mà hắn xông vào đánh)."
+    }
+   ]
+  },
+  {
+   "id": "gra-15-s004",
+   "type": "exercise",
+   "title": "Упражнение 216",
+   "num": 216,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Đọc các câu. Xác định các thán từ động từ (глаго́льные междоме́тия) trong câu được dùng với nghĩa gì và được tạo thành từ những từ nào. Với các thán từ đó, hãy tự đặt câu."
+    },
+    {
+     "t": "note",
+     "text": "Thán từ động từ được dùng trong khẩu ngữ như «bản sao» của dạng chia ngôi động từ, để truyền đạt tính bất ngờ, không có chuẩn bị của hành động."
+    },
+    {
+     "t": "para",
+     "text": "1. Кот прыг на де́рево и зати́х (Con mèo phóc lên cây rồi im bặt); 2. Цыц, что́бы я тебя́ бо́льше не слы́шал! (Im ngay, để tao khỏi phải nghe thấy mày nữa!); 3. Мышь шмыг ми́мо меня́ в но́рку (Con chuột vụt qua tôi chui tọt vào hang); 4. Я не растеря́лся и хвать его́ за воротни́к (Tôi không luống cuống, tóm ngay lấy cổ áo hắn); 5. Т-с-с! Кто́-то идёт (Suỵt! Có ai đang đến); 6. Карау́л! Спаса́йся, кто мо́жет! (Cứu với! Ai chạy được thì chạy!); 7. Чур не обма́нывать, игра́ем по-че́стному (Giao hẹn không ăn gian nhé, chơi cho trung thực); 8. Бой был в са́мом разга́ре: пу́шки бах, сра́зу за ни́ми автома́тные о́череди: трах-тах-тах! (Trận đánh đang hồi ác liệt: đại bác oành, liền sau đó là những loạt tiểu liên: pằng-pằng-pằng!); 9. Марш отсю́да! (Bước ngay khỏi đây!); 10. Т-с-с! Слу́шайте внима́тельно (Suỵt! Nghe cho kỹ); 11. Поко́я от э́тих птиц нет. Кыш! Улета́йте отсю́да! (Lũ chim này chẳng để yên chút nào. Suỳ! Bay đi chỗ khác!)."
+    }
+   ]
+  },
+  {
+   "id": "gra-15-s005",
+   "type": "exercise",
+   "title": "Упражнение 217",
+   "num": 217,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Mở ngoặc, đặt các động từ ở dạng chia ngôi, có hoặc không có liên từ nối и. Giải thích lựa chọn, nêu các phương án."
+    },
+    {
+     "t": "note",
+     "text": "Trong khẩu ngữ, vị ngữ được diễn đạt bằng hai động từ cùng một dạng với nghĩa 'bỏ công sức ra và làm việc gì đó' (động từ thứ nhất có thể lược bỏ): пошёл погуля́л, возьму́ почита́ю. Giữa hai động từ có thể có liên từ и để diễn đạt sự làm ngược lại: Ты говори́шь, что я всё вре́мя до́ма сижу́, а я сего́дня пошёл и погуля́л (Cậu bảo tôi suốt ngày ru rú ở nhà, thế mà hôm nay tôi đã đi dạo hẳn hoi đấy)."
+    },
+    {
+     "t": "note",
+     "text": "Nếu các hành động do hai động từ diễn đạt KHÔNG xảy ra đồng thời thì chỉ dùng với liên từ и: Не беспоко́йся: он поду́мает и отве́тит (Đừng lo: anh ấy sẽ suy nghĩ rồi trả lời)."
+    },
+    {
+     "t": "para",
+     "text": "1. (Подгото́вить, отпра́вить) э́ти докуме́нты сего́дня, не заде́рживай их (Hãy chuẩn bị và gửi các giấy tờ này ngay hôm nay, đừng ngâm chúng lại); 2. (Написа́ть, предупреди́ть) его́ об опа́сности (Hãy viết thư báo trước cho anh ấy về mối nguy hiểm); 3. Не волну́йся, за́втра я (позвони́ть, поблагодари́ть) его́ (Đừng lo, mai tôi sẽ gọi điện cảm ơn anh ấy); 4. Он (лечь, усну́ть) (Anh ấy nằm xuống và ngủ thiếp đi); 5. Я (прочита́ть, поня́ть), что хоте́л сказа́ть а́втор (Tôi đã đọc và hiểu được tác giả muốn nói gì); 6. Е́сли ты уста́л, (сади́ться, отдыха́ть) (Nếu mệt thì ngồi xuống nghỉ đi); 7. Кто́-то стучи́т, я (пойти́, откры́ть) дверь (Có ai gõ cửa, tôi đi mở đây); 8. Пожа́луйста, (поду́мать, реши́ть) э́ту зада́чу, ты мо́жешь э́то сде́лать (Hãy chịu khó suy nghĩ mà giải bài toán này, cậu làm được mà); 9. Страхово́й аге́нт (посмотре́ть, оцени́ть) уще́рб от пожа́ра (Nhân viên bảo hiểm sẽ xem xét và định giá thiệt hại do hoả hoạn); 10. Мы уже́ обо всём зна́ем, Андре́й (прийти́, сообщи́ть) нам э́ту но́вость (Chúng tôi biết hết cả rồi, Andrei đã đến báo tin này); 11. Он (встать, вы́йти) (Anh ấy đứng dậy và đi ra); 12. Она́ (прийти́, объясни́ть) нам всё, и мы с ней согласи́лись (Cô ấy đã đến giải thích mọi chuyện, và chúng tôi đồng ý với cô); 13. Я (вы́глянуть в окно́, заме́тить) не́сколько челове́к, бегу́щих ми́мо до́ма (Tôi nhìn ra cửa sổ và nhận thấy mấy người đang chạy qua nhà); 14. (Идти́, сде́лать) всё, как я проси́л (Đi làm mọi việc đúng như tôi đã dặn); 15. Я его́ не зна́ю, он про́сто (подойти́, спроси́ть), кото́рый час (Tôi không quen anh ta, anh ta chỉ lại gần hỏi mấy giờ thôi); 16. — Чем занима́ешься? — Ниче́м, (лежа́ть, чита́ть) кни́гу (— Đang làm gì đấy? — Chẳng làm gì, nằm đọc sách); 17. Я (пойти́, разогре́ть) обе́д, ско́ро де́ти приду́т (Tôi đi hâm lại bữa trưa đây, lũ trẻ sắp về rồi); 18. Каки́е тут мо́гут быть сло́жности? Вчера́ ве́чером я (взять, реши́ть) э́ту зада́чу (Khó khăn gì ở đây chứ? Tối qua tôi đã ngồi vào làm một mạch xong bài toán này); 19. Нам уже́ сообщи́ли об измене́нии расписа́ния, секрета́рь (позвони́ть, предупреди́ть) нас об э́том (Người ta đã báo cho chúng tôi về việc đổi lịch — cô thư ký đã gọi điện báo trước chuyện đó); 20. (Вы́йти из кла́сса, поду́мать) о своём поведе́нии! (Ra khỏi lớp mà suy nghĩ về thái độ của mình đi!)."
+    }
+   ]
+  },
+  {
+   "id": "gra-15-s006",
+   "type": "exercise",
+   "title": "Упражнение 218",
+   "num": 218,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Với các cụm thành ngữ cho sẵn, hãy đặt câu. Sau đó tra từ điển, chép vào vở thêm một số cụm thành ngữ có thể dùng làm vị ngữ động từ đơn và đặt câu với chúng."
+    },
+    {
+     "t": "para",
+     "text": "1) не ве́рить свои́м глаза́м (không tin vào mắt mình); 2) служи́ть ве́рой и пра́вдой (кому́? чему́?) (một lòng tận tuỵ phục vụ); 3) зайти́ в тупи́к (lâm vào ngõ cụt); 4) вы́вести на чи́стую во́ду (кого́?) (vạch trần, đưa ra ánh sáng); 5) верте́ться как бе́лка в колесе́ (xoay như chong chóng, tất bật suốt ngày); 6) жить свои́м умо́м (sống bằng đầu óc của chính mình); 7) лома́ть го́лову (над чем?) (vắt óc suy nghĩ); 8) пуска́ть пыль в глаза́ (кому́?) (loè bịp, tung hoả mù); 9) знать как свои́ пять па́льцев (кого́? что?) (biết rõ như lòng bàn tay); 10) откры́ть ду́шу (перед кем?) (trải lòng, thổ lộ tâm can); 11) име́ть го́лову на плеча́х (có cái đầu biết suy xét); 12) плыть по тече́нию (buông xuôi theo dòng); 13) потеря́ть го́лову (и́з-за кого́? чего́?) (mất trí, mê muội vì ai/điều gì)."
+    }
+   ]
+  },
+  {
+   "id": "gra-15-s007",
+   "type": "exercise",
+   "title": "Упражнение 219",
+   "num": 219,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Mở ngoặc, dùng các động từ hoặc như tổ hợp hai dạng chia ngôi, hoặc như vị ngữ động từ ghép với nguyên thể."
+    },
+    {
+     "t": "note",
+     "text": "Khi dùng hai động từ cùng dạng, động từ thứ nhất là trợ động từ và có thể bỏ đi mà không hại đến nghĩa của câu: Я пошёл погуля́л и верну́лся. — Я погуля́л и верну́лся (Tôi đã đi dạo rồi quay về). Vị ngữ động từ ghép (Пошёл погуля́ть) truyền đạt nghĩa MỤC ĐÍCH: 'đi để dạo chơi'."
+    },
+    {
+     "t": "note",
+     "text": "Với động từ постара́ться chỉ dùng nguyên thể: постара́йся поня́ть (hãy cố hiểu)."
+    },
+    {
+     "t": "para",
+     "text": "1. Не смотри́ в отве́ты, (попро́бовать, реши́ть) э́ту зада́чу сам! (Đừng nhìn đáp án, hãy thử tự giải bài này!); 2. Мы уста́ли и (останови́ться, отдохну́ть) на опу́шке ле́са (Chúng tôi mệt và dừng lại nghỉ ở bìa rừng); 3. (Сади́ться, расска́зывать), как бы́ло де́ло (Ngồi xuống kể xem sự tình thế nào); 4. Э́то не мой альбо́м, я (взять, посмотре́ть) его́ у това́рища (Đây không phải album của tôi, tôi mượn của bạn để xem); 5. (Сходи́ть, узна́ть) расписа́ние заня́тий на вто́рник! (Đi hỏi xem lịch học thứ Ba thế nào!); 6. (Попро́бовать, вы́сказать) своё мне́ние по э́тому вопро́су (Hãy thử phát biểu ý kiến của mình về vấn đề này); 7. Никто́ на него́ не рассчи́тывал, а он (прийти́, вы́играть) соревнова́ния (Chẳng ai trông cậy vào cậu ấy, thế mà cậu ấy đến và thắng cả giải đấu); 8. Они́ ушли́ не́сколько мину́т наза́д, (постара́ться, догна́ть) их (Họ vừa đi mấy phút trước, hãy cố đuổi kịp họ); 9. (Попро́бовать, поня́ть) его́, е́сли он сам не понима́ет, что говори́т (Thử mà hiểu anh ta xem, khi chính anh ta cũng không hiểu mình nói gì); 10. (Вы́йти, поговори́ть) с ним, мо́жет быть, тебя́ он послу́шает (Ra nói chuyện với anh ấy đi, biết đâu anh ấy sẽ nghe cậu); 11. Не так уж я и винова́т перед тобо́й, (постара́ться, прости́ть) меня́ (Tôi đâu có lỗi với cậu đến thế, hãy cố tha thứ cho tôi); 12. (Сходи́ть, позвони́ть) роди́телям, они́, наве́рное, волну́ются (Đi gọi điện cho bố mẹ đi, chắc ông bà đang lo lắm); 13. (Постара́ться, написа́ть) э́ту контро́льную рабо́ту на «отли́чно» (Hãy cố làm bài kiểm tra này đạt điểm «xuất sắc»); 14. Я (прийти́, попроща́ться), за́втра я улета́ю (Tôi đến để chào tạm biệt, mai tôi bay rồi); 15. Он о́чень упря́мый, но ты (постара́ться, убеди́ть) его́ пое́хать с на́ми (Anh ấy rất bướng, nhưng cậu hãy cố thuyết phục anh ấy đi cùng chúng ta); 16. Молоде́ц! Он всех удиви́л, (собра́ться, сдать) экза́мен (Cừ thật! Cậu ấy làm mọi người ngạc nhiên — dồn sức thi và đỗ kỳ thi); 17. Я (зайти́, спроси́ть), как у вас дела́ (Tôi ghé qua hỏi thăm xem anh chị dạo này thế nào)."
+    }
+   ]
+  },
+  {
+   "id": "gra-15-s008",
+   "type": "exercise",
+   "title": "Упражнение 220",
+   "num": 220,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Đọc các câu, chú ý các vị ngữ được in đậm trong sách. Hãy mở rộng các câu bằng phép lặp, các tiểu từ знай себе́, так, не, các động từ смотри́(те), дава́й, возьму́ (возьмёшь…) với liên từ и, lối nói то́лько и де́лаю (де́лаешь…), что. Nêu các phương án. Sau đó với chính các phương tiện này hãy tự đặt thêm vài câu."
+    },
+    {
+     "t": "note",
+     "text": "Trong khẩu ngữ, các tiểu từ và phương tiện cú pháp khác nhau làm phức hoá vị ngữ động từ đơn bằng những nghĩa bổ sung: возьму́ (возьмёшь…) и — nghĩa bất ngờ; дава́й — lời mời cùng hành động; смотри́(те) — lời cảnh báo; знай себе́ — sự phớt lờ, kháng cự thụ động; lặp dạng động từ — sự kéo dài trong thời gian; lặp dạng động từ với tiểu từ так — tính kết quả, dứt khoát; то́лько и де́лаю (де́лаешь…), что — nghĩa «chỉ có mỗi việc ấy»; nguyên thể + dạng quá khứ với tiểu từ не (реши́ть не реши́л, но… — giải thì chưa giải được, nhưng…) cho biết hành động không xảy ra, dù về tâm lý chủ thể đã gần thực hiện nó."
+    },
+    {
+     "t": "para",
+     "text": "1. Не опозда́йте, по́езд не бу́дет вас ждать (Đừng đến muộn, tàu sẽ không đợi các bạn đâu); 2. Он говори́т, что впервы́е об э́том слы́шит и ничего́ не зна́ет (Anh ta nói lần đầu nghe chuyện này và không biết gì hết); 3. Как же! Ждём его́ возвраще́ния, дни счита́ем (Còn phải nói! Chúng tôi mong anh ấy về, đếm từng ngày); 4. Мы ду́мали, что его́ придётся угова́ривать, а он согласи́лся сра́зу же (Chúng tôi tưởng phải thuyết phục mãi, thế mà anh ấy đồng ý ngay); 5. Он говори́л часа́ полтора́, не ме́ньше, все уже́ уста́ли его́ слу́шать (Anh ta nói cỡ tiếng rưỡi là ít, mọi người nghe đã phát mệt); 6. Он всё вре́мя игра́ет на компью́тере. Как ему́ не надое́ло?! (Nó suốt ngày chơi máy tính. Sao mà không chán nhỉ?!); 7. Да, никто́ от него́ э́того не ожида́л, удиви́л он всех нас (Phải, chẳng ai ngờ ở anh ấy điều đó — anh ấy làm tất cả chúng tôi ngạc nhiên); 8. Все бу́дут ду́мать, что мы пешко́м пойдём, а мы прие́дем на маши́не (Mọi người sẽ tưởng chúng ta đi bộ, thế mà chúng ta sẽ đến bằng ô tô); 9. Сде́лаем э́то упражне́ние ещё раз (Chúng ta làm lại bài tập này lần nữa); 10. Дни тяну́лись, и ничего́ но́вого не происходи́ло (Ngày dài lê thê, chẳng có gì mới xảy ra); 11. Он хорошо́ проучи́л меня́. Проучи́л, я на всю жизнь его́ уро́к запо́мню (Anh ấy đã dạy cho tôi một bài học đích đáng. Dạy đến mức cả đời tôi sẽ nhớ); 12. — Он обеща́л пое́хать с на́ми? — Не обеща́л, но сказа́л, что поду́мает об э́том (— Anh ấy hứa đi cùng chúng ta chứ? — Hứa thì chưa hứa, nhưng nói là sẽ suy nghĩ); 13. Уе́ду отсю́да, надое́ла мне така́я жизнь (Tôi sẽ bỏ nơi này mà đi, chán cái cuộc sống thế này lắm rồi); 14. Как? Опя́ть сиди́шь без де́ла?! Ты отдыха́ешь це́лыми дня́ми, пора́ поду́мать и о рабо́те (Sao? Lại ngồi không à?! Cậu nghỉ cả ngày trời rồi, đến lúc nghĩ tới công việc đi chứ); 15. Жена́ его́ пи́лит, а он не обраща́ет на неё внима́ния, лежи́т и газе́ты почи́тывает (Vợ cằn nhằn, còn anh ta mặc kệ, cứ nằm nhẩn nha đọc báo); 16. Врачи́ табле́тки выпи́сывают, а я ду́маю, что от них бо́льше вреда́, чем по́льзы (Bác sĩ thì cứ kê thuốc, còn tôi nghĩ thuốc hại nhiều hơn lợi); 17. Не забу́дь о мое́й про́сьбе! (Đừng có quên việc tôi nhờ đấy!); 18. — Как ваш малы́ш? Уже́ хо́дит? — Не хо́дит, но уже́ пыта́ется встать на но́жки (— Cháu bé nhà anh chị sao rồi? Biết đi chưa? — Đi thì chưa đi được, nhưng đã chập chững đòi đứng dậy rồi)."
+    }
+   ]
+  },
+  {
+   "id": "gra-15-s009",
+   "type": "exercise",
+   "title": "Упражнение 221",
+   "num": 221,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Điền vào chỗ trống trợ động từ thích hợp mang nghĩa bắt đầu hoặc kết thúc hành động. Giải thích lựa chọn, nêu các phương án."
+    },
+    {
+     "t": "note",
+     "text": "Trợ động từ стать được dùng như từ đồng nghĩa của: 1) нача́ть: Он стал (на́чал) чита́ть (Anh ấy bắt đầu đọc); 2) быть: Не ста́ну (бу́ду) чита́ть (Tôi sẽ không đọc)."
+    },
+    {
+     "t": "note",
+     "text": "Động từ переста́ть, khác với зако́нчить: 1) có nghĩa 'dừng lại một lúc': Он переста́л чита́ть и посмотре́л на меня́ (Anh ấy ngừng đọc và nhìn tôi); 2) dùng với các động từ chỉ hành động bất ngờ, không chủ ý, với nghĩa 'tự dưng xảy ra thế': Я переста́л ду́мать (чиха́ть); 3) dùng ở thức mệnh lệnh như từ đồng nghĩa của прекрати́ть — sự từ bỏ có ý thức: Переста́нь(те) / Прекрати́(те) пла́кать! (Thôi đừng khóc nữa!)."
+    },
+    {
+     "t": "note",
+     "text": "Động từ броса́ть/бро́сить: 1) chỉ sự chấm dứt có ý thức một hành động: Он бро́сил кури́ть (Anh ấy bỏ thuốc lá); 2) là biến thể khẩu ngữ của переста́ть, прекрати́ть ở thức mệnh lệnh: Брось (переста́нь, прекрати́) говори́ть глу́пости (Thôi đừng nói vớ vẩn nữa)."
+    },
+    {
+     "t": "para",
+     "text": "1. Почему́ ты не позвони́л, я уже́ … волнова́ться (Sao cậu không gọi điện, tôi đã bắt đầu lo rồi đấy); 2. Пожа́луйста, … шуме́ть! (Làm ơn thôi ồn ào đi!); 3. Телефо́н … рабо́тать, на́до вы́звать ма́стера (Điện thoại ngừng hoạt động rồi, phải gọi thợ thôi); 4. Мы хоте́ли ему́ всё рассказа́ть, но он не … нас слу́шать (Chúng tôi muốn kể hết với anh ta, nhưng anh ta không chịu nghe); 5. … болта́ть вся́кую ерунду́! (Thôi đừng tán nhảm nữa!); 6. Сла́ва бо́гу, я … писа́ть отчёт, возьми́ его́ на столе́ (Ơn trời, tôi đã viết xong báo cáo, lấy nó trên bàn ấy); 7. Постепе́нно мы … ви́деться всё ре́же и ре́же (Dần dần chúng tôi gặp nhau ngày càng thưa); 8. Я давно́ … ве́рить в чудеса́ (Tôi đã thôi tin vào phép màu từ lâu); 9. … шути́ть, здесь де́ло серьёзное (Đừng đùa nữa, chuyện nghiêm túc đấy); 10. Вот … сдава́ть экза́мены и махнём с тобо́й куда́-нибудь на юг отдыха́ть (Thi xong cái đã rồi tớ với cậu vù xuống miền nam nghỉ); 11. Шторм … стреми́тельно приближа́ться к бе́регу (Cơn bão bắt đầu ập nhanh vào bờ); 12. Пусть он … с ней спо́рить, всё равно́ э́то бесполе́зно (Thôi anh ta đừng cãi nhau với cô ấy nữa, đằng nào cũng vô ích); 13. В нача́ле зимы́ я заболе́л и … ходи́ть на ле́кции (Đầu mùa đông tôi ốm và thôi không đến giảng đường nữa); 14. Я не … отрица́ть, что здесь есть и моя́ вина́ (Tôi sẽ không phủ nhận rằng trong chuyện này cũng có lỗi của tôi); 15. … прики́дываться! Ты всё прекра́сно понима́ешь (Đừng giả vờ nữa! Cậu hiểu hết cả đấy); 16. Он взял тру́бку и … звони́ть по телефо́ну (Anh ta cầm ống nghe lên và bắt đầu gọi điện); 17. Когда́ вы … писа́ть отчёт, зайди́те ко мне, нам на́до ко́е-что обсуди́ть (Khi nào anh viết xong báo cáo thì ghé chỗ tôi, ta cần bàn vài việc); 18. Часы́ … пока́зывать то́чное вре́мя (Đồng hồ không còn chạy đúng giờ nữa); 19. Я не … скрыва́ть от вас э́ту информа́цию (Tôi sẽ không giấu anh thông tin này); 20. Я уже́ давно́ … боле́ть, чу́вствую себя́ отли́чно (Tôi khỏi ốm lâu rồi, giờ thấy rất khoẻ); 21. Со́лнце зашло́, и … бы́стро темне́ть (Mặt trời lặn, và trời bắt đầu tối rất nhanh); 22. О́чень хорошо́, что он … прислу́шиваться к сове́там друзе́й (Rất tốt là cậu ấy đã bắt đầu lắng nghe lời khuyên của bạn bè); 23. Отве́ты его́ станови́лись всё бо́лее пу́танными, а пото́м он и во́все … отвеча́ть на вопро́сы (Câu trả lời của anh ta ngày càng rối, rồi sau đó anh ta thôi hẳn không trả lời nữa)."
+    }
+   ]
+  },
+  {
+   "id": "gra-15-s010",
+   "type": "exercise",
+   "title": "Упражнение 222",
+   "num": 222,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Trong các câu, tách vị ngữ động từ đơn có TIỀN TỐ mang nghĩa bắt đầu, tiếp diễn hoặc kết thúc hành động. Thay chúng bằng vị ngữ động từ ghép đồng nghĩa với нача́ть, продо́лжить, зако́нчить, стать, переста́ть. Nêu các phương án. Chú ý sự tương ứng giữa nghĩa của tiền tố và nghĩa của trợ động từ."
+    },
+    {
+     "t": "para",
+     "text": "1. Я дочита́л э́тот расска́з (Tôi đã đọc xong truyện ngắn này); 2. Перепиши́ до конца́ текст, а пото́м мо́жешь идти́ домо́й (Chép nốt cho hết bài rồi hẵng về nhà); 3. Ве́тер разбушева́лся с но́вой си́лой (Gió lại nổi lên dữ dội hơn); 4. Внеза́пно я почу́вствовал боль в спине́ (Đột nhiên tôi thấy đau ở lưng); 5. В нача́ле ма́я зацвели́ я́блони (Đầu tháng Năm táo bắt đầu nở hoa); 6. Спаси́бо, но я уже́ пообе́дал (Cảm ơn, nhưng tôi ăn trưa xong rồi); 7. Он заду́мался над мои́м предложе́нием (Anh ấy bắt đầu suy nghĩ về đề nghị của tôi); 8. Я уже́ отремонти́ровал ва́шу маши́ну (Tôi đã sửa xong xe của anh); 9. Интере́сно, почему́ он рассерди́лся на нас? (Lạ thật, sao anh ta lại đâm ra giận chúng ta nhỉ?); 10. Он раздува́л ого́нь, не обраща́я на нас внима́ния (дуть на что?) (Anh ta tiếp tục thổi cho lửa bùng lên, chẳng để ý gì đến chúng tôi); 11. Уви́дев нас, он ка́к-то стра́нно засуети́лся (Thấy chúng tôi, anh ta bỗng cuống quýt lên một cách kỳ lạ); 12. Костёр догоре́л, оста́лись то́лько у́гли (Đống lửa đã cháy hết, chỉ còn lại than); 13. Помо́й посу́ду, а пото́м ты свобо́ден (Rửa xong bát đĩa thì cậu được tự do); 14. Не огля́дываясь на нас, он поплы́л к друго́му бе́регу (Không ngoái lại nhìn chúng tôi, anh ấy bắt đầu bơi sang bờ bên kia); 15. На сего́дня я уже́ отрабо́тал, пора́ домо́й (Hôm nay tôi làm xong việc rồi, đến giờ về thôi); 16. Я нажа́л на газ, мото́р взреве́л (Tôi nhấn ga, động cơ gầm rú lên); 17. В ию́не расцвели́ пио́ны (Tháng Sáu mẫu đơn nở rộ); 18. Мы доигра́ли э́ту па́ртию со счётом 2:3 (Chúng tôi chơi nốt ván đó với tỉ số 2:3); 19. Снача́ла вы́учи слова́, а пото́м чита́й текст (Học thuộc từ trước đã rồi hẵng đọc bài); 20. В нача́ле го́нки он побежа́л о́чень бы́стро (Vào đầu cuộc đua anh ấy chạy rất nhanh); 21. Почему́ ты раскрича́лся? (Sao cậu lại gào ầm lên thế?)."
+    }
+   ]
+  },
+  {
+   "id": "gra-15-s011",
+   "type": "exercise",
+   "title": "Упражнение 223",
+   "num": 223,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Mở ngoặc, đặt động từ ở dạng cần thiết trong vai vị ngữ động từ ghép. Giải thích lựa chọn. Nêu các phương án."
+    },
+    {
+     "t": "note",
+     "text": "Trong thành phần vị ngữ động từ ghép có thể có động từ thể hoàn thành (СВ) và thể chưa hoàn thành (НСВ), tuỳ theo tình huống và nghĩa của hành động."
+    },
+    {
+     "t": "para",
+     "text": "1. За́втра я (стара́ться/постара́ться) (е́хать/прие́хать) во́время (Mai tôi sẽ cố đến đúng giờ); 2. Обы́чно он (предпочита́ть/предпоче́сть) не (вступа́ть/вступи́ть) в диску́ссии (Thường thì anh ấy thích không tham gia tranh luận); 3. Сего́дня я (рассчи́тывать/рассчита́ть) (зака́нчивать/зако́нчить) рабо́ту к двум часа́м (Hôm nay tôi tính làm xong việc trước hai giờ); 4. Как вы (рискова́ть/рискну́ть) (говори́ть/сказа́ть) ему́ об э́том?! (Sao anh dám liều nói với ông ấy chuyện đó?!); 5. Я уже́ не (наде́яться/понаде́яться) (встреча́ть/встре́тить) вас (Tôi đã không còn hy vọng gặp được anh nữa); 6. От него́ нет никако́го то́лка, он всё вре́мя (меша́ть/помеша́ть) нам (рабо́тать/порабо́тать) (Anh ta chẳng được tích sự gì, suốt ngày chỉ cản trở chúng tôi làm việc); 7. Друзья́ (приглаша́ть/пригласи́ть) нас (приезжа́ть/прие́хать) к ним на Рождество́ (Bạn bè mời chúng tôi đến chỗ họ dịp Giáng sinh); 8. Нача́льник отде́ла (распоряжа́ться/распоряди́ться) (выдава́ть/вы́дать) нам докуме́нты (Trưởng phòng đã chỉ thị cấp giấy tờ cho chúng tôi); 9. Он уже́ (отка́зываться/отказа́ться) (принима́ть/приня́ть) уча́стие в соревнова́ниях (Anh ấy đã từ chối tham gia thi đấu); 10. Декана́т (разреша́ть/разреши́ть) нам досро́чно (сдава́ть/сдать) экза́мены (Văn phòng khoa cho phép chúng tôi thi trước thời hạn); 11. Дава́й (приглаша́ть/пригласи́ть) их (е́хать/пое́хать) вме́сте с на́ми! (Mình mời họ đi cùng chúng ta đi!); 12. Как ты ду́маешь, он (соглаша́ться/согласи́ться) (встреча́ться/встре́титься) с на́ми во вто́рник? (Cậu nghĩ sao, anh ấy có đồng ý gặp chúng ta vào thứ Ba không?); 13. Мы до́лго (угова́ривать/уговори́ть) его́ не (броса́ть/бро́сить) рабо́ту (Chúng tôi khuyên mãi để anh ấy đừng bỏ việc); 14. Не волну́йся, он всё поймёт, я (стара́ться/постара́ться) (говори́ть/сказа́ть) ме́дленно (Đừng lo, anh ấy sẽ hiểu hết, tôi sẽ cố nói chậm thôi); 15. Извини́, сейча́с не могу́, я (торопи́ться/поторопи́ться) во́время (зака́нчивать/зако́нчить) рабо́ту (Xin lỗi, giờ tôi không thể — tôi đang vội làm cho xong việc đúng hạn); 16. Как он (осме́ливаться/осме́литься) (уходи́ть/уйти́) вчера́ без разреше́ния?! (Sao hôm qua anh ta dám bỏ về mà không xin phép?!); 17. Попро́буй (угова́ривать/уговори́ть) его́ (ждать/подожда́ть) ещё немно́го! (Thử thuyết phục anh ấy đợi thêm chút nữa xem!); 18. Пожа́луйста, сосредото́чьтесь! Я (устава́ть/уста́ть) (повторя́ть/повтори́ть) всё не́сколько раз (Xin hãy tập trung cho! Tôi mệt vì cứ phải nhắc đi nhắc lại mọi thứ mấy lần); 19. Всех (звать/позва́ть) (принима́ть/приня́ть) уча́стие в ве́чере (Mời tất cả mọi người tham gia buổi dạ hội); 20. Никогда́ никому́ не (обеща́ть/пообеща́ть) (де́лать/сде́лать) то, чего́ ты не мо́жешь (Đừng bao giờ hứa với ai làm điều mình không thể làm)."
+    }
+   ]
+  },
+  {
+   "id": "gra-15-s012",
+   "type": "exercise",
+   "title": "Упражнение 224",
+   "num": 224,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Từ hai câu hãy ghép thành một câu đơn với vị ngữ động từ ghép hoặc một câu phức với liên từ что. Giải thích lựa chọn. Nêu các phương án."
+    },
+    {
+     "t": "note",
+     "text": "Nếu hai hành động thuộc về MỘT chủ thể và một trong hai diễn đạt Ý ĐỊNH, chúng tạo thành vị ngữ động từ ghép: Я собира́юсь (хочу́, пыта́юсь) уе́хать (Tôi định (muốn, cố) ra đi). Với các nghĩa khác có các phương án: 1) nếu trợ động từ chỉ liên quan đến hành động của động từ chính — dùng nguyên thể: Я наде́юсь уви́деть вас за́втра (Tôi hy vọng gặp anh ngày mai); 2) nếu nghĩa của nó trải cả sang những hành động khác gắn với động từ chính — dùng câu phức với что: Я наде́юсь, что я уви́жу вас за́втра (и мы продо́лжим наш разгово́р) (Tôi hy vọng ngày mai sẽ gặp anh (và ta sẽ tiếp tục câu chuyện))."
+    },
+    {
+     "t": "note",
+     "text": "Với các động từ và phân từ ngắn đuôi уста́ть, помо́чь, отвы́кнуть (отвы́к), привы́кнуть (привы́к)… chỉ dùng nguyên thể. Động từ (об)ра́доваться dùng với liên từ что."
+    },
+    {
+     "t": "para",
+     "text": "1. Он обеща́л. (Он напи́шет нам.) (Anh ấy hứa sẽ viết thư cho chúng tôi); 2. Я не ожида́л. (Я уви́жу вас здесь.) (Tôi không ngờ gặp anh ở đây); 3. Они́ отвы́кли. (Они́ не е́здят на обще́ственном тра́нспорте.) (Họ đã bỏ thói quen đi phương tiện công cộng); 4. Он согласи́лся. (Он подождёт нас.) (Anh ấy đồng ý đợi chúng tôi); 5. Я мечта́ю. (Я бу́ду рабо́тать вме́сте с ва́ми.) (Tôi mơ ước được làm việc cùng các anh); 6. Он не хо́чет. (Он не бу́дет вам подчиня́ться.) (Anh ta không muốn phục tùng các anh); 7. Я спеши́л. (Я расскажу́ вам об э́том пе́рвым.) (Tôi vội để là người đầu tiên kể cho anh chuyện này); 8. Он вы́звался. (Он пойдёт пе́рвым.) (Anh ấy xung phong đi đầu); 9. Мы плани́ровали. (Мы возьмём о́тпуск в а́вгусте.) (Chúng tôi dự định nghỉ phép vào tháng Tám); 10. Я торопи́лся. (Я прие́ду к вам за́светло.) (Tôi vội để đến chỗ anh trước khi trời tối); 11. Я уста́л. (Я повторя́ю э́то два́дцать раз в день.) (Tôi mệt vì phải nhắc điều này hai mươi lần mỗi ngày); 12. Он так ра́дуется. (Он е́дет в о́тпуск.) (Anh ấy mừng lắm vì được đi nghỉ phép); 13. Я отча́ялся. (Я встре́чу кого́-нибудь в э́том забы́том бо́гом ме́сте.) (Tôi đã tuyệt vọng, hết mong gặp được ai ở cái chốn khỉ ho cò gáy này); 14. Извини́, я забы́л. (Я не переда́л ему́ э́ту информа́цию.) (Xin lỗi, tôi quên chuyển cho anh ấy thông tin này); 15. Я рассчи́тывал. (Я прие́ду во́время.) (Tôi tính là sẽ đến đúng giờ); 16. Но́вое прави́тельство намерева́ется. (Оно́ хо́чет реши́ть социа́льные пробле́мы.) (Chính phủ mới dự định giải quyết các vấn đề xã hội); 17. Мы пыта́лись. (Мы хоте́ли рассказа́ть вам об э́том, но вы нас не слу́шали.) (Chúng tôi đã cố kể cho anh chuyện đó, nhưng anh không chịu nghe); 18. Я рассчи́тывал. (Я успе́ю в срок.) (Tôi tính là sẽ kịp đúng hạn); 19. Все обра́довались. (Они́ смо́гут помо́чь нам.) (Mọi người mừng vì họ sẽ có thể giúp chúng tôi)."
+    }
+   ]
+  },
+  {
+   "id": "gra-15-s013",
+   "type": "exercise",
+   "title": "Упражнение 225",
+   "num": 225,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Từ hai câu hãy ghép thành một câu đơn với vị ngữ động từ ghép hoặc một câu phức với liên từ что hoặc что́бы. Giải thích lựa chọn. Nêu các phương án."
+    },
+    {
+     "t": "note",
+     "text": "Nếu hai hành động thuộc về HAI chủ thể khác nhau và một trong hai diễn đạt sự NGĂN CẢN/TÁC ĐỘNG, chúng tạo thành vị ngữ động từ ghép: Он меша́л нам слу́шать (Anh ta cản trở chúng tôi nghe). Với các động từ mang nghĩa RA LỆNH, YÊU CẦU hoặc CHO PHÉP có hai phương án: Он запрети́л нам е́хать; Он запрети́л, что́бы мы е́хали (Anh ấy cấm chúng tôi đi). Các trường hợp khác dùng câu phức với что́бы hoặc что: Я наде́юсь, что вы прие́дете (Tôi hy vọng anh sẽ đến); Я хочу́, что́бы вы оста́лись (Tôi muốn anh ở lại)."
+    },
+    {
+     "t": "para",
+     "text": "1. Роди́тели наде́ялись. (Мы прие́дем к ним на пра́здники.) (Bố mẹ hy vọng chúng tôi sẽ về với ông bà dịp lễ); 2. Я хочу́. (Вы меня́ пра́вильно по́няли.) (Tôi muốn anh hiểu đúng ý tôi); 3. Мы рассчи́тывали. (Спекта́кль начнётся во́время.) (Chúng tôi tính rằng vở diễn sẽ bắt đầu đúng giờ); 4. Она́ заста́вила. (Мы сде́лали э́ту рабо́ту.) (Cô ấy bắt chúng tôi làm việc này); 5. Я предполага́л. (Вы заме́тите переме́ны.) (Tôi đoán là anh sẽ nhận ra những thay đổi); 6. Ребёнок люби́л. (Взро́слые ока́зывали ему́ внима́ние.) (Đứa trẻ thích được người lớn quan tâm); 7. Секрета́рь попроси́ла. (Я отпра́вил письмо́ по по́чте.) (Cô thư ký nhờ tôi gửi thư qua bưu điện); 8. Они́ стара́лись. (Все заме́тили их успе́хи.) (Họ cố để mọi người nhận thấy thành tích của mình); 9. Мы пригласи́ли. (Они́ вы́сказали своё мне́ние по э́тому вопро́су.) (Chúng tôi mời họ phát biểu ý kiến về vấn đề này); 10. Он веле́л. (Мы останови́лись.) (Anh ấy ra lệnh cho chúng tôi dừng lại); 11. Мы согласи́лись. (Он пое́хал с на́ми.) (Chúng tôi đồng ý để anh ấy đi cùng); 12. Я наде́юсь. (Вы прие́дете сюда́ ещё раз.) (Tôi hy vọng anh sẽ đến đây lần nữa); 13. Роди́тели позво́лили. (Котёнок оста́нется у нас в до́ме.) (Bố mẹ cho phép giữ chú mèo con lại trong nhà); 14. Я рассчи́тывал. (Вы мне помо́жете.) (Tôi trông cậy là anh sẽ giúp tôi); 15. Он не ве́рил. (Кто́-то придёт ему́ на по́мощь.) (Anh ấy không tin sẽ có ai đến giúp mình); 16. Друзья́ обеща́ли. (Они́ встре́тят нас в аэропорту́.) (Bạn bè hứa sẽ đón chúng tôi ở sân bay); 17. Журнали́сты не дава́ли ему́ поко́я. (Он ша́гу не мог ступи́ть без их при́стального внима́ния.) (Cánh nhà báo không để anh ấy yên: anh không bước nổi một bước mà thoát khỏi sự soi mói của họ); 18. Она́ согласи́лась. (Мы мо́жем испо́льзовать дополни́тельные ресу́рсы.) (Bà ấy đồng ý cho chúng tôi sử dụng nguồn lực bổ sung); 19. Пассажи́ры обра́довались. (Самолёт взлете́л во́время.) (Hành khách mừng vì máy bay cất cánh đúng giờ); 20. Декана́т разреши́л. (Не́которые студе́нты мо́гут сдать экза́мен досро́чно.) (Văn phòng khoa cho phép một số sinh viên được thi sớm)."
+    }
+   ]
+  },
+  {
+   "id": "gra-15-s014",
+   "type": "exercise",
+   "title": "Упражнение 226",
+   "num": 226,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Mở ngoặc, thay câu cho trong ngoặc bằng động từ nguyên thể hoặc mệnh đề phụ. Giải thích lựa chọn."
+    },
+    {
+     "t": "note",
+     "text": "Ở vị trí vị ngữ động từ ghép, các tính từ/phân từ ngắn đuôi mang nghĩa Ý ĐỊNH (cho biết chủ thể phải, có thể, muốn hay định làm gì) dùng với nguyên thể: обя́зан сде́лать (có nghĩa vụ làm); согла́сен пойти́ (đồng ý đi); скло́нен согласи́ться (thiên về đồng ý); спосо́бен возрази́ть (đủ sức phản bác)… Các tính từ/phân từ ngắn đuôi chỉ TRẠNG THÁI CẢM XÚC dùng với mệnh đề phụ có liên từ что hoặc потому́ что: расстро́ен, потому́ что опозда́л (buồn vì đến muộn); дово́лен, что успе́л (hài lòng vì đã kịp). Ngoại lệ là hai tính từ ngắn đuôi thông dụng nhất рад và сча́стлив: рад ви́деть (mừng được gặp), сча́стлив познако́миться (hân hạnh được làm quen)."
+    },
+    {
+     "t": "para",
+     "text": "1. Вы не должны́. (Вы не бу́дете рискова́ть свое́й жи́знью.) (Các anh không được liều mạng sống của mình); 2. Он расстро́ен. (Он не смо́жет встре́титься с ва́ми за́втра у́тром.) (Anh ấy buồn vì sáng mai không thể gặp anh); 3. Мы гото́вы. (Мы вам помо́жем.) (Chúng tôi sẵn sàng giúp anh); 4. Она́ свобо́дна. (Она́ принима́ет реше́ния самостоя́тельно.) (Cô ấy được tự do tự mình ra quyết định); 5. Он разочаро́ван. (Он не смог отве́тить на все вопро́сы.) (Anh ấy thất vọng vì đã không trả lời được hết các câu hỏi); 6. Они́ вы́нуждены. (Они́ соглася́тся с на́ми.) (Họ buộc phải đồng ý với chúng tôi); 7. Она́ спосо́бна. (Она́ реши́т э́ту пробле́му.) (Cô ấy đủ khả năng giải quyết vấn đề này); 8. Учени́к удовлетворён. (Он пра́вильно реши́л зада́чу.) (Cậu học trò hài lòng vì đã giải đúng bài toán); 9. Мы согла́сны. (Мы при́мем ва́ши усло́вия.) (Chúng tôi đồng ý chấp nhận các điều kiện của anh); 10. Он разда́влен. (Он не ожида́л тако́го реше́ния.) (Anh ấy suy sụp vì không ngờ tới quyết định như vậy); 11. Преподава́тель серди́т. (Он до́лжен объясня́ть одно́ и то же не́сколько раз.) (Thầy giáo bực vì cứ phải giải thích đi giải thích lại một điều); 12. Ваш прия́тель спосо́бен. (Он мо́жет спра́виться с э́тим самостоя́тельно.) (Bạn anh đủ sức tự xoay xở việc này); 13. Я сча́стлив. (Я смогу́ прие́хать к вам на сле́дующий год.) (Tôi hạnh phúc vì sang năm có thể đến thăm anh); 14. Мы споко́йны. (Мы зако́нчим э́ту рабо́ту в срок.) (Chúng tôi yên tâm là sẽ hoàn thành việc này đúng hạn); 15. Я не наме́рен. (Я не бу́ду остава́ться здесь до́льше поло́женного вре́мени.) (Tôi không có ý định ở lại đây quá thời gian quy định); 16. Он дово́лен. (Он смог помо́чь нам.) (Anh ấy hài lòng vì đã giúp được chúng tôi); 17. Я не обя́зан. (Я не бу́ду де́лать э́ту рабо́ту.) (Tôi không có nghĩa vụ phải làm việc này); 18. Она́ пода́влена. (Она́ узна́ла о после́дних собы́тиях.) (Cô ấy suy sụp khi biết về những sự việc vừa rồi); 19. Я рад. (Я прису́тствую на конфере́нции.) (Tôi vui mừng được có mặt tại hội nghị)."
+    }
+   ]
+  },
+  {
+   "id": "gra-15-s015",
+   "type": "exercise",
+   "title": "Упражнение 227",
+   "num": 227,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Mở ngoặc, dùng trong câu động từ nguyên thể thể hoàn thành hoặc chưa hoàn thành. Giải thích lựa chọn, nêu các phương án. Nếu có thể, hãy bổ sung chủ thể cho câu."
+    },
+    {
+     "t": "note",
+     "text": "Với các trạng từ diễn đạt trạng thái hoặc đánh giá, chủ thể — kẻ mang trạng thái — đứng ở cách 3: Вам вре́дно кури́ть (Hút thuốc có hại cho anh). Nếu trạng thái mang nghĩa khái quát thì chủ thể được lược bỏ: Легко́ сказа́ть, тру́дно сде́лать (Nói thì dễ, làm thì khó)."
+    },
+    {
+     "t": "para",
+     "text": "1. Вы́годно (торгова́ть/поторгова́ть) с зарубе́жными стра́нами (Buôn bán với nước ngoài thì có lợi); 2. Ма́ло (хоте́ть/захоте́ть), на́до сде́лать (Muốn thôi chưa đủ, phải làm); 3. Тяжело́ (дыша́ть/подыша́ть) и́з-за ка́шля (Vì ho nên thở rất khó nhọc); 4. Мучи́тельно (ждать/подожда́ть) результа́тов экза́мена (Chờ kết quả thi thật khổ sở); 5. Тру́дно (находи́ть/найти́) слова́, что́бы описа́ть его́ состоя́ние (Khó tìm được lời để tả trạng thái của anh ấy); 6. Далеко́ (идти́/пойти́) до метро́? (Đi bộ đến ga tàu điện ngầm có xa không?); 7. Сло́жно (реша́ть/реши́ть) э́ту зада́чу (Bài toán này giải thật khó); 8. Вре́дно (чита́ть/почита́ть) лёжа (Nằm đọc sách thì có hại); 9. Опа́сно (приближа́ться/прибли́зиться) к ди́кому зве́рю (Lại gần thú hoang rất nguy hiểm); 10. Сты́дно (говори́ть/сказа́ть) непра́вду (Nói dối thật đáng xấu hổ); 11. Стра́шно (представля́ть/предста́вить) после́дствия взры́ва на а́томной электроста́нции (Nghĩ đến hậu quả vụ nổ nhà máy điện hạt nhân mà rùng mình); 12. Хо́лодно (сиде́ть/просиде́ть) без движе́ния (Ngồi yên không cử động thì lạnh); 13. Тоскли́во (ока́зываться/оказа́ться) одному́ на необита́емом о́строве (Một mình rơi vào hoang đảo thật buồn thảm); 14. Хорошо́ (жить/пожи́ть) в дере́вне (Sống ở quê thật thích); 15. Ску́чно (слу́шать/послу́шать) нравоуче́ния (Nghe người ta lên lớp dạy đời chán lắm); 16. Гру́стно (ду́мать/поду́мать), что ле́то ко́нчилось (Nghĩ rằng mùa hè đã hết mà thấy buồn); 17. По́здно (вспомина́ть/вспо́мнить) о до́лге, на́до бы́ло ра́ньше о нём ду́мать (Giờ mới nhớ đến nghĩa vụ thì muộn rồi, lẽ ra phải nghĩ sớm hơn); 18. Ве́село (игра́ть/поигра́ть) во дворе́ (Chơi ngoài sân thật vui)."
+    }
+   ]
+  },
+  {
+   "id": "gra-15-s016",
+   "type": "exercise",
+   "title": "Упражнение 228",
+   "num": 228,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Với các cụm thành ngữ cho sẵn, hãy đặt câu. Tách vị ngữ động từ ghép trong câu."
+    },
+    {
+     "t": "para",
+     "text": "1) отда́ть прика́з (что де́лать?) (ra lệnh làm gì); 2) взять обяза́тельство (что (с)де́лать?) (nhận cam kết); 3) име́ть по́вод (что де́лать?) (có cớ); 4) приня́ть реше́ние (что (с)де́лать?) (ra quyết định); 5) найти́ вре́мя (что сде́лать?) (thu xếp được thời gian); 6) отда́ть распоряже́ние (что сде́лать?) (ra chỉ thị); 7) дать обеща́ние (что (с)де́лать?) (hứa hẹn); 8) присво́ить пра́во (что де́лать?) (tự cho mình quyền); 9) иска́ть возмо́жности (что сде́лать?) (tìm cơ hội); 10) найти́ спо́соб (что (с)де́лать?) (tìm ra cách); 11) приня́ть реше́ние (что (с)де́лать?) (quyết định); 12) дать согла́сие (что сде́лать?) (đồng ý, chấp thuận); 13) горе́ть жела́нием (что сде́лать?) (cháy bỏng mong muốn); 14) име́ть наме́рение (что сде́лать?) (có ý định)."
+    }
+   ]
+  },
+  {
+   "id": "gra-15-s017",
+   "type": "exercise",
+   "title": "Упражнение 229",
+   "num": 229,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Mở ngoặc, dùng nguyên thể trong thành phần vị ngữ động từ ghép hoặc kết hợp với liên từ что́бы. Giải thích lựa chọn."
+    },
+    {
+     "t": "note",
+     "text": "Các cụm thành ngữ có động từ mang nghĩa BÓNG dùng với nguyên thể: Он дал обеща́ние помо́чь (Anh ấy hứa sẽ giúp). Ngoại lệ: cụm взял сло́во (Взял сло́во, что́бы подвести́ ито́ги — Đứng lên phát biểu để tổng kết). Nếu trong cụm từ, động từ mang nghĩa ĐEN thì phải dùng liên từ что́бы: Он дал письмо́, что́бы переда́ть его́ дру́гу (Anh ấy đưa lá thư để chuyển cho bạn)."
+    },
+    {
+     "t": "para",
+     "text": "1. Он не дава́л тебе́ по́вода (сомнева́ться в его́ слова́х) (Anh ấy không hề cho cậu cớ gì để nghi ngờ lời anh ấy); 2. Весь день мы иска́ли доро́гу (вы́йти из ле́са) (Cả ngày chúng tôi tìm đường để ra khỏi rừng); 3. Предприя́тие при́няло обяза́тельство (вы́полнить рабо́ту досро́чно) (Xí nghiệp nhận cam kết hoàn thành công việc trước thời hạn); 4. Учёные нашли́ спо́соб (обезопа́сить вре́дные вы́бросы в окружа́ющую среду́) (Các nhà khoa học tìm ra cách làm vô hại hoá chất thải độc ra môi trường); 5. С утра́ дире́ктор принима́л посети́телей (быть свобо́дным во второ́й полови́не дня) (Từ sáng giám đốc đã tiếp khách để buổi chiều được rảnh); 6. Он дал мне сло́во (вы́полнить своё обеща́ние) (Anh ấy hứa với tôi sẽ thực hiện lời hứa của mình); 7. Инжене́р пе́редал но́вые да́нные (внести́ в компью́тер) (Kỹ sư chuyển dữ liệu mới để nhập vào máy tính); 8. Коне́чно, он име́л причи́ны (сомнева́ться в её слова́х) (Tất nhiên anh ấy có lý do để nghi ngờ lời cô ta); 9. Нау́чно-произво́дственный отде́л на́шего институ́та и́щет спо́соб (получа́ть э́то хими́ческое вещество́ без дополни́тельных затра́т) (Phòng khoa học–sản xuất của viện chúng tôi đang tìm cách điều chế chất hoá học này mà không tốn thêm chi phí); 10. Я ду́маю, име́ет смысл (обсуди́ть все вопро́сы за́втра) (Tôi nghĩ nên để mai bàn hết các vấn đề thì hợp lý hơn); 11. Она́ иска́ла но́мер телефо́на (позвони́ть в декана́т) (Cô ấy tìm số điện thoại để gọi lên văn phòng khoa); 12. Дире́ктор заво́да взял тре́бования рабо́чих (ознако́миться с ни́ми) (Giám đốc nhà máy nhận bản yêu sách của công nhân để xem xét); 13. Я зна́ю, что он при́нял реше́ние (уе́хать) (Tôi biết anh ấy đã quyết định ra đi); 14. На собра́нии мно́гие бра́ли сло́во (вы́сказать своё отноше́ние к кандида́там) (Tại cuộc họp nhiều người đứng lên phát biểu để bày tỏ thái độ đối với các ứng viên); 15. К сожале́нию, сейча́с я не име́ю возмо́жности (поговори́ть с тобо́й) (Tiếc là bây giờ tôi không có điều kiện nói chuyện với cậu); 16. Пожа́луйста, переда́й мне иго́лку и ни́тку (приши́ть пу́говицу) (Làm ơn đưa tôi kim chỉ để đính lại khuy áo); 17. Мы встре́тили секретаря́ и о́тдали ей бума́ги (поста́вить печа́ть) (Chúng tôi gặp cô thư ký và đưa giấy tờ để đóng dấu)."
+    }
+   ]
+  },
+  {
+   "id": "gra-15-s018",
+   "type": "exercise",
+   "title": "Упражнение 230",
+   "num": 230,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Tra từ điển và chép vào vở một số cụm thành ngữ có thể dùng ở vị trí vị ngữ động từ ghép. Đặt câu với chúng."
+    },
+    {
+     "t": "note",
+     "text": "Gợi ý: горе́ть жела́нием (+ nguyên thể), име́ть наме́рение, дать сло́во, взять на себя́ труд… — các cụm này kết hợp với động từ nguyên thể tạo thành vị ngữ động từ ghép."
+    }
+   ]
+  },
+  {
+   "id": "gra-15-s019",
+   "type": "grammar",
+   "title": "VỊ NGỮ DANH TỪ (Именное сказуемое) — Lý thuyết",
+   "num": null,
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Vị ngữ danh từ (именное сказуемое) BAO GIỜ cũng là vị ngữ GHÉP: hệ từ (связка) + phần danh (именная часть)."
+    },
+    {
+     "t": "subhead",
+     "text": "1. Các loại hệ từ trong vị ngữ danh từ:"
+    },
+    {
+     "t": "para",
+     "text": "а) 1) Động từ быть ở các dạng khác nhau: Мне ва́жно знать, кто он есть на са́мом де́ле (Tôi cần biết thực ra anh ta là người thế nào); Он был отли́чным спортсме́ном (Anh ấy từng là vận động viên xuất sắc); Не волну́йся, ты бу́дешь в поря́дке (Đừng lo, cậu sẽ ổn thôi); Будь дру́гом, принеси́, пожа́луйста, тетра́дь (Là bạn tốt thì mang giúp quyển vở nhé); 2) các tiểu từ э́то, вот, зна́чит (э́то зна́чит): Друг — э́то челове́к, на кото́рого всегда́ мо́жно положи́ться (Bạn là người ta luôn có thể trông cậy); О́тдых — вот что тебе́ сейча́с ну́жно (Nghỉ ngơi — đó mới là cái cậu cần lúc này); Авра́л — э́то зна́чит о́бщая рабо́та (Avral nghĩa là cả tập thể xúm vào làm gấp); 3) các liên từ so sánh как, сло́вно, бу́дто, то́чно…: Он как ребёнок (Anh ấy như đứa trẻ); Ты сло́вно и не родно́й нам во́все (Cậu cứ như thể chẳng phải người thân của chúng tôi); Его́ слова́ бу́дто о́стрый нож (Lời anh ta như dao nhọn); Дере́вья по края́м доро́ги то́чно фа́келы (Hàng cây ven đường hệt như những bó đuốc)."
+    },
+    {
+     "t": "para",
+     "text": "б) Các động từ bán thực nghĩa стать, станови́ться, каза́ться, вы́глядеть, явля́ться, де́лать(ся), счита́ться, называ́ться, оста́ться…: Ты стал совсе́м взро́слым (Con đã thành người lớn hẳn rồi); Она́ вы́глядела немно́го уста́лой (Trông cô ấy hơi mệt); Твои́ вопро́сы стано́вятся навя́зчивыми (Những câu hỏi của cậu đang trở nên phiền nhiễu); Он счита́ется кру́пным специали́стом в э́той о́бласти (Ông ấy được coi là chuyên gia lớn trong lĩnh vực này)."
+    },
+    {
+     "t": "para",
+     "text": "в) Các động từ chỉ chuyển động, trạng thái, hoạt động… идти́, стоя́ть, лежа́ть, сиде́ть, роди́ться, жить, умере́ть, рабо́тать, верну́ться…: Он жил отше́льником (Ông ấy sống như một ẩn sĩ); По́сле о́тпуска они́ верну́лись отдохну́вшие (Sau kỳ phép họ trở về với vẻ thư thái); Он у́мер геро́ем (Anh ấy chết như một người anh hùng); Я стоя́л все́ми поки́нутый (Tôi đứng đó, bị mọi người bỏ rơi); Она́ рабо́тала воспита́тельницей в де́тском саду́ (Bà ấy làm cô nuôi dạy trẻ ở nhà trẻ)."
+    },
+    {
+     "t": "subhead",
+     "text": "2. Phần danh của vị ngữ có thể là:"
+    },
+    {
+     "t": "para",
+     "text": "а) Danh từ có hoặc không có giới từ: Э́то интере́сная исто́рия (Đây là một câu chuyện thú vị); Она́ была́ сре́днего ро́ста (Cô ấy tầm vóc trung bình); Он прие́хал из прови́нции (Anh ấy từ tỉnh lẻ lên); Э́то оста́лось са́мым я́рким воспомина́нием моего́ де́тства (Đó vẫn là ký ức rực rỡ nhất tuổi thơ tôi).\nб) Tính từ: Дом был кирпи́чный в два этажа́ (Ngôi nhà gạch hai tầng); Хара́ктер у неё стал раздражи́тельным (Tính cô ấy trở nên cáu bẳn); Я был сча́стлив (Tôi đã hạnh phúc); Ему́ бы́ло за три́дцать, но мне он каза́лся моло́же (Anh ấy ngoài ba mươi nhưng tôi thấy anh trẻ hơn); Пого́да вчера́ была́ отли́чнейшая (Hôm qua thời tiết đẹp tuyệt).\nв) Phân từ: Она́ встре́тила меня́ запла́канная (Cô ấy ra đón tôi, mặt còn đẫm nước mắt); Он сиде́л заме́тно погрустне́вший (Anh ấy ngồi đó, buồn đi thấy rõ); Настрое́ние бы́ло испо́рчено (Tâm trạng đã bị phá hỏng); Чем э́то запа́чкан твой костю́м? (Bộ vest của cậu dây bẩn cái gì thế?).\nг) Trạng từ: Его́ появле́ние бы́ло о́чень некста́ти (Sự xuất hiện của anh ta thật không đúng lúc); В те го́ды она́ не была́ за́мужем (Những năm ấy bà chưa lấy chồng); Мы шли мо́лча (Chúng tôi đi trong im lặng); Го́сти сиде́ли полукру́гом (Khách ngồi thành hình bán nguyệt); Ка́ждое у́тро он е́здил верхо́м (Sáng nào ông cũng cưỡi ngựa)."
+    },
+    {
+     "t": "para",
+     "text": "д) Đại từ: Я бу́ду не я, е́сли не решу́ э́той зада́чи (Tôi sẽ chẳng còn là tôi nữa nếu không giải được bài toán này); Да, э́то был он, со́бственной персо́ной (Phải, đích thân anh ta chứ ai); Она́ ста́ла не така́я, како́й я её по́мнил (Cô ấy không còn như tôi từng nhớ); Я далеко́ не ка́ждый, я осо́бенный (Tôi đâu phải hạng người thường, tôi đặc biệt).\nе) Số từ: Ей бы́ло шесть лет (Cô bé lên sáu); В о́череди я был тре́тьим (Trong hàng tôi đứng thứ ba); Его́ день рожде́ния шесто́го ма́я (Sinh nhật anh ấy là ngày mồng 6 tháng Năm).\nж) Cụm thành ngữ: Я стоя́л ни жив ни мёртв (Tôi đứng chết trân, hồn vía lên mây); Он счита́лся ма́стером на все ру́ки (Anh ấy được coi là người khéo tay trăm việc); С утра́ она́ всегда́ была́ не в ду́хе (Buổi sáng bà ấy lúc nào cũng khó ở); Как хоти́те, но мне э́то всё не по душе́ (Tuỳ các anh, nhưng tôi chẳng ưng chuyện này chút nào)."
+    }
+   ]
+  },
+  {
+   "id": "gra-15-s020",
+   "type": "exercise",
+   "title": "Упражнение 231",
+   "num": 231,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Đọc các câu (trong phần lý thuyết trên). Chú ý: vị ngữ danh từ bao giờ cũng là vị ngữ ghép. Xác định sự khác nhau về nghĩa giữa các loại hệ từ. Chú ý các từ và cụm từ được dùng làm hệ từ và làm phần danh của vị ngữ."
+    },
+    {
+     "t": "para",
+     "text": "So sánh ba nhóm hệ từ: быть cùng các tiểu từ/liên từ so sánh — hệ từ trung hoà; các động từ bán thực nghĩa (стать, каза́ться, счита́ться…) — thêm sắc thái biến đổi, cảm nhận, đánh giá; các động từ thực nghĩa (жить, верну́ться, умере́ть…) — vừa gọi tên hành động vừa kèm đặc trưng của chủ thể."
+    }
+   ]
+  },
+  {
+   "id": "gra-15-s021",
+   "type": "exercise",
+   "title": "Упражнение 232",
+   "num": 232,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Đọc các câu, tách vị ngữ danh từ. Bổ sung vào câu động từ быть ở thì quá khứ."
+    },
+    {
+     "t": "note",
+     "text": "Hệ từ trong vị ngữ danh từ hợp dạng với chủ thể: Он был прав. Она́ была́ права́. Вы бы́ли пра́вы (Anh ấy / Cô ấy / Các vị đã đúng)."
+    },
+    {
+     "t": "note",
+     "text": "Trong cấu trúc với chủ thể là đại từ chỉ định э́то hoặc từ chỉ nơi chốn/thời gian, dạng của hệ từ do danh từ ở cách 1 quyết định: Э́то (Вчера́) был вто́рник. Была́ суббо́та. Бы́ло воскресе́нье (Hôm đó (hôm qua) là thứ Ba / thứ Bảy / Chủ nhật)."
+    },
+    {
+     "t": "note",
+     "text": "Nếu phần danh là trạng từ, số từ hoặc dạng giới-cách của danh từ thì dùng dạng ngôi 3 số ít бы́ло: Бы́ло хо́лодно (Trời lạnh). Э́то бы́ло на у́лице (Chuyện xảy ra ngoài phố). Бы́ло без десяти́ два (Lúc đó là hai giờ kém mười)."
+    },
+    {
+     "t": "para",
+     "text": "1. Всё э́то пустяки́ (Tất cả chỉ là chuyện vặt); 2. Твоя́ сестра́ — замеча́тельный врач (Chị cậu là một bác sĩ tuyệt vời); 3. Они́ в отли́чном настрое́нии (Họ đang rất phấn chấn); 4. Они́ дово́льны друг дру́гом (Họ hài lòng về nhau); 5. Э́то недоразуме́ние (Đây là một sự hiểu lầm); 6. На часа́х семь ве́чера (Đồng hồ chỉ bảy giờ tối); 7. Твой костю́м в шкафу́ (Bộ vest của cậu ở trong tủ); 8. Э́то мои́ колле́ги (Đây là các đồng nghiệp của tôi); 9. Э́то про́сто шу́тка (Chỉ là chuyện đùa thôi); 10. Его́ роди́тели встрево́жены (Bố mẹ cậu ấy lo lắng); 11. Все го́сти на терра́се (Khách khứa đều ở ngoài hiên); 12. Э́то пла́тье безнадёжно испо́рчено (Chiếc váy này hỏng hẳn không cứu được nữa); 13. Э́то случа́йная оши́бка (Đây là lỗi ngẫu nhiên); 14. Из до́ма ни стро́чки (Nhà chẳng gửi lấy một dòng thư); 15. В до́ме сы́рость (Trong nhà ẩm thấp); 16. На часа́х без пятна́дцати во́семь (Đồng hồ chỉ tám giờ kém mười lăm); 17. Э́то мой ста́рый друг (Đây là bạn cũ của tôi); 18. На дере́вьях ни листо́чка (Trên cây không còn một chiếc lá); 19. Э́то про́сто недопусти́мо (Điều này đơn giản là không thể chấp nhận được); 20. Э́то не по мое́й вине́ (Chuyện này không phải lỗi tại tôi); 21. На часа́х полови́на деся́того (Đồng hồ chỉ chín giờ rưỡi)."
+    }
+   ]
+  },
+  {
+   "id": "gra-15-s022",
+   "type": "exercise",
+   "title": "Упражнение 233",
+   "num": 233,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Nếu có thể, hãy dùng các tiểu từ э́то, вот, зна́чит để bổ sung vào các câu. Giải thích lựa chọn, nêu các phương án. Xác định sự khác biệt về nghĩa giữa câu có và không có tiểu từ."
+    },
+    {
+     "t": "note",
+     "text": "Khi đối chiếu hai sự vật (khái niệm), các tiểu từ э́то, вот, зна́чит chỉ được dùng nếu ở vị trí vị thể là DANH TỪ. Э́то cho biết một khái niệm được đồng nhất với khái niệm khác theo nghĩa ẩn dụ: Ста́рость — э́то ве́чер жи́зни (Tuổi già là buổi chiều của cuộc đời). Зна́чит dùng như từ đồng nghĩa của э́то khi vị thể làm rõ nội dung lô-gích (khái niệm) của chủ thể: Любо́вь — зна́чит (э́то) терпе́ние (Yêu nghĩa là nhẫn nại). Вот nhấn mạnh tính chất nổi bật, duy nhất của chủ thể về mặt nào đó: Смех — вот (э́то) лу́чшее лека́рство от всех боле́зней (Tiếng cười — đó mới là liều thuốc tốt nhất cho mọi bệnh tật)."
+    },
+    {
+     "t": "para",
+     "text": "1. Архитекту́ра — засты́вшая му́зыка (И. Гёте) (Kiến trúc là âm nhạc đông cứng — Goethe); 2. Чи́стая со́весть — са́мая лу́чшая поду́шка (Г. И́бсен) (Lương tâm trong sạch là chiếc gối êm nhất — Ibsen); 3. Бла́го наро́да — вы́сший зако́н (Цицеро́н) (Phúc lợi của nhân dân là luật tối thượng — Cicero); 4. Де́ти — цветы́ жи́зни (М. Го́рький) (Trẻ em là hoa của cuộc đời — M. Gorky); 5. Жизнь коротка́, иску́сство ве́чно (Гиппокра́т) (Đời người ngắn ngủi, nghệ thuật trường tồn — Hippocrates); 6. Лу́чшее — враг хоро́шего (Вольте́р) (Cái hoàn hảo là kẻ thù của cái tốt — Voltaire); 7. Го́лод — лу́чший по́вар (Цицеро́н) (Cơn đói là người đầu bếp giỏi nhất — Cicero); 8. Лю́ди холо́пского зва́нья — су́щие псы иногда́: чем тяжеле́й наказа́нье, тем им миле́й господа́ (Н. Некра́сов) (Những kẻ phận tôi đòi lắm khi đúng là lũ chó: đòn càng nặng, càng quý chủ — N. Nekrasov); 9. Глас наро́да — глас бо́жий (Алкуи́н) (Tiếng dân là tiếng Chúa — Alcuin); 10. Эконо́мия — расхо́дование де́нег без получе́ния от э́того како́го-либо удово́льствия (А. Салакру́) (Tiết kiệm là tiêu tiền mà chẳng nhận được chút khoái cảm nào — A. Salacrou); 11. Ах, злы́е языки́ страшне́е пистоле́та (А. Грибое́дов) (Ôi, miệng lưỡi độc địa còn đáng sợ hơn họng súng — A. Griboedov); 12. Под ста́рость жизнь така́я га́дость (А. Пу́шкин) (Về già cuộc đời thật đáng chán — A. Pushkin); 13. Зна́ние — си́ла (Ф. Бэ́кон) (Tri thức là sức mạnh — F. Bacon); 14. Привы́чка — втора́я нату́ра (Цицеро́н) (Thói quen là bản tính thứ hai — Cicero); 15. Фа́кты — упря́мая вещь (А. Леса́ж) (Sự thật là thứ bướng bỉnh — A. Lesage); 16. Кра́ткость — сестра́ тала́нта (А. Че́хов) (Ngắn gọn là chị em của tài năng — A. Chekhov); 17. Мой дом — моя́ кре́пость (Э. Кок) (Nhà tôi là pháo đài của tôi — E. Coke); 18. И жизнь, как посмо́тришь с холо́дным внима́ньем вокру́г, — така́я пуста́я и глу́пая шу́тка (М. Ле́рмонтов) (Và cuộc đời, khi lạnh lùng chăm chú nhìn quanh, chỉ là một trò đùa trống rỗng và ngu ngốc — M. Lermontov)."
+    }
+   ]
+  },
+  {
+   "id": "gra-15-s023",
+   "type": "exercise",
+   "title": "Упражнение 234",
+   "num": 234,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Dùng liên từ so sánh как hoặc сло́вно, đưa ra phương án đồng nghĩa của các câu với vị ngữ danh từ ghép. Giải thích lựa chọn, nêu các phương án."
+    },
+    {
+     "t": "note",
+     "text": "Khác với liên từ как, các từ сло́вно, бу́дто, то́чно đưa vào phép so sánh những đối tượng có đặc trưng không đơn nhất hoặc nhiều mặt. So sánh: Её глаза́ как звёздочки (горя́т) (Mắt cô ấy (sáng) như những vì sao). — Ты сло́вно ребёнок, кото́рого оста́вили без сла́дкого (Cậu cứ như đứa trẻ bị phạt không cho ăn kẹo)."
+    },
+    {
+     "t": "note",
+     "text": "Cấu trúc với сло́вно, бу́дто, то́чно thường được dùng khi trong thành phần vị ngữ có định ngữ làm rõ thêm. So sánh: Отсу́тствующие как де́ти: они́ не мо́гут защити́ться. — Отсу́тствующие сло́вно де́ти, кото́рые не мо́гут защити́ться (Những người vắng mặt như trẻ con: không thể tự bảo vệ mình)."
+    },
+    {
+     "t": "para",
+     "text": "1. Э́тот хлеб — ка́мень (Bánh mì này cứng như đá); 2. Тума́н у са́мой реки́ — молоко́ (Sương mù sát mặt sông trắng như sữa); 3. Э́та мысль — ги́ря у меня́ на душе́ (Ý nghĩ ấy như quả tạ đè nặng lòng tôi); 4. О́зеро зимо́й — зе́ркало (Mặt hồ mùa đông như tấm gương); 5. Кни́ги на по́лке — солда́ты в строю́ (Sách trên giá như những người lính xếp hàng); 6. Сне́жные верши́ны — мохна́тые ша́пки (Những đỉnh núi tuyết như những chiếc mũ lông xù); 7. Спле́тни — назо́йливые му́хи (Chuyện ngồi lê đôi mách như lũ ruồi dai dẳng); 8. Э́ти де́ньги — ка́пля в мо́ре (Số tiền này như muối bỏ bể); 9. Его́ жизнь — полёт над бе́здной (Cuộc đời anh ấy như chuyến bay trên miệng vực thẳm); 10. Он — провини́вшийся шко́льник, кото́рый ждёт наказа́ния (Anh ta như cậu học trò phạm lỗi đang chờ chịu phạt); 11. Одино́кий стра́нник — волк: рассчи́тывать он мо́жет то́лько на себя́ (Kẻ lữ hành đơn độc như con sói: chỉ có thể trông cậy vào chính mình); 12. Со́весть — больно́й зуб (Lương tâm như chiếc răng đau); 13. Твои́ слова́ — нож (Lời cậu nói như dao cứa); 14. Когда́ у меня́ нет но́вых иде́й, я — больно́й (И. Гёте) (Khi không có ý tưởng mới, tôi như người ốm — Goethe); 15. Ру́ки у него́ — па́лки (Tay anh ta khẳng khiu như que củi); 16. Пусты́е мечты́ — снежи́нки, та́ющие в во́здухе без следа́ (Mộng hão như những bông tuyết tan giữa không trung chẳng để lại dấu vết); 17. Хоро́ший сове́т — спаса́тельный круг: до́лжен быть дан во́время (Lời khuyên tốt như chiếc phao cứu sinh: phải được trao đúng lúc); 18. Его́ лицо́ — помидо́р (Mặt anh ta đỏ như quả cà chua); 19. Её посту́пок — уда́р в спи́ну (Hành động của cô ta như nhát dao đâm sau lưng); 20. Го́ды — песо́к, кото́рый бежи́т ме́жду па́льцев (Năm tháng như cát chảy qua kẽ ngón tay); 21. Она́ — мы́шка: её тру́дно заме́тить (Cô ấy như con chuột nhắt: khó mà nhận ra); 22. Лёд — го́рный хруста́ль (Băng trong như pha lê núi)."
+    }
+   ]
+  },
+  {
+   "id": "gra-15-s024",
+   "type": "exercise",
+   "title": "Упражнение 235",
+   "num": 235,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Mở ngoặc, dùng trong thành phần vị ngữ danh từ cấu trúc so sánh похо́ж на что hoặc подо́бен чему́. Giải thích lựa chọn, nêu các phương án. Cuối cùng cho biết những câu nào có thể dùng cấu trúc với liên từ сло́вно."
+    },
+    {
+     "t": "note",
+     "text": "Cấu trúc «кто? похо́ж (-а, -е, -и) на кого́? что?» dùng khi so sánh hai sự vật dựa trên sự giống nhau BỀ NGOÀI. Cấu trúc «кто? что? подо́бен (подо́бна, подо́бно, подо́бны) чему́?» dùng khi đối chiếu phẩm chất BÊN TRONG hoặc đặc trưng chức năng của sự vật."
+    },
+    {
+     "t": "note",
+     "text": "Cơ sở của phép so sánh thường được làm rõ thêm trong các cấu trúc giải thích: Он похо́ж на самова́р: тако́й же то́лстый (Anh ta giống cái ấm samovar: cũng béo tròn như thế). — Споко́йный челове́к подо́бен самова́ру: не так про́сто вы́вести его́ из себя́, но е́сли э́то произошло́, останови́ть его́ гнев невозмо́жно (Người điềm tĩnh tựa như ấm samovar: không dễ làm anh ta nổi nóng, nhưng nếu đã nóng thì không cản nổi cơn giận)."
+    },
+    {
+     "t": "para",
+     "text": "1. Жизнь ча́ще (рома́н), чем на́ши рома́ны (жизнь) (Ж. Санд) (Cuộc đời thường giống tiểu thuyết hơn là tiểu thuyết của ta giống cuộc đời — George Sand); 2. До́брый смех (со́лнечный свет в до́ме) (У. Теккере́й) (Tiếng cười hiền hậu như ánh nắng trong nhà — W. Thackeray); 3. Исто́рия (гвоздь, на кото́рый мо́жно пове́сить всё, что уго́дно) (Элиа́н) (Lịch sử như chiếc đinh: có thể treo lên đó bất cứ thứ gì); 4. И́стинная любо́вь (привиде́ние: все о ней говоря́т, но ма́ло кто её ви́дел) (Ф. де Ларошфуко́) (Tình yêu đích thực như bóng ma: ai cũng nói về nó nhưng mấy ai từng thấy — La Rochefoucauld); 5. Пе́сня (не́жная мгла, что, поднима́ясь с о́зера, разлива́ется по безмо́лвному до́лу) (Оссиа́н) (Bài ca như màn sương dịu dàng từ mặt hồ dâng lên, lan toả khắp thung lũng tịch mịch — Ossian); 6. Злой челове́к (у́голь: е́сли не жжёт, то черни́т тебя́) (Ана́харсис) (Kẻ ác như hòn than: không làm anh bỏng thì cũng làm anh lấm đen — Anacharsis); 7. Ге́ний (холм, возвыша́ющийся на равни́не) (К. Прутко́в) (Thiên tài như ngọn đồi nhô lên giữa đồng bằng — K. Prutkov); 8. Чувстви́тельный челове́к (безору́жный среди́ хорошо́ вооружённых) (Б. Аверба́х) (Người nhạy cảm như kẻ tay không giữa những người vũ trang đầy đủ — B. Auerbach); 9. Лю́ди (моне́ты: на́до принима́ть их по их сто́имости, како́й бы о́ттиск на них ни был) (П. Буа́ст) (Con người như những đồng tiền: phải nhận họ theo giá trị thực, bất kể hình dập trên đó là gì — P. Buast); 10. И́стинное досто́инство (река́: чем она́ глу́бже, тем ме́ньше издаёт шу́ма) (Антисфе́н) (Phẩm giá đích thực như dòng sông: càng sâu càng ít ồn ào — Antisthenes); 11. Язы́к (надтре́снутый котёл, по кото́рому мы высту́киваем мело́дии, звуча́щие так, как бу́дто они́ предназна́чены для та́нцев медве́дя, ме́жду тем как мы бы хоте́ли тро́нуть и́ми звёзды) (Г. Флобе́р) (Ngôn ngữ như chiếc nồi rạn nứt mà ta gõ lên những giai điệu nghe như dành cho gấu nhảy múa, trong khi ta những muốn dùng chúng lay động các vì sao — G. Flaubert); 12. Не́учи (бу́бны: они́ произво́дят большо́й шум благодаря́ свое́й пустоте́) (И. Гёте) (Kẻ vô học như chiếc trống lắc: gây ồn ào lớn nhờ chính sự rỗng tuếch của mình — Goethe); 13. Клевета́ (доку́чливая оса́: е́сли у вас нет уве́ренности, что вы тут же на ме́сте убьёте её, то и отгоня́ть не пыта́йтесь) (А. Риваро́ль) (Lời vu khống như con ong vò vẽ quấy rầy: nếu không chắc đập chết được nó ngay tại chỗ thì đừng cố xua đuổi — A. Rivarol); 14. Зако́ны (паути́на, в кото́рую попада́ет ме́лкая мошкара́, но через кото́рую прорыва́ются ше́ршни и о́сы) (Дж. Свифт) (Luật pháp như mạng nhện: tóm được lũ muỗi mắt nhỏ nhoi nhưng lại để ong bắp cày và ong vò vẽ xé rách chui qua — J. Swift); 15. Большинство́ из нас (пету́х, кото́рый вообража́л, что со́лнце встаёт ка́ждое у́тро еди́нственно для того́, что́бы послу́шать, как он поёт) (Д.К. Джеро́м) (Phần lớn chúng ta như con gà trống tưởng rằng mặt trời sáng nào cũng mọc chỉ cốt để nghe nó gáy — J.K. Jerome); 16. Увлека́ющийся пра́ктикой без нау́ки (ко́рмчий, вступа́ющий на кора́бль без ко́мпаса) (Л. да Ви́нчи) (Kẻ say mê thực hành mà không có khoa học như người hoa tiêu bước lên tàu không la bàn — Leonardo da Vinci); 17. Долги́ (вся́кая друга́я западня́: попа́сть в них весьма́ легко́, но вы́браться дово́льно тру́дно) (Б. Шо́у) (Nợ nần như mọi cái bẫy khác: sa vào rất dễ, thoát ra khá khó — B. Shaw); 18. Ко́мната без книг (те́ло без души́) (Цицеро́н) (Căn phòng không có sách như thân xác không có linh hồn — Cicero)."
+    }
+   ]
+  },
+  {
+   "id": "gra-15-s025",
+   "type": "exercise",
+   "title": "Упражнение 236",
+   "num": 236,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Điền vào chỗ trống các động từ bán thực nghĩa thích hợp: явля́ться, каза́ться, стать, станови́ться, оста́ться, сде́латься, оказа́ться, счита́ть, называ́ть, де́лать. Giải thích lựa chọn, nêu các phương án. (Các câu trích từ tiểu thuyết «Nghệ nhân và Margarita» của M. Bulgakov.)"
+    },
+    {
+     "t": "para",
+     "text": "1. Дыша́ть … гора́здо ле́гче, и голоса́ под ли́пами звуча́ли мя́гче, по-вече́рнему (Thở đã trở nên dễ hơn nhiều, và những giọng nói dưới rặng đoạn nghe dịu lại như tiếng chiều muộn); 2. «Не шалю́, никого́ не тро́гаю, починя́ю при́мус, — недружелю́бно насу́пившись, проговори́л кот, — и ещё … свои́м до́лгом предупреди́ть, что кот — дре́внее и неприкоснове́нное живо́тное» («Tôi không quậy phá, không động đến ai, chỉ chữa cái bếp dầu, — con mèo cau có nói, — và còn coi bổn phận của mình là cảnh báo rằng mèo là loài vật cổ xưa và bất khả xâm phạm»); 3. «В числе́ про́чего я говори́л, — расска́зывал ареста́нт, — что вся́кая власть … наси́лием над людьми́ и что наста́нет вре́мя, когда́ не бу́дет вла́сти ни ке́сарей, ни како́й-либо ино́й вла́сти» («Trong những điều đã nói, — người tù kể, — tôi bảo rằng mọi chính quyền đều là bạo lực đối với con người, và sẽ đến lúc chẳng còn quyền lực của các hoàng đế lẫn bất cứ quyền lực nào khác»); 4. Но э́то ещё не всё: тре́тьим в э́той компа́нии … неизве́стно отку́да взя́вшийся кот, грома́дный, как бо́ров, чёрный, как са́жа и́ли грач, и с отча́янными кавалери́йскими уса́ми (Nhưng chưa hết: kẻ thứ ba trong nhóm hoá ra là một con mèo không biết từ đâu chui ra, to như con lợn thiến, đen như bồ hóng hay như quạ, với bộ ria kỵ binh ngang tàng); 5. Пришло́сь … ве́щи свои́ми имена́ми и призна́ться в том, что администра́ция варьете́, в лице́ дире́ктора, финдире́ктора и администра́тора, пропа́ла и нахо́дится неизве́стно где (Đành phải gọi sự vật bằng đúng tên của chúng và thừa nhận rằng ban lãnh đạo nhà hát tạp kỹ — giám đốc, giám đốc tài chính và quản trị viên — đã biến mất không rõ tung tích); 6. Вспу́хшее ве́ко приподняло́сь, подёрнутый ды́мкой страда́ния глаз уста́вился на аресто́ванного. Друго́й глаз … закры́тым (Mí mắt sưng phồng nhướng lên, con mắt phủ màn sương đau đớn nhìn chằm chằm kẻ bị bắt. Con mắt kia vẫn nhắm nghiền); 7. Врач … прав (Bác sĩ hoá ra đã đúng); 8. Ещё раз, и в после́дний раз, мелькну́ла луна́, но уже́ разва́ливаясь на куски́, и зате́м … темно́ (Mặt trăng loé lên lần nữa, lần cuối cùng, nhưng đã vỡ thành từng mảnh, và sau đó trời tối sầm lại); 9. «Ах! Оскорбле́нье … обы́чной награ́дой за хоро́шую рабо́ту, — отве́тил Азазе́лло, — неуже́ли вы сле́пы? Но прозре́йте же скоре́й!» («Chao ôi! Sự lăng mạ đã trở thành phần thưởng thường lệ cho công việc tốt, — Azazello đáp, — chẳng lẽ bà mù sao? Hãy mau sáng mắt ra!»); 10. Ива́н не отве́тил, так как счёл э́то приве́тствие в да́нных усло́виях неуме́стным. В са́мом де́ле, засади́ли здоро́вого челове́ка в лече́бницу, да ещё … вид, что э́то так и ну́жно! (Ivan không đáp, vì cho rằng lời chào ấy trong hoàn cảnh này là không thích hợp. Quả thật, người ta nhốt một người khoẻ mạnh vào nhà thương, lại còn làm ra vẻ thế là phải!); 11. Кот вскочи́л живо́й и бо́дрый, ухвати́в при́мус под мы́шку, сигану́л с ним обра́тно на ками́н, а отту́да, раздира́я обо́и, поле́з по стене́ и через секу́нды две … высоко́ над воше́дшими, сидя́щим на металли́ческом карни́зе (Con mèo bật dậy sống nguyên và lanh lẹn, cắp bếp dầu vào nách, phóng ngược lên lò sưởi, rồi từ đó cào rách giấy dán tường leo lên vách, và chừng hai giây sau đã ngồi tít trên cao, trên gờ kim loại, phía trên những người vừa bước vào); 12. Она́ улете́ла, а тоска́ … необъяснённой, и́бо не могла́ же её объясни́ть мелькну́вшая как мо́лния и тут же пога́сшая кака́я-то коро́ткая друга́я мысль: «Бессме́ртие. Пришло́ бессме́ртие» (Bà ấy bay đi, còn nỗi buồn vẫn không sao lý giải được, bởi lẽ một ý nghĩ ngắn ngủi khác loé lên như tia chớp rồi vụt tắt — «Bất tử. Sự bất tử đã đến» — không thể nào giải thích nổi nó); 13. Луна́ хорошо́ помога́ла Маргари́те, свети́ла лу́чше, чем са́мый лу́чший электри́ческий фона́рь, и Маргари́та ви́дела, что сидя́щий, глаза́ кото́рого … слепы́ми, ко́ротко потира́ет свои́ ру́ки и э́ти са́мые незря́чие глаза́ вперя́ет в диск луны́ (М. Булга́ков) (Mặt trăng giúp Margarita rất nhiều, soi sáng hơn cả ngọn đèn điện tốt nhất, và Margarita thấy kẻ đang ngồi đó — đôi mắt dường như đã mù — chốc chốc lại xoa hai bàn tay và hướng chính cặp mắt vô hồn ấy về phía vầng trăng — M. Bulgakov)."
+    }
+   ]
+  },
+  {
+   "id": "gra-15-s026",
+   "type": "exercise",
+   "title": "Упражнение 237",
+   "num": 237,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Điền vào chỗ trống các động từ thực nghĩa thích hợp: быть, идти́, верну́ться, роди́ться, жить và những động từ khác. Giải thích lựa chọn. Nêu các phương án."
+    },
+    {
+     "t": "note",
+     "text": "Khi chủ ngữ ở cách 1, hệ từ быть: 1) KHÔNG dùng với trạng từ chỉ cách thức hành động (хорошо́, бы́стро, горячо́), trạng từ chỉ nguyên nhân (со́слепу, назло́, сгоряча́) và trạng động từ (so sánh: Они́ жи́ли хорошо́ — Họ sống sung túc), nhưng CÓ dùng với trạng từ chỉ dấu hiệu bên ngoài — nơi chốn, thời gian, điều kiện diễn ra (там, вчера́, вдвоём): В теа́тре я был вчера́ (Tôi đến nhà hát hôm qua); 2) KHÔNG dùng với phân từ dài đuôi, nhưng CÓ dùng với phân từ ngắn đuôi: Она́ была́ расстро́ена (Cô ấy đã buồn phiền)."
+    },
+    {
+     "t": "note",
+     "text": "Các hệ từ mang nghĩa chuyển động, trạng thái… KHÔNG dùng với tính từ ngắn đuôi và trạng từ."
+    },
+    {
+     "t": "note",
+     "text": "Cần phân biệt phân từ dài đuôi với tính từ cùng hình thức: trong câu, phân từ có từ phụ thuộc là dạng giới-cách của danh từ, còn tính từ kết hợp với trạng từ mức độ о́чень, соверше́нно, кра́йне hoặc đại từ xác định. So sánh: Он был (о́чень) воспи́танный (tính từ — Anh ấy (rất) lễ độ). — Он был воспи́тан (причастие) на класси́ческой литерату́ре (phân từ — Anh ấy được nuôi dạy trên nền văn học cổ điển). Kết hợp với быть, tính từ гото́вый chỉ có dạng ngắn đuôi: Мы бы́ли гото́вы."
+    },
+    {
+     "t": "para",
+     "text": "1. Он … в глубо́кой заду́мчивости, опусти́в ру́ки на коле́ни (Anh ấy ngồi trầm ngâm, hai tay buông trên gối); 2. Они́ … ми́мо нас не поздоро́вавшись (Họ đi ngang qua chúng tôi mà không chào); 3. Ты … оди́н, в том же до́ме? (Cậu vẫn sống một mình, trong ngôi nhà cũ ấy à?); 4. Тума́н … повсю́ду (Sương mù giăng khắp nơi); 5. Она́ … прислони́вшись к косяку́ две́ри (Cô ấy đứng tựa vào khung cửa); 6. Поздравля́ю, испыта́ния … успе́шно! (Chúc mừng, các cuộc thử nghiệm đã diễn ra thành công!); 7. Он до́лгое вре́мя … сто́рожем (Ông ấy làm bảo vệ trong một thời gian dài); 8. Когда́ ты … домо́й? (Khi nào cậu về nhà?); 9. Тебе́ всегда́ везёт, ты … счастли́вчиком (Cậu lúc nào cũng gặp may — cậu sinh ra đã là người tốt số); 10. Ста́рший ребёнок … послу́шный, а мла́дший доставля́л роди́телям мно́го хлопо́т (Đứa lớn vốn ngoan ngoãn, còn đứa bé khiến bố mẹ nhiều phen vất vả); 11. Он … на сту́ле соверше́нно неподви́жно и да́же не поверну́л го́лову в на́шу сто́рону (Anh ta ngồi trên ghế hoàn toàn bất động, thậm chí không quay đầu về phía chúng tôi); 12. Она́ до́лго боле́ла и … совсе́м молодо́й, в два́дцать шесть лет (Cô ấy ốm lâu và mất khi còn rất trẻ, mới hai mươi sáu tuổi); 13. Мы … гото́вы к любо́й неожи́данности (Chúng tôi đã sẵn sàng cho mọi bất ngờ); 14. По́сле экза́мена я … соверше́нно опустошённый (Sau kỳ thi tôi trở về kiệt quệ hoàn toàn); 15. Послу́шай, … оди́н или с друзья́ми, мы всегда́ бу́дем тебе́ ра́ды (Này, cậu cứ đến — một mình hay cùng bạn bè — chúng tôi đều luôn mừng đón cậu); 16. Они́ … не попроща́вшись (Họ bỏ đi không chào tạm biệt); 17. Мой оте́ц всегда́ … суро́в, но справедли́в (Cha tôi bao giờ cũng nghiêm khắc nhưng công bằng); 18. Она́ … в коридо́ре, гото́вая к отъе́зду (Cô ấy đứng ngoài hành lang, đã sẵn sàng lên đường); 19. Он … на крова́ти с закры́тыми глаза́ми, каза́лось, что он спит (Anh ấy nằm trên giường, mắt nhắm, tưởng như đang ngủ); 20. Мо́жно я … к вам с дру́гом? (Tôi đến chỗ anh cùng một người bạn được không?); 21. Из зри́тельного за́ла все … взволно́ванные (Từ khán phòng mọi người bước ra trong xúc động); 22. Мы до́лго молча́ли, он … пе́рвый (Chúng tôi im lặng hồi lâu, anh ấy lên tiếng trước); 23. Э́тот дом два го́да … разру́шенный (Ngôi nhà này nằm đổ nát suốt hai năm); 24. Я … тро́нут его́ слова́ми до глубины́ души́ (Tôi xúc động đến tận đáy lòng vì những lời của anh ấy); 25. Шерсть у соба́ки … ды́бом (Lông con chó dựng đứng cả lên); 26. У́жин … на столе́ нетро́нутым (Bữa tối vẫn nguyên trên bàn, không ai động đến); 27. Обы́чно мы … в две сме́ны (Thường chúng tôi làm việc hai ca); 28. Он … прихра́мывая (Anh ấy bước đi hơi khập khiễng); 29. Э́ти духи́ у меня́ … са́мыми люби́мыми (Lọ nước hoa này vẫn là thứ tôi yêu thích nhất); 30. Стол … накры́т, всё … гото́во к приёму госте́й (Bàn đã bày xong, mọi thứ đã sẵn sàng đón khách); 31. Он … са́мым родны́м для меня́ челове́ком (Anh ấy vẫn là người thân thiết nhất đối với tôi)."
+    }
+   ]
+  },
+  {
+   "id": "gra-15-s027",
+   "type": "exercise",
+   "title": "Упражнение 238",
+   "num": 238,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Mở ngoặc, đặt tính từ và số thứ tự ở cách 1 (именительный) hoặc cách 5 (творительный). Giải thích lựa chọn, nêu các phương án."
+    },
+    {
+     "t": "note",
+     "text": "Trong vị ngữ danh từ với быть ở thì quá khứ, CÁCH 1 thường dùng cho tính từ quan hệ và tính từ chất lượng mang nghĩa khách quan; CÁCH 5 — cho tính từ chỉ cảm nhận chủ quan ('có vẻ như vậy') hoặc bị giới hạn về thời gian/không gian. So sánh: Дом был кирпи́чный (большо́й) (Ngôi nhà bằng gạch (to)). — Его́ распоряже́ния бы́ли обяза́тельными (для его́ подчинённых) (Chỉ thị của ông là bắt buộc (đối với cấp dưới)). — Твой отве́т был пра́вильным (đánh giá chủ quan của người cảm nhận)."
+    },
+    {
+     "t": "para",
+     "text": "1. У́тро бы́ло (со́лнечное) (Buổi sáng trời nắng đẹp); 2. Его́ реше́ния ка́ждый раз бы́ли для меня́ (неожи́данные) (Các quyết định của anh ấy lần nào cũng bất ngờ đối với tôi); 3. Го́род был (огро́мный, пятимиллио́нный) (Thành phố mênh mông, năm triệu dân); 4. В то вре́мя измене́ния, о кото́рых ты говори́шь, бы́ли (необходи́мые) (Hồi đó những thay đổi mà cậu nói là cần thiết); 5. Хара́ктер у него́ всегда́ был (споко́йный) (Tính anh ấy xưa nay vẫn điềm đạm); 6. В нача́ле сраже́ния си́лы бы́ли (нера́вные) (Đầu trận đánh lực lượng hai bên không cân sức); 7. Рабо́та на фа́брике была́ (тяжёлая) для челове́ка его́ лет (Công việc ở xưởng quá nặng đối với người ở tuổi ông ấy); 8. Доро́га была́ (разби́тая), маши́ну си́льно трясло́ (Mặt đường lồi lõm, xe xóc dữ dội); 9. Э́то реше́ние бы́ло для меня́ о́чень (ва́жное) (Quyết định ấy rất quan trọng đối với tôi); 10. Иде́я-то была́ (разу́мная), но её реализа́ция вызыва́ла мно́го вопро́сов (Ý tưởng thì hợp lý đấy, nhưng việc thực hiện nó đặt ra nhiều câu hỏi); 11. Дым был (е́дкий), глаза́ от него́ слези́лись и боле́ли (Khói cay xè, làm mắt chảy nước và đau rát); 12. Потоло́к в ко́мнате был (высо́кий) (Trần phòng cao); 13. Э́ти цветы́ бы́ли (мои́ са́мые люби́мые) (Những bông hoa này là loại tôi yêu thích nhất); 14. Его́ реа́кция была́ (стра́нная) (Phản ứng của anh ta thật kỳ lạ); 15. В те го́ды все мы бы́ли (молоды́е) (Những năm ấy tất cả chúng tôi đều còn trẻ); 16. Он был (второ́й) в кла́ссе по успева́емости (Cậu ấy đứng thứ nhì lớp về học lực); 17. Доро́га была́ (у́зкая), мы с трудо́м продвига́лись вперёд (Con đường hẹp, chúng tôi nhích lên phía trước rất chật vật); 18. Слова́ его́ бы́ли (оскорби́тельные) (Lời lẽ của anh ta đầy xúc phạm); 19. Стол был (деревя́нный) на металли́ческих но́жках (Chiếc bàn bằng gỗ, chân kim loại); 20. Все движе́ния его́ бы́ли (то́чные и разме́ренные) (Mọi động tác của anh ấy đều chính xác và nhịp nhàng); 21. Хлеб был (вчера́шний) (Bánh mì là bánh từ hôm qua); 22. По-мо́ему, реше́ние судьи́ бы́ло (справедли́вое) (Theo tôi, phán quyết của trọng tài là công bằng); 23. Дождь был (си́льный), мы промо́кли до ни́тки (Mưa to, chúng tôi ướt như chuột lột); 24. Их дом был (тре́тий) от угла́ (Nhà họ là căn thứ ba tính từ góc phố)."
+    }
+   ]
+  },
+  {
+   "id": "gra-15-s028",
+   "type": "exercise",
+   "title": "Упражнение 239",
+   "num": 239,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Mở ngoặc, đặt danh từ và tính từ ở cách cần thiết. Giải thích lựa chọn, nêu các phương án."
+    },
+    {
+     "t": "note",
+     "text": "Trong vị ngữ danh từ với быть ở thì quá khứ, danh từ thường đứng ở CÁCH 5: Он был геро́ем (Anh ấy là người anh hùng). Cách 1 của danh từ (Он был геро́й) chỉ dùng trong khẩu ngữ. Nếu nghĩa của vị ngữ bị giới hạn về không gian hoặc thời gian thì CHỈ dùng cách 5: Он был геро́ем во вре́мя войны́ (Anh ấy là anh hùng trong thời chiến)."
+    },
+    {
+     "t": "note",
+     "text": "Kết hợp với các động từ bán thực nghĩa стать, каза́ться, вы́глядеть và các động từ идти́, жить, рабо́тать…, danh từ CHỈ đứng ở cách 5; còn tính từ và phân từ — ở cách 5 hoặc cách 1."
+    },
+    {
+     "t": "para",
+     "text": "1. Тогда́ он был совсе́м (молодо́й челове́к) (Hồi ấy anh ta còn là một chàng trai rất trẻ); 2. Не зна́ю, почему́ я тако́й у́мный, наве́рное, про́сто роди́лся (смышлёный) (Chẳng hiểu sao tôi thông minh thế, chắc trời sinh đã sáng dạ); 3. Рекс был (щено́к), когда́ его́ впервы́е принесли́ в наш дом (Rex hãy còn là cún con khi lần đầu được mang về nhà chúng tôi); 4. Ты стано́вишься сли́шком (любопы́тный), так нельзя́ (Cậu đang trở nên quá tò mò, thế là không được đâu); 5. По́сле совеща́ния он верну́лся (встрево́женный) (Sau cuộc họp anh ấy trở về với vẻ đầy lo lắng); 6. Ещё пять мину́т наза́д чай был (горя́чий) (Mới năm phút trước trà hãy còn nóng); 7. Поду́мать то́лько! Он оказа́лся (прили́чный челове́к) (Nghĩ mà xem! Hoá ra anh ta lại là người tử tế); 8. Пого́да в тот день была́ (холо́дная), моро́з был бо́льше двадцати́ гра́дусов (Hôm ấy trời lạnh, rét hơn hai mươi độ); 9. Она́ предста́вилась (его́ знако́мая), и я проводи́ла её в кабине́т (Bà ấy tự giới thiệu là người quen của ông, và tôi đưa bà vào phòng làm việc); 10. Я был (ребёнок) в то вре́мя и мно́гое не по́мню (Hồi đó tôi còn là đứa trẻ nên nhiều chuyện không nhớ); 11. Как ты мог так со мной поступи́ть?! А ещё (друг) называ́ешься! (Sao cậu có thể đối xử với tôi như thế?! Vậy mà cũng tự xưng là bạn!); 12. Она́ вы́глядела немно́го (постаре́вшая) (Trông bà ấy có phần già đi); 13. Глаза́ его́ каза́лись (прозра́чные), как лёд (Đôi mắt anh ta như trong suốt, tựa băng giá); 14. Мы всегда́ с тобо́й бы́ли (друзья́) (Tôi với cậu xưa nay vẫn luôn là bạn); 15. Мой друг был (тре́нер) футбо́льной кома́нды (Bạn tôi từng là huấn luyện viên đội bóng đá); 16. День был (дождли́вый). То́лько к ве́черу ненадо́лго вы́глянуло со́лнце (Hôm ấy trời mưa. Mãi gần tối mặt trời mới ló ra chốc lát); 17. Обрати́тесь к нему́, он счита́ется (ста́рший) среди́ нас (Hãy hỏi anh ấy — anh ấy được coi là người đứng đầu trong chúng tôi); 18. Его́ го́лос показа́лся мне (знако́мый) (Giọng anh ta nghe có vẻ quen quen); 19. Де́душка был (са́мый ста́рший) в на́шей семье́ (Ông là người cao tuổi nhất trong gia đình chúng tôi); 20. Де́ти сиде́ли (прити́хшие) (Lũ trẻ ngồi im thin thít); 21. Она́ всегда́ была́ (краса́вица) (Cô ấy xưa nay vẫn là người đẹp); 22. Шу́тки его́ бы́ли (пло́ские и примити́вные) (Những câu đùa của anh ta nhạt nhẽo và thô thiển); 23. Он был на заво́де (дире́ктор) (Ông ấy làm giám đốc ở nhà máy)."
+    }
+   ]
+  },
+  {
+   "id": "gra-15-s029",
+   "type": "exercise",
+   "title": "Упражнение 240",
+   "num": 240,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Với các cụm thành ngữ cho sẵn, hãy đặt câu. Tách vị ngữ danh từ ghép trong câu."
+    },
+    {
+     "t": "para",
+     "text": "1) идти́ ва-ба́нк (chơi tất tay, được ăn cả ngã về không); 2) верте́ться как бе́лка в колесе́ (xoay như chong chóng); 3) жить чужи́м умо́м (sống theo đầu óc kẻ khác); 4) рабо́тать не поклада́я рук (làm việc không ngơi tay); 5) ходи́ть вокру́г да о́коло (nói vòng vo tam quốc); 6) жить на широ́кую но́гу (sống xa hoa vương giả); 7) пляса́ть под чужу́ю ду́дку (nhảy theo điệu sáo của người khác); 8) ви́деть (кого́? что?) в ро́зовом цве́те (nhìn mọi thứ qua lăng kính màu hồng); 9) сиде́ть ме́жду двумя́ сту́льями (ngồi giữa hai chiếc ghế, bắt cá hai tay); 10) смотре́ть в ко́рень (nhìn thấu gốc rễ vấn đề); 11) знать как свои́ пять па́льцев (biết rõ như lòng bàn tay); 12) стоя́ть поперёк го́рла (у кого́?) (như hóc ngang cổ họng, gai mắt ai đó); 13) быть не у де́л (bị gạt ra rìa, ngồi chơi xơi nước); 14) смотре́ть со́колом (nhìn hiên ngang như chim ưng)."
+    }
+   ]
+  },
+  {
+   "id": "gra-15-s030",
+   "type": "exercise",
+   "title": "Упражнение 241",
+   "num": 241,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Tra từ điển và chép vào vở một số cụm thành ngữ có thể dùng ở vị trí vị ngữ danh từ. Đặt câu với chúng."
+    },
+    {
+     "t": "note",
+     "text": "Gợi ý: быть ни жив ни мёртв (sợ chết khiếp), быть ма́стером на все ру́ки (khéo tay trăm việc), быть не в ду́хе (khó ở, bực bội), быть не по душе́ (không vừa lòng)… — các cụm này đứng ở vị trí phần danh của vị ngữ."
+    }
+   ]
+  }
+ ]
+}

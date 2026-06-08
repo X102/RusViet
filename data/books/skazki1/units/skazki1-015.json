@@ -1,0 +1,183 @@
+{
+ "id": "skazki1-015",
+ "num": 15,
+ "title": "Лиса и дятел — Cáo và chim gõ kiến",
+ "vi": "Лиса и дятел — Cáo và chim gõ kiến",
+ "ru": "Лиса и дятел",
+ "icon": "🌳",
+ "color": "#3f6212",
+ "sectionPrefix": "skazki1-015-s",
+ "group": "Truyện № 31–60",
+ "sections": [
+  {
+   "id": "skazki1-015-s001",
+   "type": "story",
+   "num": 32,
+   "title": "№ 32 · Лиса и дятел — Cáo và chim gõ kiến",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "«Cáo và chim gõ kiến» là một truyện loài vật ngắn theo mô-típ «cáo doạ dẫm để vòi mồi». Đây là dị bản gọn của Afanasyev: cáo lấy đuôi nện vào gốc sồi, vờ doạ «cần đốn cây» để bắt chim gõ kiến lần lượt thả từng đứa con xuống, mỗi lần lại hứa hão sẽ «dạy nghề» cho chim non — nghề rèn, nghề đóng giày, nghề may — rồi nuốt chửng cả ba. Lối kể điệp khúc lặp ba lần cùng những từ tăng cấp (хвостище «cái đuôi tổ bố», дубище «cây sồi sù sì») tạo nên nhịp châm biếm rất dân gian. Riêng chữ «сечихичики» trong nguyên bản, chính người sưu tầm cũng đánh dấu «(?)» vì không rõ nghĩa."
+    },
+    {
+     "t": "para",
+     "text": "Жил-был дятел на дубу, свил себе гнездышко, снес три яичка и высидел три детёнка. (Ngày xưa có một chú chim gõ kiến sống trên cây sồi; nó kết cho mình một cái tổ nhỏ, đẻ ba quả trứng rồi ấp nở ra được ba đứa con.)"
+    },
+    {
+     "t": "para",
+     "text": "Повадилась к нему лиса ходить; стук-стук хвостищем по сырому дубищу: (Cáo ta đâm ra quen thói cứ lui tới chỗ nó; nó lấy cái đuôi tổ bố nện cồm-cộp, cồm-cộp vào thân sồi tươi:)"
+    },
+    {
+     "t": "para",
+     "text": "«Дятел, дятел! Полезай с дубу долой. Мне дуб надо — сечихичики (?) гнуть». («Gõ kiến, gõ kiến ơi! Trèo ngay xuống khỏi cây sồi đi. Ta cần cây sồi này — để uốn mấy cái “sechikhichiki”.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Эй, лисонька! Не дала ты мне и одного детенышка-то высидеть». («Ơ kìa, cáo thân mến! Đến một mụn con thôi mà chị cũng chẳng để cho tôi nuôi cho nên hồn.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Эй, дятел! Брось ты мне, я его выучу кузнечному». («Này, gõ kiến! Thả nó xuống cho ta, ta sẽ dạy nó nghề rèn.»)"
+    },
+    {
+     "t": "para",
+     "text": "Дятел ей бросил, а она кустик за кустик, лесок за лесок, да и съела. (Gõ kiến bèn thả con xuống cho cáo, còn cáo thì lủi qua bụi này sang bụi khác, qua rừng này sang rừng kia, rồi xơi tái mất.)"
+    },
+    {
+     "t": "para",
+     "text": "Опять идет к дятлу и стук-стук хвостищем по сырому дубищу: (Cáo lại mò đến chỗ gõ kiến, lại lấy đuôi nện cồm-cộp, cồm-cộp vào thân sồi tươi:)"
+    },
+    {
+     "t": "para",
+     "text": "«Дятел, дятел! Полезай с дубу долой, мне дуб надо — сечихичики гнуть». («Gõ kiến, gõ kiến ơi! Trèo ngay xuống khỏi cây sồi đi, ta cần cây sồi này — để uốn mấy cái “sechikhichiki”.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Эй, лисонька! Не дала ты мне и одного детенышка-то высидеть». («Ơ kìa, cáo thân mến! Đến một mụn con thôi mà chị cũng chẳng để cho tôi nuôi cho nên hồn.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Эй, дятел! Брось ты мне, я его выучу башмачному». («Này, gõ kiến! Thả nó xuống cho ta, ta sẽ dạy nó nghề đóng giày.»)"
+    },
+    {
+     "t": "para",
+     "text": "Дятел ей бросил, а она кустик за кустик, лесок за лесок, да и съела. (Gõ kiến lại thả con xuống cho cáo, còn cáo thì lủi qua bụi này sang bụi khác, qua rừng này sang rừng kia, rồi xơi tái mất.)"
+    },
+    {
+     "t": "para",
+     "text": "Опять идет к дятлу и стук-стук хвостищем по сырому дубищу: (Cáo lại mò đến chỗ gõ kiến, lại lấy đuôi nện cồm-cộp, cồm-cộp vào thân sồi tươi:)"
+    },
+    {
+     "t": "para",
+     "text": "«Дятел, дятел! Полезай с дубу долой, мне дуб надо — сечихичики гнуть». («Gõ kiến, gõ kiến ơi! Trèo ngay xuống khỏi cây sồi đi, ta cần cây sồi này — để uốn mấy cái “sechikhichiki”.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Эй, лисонька! Не дала ты мне и одного детенышка-то высидеть». («Ơ kìa, cáo thân mến! Đến một mụn con thôi mà chị cũng chẳng để cho tôi nuôi cho nên hồn.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Эй, дятел! Брось ты мне, я его выучу портняжному». («Này, gõ kiến! Thả nó xuống cho ta, ta sẽ dạy nó nghề thợ may.»)"
+    },
+    {
+     "t": "para",
+     "text": "Дятел бросил ей, а она кустик за кустик, лесок за лесок, да и съела. (Gõ kiến lại thả con xuống cho cáo, còn cáo thì lủi qua bụi này sang bụi khác, qua rừng này sang rừng kia, rồi xơi tái nốt.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "дятел",
+     "vi": "chim gõ kiến",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "дуб (на дубу)",
+     "vi": "cây sồi (на дубу = trên cây sồi, dạng cách cũ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "дубище (по сырому дубищу)",
+     "vi": "cây sồi to sù sì (dạng tăng cấp/khinh của «дуб»); сырой = (gỗ) tươi, còn ẩm nhựa",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "свить (свил гнездышко)",
+     "vi": "kết, tết (làm tổ bằng cách đan que cỏ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "гнездышко",
+     "vi": "cái tổ nhỏ (dạng âu yếm của «гнездо»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "снести (снёс яичко)",
+     "vi": "đẻ (trứng)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "высидеть (высидел детёнка)",
+     "vi": "ấp cho nở; ở đây nghĩa là nuôi/ấp cho thành con (cho nên hồn)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "детёнок / детёнышек",
+     "vi": "con non, chim non (dạng âu yếm: детёнышка)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "повадиться (повадилась ходить)",
+     "vi": "đâm ra quen thói, cứ lui tới mãi (thường nghĩa xấu)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "полезай с дубу долой",
+     "vi": "trèo xuống khỏi cây sồi đi (долой = xuống, cút khỏi — từ cổ/khẩu ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "гнуть",
+     "vi": "uốn (cong); ở đây cáo bịa cớ «cần gỗ sồi để uốn đồ»",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "сечихичики (?)",
+     "vi": "từ tối nghĩa: ngay người sưu tầm cũng ghi dấu «(?)» vì không rõ — chừng là một thứ đồ đan/uốn bằng gỗ sồi mà cáo bịa ra làm cớ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "выучить (выучу кузнечному)",
+     "vi": "dạy cho thạo (một nghề); выучу его кузнечному = dạy nó (thạo) nghề rèn",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кузнечному / башмачному / портняжному",
+     "vi": "(các) nghề: nghề rèn / nghề đóng giày / nghề may (dạng tắt của «кузнечному делу»…)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кустик за кустик, лесок за лесок",
+     "vi": "bụi này qua bụi khác, rừng này qua rừng kia (lối nói láy tả cáo lủi mất hút)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

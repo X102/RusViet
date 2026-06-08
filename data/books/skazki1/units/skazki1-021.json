@@ -1,0 +1,945 @@
+{
+ "id": "skazki1-021",
+ "num": 21,
+ "title": "Кот и лиса — Mèo và cáo",
+ "vi": "Кот и лиса — Mèo và cáo",
+ "ru": "Кот и лиса",
+ "icon": "🐈",
+ "color": "#be123c",
+ "sectionPrefix": "skazki1-021-s",
+ "group": "Truyện № 31–60",
+ "sections": [
+  {
+   "id": "skazki1-021-s001",
+   "type": "story",
+   "num": 40,
+   "title": "№ 40 · Кот и лиса — Mèo và cáo",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "«Кот и лиса» (ATU 103) — một trong những truyện loài vật nổi tiếng nhất của Nga. Bác nông dân chán con mèo phá phách nên bỏ nó vào rừng; ở đó mèo gặp cáo, hai bên kết duyên. Cáo khoe chồng mình là «quan trưởng tổng Kô-tô-phây I-va-nô-vích» dữ tợn từ Xi-bê-ri tới, khiến sói và gấu khiếp sợ, đem cừu và bò tới làm lễ ra mắt rồi nấp xem. Con mèo bé tí mà ăn ngấu nghiến lại còn chê ít làm cả hai khiếp vía bỏ chạy — từ đó muông thú đều sợ mèo. (Tên nhân vật theo lối dân gian: gấu = Mi-khai-lô I-va-nứt / Mi-sa, sói = Lê-vôn, cáo = Li-da-vê-ta I-va-nốp-na.)"
+    },
+    {
+     "t": "para",
+     "text": "Жил-был мужик; у него был кот, только такой шкодливый, что беда! (Ngày xưa có một bác nông dân; bác nuôi một con mèo, nhưng nó phá phách đến là khổ!)"
+    },
+    {
+     "t": "para",
+     "text": "Надоел он мужику. (Bác nông dân chán ngấy nó.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот мужик думал-думал, взял кота, посадил в мешок, завязал и понес в лес. (Bác nghĩ đi nghĩ lại, bèn bắt con mèo bỏ vào bao, buộc lại rồi đem vào rừng.)"
+    },
+    {
+     "t": "para",
+     "text": "Принес и бросил его в лесу: пускай пропадает! (Đem tới nơi, bác vứt nó lại giữa rừng: cho mày chết rục đi!)"
+    },
+    {
+     "t": "para",
+     "text": "Кот ходил-ходил и набрел на избушку, в которой лесник жил; залез на чердак и полеживает себе, а захочет есть — пойдет по́ лесу птичек да мышей ловить, наестся досыта и опять на чердак, и горя ему мало! (Mèo đi mãi, đi mãi rồi mò đến một căn nhà gỗ, nơi có người gác rừng ở; nó leo lên gác xép nằm khểnh, hễ đói thì vào rừng bắt chim với chuột, ăn no nê rồi lại lên gác xép, chẳng lo nghĩ gì sất!)"
+    },
+    {
+     "t": "para",
+     "text": "Вот однажды пошел кот гулять, а навстречу ему лиса, увидала кота и дивится: «Сколько лет живу в лесу, а такого зверя не видывала». (Một hôm mèo đi dạo, gặp con cáo đi ngược lại; cáo trông thấy mèo thì lấy làm lạ: «Mình sống trong rừng bao nhiêu năm rồi mà chưa thấy con thú nào như thế này».)"
+    },
+    {
+     "t": "para",
+     "text": "Поклонилась коту и спрашивает: «Скажись, добрый мо́лодец, кто ты таков, каким случаем сюда зашел и как тебя по имени величать?» (Cáo cúi chào mèo rồi hỏi: «Chàng trai tốt bụng ơi, hãy xưng danh xem nào, chàng là ai, do đâu mà lạc tới chốn này, và tên tuổi xưng hô ra sao?»)"
+    },
+    {
+     "t": "para",
+     "text": "А кот вскинул шерсть свою и говорит: «Я из сибирских лесов прислан к вам бурмистром, а зовут меня Котофей Иванович». (Mèo liền xù lông lên mà rằng: «Ta được phái từ rừng Xi-bê-ri tới làm trưởng tổng cai quản vùng các ngươi, tên ta là Kô-tô-phây I-va-nô-vích».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Ах, Котофей Иванович, — говорит лиса, — не знала про тебя, не ведала; ну, пойдем же ко мне в гости». (— «Ôi, Kô-tô-phây I-va-nô-vích, — cáo nói, — em chẳng hề hay biết gì về ngài; thôi nào, mời ngài về nhà em chơi».)"
+    },
+    {
+     "t": "para",
+     "text": "Кот пошел к лисице; она привела его в свою нору и стала потчевать разной дичинкою, а сама выспрашивает: «Что, Котофей Иванович, женат ты али холост?» (Mèo theo cáo về; cáo dẫn nó vào hang mình rồi bày đủ thứ thịt thú rừng ra thết đãi, miệng dò hỏi: «Này Kô-tô-phây I-va-nô-vích, ngài đã có vợ hay còn độc thân?»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Холост», — говорит кот. (— «Còn độc thân», — mèo đáp.)"
+    },
+    {
+     "t": "para",
+     "text": "«И я, лисица, — девица, возьми меня замуж». («Em đây, cáo này, cũng còn là gái chưa chồng, ngài cưới em đi».)"
+    },
+    {
+     "t": "para",
+     "text": "Кот согласился, и начался у них пир да веселье. (Mèo ưng thuận, thế là hai bên mở tiệc tùng vui vẻ.)"
+    },
+    {
+     "t": "para",
+     "text": "На другой день отправилась лиса добывать припасов, чтоб было чем с молодым мужем жить; а кот остался дома. (Hôm sau cáo đi kiếm lương thực để có cái mà chung sống với chồng mới; còn mèo thì ở nhà.)"
+    },
+    {
+     "t": "para",
+     "text": "Бежит лиса, а навстречу ей попадается волк и начал с нею заигрывать: «Где ты, кума, пропадала? Мы все норы обыскали, а тебя не видали». (Cáo đang chạy thì gặp con sói đi ngược lại, sói liền giở giọng trêu ghẹo: «Chị bạn ơi, chị biến đi đâu mất hút thế? Bọn này lục khắp các hang mà chẳng thấy chị đâu».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Пусти, дурак! Что заигрываешь? Я прежде была лисица-девица, а теперь замужня жена». (— «Buông ra, đồ ngốc! Trêu ghẹo cái gì? Trước kia ta còn là cáo gái, nay ta đã là gái có chồng rồi».)"
+    },
+    {
+     "t": "para",
+     "text": "— «За кого же ты вышла, Лизавета Ивановна?» (— «Thế chị lấy ai vậy, Li-da-vê-ta I-va-nốp-na?»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Разве ты не слыхал, что к нам из сибирских лесов прислан бурмистр Котофей Иванович? Я теперь бурмистрова жена». (— «Bộ ngươi chưa nghe à, từ rừng Xi-bê-ri người ta vừa phái tới chỗ chúng ta một quan trưởng tổng Kô-tô-phây I-va-nô-vích? Nay ta là vợ quan trưởng tổng đấy».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Нет, не слыхал, Лизавета Ивановна. Как бы на него посмотреть?» (— «Chưa, ta chưa nghe, Li-da-vê-ta I-va-nốp-na. Liệu có cách nào ngó thấy ngài ấy không?»)"
+    },
+    {
+     "t": "para",
+     "text": "— «У! Котофей Иванович у меня такой сердитый: коли кто не по нем, сейчас съест! Ты смотри, приготовь барана да принеси ему на поклон; барана-то положи, а сам схоронись, чтоб он тебя не увидел, а то, брат, туго придется!» (— «Hừ! Kô-tô-phây I-va-nô-vích nhà ta nóng tính lắm: hễ ai không vừa ý là ăn thịt ngay! Liệu mà lo lấy một con cừu đực đem tới biếu ngài làm lễ ra mắt; đặt con cừu xuống rồi nấp đi cho ngài đừng thấy, không thì, anh bạn ạ, khốn to đấy!»)"
+    },
+    {
+     "t": "para",
+     "text": "Волк побежал за бараном. (Sói chạy đi kiếm cừu.)"
+    },
+    {
+     "t": "para",
+     "text": "Идет лиса, а навстречу ей медведь и стал с нею заигрывать. (Cáo đi tiếp, lại gặp con gấu đi ngược lại, gấu cũng giở trò trêu ghẹo.)"
+    },
+    {
+     "t": "para",
+     "text": "«Что ты, дурак, косолапый Мишка, трогаешь меня? Я прежде была лисица-девица, а теперь замужня жена». («Này đồ ngốc, gấu Mi-sa chân vòng kiềng kia, đụng vào ta làm gì? Trước kia ta còn là cáo gái, nay ta đã là gái có chồng».)"
+    },
+    {
+     "t": "para",
+     "text": "— «За кого же ты, Лизавета Ивановна, вышла?» (— «Thế chị lấy ai vậy, Li-da-vê-ta I-va-nốp-na?»)"
+    },
+    {
+     "t": "para",
+     "text": "— «А который прислан к нам из сибирских лесов бурмистром, зовут Котофей Иванович, — за него и вышла». (— «Cái người được phái từ rừng Xi-bê-ri tới làm trưởng tổng, tên là Kô-tô-phây I-va-nô-vích, — ta lấy người ấy đấy».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Нельзя ли посмотреть его, Лизавета Ивановна?» (— «Liệu có ngó thấy ngài ấy được không, Li-da-vê-ta I-va-nốp-na?»)"
+    },
+    {
+     "t": "para",
+     "text": "— «У! Котофей Иванович у меня такой сердитый: коли кто не по нем, сейчас съест! Ты ступай, приготовь быка да принеси ему на поклон; волк барана хочет принесть. Да смотри, быка-то положи, а сам схоронись, чтоб Котофей Иванович тебя не увидел, а то, брат, туго придется!» (— «Hừ! Kô-tô-phây I-va-nô-vích nhà ta nóng tính lắm: hễ ai không vừa ý là ăn thịt ngay! Anh đi lo lấy một con bò mộng đem tới biếu ngài làm lễ ra mắt; sói thì đang định đem cừu tới. Mà liệu đấy, đặt con bò xuống rồi nấp đi cho Kô-tô-phây I-va-nô-vích đừng thấy, không thì, anh bạn ạ, khốn to đấy!»)"
+    },
+    {
+     "t": "para",
+     "text": "Медведь потащился за быком. (Gấu lặc lè đi kiếm bò.)"
+    },
+    {
+     "t": "para",
+     "text": "Принес волк барана, ободрал шкуру и стоит в раздумье: смотрит — и медведь лезет с быком. (Sói đem cừu tới, lột da xong thì đứng tần ngần: ngó ra — gấu cũng đang ì ạch khiêng bò tới.)"
+    },
+    {
+     "t": "para",
+     "text": "«Здравствуй, брат Михайло Иваныч!» — «Здравствуй, брат Левон!» («Chào anh Mi-khai-lô I-va-nứt!» — «Chào chú Lê-vôn!»)"
+    },
+    {
+     "t": "para",
+     "text": "«Что, не видал лисицы с мужем?» — «Нет, брат, давно дожидаю». («Sao, chưa thấy cáo cùng chồng nó à?» — «Chưa, anh ạ, em chờ mãi rồi».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Ступай, зови». — «Нет, не пойду, Михайло Иваныч! Сам иди, ты посмелей меня». (— «Đi mà gọi đi». — «Thôi, em chẳng đi đâu, Mi-khai-lô I-va-nứt! Anh tự đi đi, anh gan dạ hơn em».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Нет, брат Левон, и я не пойду». (— «Không, chú Lê-vôn, anh cũng chẳng đi».)"
+    },
+    {
+     "t": "para",
+     "text": "Вдруг откуда не́ взялся — бежит заяц. (Bỗng chẳng biết từ đâu — một con thỏ chạy tới.)"
+    },
+    {
+     "t": "para",
+     "text": "Медведь как крикнет на него: «Поди-ка сюда, косой черт!» (Gấu quát nó một tiếng: «Lại đây, đồ thỏ mắt lác quỷ tha ma bắt!»)"
+    },
+    {
+     "t": "para",
+     "text": "Заяц испугался, прибежал. (Thỏ sợ hãi, chạy lại.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ну что, косой пострел, знаешь, где живет лисица?» — «Знаю, Михайло Иванович!» («Nào, thằng lác ranh con, mày có biết cáo ở đâu không?» — «Biết ạ, Mi-khai-lô I-va-nô-vích!»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Ступай же скорее да скажи ей, что Михайло Иванович с братом Левоном Иванычем давно уж готовы, ждут тебя-де с мужем, хотят поклониться бараном да быком». (— «Vậy chạy nhanh đi bảo cáo rằng Mi-khai-lô I-va-nô-vích cùng chú Lê-vôn I-va-nứt đã sửa soạn xong từ lâu, đang chờ vợ chồng cô tới, muốn dâng cừu với bò làm lễ ra mắt».)"
+    },
+    {
+     "t": "para",
+     "text": "Заяц пустился к лисе во всю свою прыть. (Thỏ ba chân bốn cẳng phóng đến chỗ cáo.)"
+    },
+    {
+     "t": "para",
+     "text": "А медведь и волк стали думать, где бы спрятаться. (Còn gấu với sói thì lo tính chỗ nấp.)"
+    },
+    {
+     "t": "para",
+     "text": "Медведь говорит: «Я полезу на сосну». (Gấu bảo: «Tao trèo lên cây thông».)"
+    },
+    {
+     "t": "para",
+     "text": "— «А мне что же делать? Я куда денусь? — спрашивает волк. — Ведь я на дерево ни за что не взберусь! Михайло Иванович! Схорони, пожалуйста, куда-нибудь, помоги горю». (— «Còn em thì biết làm sao? Em chui vào đâu bây giờ? — sói hỏi. — Em thì có đời nào trèo nổi lên cây! Mi-khai-lô I-va-nô-vích ơi! Anh giấu em vào đâu đó với, cứu em một phen».)"
+    },
+    {
+     "t": "para",
+     "text": "Медведь положил его в кусты и завалил сухим листьем, а сам влез на сосну, на самую-таки макушку, и поглядывает: не идет ли Котофей с лисою? (Gấu đặt sói vào bụi cây rồi phủ lá khô lên, còn mình thì trèo tót lên cây thông, lên tận ngọn, ngó chừng: Kô-tô-phây với cáo đã tới chưa?)"
+    },
+    {
+     "t": "para",
+     "text": "Заяц меж тем прибежал к лисицыной норе, постучался и говорит лисе: «Михайло Иванович с братом Левоном Иванычем прислали сказать, что они давно готовы, ждут тебя с мужем, хотят поклониться вам быком да бараном». (Trong khi đó thỏ đã chạy tới hang cáo, gõ cửa thưa với cáo: «Mi-khai-lô I-va-nô-vích cùng chú Lê-vôn I-va-nứt nhắn rằng họ đã sửa soạn xong từ lâu, đang chờ vợ chồng cô, muốn dâng bò với cừu làm lễ ra mắt».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Ступай, косой! Сейчас будем». (— «Về đi, thỏ lác! Bọn ta tới ngay».)"
+    },
+    {
+     "t": "para",
+     "text": "Вот идет кот с лисою. (Thế rồi mèo cùng cáo đi tới.)"
+    },
+    {
+     "t": "para",
+     "text": "Медведь увидал их и говорит волку: «Ну, брат Левон Иваныч, идет лиса с мужем; какой же он маленький!» (Gấu trông thấy họ liền bảo sói: «Này chú Lê-vôn I-va-nứt, cáo cùng chồng nó tới kia; sao mà ngài ấy bé tí thế!»)"
+    },
+    {
+     "t": "para",
+     "text": "Пришел кот и сейчас же бросился на быка, шерсть на нем взъерошилась, и начал он рвать мясо и зубами и лапами, а сам мурчит, будто сердится: «Мало, мало!» (Mèo tới nơi liền lao ngay vào con bò, lông xù dựng đứng cả lên, nó dùng cả răng cả vuốt mà xé thịt, miệng gừ gừ như tức tối: «Ít quá, ít quá!»)"
+    },
+    {
+     "t": "para",
+     "text": "А медведь говорит: «Невелик, да прожорист! Нам четверым не съесть, а ему одному мало; пожалуй, и до нас доберется!» (Gấu bảo: «Bé người mà ăn tham thật! Bốn đứa chúng ta ăn chẳng hết, vậy mà một mình ngài ấy còn chê ít; khéo lại vồ đến cả bọn mình mất!»)"
+    },
+    {
+     "t": "para",
+     "text": "Захотелось волку посмотреть на Котофея Ивановича, да сквозь листья не видать! (Sói đâm thèm ngó mặt Kô-tô-phây I-va-nô-vích, nhưng qua lớp lá thì chẳng thấy gì!)"
+    },
+    {
+     "t": "para",
+     "text": "И начал он прокапывать над глазами листья, а кот услыхал, что лист шевелится, подумал, что это — мышь, да как кинется и прямо волку в морду вцепился когтями. (Thế là sói khẽ bới lớp lá trên mắt cho thoáng, mèo nghe thấy lá sột soạt, ngỡ là chuột, liền chồm tới cắm phập móng vuốt ngay vào mõm sói.)"
+    },
+    {
+     "t": "para",
+     "text": "Волк вскочил, да давай бог ноги, и был таков. (Sói chồm dậy, ba chân bốn cẳng chạy biến mất tăm.)"
+    },
+    {
+     "t": "para",
+     "text": "А кот сам испугался и бросился прямо на дерево, где медведь сидел. (Còn mèo thì cũng sợ hết hồn, vọt thẳng lên cái cây nơi gấu đang ngồi.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ну, — думает медведь, — увидал меня!» («Chết rồi, — gấu nghĩ bụng, — ngài ấy thấy mình rồi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Слезать-то некогда, вот он положился на божью волю да как шмякнется с дерева оземь, все печенки отбил; вскочил — да бежать! (Tụt xuống thì chẳng kịp nữa, gấu đành phó mặc cho trời rồi cứ thế rơi bịch từ trên cây xuống đất, dập cả gan ruột; vừa lồm cồm dậy — đã ù té chạy!)"
+    },
+    {
+     "t": "para",
+     "text": "А лисица вслед кричит: «Вот он вам задаст! Погодите!» (Cáo còn với theo: «Rồi ngài ấy cho các ngươi biết tay! Cứ chờ đấy!»)"
+    },
+    {
+     "t": "para",
+     "text": "С той поры все звери стали кота бояться; (Từ dạo ấy, muông thú thảy đều đâm sợ con mèo;)"
+    },
+    {
+     "t": "para",
+     "text": "а кот с лисой запаслись на целую зиму мясом и стали себе жить да поживать, и теперь живут, хлеб жуют. (còn mèo với cáo thì tích trữ được thịt ăn suốt cả mùa đông, từ đó sống yên vui bên nhau, và đến giờ vẫn đang sống, vẫn nhai bánh qua ngày.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "шкодливый",
+     "vi": "phá phách, nghịch ngợm hay ăn vụng (con vật)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "бурмистр",
+     "vi": "trưởng tổng — viên cai quản làng do địa chủ cử ra (thời nông nô Nga)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "дичина (дичинкою)",
+     "vi": "thịt thú rừng săn được; dạng nhỏ âu yếm «дичинка»",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "заигрывать",
+     "vi": "trêu ghẹo, ve vãn, bỡn cợt",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "на поклон (принести на поклон)",
+     "vi": "đem tới biếu/dâng làm lễ ra mắt, tỏ lòng kính phục",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "пострел (косой пострел)",
+     "vi": "thằng ranh, nhãi ranh nghịch ngợm (lời mắng đùa)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "прыть (во всю прыть)",
+     "vi": "sự nhanh nhẹn; «во всю прыть» = ba chân bốn cẳng, hết tốc lực",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "макушка",
+     "vi": "ngọn (cây), chỏm, đỉnh đầu",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "взъерошиться (шерсть взъерошилась)",
+     "vi": "xù lông lên, dựng đứng lông",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "прожорливый (прожорист)",
+     "vi": "phàm ăn, ăn tham, ngốn ngấu",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "мурчать (мурчит)",
+     "vi": "(mèo) kêu gừ gừ, rừ rừ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "шмякнуться (шмякнется оземь)",
+     "vi": "rơi bịch, ngã đánh phịch xuống đất",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "печёнки (все печёнки отбил)",
+     "vi": "gan; «отбить (все) печёнки» = dập cả gan ruột, đau ê ẩm cả người",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "давай бог ноги",
+     "vi": "ba chân bốn cẳng bỏ chạy, chạy thục mạng (thành ngữ)",
+     "g": null
+    }
+   ]
+  },
+  {
+   "id": "skazki1-021-s002",
+   "type": "story",
+   "num": 41,
+   "title": "№ 41 · Кот и лиса — Mèo và cáo",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Dị bản dân gian của «Mèo và cáo» (ATU 103), kể gọn hơn bản №40. Ở đây con mèo tên Kô-tai I-va-nô-vích vốn sống với hai ông bà lão, săn chồn sóc gà rừng nuôi họ; về già bị bỏ ra cồn rừng, gặp cáo rồi nên duyên. Cáo lại mượn oai chồng để nạt gấu và thỏ; cả hai rình xem, mèo vồ chuột trong đống củi khiến thỏ bỏ chạy còn gấu khiếp vía ngã cây mà chết. (Tên nhân vật: mèo = Kô-tai I-va-nô-vích / Kô-tai I-va-nứt.)"
+    },
+    {
+     "t": "para",
+     "text": "Жил старик и старуха. (Ngày xưa có một ông lão và một bà lão.)"
+    },
+    {
+     "t": "para",
+     "text": "У старика, у старухи не было ни сына, ни дочери, был только один серый кот. (Ông lão bà lão chẳng có lấy một mụn con trai hay con gái nào, chỉ có độc một con mèo xám.)"
+    },
+    {
+     "t": "para",
+     "text": "Он их поил-кормил, носил им кунок и белок, рябчиков, тетеревей и всяких зверьков. (Chính nó nuôi nấng ông bà, tha về cho ông bà nào chồn, nào sóc, gà gô, gà rừng cùng đủ thứ muông thú.)"
+    },
+    {
+     "t": "para",
+     "text": "Сделался стар серый кот. (Rồi con mèo xám trở nên già nua.)"
+    },
+    {
+     "t": "para",
+     "text": "Старуха и говорит старику: «Из чего мы, старик, кота держим? Только даром на печи место занял!» (Bà lão liền bảo ông lão: «Ông này, ta nuôi con mèo làm gì cơ chứ? Nó chỉ tổ chiếm chỗ trên bệ lò sưởi một cách vô tích sự!»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Да куда его девать-то?» (— «Thế chứ biết tống nó đi đâu bây giờ?»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Посади в котомку и отнеси в остров; пускай там свою жизнь решит». (— «Ông bỏ nó vào bị rồi đem ra cồn rừng; mặc cho nó tự định đoạt số phận ở đó».)"
+    },
+    {
+     "t": "para",
+     "text": "Старик отнес. (Ông lão đem nó đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Кот остался в острову, день голодал, другой и третий и стал плакать. (Con mèo bị bỏ lại nơi cồn rừng, nhịn đói ngày thứ nhất, rồi ngày thứ hai, thứ ba, bèn ngồi khóc.)"
+    },
+    {
+     "t": "para",
+     "text": "Идет лиса и спросила кота: «О чем ты плачешь, Котай Иванович?» (Một con cáo đi tới, hỏi mèo: «Anh khóc nỗi gì vậy, Kô-tai I-va-nô-vích?»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Ах, лиса, как мне не плакать? Жил я у старика и старухи, поил-кормил их, стал стар, они и прогнали меня». (— «Ôi cáo ơi, ta khóc sao được kia chứ? Ta vốn ở với một ông lão bà lão, hầu hạ nuôi nấng họ, nay già rồi thì họ đuổi ta đi».)"
+    },
+    {
+     "t": "para",
+     "text": "А лиса говорит: «Давай, Котай Иванович, женимся!» (Cáo bèn nói: «Này Kô-tai I-va-nô-vích, hay là ta lấy nhau đi!»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Куды мне жениться! Только бы свою голову пропитать; а у тебя, чай, детки есть, кормить-поить надо». (— «Ta mà cưới xin nỗi gì! Nuôi nổi cái thân ta đã là may; còn cô, hẳn là có cả đàn con, lại phải nuôi ăn nuôi uống nữa».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Ничего, как-нибудь прокормимся». (— «Không sao, rồi cũng xoay xở mà nuôi nhau được thôi».)"
+    },
+    {
+     "t": "para",
+     "text": "Вот и вышла лиса за Котая Иваныча. (Thế là cáo lấy Kô-tai I-va-nứt làm chồng.)"
+    },
+    {
+     "t": "para",
+     "text": "Однажды медведь и заяц шли мимо лисицыной норы. (Một hôm gấu và thỏ đi ngang qua hang cáo.)"
+    },
+    {
+     "t": "para",
+     "text": "Увидала их лиса и закричала: «Ах ты, толстопятый медведь, и ты, косой заяц! (Cáo trông thấy chúng liền quát lên: «Ơ này, lão gấu gót bè kia, cả mày nữa, thỏ mắt lác!)"
+    },
+    {
+     "t": "para",
+     "text": "Как была я вдовой, бывало, ни один из вас не проходил мимо моей норы, а как вышла замуж, то каждый день шляетесь; ишь какие дороги проторили! (Hồi ta còn góa bụa thì chẳng đứa nào trong các ngươi bén mảng qua hang ta, thế mà từ khi ta lấy chồng thì ngày nào cũng vác mặt lượn lờ; coi kìa, các ngươi giẫm thành cả lối mòn rồi đấy!)"
+    },
+    {
+     "t": "para",
+     "text": "Смотрите, как бы вас Котай Иванович по шее не проводил!» (Liệu hồn, kẻo Kô-tai I-va-nô-vích lại tóm cổ tống các ngươi đi cho!»)"
+    },
+    {
+     "t": "para",
+     "text": "Вот, идучи дорогой, медведь и сказал зайцу: «Чего, брат, у нее за муж такой — Котай Иванович? Ужли больше меня?» (Dọc đường đi, gấu bảo thỏ: «Này chú, chồng mụ ta là cái ngữ gì vậy — Kô-tai I-va-nô-vích ấy? Chẳng lẽ lại to lớn hơn cả ta sao?»)"
+    },
+    {
+     "t": "para",
+     "text": "А заяц: «Ужли прытче меня? Пойдем-ка завтра, посмотрим на него». (Thỏ đáp: «Chẳng lẽ lại nhanh nhẹn hơn cả em? Mai ta thử tới xem mặt ngài ấy xem sao».)"
+    },
+    {
+     "t": "para",
+     "text": "Пришли на другой день к лисицыной норе и видят: кот гложет целый стяг быка, а сам мурлычет: «Мало, мало!» (Hôm sau chúng tới hang cáo thì thấy: mèo đang gặm cả một tảng thịt bò, miệng kêu gừ gừ: «Ít quá, ít quá!»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Ну, брат, — сказал медведь зайцу, — беда наша; Котай все говорит: мало, мало! (— «Hỏng rồi chú ơi, — gấu bảo thỏ, — bọn ta nguy to; Kô-tai cứ luôn mồm: ít quá, ít quá!)"
+    },
+    {
+     "t": "para",
+     "text": "Спрячемся, ты ляжь под хворост, а я взлезу на дерево». (Ta nấp đi thôi, chú nằm nép dưới đống củi khô, còn anh thì trèo lên cây».)"
+    },
+    {
+     "t": "para",
+     "text": "Только уселись они по своим местам, как выбежала из-под хвороста мышь. (Vừa yên vị mỗi đứa một chỗ thì có con chuột từ dưới đống củi phóng ra.)"
+    },
+    {
+     "t": "para",
+     "text": "Кот увидал ее и в ту же минуту бросился за ней к хворосту. (Mèo trông thấy nó, lập tức chồm theo về phía đống củi.)"
+    },
+    {
+     "t": "para",
+     "text": "Заяц испугался, кинулся бежать; а медведь услышал тревогу, хотел повернуться, да со страстей упал с дерева и убился до смерти. (Thỏ hoảng hồn, vắt chân lên cổ bỏ chạy; còn gấu nghe động thì muốn xoay mình, nhưng vì khiếp đảm mà ngã lăn từ trên cây xuống, chết tươi.)"
+    },
+    {
+     "t": "para",
+     "text": "Лиса с котом и доныне поживают да медведя поедают. (Cáo cùng mèo đến nay vẫn sống bên nhau, lại có cả thịt gấu mà chén dần.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "куница (кунок)",
+     "vi": "chồn (chồn nâu); «кунок» là dạng phương ngữ của «куниц» (số nhiều cách 2)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "рябчик",
+     "vi": "gà gô rừng — loài chim nhỏ họ trĩ, thịt ngon",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "остров (в остров)",
+     "vi": "nghĩa cổ: cồn/khoảnh rừng đứng lẻ giữa đồng, không phải «đảo» trên nước",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "котомка",
+     "vi": "cái bị, tay nải đeo vai",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "толстопятый",
+     "vi": "«gót bè, gót dày» — biệt danh trêu con gấu",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "шляться",
+     "vi": "lượn lờ, lê la, vác mặt đi rông",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "проторить (дороги проторили)",
+     "vi": "đi mãi thành lối mòn, giẫm mở thành đường",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "по шее проводить",
+     "vi": "tóm cổ tống ra ngoài, đuổi thẳng cổ (thành ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "прыткий (прытче)",
+     "vi": "nhanh nhẹn, lẹ làng; «прытче» = nhanh hơn",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "стяг (стяг быка)",
+     "vi": "tảng thịt lớn, nửa con bò xẻ dọc (từ cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "глодать (гложет)",
+     "vi": "gặm, nhằn (xương, thịt)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "хворост",
+     "vi": "củi khô, cành khô rụng nhặt trong rừng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "со страстей",
+     "vi": "vì khiếp đảm, vì sợ hãi quá (страсти = nỗi kinh hoàng, từ cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "доныне",
+     "vi": "cho đến nay, đến tận bây giờ (từ cổ)",
+     "g": null
+    }
+   ]
+  },
+  {
+   "id": "skazki1-021-s003",
+   "type": "story",
+   "num": 42,
+   "title": "№ 42 · Кот и лиса — Mèo và cáo",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Dị bản thứ hai, mở đầu bằng công thức cổ tích «Ở một vương quốc nọ…». Một con mèo «dũng mãnh» sống giữa rừng già; muông thú họp bàn cử người đi mời mèo dự tiệc, con nào cũng thoái thác đùn đẩy cho đến khi dồn cả vào thỏ. Thỏ về tả con mèo dữ tợn khiến cả bọn nháo nhác đi trốn; Afanasyev ghi đoạn kết giống hệt dị bản №41."
+    },
+    {
+     "t": "para",
+     "text": "В некотором царстве, в некотором государстве жил в дремучих лесах могучий кот. (Ở một vương quốc nọ, trong một xứ sở kia, giữa rừng già rậm rạp có một con mèo dũng mãnh.)"
+    },
+    {
+     "t": "para",
+     "text": "Медведь, волк, олень, лиса и заяц собрались совет держать, как бы могучего, сильного кота к себе на пир позвать. (Gấu, sói, hươu, cáo và thỏ họp nhau bàn bạc, xem làm cách nào mời được con mèo hùng mạnh, dũng mãnh ấy tới dự tiệc với mình.)"
+    },
+    {
+     "t": "para",
+     "text": "Наготовили всякого добра и стали думать: кому идти за котом. (Chúng sửa soạn đủ thứ ngon lành rồi ngồi tính: ai sẽ đi mời mèo đây.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ну, ступай ты, медведь!» («Nào, bác gấu, bác đi đi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Медведь начал отговариваться: «Я мохнат и косолап, куда мне! Пускай волк пойдет». (Gấu liền thoái thác: «Tôi thì lông lá xù xì, chân lại vòng kiềng, đi sao được! Để sói đi thì hơn».)"
+    },
+    {
+     "t": "para",
+     "text": "А волк говорит: «Я неповоротлив, он меня не послушает; лучше пусть олень идет!» (Sói bảo: «Tôi vụng về chậm chạp, nó chẳng thèm nghe tôi đâu; tốt hơn là để hươu đi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Олень тоже отказывается: «Я пуглив-боязлив, не сумею ответ держать; кот, пожалуй, за то меня смерти предаст. (Hươu cũng chối: «Tôi vốn nhút nhát rụt rè, chẳng biết ăn nói thưa gửi ra sao; lỡ ra mèo lại vì thế mà đem giết tôi mất.)"
+    },
+    {
+     "t": "para",
+     "text": "Иди ты, шустрая, — говорит лисе, — ты и собой хороша и оборотлива». (Chị đi đi, chị lanh lợi, — hươu bảo cáo, — chị vừa xinh đẹp lại vừa khôn khéo».)"
+    },
+    {
+     "t": "para",
+     "text": "— «У меня хвост длинен, не смогу скоро бежать; пускай идет заяц!» — отвечает лиса. (— «Đuôi tôi dài, chẳng chạy nhanh được; thôi để thỏ đi!» — cáo đáp.)"
+    },
+    {
+     "t": "para",
+     "text": "Тут все стали складывать на зайца: «Ступай, косой! Не бойся. (Thế là cả bọn xúm vào dồn việc cho thỏ: «Đi đi, chú thỏ lác! Đừng sợ.)"
+    },
+    {
+     "t": "para",
+     "text": "Ты поворотлив и на ногу скор; коли он на тебя вскинется, ты сейчас от него уйдешь». (Mày nhanh nhảu, chân lại lẹ; nó mà chồm tới thì mày tót đi ngay được».)"
+    },
+    {
+     "t": "para",
+     "text": "Заяц — делать нечего — побежал к коту; прибежал, поклонился пониже ног котовых и стал звать его на пир, на беседу. (Thỏ — chẳng còn cách nào khác — đành chạy đến chỗ mèo; tới nơi, nó cúi rạp mình dưới chân mèo mà mời mèo đến dự tiệc, dự cuộc vui.)"
+    },
+    {
+     "t": "para",
+     "text": "Исправил все по наказу и пустился назад бежать, сколько сил хватает. (Làm trọn mọi điều y như lời dặn xong, thỏ ba chân bốn cẳng chạy về, dồn hết bao nhiêu sức vào chân.)"
+    },
+    {
+     "t": "para",
+     "text": "Явился к своим товарищам и говорит: «Ну, набрался страху! (Về tới chỗ bè bạn, nó kể: «Chao ôi, một phen hú vía!)"
+    },
+    {
+     "t": "para",
+     "text": "Сам-то кот бурый, шерсть на нем стоит дыбом, а хвост так по земле и волочится!» (Con mèo ấy lông nâu sậm, lông dựng đứng cả lên, còn cái đuôi thì cứ lê quét cả mặt đất!»)"
+    },
+    {
+     "t": "para",
+     "text": "Тут звери стали прятаться кто куда: медведь взобрался на дерево, волк залез в кусты, лиса зарылась в землю, а олень с зайцем совсем ушли... (Thế là lũ thú mỗi con nấp một nơi: gấu trèo tót lên cây, sói chui vào bụi rậm, cáo vùi mình xuống đất, còn hươu với thỏ thì chạy đi biệt tăm...)"
+    },
+    {
+     "t": "note",
+     "text": "Ghi chú của Afanasyev: «Окончание — то же, что и в предшествующей сказке» (Đoạn kết — giống hệt như ở truyện trước), tức như dị bản №41: mèo bé nhỏ mà ăn ngấu nghiến, chê «ít quá» khiến cả đám muông thú nấp rình phải khiếp vía bỏ chạy."
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "дремучий (дремучих лесах)",
+     "vi": "(rừng) rậm rạp, âm u, hoang vu",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "могучий",
+     "vi": "hùng mạnh, dũng mãnh, đầy sức mạnh",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "совет держать",
+     "vi": "họp bàn, bàn bạc, hội ý (lối nói cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "наготовить",
+     "vi": "chuẩn bị/làm sẵn thật nhiều thứ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "отговариваться",
+     "vi": "thoái thác, kiếm cớ chối từ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "мохнатый (мохнат)",
+     "vi": "lông lá xù xì, rậm lông",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "косолапый (косолап)",
+     "vi": "chân vòng kiềng, đi chữ bát (biệt danh con gấu)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "неповоротливый (неповоротлив)",
+     "vi": "vụng về, chậm chạp, ì ạch",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "пуглив-боязлив",
+     "vi": "nhút nhát rụt rè, hay sợ hãi (cặp từ láy nghĩa)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ответ держать",
+     "vi": "ăn nói thưa gửi, đối đáp, chịu trách nhiệm trả lời (lối cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "предать смерти (смерти предаст)",
+     "vi": "đem giết, xử tử (lối trang trọng)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "шустрый (шустрая)",
+     "vi": "lanh lợi, nhanh nhảu, tháo vát",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "оборотливый (оборотлива)",
+     "vi": "khôn khéo, biết xoay xở, tháo vát",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "наказ (по наказу)",
+     "vi": "lời dặn dò, lời sai bảo (từ cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "волочиться",
+     "vi": "lê lết, kéo lê (trên mặt đất)",
+     "g": null
+    }
+   ]
+  },
+  {
+   "id": "skazki1-021-s004",
+   "type": "story",
+   "num": 43,
+   "title": "№ 43 · Кот и лиса — Mèo và cáo",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Dị bản thứ tư, cũng là dị bản cuối của «Кот và лиса». Con mèo ở đây mang cái tên khôi hài «Котонайл/Котонайло Иваныч» (Mèo Cô-tô-nai-lô I-va-nứt); cáo mượn oai chồng để doạ lợn rừng, gấu và sói nhằm giữ con mồi. Bản Afanasyev chép dở dang — truyện ngừng đột ngột (dấu «…») ngay chỗ ba con thú khiếp sợ chui đi trốn (gấu lên cây, lợn xuống đầm, sói vùi đống cỏ), chưa kịp tới đoạn con mèo nhảy chồm như các dị bản №40–42."
+    },
+    {
+     "t": "para",
+     "text": "Лиса вышла замуж за Котонайла Иваныча. (Ngày xưa, cáo đi lấy chồng, chồng là ngài Mèo Cô-tô-nai-lô I-va-nứt.)"
+    },
+    {
+     "t": "para",
+     "text": "Раз побежала она припасти мужу обед; бегала, бегала и поймала утку. (Một bận, cáo chạy đi lo bữa trưa cho chồng; chạy mãi, chạy mãi, rồi vồ được một con vịt.)"
+    },
+    {
+     "t": "para",
+     "text": "Несет домой, а навстречу ей лесной кабан. (Cáo tha vịt về nhà thì gặp ngay một con lợn rừng đi ngược chiều.)"
+    },
+    {
+     "t": "para",
+     "text": "«Стой, лиса! — говорит. — Отдай утку». (« Đứng lại, cáo kia! — lợn rừng quát. — Đưa con vịt đây! »)"
+    },
+    {
+     "t": "para",
+     "text": "— «Нет, не дам». (« Không, ta không đưa. »)"
+    },
+    {
+     "t": "para",
+     "text": "— «Ну, я сам отниму». (« Thế thì ta tự cướp lấy! »)"
+    },
+    {
+     "t": "para",
+     "text": "— «А я скажу Котонайлу Иванычу; он тебя смерти предаст!» (« Vậy ta sẽ mách ngài Cô-tô-nai-lô I-va-nứt; ngài đem ngươi ra xử tử cho mà coi! »)"
+    },
+    {
+     "t": "para",
+     "text": "— «Что такой за зверь?» — думает кабан и пошел своей дорогой. (« Con thú gì mà ghê gớm thế? » — lợn rừng nghĩ bụng, rồi lủi thủi đi đường mình.)"
+    },
+    {
+     "t": "para",
+     "text": "Лиса побежала; вдруг повстречался ей медведь: «Куда, лиса, бежишь, кому утку несешь? Отдай ее мне». (Cáo lại chạy tiếp; bỗng đụng một con gấu: « Cáo chạy đi đâu đấy, tha vịt cho ai thế? Đưa đây cho ta! »)"
+    },
+    {
+     "t": "para",
+     "text": "— «Ступай-ка подобру, а то скажу Котонайлу Иванычу; он тебя смерти предаст!» (« Liệu mà đi cho yên thân, kẻo ta mách ngài Cô-tô-nai-lô I-va-nứt; ngài đem ngươi ra xử tử bây giờ! »)"
+    },
+    {
+     "t": "para",
+     "text": "Медведь побоялся и пошел своей дорогой. (Gấu đâm sợ, đành đi đường mình.)"
+    },
+    {
+     "t": "para",
+     "text": "Лиса дальше бежит, попадается ей волк. (Cáo chạy tiếp nữa, lại đụng một con sói.)"
+    },
+    {
+     "t": "para",
+     "text": "«Отдавай, — говорит, — утку!» (« Đưa con vịt đây! — sói gầm gừ. »)"
+    },
+    {
+     "t": "para",
+     "text": "— «Как же не так! Я вот скажу Котонайлу Иванычу, он тебя самого съест!» (« Còn lâu nhé! Ta cứ mách ngài Cô-tô-nai-lô I-va-nứt cho mà xem, ngài xơi tái cả ngươi đấy! »)"
+    },
+    {
+     "t": "para",
+     "text": "Волк оробел и пошел своей дорогой; а лиса побежала домой. (Sói chột dạ, đành đi đường mình; còn cáo thì ù té chạy về nhà.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот кабан, медведь и волк сошлись вместе и стали думать да гадать, что за зверь такой Котонайло Иваныч: наперед того его не видывали, и в лесах его не бывало! (Thế rồi lợn rừng, gấu và sói tụ họp lại, ngồi đoán già đoán non: con thú Cô-tô-nai-lô I-va-nứt là giống gì mà lạ vậy — xưa nay chưa hề thấy mặt, trong rừng cũng chưa từng có bao giờ!)"
+    },
+    {
+     "t": "para",
+     "text": "Положили: сделать большой пир и позвать к себе Котонайла Иваныча в гости. (Cả bọn bèn quyết: bày một bữa tiệc lớn, mời ngài Cô-tô-nai-lô I-va-nứt đến chơi.)"
+    },
+    {
+     "t": "para",
+     "text": "Изготовились. (Chúng sửa soạn xong xuôi đâu đấy.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ну, — говорят, — кому же идти за Котонайлом?» — и присудили идти волку. (« Nào, — chúng bàn nhau, — ai sẽ đi rước ngài Cô-tô-nai-lô đây? » — rồi cắt cử sói phải đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Волк собрался и побежал к лисицыной норе. (Sói sửa soạn rồi chạy tới hang cáo.)"
+    },
+    {
+     "t": "para",
+     "text": "Прибежал. (Chạy đến nơi.)"
+    },
+    {
+     "t": "para",
+     "text": "А кот выглядывает из норы, усы повисли, а глаза так и светятся. (Thì thấy con mèo đang thò đầu ra khỏi hang, ria mép xõa rủ, đôi mắt thì sáng quắc.)"
+    },
+    {
+     "t": "para",
+     "text": "Затрясся волк со страху, отдал коту низкий поклон, поздравил его с молодою женою и стал просить в гости. (Sói run lẩy bẩy vì khiếp, cúi rạp mình vái chào mèo, mừng mèo cưới được vợ trẻ, rồi ngỏ lời mời mèo đến dự tiệc.)"
+    },
+    {
+     "t": "para",
+     "text": "Кот сидит да мурчит. (Con mèo cứ ngồi gừ-gừ trong họng.)"
+    },
+    {
+     "t": "para",
+     "text": "«У, какой сердитый!» — думает волк и не знает, как уйти... (« Ui chao, dữ tợn chưa kìa! » — sói nghĩ bụng mà chẳng biết làm sao chuồn cho thoát…)"
+    },
+    {
+     "t": "para",
+     "text": "Воротился и сказал кабану и медведю: «Ну да и страшный же Котонайло Иваныч! Глаза так и горят! Только посмотрел на меня — и то дрожь проняла...» (Sói quay về, kể với lợn rừng và gấu: « Chao ôi, ngài Cô-tô-nai-lô I-va-nứt đáng sợ thật! Mắt cứ rực lên như lửa! Ngài mới liếc tôi một cái thôi mà cả người tôi đã run bắn lên… »)"
+    },
+    {
+     "t": "para",
+     "text": "Вот оробели они и стали прятаться: медведь взлез на дерево, кабан затесался в болото, а волк закопался в стог сена... (Thế là cả bọn khiếp vía, đua nhau đi trốn: gấu trèo tót lên cây, lợn rừng chui sâu vào đầm lầy, còn sói thì vùi mình trong đống cỏ khô…)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "Котонайл (Котонайло) Иваныч",
+     "vi": "tên riêng khôi hài đặt cho con mèo: «ngài Mèo Cô-tô-nai-lô I-va-nứt» (ghép từ кот = con mèo)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "припасти (припасти обед)",
+     "vi": "lo liệu/kiếm sẵn (đồ ăn), dự bị trước (lối cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кабан (лесной кабан)",
+     "vi": "lợn rừng, heo rừng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "отнять (отниму)",
+     "vi": "cướp lấy, giật lấy, đoạt lấy",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "предать смерти (смерти предаст)",
+     "vi": "đem giết, xử tử (lối trang trọng)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "подобру (ступай подобру)",
+     "vi": "liệu mà đi cho yên thân, đi cho êm chuyện (lối cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "оробеть (оробел)",
+     "vi": "đâm sợ, chột dạ, khiếp nhược",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "думать да гадать",
+     "vi": "đoán già đoán non, nghĩ tới nghĩ lui (thành ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "наперёд (наперед того)",
+     "vi": "trước đây, từ trước tới giờ (từ cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "видывать (не видывали)",
+     "vi": "(dạng cổ, nhấn mạnh của «thấy») từng trông thấy; «không hề thấy bao giờ»",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "присудить (присудили)",
+     "vi": "cắt cử, phân công, định cho ai phải làm (nghĩa cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "выглядывать (выглядывает)",
+     "vi": "thò đầu ngó ra, ló ra nhìn",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "низкий поклон (отдать поклон)",
+     "vi": "cúi rạp mình vái chào",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "затесаться (в болото)",
+     "vi": "chui lủi/len lén vào, lẩn vào (khẩu ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "закопаться (в стог сена)",
+     "vi": "vùi mình, rúc sâu vào",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

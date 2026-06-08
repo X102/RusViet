@@ -1,0 +1,357 @@
+{
+ "id": "skazki1-009",
+ "num": 9,
+ "title": "Лиса-плачея — Cáo khóc thuê",
+ "vi": "Лиса-плачея — Cáo khóc thuê",
+ "ru": "Лиса-плачея",
+ "icon": "🦊",
+ "color": "#9a3412",
+ "sectionPrefix": "skazki1-009-s",
+ "group": "Truyện № 1–30",
+ "sections": [
+  {
+   "id": "skazki1-009-s001",
+   "type": "story",
+   "num": 21,
+   "title": "№ 21 · Лиса-плачея — Cáo khóc thuê",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Dị bản đầy đặn của kiểu «khóc mướn đám ma»: mô-típ cây đậu mọc tới trời (mở đầu) ghép với mô-típ cáo khóc thuê và đoạn cáo tự hỏi tai–mắt–chân–đuôi quen thuộc trong cổ tích Nga. Cuối truyện cáo bị chính cái đuôi phản chủ hại chết."
+    },
+    {
+     "t": "para",
+     "text": "Жил-был старик со старухою, была у них дочка. (Ngày xưa có một ông lão sống với bà lão, hai người có một cô con gái.)"
+    },
+    {
+     "t": "para",
+     "text": "Раз ела она бобы и уронила один наземь. (Một lần cô bé ăn đậu, đánh rơi một hạt xuống đất.)"
+    },
+    {
+     "t": "para",
+     "text": "Боб рос, рос и вырос до неба. (Hạt đậu mọc lên, mọc mãi, vươn cao tới tận trời.)"
+    },
+    {
+     "t": "para",
+     "text": "Старик полез на небо; взлез туда, ходил-ходил, любовался-любовался и говорит себе: «Дай принесу сюда старуху; то-то она обрадуется!» (Ông lão trèo lên trời; lên tới nơi, ông đi đi lại lại, ngắm nghía mãi rồi tự nhủ: «Hay là ta đưa bà nó lên đây; bà ấy ắt phải mừng lắm cho mà xem!»)"
+    },
+    {
+     "t": "para",
+     "text": "Слез наземь — посадил старуху в мешок, взял мешок в зубы и полез опять наверх; (Ông tụt xuống đất — nhét bà lão vào bao, ngậm bao vào răng rồi lại trèo lên;)"
+    },
+    {
+     "t": "para",
+     "text": "лез, лез, устал, да и выронил мешок. (trèo mãi trèo mãi, mỏi quá, ông để tuột mất cái bao.)"
+    },
+    {
+     "t": "para",
+     "text": "Спустился поскорее, открыл мешок, смотрит — лежит старуха, зубы ощерила, глаза вытаращила. (Ông vội vàng tụt xuống, mở bao ra, nhìn vào — bà lão nằm đó, răng nhe ra, mắt trợn trừng.)"
+    },
+    {
+     "t": "para",
+     "text": "Он и говорит: «Что ты, старуха, смеешься? Что зубы-то оскалила?» — да как увидел, что она мертвая, так и залился слезами. (Ông bảo: «Bà nó cười gì thế? Nhe răng ra làm chi vậy?» — nhưng vừa thấy bà đã chết, ông liền òa lên khóc nức nở.)"
+    },
+    {
+     "t": "para",
+     "text": "Жили они одни-одинехоньки, среди пустыря; некому и поплакать-то по старухе. (Hai ông bà sống thui thủi một mình giữa nơi đồng không mông quạnh; chẳng có ai khóc than cho bà lão.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот старик взял мешок с тремя парами беленьких курочек и пошел искать плачеи. (Thế là ông lão xách một cái bao đựng ba đôi gà mái trắng, đi tìm người khóc mướn.)"
+    },
+    {
+     "t": "para",
+     "text": "Видит — идет медведь, он и говорит: «Поплачь-ка, медведь, по моей старухе! Я дам тебе две беленьких курочки». (Ông thấy một con gấu đi tới, liền bảo: «Gấu ơi, khóc giùm bà lão nhà ta đi! Ta cho ngươi hai con gà mái trắng».)"
+    },
+    {
+     "t": "para",
+     "text": "Медведь заревел: «Ах ты, моя родимая бабушка! Как тебя жалко». (Con gấu rống lên: «Ôi bà ơi là bà! Thương bà quá chừng».)"
+    },
+    {
+     "t": "para",
+     "text": "«Нет, — говорит старик, — ты не умеешь плакать». И пошел дальше. («Không được, — ông lão nói, — ngươi chẳng biết khóc». Rồi ông đi tiếp.)"
+    },
+    {
+     "t": "para",
+     "text": "Шел-шел и повстречал волка; заставил его причитать, — и волк не умеет. (Đi mãi đi mãi, ông gặp một con sói; ông bắt nó khóc kể, — sói cũng chẳng biết khóc.)"
+    },
+    {
+     "t": "para",
+     "text": "Пошел еще и повстречал лису, заставил ее причитать за пару беленьких курочек. (Ông đi nữa, gặp một con cáo, bảo nó khóc kể để đổi lấy một đôi gà mái trắng.)"
+    },
+    {
+     "t": "para",
+     "text": "Она и запела: «Туру-туру, бабушка! Убил тебя дедушка». (Cáo liền cất giọng: «Tu-ru tu-ru, bà ơi! Ông đã giết mất bà rồi».)"
+    },
+    {
+     "t": "para",
+     "text": "Мужику понравилась песня, он заставил лису петь в другой, третий и четвертый раз; хвать, а четвертой пары курочек и недостает. (Ông lão khoái bài hát, bắt cáo hát lần hai, lần ba, lần tư; sờ đến thì đôi gà thứ tư lại thiếu mất.)"
+    },
+    {
+     "t": "para",
+     "text": "Старик говорит: «Лиса, лиса! Я четвертую пару дома забыл; пойдем ко мне». (Ông lão nói: «Cáo ơi cáo! Đôi gà thứ tư ta bỏ quên ở nhà; lại đằng nhà ta đi».)"
+    },
+    {
+     "t": "para",
+     "text": "Лиса пошла за ним следом. (Cáo lẽo đẽo theo sau ông.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот пришли домой; старик взял мешок, положил туда пару собак, а сверху заложил лисонькиными шестью курочками и отдал ей. (Về tới nhà; ông lão lấy một cái bao, bỏ vào đó hai con chó, bên trên xếp sáu con gà của cáo phủ lên, rồi đưa cho nó.)"
+    },
+    {
+     "t": "para",
+     "text": "Лиса взяла и побежала; немного погодя остановилась около пня и говорит: «Сяду на пенек, съем белую курочку». (Cáo nhận lấy rồi chạy đi; được một lúc nó dừng bên một gốc cây và nói: «Ngồi xuống gốc cây, ăn một con gà trắng nào».)"
+    },
+    {
+     "t": "para",
+     "text": "Съела и побежала вперед; потом еще на пенек села и другую курочку съела, затем третью, четвертую, пятую и шестую. (Ăn xong nó lại chạy tiếp; rồi lại ngồi xuống gốc cây ăn con gà thứ hai, kế đến con thứ ba, thứ tư, thứ năm và thứ sáu.)"
+    },
+    {
+     "t": "para",
+     "text": "А в седьмой раз открыла мешок, собаки на нее и выскочили. (Đến lần thứ bảy nó mở bao ra, hai con chó liền nhảy xổ vào nó.)"
+    },
+    {
+     "t": "para",
+     "text": "Лиса ну бежать, бежала-бежала и спряталась под колоду, спряталась и начала спрашивать: (Cáo ba chân bốn cẳng bỏ chạy, chạy mãi chạy mãi rồi chui trốn dưới một khúc gỗ mục; trốn xong nó bắt đầu hỏi:)"
+    },
+    {
+     "t": "para",
+     "text": "«Ушки, ушки! Что вы делали?» — «Мы слушали да слушали, чтобы собаки лисоньку не скушали». («Tai ơi tai! Chúng mày làm gì đấy?» — «Chúng tôi cứ lắng nghe, lắng nghe để lũ chó không xơi mất cáo cưng».)"
+    },
+    {
+     "t": "para",
+     "text": "«Глазки, глазки! Что вы делали?» — «Мы смотрели да смотрели, чтоб собаки лисоньку не съели». («Mắt ơi mắt! Chúng mày làm gì đấy?» — «Chúng tôi cứ nhìn ngó, nhìn ngó để lũ chó không ăn thịt cáo cưng».)"
+    },
+    {
+     "t": "para",
+     "text": "«Ножки, ножки! Что вы делали?» — «Мы бежали да бежали, чтоб собаки лисоньку не поймали». («Chân ơi chân! Chúng mày làm gì đấy?» — «Chúng tôi cứ chạy, cứ chạy để lũ chó không bắt được cáo cưng».)"
+    },
+    {
+     "t": "para",
+     "text": "«А ты, хвостище, что делал?» — «Я по пням, по кустам, по колодам зацеплял, чтоб собаки лисоньку поймали да разорвали». («Còn mày, cái đuôi to kia, mày làm gì?» — «Tôi cứ vướng vào gốc cây, bụi rậm, khúc gỗ để cho lũ chó bắt được cáo mà xé xác».)"
+    },
+    {
+     "t": "para",
+     "text": "«А, ты какой! Так вот же, нате, собаки, ешьте, мой хвост!» — и высунула хвост, а собаки схватили за хвост и самоё лисицу вытащили и разорвали. («À, mày là cái đồ như thế hả! Vậy thì đây, lũ chó, ăn lấy cái đuôi của ta này!» — rồi nó thò đuôi ra, lũ chó ngoạm lấy đuôi lôi tuột cả con cáo ra mà xé xác.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "плачея",
+     "vi": "người khóc mướn, bà khóc thuê (đám tang)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "любоваться",
+     "vi": "ngắm nghía say sưa, mê mải nhìn",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "то-то",
+     "vi": "ắt là, chắc chắn (trợ từ nhấn mạnh)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "оскалить / ощерить (зубы)",
+     "vi": "nhe nanh, nhăn răng ra",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "вытаращить (глаза)",
+     "vi": "trợn trừng (mắt)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "залиться слезами",
+     "vi": "òa khóc, khóc như mưa (thành ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "одни-одинехоньки",
+     "vi": "thui thủi một thân một mình (dạng nhấn mạnh)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "пустырь",
+     "vi": "bãi đất hoang, nơi đồng không quạnh quẽ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "причитать",
+     "vi": "khóc kể, than vãn theo điệu (lúc tang ma)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "колода",
+     "vi": "khúc gỗ to nằm (thân cây đốn, gỗ mục)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "хвостище",
+     "vi": "cái đuôi to tướng (dạng phóng đại của «хвост»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "зацеплять",
+     "vi": "móc, vướng, ngoắc vào",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "лисонька",
+     "vi": "cáo cưng, cáo yêu (cách gọi âu yếm)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "самоё",
+     "vi": "chính nó, ngay cả nó (dạng cổ của «саму»)",
+     "g": null
+    }
+   ]
+  },
+  {
+   "id": "skazki1-009-s002",
+   "type": "story",
+   "num": 22,
+   "title": "№ 22 · Лиса-плачея — Cáo khóc thuê",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Dị bản ngắn gọn: bỏ phần cây đậu, vào thẳng cảnh ông lão đi tìm người khóc mướn. Lời khóc của cáo được chép tách từng âm tiết như điệu hát kể (причитание) trong đám ma."
+    },
+    {
+     "t": "para",
+     "text": "Живал-бывал старик да старушка. (Ngày xửa ngày xưa có một ông lão và một bà lão.)"
+    },
+    {
+     "t": "para",
+     "text": "Старушка померла. (Bà lão qua đời.)"
+    },
+    {
+     "t": "para",
+     "text": "Старику стало очень жалко, пошел он искать плачеи. (Ông lão thương xót lắm, bèn đi tìm người khóc mướn.)"
+    },
+    {
+     "t": "para",
+     "text": "Идет, а навстречу ему медведь: «Куда, старик, пошел?» — «Плачеи искать, старуха померла». (Ông đang đi thì một con gấu tiến lại: «Ông lão đi đâu đấy?» — «Đi tìm người khóc mướn, bà lão nhà tôi mất rồi».)"
+    },
+    {
+     "t": "para",
+     "text": "«Возьми меня в плачеи». Старик спрашивает: «Умеешь ли плакать?» («Cho tôi làm người khóc mướn với». Ông lão hỏi: «Ngươi có biết khóc không?»)"
+    },
+    {
+     "t": "para",
+     "text": "Он заплакал: «м-е!» Старик говорит: «Не умеешь, не надобно, голос нехорош!» (Con gấu khóc: «Be-e!» Ông lão bảo: «Ngươi chẳng biết khóc, thôi không cần, giọng nghe chẳng ra gì!»)"
+    },
+    {
+     "t": "para",
+     "text": "Пошел вперед; лисица бежит: «Куда, старик, пошел?» — спрашивает его. (Ông đi tiếp; một con cáo chạy tới: «Ông lão đi đâu đấy?» — nó hỏi ông.)"
+    },
+    {
+     "t": "para",
+     "text": "«Плачеи искать, старуха померла». — «Возьми-ка меня». («Đi tìm người khóc mướn, bà lão mất rồi». — «Cho tôi đi với nào».)"
+    },
+    {
+     "t": "para",
+     "text": "«Умеешь ли плакать? Поплачь-ка». Она заплакала: («Ngươi có biết khóc không? Khóc thử xem nào». Cáo liền khóc kể:)"
+    },
+    {
+     "t": "para",
+     "text": "«У — кресть-я-ни-на — бы-ла — ста-руш-ка — по-утру — ра-но — вста-ва-ла — боль-ше — простня — пряла — щи — ка-шу — ва-ри-ла — ста-ри-ка — кор-ми-ла». («Nhà — bác — nông — phu — có — một — bà — lão — sớm — tinh — mơ — đã — thức — dậy — chuyên — xe — sợi — nấu — canh — thổi — cháo — nuôi — ông — lão».)"
+    },
+    {
+     "t": "para",
+     "text": "Старик сказал лисичке: «Ступай, ты мастерица плакать!» — и привел ее домой, старухе в ноги посадил — та стала плакать, — а сам пошел гроб строить. (Ông lão bảo cáo: «Giỏi lắm, ngươi đúng là tay khóc tang cừ khôi!» — rồi dẫn nó về nhà, đặt nó ngồi dưới chân bà lão — cáo bắt đầu khóc kể, — còn ông thì đi đóng quan tài.)"
+    },
+    {
+     "t": "para",
+     "text": "Пока старик ходил да воротился, а в избе нет ни старухи, ни лисички: все лисичка съела и сама ушла. (Lúc ông lão đi rồi quay về, thì trong nhà chẳng còn bà lão lẫn con cáo: cáo đã ăn sạch tất cả rồi tự chuồn mất.)"
+    },
+    {
+     "t": "para",
+     "text": "Поплакал-поплакал старик и стал жить один. (Ông lão khóc mãi khóc mãi, rồi đành sống thui thủi một mình.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "живал-бывал",
+     "vi": "ngày xửa ngày xưa có… (công thức mở đầu truyện cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "помереть (померла)",
+     "vi": "chết, qua đời (khẩu ngữ/cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "надобно",
+     "vi": "cần, phải (từ cổ = нужно)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "простня (простень)",
+     "vi": "con sợi đã xe trên xa (mớ sợi gai/lanh)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "прясть (пряла)",
+     "vi": "xe sợi, kéo sợi",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "щи",
+     "vi": "canh xúp bắp cải Nga",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "мастерица",
+     "vi": "tay nghề cừ, người đàn bà khéo léo",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "гроб",
+     "vi": "quan tài, áo quan",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "воротиться",
+     "vi": "trở về, quay về (từ cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "крестьянин",
+     "vi": "bác nông dân, người nông phu",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

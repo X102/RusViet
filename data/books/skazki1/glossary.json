@@ -1,0 +1,5262 @@
+{
+ "count": 751,
+ "entries": [
+  {
+   "ru": "горошина",
+   "ruPlain": "горошина",
+   "vi": "hạt đậu (một hạt)",
+   "g": null,
+   "ref": "skazki1-007-s001"
+  },
+  {
+   "ru": "наземь",
+   "ruPlain": "наземь",
+   "vi": "xuống đất (từ cổ)",
+   "g": null,
+   "ref": "skazki1-007-s001"
+  },
+  {
+   "ru": "росток",
+   "ruPlain": "росток",
+   "vi": "mầm cây",
+   "g": null,
+   "ref": "skazki1-007-s001"
+  },
+  {
+   "ru": "изба",
+   "ruPlain": "изба",
+   "vi": "nhà gỗ nông thôn Nga",
+   "g": null,
+   "ref": "skazki1-007-s001"
+  },
+  {
+   "ru": "поспеть",
+   "ruPlain": "поспеть",
+   "vi": "chín (quả, mùa màng)",
+   "g": null,
+   "ref": "skazki1-007-s001"
+  },
+  {
+   "ru": "нащипать",
+   "ruPlain": "нащипать",
+   "vi": "ngắt/hái được (một lượng)",
+   "g": null,
+   "ref": "skazki1-007-s001"
+  },
+  {
+   "ru": "узел",
+   "ruPlain": "узел",
+   "vi": "cái bọc, túm đồ",
+   "g": null,
+   "ref": "skazki1-007-s001"
+  },
+  {
+   "ru": "ки́тина",
+   "ruPlain": "китина",
+   "vi": "thân cây đậu (phương ngữ cổ)",
+   "g": null,
+   "ref": "skazki1-007-s001"
+  },
+  {
+   "ru": "кум, кума",
+   "ruPlain": "кум, кума",
+   "vi": "thân gia (bố/mẹ đỡ đầu); cáo và sói gọi nhau thân mật: кумушка, куманёк",
+   "g": null,
+   "ref": "skazki1-001-s001"
+  },
+  {
+   "ru": "воз",
+   "ruPlain": "воз",
+   "vi": "xe ngựa chở hàng; cả một xe đầy",
+   "g": null,
+   "ref": "skazki1-001-s001"
+  },
+  {
+   "ru": "ворохнуться",
+   "ruPlain": "ворохнуться",
+   "vi": "nhúc nhích, cựa mình (khẩu ngữ)",
+   "g": null,
+   "ref": "skazki1-001-s001"
+  },
+  {
+   "ru": "воротник",
+   "ruPlain": "воротник",
+   "vi": "cổ áo (lông thú)",
+   "g": null,
+   "ref": "skazki1-001-s001"
+  },
+  {
+   "ru": "прорубь",
+   "ruPlain": "прорубь",
+   "vi": "lỗ đục trên mặt băng (để lấy nước, câu cá)",
+   "g": null,
+   "ref": "skazki1-001-s001"
+  },
+  {
+   "ru": "коромысло",
+   "ruPlain": "коромысло",
+   "vi": "đòn gánh (gánh nước)",
+   "g": null,
+   "ref": "skazki1-001-s001"
+  },
+  {
+   "ru": "кадка",
+   "ruPlain": "кадка",
+   "vi": "thùng gỗ (đựng bột, nước)",
+   "g": null,
+   "ref": "skazki1-001-s001"
+  },
+  {
+   "ru": "стянуть",
+   "ruPlain": "стянуть",
+   "vi": "xoáy, ăn cắp (khẩu ngữ)",
+   "g": null,
+   "ref": "skazki1-001-s001"
+  },
+  {
+   "ru": "покушамши",
+   "ruPlain": "покушамши",
+   "vi": "ăn xong (dạng cổ-dân dã của «покушав»)",
+   "g": null,
+   "ref": "skazki1-001-s001"
+  },
+  {
+   "ru": "лубяной",
+   "ruPlain": "лубяной",
+   "vi": "bằng vỏ cây (lип/bồ đề)",
+   "g": null,
+   "ref": "skazki1-001-s001"
+  },
+  {
+   "ru": "скалка (скалочка)",
+   "ruPlain": "скалка (скалочка)",
+   "vi": "chày cán bột",
+   "g": null,
+   "ref": "skazki1-001-s001"
+  },
+  {
+   "ru": "невестка (невесточка)",
+   "ruPlain": "невестка (невесточка)",
+   "vi": "nàng dâu, con dâu",
+   "g": null,
+   "ref": "skazki1-001-s001"
+  },
+  {
+   "ru": "шваркнуть",
+   "ruPlain": "шваркнуть",
+   "vi": "quẳng mạnh, ném phịch xuống (khẩu ngữ)",
+   "g": null,
+   "ref": "skazki1-001-s001"
+  },
+  {
+   "ru": "исповедать",
+   "ruPlain": "исповедать",
+   "vi": "giải tội, nghe xưng tội (nhà thờ)",
+   "g": null,
+   "ref": "skazki1-001-s001"
+  },
+  {
+   "ru": "грешон (грешен)",
+   "ruPlain": "грешон (грешен)",
+   "vi": "có tội, mắc tội lỗi (dạng cổ)",
+   "g": null,
+   "ref": "skazki1-001-s001"
+  },
+  {
+   "ru": "снеток",
+   "ruPlain": "снеток",
+   "vi": "cá ốt-me nhỏ (cá hồ bé tí, ăn cả con)",
+   "g": null,
+   "ref": "skazki1-001-s002"
+  },
+  {
+   "ru": "кувшин",
+   "ruPlain": "кувшин",
+   "vi": "cái bình gốm",
+   "g": null,
+   "ref": "skazki1-001-s002"
+  },
+  {
+   "ru": "стог",
+   "ruPlain": "стог",
+   "vi": "đống rơm, đống cỏ khô",
+   "g": null,
+   "ref": "skazki1-001-s002"
+  },
+  {
+   "ru": "квашня",
+   "ruPlain": "квашня",
+   "vi": "thùng bột ủ chua (làm bánh mì)",
+   "g": null,
+   "ref": "skazki1-001-s002"
+  },
+  {
+   "ru": "прикинуться",
+   "ruPlain": "прикинуться",
+   "vi": "giả vờ, giả bộ",
+   "g": null,
+   "ref": "skazki1-001-s002"
+  },
+  {
+   "ru": "хворый",
+   "ruPlain": "хворый",
+   "vi": "ốm yếu (từ dân dã)",
+   "g": null,
+   "ref": "skazki1-001-s002"
+  },
+  {
+   "ru": "мочи нет",
+   "ruPlain": "мочи нет",
+   "vi": "không còn sức, kiệt sức (khẩu ngữ)",
+   "g": null,
+   "ref": "skazki1-001-s002"
+  },
+  {
+   "ru": "бредить (брежу)",
+   "ruPlain": "бредить (брежу)",
+   "vi": "nói mê, nói sảng",
+   "g": null,
+   "ref": "skazki1-001-s002"
+  },
+  {
+   "ru": "гузка",
+   "ruPlain": "гузка",
+   "vi": "phao câu, phần mông (chim, thú)",
+   "g": null,
+   "ref": "skazki1-001-s002"
+  },
+  {
+   "ru": "кринка",
+   "ruPlain": "кринка",
+   "vi": "hũ/vò đất nung (đựng sữa, bơ)",
+   "g": null,
+   "ref": "skazki1-001-s002"
+  },
+  {
+   "ru": "задворье",
+   "ruPlain": "задворье",
+   "vi": "khoảnh đất sau nhà, sau vườn (nơi để rơm rạ, kho)",
+   "g": null,
+   "ref": "skazki1-001-s003"
+  },
+  {
+   "ru": "промыслить",
+   "ruPlain": "промыслить",
+   "vi": "kiếm/săn được (từ cổ)",
+   "g": null,
+   "ref": "skazki1-001-s003"
+  },
+  {
+   "ru": "всползти",
+   "ruPlain": "всползти",
+   "vi": "bò trườn lên (từ hiếm)",
+   "g": null,
+   "ref": "skazki1-001-s003"
+  },
+  {
+   "ru": "ворчать",
+   "ruPlain": "ворчать",
+   "vi": "lẩm bẩm, càu nhàu trong miệng",
+   "g": null,
+   "ref": "skazki1-001-s003"
+  },
+  {
+   "ru": "скликать",
+   "ruPlain": "скликать",
+   "vi": "gọi đến, triệu đến (đám đông, đàn)",
+   "g": null,
+   "ref": "skazki1-001-s003"
+  },
+  {
+   "ru": "батько",
+   "ruPlain": "батько",
+   "vi": "ông, cha (cách gọi thân mật, phương ngữ Nam Nga–Ukraina)",
+   "g": null,
+   "ref": "skazki1-001-s003"
+  },
+  {
+   "ru": "след простыл",
+   "ruPlain": "след простыл",
+   "vi": "biến mất không tăm tích (thành ngữ)",
+   "g": null,
+   "ref": "skazki1-001-s003"
+  },
+  {
+   "ru": "по усам текло, а в рот не попало",
+   "ruPlain": "по усам текло, а в рот не попало",
+   "vi": "công thức kết truyện cổ tích Nga: kề miệng mà chẳng được hưởng",
+   "g": null,
+   "ref": "skazki1-001-s003"
+  },
+  {
+   "ru": "смитьячко (смитьё)",
+   "ruPlain": "смитьячко (смитьё)",
+   "vi": "đống rác rưởi (phương ngữ, gốc Ukraina)",
+   "g": null,
+   "ref": "skazki1-001-s004"
+  },
+  {
+   "ru": "маковка",
+   "ruPlain": "маковка",
+   "vi": "quả/đầu cây anh túc (đầy hạt)",
+   "g": null,
+   "ref": "skazki1-001-s004"
+  },
+  {
+   "ru": "улещать",
+   "ruPlain": "улещать",
+   "vi": "ngọt nhạt dỗ dành, phỉnh phờ",
+   "g": null,
+   "ref": "skazki1-001-s004"
+  },
+  {
+   "ru": "пасека",
+   "ruPlain": "пасека",
+   "vi": "trại nuôi ong, vườn ong",
+   "g": null,
+   "ref": "skazki1-001-s004"
+  },
+  {
+   "ru": "вощина",
+   "ruPlain": "вощина",
+   "vi": "sáp ong (tổ sáp, sáp tổ ong)",
+   "g": null,
+   "ref": "skazki1-001-s004"
+  },
+  {
+   "ru": "чумак",
+   "ruPlain": "чумак",
+   "vi": "dân buôn muối/cá đi xe bò (Ukraina xưa)",
+   "g": null,
+   "ref": "skazki1-001-s004"
+  },
+  {
+   "ru": "фура",
+   "ruPlain": "фура",
+   "vi": "xe thồ lớn (chở hàng đường dài)",
+   "g": null,
+   "ref": "skazki1-001-s004"
+  },
+  {
+   "ru": "смердеть",
+   "ruPlain": "смердеть",
+   "vi": "bốc mùi hôi thối, nồng nặc",
+   "g": null,
+   "ref": "skazki1-001-s004"
+  },
+  {
+   "ru": "ополонка",
+   "ruPlain": "ополонка",
+   "vi": "lỗ đục trên băng (phương ngữ; = прорубь)",
+   "g": null,
+   "ref": "skazki1-001-s004"
+  },
+  {
+   "ru": "благим матом",
+   "ruPlain": "благим матом",
+   "vi": "gào thét lạc cả giọng (thành ngữ)",
+   "g": null,
+   "ref": "skazki1-001-s004"
+  },
+  {
+   "ru": "куцый",
+   "ruPlain": "куцый",
+   "vi": "cụt đuôi, ngắn ngủn",
+   "g": null,
+   "ref": "skazki1-001-s004"
+  },
+  {
+   "ru": "днище",
+   "ruPlain": "днище",
+   "vi": "ván kê xa quay (đồ kéo sợi)",
+   "g": null,
+   "ref": "skazki1-001-s004"
+  },
+  {
+   "ru": "ліска (лиса)",
+   "ruPlain": "ліска (лиса)",
+   "vi": "con cáo (dạng phương ngữ Belarus, gọi trìu mến)",
+   "g": null,
+   "ref": "skazki1-001-s005"
+  },
+  {
+   "ru": "ясі (есць)",
+   "ruPlain": "ясі (есць)",
+   "vi": "ăn (dạng phương ngữ Belarus của есть)",
+   "g": null,
+   "ref": "skazki1-001-s005"
+  },
+  {
+   "ru": "праломка",
+   "ruPlain": "праломка",
+   "vi": "lỗ đục trên mặt băng (phương ngữ Belarus; = прорубь)",
+   "g": null,
+   "ref": "skazki1-001-s005"
+  },
+  {
+   "ru": "кій (кіямі)",
+   "ruPlain": "кій (кіямі)",
+   "vi": "cây gậy, gậy gộc",
+   "g": null,
+   "ref": "skazki1-001-s005"
+  },
+  {
+   "ru": "булава",
+   "ruPlain": "булава",
+   "vi": "chùy (vũ khí cán dài, đầu tròn nặng)",
+   "g": null,
+   "ref": "skazki1-001-s005"
+  },
+  {
+   "ru": "ращына (рашчына)",
+   "ruPlain": "ращына (рашчына)",
+   "vi": "bột chua ủ men để làm bánh mì (= квашня)",
+   "g": null,
+   "ref": "skazki1-001-s005"
+  },
+  {
+   "ru": "ашукаць",
+   "ruPlain": "ашукаць",
+   "vi": "lừa, lừa gạt (phương ngữ Belarus–Ukraina)",
+   "g": null,
+   "ref": "skazki1-001-s005"
+  },
+  {
+   "ru": "нара",
+   "ruPlain": "нара",
+   "vi": "hang (nơi thú vật ẩn náu)",
+   "g": null,
+   "ref": "skazki1-001-s005"
+  },
+  {
+   "ru": "добувать огню (добувати вогню)",
+   "ruPlain": "добувать огню (добувати вогню)",
+   "vi": "đi xin/lấy lửa (phương ngữ Ukraina)",
+   "g": null,
+   "ref": "skazki1-001-s006"
+  },
+  {
+   "ru": "бичок-третячок",
+   "ruPlain": "бичок-третячок",
+   "vi": "con bê đực ba tuổi",
+   "g": null,
+   "ref": "skazki1-001-s006"
+  },
+  {
+   "ru": "проміняти",
+   "ruPlain": "проміняти",
+   "vi": "đổi lấy, đổi chác (phương ngữ Ukraina)",
+   "g": null,
+   "ref": "skazki1-001-s006"
+  },
+  {
+   "ru": "могилка (могила)",
+   "ruPlain": "могилка (могила)",
+   "vi": "gò mả, nấm mồ (đống đất đắp)",
+   "g": null,
+   "ref": "skazki1-001-s006"
+  },
+  {
+   "ru": "санки",
+   "ruPlain": "санки",
+   "vi": "xe trượt (kéo trên tuyết/băng)",
+   "g": null,
+   "ref": "skazki1-001-s006"
+  },
+  {
+   "ru": "орішок (горіх)",
+   "ruPlain": "орішок (горіх)",
+   "vi": "hạt dẻ, quả hạch (phương ngữ Ukraina)",
+   "g": null,
+   "ref": "skazki1-001-s006"
+  },
+  {
+   "ru": "ледащо",
+   "ruPlain": "ледащо",
+   "vi": "đồ lười biếng, kẻ lười nhác (Ukraina)",
+   "g": null,
+   "ref": "skazki1-001-s006"
+  },
+  {
+   "ru": "горобці (горобець)",
+   "ruPlain": "горобці (горобець)",
+   "vi": "chim sẻ",
+   "g": null,
+   "ref": "skazki1-001-s006"
+  },
+  {
+   "ru": "ополонка",
+   "ruPlain": "ополонка",
+   "vi": "lỗ đục trên mặt băng (phương ngữ; = прорубь)",
+   "g": null,
+   "ref": "skazki1-001-s006"
+  },
+  {
+   "ru": "колля (кольями)",
+   "ruPlain": "колля (кольями)",
+   "vi": "gậy gộc, cọc nhọn (để đánh; phương ngữ)",
+   "g": null,
+   "ref": "skazki1-001-s006"
+  },
+  {
+   "ru": "сбруя",
+   "ruPlain": "сбруя",
+   "vi": "bộ yên cương (toàn bộ dây đai thắng ngựa vào xe)",
+   "g": null,
+   "ref": "skazki1-001-s007"
+  },
+  {
+   "ru": "оглобля (оглобелька)",
+   "ruPlain": "оглобля (оглобелька)",
+   "vi": "càng xe — hai thanh gỗ kẹp hai bên con ngựa kéo xe",
+   "g": null,
+   "ref": "skazki1-001-s007"
+  },
+  {
+   "ru": "сиволапый",
+   "ruPlain": "сиволапый",
+   "vi": "thô kệch, vụng về, quê mùa (lời mắng; nghĩa đen: chân tay lóng ngóng)",
+   "g": null,
+   "ref": "skazki1-001-s007"
+  },
+  {
+   "ru": "Мишка / Мишенька",
+   "ruPlain": "Мишка / Мишенька",
+   "vi": "tên gọi thân mật của gấu trong truyện cổ Nga (như «chú Gấu»)",
+   "g": null,
+   "ref": "skazki1-001-s007"
+  },
+  {
+   "ru": "пропасть (дерев)",
+   "ruPlain": "пропасть (дерев)",
+   "vi": "vô số, cả đống (khẩu ngữ, chỉ số lượng rất nhiều)",
+   "g": null,
+   "ref": "skazki1-001-s007"
+  },
+  {
+   "ru": "пруток (пруточек)",
+   "ruPlain": "пруток (пруточек)",
+   "vi": "cái que mảnh, thanh nhỏ",
+   "g": null,
+   "ref": "skazki1-001-s007"
+  },
+  {
+   "ru": "вожжи",
+   "ruPlain": "вожжи",
+   "vi": "dây cương (để điều khiển, giật ghì con ngựa kéo)",
+   "g": null,
+   "ref": "skazki1-001-s007"
+  },
+  {
+   "ru": "садок",
+   "ruPlain": "садок",
+   "vi": "bể/vũng quây để nuôi giữ cá còn sống",
+   "g": null,
+   "ref": "skazki1-001-s007"
+  },
+  {
+   "ru": "сметливый",
+   "ruPlain": "сметливый",
+   "vi": "tinh khôn, lanh lợi, ranh ma",
+   "g": null,
+   "ref": "skazki1-001-s007"
+  },
+  {
+   "ru": "берлога",
+   "ruPlain": "берлога",
+   "vi": "hang gấu (nơi gấu nằm ngủ đông)",
+   "g": null,
+   "ref": "skazki1-001-s007"
+  },
+  {
+   "ru": "облакомиться",
+   "ruPlain": "облакомиться",
+   "vi": "ăn lấy ăn để vì thấy ngon, khoái khẩu (từ cổ)",
+   "g": null,
+   "ref": "skazki1-001-s007"
+  },
+  {
+   "ru": "околеть",
+   "ruPlain": "околеть",
+   "vi": "ngoẻo, chết (nói về thú vật; sắc thái thô)",
+   "g": null,
+   "ref": "skazki1-001-s007"
+  },
+  {
+   "ru": "конура",
+   "ruPlain": "конура",
+   "vi": "cũi/ổ chó; nơi ở chật chội, tồi tàn",
+   "g": null,
+   "ref": "skazki1-001-s007"
+  },
+  {
+   "ru": "лапоть",
+   "ruPlain": "лапоть",
+   "vi": "giày bện bằng vỏ cây — giày cỏ của nông dân Nga",
+   "g": null,
+   "ref": "skazki1-002-s001"
+  },
+  {
+   "ru": "лисонька",
+   "ruPlain": "лисонька",
+   "vi": "cáo ơi (cách gọi âu yếm của «лиса»)",
+   "g": null,
+   "ref": "skazki1-002-s001"
+  },
+  {
+   "ru": "лавка",
+   "ruPlain": "лавка",
+   "vi": "ghế dài kê sát tường trong nhà gỗ Nga",
+   "g": null,
+   "ref": "skazki1-002-s001"
+  },
+  {
+   "ru": "поутру",
+   "ruPlain": "поутру",
+   "vi": "vào sáng sớm (từ cổ)",
+   "g": null,
+   "ref": "skazki1-002-s001"
+  },
+  {
+   "ru": "припрятать",
+   "ruPlain": "припрятать",
+   "vi": "giấu kĩ đi",
+   "g": null,
+   "ref": "skazki1-002-s001"
+  },
+  {
+   "ru": "гуська",
+   "ruPlain": "гуська",
+   "vi": "con ngỗng (dạng thân mật của «гусь»)",
+   "g": null,
+   "ref": "skazki1-002-s001"
+  },
+  {
+   "ru": "барашек",
+   "ruPlain": "барашек",
+   "vi": "con cừu non",
+   "g": null,
+   "ref": "skazki1-002-s001"
+  },
+  {
+   "ru": "бычок",
+   "ruPlain": "бычок",
+   "vi": "con bê, bò đực non",
+   "g": null,
+   "ref": "skazki1-002-s001"
+  },
+  {
+   "ru": "передушить",
+   "ruPlain": "передушить",
+   "vi": "bóp cổ giết sạch (cả lũ)",
+   "g": null,
+   "ref": "skazki1-002-s001"
+  },
+  {
+   "ru": "хомут",
+   "ruPlain": "хомут",
+   "vi": "bộ ách — vòng cổ thắng bò/ngựa vào xe",
+   "g": null,
+   "ref": "skazki1-002-s001"
+  },
+  {
+   "ru": "сани",
+   "ruPlain": "сани",
+   "vi": "xe trượt (tuyết)",
+   "g": null,
+   "ref": "skazki1-002-s001"
+  },
+  {
+   "ru": "нейдёт",
+   "ruPlain": "нейдёт",
+   "vi": "không chịu đi (cổ = «не идёт»)",
+   "g": null,
+   "ref": "skazki1-002-s001"
+  },
+  {
+   "ru": "добыча",
+   "ruPlain": "добыча",
+   "vi": "con mồi, chiến lợi phẩm",
+   "g": null,
+   "ref": "skazki1-002-s001"
+  },
+  {
+   "ru": "кум, кума",
+   "ruPlain": "кум, кума",
+   "vi": "bố/mẹ đỡ đầu; ở đây là cách xưng hô thân giữa đôi bạn kết nghĩa",
+   "g": null,
+   "ref": "skazki1-003-s001"
+  },
+  {
+   "ru": "повитуха",
+   "ruPlain": "повитуха",
+   "vi": "bà đỡ, bà mụ",
+   "g": null,
+   "ref": "skazki1-003-s001"
+  },
+  {
+   "ru": "повой",
+   "ruPlain": "повой",
+   "vi": "việc đỡ đẻ (đi «на повой» = đi đỡ đẻ)",
+   "g": null,
+   "ref": "skazki1-003-s001"
+  },
+  {
+   "ru": "кадочка",
+   "ruPlain": "кадочка",
+   "vi": "vò gỗ nhỏ (đựng mật)",
+   "g": null,
+   "ref": "skazki1-003-s001"
+  },
+  {
+   "ru": "нализаться",
+   "ruPlain": "нализаться",
+   "vi": "liếm/ăn cho thỏa thuê (đồ ngọt)",
+   "g": null,
+   "ref": "skazki1-003-s001"
+  },
+  {
+   "ru": "початок",
+   "ruPlain": "початок",
+   "vi": "phần đầu, lớp trên cùng → tên đùa «Початочек»",
+   "g": null,
+   "ref": "skazki1-003-s001"
+  },
+  {
+   "ru": "поскрёбыш",
+   "ruPlain": "поскрёбыш",
+   "vi": "phần vét cuối cùng; đứa con út → «Поскрёбышек»",
+   "g": null,
+   "ref": "skazki1-003-s001"
+  },
+  {
+   "ru": "хворый",
+   "ruPlain": "хворый",
+   "vi": "ốm đau (từ cổ)",
+   "g": null,
+   "ref": "skazki1-003-s001"
+  },
+  {
+   "ru": "кститься",
+   "ruPlain": "кститься",
+   "vi": "làm dấu thánh giá (cổ = «креститься»)",
+   "g": null,
+   "ref": "skazki1-003-s001"
+  },
+  {
+   "ru": "божиться",
+   "ruPlain": "божиться",
+   "vi": "thề có Trời, thề thốt",
+   "g": null,
+   "ref": "skazki1-003-s001"
+  },
+  {
+   "ru": "вытопиться",
+   "ruPlain": "вытопиться",
+   "vi": "chảy ra do hơi nóng làm tan",
+   "g": null,
+   "ref": "skazki1-003-s001"
+  },
+  {
+   "ru": "окроме",
+   "ruPlain": "окроме",
+   "vi": "ngoài ra, trừ (cổ = «кроме»)",
+   "g": null,
+   "ref": "skazki1-003-s001"
+  },
+  {
+   "ru": "кринка",
+   "ruPlain": "кринка",
+   "vi": "liễn/vại sành đựng sữa, bơ",
+   "g": null,
+   "ref": "skazki1-003-s001"
+  },
+  {
+   "ru": "фатера",
+   "ruPlain": "фатера",
+   "vi": "chỗ trọ, chỗ ở nhờ (dạng dân dã của «квартира»)",
+   "g": null,
+   "ref": "skazki1-003-s002"
+  },
+  {
+   "ru": "лизь / инно",
+   "ruPlain": "лизь / инно",
+   "vi": "trèo lên đi / thì cứ, vậy thì (mệnh lệnh + trợ từ, phương ngữ Bắc Nga)",
+   "g": null,
+   "ref": "skazki1-003-s002"
+  },
+  {
+   "ru": "го́лбчик (голбец)",
+   "ruPlain": "голбчик (голбец)",
+   "vi": "bệ gỗ cạnh lò sưởi, có nắp mở xuống hầm",
+   "g": null,
+   "ref": "skazki1-003-s002"
+  },
+  {
+   "ru": "полати (полатцы)",
+   "ruPlain": "полати (полатцы)",
+   "vi": "sàn gỗ bắc trên cao giữa lò và tường để nằm ngủ",
+   "g": null,
+   "ref": "skazki1-003-s002"
+  },
+  {
+   "ru": "вышка",
+   "ruPlain": "вышка",
+   "vi": "gác xép sát trần nhà (nơi cất đồ)",
+   "g": null,
+   "ref": "skazki1-003-s002"
+  },
+  {
+   "ru": "почать",
+   "ruPlain": "почать",
+   "vi": "khui ra, bắt đầu dùng (lần đầu)",
+   "g": null,
+   "ref": "skazki1-003-s002"
+  },
+  {
+   "ru": "бабиться",
+   "ruPlain": "бабиться",
+   "vi": "đi làm bà đỡ, đỡ đẻ",
+   "g": null,
+   "ref": "skazki1-003-s002"
+  },
+  {
+   "ru": "початыш / серёдыш / заскрёбыш",
+   "ruPlain": "початыш / серёдыш / заскрёбыш",
+   "vi": "đứa đầu / đứa giữa / đứa vét đáy — ba cái tên đùa cáo đặt theo mức bơ đã liếm",
+   "g": null,
+   "ref": "skazki1-003-s002"
+  },
+  {
+   "ru": "оладьи",
+   "ruPlain": "оладьи",
+   "vi": "bánh rán nhỏ (làm từ bột)",
+   "g": null,
+   "ref": "skazki1-003-s002"
+  },
+  {
+   "ru": "шесток",
+   "ruPlain": "шесток",
+   "vi": "bệ phẳng trước cửa lò sưởi Nga",
+   "g": null,
+   "ref": "skazki1-003-s002"
+  },
+  {
+   "ru": "выпрячься (выпрежится)",
+   "ruPlain": "выпрячься (выпрежится)",
+   "vi": "rịn/chảy ra (mỡ, bơ do hơi nóng)",
+   "g": null,
+   "ref": "skazki1-003-s002"
+  },
+  {
+   "ru": "удить (удь)",
+   "ruPlain": "удить (удь)",
+   "vi": "câu cá (удь = mệnh lệnh phương ngữ «câu đi»)",
+   "g": null,
+   "ref": "skazki1-003-s002"
+  },
+  {
+   "ru": "учуять (учул)",
+   "ruPlain": "учуять (учул)",
+   "vi": "nghe ra, nhận ra (bằng tai, mũi)",
+   "g": null,
+   "ref": "skazki1-003-s002"
+  },
+  {
+   "ru": "волченёк-голубок",
+   "ruPlain": "волченёк-голубок",
+   "vi": "«sói cưng, sói bồ câu» — cách gọi nịnh nọt âu yếm",
+   "g": null,
+   "ref": "skazki1-003-s003"
+  },
+  {
+   "ru": "горемычный",
+   "ruPlain": "горемычный",
+   "vi": "khốn khổ, bất hạnh, đáng thương",
+   "g": null,
+   "ref": "skazki1-003-s003"
+  },
+  {
+   "ru": "толсто (говорить)",
+   "ruPlain": "толсто (говорить)",
+   "vi": "(nói) giọng trầm, ồm ồm, thô nặng",
+   "g": null,
+   "ref": "skazki1-003-s003"
+  },
+  {
+   "ru": "приступочек",
+   "ruPlain": "приступочек",
+   "vi": "bậc nhỏ để bước lên lò sưởi",
+   "g": null,
+   "ref": "skazki1-003-s003"
+  },
+  {
+   "ru": "вишь",
+   "ruPlain": "вишь",
+   "vi": "đấy thấy không, đấy (trợ từ cổ)",
+   "g": null,
+   "ref": "skazki1-003-s003"
+  },
+  {
+   "ru": "избица",
+   "ruPlain": "избица",
+   "vi": "gian nhà phụ / kho cạnh nhà chính",
+   "g": null,
+   "ref": "skazki1-003-s003"
+  },
+  {
+   "ru": "лукошко",
+   "ruPlain": "лукошко",
+   "vi": "giỏ đan bằng vỏ cây",
+   "g": null,
+   "ref": "skazki1-003-s003"
+  },
+  {
+   "ru": "толокно",
+   "ruPlain": "толокно",
+   "vi": "bột yến mạch rang chín",
+   "g": null,
+   "ref": "skazki1-003-s003"
+  },
+  {
+   "ru": "сзобать",
+   "ruPlain": "сзобать",
+   "vi": "ăn sạch, chén hết (phương ngữ)",
+   "g": null,
+   "ref": "skazki1-003-s003"
+  },
+  {
+   "ru": "лихо (мне лихо)",
+   "ruPlain": "лихо (мне лихо)",
+   "vi": "khó ở, mệt mỏi, khó chịu trong người",
+   "g": null,
+   "ref": "skazki1-003-s003"
+  },
+  {
+   "ru": "на Русь (пойти)",
+   "ruPlain": "на Русь (пойти)",
+   "vi": "ra chốn làng mạc, nơi có người ở (trong truyện)",
+   "g": null,
+   "ref": "skazki1-003-s003"
+  },
+  {
+   "ru": "сельдь",
+   "ruPlain": "сельдь",
+   "vi": "cá trích",
+   "g": null,
+   "ref": "skazki1-003-s003"
+  },
+  {
+   "ru": "рогоза",
+   "ruPlain": "рогоза",
+   "vi": "tấm chiếu/đệm bện bằng cói (lót xe)",
+   "g": null,
+   "ref": "skazki1-003-s003"
+  },
+  {
+   "ru": "имать (имала)",
+   "ruPlain": "имать (имала)",
+   "vi": "bắt, tóm, vớ lấy (dạng cổ)",
+   "g": null,
+   "ref": "skazki1-003-s003"
+  },
+  {
+   "ru": "ухватка",
+   "ruPlain": "ухватка",
+   "vi": "mánh khóe, tài xoay xở khéo léo",
+   "g": null,
+   "ref": "skazki1-003-s003"
+  },
+  {
+   "ru": "кичига",
+   "ruPlain": "кичига",
+   "vi": "chày gỗ đập lúa / đập giặt",
+   "g": null,
+   "ref": "skazki1-003-s003"
+  },
+  {
+   "ru": "куманёк / кумушка",
+   "ruPlain": "куманёк / кумушка",
+   "vi": "anh/chị kết nghĩa (dạng thân mật của «кум / кума»)",
+   "g": null,
+   "ref": "skazki1-003-s004"
+  },
+  {
+   "ru": "голик (голичком)",
+   "ruPlain": "голик (голичком)",
+   "vi": "chổi bó bằng cành trụi lá; «отведать голичком» = lấy chổi chấm bơ mà nếm",
+   "g": null,
+   "ref": "skazki1-003-s004"
+  },
+  {
+   "ru": "по́лица",
+   "ruPlain": "полица",
+   "vi": "cái giá gắn cao trên tường để cất đồ",
+   "g": null,
+   "ref": "skazki1-003-s004"
+  },
+  {
+   "ru": "погреб",
+   "ruPlain": "погреб",
+   "vi": "hầm chứa thức ăn dưới đất",
+   "g": null,
+   "ref": "skazki1-003-s004"
+  },
+  {
+   "ru": "сенокос",
+   "ruPlain": "сенокос",
+   "vi": "vụ cắt cỏ khô; «на сенокосе» = đang ngoài đồng cắt cỏ",
+   "g": null,
+   "ref": "skazki1-003-s004"
+  },
+  {
+   "ru": "раздолье",
+   "ruPlain": "раздолье",
+   "vi": "sự thỏa thuê, tha hồ, rộng đường tung hoành",
+   "g": null,
+   "ref": "skazki1-003-s004"
+  },
+  {
+   "ru": "стайка",
+   "ruPlain": "стайка",
+   "vi": "chuồng nhỏ nhốt gia súc, gia cầm",
+   "g": null,
+   "ref": "skazki1-003-s004"
+  },
+  {
+   "ru": "удушить",
+   "ruPlain": "удушить",
+   "vi": "bóp/siết cho chết ngạt",
+   "g": null,
+   "ref": "skazki1-003-s004"
+  },
+  {
+   "ru": "череда",
+   "ruPlain": "череда",
+   "vi": "lượt, phiên (đến phiên ai)",
+   "g": null,
+   "ref": "skazki1-003-s004"
+  },
+  {
+   "ru": "Лиса Патрикеевна",
+   "ruPlain": "Лиса Патрикеевна",
+   "vi": "biệt danh quen của cáo trong cổ tích Nga, ngụ ý ranh ma lọc lõi",
+   "g": null,
+   "ref": "skazki1-003-s004"
+  },
+  {
+   "ru": "зоря (заря)",
+   "ruPlain": "зоря (заря)",
+   "vi": "rạng đông, ánh bình minh",
+   "g": null,
+   "ref": "skazki1-003-s004"
+  },
+  {
+   "ru": "последыш (последышек)",
+   "ruPlain": "последыш (последышек)",
+   "vi": "đứa con út, đứa sinh sau cùng",
+   "g": null,
+   "ref": "skazki1-003-s004"
+  },
+  {
+   "ru": "снадобье",
+   "ruPlain": "снадобье",
+   "vi": "đồ nêm nếm, gia vị; cũng có nghĩa vị thuốc",
+   "g": null,
+   "ref": "skazki1-003-s004"
+  },
+  {
+   "ru": "ротиться",
+   "ruPlain": "ротиться",
+   "vi": "thề thốt, rủa thề (cổ, = «божиться, клясться»)",
+   "g": null,
+   "ref": "skazki1-003-s004"
+  },
+  {
+   "ru": "горечко (горе)",
+   "ruPlain": "горечко (горе)",
+   "vi": "nỗi khổ, nỗi buồn (dạng thân thương của «горе»)",
+   "g": null,
+   "ref": "skazki1-003-s005"
+  },
+  {
+   "ru": "изволь",
+   "ruPlain": "изволь",
+   "vi": "được thôi, xin mời (lối nói cổ tỏ ý cho phép lịch sự)",
+   "g": null,
+   "ref": "skazki1-003-s005"
+  },
+  {
+   "ru": "полдовка (подловка)",
+   "ruPlain": "полдовка (подловка)",
+   "vi": "gác mái, gác lửng dưới mái nhà (nơi cất đồ)",
+   "g": null,
+   "ref": "skazki1-003-s005"
+  },
+  {
+   "ru": "кадушка",
+   "ruPlain": "кадушка",
+   "vi": "thùng gỗ nhỏ có nắp (đựng mật, dưa muối…)",
+   "g": null,
+   "ref": "skazki1-003-s005"
+  },
+  {
+   "ru": "младенец",
+   "ruPlain": "младенец",
+   "vi": "đứa trẻ sơ sinh, hài nhi",
+   "g": null,
+   "ref": "skazki1-003-s005"
+  },
+  {
+   "ru": "починочек (почин)",
+   "ruPlain": "починочек (почин)",
+   "vi": "tên đùa «Mở Đầu» (từ «почин» = sự khởi sự)",
+   "g": null,
+   "ref": "skazki1-003-s005"
+  },
+  {
+   "ru": "захворать",
+   "ruPlain": "захворать",
+   "vi": "phát ốm, lâm bệnh (cổ)",
+   "g": null,
+   "ref": "skazki1-003-s005"
+  },
+  {
+   "ru": "запасец (запас)",
+   "ruPlain": "запасец (запас)",
+   "vi": "món/của để dành, đồ dự trữ",
+   "g": null,
+   "ref": "skazki1-003-s005"
+  },
+  {
+   "ru": "лебёдушка",
+   "ruPlain": "лебёдушка",
+   "vi": "«cô thiên nga» — lối gọi âu yếm, ở đây mỉa mai",
+   "g": null,
+   "ref": "skazki1-003-s005"
+  },
+  {
+   "ru": "господь с тобой",
+   "ruPlain": "господь с тобой",
+   "vi": "«lạy Chúa» — thành ngữ tỏ ý can ngăn, phản đối nhẹ nhàng",
+   "g": null,
+   "ref": "skazki1-003-s005"
+  },
+  {
+   "ru": "поживать",
+   "ruPlain": "поживать",
+   "vi": "sinh sống, sống qua ngày một cách thong dong",
+   "g": null,
+   "ref": "skazki1-003-s005"
+  },
+  {
+   "ru": "запасать",
+   "ruPlain": "запасать",
+   "vi": "tích trữ, dành dụm (lương thực)",
+   "g": null,
+   "ref": "skazki1-003-s005"
+  },
+  {
+   "ru": "избёнка",
+   "ruPlain": "избёнка",
+   "vi": "túp lều nhỏ (dạng thân mật của «изба»)",
+   "g": null,
+   "ref": "skazki1-004-s001"
+  },
+  {
+   "ru": "лубяной",
+   "ruPlain": "лубяной",
+   "vi": "(làm) bằng vỏ cây bồ đề (луб)",
+   "g": null,
+   "ref": "skazki1-004-s001"
+  },
+  {
+   "ru": "ледяной",
+   "ruPlain": "ледяной",
+   "vi": "bằng băng, lạnh giá",
+   "g": null,
+   "ref": "skazki1-004-s001"
+  },
+  {
+   "ru": "весна красна",
+   "ruPlain": "весна красна",
+   "vi": "mùa xuân tươi đẹp (lối nói cổ trong dân ca)",
+   "g": null,
+   "ref": "skazki1-004-s001"
+  },
+  {
+   "ru": "погреться",
+   "ruPlain": "погреться",
+   "vi": "sưởi ấm nhờ",
+   "g": null,
+   "ref": "skazki1-004-s001"
+  },
+  {
+   "ru": "выгнать",
+   "ruPlain": "выгнать",
+   "vi": "đuổi ra, tống ra ngoài",
+   "g": null,
+   "ref": "skazki1-004-s001"
+  },
+  {
+   "ru": "печь",
+   "ruPlain": "печь",
+   "vi": "bệ lò sưởi Nga (chỗ nằm ấm trên lò)",
+   "g": null,
+   "ref": "skazki1-004-s001"
+  },
+  {
+   "ru": "клочки",
+   "ruPlain": "клочки",
+   "vi": "túm/mớ lông bị giật ra",
+   "g": null,
+   "ref": "skazki1-004-s001"
+  },
+  {
+   "ru": "заулок",
+   "ruPlain": "заулок",
+   "vi": "ngõ nhỏ, hẻm (заулочки: các ngõ ngách)",
+   "g": null,
+   "ref": "skazki1-004-s001"
+  },
+  {
+   "ru": "коса",
+   "ruPlain": "коса",
+   "vi": "lưỡi hái",
+   "g": null,
+   "ref": "skazki1-004-s001"
+  },
+  {
+   "ru": "посечи",
+   "ruPlain": "посечи",
+   "vi": "chém, đốn (dạng cổ của «посечь»)",
+   "g": null,
+   "ref": "skazki1-004-s001"
+  },
+  {
+   "ru": "кринка",
+   "ruPlain": "кринка",
+   "vi": "liễn/hũ sành đựng sữa, bơ",
+   "g": null,
+   "ref": "skazki1-004-s001"
+  },
+  {
+   "ru": "кукуреку",
+   "ruPlain": "кукуреку",
+   "vi": "ò ó o (tiếng gà gáy)",
+   "g": null,
+   "ref": "skazki1-004-s001"
+  },
+  {
+   "ru": "протаскаться",
+   "ruPlain": "протаскаться",
+   "vi": "lang thang vạ vật mệt nhoài (khẩu ngữ)",
+   "g": null,
+   "ref": "skazki1-005-s001"
+  },
+  {
+   "ru": "зоря (на зоре)",
+   "ruPlain": "зоря (на зоре)",
+   "vi": "lúc rạng đông, tảng sáng (dạng cổ của «заря»)",
+   "g": null,
+   "ref": "skazki1-005-s001"
+  },
+  {
+   "ru": "насесть",
+   "ruPlain": "насесть",
+   "vi": "sào đậu cho gà ngủ",
+   "g": null,
+   "ref": "skazki1-005-s001"
+  },
+  {
+   "ru": "куренок",
+   "ruPlain": "куренок",
+   "vi": "gà giò, gà choai (khẩu ngữ; = цыплёнок)",
+   "g": null,
+   "ref": "skazki1-005-s001"
+  },
+  {
+   "ru": "лукавый",
+   "ruPlain": "лукавый",
+   "vi": "ác quỷ, ma quỷ (uyển ngữ; nghĩa gốc «xảo trá»)",
+   "g": null,
+   "ref": "skazki1-005-s001"
+  },
+  {
+   "ru": "исповедь",
+   "ruPlain": "исповедь",
+   "vi": "sự xưng tội (nghi lễ Chính Thống giáo)",
+   "g": null,
+   "ref": "skazki1-005-s001"
+  },
+  {
+   "ru": "покаяться",
+   "ruPlain": "покаяться",
+   "vi": "sám hối, ăn năn hối lỗi",
+   "g": null,
+   "ref": "skazki1-005-s001"
+  },
+  {
+   "ru": "блудник",
+   "ruPlain": "блудник",
+   "vi": "kẻ dâm đãng, quân trác táng",
+   "g": null,
+   "ref": "skazki1-005-s001"
+  },
+  {
+   "ru": "пакостник",
+   "ruPlain": "пакостник",
+   "vi": "đồ phá phách, kẻ chuyên làm điều bậy bạ",
+   "g": null,
+   "ref": "skazki1-005-s001"
+  },
+  {
+   "ru": "словеса",
+   "ruPlain": "словеса",
+   "vi": "lời lẽ (dạng cổ, số nhiều trang trọng của «слово»)",
+   "g": null,
+   "ref": "skazki1-005-s001"
+  },
+  {
+   "ru": "княгиня",
+   "ruPlain": "княгиня",
+   "vi": "công nương, vương phi",
+   "g": null,
+   "ref": "skazki1-005-s001"
+  },
+  {
+   "ru": "архиерей",
+   "ruPlain": "архиерей",
+   "vi": "giám mục (giáo phẩm cao Chính Thống giáo)",
+   "g": null,
+   "ref": "skazki1-005-s001"
+  },
+  {
+   "ru": "просвирня",
+   "ruPlain": "просвирня",
+   "vi": "bà chuyên nướng bánh thánh (просвира) cho nhà thờ",
+   "g": null,
+   "ref": "skazki1-005-s001"
+  },
+  {
+   "ru": "кануны (канун)",
+   "ruPlain": "кануны (канун)",
+   "vi": "đồ ngọt/rượu mật dùng trong lễ cầu hồn",
+   "g": null,
+   "ref": "skazki1-005-s001"
+  },
+  {
+   "ru": "зело",
+   "ruPlain": "зело",
+   "vi": "rất, hết sức (từ cổ)",
+   "g": null,
+   "ref": "skazki1-005-s002"
+  },
+  {
+   "ru": "петел",
+   "ruPlain": "петел",
+   "vi": "gà trống (dạng cổ của «петух»)",
+   "g": null,
+   "ref": "skazki1-005-s002"
+  },
+  {
+   "ru": "чадо",
+   "ruPlain": "чадо",
+   "vi": "đứa con (từ cổ, trang trọng)",
+   "g": null,
+   "ref": "skazki1-005-s002"
+  },
+  {
+   "ru": "сниди",
+   "ruPlain": "сниди",
+   "vi": "hãy xuống (mệnh lệnh cổ của «сойди»)",
+   "g": null,
+   "ref": "skazki1-005-s002"
+  },
+  {
+   "ru": "мати",
+   "ruPlain": "мати",
+   "vi": "mẹ (dạng cổ của «мать»)",
+   "g": null,
+   "ref": "skazki1-005-s002"
+  },
+  {
+   "ru": "почто",
+   "ruPlain": "почто",
+   "vi": "vì sao, cớ sao (từ cổ)",
+   "g": null,
+   "ref": "skazki1-005-s002"
+  },
+  {
+   "ru": "притча",
+   "ruPlain": "притча",
+   "vi": "dụ ngôn răn dạy; ở đây nhắc tích người thu thuế (мытарь) và người Pharisêu (фарисей)",
+   "g": null,
+   "ref": "skazki1-005-s002"
+  },
+  {
+   "ru": "мытарь",
+   "ruPlain": "мытарь",
+   "vi": "người thu thuế (điển tích Kinh Thánh)",
+   "g": null,
+   "ref": "skazki1-005-s002"
+  },
+  {
+   "ru": "рече",
+   "ruPlain": "рече",
+   "vi": "đã nói, bèn nói (dạng cổ của «сказал»)",
+   "g": null,
+   "ref": "skazki1-005-s002"
+  },
+  {
+   "ru": "яко",
+   "ruPlain": "яко",
+   "vi": "như, ví như (từ cổ)",
+   "g": null,
+   "ref": "skazki1-005-s002"
+  },
+  {
+   "ru": "велиим гласом",
+   "ruPlain": "велиим гласом",
+   "vi": "bằng giọng lớn vang (cụm cổ = «громким голосом»)",
+   "g": null,
+   "ref": "skazki1-005-s002"
+  },
+  {
+   "ru": "митрополит",
+   "ruPlain": "митрополит",
+   "vi": "Tổng giám mục (giáo phẩm cao Chính Thống giáo)",
+   "g": null,
+   "ref": "skazki1-005-s002"
+  },
+  {
+   "ru": "дьяк",
+   "ruPlain": "дьяк",
+   "vi": "phụ tế, người giúp việc lễ trong nhà thờ",
+   "g": null,
+   "ref": "skazki1-005-s002"
+  },
+  {
+   "ru": "боярыня",
+   "ruPlain": "боярыня",
+   "vi": "bà lớn, phu nhân quý tộc (vợ boyar)",
+   "g": null,
+   "ref": "skazki1-005-s002"
+  },
+  {
+   "ru": "ворогуша",
+   "ruPlain": "ворогуша",
+   "vi": "mụ chằn, đồ yêu tinh (lời mắng; gốc chỉ cơn sốt rét bị nhân hóa)",
+   "g": null,
+   "ref": "skazki1-005-s002"
+  },
+  {
+   "ru": "держава",
+   "ruPlain": "держава",
+   "vi": "quyền uy, vương quyền (trong câu kết theo lối kinh kệ)",
+   "g": null,
+   "ref": "skazki1-005-s002"
+  },
+  {
+   "ru": "озорничать",
+   "ruPlain": "озорничать",
+   "vi": "nghịch ngợm, quấy phá, làm càn",
+   "g": null,
+   "ref": "skazki1-005-s003"
+  },
+  {
+   "ru": "величаться",
+   "ruPlain": "величаться",
+   "vi": "tự đề cao, vênh vang xưng tụng mình",
+   "g": null,
+   "ref": "skazki1-005-s003"
+  },
+  {
+   "ru": "махонький",
+   "ruPlain": "махонький",
+   "vi": "bé tí, nhỏ xíu (phương ngữ = малюсенький)",
+   "g": null,
+   "ref": "skazki1-005-s003"
+  },
+  {
+   "ru": "усё (всё)",
+   "ruPlain": "усё (всё)",
+   "vi": "tất cả (phương ngữ của «всё»)",
+   "g": null,
+   "ref": "skazki1-005-s003"
+  },
+  {
+   "ru": "щетина",
+   "ruPlain": "щетина",
+   "vi": "lông cứng ở gáy và lưng con lợn",
+   "g": null,
+   "ref": "skazki1-005-s003"
+  },
+  {
+   "ru": "мякушко (мякоть)",
+   "ruPlain": "мякушко (мякоть)",
+   "vi": "phần thịt mềm (dạng thân mật, phương ngữ)",
+   "g": null,
+   "ref": "skazki1-005-s003"
+  },
+  {
+   "ru": "кум (кум-куманек)",
+   "ruPlain": "кум (кум-куманек)",
+   "vi": "ông thông gia/cha đỡ đầu; lối xưng hô thân mật dân dã",
+   "g": null,
+   "ref": "skazki1-005-s003"
+  },
+  {
+   "ru": "непорочный",
+   "ruPlain": "непорочный",
+   "vi": "trong sạch, không tì vết (ở đây dùng mỉa mai con cáo)",
+   "g": null,
+   "ref": "skazki1-005-s003"
+  },
+  {
+   "ru": "ведать (ведаешь)",
+   "ruPlain": "ведать (ведаешь)",
+   "vi": "biết, hay biết (từ cổ = знать)",
+   "g": null,
+   "ref": "skazki1-005-s003"
+  },
+  {
+   "ru": "низящее",
+   "ruPlain": "низящее",
+   "vi": "chỗ thấp (từ tự đặt theo vần dân gian)",
+   "g": null,
+   "ref": "skazki1-005-s003"
+  },
+  {
+   "ru": "землящее",
+   "ruPlain": "землящее",
+   "vi": "chỗ sát mặt đất (từ tự đặt theo vần dân gian)",
+   "g": null,
+   "ref": "skazki1-005-s003"
+  },
+  {
+   "ru": "сдуру",
+   "ruPlain": "сдуру",
+   "vi": "vì ngu ngốc, vì dại dột",
+   "g": null,
+   "ref": "skazki1-005-s003"
+  },
+  {
+   "ru": "невмочь",
+   "ruPlain": "невмочь",
+   "vi": "không kham nổi, chịu hết xiết",
+   "g": null,
+   "ref": "skazki1-005-s003"
+  },
+  {
+   "ru": "батюшка",
+   "ruPlain": "батюшка",
+   "vi": "cha xứ, linh mục (cũng là lối gọi «bố»)",
+   "g": null,
+   "ref": "skazki1-005-s003"
+  },
+  {
+   "ru": "мироед",
+   "ruPlain": "мироед",
+   "vi": "kẻ keo kiệt bóc lột dân làng (nghĩa đen «kẻ ăn cả thế gian»)",
+   "g": null,
+   "ref": "skazki1-005-s003"
+  },
+  {
+   "ru": "помянуть (помяни, господи)",
+   "ruPlain": "помянуть (помяни, господи)",
+   "vi": "cầu cho, tưởng nhớ (công thức đọc kinh cầu hồn nhà thờ)",
+   "g": null,
+   "ref": "skazki1-005-s003"
+  },
+  {
+   "ru": "бывал-живал",
+   "ruPlain": "бывал-живал",
+   "vi": "«ngày xửa ngày xưa có…» (công thức mở đầu truyện cổ)",
+   "g": null,
+   "ref": "skazki1-006-s001"
+  },
+  {
+   "ru": "кочешок (кочан)",
+   "ruPlain": "кочешок (кочан)",
+   "vi": "cây/bắp cải con (dạng nhỏ thân mật của «кочан»)",
+   "g": null,
+   "ref": "skazki1-006-s001"
+  },
+  {
+   "ru": "подпольецо (подполье)",
+   "ruPlain": "подпольецо (подполье)",
+   "vi": "gầm sàn, hầm chứa dưới sàn nhà gỗ Nga",
+   "g": null,
+   "ref": "skazki1-006-s001"
+  },
+  {
+   "ru": "попелушка",
+   "ruPlain": "попелушка",
+   "vi": "chỗ chứa tro, đống tro (phương ngữ)",
+   "g": null,
+   "ref": "skazki1-006-s001"
+  },
+  {
+   "ru": "завянуть",
+   "ruPlain": "завянуть",
+   "vi": "héo rũ, tàn úa",
+   "g": null,
+   "ref": "skazki1-006-s001"
+  },
+  {
+   "ru": "жерновцы (жёрнов)",
+   "ruPlain": "жерновцы (жёрнов)",
+   "vi": "cối xay tay nhỏ bằng đá",
+   "g": null,
+   "ref": "skazki1-006-s001"
+  },
+  {
+   "ru": "шаньга",
+   "ruPlain": "шаньга",
+   "vi": "bánh shanga — bánh tròn phết nhân phô mai/khoai, đặc sản miền Bắc Nga",
+   "g": null,
+   "ref": "skazki1-006-s001"
+  },
+  {
+   "ru": "далече",
+   "ruPlain": "далече",
+   "vi": "xa (từ cổ = далеко)",
+   "g": null,
+   "ref": "skazki1-006-s001"
+  },
+  {
+   "ru": "расшибиться",
+   "ruPlain": "расшибиться",
+   "vi": "ngã giập, ngã nát cả người",
+   "g": null,
+   "ref": "skazki1-006-s001"
+  },
+  {
+   "ru": "костье (кости)",
+   "ruPlain": "костье (кости)",
+   "vi": "xương (danh từ tập hợp, dạng cổ)",
+   "g": null,
+   "ref": "skazki1-006-s001"
+  },
+  {
+   "ru": "примельчаться",
+   "ruPlain": "примельчаться",
+   "vi": "vỡ vụn ra, nát nhỏ",
+   "g": null,
+   "ref": "skazki1-006-s001"
+  },
+  {
+   "ru": "толокно (толоконце)",
+   "ruPlain": "толокно (толоконце)",
+   "vi": "bột yến mạch rang",
+   "g": null,
+   "ref": "skazki1-006-s001"
+  },
+  {
+   "ru": "банька (баня)",
+   "ruPlain": "банька (баня)",
+   "vi": "nhà tắm hơi kiểu Nga",
+   "g": null,
+   "ref": "skazki1-006-s001"
+  },
+  {
+   "ru": "огладывать",
+   "ruPlain": "огладывать",
+   "vi": "gặm rỉa quanh, gặm cho sạch",
+   "g": null,
+   "ref": "skazki1-006-s001"
+  },
+  {
+   "ru": "саламата",
+   "ruPlain": "саламата",
+   "vi": "món cháo bột (yến mạch) khuấy với mỡ/bơ",
+   "g": null,
+   "ref": "skazki1-006-s001"
+  },
+  {
+   "ru": "хата",
+   "ruPlain": "хата",
+   "vi": "túp lều, nhà tranh (phương ngữ Nam Nga–Ukraina; = изба)",
+   "g": null,
+   "ref": "skazki1-008-s001"
+  },
+  {
+   "ru": "бобинка (боб)",
+   "ruPlain": "бобинка (боб)",
+   "vi": "hạt đậu tằm (đậu ván)",
+   "g": null,
+   "ref": "skazki1-008-s001"
+  },
+  {
+   "ru": "горошинка (горох)",
+   "ruPlain": "горошинка (горох)",
+   "vi": "hạt đậu Hà Lan",
+   "g": null,
+   "ref": "skazki1-008-s001"
+  },
+  {
+   "ru": "поклевать",
+   "ruPlain": "поклевать",
+   "vi": "mổ ăn hết (chim, gà mổ nhặt)",
+   "g": null,
+   "ref": "skazki1-008-s001"
+  },
+  {
+   "ru": "накат",
+   "ruPlain": "накат",
+   "vi": "lớp trần gỗ (ván lát trần nhà)",
+   "g": null,
+   "ref": "skazki1-008-s001"
+  },
+  {
+   "ru": "блины",
+   "ruPlain": "блины",
+   "vi": "bánh kếp Nga (blin, tráng mỏng)",
+   "g": null,
+   "ref": "skazki1-008-s001"
+  },
+  {
+   "ru": "калач",
+   "ruPlain": "калач",
+   "vi": "bánh mì vòng trắng (kalach, hình quai xách)",
+   "g": null,
+   "ref": "skazki1-008-s001"
+  },
+  {
+   "ru": "творог",
+   "ruPlain": "творог",
+   "vi": "phô mai tươi tvorog (sữa đông)",
+   "g": null,
+   "ref": "skazki1-008-s001"
+  },
+  {
+   "ru": "очко",
+   "ruPlain": "очко",
+   "vi": "con mắt (dạng thân mật/nhỏ của «око»)",
+   "g": null,
+   "ref": "skazki1-008-s001"
+  },
+  {
+   "ru": "приговаривать",
+   "ruPlain": "приговаривать",
+   "vi": "vừa làm vừa lẩm nhẩm đọc (lời ru, câu thần chú)",
+   "g": null,
+   "ref": "skazki1-008-s001"
+  },
+  {
+   "ru": "стеречь",
+   "ruPlain": "стеречь",
+   "vi": "canh giữ, trông chừng",
+   "g": null,
+   "ref": "skazki1-008-s001"
+  },
+  {
+   "ru": "сбиться",
+   "ruPlain": "сбиться",
+   "vi": "lẫn, nhịu, đếm/nói nhầm",
+   "g": null,
+   "ref": "skazki1-008-s001"
+  },
+  {
+   "ru": "выправить",
+   "ruPlain": "выправить",
+   "vi": "sửa sang, chỉnh trang lại",
+   "g": null,
+   "ref": "skazki1-008-s001"
+  },
+  {
+   "ru": "плачея",
+   "ruPlain": "плачея",
+   "vi": "người khóc mướn, bà khóc thuê (đám tang)",
+   "g": null,
+   "ref": "skazki1-009-s001"
+  },
+  {
+   "ru": "любоваться",
+   "ruPlain": "любоваться",
+   "vi": "ngắm nghía say sưa, mê mải nhìn",
+   "g": null,
+   "ref": "skazki1-009-s001"
+  },
+  {
+   "ru": "то-то",
+   "ruPlain": "то-то",
+   "vi": "ắt là, chắc chắn (trợ từ nhấn mạnh)",
+   "g": null,
+   "ref": "skazki1-009-s001"
+  },
+  {
+   "ru": "оскалить / ощерить (зубы)",
+   "ruPlain": "оскалить / ощерить (зубы)",
+   "vi": "nhe nanh, nhăn răng ra",
+   "g": null,
+   "ref": "skazki1-009-s001"
+  },
+  {
+   "ru": "вытаращить (глаза)",
+   "ruPlain": "вытаращить (глаза)",
+   "vi": "trợn trừng (mắt)",
+   "g": null,
+   "ref": "skazki1-009-s001"
+  },
+  {
+   "ru": "залиться слезами",
+   "ruPlain": "залиться слезами",
+   "vi": "òa khóc, khóc như mưa (thành ngữ)",
+   "g": null,
+   "ref": "skazki1-009-s001"
+  },
+  {
+   "ru": "одни-одинехоньки",
+   "ruPlain": "одни-одинехоньки",
+   "vi": "thui thủi một thân một mình (dạng nhấn mạnh)",
+   "g": null,
+   "ref": "skazki1-009-s001"
+  },
+  {
+   "ru": "пустырь",
+   "ruPlain": "пустырь",
+   "vi": "bãi đất hoang, nơi đồng không quạnh quẽ",
+   "g": null,
+   "ref": "skazki1-009-s001"
+  },
+  {
+   "ru": "причитать",
+   "ruPlain": "причитать",
+   "vi": "khóc kể, than vãn theo điệu (lúc tang ma)",
+   "g": null,
+   "ref": "skazki1-009-s001"
+  },
+  {
+   "ru": "колода",
+   "ruPlain": "колода",
+   "vi": "khúc gỗ to nằm (thân cây đốn, gỗ mục)",
+   "g": null,
+   "ref": "skazki1-009-s001"
+  },
+  {
+   "ru": "хвостище",
+   "ruPlain": "хвостище",
+   "vi": "cái đuôi to tướng (dạng phóng đại của «хвост»)",
+   "g": null,
+   "ref": "skazki1-009-s001"
+  },
+  {
+   "ru": "зацеплять",
+   "ruPlain": "зацеплять",
+   "vi": "móc, vướng, ngoắc vào",
+   "g": null,
+   "ref": "skazki1-009-s001"
+  },
+  {
+   "ru": "лисонька",
+   "ruPlain": "лисонька",
+   "vi": "cáo cưng, cáo yêu (cách gọi âu yếm)",
+   "g": null,
+   "ref": "skazki1-009-s001"
+  },
+  {
+   "ru": "самоё",
+   "ruPlain": "самоё",
+   "vi": "chính nó, ngay cả nó (dạng cổ của «саму»)",
+   "g": null,
+   "ref": "skazki1-009-s001"
+  },
+  {
+   "ru": "живал-бывал",
+   "ruPlain": "живал-бывал",
+   "vi": "ngày xửa ngày xưa có… (công thức mở đầu truyện cổ)",
+   "g": null,
+   "ref": "skazki1-009-s002"
+  },
+  {
+   "ru": "помереть (померла)",
+   "ruPlain": "помереть (померла)",
+   "vi": "chết, qua đời (khẩu ngữ/cổ)",
+   "g": null,
+   "ref": "skazki1-009-s002"
+  },
+  {
+   "ru": "надобно",
+   "ruPlain": "надобно",
+   "vi": "cần, phải (từ cổ = нужно)",
+   "g": null,
+   "ref": "skazki1-009-s002"
+  },
+  {
+   "ru": "простня (простень)",
+   "ruPlain": "простня (простень)",
+   "vi": "con sợi đã xe trên xa (mớ sợi gai/lanh)",
+   "g": null,
+   "ref": "skazki1-009-s002"
+  },
+  {
+   "ru": "прясть (пряла)",
+   "ruPlain": "прясть (пряла)",
+   "vi": "xe sợi, kéo sợi",
+   "g": null,
+   "ref": "skazki1-009-s002"
+  },
+  {
+   "ru": "щи",
+   "ruPlain": "щи",
+   "vi": "canh xúp bắp cải Nga",
+   "g": null,
+   "ref": "skazki1-009-s002"
+  },
+  {
+   "ru": "мастерица",
+   "ruPlain": "мастерица",
+   "vi": "tay nghề cừ, người đàn bà khéo léo",
+   "g": null,
+   "ref": "skazki1-009-s002"
+  },
+  {
+   "ru": "гроб",
+   "ruPlain": "гроб",
+   "vi": "quan tài, áo quan",
+   "g": null,
+   "ref": "skazki1-009-s002"
+  },
+  {
+   "ru": "воротиться",
+   "ruPlain": "воротиться",
+   "vi": "trở về, quay về (từ cổ)",
+   "g": null,
+   "ref": "skazki1-009-s002"
+  },
+  {
+   "ru": "крестьянин",
+   "ruPlain": "крестьянин",
+   "vi": "bác nông dân, người nông phu",
+   "g": null,
+   "ref": "skazki1-009-s002"
+  },
+  {
+   "ru": "замай (не замай)",
+   "ruPlain": "замай (не замай)",
+   "vi": "đừng động vào (từ cổ, = не трогай)",
+   "g": null,
+   "ref": "skazki1-010-s001"
+  },
+  {
+   "ru": "корешки",
+   "ruPlain": "корешки",
+   "vi": "phần rễ củ, gốc rễ",
+   "g": null,
+   "ref": "skazki1-010-s001"
+  },
+  {
+   "ru": "вершки",
+   "ruPlain": "вершки",
+   "vi": "phần ngọn, lá phía trên",
+   "g": null,
+   "ref": "skazki1-010-s001"
+  },
+  {
+   "ru": "дуброва",
+   "ruPlain": "дуброва",
+   "vi": "rừng sồi (từ cổ)",
+   "g": null,
+   "ref": "skazki1-010-s001"
+  },
+  {
+   "ru": "ботва",
+   "ruPlain": "ботва",
+   "vi": "ngọn lá rau củ (phần bỏ đi)",
+   "g": null,
+   "ref": "skazki1-010-s001"
+  },
+  {
+   "ru": "задрать",
+   "ruPlain": "задрать",
+   "vi": "vồ xé xác (thú dữ)",
+   "g": null,
+   "ref": "skazki1-010-s001"
+  },
+  {
+   "ru": "порскать",
+   "ruPlain": "порскать",
+   "vi": "hô, sủa xua thú khi đi săn (tiếng săn bắn)",
+   "g": null,
+   "ref": "skazki1-010-s001"
+  },
+  {
+   "ru": "обух",
+   "ruPlain": "обух",
+   "vi": "sống rìu (phần đối diện lưỡi)",
+   "g": null,
+   "ref": "skazki1-010-s001"
+  },
+  {
+   "ru": "окочуриться",
+   "ruPlain": "окочуриться",
+   "vi": "ngoẻo, tắt thở (khẩu ngữ thô)",
+   "g": null,
+   "ref": "skazki1-010-s001"
+  },
+  {
+   "ru": "притравить",
+   "ruPlain": "притравить",
+   "vi": "thả/xua chó cắn con mồi",
+   "g": null,
+   "ref": "skazki1-010-s001"
+  },
+  {
+   "ru": "каналья",
+   "ruPlain": "каналья",
+   "vi": "quân khốn nạn, đồ đểu (tiếng chửi cổ)",
+   "g": null,
+   "ref": "skazki1-010-s001"
+  },
+  {
+   "ru": "закамшить",
+   "ruPlain": "закамшить",
+   "vi": "vồ xé xác, cắn chết (phương ngữ)",
+   "g": null,
+   "ref": "skazki1-010-s001"
+  },
+  {
+   "ru": "Миша",
+   "ruPlain": "Миша",
+   "vi": "tên thân mật gọi con gấu (≈ chú Gấu, Misa)",
+   "g": null,
+   "ref": "skazki1-010-s002"
+  },
+  {
+   "ru": "надуть",
+   "ruPlain": "надуть",
+   "vi": "lừa, bịp (khẩu ngữ)",
+   "g": null,
+   "ref": "skazki1-010-s002"
+  },
+  {
+   "ru": "провести (не проведешь)",
+   "ruPlain": "провести (не проведешь)",
+   "vi": "qua mặt, lừa được",
+   "g": null,
+   "ref": "skazki1-010-s002"
+  },
+  {
+   "ru": "али",
+   "ruPlain": "али",
+   "vi": "hay, hoặc (từ cổ, = или)",
+   "g": null,
+   "ref": "skazki1-010-s002"
+  },
+  {
+   "ru": "намолотить",
+   "ruPlain": "намолотить",
+   "vi": "đập, tuốt lấy hạt",
+   "g": null,
+   "ref": "skazki1-010-s002"
+  },
+  {
+   "ru": "ситник",
+   "ruPlain": "ситник",
+   "vi": "bánh mì làm từ bột rây mịn (từ cổ)",
+   "g": null,
+   "ref": "skazki1-010-s002"
+  },
+  {
+   "ru": "тужить",
+   "ruPlain": "тужить",
+   "vi": "buồn rầu, sầu não (từ cổ)",
+   "g": null,
+   "ref": "skazki1-010-s002"
+  },
+  {
+   "ru": "кустья",
+   "ruPlain": "кустья",
+   "vi": "bụi rậm (dạng số nhiều cổ)",
+   "g": null,
+   "ref": "skazki1-010-s002"
+  },
+  {
+   "ru": "бирюк",
+   "ruPlain": "бирюк",
+   "vi": "sói lẻ, sói xám (đi một mình)",
+   "g": null,
+   "ref": "skazki1-010-s002"
+  },
+  {
+   "ru": "сказывать (не сказывай)",
+   "ruPlain": "сказывать (не сказывай)",
+   "vi": "nói ra, kể (từ cổ)",
+   "g": null,
+   "ref": "skazki1-010-s002"
+  },
+  {
+   "ru": "телега",
+   "ruPlain": "телега",
+   "vi": "xe ngựa kéo (bốn bánh)",
+   "g": null,
+   "ref": "skazki1-010-s002"
+  },
+  {
+   "ru": "кабы",
+   "ruPlain": "кабы",
+   "vi": "nếu như, giá mà (từ cổ)",
+   "g": null,
+   "ref": "skazki1-010-s002"
+  },
+  {
+   "ru": "издохнуть",
+   "ruPlain": "издохнуть",
+   "vi": "ngoẻo, chết (của thú vật)",
+   "g": null,
+   "ref": "skazki1-010-s002"
+  },
+  {
+   "ru": "пенек",
+   "ruPlain": "пенек",
+   "vi": "gốc cây cụt",
+   "g": null,
+   "ref": "skazki1-010-s002"
+  },
+  {
+   "ru": "репа",
+   "ruPlain": "репа",
+   "vi": "củ cải (loại củ tròn)",
+   "g": null,
+   "ref": "skazki1-010-s003"
+  },
+  {
+   "ru": "коренья",
+   "ruPlain": "коренья",
+   "vi": "rễ củ, phần dưới đất (từ cổ, số nhiều của корень)",
+   "g": null,
+   "ref": "skazki1-010-s003"
+  },
+  {
+   "ru": "верхушки",
+   "ruPlain": "верхушки",
+   "vi": "phần ngọn, chỏm trên",
+   "g": null,
+   "ref": "skazki1-010-s003"
+  },
+  {
+   "ru": "помирать",
+   "ruPlain": "помирать",
+   "vi": "chết dần, lả đi vì đói (khẩu ngữ)",
+   "g": null,
+   "ref": "skazki1-010-s003"
+  },
+  {
+   "ru": "гутарить",
+   "ruPlain": "гутарить",
+   "vi": "trò chuyện, nói (phương ngữ Nam Nga, = говорить)",
+   "g": null,
+   "ref": "skazki1-010-s003"
+  },
+  {
+   "ru": "пашня",
+   "ruPlain": "пашня",
+   "vi": "thửa ruộng đang cày, đất cày",
+   "g": null,
+   "ref": "skazki1-010-s003"
+  },
+  {
+   "ru": "погоди",
+   "ruPlain": "погоди",
+   "vi": "khoan đã, đợi đã (khẩu ngữ, = подожди)",
+   "g": null,
+   "ref": "skazki1-010-s003"
+  },
+  {
+   "ru": "увязать (увязана)",
+   "ruPlain": "увязать (увязана)",
+   "vi": "chằng buộc chặt (lên xe)",
+   "g": null,
+   "ref": "skazki1-010-s003"
+  },
+  {
+   "ru": "воткнуть",
+   "ruPlain": "воткнуть",
+   "vi": "cắm, ghim (vật nhọn) vào",
+   "g": null,
+   "ref": "skazki1-010-s003"
+  },
+  {
+   "ru": "борзая (собака)",
+   "ruPlain": "борзая (собака)",
+   "vi": "chó săn lông dài chạy nhanh (săn thỏ, cáo)",
+   "g": null,
+   "ref": "skazki1-010-s003"
+  },
+  {
+   "ru": "пущать (пущай)",
+   "ruPlain": "пущать (пущай)",
+   "vi": "thả ra, cứ để cho (phương ngữ, = пускать/пускай)",
+   "g": null,
+   "ref": "skazki1-010-s003"
+  },
+  {
+   "ru": "осердиться",
+   "ruPlain": "осердиться",
+   "vi": "nổi giận, đâm cáu (từ cổ)",
+   "g": null,
+   "ref": "skazki1-010-s003"
+  },
+  {
+   "ru": "разорвать",
+   "ruPlain": "разорвать",
+   "vi": "xé xác, cấu xé tan",
+   "g": null,
+   "ref": "skazki1-010-s003"
+  },
+  {
+   "ru": "быў",
+   "ruPlain": "быў",
+   "vi": "đã có, ngày xưa có (tiếng Belarus, = был)",
+   "g": null,
+   "ref": "skazki1-010-s004"
+  },
+  {
+   "ru": "гаспадар",
+   "ruPlain": "гаспадар",
+   "vi": "ông chủ, chủ nhà (tiếng Belarus, = хозяин)",
+   "g": null,
+   "ref": "skazki1-010-s004"
+  },
+  {
+   "ru": "гараць",
+   "ruPlain": "гараць",
+   "vi": "cày ruộng (tiếng Belarus, = пахать)",
+   "g": null,
+   "ref": "skazki1-010-s004"
+  },
+  {
+   "ru": "воўк",
+   "ruPlain": "воўк",
+   "vi": "chó sói (tiếng Belarus, = волк)",
+   "g": null,
+   "ref": "skazki1-010-s004"
+  },
+  {
+   "ru": "валы",
+   "ruPlain": "валы",
+   "vi": "đôi bò đực kéo cày (tiếng Belarus, = волы)",
+   "g": null,
+   "ref": "skazki1-010-s004"
+  },
+  {
+   "ru": "ліска",
+   "ruPlain": "ліска",
+   "vi": "con cáo (tiếng Belarus, cách gọi thân mật)",
+   "g": null,
+   "ref": "skazki1-010-s004"
+  },
+  {
+   "ru": "калода",
+   "ruPlain": "калода",
+   "vi": "khúc gỗ (tiếng Belarus, = колода)",
+   "g": null,
+   "ref": "skazki1-010-s004"
+  },
+  {
+   "ru": "сакера",
+   "ruPlain": "сакера",
+   "vi": "cái rìu (tiếng Belarus, = топор)",
+   "g": null,
+   "ref": "skazki1-010-s004"
+  },
+  {
+   "ru": "збан",
+   "ruPlain": "збан",
+   "vi": "cái vò, bình gốm (tiếng Belarus)",
+   "g": null,
+   "ref": "skazki1-010-s004"
+  },
+  {
+   "ru": "дзюравы",
+   "ruPlain": "дзюравы",
+   "vi": "thủng lỗ (tiếng Belarus, = дырявый)",
+   "g": null,
+   "ref": "skazki1-010-s004"
+  },
+  {
+   "ru": "разкарачыцца",
+   "ruPlain": "разкарачыцца",
+   "vi": "dạng/banh hai chân ra (tiếng Belarus)",
+   "g": null,
+   "ref": "skazki1-010-s004"
+  },
+  {
+   "ru": "хвасціще",
+   "ruPlain": "хвасціще",
+   "vi": "cái đuôi (tiếng Belarus, dạng tăng cấp của хвост)",
+   "g": null,
+   "ref": "skazki1-010-s004"
+  },
+  {
+   "ru": "палюваць (палюе)",
+   "ruPlain": "палюваць (палюе)",
+   "vi": "đi săn (tiếng Belarus, = охотиться)",
+   "g": null,
+   "ref": "skazki1-010-s004"
+  },
+  {
+   "ru": "капкан",
+   "ruPlain": "капкан",
+   "vi": "bẫy kẹp (bắt thú)",
+   "g": null,
+   "ref": "skazki1-011-s001"
+  },
+  {
+   "ru": "вырваться",
+   "ruPlain": "вырваться",
+   "vi": "vùng ra, giật thoát",
+   "g": null,
+   "ref": "skazki1-011-s001"
+  },
+  {
+   "ru": "схоронить",
+   "ruPlain": "схоронить",
+   "vi": "giấu, cất giấu (từ cổ = спрятать)",
+   "g": null,
+   "ref": "skazki1-011-s001"
+  },
+  {
+   "ru": "взвалить",
+   "ruPlain": "взвалить",
+   "vi": "vác lên (vai)",
+   "g": null,
+   "ref": "skazki1-011-s001"
+  },
+  {
+   "ru": "хлеб-соль",
+   "ruPlain": "хлеб-соль",
+   "vi": "bánh mì và muối — tục đón khách của người Nga; nghĩa bóng: ơn nghĩa, lòng tốt đã nhận",
+   "g": null,
+   "ref": "skazki1-011-s001"
+  },
+  {
+   "ru": "злодей",
+   "ruPlain": "злодей",
+   "vi": "kẻ ác, kẻ hại người",
+   "g": null,
+   "ref": "skazki1-011-s001"
+  },
+  {
+   "ru": "кобыла",
+   "ruPlain": "кобыла",
+   "vi": "ngựa cái",
+   "g": null,
+   "ref": "skazki1-011-s001"
+  },
+  {
+   "ru": "жеребёнок (жеребят)",
+   "ruPlain": "жеребёнок (жеребят)",
+   "vi": "ngựa con",
+   "g": null,
+   "ref": "skazki1-011-s001"
+  },
+  {
+   "ru": "невмоготу",
+   "ruPlain": "невмоготу",
+   "vi": "không kham nổi, quá sức chịu đựng",
+   "g": null,
+   "ref": "skazki1-011-s001"
+  },
+  {
+   "ru": "яр",
+   "ruPlain": "яр",
+   "vi": "bờ vực, vách đất dốc đứng",
+   "g": null,
+   "ref": "skazki1-011-s001"
+  },
+  {
+   "ru": "плестись (плетусь)",
+   "ruPlain": "плестись (плетусь)",
+   "vi": "lê bước, lết đi",
+   "g": null,
+   "ref": "skazki1-011-s001"
+  },
+  {
+   "ru": "куда глаза глядят",
+   "ruPlain": "куда глаза глядят",
+   "vi": "đi đâu thì đi, lang thang vô định (thành ngữ)",
+   "g": null,
+   "ref": "skazki1-011-s001"
+  },
+  {
+   "ru": "брехать",
+   "ruPlain": "брехать",
+   "vi": "sủa (phương ngữ/khẩu ngữ)",
+   "g": null,
+   "ref": "skazki1-011-s001"
+  },
+  {
+   "ru": "туша",
+   "ruPlain": "туша",
+   "vi": "thân xác to lớn (của con vật), tảng thịt",
+   "g": null,
+   "ref": "skazki1-011-s001"
+  },
+  {
+   "ru": "цеп (цепом)",
+   "ruPlain": "цеп (цепом)",
+   "vi": "cái néo — nông cụ đập lúa",
+   "g": null,
+   "ref": "skazki1-011-s001"
+  },
+  {
+   "ru": "гурт",
+   "ruPlain": "гурт",
+   "vi": "đàn gia súc lớn chăn dắt chung",
+   "g": null,
+   "ref": "skazki1-012-s001"
+  },
+  {
+   "ru": "кума",
+   "ruPlain": "кума",
+   "vi": "lối xưng hô thân mật (gốc: mẹ/cha đỡ đầu); ở đây ~ «chị / anh»",
+   "g": null,
+   "ref": "skazki1-012-s001"
+  },
+  {
+   "ru": "баран",
+   "ruPlain": "баран",
+   "vi": "cừu đực",
+   "g": null,
+   "ref": "skazki1-012-s001"
+  },
+  {
+   "ru": "сдурить",
+   "ruPlain": "сдурить",
+   "vi": "giở chứng, làm càn (khẩu ngữ)",
+   "g": null,
+   "ref": "skazki1-012-s001"
+  },
+  {
+   "ru": "куды",
+   "ruPlain": "куды",
+   "vi": "phương ngữ của «куда» — đi đâu",
+   "g": null,
+   "ref": "skazki1-012-s001"
+  },
+  {
+   "ru": "брести (бредёшь)",
+   "ruPlain": "брести (бредёшь)",
+   "vi": "lê bước, lững thững đi",
+   "g": null,
+   "ref": "skazki1-012-s001"
+  },
+  {
+   "ru": "молвить",
+   "ruPlain": "молвить",
+   "vi": "nói, thốt lên (từ cổ)",
+   "g": null,
+   "ref": "skazki1-012-s001"
+  },
+  {
+   "ru": "волчица",
+   "ruPlain": "волчица",
+   "vi": "sói cái",
+   "g": null,
+   "ref": "skazki1-012-s001"
+  },
+  {
+   "ru": "ягнёнок",
+   "ruPlain": "ягнёнок",
+   "vi": "cừu non",
+   "g": null,
+   "ref": "skazki1-012-s001"
+  },
+  {
+   "ru": "тулуп",
+   "ruPlain": "тулуп",
+   "vi": "áo khoác bằng da/lông cừu; ở đây chỉ bộ lông con cừu",
+   "g": null,
+   "ref": "skazki1-012-s001"
+  },
+  {
+   "ru": "взаправду",
+   "ruPlain": "взаправду",
+   "vi": "thật ra, quả thật (khẩu ngữ)",
+   "g": null,
+   "ref": "skazki1-012-s001"
+  },
+  {
+   "ru": "побожиться",
+   "ruPlain": "побожиться",
+   "vi": "thề (có Chúa chứng giám)",
+   "g": null,
+   "ref": "skazki1-012-s001"
+  },
+  {
+   "ru": "присяга",
+   "ruPlain": "присяга",
+   "vi": "lời tuyên thệ; целовать присягу — hôn thánh vật để thề",
+   "g": null,
+   "ref": "skazki1-012-s001"
+  },
+  {
+   "ru": "сметить",
+   "ruPlain": "сметить",
+   "vi": "để ý nhận ra (khẩu ngữ cổ)",
+   "g": null,
+   "ref": "skazki1-012-s001"
+  },
+  {
+   "ru": "подобру-поздорову",
+   "ruPlain": "подобру-поздорову",
+   "vi": "bình an vô sự, êm thấm mà rút lui (thành ngữ)",
+   "g": null,
+   "ref": "skazki1-012-s001"
+  },
+  {
+   "ru": "Питер",
+   "ruPlain": "Питер",
+   "vi": "tên gọi thân mật của thành Sankt-Peterburg (Pê-téc-bua)",
+   "g": null,
+   "ref": "skazki1-013-s001"
+  },
+  {
+   "ru": "куманек",
+   "ruPlain": "куманек",
+   "vi": "«ông bạn, bác» — cách gọi thân mật (giảm nhẹ của кум)",
+   "g": null,
+   "ref": "skazki1-013-s001"
+  },
+  {
+   "ru": "косой",
+   "ruPlain": "косой",
+   "vi": "«kẻ mắt lác» — biệt danh dân gian gọi con thỏ",
+   "g": null,
+   "ref": "skazki1-013-s001"
+  },
+  {
+   "ru": "тянуть (голос)",
+   "ruPlain": "тянуть (голос)",
+   "vi": "ngân/kéo dài giọng (khi thi hát)",
+   "g": null,
+   "ref": "skazki1-013-s001"
+  },
+  {
+   "ru": "кишочки",
+   "ruPlain": "кишочки",
+   "vi": "bộ lòng, ruột (dạng giảm nhẹ của кишки)",
+   "g": null,
+   "ref": "skazki1-013-s001"
+  },
+  {
+   "ru": "брюхо",
+   "ruPlain": "брюхо",
+   "vi": "bụng (con vật; lối nói thô)",
+   "g": null,
+   "ref": "skazki1-013-s001"
+  },
+  {
+   "ru": "одинехонька",
+   "ruPlain": "одинехонька",
+   "vi": "một mình trơ trọi, thui thủi (dạng nhấn mạnh, cổ)",
+   "g": null,
+   "ref": "skazki1-013-s001"
+  },
+  {
+   "ru": "оттудова",
+   "ruPlain": "оттудова",
+   "vi": "từ chỗ đó (phương ngữ = оттуда)",
+   "g": null,
+   "ref": "skazki1-013-s001"
+  },
+  {
+   "ru": "не ведаю",
+   "ruPlain": "не ведаю",
+   "vi": "tôi chẳng biết (cổ = не знаю)",
+   "g": null,
+   "ref": "skazki1-013-s001"
+  },
+  {
+   "ru": "боров",
+   "ruPlain": "боров",
+   "vi": "lợn đực (đã thiến)",
+   "g": null,
+   "ref": "skazki1-013-s002"
+  },
+  {
+   "ru": "именье",
+   "ruPlain": "именье",
+   "vi": "của cải, gia sản (cổ = имущество)",
+   "g": null,
+   "ref": "skazki1-013-s002"
+  },
+  {
+   "ru": "желудь",
+   "ruPlain": "желудь",
+   "vi": "quả sồi (hạt dẻ sồi)",
+   "g": null,
+   "ref": "skazki1-013-s002"
+  },
+  {
+   "ru": "небось",
+   "ruPlain": "небось",
+   "vi": "chắc là, lo gì (khẩu ngữ cổ)",
+   "g": null,
+   "ref": "skazki1-013-s002"
+  },
+  {
+   "ru": "угодить (в яму)",
+   "ruPlain": "угодить (в яму)",
+   "vi": "rơi trúng, lọt thẳng vào",
+   "g": null,
+   "ref": "skazki1-013-s002"
+  },
+  {
+   "ru": "горевать",
+   "ruPlain": "горевать",
+   "vi": "buồn rầu, sầu muộn, rầu rĩ",
+   "g": null,
+   "ref": "skazki1-013-s002"
+  },
+  {
+   "ru": "древо",
+   "ruPlain": "древо",
+   "vi": "cây (cổ = дерево)",
+   "g": null,
+   "ref": "skazki1-013-s002"
+  },
+  {
+   "ru": "дрозд",
+   "ruPlain": "дрозд",
+   "vi": "chim hét (một loài chim hót, tiếng Anh: thrush)",
+   "g": null,
+   "ref": "skazki1-013-s002"
+  },
+  {
+   "ru": "шлык",
+   "ruPlain": "шлык",
+   "vi": "mũ chỏm, mũ nhọn cổ",
+   "g": null,
+   "ref": "skazki1-013-s002"
+  },
+  {
+   "ru": "кафтан",
+   "ruPlain": "кафтан",
+   "vi": "áo khoác dài kiểu Nga (caftan)",
+   "g": null,
+   "ref": "skazki1-013-s002"
+  },
+  {
+   "ru": "сало",
+   "ruPlain": "сало",
+   "vi": "mỡ lợn (thường ướp muối)",
+   "g": null,
+   "ref": "skazki1-013-s002"
+  },
+  {
+   "ru": "тетерев",
+   "ruPlain": "тетерев",
+   "vi": "gà gô đen (chim rừng họ trĩ); nhân vật trong truyện tên Tê-ren-chi",
+   "g": null,
+   "ref": "skazki1-014-s001"
+  },
+  {
+   "ru": "Терентий",
+   "ruPlain": "Терентии",
+   "vi": "tên dân dã đặt cho gà gô (gợi từ tiếng gù «te-te» của loài này)",
+   "g": null,
+   "ref": "skazki1-014-s001"
+  },
+  {
+   "ru": "указ",
+   "ruPlain": "указ",
+   "vi": "sắc lệnh, chỉ dụ (lệnh của vua/quan)",
+   "g": null,
+   "ref": "skazki1-014-s001"
+  },
+  {
+   "ru": "добыть (добыла)",
+   "ruPlain": "добыть (добыла)",
+   "vi": "kiếm được, xoay được, lấy về được",
+   "g": null,
+   "ref": "skazki1-014-s001"
+  },
+  {
+   "ru": "деревам (= деревьям)",
+   "ruPlain": "деревам (= деревьям)",
+   "vi": "dạng số nhiều cổ của «cây» (по деревам = trên các cây)",
+   "g": null,
+   "ref": "skazki1-014-s001"
+  },
+  {
+   "ru": "луг (по лугам)",
+   "ruPlain": "луг (по лугам)",
+   "vi": "bãi cỏ, đồng cỏ",
+   "g": null,
+   "ref": "skazki1-014-s001"
+  },
+  {
+   "ru": "гулять",
+   "ruPlain": "гулять",
+   "vi": "đi dạo, rong chơi",
+   "g": null,
+   "ref": "skazki1-014-s001"
+  },
+  {
+   "ru": "топот (конский топот)",
+   "ruPlain": "топот (конскии топот)",
+   "vi": "tiếng vó/bước chân dồn dập",
+   "g": null,
+   "ref": "skazki1-014-s001"
+  },
+  {
+   "ru": "лай (собачий лай)",
+   "ruPlain": "лаи (собачии лаи)",
+   "vi": "tiếng (chó) sủa",
+   "g": null,
+   "ref": "skazki1-014-s001"
+  },
+  {
+   "ru": "крючком (крючок)",
+   "ruPlain": "крючком (крючок)",
+   "vi": "(cong) như cái móc câu",
+   "g": null,
+   "ref": "skazki1-014-s001"
+  },
+  {
+   "ru": "недосуг (мне недосуг)",
+   "ruPlain": "недосуг (мне недосуг)",
+   "vi": "không rảnh, đang bận (từ cổ)",
+   "g": null,
+   "ref": "skazki1-014-s001"
+  },
+  {
+   "ru": "мужик",
+   "ruPlain": "мужик",
+   "vi": "bác nông dân, người đàn ông quê",
+   "g": null,
+   "ref": "skazki1-014-s001"
+  },
+  {
+   "ru": "дятел",
+   "ruPlain": "дятел",
+   "vi": "chim gõ kiến",
+   "g": null,
+   "ref": "skazki1-015-s001"
+  },
+  {
+   "ru": "дуб (на дубу)",
+   "ruPlain": "дуб (на дубу)",
+   "vi": "cây sồi (на дубу = trên cây sồi, dạng cách cũ)",
+   "g": null,
+   "ref": "skazki1-015-s001"
+  },
+  {
+   "ru": "дубище (по сырому дубищу)",
+   "ruPlain": "дубище (по сырому дубищу)",
+   "vi": "cây sồi to sù sì (dạng tăng cấp/khinh của «дуб»); сырой = (gỗ) tươi, còn ẩm nhựa",
+   "g": null,
+   "ref": "skazki1-015-s001"
+  },
+  {
+   "ru": "свить (свил гнездышко)",
+   "ruPlain": "свить (свил гнездышко)",
+   "vi": "kết, tết (làm tổ bằng cách đan que cỏ)",
+   "g": null,
+   "ref": "skazki1-015-s001"
+  },
+  {
+   "ru": "гнездышко",
+   "ruPlain": "гнездышко",
+   "vi": "cái tổ nhỏ (dạng âu yếm của «гнездо»)",
+   "g": null,
+   "ref": "skazki1-015-s001"
+  },
+  {
+   "ru": "снести (снёс яичко)",
+   "ruPlain": "снести (снёс яичко)",
+   "vi": "đẻ (trứng)",
+   "g": null,
+   "ref": "skazki1-015-s001"
+  },
+  {
+   "ru": "высидеть (высидел детёнка)",
+   "ruPlain": "высидеть (высидел детёнка)",
+   "vi": "ấp cho nở; ở đây nghĩa là nuôi/ấp cho thành con (cho nên hồn)",
+   "g": null,
+   "ref": "skazki1-015-s001"
+  },
+  {
+   "ru": "детёнок / детёнышек",
+   "ruPlain": "детёнок / детёнышек",
+   "vi": "con non, chim non (dạng âu yếm: детёнышка)",
+   "g": null,
+   "ref": "skazki1-015-s001"
+  },
+  {
+   "ru": "повадиться (повадилась ходить)",
+   "ruPlain": "повадиться (повадилась ходить)",
+   "vi": "đâm ra quen thói, cứ lui tới mãi (thường nghĩa xấu)",
+   "g": null,
+   "ref": "skazki1-015-s001"
+  },
+  {
+   "ru": "полезай с дубу долой",
+   "ruPlain": "полезай с дубу долой",
+   "vi": "trèo xuống khỏi cây sồi đi (долой = xuống, cút khỏi — từ cổ/khẩu ngữ)",
+   "g": null,
+   "ref": "skazki1-015-s001"
+  },
+  {
+   "ru": "гнуть",
+   "ruPlain": "гнуть",
+   "vi": "uốn (cong); ở đây cáo bịa cớ «cần gỗ sồi để uốn đồ»",
+   "g": null,
+   "ref": "skazki1-015-s001"
+  },
+  {
+   "ru": "сечихичики (?)",
+   "ruPlain": "сечихичики (?)",
+   "vi": "từ tối nghĩa: ngay người sưu tầm cũng ghi dấu «(?)» vì không rõ — chừng là một thứ đồ đan/uốn bằng gỗ sồi mà cáo bịa ra làm cớ",
+   "g": null,
+   "ref": "skazki1-015-s001"
+  },
+  {
+   "ru": "выучить (выучу кузнечному)",
+   "ruPlain": "выучить (выучу кузнечному)",
+   "vi": "dạy cho thạo (một nghề); выучу его кузнечному = dạy nó (thạo) nghề rèn",
+   "g": null,
+   "ref": "skazki1-015-s001"
+  },
+  {
+   "ru": "кузнечному / башмачному / портняжному",
+   "ruPlain": "кузнечному / башмачному / портняжному",
+   "vi": "(các) nghề: nghề rèn / nghề đóng giày / nghề may (dạng tắt của «кузнечному делу»…)",
+   "g": null,
+   "ref": "skazki1-015-s001"
+  },
+  {
+   "ru": "кустик за кустик, лесок за лесок",
+   "ruPlain": "кустик за кустик, лесок за лесок",
+   "vi": "bụi này qua bụi khác, rừng này qua rừng kia (lối nói láy tả cáo lủi mất hút)",
+   "g": null,
+   "ref": "skazki1-015-s001"
+  },
+  {
+   "ru": "журавль",
+   "ruPlain": "журавль",
+   "vi": "con sếu",
+   "g": null,
+   "ref": "skazki1-016-s001"
+  },
+  {
+   "ru": "покумиться",
+   "ruPlain": "покумиться",
+   "vi": "kết nghĩa làm kum — cùng nhận đỡ đầu một đứa trẻ (lối nói dân dã)",
+   "g": null,
+   "ref": "skazki1-016-s001"
+  },
+  {
+   "ru": "родины",
+   "ruPlain": "родины",
+   "vi": "lễ mừng đứa bé chào đời, tiệc đầy tháng (từ cổ)",
+   "g": null,
+   "ref": "skazki1-016-s001"
+  },
+  {
+   "ru": "кум",
+   "ruPlain": "кум",
+   "vi": "ông kum: cha đỡ đầu hoặc người cùng kết nghĩa đỡ đầu (xưng hô thân tình)",
+   "g": null,
+   "ref": "skazki1-016-s001"
+  },
+  {
+   "ru": "кумушка",
+   "ruPlain": "кумушка",
+   "vi": "chị kuma (dạng thân mật, suồng sã của кума)",
+   "g": null,
+   "ref": "skazki1-016-s001"
+  },
+  {
+   "ru": "потчевать",
+   "ruPlain": "потчевать",
+   "vi": "mời mọc, thết đãi (từ cổ)",
+   "g": null,
+   "ref": "skazki1-016-s001"
+  },
+  {
+   "ru": "манная каша",
+   "ruPlain": "манная каша",
+   "vi": "cháo bột semolina (cháo nấu từ bột mì mịn)",
+   "g": null,
+   "ref": "skazki1-016-s001"
+  },
+  {
+   "ru": "размазать",
+   "ruPlain": "размазать",
+   "vi": "phết/trát mỏng ra (lên mặt đĩa)",
+   "g": null,
+   "ref": "skazki1-016-s001"
+  },
+  {
+   "ru": "стряпать",
+   "ruPlain": "стряпать",
+   "vi": "nấu nướng, làm bếp (lối nói dân dã)",
+   "g": null,
+   "ref": "skazki1-016-s001"
+  },
+  {
+   "ru": "окрошка",
+   "ruPlain": "окрошка",
+   "vi": "okroshka — món xúp lạnh nấu bằng kvas, rau và thịt thái nhỏ",
+   "g": null,
+   "ref": "skazki1-016-s001"
+  },
+  {
+   "ru": "горлышко",
+   "ruPlain": "горлышко",
+   "vi": "cổ bình, miệng bình nhỏ hẹp",
+   "g": null,
+   "ref": "skazki1-016-s001"
+  },
+  {
+   "ru": "не бессудь",
+   "ruPlain": "не бессудь",
+   "vi": "đừng chê trách, đừng chấp (từ cổ = не осуди)",
+   "g": null,
+   "ref": "skazki1-016-s001"
+  },
+  {
+   "ru": "несолоно хлебавши",
+   "ruPlain": "несолоно хлебавши",
+   "vi": "(thành ngữ) ra về tay không, công cốc — lit. ăn món nhạt thếch mà về",
+   "g": null,
+   "ref": "skazki1-016-s001"
+  },
+  {
+   "ru": "как аукнулось, так и откликнулось",
+   "ruPlain": "как аукнулось, так и откликнулось",
+   "vi": "(thành ngữ) hô sao đáp vậy, gieo gì gặt nấy — ăn miếng trả miếng",
+   "g": null,
+   "ref": "skazki1-016-s001"
+  },
+  {
+   "ru": "врозь",
+   "ruPlain": "врозь",
+   "vi": "rời ra, đôi ngả, chia lìa",
+   "g": null,
+   "ref": "skazki1-016-s001"
+  },
+  {
+   "ru": "внучка",
+   "ruPlain": "внучка",
+   "vi": "cô cháu gái (cháu nội/ngoại gái)",
+   "g": null,
+   "ref": "skazki1-017-s001"
+  },
+  {
+   "ru": "по ягоды",
+   "ruPlain": "по ягоды",
+   "vi": "đi hái dâu / quả mọng (lối nói cổ: «по» + cách 4 chỉ mục đích)",
+   "g": null,
+   "ref": "skazki1-017-s001"
+  },
+  {
+   "ru": "отстать",
+   "ruPlain": "отстать",
+   "vi": "tụt lại sau, bị lạc khỏi (nhóm)",
+   "g": null,
+   "ref": "skazki1-017-s001"
+  },
+  {
+   "ru": "аукать",
+   "ruPlain": "аукать",
+   "vi": "gọi nhau «ới ời» để tìm nhau trong rừng",
+   "g": null,
+   "ref": "skazki1-017-s001"
+  },
+  {
+   "ru": "припеваючи",
+   "ruPlain": "припеваючи",
+   "vi": "vừa làm vừa hát ngân nga (trạng động từ cổ)",
+   "g": null,
+   "ref": "skazki1-017-s001"
+  },
+  {
+   "ru": "голубушка",
+   "ruPlain": "голубушка",
+   "vi": "cưng ơi, em yêu dấu (lối gọi âu yếm; nghĩa đen «bồ câu nhỏ»)",
+   "g": null,
+   "ref": "skazki1-017-s001"
+  },
+  {
+   "ru": "заманить",
+   "ruPlain": "заманить",
+   "vi": "dụ dỗ, dử vào (bẫy, vào rừng)",
+   "g": null,
+   "ref": "skazki1-017-s001"
+  },
+  {
+   "ru": "покинуть",
+   "ruPlain": "покинуть",
+   "vi": "bỏ rơi, bỏ lại",
+   "g": null,
+   "ref": "skazki1-017-s001"
+  },
+  {
+   "ru": "сойти",
+   "ruPlain": "сойти",
+   "vi": "bước xuống, tụt xuống",
+   "g": null,
+   "ref": "skazki1-017-s001"
+  },
+  {
+   "ru": "помчаться",
+   "ruPlain": "помчаться",
+   "vi": "phóng đi như bay, lao vút đi",
+   "g": null,
+   "ref": "skazki1-017-s001"
+  },
+  {
+   "ru": "калитка",
+   "ruPlain": "калитка",
+   "vi": "cổng nhỏ ở hàng rào",
+   "g": null,
+   "ref": "skazki1-017-s001"
+  },
+  {
+   "ru": "немазаная",
+   "ruPlain": "немазаная",
+   "vi": "(lối gọi đùa thân mật) «đồ chẳng chải chuốt», cô nàng tinh ranh",
+   "g": null,
+   "ref": "skazki1-017-s001"
+  },
+  {
+   "ru": "припустить",
+   "ruPlain": "припустить",
+   "vi": "vọt chạy, ba chân bốn cẳng chạy biến",
+   "g": null,
+   "ref": "skazki1-017-s001"
+  },
+  {
+   "ru": "услуга",
+   "ruPlain": "услуга",
+   "vi": "sự giúp đỡ, công lao",
+   "g": null,
+   "ref": "skazki1-017-s001"
+  },
+  {
+   "ru": "рак",
+   "ruPlain": "рак",
+   "vi": "con tôm càng nước ngọt (loài giáp xác có càng, crayfish)",
+   "g": null,
+   "ref": "skazki1-018-s001"
+  },
+  {
+   "ru": "промеж (себя)",
+   "ruPlain": "промеж (себя)",
+   "vi": "giữa nhau, với nhau (khẩu ngữ cổ = между)",
+   "g": null,
+   "ref": "skazki1-018-s001"
+  },
+  {
+   "ru": "перегоняться",
+   "ruPlain": "перегоняться",
+   "vi": "thi chạy đua, đua xem ai nhanh hơn",
+   "g": null,
+   "ref": "skazki1-018-s001"
+  },
+  {
+   "ru": "зачать (зачали)",
+   "ruPlain": "зачать (зачали)",
+   "vi": "bắt đầu (từ cổ = начать)",
+   "g": null,
+   "ref": "skazki1-018-s001"
+  },
+  {
+   "ru": "побежать (побегла)",
+   "ruPlain": "побежать (побегла)",
+   "vi": "chạy đi (побегла = dạng cổ/phương ngữ của побежала)",
+   "g": null,
+   "ref": "skazki1-018-s001"
+  },
+  {
+   "ru": "уцепиться",
+   "ruPlain": "уцепиться",
+   "vi": "bám chặt, níu lấy",
+   "g": null,
+   "ref": "skazki1-018-s001"
+  },
+  {
+   "ru": "добежать (добегла)",
+   "ruPlain": "добежать (добегла)",
+   "vi": "chạy tới nơi (добегла = dạng cổ của добежала)",
+   "g": null,
+   "ref": "skazki1-018-s001"
+  },
+  {
+   "ru": "отцепиться",
+   "ruPlain": "отцепиться",
+   "vi": "buông ra, nhả ra, gỡ móc ra",
+   "g": null,
+   "ref": "skazki1-018-s001"
+  },
+  {
+   "ru": "обернуться",
+   "ruPlain": "обернуться",
+   "vi": "ngoảnh/ngoái đầu lại nhìn",
+   "g": null,
+   "ref": "skazki1-018-s001"
+  },
+  {
+   "ru": "вернуть хвостом",
+   "ruPlain": "вернуть хвостом",
+   "vi": "vẩy/ngoe nguẩy cái đuôi (ở đây từ вернуть mang nghĩa cổ: quay, vung)",
+   "g": null,
+   "ref": "skazki1-018-s001"
+  },
+  {
+   "ru": "давно уж",
+   "ruPlain": "давно уж",
+   "vi": "đã từ lâu rồi",
+   "g": null,
+   "ref": "skazki1-018-s001"
+  },
+  {
+   "ru": "колобок",
+   "ruPlain": "колобок",
+   "vi": "chiếc bánh tròn nặn từ bột, biết lăn (nhân vật chính của truyện)",
+   "g": null,
+   "ref": "skazki1-019-s001"
+  },
+  {
+   "ru": "сусек",
+   "ruPlain": "сусек",
+   "vi": "vựa/ngăn gỗ đựng ngũ cốc trong nhà kho (từ cổ)",
+   "g": null,
+   "ref": "skazki1-019-s001"
+  },
+  {
+   "ru": "короб",
+   "ruPlain": "короб",
+   "vi": "thùng/hòm đan bằng vỏ cây để đựng đồ",
+   "g": null,
+   "ref": "skazki1-019-s001"
+  },
+  {
+   "ru": "крылышко",
+   "ruPlain": "крылышко",
+   "vi": "cái lông cánh chim, dùng làm chổi nhỏ quét bột",
+   "g": null,
+   "ref": "skazki1-019-s001"
+  },
+  {
+   "ru": "пригоршня",
+   "ruPlain": "пригоршня",
+   "vi": "vốc tay (lượng đầy hai lòng bàn tay chụm lại)",
+   "g": null,
+   "ref": "skazki1-019-s001"
+  },
+  {
+   "ru": "авось",
+   "ruPlain": "авось",
+   "vi": "biết đâu, may ra thì (từ rất Nga, trông chờ vào may rủi)",
+   "g": null,
+   "ref": "skazki1-019-s001"
+  },
+  {
+   "ru": "замесить",
+   "ruPlain": "замесить",
+   "vi": "nhào (bột)",
+   "g": null,
+   "ref": "skazki1-019-s001"
+  },
+  {
+   "ru": "сметана",
+   "ruPlain": "сметана",
+   "vi": "kem chua, váng sữa chua đặc đặc trưng của Nga",
+   "g": null,
+   "ref": "skazki1-019-s001"
+  },
+  {
+   "ru": "изжарить",
+   "ruPlain": "изжарить",
+   "vi": "rán, chiên (trong bơ/mỡ)",
+   "g": null,
+   "ref": "skazki1-019-s001"
+  },
+  {
+   "ru": "сени",
+   "ruPlain": "сени",
+   "vi": "gian nhà ngoài, nối giữa cửa và buồng trong (nhà gỗ Nga)",
+   "g": null,
+   "ref": "skazki1-019-s001"
+  },
+  {
+   "ru": "крыльцо",
+   "ruPlain": "крыльцо",
+   "vi": "thềm, bậc thềm có mái trước cửa nhà",
+   "g": null,
+   "ref": "skazki1-019-s001"
+  },
+  {
+   "ru": "порог",
+   "ruPlain": "порог",
+   "vi": "ngưỡng cửa, bậu cửa",
+   "g": null,
+   "ref": "skazki1-019-s001"
+  },
+  {
+   "ru": "косолапый",
+   "ruPlain": "косолапыи",
+   "vi": "chân vòng kiềng, đi chữ bát (biệt danh dân gian của con gấu)",
+   "g": null,
+   "ref": "skazki1-019-s001"
+  },
+  {
+   "ru": "студить (стужон)",
+   "ruPlain": "студить (стужон)",
+   "vi": "hong/để cho nguội (стужон = dạng cổ của остужен)",
+   "g": null,
+   "ref": "skazki1-019-s001"
+  },
+  {
+   "ru": "подавно",
+   "ruPlain": "подавно",
+   "vi": "lại càng (dễ) hơn",
+   "g": null,
+   "ref": "skazki1-019-s001"
+  },
+  {
+   "ru": "кикереку",
+   "ruPlain": "кикереку",
+   "vi": "tiếng gà gáy (biến thể của «кукареку», kiểu «ò ó o»); mở đầu bài hát dụ dỗ của cáo",
+   "g": null,
+   "ref": "skazki1-020-s001"
+  },
+  {
+   "ru": "гребешок (золотой гребешок)",
+   "ruPlain": "гребешок (золотои гребешок)",
+   "vi": "cái mào (gà); «золотой гребешок» = mào vàng óng, lời nịnh gà trống",
+   "g": null,
+   "ref": "skazki1-020-s001"
+  },
+  {
+   "ru": "масляна головка",
+   "ruPlain": "масляна головка",
+   "vi": "«cái đầu thoa bơ» — đầu bóng mượt; lời cáo nịnh gà trống (масляный = (như) bôi bơ)",
+   "g": null,
+   "ref": "skazki1-020-s001"
+  },
+  {
+   "ru": "хоромы",
+   "ruPlain": "хоромы",
+   "vi": "nhà cửa rộng lớn, dinh thự sang trọng (từ cổ)",
+   "g": null,
+   "ref": "skazki1-020-s001"
+  },
+  {
+   "ru": "редкость (редкостей)",
+   "ruPlain": "редкость (редкостеи)",
+   "vi": "của hiếm, vật quý lạ",
+   "g": null,
+   "ref": "skazki1-020-s001"
+  },
+  {
+   "ru": "притаиться (притаилась)",
+   "ruPlain": "притаиться (притаилась)",
+   "vi": "nép mình ẩn nấp, rình rập lặng lẽ",
+   "g": null,
+   "ref": "skazki1-020-s001"
+  },
+  {
+   "ru": "была такова (быть такову)",
+   "ruPlain": "была такова (быть такову)",
+   "vi": "(thế là) biến mất tăm, chuồn mất (thành ngữ «и был таков»)",
+   "g": null,
+   "ref": "skazki1-020-s001"
+  },
+  {
+   "ru": "за тридевять земель",
+   "ruPlain": "за тридевять земель",
+   "vi": "tận chân trời góc bể; công thức cổ tích «qua chín lần chín cõi đất» (тридевять = 27)",
+   "g": null,
+   "ref": "skazki1-020-s001"
+  },
+  {
+   "ru": "тридесятое царство",
+   "ruPlain": "тридесятое царство",
+   "vi": "«vương quốc thứ ba mươi» — xứ sở thần kỳ xa xôi trong cổ tích Nga (тридесятое = 30)",
+   "g": null,
+   "ref": "skazki1-020-s001"
+  },
+  {
+   "ru": "мотри (= смотри)",
+   "ruPlain": "мотри (= смотри)",
+   "vi": "coi chừng, liệu đấy (dạng phương ngữ của «смотри»)",
+   "g": null,
+   "ref": "skazki1-020-s001"
+  },
+  {
+   "ru": "ельник (за ельничком)",
+   "ruPlain": "ельник (за ельничком)",
+   "vi": "rừng vân sam; ельничек = rặng vân sam nhỏ",
+   "g": null,
+   "ref": "skazki1-020-s001"
+  },
+  {
+   "ru": "уму-разуму наставить",
+   "ruPlain": "уму-разуму наставить",
+   "vi": "dạy bảo điều hay lẽ phải, dạy cho khôn ra (thành ngữ)",
+   "g": null,
+   "ref": "skazki1-020-s001"
+  },
+  {
+   "ru": "лыко (лыки драть)",
+   "ruPlain": "лыко (лыки драть)",
+   "vi": "bẹ/vỏ libe cây bồ đề; «лыки драть» = bóc bẹ cây để đan giày cỏ (лапти)",
+   "g": null,
+   "ref": "skazki1-020-s002"
+  },
+  {
+   "ru": "гусли (гусельцы)",
+   "ruPlain": "гусли (гусельцы)",
+   "vi": "đàn gô-xli, đàn dây gảy cổ truyền của Nga (đặt ngang lòng mà gảy)",
+   "g": null,
+   "ref": "skazki1-020-s002"
+  },
+  {
+   "ru": "струна (струночки)",
+   "ruPlain": "струна (струночки)",
+   "vi": "dây đàn; ở đây căng bằng gân cừu («барановы струночки»)",
+   "g": null,
+   "ref": "skazki1-020-s002"
+  },
+  {
+   "ru": "лепёшка",
+   "ruPlain": "лепёшка",
+   "vi": "bánh bột rán dẹt, tròn",
+   "g": null,
+   "ref": "skazki1-020-s002"
+  },
+  {
+   "ru": "санки-самокатки",
+   "ruPlain": "санки-самокатки",
+   "vi": "chiếc xe trượt tuyết «tự lăn» thần kỳ (mô-típ đồng dao dụ dỗ)",
+   "g": null,
+   "ref": "skazki1-020-s002"
+  },
+  {
+   "ru": "приукатать (приукатана)",
+   "ruPlain": "приукатать (приукатана)",
+   "vi": "lăn nèn cho nhẵn lì (mặt dốc để trượt tuyết)",
+   "g": null,
+   "ref": "skazki1-020-s002"
+  },
+  {
+   "ru": "челнок (подай-челнок)",
+   "ruPlain": "челнок (подаи-челнок)",
+   "vi": "con thoi dệt vải; tên cô con gái thứ ba = «Đưa-thoi-đây»",
+   "g": null,
+   "ref": "skazki1-020-s002"
+  },
+  {
+   "ru": "труба (трубу закрывай)",
+   "ruPlain": "труба (трубу закрываи)",
+   "vi": "ống khói lò sưởi; «трубу закрывай» = đậy ống khói (để giữ hơi ấm)",
+   "g": null,
+   "ref": "skazki1-020-s002"
+  },
+  {
+   "ru": "лобок (в лобок да в коробок)",
+   "ruPlain": "лобок (в лобок да в коробок)",
+   "vi": "cái trán (chỉ cú gõ đầu); thành ngữ «стук в лобок да в коробок» = nện vào trán rồi tống vào bao",
+   "g": null,
+   "ref": "skazki1-020-s002"
+  },
+  {
+   "ru": "красна (лиса красна)",
+   "ruPlain": "красна (лиса красна)",
+   "vi": "xinh đẹp (dạng ngắn cổ của «красная»); cũng gợi nghĩa «đỏ» hợp màu lông cáo",
+   "g": null,
+   "ref": "skazki1-020-s002"
+  },
+  {
+   "ru": "кочеток / кочет",
+   "ruPlain": "кочеток / кочет",
+   "vi": "con gà trống (phương ngữ Nam Nga, = петух); dạng nhỏ «кочеток»",
+   "g": null,
+   "ref": "skazki1-020-s003"
+  },
+  {
+   "ru": "баять (бает)",
+   "ruPlain": "баять (бает)",
+   "vi": "nói, bảo, kể (động từ cổ/phương ngữ, = говорить)",
+   "g": null,
+   "ref": "skazki1-020-s003"
+  },
+  {
+   "ru": "кликать",
+   "ruPlain": "кликать",
+   "vi": "gọi to, réo gọi, cất tiếng gọi",
+   "g": null,
+   "ref": "skazki1-020-s003"
+  },
+  {
+   "ru": "гумно (гуменцы)",
+   "ruPlain": "гумно (гуменцы)",
+   "vi": "sân đập lúa (nơi đập và phơi lúa); dạng nhỏ «гуменцы»",
+   "g": null,
+   "ref": "skazki1-020-s003"
+  },
+  {
+   "ru": "скрутиться (скрутился идтить)",
+   "ruPlain": "скрутиться (скрутился идтить)",
+   "vi": "sửa soạn, sắp sửa (đi) — phương ngữ, = собраться",
+   "g": null,
+   "ref": "skazki1-020-s003"
+  },
+  {
+   "ru": "подворье (своим подворьем)",
+   "ruPlain": "подворье (своим подворьем)",
+   "vi": "cơ ngơi, nhà cửa sân vườn, gia sản của một nhà",
+   "g": null,
+   "ref": "skazki1-020-s003"
+  },
+  {
+   "ru": "наживать (денежки наживать)",
+   "ruPlain": "наживать (денежки наживать)",
+   "vi": "làm ra, dành dụm, tích cóp (của cải, tiền nong)",
+   "g": null,
+   "ref": "skazki1-020-s003"
+  },
+  {
+   "ru": "поколотить",
+   "ruPlain": "поколотить",
+   "vi": "nện cho một trận, đánh đòn túi bụi",
+   "g": null,
+   "ref": "skazki1-020-s003"
+  },
+  {
+   "ru": "кочетунюшка (котинька, котунюшка)",
+   "ruPlain": "кочетунюшка (котинька, котунюшка)",
+   "vi": "gà trống cưng / mèo cưng — dạng gọi âu yếm thu nhỏ",
+   "g": null,
+   "ref": "skazki1-020-s003"
+  },
+  {
+   "ru": "крутые горы (за крутые горы, за быстрые воды)",
+   "ruPlain": "крутые горы (за крутые горы, за быстрые воды)",
+   "vi": "núi dốc đứng; công thức truyện kể «qua núi dốc, qua nước xiết»",
+   "g": null,
+   "ref": "skazki1-020-s003"
+  },
+  {
+   "ru": "головочка (не высовывай головочку)",
+   "ruPlain": "головочка (не высовываи головочку)",
+   "vi": "cái đầu nhỏ — dạng thu nhỏ âu yếm của «голова/головка»",
+   "g": null,
+   "ref": "skazki1-020-s003"
+  },
+  {
+   "ru": "шкодливый",
+   "ruPlain": "шкодливыи",
+   "vi": "phá phách, nghịch ngợm hay ăn vụng (con vật)",
+   "g": null,
+   "ref": "skazki1-021-s001"
+  },
+  {
+   "ru": "бурмистр",
+   "ruPlain": "бурмистр",
+   "vi": "trưởng tổng — viên cai quản làng do địa chủ cử ra (thời nông nô Nga)",
+   "g": null,
+   "ref": "skazki1-021-s001"
+  },
+  {
+   "ru": "дичина (дичинкою)",
+   "ruPlain": "дичина (дичинкою)",
+   "vi": "thịt thú rừng săn được; dạng nhỏ âu yếm «дичинка»",
+   "g": null,
+   "ref": "skazki1-021-s001"
+  },
+  {
+   "ru": "заигрывать",
+   "ruPlain": "заигрывать",
+   "vi": "trêu ghẹo, ve vãn, bỡn cợt",
+   "g": null,
+   "ref": "skazki1-021-s001"
+  },
+  {
+   "ru": "на поклон (принести на поклон)",
+   "ruPlain": "на поклон (принести на поклон)",
+   "vi": "đem tới biếu/dâng làm lễ ra mắt, tỏ lòng kính phục",
+   "g": null,
+   "ref": "skazki1-021-s001"
+  },
+  {
+   "ru": "пострел (косой пострел)",
+   "ruPlain": "пострел (косои пострел)",
+   "vi": "thằng ranh, nhãi ranh nghịch ngợm (lời mắng đùa)",
+   "g": null,
+   "ref": "skazki1-021-s001"
+  },
+  {
+   "ru": "прыть (во всю прыть)",
+   "ruPlain": "прыть (во всю прыть)",
+   "vi": "sự nhanh nhẹn; «во всю прыть» = ba chân bốn cẳng, hết tốc lực",
+   "g": null,
+   "ref": "skazki1-021-s001"
+  },
+  {
+   "ru": "макушка",
+   "ruPlain": "макушка",
+   "vi": "ngọn (cây), chỏm, đỉnh đầu",
+   "g": null,
+   "ref": "skazki1-021-s001"
+  },
+  {
+   "ru": "взъерошиться (шерсть взъерошилась)",
+   "ruPlain": "взъерошиться (шерсть взъерошилась)",
+   "vi": "xù lông lên, dựng đứng lông",
+   "g": null,
+   "ref": "skazki1-021-s001"
+  },
+  {
+   "ru": "прожорливый (прожорист)",
+   "ruPlain": "прожорливыи (прожорист)",
+   "vi": "phàm ăn, ăn tham, ngốn ngấu",
+   "g": null,
+   "ref": "skazki1-021-s001"
+  },
+  {
+   "ru": "мурчать (мурчит)",
+   "ruPlain": "мурчать (мурчит)",
+   "vi": "(mèo) kêu gừ gừ, rừ rừ",
+   "g": null,
+   "ref": "skazki1-021-s001"
+  },
+  {
+   "ru": "шмякнуться (шмякнется оземь)",
+   "ruPlain": "шмякнуться (шмякнется оземь)",
+   "vi": "rơi bịch, ngã đánh phịch xuống đất",
+   "g": null,
+   "ref": "skazki1-021-s001"
+  },
+  {
+   "ru": "печёнки (все печёнки отбил)",
+   "ruPlain": "печёнки (все печёнки отбил)",
+   "vi": "gan; «отбить (все) печёнки» = dập cả gan ruột, đau ê ẩm cả người",
+   "g": null,
+   "ref": "skazki1-021-s001"
+  },
+  {
+   "ru": "давай бог ноги",
+   "ruPlain": "даваи бог ноги",
+   "vi": "ba chân bốn cẳng bỏ chạy, chạy thục mạng (thành ngữ)",
+   "g": null,
+   "ref": "skazki1-021-s001"
+  },
+  {
+   "ru": "куница (кунок)",
+   "ruPlain": "куница (кунок)",
+   "vi": "chồn (chồn nâu); «кунок» là dạng phương ngữ của «куниц» (số nhiều cách 2)",
+   "g": null,
+   "ref": "skazki1-021-s002"
+  },
+  {
+   "ru": "рябчик",
+   "ruPlain": "рябчик",
+   "vi": "gà gô rừng — loài chim nhỏ họ trĩ, thịt ngon",
+   "g": null,
+   "ref": "skazki1-021-s002"
+  },
+  {
+   "ru": "остров (в остров)",
+   "ruPlain": "остров (в остров)",
+   "vi": "nghĩa cổ: cồn/khoảnh rừng đứng lẻ giữa đồng, không phải «đảo» trên nước",
+   "g": null,
+   "ref": "skazki1-021-s002"
+  },
+  {
+   "ru": "котомка",
+   "ruPlain": "котомка",
+   "vi": "cái bị, tay nải đeo vai",
+   "g": null,
+   "ref": "skazki1-021-s002"
+  },
+  {
+   "ru": "толстопятый",
+   "ruPlain": "толстопятыи",
+   "vi": "«gót bè, gót dày» — biệt danh trêu con gấu",
+   "g": null,
+   "ref": "skazki1-021-s002"
+  },
+  {
+   "ru": "шляться",
+   "ruPlain": "шляться",
+   "vi": "lượn lờ, lê la, vác mặt đi rông",
+   "g": null,
+   "ref": "skazki1-021-s002"
+  },
+  {
+   "ru": "проторить (дороги проторили)",
+   "ruPlain": "проторить (дороги проторили)",
+   "vi": "đi mãi thành lối mòn, giẫm mở thành đường",
+   "g": null,
+   "ref": "skazki1-021-s002"
+  },
+  {
+   "ru": "по шее проводить",
+   "ruPlain": "по шее проводить",
+   "vi": "tóm cổ tống ra ngoài, đuổi thẳng cổ (thành ngữ)",
+   "g": null,
+   "ref": "skazki1-021-s002"
+  },
+  {
+   "ru": "прыткий (прытче)",
+   "ruPlain": "прыткии (прытче)",
+   "vi": "nhanh nhẹn, lẹ làng; «прытче» = nhanh hơn",
+   "g": null,
+   "ref": "skazki1-021-s002"
+  },
+  {
+   "ru": "стяг (стяг быка)",
+   "ruPlain": "стяг (стяг быка)",
+   "vi": "tảng thịt lớn, nửa con bò xẻ dọc (từ cổ)",
+   "g": null,
+   "ref": "skazki1-021-s002"
+  },
+  {
+   "ru": "глодать (гложет)",
+   "ruPlain": "глодать (гложет)",
+   "vi": "gặm, nhằn (xương, thịt)",
+   "g": null,
+   "ref": "skazki1-021-s002"
+  },
+  {
+   "ru": "хворост",
+   "ruPlain": "хворост",
+   "vi": "củi khô, cành khô rụng nhặt trong rừng",
+   "g": null,
+   "ref": "skazki1-021-s002"
+  },
+  {
+   "ru": "со страстей",
+   "ruPlain": "со страстеи",
+   "vi": "vì khiếp đảm, vì sợ hãi quá (страсти = nỗi kinh hoàng, từ cổ)",
+   "g": null,
+   "ref": "skazki1-021-s002"
+  },
+  {
+   "ru": "доныне",
+   "ruPlain": "доныне",
+   "vi": "cho đến nay, đến tận bây giờ (từ cổ)",
+   "g": null,
+   "ref": "skazki1-021-s002"
+  },
+  {
+   "ru": "дремучий (дремучих лесах)",
+   "ruPlain": "дремучии (дремучих лесах)",
+   "vi": "(rừng) rậm rạp, âm u, hoang vu",
+   "g": null,
+   "ref": "skazki1-021-s003"
+  },
+  {
+   "ru": "могучий",
+   "ruPlain": "могучии",
+   "vi": "hùng mạnh, dũng mãnh, đầy sức mạnh",
+   "g": null,
+   "ref": "skazki1-021-s003"
+  },
+  {
+   "ru": "совет держать",
+   "ruPlain": "совет держать",
+   "vi": "họp bàn, bàn bạc, hội ý (lối nói cổ)",
+   "g": null,
+   "ref": "skazki1-021-s003"
+  },
+  {
+   "ru": "наготовить",
+   "ruPlain": "наготовить",
+   "vi": "chuẩn bị/làm sẵn thật nhiều thứ",
+   "g": null,
+   "ref": "skazki1-021-s003"
+  },
+  {
+   "ru": "отговариваться",
+   "ruPlain": "отговариваться",
+   "vi": "thoái thác, kiếm cớ chối từ",
+   "g": null,
+   "ref": "skazki1-021-s003"
+  },
+  {
+   "ru": "мохнатый (мохнат)",
+   "ruPlain": "мохнатыи (мохнат)",
+   "vi": "lông lá xù xì, rậm lông",
+   "g": null,
+   "ref": "skazki1-021-s003"
+  },
+  {
+   "ru": "неповоротливый (неповоротлив)",
+   "ruPlain": "неповоротливыи (неповоротлив)",
+   "vi": "vụng về, chậm chạp, ì ạch",
+   "g": null,
+   "ref": "skazki1-021-s003"
+  },
+  {
+   "ru": "пуглив-боязлив",
+   "ruPlain": "пуглив-боязлив",
+   "vi": "nhút nhát rụt rè, hay sợ hãi (cặp từ láy nghĩa)",
+   "g": null,
+   "ref": "skazki1-021-s003"
+  },
+  {
+   "ru": "ответ держать",
+   "ruPlain": "ответ держать",
+   "vi": "ăn nói thưa gửi, đối đáp, chịu trách nhiệm trả lời (lối cổ)",
+   "g": null,
+   "ref": "skazki1-021-s003"
+  },
+  {
+   "ru": "предать смерти (смерти предаст)",
+   "ruPlain": "предать смерти (смерти предаст)",
+   "vi": "đem giết, xử tử (lối trang trọng)",
+   "g": null,
+   "ref": "skazki1-021-s003"
+  },
+  {
+   "ru": "шустрый (шустрая)",
+   "ruPlain": "шустрыи (шустрая)",
+   "vi": "lanh lợi, nhanh nhảu, tháo vát",
+   "g": null,
+   "ref": "skazki1-021-s003"
+  },
+  {
+   "ru": "оборотливый (оборотлива)",
+   "ruPlain": "оборотливыи (оборотлива)",
+   "vi": "khôn khéo, biết xoay xở, tháo vát",
+   "g": null,
+   "ref": "skazki1-021-s003"
+  },
+  {
+   "ru": "наказ (по наказу)",
+   "ruPlain": "наказ (по наказу)",
+   "vi": "lời dặn dò, lời sai bảo (từ cổ)",
+   "g": null,
+   "ref": "skazki1-021-s003"
+  },
+  {
+   "ru": "волочиться",
+   "ruPlain": "волочиться",
+   "vi": "lê lết, kéo lê (trên mặt đất)",
+   "g": null,
+   "ref": "skazki1-021-s003"
+  },
+  {
+   "ru": "Котонайл (Котонайло) Иваныч",
+   "ruPlain": "Котонайл (Котонайло) Иваныч",
+   "vi": "tên riêng khôi hài đặt cho con mèo: «ngài Mèo Cô-tô-nai-lô I-va-nứt» (ghép từ кот = con mèo)",
+   "g": null,
+   "ref": "skazki1-021-s004"
+  },
+  {
+   "ru": "припасти (припасти обед)",
+   "ruPlain": "припасти (припасти обед)",
+   "vi": "lo liệu/kiếm sẵn (đồ ăn), dự bị trước (lối cổ)",
+   "g": null,
+   "ref": "skazki1-021-s004"
+  },
+  {
+   "ru": "кабан (лесной кабан)",
+   "ruPlain": "кабан (лесной кабан)",
+   "vi": "lợn rừng, heo rừng",
+   "g": null,
+   "ref": "skazki1-021-s004"
+  },
+  {
+   "ru": "отнять (отниму)",
+   "ruPlain": "отнять (отниму)",
+   "vi": "cướp lấy, giật lấy, đoạt lấy",
+   "g": null,
+   "ref": "skazki1-021-s004"
+  },
+  {
+   "ru": "думать да гадать",
+   "ruPlain": "думать да гадать",
+   "vi": "đoán già đoán non, nghĩ tới nghĩ lui (thành ngữ)",
+   "g": null,
+   "ref": "skazki1-021-s004"
+  },
+  {
+   "ru": "наперёд (наперед того)",
+   "ruPlain": "наперёд (наперед того)",
+   "vi": "trước đây, từ trước tới giờ (từ cổ)",
+   "g": null,
+   "ref": "skazki1-021-s004"
+  },
+  {
+   "ru": "видывать (не видывали)",
+   "ruPlain": "видывать (не видывали)",
+   "vi": "(dạng cổ, nhấn mạnh của «thấy») từng trông thấy; «không hề thấy bao giờ»",
+   "g": null,
+   "ref": "skazki1-021-s004"
+  },
+  {
+   "ru": "присудить (присудили)",
+   "ruPlain": "присудить (присудили)",
+   "vi": "cắt cử, phân công, định cho ai phải làm (nghĩa cổ)",
+   "g": null,
+   "ref": "skazki1-021-s004"
+  },
+  {
+   "ru": "выглядывать (выглядывает)",
+   "ruPlain": "выглядывать (выглядывает)",
+   "vi": "thò đầu ngó ra, ló ra nhìn",
+   "g": null,
+   "ref": "skazki1-021-s004"
+  },
+  {
+   "ru": "низкий поклон (отдать поклон)",
+   "ruPlain": "низкий поклон (отдать поклон)",
+   "vi": "cúi rạp mình vái chào",
+   "g": null,
+   "ref": "skazki1-021-s004"
+  },
+  {
+   "ru": "затесаться (в болото)",
+   "ruPlain": "затесаться (в болото)",
+   "vi": "chui lủi/len lén vào, lẩn vào (khẩu ngữ)",
+   "g": null,
+   "ref": "skazki1-021-s004"
+  },
+  {
+   "ru": "закопаться (в стог сена)",
+   "ruPlain": "закопаться (в стог сена)",
+   "vi": "vùi mình, rúc sâu vào",
+   "g": null,
+   "ref": "skazki1-021-s004"
+  },
+  {
+   "ru": "блудить",
+   "ruPlain": "блудить",
+   "vi": "ăn vụng, phá phách, ăn trộm vặt (phương ngữ)",
+   "g": null,
+   "ref": "skazki1-022-s001"
+  },
+  {
+   "ru": "проказить",
+   "ruPlain": "проказить",
+   "vi": "giở trò nghịch ngợm, phá phách",
+   "g": null,
+   "ref": "skazki1-022-s001"
+  },
+  {
+   "ru": "покрышка",
+   "ruPlain": "покрышка",
+   "vi": "cái nắp (đậy nồi, vò)",
+   "g": null,
+   "ref": "skazki1-022-s001"
+  },
+  {
+   "ru": "хлев",
+   "ruPlain": "хлев",
+   "vi": "chuồng gia súc",
+   "g": null,
+   "ref": "skazki1-022-s001"
+  },
+  {
+   "ru": "навострить лыжи",
+   "ruPlain": "навострить лыжи",
+   "vi": "chuồn, bỏ trốn (thành ngữ; nghĩa đen: chuốt nhọn ván trượt)",
+   "g": null,
+   "ref": "skazki1-022-s001"
+  },
+  {
+   "ru": "вечерять",
+   "ruPlain": "вечерять",
+   "vi": "ăn bữa tối (phương ngữ)",
+   "g": null,
+   "ref": "skazki1-022-s001"
+  },
+  {
+   "ru": "ретивый",
+   "ruPlain": "ретивый",
+   "vi": "hăng hái, hung hăng, dữ",
+   "g": null,
+   "ref": "skazki1-022-s001"
+  },
+  {
+   "ru": "поддоброхотиться",
+   "ruPlain": "поддоброхотиться",
+   "vi": "lại gần lấy lòng, làm thân (từ cổ)",
+   "g": null,
+   "ref": "skazki1-022-s001"
+  },
+  {
+   "ru": "прыткий",
+   "ruPlain": "прыткий",
+   "vi": "nhanh nhẹn, lanh lẹ",
+   "g": null,
+   "ref": "skazki1-022-s001"
+  },
+  {
+   "ru": "утирка",
+   "ruPlain": "утирка",
+   "vi": "khăn lau, khăn mặt (phương ngữ)",
+   "g": null,
+   "ref": "skazki1-022-s001"
+  },
+  {
+   "ru": "растабаривать",
+   "ruPlain": "растабаривать",
+   "vi": "bàn tán, chuyện trò (phương ngữ)",
+   "g": null,
+   "ref": "skazki1-022-s001"
+  },
+  {
+   "ru": "стакнуться",
+   "ruPlain": "стакнуться",
+   "vi": "ngầm bàn nhau, thông đồng",
+   "g": null,
+   "ref": "skazki1-022-s001"
+  },
+  {
+   "ru": "колодина",
+   "ruPlain": "колодина",
+   "vi": "khúc gỗ mục nằm dưới đất, cây đổ",
+   "g": null,
+   "ref": "skazki1-022-s001"
+  },
+  {
+   "ru": "сурок",
+   "ruPlain": "сурок",
+   "vi": "con macmot (sóc đất)",
+   "g": null,
+   "ref": "skazki1-022-s001"
+  },
+  {
+   "ru": "удавка",
+   "ruPlain": "удавка",
+   "vi": "thòng lọng, dây thắt cổ",
+   "g": null,
+   "ref": "skazki1-022-s002"
+  },
+  {
+   "ru": "забодать",
+   "ruPlain": "забодать",
+   "vi": "húc (bằng sừng) cho chết",
+   "g": null,
+   "ref": "skazki1-022-s002"
+  },
+  {
+   "ru": "береста",
+   "ruPlain": "береста",
+   "vi": "vỏ cây bạch dương (dễ bén lửa)",
+   "g": null,
+   "ref": "skazki1-022-s002"
+  },
+  {
+   "ru": "теплина",
+   "ruPlain": "теплина",
+   "vi": "đống lửa sưởi (phương ngữ)",
+   "g": null,
+   "ref": "skazki1-022-s002"
+  },
+  {
+   "ru": "неможется",
+   "ruPlain": "неможется",
+   "vi": "thấy ốm yếu, khó ở (động từ vô nhân xưng)",
+   "g": null,
+   "ref": "skazki1-022-s002"
+  },
+  {
+   "ru": "муравейничек",
+   "ruPlain": "муравейничек",
+   "vi": "kẻ phá tổ kiến (biệt danh trêu con gấu)",
+   "g": null,
+   "ref": "skazki1-022-s002"
+  },
+  {
+   "ru": "хворь",
+   "ruPlain": "хворь",
+   "vi": "bệnh tật, ốm đau",
+   "g": null,
+   "ref": "skazki1-022-s002"
+  },
+  {
+   "ru": "несдобровать",
+   "ruPlain": "несдобровать",
+   "vi": "ắt mang vạ, chẳng được yên lành",
+   "g": null,
+   "ref": "skazki1-022-s002"
+  },
+  {
+   "ru": "петь Лазаря",
+   "ruPlain": "петь Лазаря",
+   "vi": "rên rỉ kêu than, kể khổ (thành ngữ)",
+   "g": null,
+   "ref": "skazki1-022-s002"
+  },
+  {
+   "ru": "оскалить",
+   "ruPlain": "оскалить",
+   "vi": "nhe răng (ra)",
+   "g": null,
+   "ref": "skazki1-022-s002"
+  },
+  {
+   "ru": "шишка",
+   "ruPlain": "шишка",
+   "vi": "quả nón (của cây lá kim, như thông, vân sam)",
+   "g": null,
+   "ref": "skazki1-022-s002"
+  },
+  {
+   "ru": "блеять",
+   "ruPlain": "блеять",
+   "vi": "kêu be be (cừu, dê)",
+   "g": null,
+   "ref": "skazki1-022-s002"
+  },
+  {
+   "ru": "давеча",
+   "ruPlain": "давеча",
+   "vi": "vừa nãy, mới đây (từ cổ/khẩu ngữ)",
+   "g": null,
+   "ref": "skazki1-022-s002"
+  },
+  {
+   "ru": "студень",
+   "ruPlain": "студень",
+   "vi": "món thịt đông (nấu từ đầu/chân thú rồi để đông lại)",
+   "g": null,
+   "ref": "skazki1-022-s003"
+  },
+  {
+   "ru": "куль",
+   "ruPlain": "куль",
+   "vi": "cái bao tải lớn (đựng đồ)",
+   "g": null,
+   "ref": "skazki1-022-s003"
+  },
+  {
+   "ru": "иззябнуть",
+   "ruPlain": "иззябнуть",
+   "vi": "rét cóng cả người (từ cổ)",
+   "g": null,
+   "ref": "skazki1-022-s003"
+  },
+  {
+   "ru": "пожива",
+   "ruPlain": "пожива",
+   "vi": "miếng mồi, món hời kiếm chác được",
+   "g": null,
+   "ref": "skazki1-022-s003"
+  },
+  {
+   "ru": "себе на уме",
+   "ruPlain": "себе на уме",
+   "vi": "bụng có tính toán riêng, khôn ngầm (thành ngữ)",
+   "g": null,
+   "ref": "skazki1-022-s003"
+  },
+  {
+   "ru": "реветь",
+   "ruPlain": "реветь",
+   "vi": "kêu rống, gào ầm lên (gia súc kêu)",
+   "g": null,
+   "ref": "skazki1-022-s003"
+  },
+  {
+   "ru": "кнут",
+   "ruPlain": "кнут",
+   "vi": "roi da (để quất gia súc)",
+   "g": null,
+   "ref": "skazki1-022-s003"
+  },
+  {
+   "ru": "испод",
+   "ruPlain": "испод",
+   "vi": "đáy, mặt dưới (на самом исподе = tít dưới đáy)",
+   "g": null,
+   "ref": "skazki1-022-s003"
+  },
+  {
+   "ru": "ворожить",
+   "ruPlain": "ворожить",
+   "vi": "bói toán, gieo quẻ làm phép",
+   "g": null,
+   "ref": "skazki1-022-s003"
+  },
+  {
+   "ru": "ворожея",
+   "ruPlain": "ворожея",
+   "vi": "thầy bói, kẻ làm phép bói (ở đây trỏ con gấu)",
+   "g": null,
+   "ref": "skazki1-022-s003"
+  },
+  {
+   "ru": "неминучий",
+   "ruPlain": "неминучий",
+   "vi": "không sao tránh khỏi (từ cổ; неминучая беда)",
+   "g": null,
+   "ref": "skazki1-022-s003"
+  },
+  {
+   "ru": "лихо",
+   "ruPlain": "лихо",
+   "vi": "tai ương, điều dữ (лиха избывать = thoát khỏi tai ương)",
+   "g": null,
+   "ref": "skazki1-022-s003"
+  },
+  {
+   "ru": "блудливый",
+   "ruPlain": "блудливый",
+   "vi": "hay đi hoang, hay lạc đàn chạy rông (phương ngữ)",
+   "g": null,
+   "ref": "skazki1-022-s004"
+  },
+  {
+   "ru": "с жиру беситься",
+   "ruPlain": "с жиру беситься",
+   "vi": "béo quá sinh hư, rửng mỡ (thành ngữ)",
+   "g": null,
+   "ref": "skazki1-022-s004"
+  },
+  {
+   "ru": "роса",
+   "ruPlain": "роса",
+   "vi": "sương (đọng trên cỏ cây)",
+   "g": null,
+   "ref": "skazki1-022-s004"
+  },
+  {
+   "ru": "уголья",
+   "ruPlain": "уголья",
+   "vi": "than củi (dạng cổ/số nhiều của уголь)",
+   "g": null,
+   "ref": "skazki1-022-s004"
+  },
+  {
+   "ru": "головешка",
+   "ruPlain": "головешка",
+   "vi": "thanh củi đang cháy dở",
+   "g": null,
+   "ref": "skazki1-022-s004"
+  },
+  {
+   "ru": "востёр",
+   "ruPlain": "востёр",
+   "vi": "sắc (dạng cổ/khẩu ngữ của острый)",
+   "g": null,
+   "ref": "skazki1-022-s004"
+  },
+  {
+   "ru": "неужто",
+   "ruPlain": "неужто",
+   "vi": "chẳng lẽ, lẽ nào (khẩu ngữ/cổ)",
+   "g": null,
+   "ref": "skazki1-022-s004"
+  },
+  {
+   "ru": "оробеть",
+   "ruPlain": "оробеть",
+   "vi": "đâm sợ, khiếp vía, rụt rè lại",
+   "g": null,
+   "ref": "skazki1-022-s004"
+  },
+  {
+   "ru": "очередной",
+   "ruPlain": "очередной",
+   "vi": "đến lượt, kế tiếp theo thứ tự",
+   "g": null,
+   "ref": "skazki1-022-s004"
+  },
+  {
+   "ru": "шорох",
+   "ruPlain": "шорох",
+   "vi": "tiếng sột soạt khẽ",
+   "g": null,
+   "ref": "skazki1-022-s004"
+  },
+  {
+   "ru": "ласкаться",
+   "ruPlain": "ласкаться",
+   "vi": "làm nũng, cọ mình âu yếm (để lấy lòng)",
+   "g": null,
+   "ref": "skazki1-022-s004"
+  },
+  {
+   "ru": "баловство",
+   "ruPlain": "баловство",
+   "vi": "thói nghịch ngợm, hư đốn",
+   "g": null,
+   "ref": "skazki1-022-s004"
+  },
+  {
+   "ru": "пегий",
+   "ruPlain": "пегии",
+   "vi": "(ngựa) lông lốm đốm, khoang trắng-đen",
+   "g": null,
+   "ref": "skazki1-023-s001"
+  },
+  {
+   "ru": "пежить",
+   "ruPlain": "пежить",
+   "vi": "(phương ngữ) làm cho lốm đốm, «nhuộm» đốm lên",
+   "g": null,
+   "ref": "skazki1-023-s001"
+  },
+  {
+   "ru": "мастак",
+   "ruPlain": "мастак",
+   "vi": "tay thợ cừ, bậc thầy (khẩu ngữ)",
+   "g": null,
+   "ref": "skazki1-023-s001"
+  },
+  {
+   "ru": "улей",
+   "ruPlain": "улеи",
+   "vi": "tổ ong, đõ ong",
+   "g": null,
+   "ref": "skazki1-023-s001"
+  },
+  {
+   "ru": "спеленать",
+   "ruPlain": "спеленать",
+   "vi": "quấn/bó chặt như bó tã",
+   "g": null,
+   "ref": "skazki1-023-s001"
+  },
+  {
+   "ru": "ворох",
+   "ruPlain": "ворох",
+   "vi": "đống lớn (chất bừa)",
+   "g": null,
+   "ref": "skazki1-023-s001"
+  },
+  {
+   "ru": "докрасна",
+   "ruPlain": "докрасна",
+   "vi": "(nung) đến đỏ rực",
+   "g": null,
+   "ref": "skazki1-023-s001"
+  },
+  {
+   "ru": "заверещать",
+   "ruPlain": "заверещать",
+   "vi": "rít/kêu xèo lên the thé",
+   "g": null,
+   "ref": "skazki1-023-s001"
+  },
+  {
+   "ru": "краюшка",
+   "ruPlain": "краюшка",
+   "vi": "mẩu bánh mì (đầu ổ)",
+   "g": null,
+   "ref": "skazki1-023-s001"
+  },
+  {
+   "ru": "полоса",
+   "ruPlain": "полоса",
+   "vi": "thửa (dải) ruộng",
+   "g": null,
+   "ref": "skazki1-023-s001"
+  },
+  {
+   "ru": "плутовка",
+   "ruPlain": "плутовка",
+   "vi": "con ranh ma, đồ tinh ranh (giống cái)",
+   "g": null,
+   "ref": "skazki1-023-s001"
+  },
+  {
+   "ru": "покудова",
+   "ruPlain": "покудова",
+   "vi": "(từ cổ) trong khi, đương lúc",
+   "g": null,
+   "ref": "skazki1-023-s001"
+  },
+  {
+   "ru": "слепень",
+   "ruPlain": "слепень",
+   "vi": "ruồi trâu, mòng (côn trùng hút máu)",
+   "g": null,
+   "ref": "skazki1-023-s001"
+  },
+  {
+   "ru": "шибко",
+   "ruPlain": "шибко",
+   "vi": "(phương ngữ) mạnh, dữ, nhanh",
+   "g": null,
+   "ref": "skazki1-023-s001"
+  },
+  {
+   "ru": "соломина",
+   "ruPlain": "соломина",
+   "vi": "một cọng rơm",
+   "g": null,
+   "ref": "skazki1-023-s001"
+  },
+  {
+   "ru": "жнивьё",
+   "ruPlain": "жнивье",
+   "vi": "gốc rạ (ruộng đã gặt)",
+   "g": null,
+   "ref": "skazki1-023-s001"
+  },
+  {
+   "ru": "жеребец",
+   "ruPlain": "жеребец",
+   "vi": "ngựa đực, ngựa giống",
+   "g": null,
+   "ref": "skazki1-024-s001"
+  },
+  {
+   "ru": "телка",
+   "ruPlain": "телка",
+   "vi": "bê cái, bò con cái (dạng cổ của тёлка)",
+   "g": null,
+   "ref": "skazki1-024-s001"
+  },
+  {
+   "ru": "жилец",
+   "ruPlain": "жилец",
+   "vi": "người ở trọ, kẻ trú ngụ",
+   "g": null,
+   "ref": "skazki1-024-s001"
+  },
+  {
+   "ru": "дворец",
+   "ruPlain": "дворец",
+   "vi": "cung điện, lâu đài (ở đây dùng giễu cho cái tổ trên bụi cây)",
+   "g": null,
+   "ref": "skazki1-024-s001"
+  },
+  {
+   "ru": "кочерга",
+   "ruPlain": "кочерга",
+   "vi": "que cời lò (để cời than trong lò sưởi Nga)",
+   "g": null,
+   "ref": "skazki1-024-s001"
+  },
+  {
+   "ru": "возить",
+   "ruPlain": "возить",
+   "vi": "(khẩu ngữ) nện, phang liên hồi (ну ею возить — cứ thế nện)",
+   "g": null,
+   "ref": "skazki1-024-s001"
+  },
+  {
+   "ru": "ни ногой",
+   "ruPlain": "ни ногой",
+   "vi": "cạch hẳn, không hề bén mảng tới (thành ngữ)",
+   "g": null,
+   "ref": "skazki1-024-s001"
+  },
+  {
+   "ru": "горе мыкать",
+   "ruPlain": "горе мыкать",
+   "vi": "sống lay lắt khổ sở, gặm nhấm nỗi đau (thành ngữ)",
+   "g": null,
+   "ref": "skazki1-024-s001"
+  },
+  {
+   "ru": "славный",
+   "ruPlain": "славный",
+   "vi": "hay, tuyệt, đáng yêu (khẩu ngữ, lời khen)",
+   "g": null,
+   "ref": "skazki1-024-s001"
+  },
+  {
+   "ru": "песния",
+   "ruPlain": "песния",
+   "vi": "(dạng cổ của песня) bài hát",
+   "g": null,
+   "ref": "skazki1-024-s001"
+  },
+  {
+   "ru": "судомоечка",
+   "ruPlain": "судомоечка",
+   "vi": "cô rửa bát thuê — ở đây là biệt danh láy vần đặt cho con mèo",
+   "g": null,
+   "ref": "skazki1-024-s002"
+  },
+  {
+   "ru": "пустолаечка",
+   "ruPlain": "пустолаечка",
+   "vi": "kẻ sủa vu vơ (chó sủa vô cớ) — biệt danh đặt cho con chó",
+   "g": null,
+   "ref": "skazki1-024-s002"
+  },
+  {
+   "ru": "коровушка",
+   "ruPlain": "коровушка",
+   "vi": "bò cái (dạng thân mật, âu yếm: «bò cưng»)",
+   "g": null,
+   "ref": "skazki1-024-s002"
+  },
+  {
+   "ru": "дознаться",
+   "ruPlain": "дознаться",
+   "vi": "dò ra, biết được (sau khi tìm hiểu, nghe ngóng)",
+   "g": null,
+   "ref": "skazki1-024-s002"
+  },
+  {
+   "ru": "скотина",
+   "ruPlain": "скотина",
+   "vi": "gia súc, súc vật nuôi trong nhà",
+   "g": null,
+   "ref": "skazki1-024-s002"
+  },
+  {
+   "ru": "отдавать",
+   "ruPlain": "отдавать",
+   "vi": "giao nộp, đưa cho, nhường đi",
+   "g": null,
+   "ref": "skazki1-024-s002"
+  },
+  {
+   "ru": "подавать",
+   "ruPlain": "подавать",
+   "vi": "đưa ra đây, nộp ra (подавай — lối ra lệnh)",
+   "g": null,
+   "ref": "skazki1-024-s002"
+  },
+  {
+   "ru": "жаль",
+   "ruPlain": "жаль",
+   "vi": "tiếc, chẳng nỡ, thương tiếc",
+   "g": null,
+   "ref": "skazki1-024-s002"
+  },
+  {
+   "ru": "жить да быть",
+   "ruPlain": "жить да быть",
+   "vi": "sống yên ấm bên nhau (lối nói trong truyện cổ)",
+   "g": null,
+   "ref": "skazki1-024-s002"
+  },
+  {
+   "ru": "хлеб жевать",
+   "ruPlain": "хлеб жевать",
+   "vi": "nhai bánh sống qua ngày — câu vè khép truyện cổ (живут, хлеб жуют)",
+   "g": null,
+   "ref": "skazki1-024-s002"
+  },
+  {
+   "ru": "вострорылая",
+   "ruPlain": "вострорылая",
+   "vi": "(lợn) mõm nhọn — từ ghép cổ: вострый (= острый, nhọn) + рыло (mõm)",
+   "g": null,
+   "ref": "skazki1-025-s001"
+  },
+  {
+   "ru": "повадиться",
+   "ruPlain": "повадиться",
+   "vi": "đâm ra quen thói, sinh tật hay lui tới (làm điều gì)",
+   "g": null,
+   "ref": "skazki1-025-s001"
+  },
+  {
+   "ru": "задние ворота",
+   "ruPlain": "задние ворота",
+   "vi": "cổng sau (lối ra phía sau sân)",
+   "g": null,
+   "ref": "skazki1-025-s001"
+  },
+  {
+   "ru": "овёс",
+   "ruPlain": "овёс",
+   "vi": "yến mạch (овес trong nguyên bản)",
+   "g": null,
+   "ref": "skazki1-025-s001"
+  },
+  {
+   "ru": "приумолкнуть",
+   "ruPlain": "приумолкнуть",
+   "vi": "nín bặt, lặng thinh đi (ở đây: con sói nép rình)",
+   "g": null,
+   "ref": "skazki1-025-s001"
+  },
+  {
+   "ru": "щетинка",
+   "ruPlain": "щетинка",
+   "vi": "túm lông cứng, lông gáy (dạng nhỏ của щетина — lông cứng ở gáy lợn)",
+   "g": null,
+   "ref": "skazki1-025-s001"
+  },
+  {
+   "ru": "уволочь",
+   "ruPlain": "уволочь",
+   "vi": "lôi tuột đi, kéo lê đi (уволок — lôi đi mất)",
+   "g": null,
+   "ref": "skazki1-025-s001"
+  },
+  {
+   "ru": "тынинка",
+   "ruPlain": "тынинка",
+   "vi": "đoạn hàng giậu, thanh rào gỗ (dạng nhỏ của тын — hàng rào bằng cọc/phên)",
+   "g": null,
+   "ref": "skazki1-025-s001"
+  },
+  {
+   "ru": "изорвать",
+   "ruPlain": "изорвать",
+   "vi": "xé tan, xé xác ra",
+   "g": null,
+   "ref": "skazki1-025-s001"
+  },
+  {
+   "ru": "чёрт понёс",
+   "ruPlain": "чёрт понёс",
+   "vi": "quỷ tha ma bắt — thành ngữ: đi đâu chẳng rõ, đi liều đi bậy",
+   "g": null,
+   "ref": "skazki1-025-s001"
+  },
+  {
+   "ru": "супоросная",
+   "ruPlain": "супоросная",
+   "vi": "(lợn nái) đang chửa, mang thai (супоросая/супоросная свинья)",
+   "g": null,
+   "ref": "skazki1-025-s002"
+  },
+  {
+   "ru": "старичище",
+   "ruPlain": "старичище",
+   "vi": "lão già sụ — dạng tăng cấp (hậu tố -ище) của старик",
+   "g": null,
+   "ref": "skazki1-025-s002"
+  },
+  {
+   "ru": "волчище",
+   "ruPlain": "волчище",
+   "vi": "con sói to tổ chảng — dạng tăng cấp của волк",
+   "g": null,
+   "ref": "skazki1-025-s002"
+  },
+  {
+   "ru": "челом отдать",
+   "ruPlain": "челом отдать",
+   "vi": "cúi rạp vái chào (lối cổ; cùng nghĩa бить челом — vái lạy, bẩm thưa)",
+   "g": null,
+   "ref": "skazki1-025-s002"
+  },
+  {
+   "ru": "скитаться",
+   "ruPlain": "скитаться",
+   "vi": "phiêu bạt, lang bạt khắp nơi",
+   "g": null,
+   "ref": "skazki1-025-s002"
+  },
+  {
+   "ru": "волчинька",
+   "ruPlain": "волчинька",
+   "vi": "sói yêu, sói cưng (dạng âu yếm của волк)",
+   "g": null,
+   "ref": "skazki1-025-s002"
+  },
+  {
+   "ru": "мясцо",
+   "ruPlain": "мясцо",
+   "vi": "miếng thịt (dạng âu yếm/giảm nhẹ của мясо; мясца — cách 2)",
+   "g": null,
+   "ref": "skazki1-025-s002"
+  },
+  {
+   "ru": "глодать",
+   "ruPlain": "глодать",
+   "vi": "gặm (xương), nhấm gặm",
+   "g": null,
+   "ref": "skazki1-025-s002"
+  },
+  {
+   "ru": "поминать",
+   "ruPlain": "поминать",
+   "vi": "tưởng nhớ, cúng giỗ người đã khuất (поминать родителей)",
+   "g": null,
+   "ref": "skazki1-025-s002"
+  },
+  {
+   "ru": "откуль",
+   "ruPlain": "откуль",
+   "vi": "từ đâu (dạng cổ/phương ngữ của откуда)",
+   "g": null,
+   "ref": "skazki1-025-s002"
+  },
+  {
+   "ru": "соломка",
+   "ruPlain": "соломка",
+   "vi": "cọng rơm (dạng nhỏ của солома)",
+   "g": null,
+   "ref": "skazki1-025-s002"
+  },
+  {
+   "ru": "избушка",
+   "ruPlain": "избушка",
+   "vi": "túp lều nhỏ trong rừng (dạng nhỏ của изба — nhà gỗ nông thôn Nga)",
+   "g": null,
+   "ref": "skazki1-026-s001"
+  },
+  {
+   "ru": "бор",
+   "ruPlain": "бор",
+   "vi": "rừng thông, rừng cây lá kim",
+   "g": null,
+   "ref": "skazki1-026-s001"
+  },
+  {
+   "ru": "вымечко",
+   "ruPlain": "вымечко",
+   "vi": "bầu vú (dạng nhỏ âu yếm của вымя — bầu vú gia súc)",
+   "g": null,
+   "ref": "skazki1-026-s001"
+  },
+  {
+   "ru": "копытечко",
+   "ruPlain": "копытечко",
+   "vi": "cái móng (chân) nhỏ (dạng nhỏ của копыто)",
+   "g": null,
+   "ref": "skazki1-026-s001"
+  },
+  {
+   "ru": "шелковая трава",
+   "ruPlain": "шелковая трава",
+   "vi": "cỏ mượt như tơ, êm như lụa (шёлк — tơ lụa); công thức ví von dân gian",
+   "g": null,
+   "ref": "skazki1-026-s001"
+  },
+  {
+   "ru": "студёная",
+   "ruPlain": "студёная",
+   "vi": "(nước) mát lạnh, buốt (từ cổ của холодная)",
+   "g": null,
+   "ref": "skazki1-026-s001"
+  },
+  {
+   "ru": "толстый голос",
+   "ruPlain": "толстый голос",
+   "vi": "giọng ồ ề, trầm thô (đối lập với тонкий голос — giọng thanh, the thé)",
+   "g": null,
+   "ref": "skazki1-026-s001"
+  },
+  {
+   "ru": "причитывать",
+   "ruPlain": "причитывать",
+   "vi": "ngân nga đọc/than theo điệu, lặp đi lặp lại (lối hát kể, than vãn)",
+   "g": null,
+   "ref": "skazki1-026-s001"
+  },
+  {
+   "ru": "схорониться",
+   "ruPlain": "схорониться",
+   "vi": "trốn, ẩn nấp (từ cổ của спрятаться)",
+   "g": null,
+   "ref": "skazki1-026-s001"
+  },
+  {
+   "ru": "кручина",
+   "ruPlain": "кручина",
+   "vi": "nỗi sầu muộn, u uất (từ cổ trong văn dân gian)",
+   "g": null,
+   "ref": "skazki1-026-s001"
+  },
+  {
+   "ru": "избывать",
+   "ruPlain": "избывать",
+   "vi": "rũ bỏ, trừ khử dần (избывать лихо — xua tan tai ương)",
+   "g": null,
+   "ref": "skazki1-026-s001"
+  },
+  {
+   "ru": "крепко-накрепко",
+   "ruPlain": "крепко-накрепко",
+   "vi": "thật chặt, chặt cứng (cài cửa kỹ càng)",
+   "g": null,
+   "ref": "skazki1-026-s001"
+  },
+  {
+   "ru": "строго-настрого",
+   "ruPlain": "строго-настрого",
+   "vi": "thật nghiêm, dặn đi dặn lại nghiêm ngặt",
+   "g": null,
+   "ref": "skazki1-026-s001"
+  },
+  {
+   "ru": "брюхатая",
+   "ruPlain": "брюхатая",
+   "vi": "(con cái) đang chửa, mang thai (брюхатая коза — dê cái chửa)",
+   "g": null,
+   "ref": "skazki1-026-s002"
+  },
+  {
+   "ru": "окотиться",
+   "ruPlain": "окотиться",
+   "vi": "(dê, cừu, mèo) đẻ con; dạng chưa hoàn thành: котиться",
+   "g": null,
+   "ref": "skazki1-026-s002"
+  },
+  {
+   "ru": "орешня",
+   "ruPlain": "орешня",
+   "vi": "cây phỉ, cây dẻ rừng (cây cho hạt орех)",
+   "g": null,
+   "ref": "skazki1-026-s002"
+  },
+  {
+   "ru": "не солоно хлебать",
+   "ruPlain": "не солоно хлебать",
+   "vi": "thành ngữ: ra về tay không, chưng hửng (đen: húp bát canh nhạt thếch)",
+   "g": null,
+   "ref": "skazki1-026-s002"
+  },
+  {
+   "ru": "обратиться",
+   "ruPlain": "обратиться",
+   "vi": "quay (mặt/lưng) về phía nào (обратись передом — hãy quay mặt lại)",
+   "g": null,
+   "ref": "skazki1-026-s002"
+  },
+  {
+   "ru": "под запором",
+   "ruPlain": "под запором",
+   "vi": "bị cài chốt, khóa kín (запор — then/chốt cửa)",
+   "g": null,
+   "ref": "skazki1-026-s002"
+  },
+  {
+   "ru": "отомкнуться",
+   "ruPlain": "отомкнуться",
+   "vi": "mở khóa, mở chốt ra (từ cổ; gieo vần với отопереться)",
+   "g": null,
+   "ref": "skazki1-026-s002"
+  },
+  {
+   "ru": "корытце",
+   "ruPlain": "корытце",
+   "vi": "cái máng nhỏ (dạng nhỏ của корыто — máng gỗ đựng nước/thức ăn)",
+   "g": null,
+   "ref": "skazki1-026-s002"
+  },
+  {
+   "ru": "скорвада",
+   "ruPlain": "скорвада",
+   "vi": "(?) từ phương ngữ tối nghĩa, ngỡ là thứ vỏ/lớp cứng mà dê gặm — nguyên bản đánh dấu khuyết nghĩa",
+   "g": null,
+   "ref": "skazki1-026-s002"
+  },
+  {
+   "ru": "кузнец",
+   "ruPlain": "кузнец",
+   "vi": "bác thợ rèn",
+   "g": null,
+   "ref": "skazki1-026-s002"
+  },
+  {
+   "ru": "язычок",
+   "ruPlain": "язычок",
+   "vi": "cái lưỡi nhỏ (dạng nhỏ của язык); sói nhờ rèn để đổi sang giọng thanh",
+   "g": null,
+   "ref": "skazki1-026-s002"
+  },
+  {
+   "ru": "гладыш",
+   "ruPlain": "гладыш",
+   "vi": "kẻ béo mượt, nhẵn nhụi (gốc гладкий — nhẵn, trơn mượt)",
+   "g": null,
+   "ref": "skazki1-026-s002"
+  },
+  {
+   "ru": "подпол",
+   "ruPlain": "подпол",
+   "vi": "hầm chứa dưới sàn nhà gỗ (по́дпол)",
+   "g": null,
+   "ref": "skazki1-026-s002"
+  },
+  {
+   "ru": "тычки",
+   "ruPlain": "тычки",
+   "vi": "những cọc/que (sắt) nhọn cắm dựng đứng (железные тычки)",
+   "g": null,
+   "ref": "skazki1-026-s002"
+  },
+  {
+   "ru": "помин",
+   "ruPlain": "помин",
+   "vi": "lễ giỗ, bữa cúng tưởng nhớ người đã khuất",
+   "g": null,
+   "ref": "skazki1-026-s002"
+  },
+  {
+   "ru": "удавить",
+   "ruPlain": "удавить",
+   "vi": "thắt cổ, bóp cổ cho chết (từ cổ)",
+   "g": null,
+   "ref": "skazki1-027-s001"
+  },
+  {
+   "ru": "осина",
+   "ruPlain": "осина",
+   "vi": "cây dương lá rung; trong dân gian Nga thường gắn với chết chóc, treo cổ",
+   "g": null,
+   "ref": "skazki1-027-s001"
+  },
+  {
+   "ru": "кобель",
+   "ruPlain": "кобель",
+   "vi": "chó đực; «пёстрый кобель» — con chó đực lông đốm",
+   "g": null,
+   "ref": "skazki1-027-s001"
+  },
+  {
+   "ru": "пуд",
+   "ruPlain": "пуд",
+   "vi": "đơn vị đo khối lượng Nga cổ, khoảng 16,38 kg",
+   "g": null,
+   "ref": "skazki1-027-s001"
+  },
+  {
+   "ru": "кобылятина",
+   "ruPlain": "кобылятина",
+   "vi": "thịt ngựa cái",
+   "g": null,
+   "ref": "skazki1-027-s001"
+  },
+  {
+   "ru": "лощина",
+   "ruPlain": "лощина",
+   "vi": "khe trũng, lạch cạn giữa cánh đồng",
+   "g": null,
+   "ref": "skazki1-027-s001"
+  },
+  {
+   "ru": "шиворот",
+   "ruPlain": "шиворот",
+   "vi": "gáy, cổ áo; «за шиворот» — túm gáy",
+   "g": null,
+   "ref": "skazki1-027-s001"
+  },
+  {
+   "ru": "кабан",
+   "ruPlain": "кабан",
+   "vi": "lợn rừng (đực)",
+   "g": null,
+   "ref": "skazki1-027-s001"
+  },
+  {
+   "ru": "стать в дыбки",
+   "ruPlain": "стать в дыбки",
+   "vi": "chồm dậy, đứng thẳng lên (để chống cự)",
+   "g": null,
+   "ref": "skazki1-027-s001"
+  },
+  {
+   "ru": "космы",
+   "ruPlain": "космы",
+   "vi": "túm lông/tóc bù xù, rối bời",
+   "g": null,
+   "ref": "skazki1-027-s001"
+  },
+  {
+   "ru": "дурачина",
+   "ruPlain": "дурачина",
+   "vi": "đồ ngốc, thằng đần (dạng chê bai tăng cấp của дурак)",
+   "g": null,
+   "ref": "skazki1-027-s001"
+  },
+  {
+   "ru": "заставка",
+   "ruPlain": "заставка",
+   "vi": "cánh phai, cửa cống chắn nước ở cối xay",
+   "g": null,
+   "ref": "skazki1-027-s001"
+  },
+  {
+   "ru": "гумно",
+   "ruPlain": "гумно",
+   "vi": "sân đập lúa, nhà kho để đập và phơi lúa",
+   "g": null,
+   "ref": "skazki1-027-s001"
+  },
+  {
+   "ru": "падаль",
+   "ruPlain": "падаль",
+   "vi": "xác súc vật chết thối (биến thể khẩu ngữ: падла)",
+   "g": null,
+   "ref": "skazki1-027-s001"
+  },
+  {
+   "ru": "пара орехов",
+   "ruPlain": "пара орехов",
+   "vi": "(mỉa mai) «cặp hạt dẻ», thực ra là hai viên đạn súng",
+   "g": null,
+   "ref": "skazki1-027-s001"
+  },
+  {
+   "ru": "апостол",
+   "ruPlain": "апостол",
+   "vi": "tông đồ, môn đồ (của Chúa Ki-tô)",
+   "g": null,
+   "ref": "skazki1-027-s002"
+  },
+  {
+   "ru": "вид",
+   "ruPlain": "вид",
+   "vi": "(từ cổ) giấy tờ tùy thân, giấy phép đi lại (паспорт, вид на жительство)",
+   "g": null,
+   "ref": "skazki1-027-s002"
+  },
+  {
+   "ru": "сажень",
+   "ruPlain": "сажень",
+   "vi": "xa-gien, đơn vị đo chiều dài Nga cổ (khoảng 2,13 m)",
+   "g": null,
+   "ref": "skazki1-027-s002"
+  },
+  {
+   "ru": "копыто",
+   "ruPlain": "копыто",
+   "vi": "móng guốc; «задние копыта» — hai vó/móng chân sau",
+   "g": null,
+   "ref": "skazki1-027-s002"
+  },
+  {
+   "ru": "портной",
+   "ruPlain": "портнои",
+   "vi": "thợ may",
+   "g": null,
+   "ref": "skazki1-027-s002"
+  },
+  {
+   "ru": "утюжить",
+   "ruPlain": "утюжить",
+   "vi": "(đen) là/ủi quần áo; ở đây mỉa mai = nện, tẩn cho một trận",
+   "g": null,
+   "ref": "skazki1-027-s002"
+  },
+  {
+   "ru": "кургузый",
+   "ruPlain": "кургузыи",
+   "vi": "cụt lủn, ngắn ngủn; ở đây chỉ con sói cụt đuôi",
+   "g": null,
+   "ref": "skazki1-027-s002"
+  },
+  {
+   "ru": "под испод",
+   "ruPlain": "под испод",
+   "vi": "xuống lớp dưới cùng, dưới đáy (từ cổ)",
+   "g": null,
+   "ref": "skazki1-027-s002"
+  },
+  {
+   "ru": "неминучий",
+   "ruPlain": "неминучии",
+   "vi": "không thể tránh khỏi (từ cổ của неминуемый)",
+   "g": null,
+   "ref": "skazki1-027-s002"
+  },
+  {
+   "ru": "клочья",
+   "ruPlain": "клочья",
+   "vi": "từng nhúm, túm bị rứt ra; «в клочья» — tan tành, tả tơi",
+   "g": null,
+   "ref": "skazki1-027-s002"
+  },
+  {
+   "ru": "сшибить",
+   "ruPlain": "сшибить",
+   "vi": "húc/đánh cho ngã, hất ngã",
+   "g": null,
+   "ref": "skazki1-027-s002"
+  },
+  {
+   "ru": "треснуть",
+   "ruPlain": "треснуть",
+   "vi": "(khẩu ngữ) giáng, nện cho một cú mạnh",
+   "g": null,
+   "ref": "skazki1-027-s002"
+  },
+  {
+   "ru": "бараний лоб",
+   "ruPlain": "барании лоб",
+   "vi": "cái trán cừu — biểu tượng sự lì lợm, cứng đầu",
+   "g": null,
+   "ref": "skazki1-027-s002"
+  },
+  {
+   "ru": "дрова",
+   "ruPlain": "дрова",
+   "vi": "củi",
+   "g": null,
+   "ref": "skazki1-028-s001"
+  },
+  {
+   "ru": "бороться",
+   "ruPlain": "бороться",
+   "vi": "đấu vật, vật nhau",
+   "g": null,
+   "ref": "skazki1-028-s001"
+  },
+  {
+   "ru": "отсечь",
+   "ruPlain": "отсечь",
+   "vi": "chặt đứt, chém phăng",
+   "g": null,
+   "ref": "skazki1-028-s001"
+  },
+  {
+   "ru": "лапа",
+   "ruPlain": "лапа",
+   "vi": "chân (thú có vuốt/móng)",
+   "g": null,
+   "ref": "skazki1-028-s001"
+  },
+  {
+   "ru": "содрать",
+   "ruPlain": "содрать",
+   "vi": "lột (da), bóc ra",
+   "g": null,
+   "ref": "skazki1-028-s001"
+  },
+  {
+   "ru": "щипать",
+   "ruPlain": "щипать",
+   "vi": "vặt, nhổ (lông)",
+   "g": null,
+   "ref": "skazki1-028-s001"
+  },
+  {
+   "ru": "шерсть",
+   "ruPlain": "шерсть",
+   "vi": "lông (thú); len",
+   "g": null,
+   "ref": "skazki1-028-s001"
+  },
+  {
+   "ru": "прясть",
+   "ruPlain": "прясть",
+   "vi": "xe sợi, kéo sợi",
+   "g": null,
+   "ref": "skazki1-028-s001"
+  },
+  {
+   "ru": "полати",
+   "ruPlain": "полати",
+   "vi": "sàn gác ngủ (kê sát trần, trên bếp lò trong nhà gỗ Nga)",
+   "g": null,
+   "ref": "skazki1-028-s001"
+  },
+  {
+   "ru": "корыто",
+   "ruPlain": "корыто",
+   "vi": "cái máng gỗ (đựng/giặt)",
+   "g": null,
+   "ref": "skazki1-028-s001"
+  },
+  {
+   "ru": "ли́повый",
+   "ruPlain": "липовый",
+   "vi": "(làm) bằng gỗ cây đoan/cây bồ đề",
+   "g": null,
+   "ref": "skazki1-028-s001"
+  },
+  {
+   "ru": "скрипеть",
+   "ruPlain": "скрипеть",
+   "vi": "kêu kẽo kẹt, rin rít",
+   "g": null,
+   "ref": "skazki1-028-s001"
+  },
+  {
+   "ru": "кряхтеть",
+   "ruPlain": "кряхтеть",
+   "vi": "rên hừ hừ, càu nhàu vì khó nhọc",
+   "g": null,
+   "ref": "skazki1-028-s001"
+  },
+  {
+   "ru": "в те́ поры",
+   "ruPlain": "в те поры",
+   "vi": "(từ cổ) bấy giờ, lúc ấy",
+   "g": null,
+   "ref": "skazki1-028-s001"
+  },
+  {
+   "ru": "на отлёте",
+   "ruPlain": "на отлёте",
+   "vi": "ở chỗ tách biệt, xa hẳn ra (rìa làng)",
+   "g": null,
+   "ref": "skazki1-028-s002"
+  },
+  {
+   "ru": "скотинка",
+   "ruPlain": "скотинка",
+   "vi": "gia súc (cách nói thân mật, giảm nhẹ)",
+   "g": null,
+   "ref": "skazki1-028-s002"
+  },
+  {
+   "ru": "вдоволь",
+   "ruPlain": "вдоволь",
+   "vi": "thừa thãi, có khối, thoả thuê",
+   "g": null,
+   "ref": "skazki1-028-s002"
+  },
+  {
+   "ru": "бродить",
+   "ruPlain": "бродить",
+   "vi": "lang thang, lảng vảng đi đây đó",
+   "g": null,
+   "ref": "skazki1-028-s002"
+  },
+  {
+   "ru": "плетень",
+   "ruPlain": "плетень",
+   "vi": "hàng giậu/rào đan bằng cành cây",
+   "g": null,
+   "ref": "skazki1-028-s002"
+  },
+  {
+   "ru": "караулить",
+   "ruPlain": "караулить",
+   "vi": "canh gác, rình giữ",
+   "g": null,
+   "ref": "skazki1-028-s002"
+  },
+  {
+   "ru": "дуре́нь",
+   "ruPlain": "дурень",
+   "vi": "(phương ngữ, Afanasyev có chú) ở đây hiểu là cơn hăng/sự miệt mài thâu đêm; nghĩa gốc khuyết",
+   "g": null,
+   "ref": "skazki1-028-s002"
+  },
+  {
+   "ru": "шасть",
+   "ruPlain": "шасть",
+   "vi": "(khẩu ngữ) vụt một cái, thoắt cái (động tác nhanh)",
+   "g": null,
+   "ref": "skazki1-028-s002"
+  },
+  {
+   "ru": "стибрить",
+   "ruPlain": "стибрить",
+   "vi": "(khẩu ngữ) chôm, thó, cuỗm trộm",
+   "g": null,
+   "ref": "skazki1-028-s002"
+  },
+  {
+   "ru": "перетаскать",
+   "ruPlain": "перетаскать",
+   "vi": "tha/khuân đi hết, lần lượt mang đi sạch",
+   "g": null,
+   "ref": "skazki1-028-s002"
+  },
+  {
+   "ru": "кут",
+   "ruPlain": "кут",
+   "vi": "(phương ngữ) góc nhà gỗ cạnh bếp lò; chỗ ở khiêm tốn",
+   "g": null,
+   "ref": "skazki1-028-s002"
+  },
+  {
+   "ru": "не тут-то было",
+   "ruPlain": "не тут-то было",
+   "vi": "(thành ngữ) đâu có dễ, đời nào được như ý",
+   "g": null,
+   "ref": "skazki1-028-s002"
+  },
+  {
+   "ru": "оберегать",
+   "ruPlain": "оберегать",
+   "vi": "trông coi, canh giữ",
+   "g": null,
+   "ref": "skazki1-029-s001"
+  },
+  {
+   "ru": "амбар",
+   "ruPlain": "амбар",
+   "vi": "kho thóc, vựa lúa",
+   "g": null,
+   "ref": "skazki1-029-s001"
+  },
+  {
+   "ru": "издыхать",
+   "ruPlain": "издыхать",
+   "vi": "chết, ngắc ngoải (nói về thú vật)",
+   "g": null,
+   "ref": "skazki1-029-s001"
+  },
+  {
+   "ru": "околевать",
+   "ruPlain": "околевать",
+   "vi": "chết, ngoẻo (nói về thú vật; sắc thái thô)",
+   "g": null,
+   "ref": "skazki1-029-s001"
+  },
+  {
+   "ru": "покуда",
+   "ruPlain": "покуда",
+   "vi": "chừng nào còn, bao lâu mà (từ cổ = пока)",
+   "g": null,
+   "ref": "skazki1-029-s001"
+  },
+  {
+   "ru": "взъерошиться",
+   "ruPlain": "взъерошиться",
+   "vi": "(lông) xù lên, dựng đứng",
+   "g": null,
+   "ref": "skazki1-029-s001"
+  },
+  {
+   "ru": "зыбка",
+   "ruPlain": "зыбка",
+   "vi": "cái nôi treo đung đưa (từ cổ)",
+   "g": null,
+   "ref": "skazki1-029-s001"
+  },
+  {
+   "ru": "теперича",
+   "ruPlain": "теперича",
+   "vi": "bây giờ (khẩu ngữ/từ cổ = теперь)",
+   "g": null,
+   "ref": "skazki1-029-s001"
+  },
+  {
+   "ru": "вечеринка",
+   "ruPlain": "вечеринка",
+   "vi": "buổi tiệc tối, cuộc vui",
+   "g": null,
+   "ref": "skazki1-029-s001"
+  },
+  {
+   "ru": "масленица",
+   "ruPlain": "масленица",
+   "vi": "lễ hội Maslenitsa (tiễn đông); «không phải sống mà là масленица» = sống sung sướng như trẩy hội",
+   "g": null,
+   "ref": "skazki1-029-s001"
+  },
+  {
+   "ru": "загулять",
+   "ruPlain": "загулять",
+   "vi": "mải vui chơi, sa đà tiệc tùng",
+   "g": null,
+   "ref": "skazki1-029-s001"
+  },
+  {
+   "ru": "говядина",
+   "ruPlain": "говядина",
+   "vi": "thịt bò",
+   "g": null,
+   "ref": "skazki1-029-s001"
+  },
+  {
+   "ru": "табун",
+   "ruPlain": "табун",
+   "vi": "đàn ngựa (thả rông)",
+   "g": null,
+   "ref": "skazki1-029-s001"
+  },
+  {
+   "ru": "ощетиниться",
+   "ruPlain": "ощетиниться",
+   "vi": "(lông) dựng đứng như lông nhím",
+   "g": null,
+   "ref": "skazki1-029-s001"
+  }
+ ]
+}

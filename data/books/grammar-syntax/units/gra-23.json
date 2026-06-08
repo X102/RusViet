@@ -1,0 +1,353 @@
+{
+ "id": "gra-23",
+ "num": 23,
+ "title": "Ôn tập Раздел 2 — Câu đơn",
+ "vi": "Ôn tập Раздел 2 — Câu đơn",
+ "ru": "Материал для повторения. Раздел 2",
+ "icon": "🔁",
+ "color": "#f59e0b",
+ "sectionPrefix": "gra-23-s",
+ "group": "Раздел 2 · Câu đơn (Простое предложение)",
+ "sections": [
+  {
+   "id": "gra-23-s001",
+   "type": "grammar",
+   "title": "Ôn tập Раздел 2 (bài 345–356) — Tổng quan",
+   "num": null,
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Phần «Материал для повторения. Раздел 2» (Tài liệu ôn tập — Phần 2) gồm các bài 345–356, tổng ôn toàn bộ kiến thức về CÂU ĐƠN (простое предложение) đã học ở các chủ đề trước: chủ ngữ và chủ thể, vị ngữ, thành phần đồng loại, thành phần biệt lập, câu một thành phần và trật tự từ."
+    },
+    {
+     "t": "para",
+     "text": "Nội dung từng bài: bài 345, 346, 348 — cách diễn đạt chủ ngữ (подлежащее) và chủ thể (субъект) ở các cách khác nhau; bài 347, 349, 350 — vị ngữ động từ và vị ngữ động từ phức hợp (составное глагольное сказуемое); bài 351, 352 — vị ngữ danh từ phức hợp (cách 1 hay cách 5; thành ngữ làm vị ngữ); bài 353 — liên từ nối các thành phần đồng loại; bài 354 — các thành phần biệt lập (обособленные члены); bài 355 — câu một thành phần (односоставные предложения); bài 356 — trật tự từ (phân đoạn thực tại của câu)."
+    },
+    {
+     "t": "para",
+     "text": "Các bài 346–354 và 356 có đáp án của sách (nút «Xem đáp án» dưới mỗi bài). Bài 345 và 355 là bài tự luận — hãy tự làm rồi đối chiếu với phần lý thuyết của các chủ đề tương ứng (gra-14 … gra-22)."
+    }
+   ]
+  },
+  {
+   "id": "gra-23-s002",
+   "type": "exercise",
+   "title": "Упражнение 345",
+   "num": 345,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Mở ngoặc, dùng các từ in nghiêng (cho trong ngoặc) ở cách (падеж) thích hợp, có hoặc không có giới từ. Xác định trong câu chúng tương ứng với chủ ngữ (подлежащее) hay chủ thể (субъект). Giải thích lựa chọn của bạn, nêu các phương án có thể. Sau khi làm xong, hãy tìm trong văn bản các câu một thành phần (односоставные предложения) và xác định ý nghĩa của chúng."
+    },
+    {
+     "t": "para",
+     "text": "С са́мого утра́ (я) ста́ла му́чить кака́я-то удиви́тельная тоска́. (Я) вдруг показа́лось, что меня́, одино́кого, (все) покида́ют и что все от меня́ отступа́ются. Оно́, коне́чно, (вся́кий) впра́ве спроси́ть: кто же э́ти все? Потому́ что вот уже́ во́семь лет, как (я) живу́ в Петербу́рге, и почти́ ни одного́ знако́мства не уме́л завести́. Но к чему́ (я) знако́мства? (Я) и без того́ знако́м весь Петербу́рг; вот почему́ (я) и показа́лось, что меня́ все покида́ют, когда́ (весь Петербу́рг) подня́лся и вдруг уе́хал на да́чу. (Я) стра́шно ста́ло остава́ться одному́, и це́лых три дня (я) броди́л по го́роду в глубо́кой тоске́, реши́тельно не понима́я, что (я) де́лается.\n(Dịch: Từ sáng sớm, một nỗi buồn kỳ lạ nào đó bắt đầu giày vò (tôi). (Tôi) bỗng cảm tưởng rằng (mọi người) đều bỏ tôi — kẻ cô độc — mà đi, rằng ai cũng xa lánh tôi. Hẳn nhiên, (bất kỳ ai) cũng có quyền hỏi: «mọi người» ấy là những ai? Bởi đã tám năm nay (tôi) sống ở Peterburg mà hầu như chẳng tạo nổi một mối quen biết nào. Nhưng (tôi) cần quen biết để làm gì? Không cần thế (tôi) cũng quen cả Peterburg rồi; chính vì vậy (tôi) mới có cảm giác cả thiên hạ bỏ rơi mình, khi (cả Peterburg) bỗng nhổ neo kéo nhau về nhà nghỉ ngoại ô. (Tôi) thấy sợ phải ở lại một mình, và suốt ba ngày liền (tôi) lang thang khắp thành phố trong nỗi sầu muộn sâu thẳm, hoàn toàn không hiểu điều gì đang xảy ra với (tôi).)"
+    },
+    {
+     "t": "para",
+     "text": "Пойду́ ли на Не́вский, пойду́ ли в сад, брожу́ ли по на́бережной — ни одного́ лица́ из тех, кого́ привы́к встреча́ть в том же ме́сте, в изве́стный час це́лый год. (Они́), коне́чно, не зна́ют меня́, да (я́-то) их зна́ю. (Я) ко́ротко их зна́ю; я почти́ изучи́л их физионо́мии — и любу́юсь на них, когда́ они́ веселы́, и хандрю́, когда́ они́ затума́нятся.\n(Dịch: Dù ra đại lộ Nevsky, vào vườn hoa hay thơ thẩn dọc bờ sông — chẳng gặp một gương mặt nào trong số những người mà cả năm trời tôi vẫn quen gặp đúng nơi ấy, đúng giờ ấy. (Họ) dĩ nhiên không biết tôi, nhưng (tôi) thì biết họ. (Tôi) biết họ tường tận; tôi gần như thuộc lòng diện mạo của họ — tôi vui ngắm họ khi họ tươi tỉnh, và buồn rầu khi họ u ám.)"
+    },
+    {
+     "t": "para",
+     "text": "(Я) почти́ свёл дру́жбу с одни́м старичко́м, кото́рого встреча́ю ка́ждый бо́жий день, в изве́стный час, на Фонта́нке. (Физионо́мия) така́я ва́жная, заду́мчивая; всё ше́пчет под нос и маха́ет ле́вой руко́й, а в пра́вой (он) дли́нная сучкова́тая трость с золоты́м набалда́шником. Да́же (он) заме́тил меня́ и принима́ет во мне душе́вное уча́стие. Случи́сь, что (я) не бу́ду в изве́стный час на том же ме́сте Фонта́нки, (я) уве́рен, что на него́ нападёт (хандра́). Вот отчего́ (мы) иногда́ чуть не кла́няемся друг с дру́гом, осо́бенно когда́ (о́ба) в хоро́шем расположе́нии ду́ха. Наме́дни, когда́ (мы) не вида́лись це́лые два дня и на тре́тий день встре́тились, (мы) уже́ бы́ло и схвати́лись за шля́пы, да бла́го опо́мнились во́время, опусти́ли ру́ки и с уча́стием прошли́ друг по́дле дру́га.\n(Dịch: (Tôi) gần như đã kết bạn với một ông cụ mà ngày nào tôi cũng gặp, vào một giờ nhất định, trên bờ sông Fontanka. (Gương mặt cụ) thật trang trọng, tư lự; cụ luôn lẩm bẩm điều gì đó và vung vẩy tay trái, còn trong tay phải (cụ) là cây gậy dài xù xì có núm bịt vàng. Ngay cả (cụ) cũng để ý đến tôi và dành cho tôi sự quan tâm chân tình. Nếu chẳng may đến giờ ấy (tôi) không có mặt ở chỗ cũ trên bờ Fontanka, (tôi) tin chắc rằng (nỗi buồn chán) sẽ ập xuống cụ. Vì thế đôi khi (chúng tôi) suýt nữa thì cúi chào nhau, nhất là khi (cả hai) đều đang vui vẻ. Hôm nọ, khi (chúng tôi) hai ngày liền không thấy nhau, sang ngày thứ ba vừa gặp, (chúng tôi) đã toan nhấc mũ chào, may mà kịp định thần, buông tay xuống và đầy thiện cảm đi ngang qua nhau.)"
+    },
+    {
+     "t": "para",
+     "text": "(Я) то́же и дома́ знако́мы. Когда́ (я) иду́, (ка́ждый) как бу́дто забега́ет вперёд меня́ на у́лицу, гляди́т на меня́ во все о́кна и чуть не говори́т: «Здра́вствуйте, как ва́ше здоро́вье? И (я), сла́ва бо́гу, здоро́в, а (я) в ма́е ме́сяце приба́вят эта́ж». И́ли: «Как ва́ше здоро́вье? А (я) за́втра в почи́нку». И́ли: «(Я) чуть не сгоре́л и прито́м испуга́лся» и т. д. Из них (я) есть люби́мцы, есть коро́ткие прия́тели; оди́н из них наме́рен лечи́ться э́тим ле́том у архите́ктора. Наро́чно бу́ду заходи́ть ка́ждый день, чтоб не залечи́ли ка́к-нибудь, сохрани́ его́ го́споди!..\n(Dịch: Cả những ngôi nhà (tôi) cũng quen. Khi (tôi) đi ngang, (mỗi ngôi nhà) như thể chạy ùa ra phố trước tôi, đưa hết các ô cửa sổ nhìn tôi và gần như cất tiếng: «Chào ông, ông có khỏe không? Còn (tôi), đội ơn Chúa, vẫn khỏe, tháng Năm này (tôi) sẽ được xây thêm một tầng». Hoặc: «Ông có khỏe không? Còn (tôi) mai phải vào đợt sửa chữa». Hoặc: «(Tôi) suýt bị cháy, sợ hết cả hồn» v.v. Trong số ấy (tôi) có những «cục cưng», những bạn thân; một anh bạn hè này định chữa bệnh ở chỗ kiến trúc sư. Tôi sẽ cố tình ghé qua mỗi ngày, kẻo người ta «chữa» hỏng mất anh ấy, lạy Chúa che chở!..)"
+    },
+    {
+     "t": "para",
+     "text": "Но никогда́ не забу́ду исто́рии с одни́м прехоро́шеньким све́тло-ро́зовым до́миком. Э́то был (тако́й ми́ленький ка́менный до́мик), так приве́тливо смотре́л на меня́, так гордели́во смотре́л на свои́х неуклю́жих сосе́дей, что (моё се́рдце) ра́довалось, когда́ (я) случа́лось проходи́ть ми́мо. Вдруг, на про́шлой неде́ле, (я) прохожу́ по у́лице и, как посмотре́л на прия́теля — слы́шу жа́лобный крик: «А меня́ кра́сят в жёлтую кра́ску!» Злоде́и! Ва́рвары! (Они́) не пощади́ли ничего́: ни коло́нн, ни карни́зов, и (мой прия́тель) пожелте́л, как канаре́йка. (Я) чуть не разлила́сь желчь по э́тому слу́чаю, и (я) ещё до сих по́р не в си́лах был повида́ться с изуро́дованным мои́м бедняко́м, кото́рого раскра́сили под цвет Поднебе́сной импе́рии (Ф. Достое́вский. «Бе́лые но́чи»).\n(Dịch: Nhưng tôi sẽ không bao giờ quên câu chuyện về một ngôi nhà nhỏ màu hồng nhạt xinh xắn. Đó là (một ngôi nhà gạch dễ thương) đến thế, nhìn tôi niềm nở đến thế, nhìn đám hàng xóm thô kệch của nó kiêu hãnh đến thế, khiến (trái tim tôi) reo vui mỗi khi (tôi) tình cờ ngang qua. Thế rồi tuần trước, (tôi) đang đi trên phố, vừa đưa mắt nhìn anh bạn — thì nghe tiếng kêu ai oán: «Người ta đang sơn tôi màu vàng!» Quân ác độc! Lũ man rợ! (Họ) chẳng nương tay với bất cứ thứ gì: cột không, phào chỉ cũng không, và (anh bạn tôi) vàng khè ra như con hoàng yến. (Tôi) suýt nữa thì sôi mật vì chuyện ấy, và đến tận giờ (tôi) vẫn chưa đủ sức đến nhìn lại anh bạn tội nghiệp đã bị làm cho biến dạng, bị quét sơn thành màu của «Thiên triều» (F. Dostoevsky. «Đêm trắng»).)"
+    }
+   ]
+  },
+  {
+   "id": "gra-23-s003",
+   "type": "exercise",
+   "title": "Упражнение 346",
+   "num": 346,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Đọc các tục ngữ, ngạn ngữ Nga. Thay chỗ ba chấm bằng chủ thể (субъект) thích hợp về nghĩa, đặt ở cách (падеж) cần thiết. Giải thích cách giải của bạn."
+    },
+    {
+     "t": "para",
+     "text": "1. Вся́кому … своё вре́мя (Rau nào mùa nấy — việc gì cũng có thời điểm của nó); 2. … — большо́е пла́ванье (Tàu lớn thì hải trình lớn — người tài ắt làm nên nghiệp lớn); 3. … и ка́рты в ру́ки (Ai thạo việc thì người ấy ra tay); 4. Вот …, ба́бушка, и Ю́рьев день (Thế là hết trông mong, bà ơi — nói khi hy vọng bất ngờ sụp đổ); 5. … своё сча́стье (Mỗi người có phần phúc của riêng mình); 6. … игру́шки, а … слёзки (Mèo thì đùa vui, mà chuột thì đổ lệ); 7. … во́ля, … рай (Người tự do cứ tùy ý, kẻ được cứu rỗi có thiên đường — ai muốn làm gì thì tùy); 8. … мо́ре по коле́но, а лу́жа — по́ уши (Kẻ say thì biển sâu chỉ đến đầu gối, còn vũng nước lại ngập đến mang tai)."
+    }
+   ]
+  },
+  {
+   "id": "gra-23-s004",
+   "type": "exercise",
+   "title": "Упражнение 347",
+   "num": 347,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Mở ngoặc, đặt động từ ở dạng thích hợp. Giải thích lựa chọn của bạn, nêu các phương án có thể."
+    },
+    {
+     "t": "para",
+     "text": "а) Я где́-то (чита́ть) и́ли да́же (слы́шать) по ра́дио, что ра́дость и го́ре (объединя́ть) люде́й. Коне́чно, (доста́вить) ра́дость трудне́е, чем го́ре. Что́бы (обра́довать) челове́ка, (сде́лать) его́ счастли́вым, на́до (потруди́ться, поиска́ть, постара́ться). А (испо́ртить) настрое́ние ле́гче всего́! Но не (хоте́ться)... И я реши́л (нача́ть) с ра́дости.\n(Dịch: Tôi từng (đọc) ở đâu đó, hay thậm chí (nghe) trên đài, rằng niềm vui và nỗi buồn (gắn kết) con người. Dĩ nhiên, (mang lại) niềm vui khó hơn là gây ra nỗi buồn. Muốn (làm vui lòng) một người, (làm cho) người ấy hạnh phúc, cần phải (bỏ công, tìm tòi, cố gắng). Còn (làm hỏng) tâm trạng thì dễ nhất trần đời! Nhưng chẳng (muốn) thế... Và tôi quyết định (bắt đầu) từ niềm vui.)"
+    },
+    {
+     "t": "para",
+     "text": "б) (Говори́ть), что любо́вь облагора́живает челове́ка. С того́ дня, как я (полюби́ть), мне всё вре́мя приходи́лось кому́-нибудь (врать). Я (де́лать) э́то не наро́чно. Про́сто мне (задава́ть) вопро́сы, на кото́рые я не мог (отве́тить) че́стно. «Почему́ ты сто́лько вре́мени (уделя́ть) причёске? И руба́шки стал (меня́ть) чуть ли не ка́ждый день?» — «У нас в шко́ле (рабо́тать) санита́рная коми́ссия». «О чём ты всё вре́мя (ду́мать)? У тебя́ отсу́тствующие глаза́. И́з-за чего́ ты (вздыха́ть)?» — «И́з-за отме́ток... У меня́ (появи́ться) дво́йки». «Их же не́ было! Отку́да они́?»\n(Dịch: (Người ta nói) rằng tình yêu làm con người cao thượng hơn. Thế mà từ ngày tôi (yêu), tôi cứ liên tục phải (nói dối) ai đó. Tôi (làm) vậy không cố ý. Chỉ là người ta (đặt) cho tôi những câu hỏi mà tôi không thể (trả lời) thành thật. «Sao con (dành) lắm thời gian cho đầu tóc thế? Áo sơ mi thì gần như ngày nào cũng (thay)?» — «Trường con (có) ủy ban kiểm tra vệ sinh ạ». «Con cứ (nghĩ) gì suốt thế? Mắt con cứ để tận đâu đâu. Con (thở dài) vì cái gì?» — «Vì điểm số ạ... Con (bị) mấy điểm hai». «Làm gì có! Ở đâu ra thế?»)"
+    },
+    {
+     "t": "para",
+     "text": "в) На после́днем уро́ке Анто́н (получи́ть) тро́йку по фи́зике. Он (знать) всё прекра́сно, но он (смуща́ться). «Тебе́ бы лу́чше (отвеча́ть) по́сле уро́ков, оди́н на оди́н с учи́телем. Ты бы тогда́ не (теря́ться)!» — (утеша́ть) я своего́ дру́га. — «И не на́до (выходи́ть) к доске́, а пря́мо со своего́ ме́ста...»\n(Dịch: Giờ học cuối, Anton (bị) điểm ba môn vật lý. Cậu ấy (biết) bài rất rõ, nhưng cậu (ngượng ngùng). «Cậu nên (trả lời) sau giờ học, một mình với thầy thì hơn. Khi ấy cậu sẽ không (luống cuống)!» — tôi (an ủi) bạn mình. — «Và không cần (lên) bảng, cứ trả lời ngay tại chỗ...»)"
+    },
+    {
+     "t": "para",
+     "text": "г) Вперёд (вы́йти) председа́тель сове́та ла́геря Лю́ба Янке́вич — длинноно́гая и нескла́дная с ви́ду де́вочка, кото́рая всегда́ (каза́ться) вы́росшей из свои́х пла́тьев, (стесня́ться) э́того и (пря́тать) смуще́ние за нарочи́той серьёзностью. Она́ объяви́ла: «Мы тут, на сове́те, (поду́мать) и (реши́ть) ничего́ вам не (подска́зывать)... Ка́ждый сам (дать) конкре́тное зада́ние своему́ това́рищу на це́лый год» (А. Але́ксин).\n(Dịch: (Bước ra) phía trước là Lyuba Yankevich, hội trưởng hội đồng trại hè — cô bé chân dài, dáng vẻ lóng ngóng, lúc nào cũng (có vẻ) như mặc chiếc váy đã chật, (ngượng) vì điều đó và (giấu) sự lúng túng sau vẻ nghiêm nghị cố ý. Cô bé tuyên bố: «Chúng tớ ở hội đồng đã (suy nghĩ) và (quyết định) sẽ không (gợi ý) gì cho các cậu cả... Mỗi người hãy tự (giao) cho bạn mình một nhiệm vụ cụ thể cho cả năm» (A. Aleksin).)"
+    }
+   ]
+  },
+  {
+   "id": "gra-23-s005",
+   "type": "exercise",
+   "title": "Упражнение 348",
+   "num": 348,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Mở ngoặc, dùng các danh từ và đại từ in nghiêng ở cách 3 (дательный), cách 2 (родительный) hoặc cách 6 (предложный), có hoặc không có giới từ. Giải thích lựa chọn của bạn, nêu các phương án có thể."
+    },
+    {
+     "t": "note",
+     "text": "Gợi ý ôn tập: chủ thể (субъект) có thể đứng ở cách 3 (Мне хо́лодно — Tôi thấy lạnh), cách 2 với у (У меня́ есть… — Tôi có…), hoặc cách 6 với в/на khi chỉ nơi chốn–trạng thái (В го́роде беспоря́дки — Trong thành phố lộn xộn). Xem lý thuyết gra-14."
+    },
+    {
+     "t": "para",
+     "text": "1. (Я) не везёт с друзья́ми (Tôi không gặp may về đường bạn bè); 2. (Ба́бушка) вчера́ бы́ло пло́хо (Hôm qua bà thấy khó ở); 3. (Она́) тре́тий день на́сморк (Cô ấy sổ mũi sang ngày thứ ba rồi); 4. (Дворе́ц спо́рта) но́вое ледо́вое шо́у (Ở Cung thể thao có chương trình biểu diễn trên băng mới); 5. (Альпини́сты) вчера́ был неуда́чный день (Hôm qua là một ngày không may của các nhà leo núi); 6. (Дома́шние живо́тные) одни́ хло́поты (Nuôi thú cảnh chỉ toàn những lo toan); 7. Не волну́йся, (я) всё в поря́дке (Đừng lo, tôi vẫn ổn cả); 8. Сего́дня (они́) свобо́дный день (Hôm nay họ được ngày nghỉ); 9. (Шко́ла) ремо́нт (Ở trường đang sửa chữa); 10. (Они́) есть жела́ние рабо́тать (Họ có mong muốn làm việc); 11. (О́тпуск) пробле́мы (Chuyện nghỉ phép đang trục trặc); 12. (Твой знако́мый) всё благополу́чно (Chỗ người quen của cậu mọi việc đều ổn thỏa); 13. (Экза́мены) заде́ржка (Kỳ thi có trục trặc, bị hoãn lại); 14. (Се́рдце) пло́хо (Tim không được ổn); 15. (Телефо́нная бу́дка) нет спра́вочника абоне́нтов (Trong bốt điện thoại không có danh bạ thuê bao); 16. (Мо́ре) шторм (Ngoài biển đang có bão); 17. (Они́) всё шу́точки (Với họ cái gì cũng chỉ là chuyện đùa); 18. (Виски́) си́льная боль (Hai bên thái dương đau dữ dội); 19. (Ре́ктор) сего́дня приёмный день (Hôm nay là ngày tiếp khách của hiệu trưởng); 20. (Душа́) тя́жесть (Trong lòng nặng trĩu); 21. (Он) есть и хоро́шее, и плохо́е (Ở anh ấy có cả mặt tốt lẫn mặt xấu); 22. (Го́ры) сне́жные лави́ны (Trên núi có tuyết lở); 23. (Перекрёсток) шум и гам (Ở ngã tư ồn ào huyên náo); 24. (У́лица) тепло́ и со́лнечно (Ngoài trời ấm áp và đầy nắng); 25. Не бери́ его́ с собо́й, (он) одни́ неприя́тности (Đừng đem cậu ta theo, cậu ta chỉ toàn gây chuyện phiền toái); 26. Со вчера́шнего дня (я) анги́на (Từ hôm qua tôi bị viêm họng)."
+    }
+   ]
+  },
+  {
+   "id": "gra-23-s006",
+   "type": "exercise",
+   "title": "Упражнение 349",
+   "num": 349,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Mở ngoặc, dùng các động từ ở dạng thích hợp: hoặc nối bằng liên từ и, hoặc đặt ở cùng một dạng không có liên từ, hoặc dùng làm vị ngữ động từ phức hợp (составное глагольное сказуемое). Giải thích lựa chọn của bạn, nêu các phương án có thể."
+    },
+    {
+     "t": "note",
+     "text": "Ba khả năng: (1) hai hành động ngang hàng nối bằng и — останови́лся и сви́стнул; (2) hai động từ cùng dạng không liên từ — легла́ спать; (3) vị ngữ động từ phức hợp: động từ pha/tình thái + nguyên thể — собра́лся позвони́ть."
+    },
+    {
+     "t": "para",
+     "text": "1. На одно́м из поворо́тов он кру́то (останови́ться, сви́стнуть) (Đến một khúc quanh, anh ta dừng phắt lại và huýt sáo); 2. Он (постара́ться, предста́вить) себе́, в каку́ю и́менно причу́дливую фо́рму вы́льется гнев вспы́льчивого прокура́тора при э́той неслы́ханной де́рзости аресто́ванного (Ông ta cố hình dung cơn giận của quan tổng trấn nóng nảy sẽ trút ra dưới hình thù kỳ quái nào trước sự xấc xược chưa từng thấy ấy của kẻ bị bắt); 3. Нарыда́вшись вдо́воль, Коро́вьев отлепи́лся наконе́ц от сте́нки и вы́молвил: «Нет, не могу́ бо́льше! (Пойти́, приня́ть) три́ста ка́пель эфи́рной валерья́нки!» (Khóc lóc đã đời xong, Korovyev rốt cuộc rời khỏi bức tường và thốt lên: «Không, tôi chịu hết nổi rồi! Tôi đi uống ba trăm giọt nữ lang đây!»); 4. Ри́мский (постара́ться, изобрази́ть) на лице́ улы́бку, от чего́ оно́ сде́лалось ки́слым и злым (Rimsky cố nặn ra trên mặt một nụ cười, khiến nó trở nên chua loét và dữ tợn); 5. И, заручи́вшись во сне кивко́м иду́щего ря́дом с ним ни́щего из Эн-Сари́да, жесто́кий прокура́тор Иуде́и от ра́дости (пла́кать, смея́ться) во сне (Và, được người hành khất xứ En-Sarid đi bên cạnh gật đầu xác nhận trong mơ, quan tổng trấn Giudea tàn bạo vừa khóc vừa cười trong giấc ngủ vì mừng rỡ); 6. Рука́ Кузьмина́ легла́ на телефо́н, и он (собра́ться, позвони́ть) своему́ одноку́рснику Буре́ (Bàn tay Kuzmin đặt lên máy điện thoại, và ông định gọi cho Bure, người bạn học cùng khóa); 7. Оста́вшаяся одна́ Анфи́са, напла́кавшись вво́лю, (лечь, спать) во второ́м часу́ но́чи (Còn lại một mình, Anfisa khóc cho thỏa rồi đi nằm lúc hơn một giờ đêm); 8. Она́ оска́лилась от я́рости, что́-то ещё говори́ла невня́тно. Зате́м, сжав гу́бы, она́ (приня́ться, собира́ть, расправля́ть) обгоре́вшие листы́ (Bà ta nhe răng giận dữ, còn lẩm bẩm điều gì không rõ. Rồi mím môi, bà bắt tay vào nhặt nhạnh và vuốt phẳng những tờ giấy cháy dở); 9. Ле́вий, защища́ясь от бью́щей в лицо́ пы́ли руко́й, отплёвываясь, (стара́ться, сообрази́ть), что бы э́то зна́чило, что кавале́рия (собира́ться, уходи́ть)? (Levi, một tay che bụi táp vào mặt, vừa nhổ phì phì vừa cố hiểu xem điều đó nghĩa là gì: chẳng lẽ kỵ binh sắp rút đi?); 10. Не́сколько раз он (пыта́ться, подня́ться), но но́ги его́ не слу́шались (Mấy lần ông ta cố gượng dậy, nhưng đôi chân không chịu nghe lời); 11. «Нет, не в си́лах, нет мо́чи, — шмы́гая но́сом, продолжа́л Коро́вьев, — как вспо́мню: колесо́ по ноге́... одно́ колесо́ пудо́в де́сять ве́сит... Хрусть! (Пойти́, лечь) в посте́ль, забу́дусь сном», — и тут он исче́з из пере́дней («Không, không còn sức, hết chịu nổi rồi, — Korovyev vừa sụt sịt vừa tiếp, — hễ nhớ lại: bánh xe đè lên chân... riêng một bánh nặng chừng chục pud... Rắc! Tôi đi nằm đây, ngủ thiếp đi cho quên», — và hắn biến mất khỏi phòng ngoài); 12. Маргари́та (попро́бовать, огляде́ться) (Margarita thử đưa mắt nhìn quanh); 13. — Не отвеча́ет кварти́ра, — сказа́л Варену́ха, кладя́ тру́бку на рыча́г, — (попро́бовать, позвони́ть) ещё... (— Căn hộ không trả lời, — Varenukha nói, đặt ống nghe xuống, — để tôi thử gọi thêm lần nữa...); 14. Ге́лла несла́ чемода́н, в кото́ром был рома́н и небольшо́е иму́щество Маргари́ты Никола́евны, а кот помога́л Ге́лле. У двере́й кварти́ры Коро́вьев (раскла́няться, исче́знуть), а остальны́е (пойти́, провожа́ть) по ле́стнице (Ghella xách chiếc va li đựng cuốn tiểu thuyết và chút tài sản của Margarita Nikolaevna, con mèo thì giúp Ghella. Đến cửa căn hộ, Korovyev cúi chào rồi biến mất, những người còn lại đi theo tiễn xuống cầu thang); 15. Маргари́та вздохну́ла, (стать, поднима́ться) без по́мощи Азазе́лло, (сесть, спроси́ть): «За что, Азазе́лло, за что? Что вы сде́лали со мно́ю?» (Margarita thở dài, tự gượng đứng dậy không cần Azazello đỡ, ngồi xuống và hỏi: «Vì sao, Azazello, vì sao? Các người đã làm gì tôi?»); 16. Он уже́ (собра́ться, шагну́ть) на ре́льсы, как в лицо́ ему́ бры́знул кра́сный и бе́лый свет: загоре́лась в стекля́нном я́щике на́дпись «Береги́сь трамва́я!» (Anh ta đã toan bước lên đường ray thì ánh đèn đỏ và trắng táp vào mặt: dòng chữ «Coi chừng tàu điện!» bừng sáng trong hộp kính); 17. Ареста́нт же тем вре́менем продолжа́л свою́ речь, но секрета́рь ничего́ бо́лее не запи́сывал, а то́лько, вы́тянув ше́ю, как гусь, (стара́ться, не пророни́ть) ни одного́ сло́ва (Trong lúc đó người tù vẫn tiếp tục nói, nhưng viên thư lại không ghi gì thêm nữa, chỉ vươn cổ như con ngỗng, cố không bỏ sót một lời nào); 18. «Ах нет, нет, — отве́тила Ни́за и капри́зно вы́ставила вперёд ни́жнюю губу́, отчего́ Иу́де показа́лось, что её лицо́, са́мое краси́вое лицо́, како́е он когда́-либо ви́дел в жи́зни, ста́ло ещё краси́вее, — мне ста́ло ску́чно. У вас пра́здник, а что же прика́жешь де́лать мне? (Сиде́ть, слу́шать), как ты вздыха́ешь на терра́се?» («Ồ không, không, — Niza đáp và õng ẹo trề môi dưới ra, khiến Iuda thấy gương mặt nàng — gương mặt đẹp nhất chàng từng thấy trong đời — càng đẹp hơn, — em thấy chán rồi. Các người có hội hè, còn em thì biết làm gì? Ngồi mà nghe anh thở dài ngoài sân thượng chắc?»)."
+    }
+   ]
+  },
+  {
+   "id": "gra-23-s007",
+   "type": "exercise",
+   "title": "Упражнение 350",
+   "num": 350,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Thay chỗ ba chấm trong vị ngữ động từ phức hợp bằng các trợ động từ, tính từ ngắn đuôi và phân từ, trạng từ hoặc cụm thành ngữ thích hợp về nghĩa. Giải thích lựa chọn của bạn, nêu các phương án có thể."
+    },
+    {
+     "t": "note",
+     "text": "Cần điền các từ tình thái như до́лжен, мо́жет, нельзя́, при́нято, хо́чет, гото́в, пыта́ться, име́ть пра́во… trước động từ nguyên thể. Các câu trích từ П. Вайль, А. Ге́нис «Родна́я речь. Уро́ки изя́щной слове́сности» — văn phê bình văn học, hãy đọc kỹ ngữ cảnh."
+    },
+    {
+     "t": "para",
+     "text": "1. Кто́-то реши́л, что нау́ка … быть непреме́нно ску́чной (Ai đó đã quyết rằng khoa học […] nhất thiết phải tẻ nhạt); 2. … бы́ло не заме́тить, что Пьер Безу́хов и Па́вел Корча́гин — геро́и ра́зных рома́нов. На э́том противоре́чии выраста́ли поколе́ния тех, кто … сохрани́ть ске́псис и иро́нию в ма́ло приспосо́бленном для э́того о́бществе ([Không thể] không nhận thấy rằng Pierre Bezukhov và Pavel Korchagin là nhân vật của những cuốn tiểu thuyết khác nhau. Trên mâu thuẫn ấy đã lớn lên bao thế hệ những người […] giữ được lòng hoài nghi và sự mỉa mai trong một xã hội chẳng mấy thích hợp cho điều đó); 3. Одна́ко диале́ктика жи́зни ведёт к тому́, что твёрдо усво́енное в шко́ле преклоне́ние перед кла́ссикой … ви́деть в ней живу́ю слове́сность (Thế nhưng phép biện chứng của đời sống dẫn đến chỗ: lòng sùng kính kinh điển học thuộc từ ghế nhà trường […] nhìn thấy ở đó một nền văn chương sống động); 4. Коне́чно, мы не … сказа́ть что́-то суще́ственно но́вое о предме́те, занима́вшем поколе́ния лу́чших умо́в Росси́и. Мы про́сто … поговори́ть о са́мых бу́рных и инти́мных собы́тиях свое́й жи́зни — ру́сских кни́гах (Dĩ nhiên chúng tôi không […] nói được điều gì mới mẻ đáng kể về đề tài từng choán tâm trí bao thế hệ trí tuệ ưu tú nhất của nước Nga. Chúng tôi chỉ […] trò chuyện về những sự kiện sôi nổi và riêng tư nhất của đời mình — những cuốn sách Nga); 5. Да́же само́ сло́во «не́доросль» воспринима́ется не так, как заду́мано а́втором коме́дии. Во времена́ Фонви́зина э́то бы́ло соверше́нно определённое поня́тие: так называ́лись дворя́не, не получи́вшие до́лжного образова́ния, кото́рым поэ́тому … бы́ло вступа́ть в слу́жбу и жени́ться (Ngay chữ «недоросль» cũng không còn được hiểu như tác giả vở hài kịch dự liệu. Thời Fonvizin, đó là một khái niệm hoàn toàn xác định: tên gọi những quý tộc chưa nhận được học vấn cần thiết, vì thế […] vào quan trường và cưới vợ); 6. Фонви́зина … относи́ть к тради́ции классици́зма. Э́то ве́рно, и об э́том свиде́тельствуют да́же са́мые пове́рхностные, с пе́рвого взгля́да заме́тные дета́ли: наприме́р, имена́ персона́жей. Ми́лон — краса́вчик, Пра́вдин — челове́к и́скренний, Скоти́нин — поня́тно (Người ta […] xếp Fonvizin vào truyền thống chủ nghĩa cổ điển. Điều đó đúng, và bằng chứng là cả những chi tiết bề ngoài nhất, dễ thấy ngay: chẳng hạn tên các nhân vật. Milon — chàng đẹp trai, Pravdin — người ngay thẳng, Skotinin — khỏi cần giải thích); 7. Хоть парадо́ксы и дви́гают мысль, в созна́нии закрепля́ются то́лько бана́льные и́стины. Когда́ обнару́жилось, что су́мма угло́в треуго́льника не всегда́ равна́ 180 гра́дусам, а паралле́льные прямы́е мо́гут и пересе́чься — обра́доваться … лишь извращённые интеллектуа́лы. Норма́льного челове́ка э́ти но́вости … раздража́ть, как бесцеремо́нное вторже́ние в нала́женный у́мственный быт (Dù nghịch lý thúc đẩy tư duy, trong ý thức chỉ những chân lý tầm thường mới bám rễ. Khi người ta phát hiện tổng các góc của tam giác không phải lúc nào cũng bằng 180 độ, còn hai đường thẳng song song cũng có thể cắt nhau — thì chỉ những trí thức «lệch chuẩn» mới […] vui mừng. Còn với người bình thường, những tin tức ấy […] gây bực bội, như một sự xâm phạm sỗ sàng vào nếp nghĩ đã yên ổn); 8. Хва́статься и врать … — поуча́ет Крыло́в в ба́сне про сини́цу, кото́рая грози́ла подже́чь мо́ре (Khoe khoang và nói dối là […] — Krylov răn dạy trong bài ngụ ngôn về con chim sẻ ngô dọa đốt cháy biển); 9. Ради́щев — не писа́тель. Он — родонача́льник, первооткрыва́тель, основополо́жник того́, что … называ́ть ру́сским революцио́нным движе́нием. С него́ начина́ется дли́нная цепо́чка росси́йского диссиде́нтства (Radishchev không phải là nhà văn. Ông là người khởi đầu, người khai phá, người đặt nền móng cho cái mà […] gọi là phong trào cách mạng Nga. Từ ông bắt đầu chuỗi dài những người bất đồng chính kiến của nước Nga); 10. Оди́н из гла́вных вопро́сов росси́йского обще́ственного созна́ния … сформули́ровать так: глуп и́ли умён Ча́цкий? Челове́к, противопоста́вивший себя́ о́бществу, — а сюже́т «Го́ря от ума́» на э́том и постро́ен — … осозна́ть свою́ нелёгкую, но че́стную ми́ссию. Пустозво́нство же Ча́цкого — раздража́ет (Một trong những câu hỏi chính của ý thức xã hội Nga […] phát biểu như sau: Chatsky ngu hay khôn? Con người tự đặt mình đối lập với xã hội — mà cốt truyện «Khổ vì trí tuệ» xây trên chính điều đó — […] ý thức được sứ mệnh không dễ dàng nhưng trung thực của mình. Đằng này thói ba hoa của Chatsky chỉ gây khó chịu); 11. Бели́нский: «Ча́цкий … испра́вить о́бщество от его́ глу́постей: и чем же? свои́ми со́бственными глу́постями, рассужда́я с глупца́ми и неве́ждами о „высо́ком и прекра́сном“» (Belinsky: «Chatsky […] sửa cho xã hội hết những điều ngu xuẩn của nó: mà bằng gì? bằng chính những điều ngu xuẩn của mình, khi đi bàn luận với lũ ngốc và đám vô học về những điều „cao cả và tuyệt mỹ“»); 12. Следи́ть за эволю́цией Пу́шкина, за ро́стом его́ ге́ния … приобща́ться к та́йне образцо́вой жи́зни. Почу́вствовав свою́ власть над ми́ром, свою́ спосо́бность вдохну́ть в него́ жизнь, Пу́шкин … интересова́ться пре́жним, бо́лее у́зким понима́нием свобо́ды (Dõi theo sự tiến hóa của Pushkin, sự trưởng thành thiên tài của ông […] được chạm vào bí mật của một cuộc đời mẫu mực. Khi đã cảm nhận được quyền năng của mình đối với thế giới, khả năng thổi sự sống vào nó, Pushkin […] quan tâm đến cách hiểu tự do trước kia, hẹp hơn); 13. Зва́ние «ру́сского певца́» … Пу́шкину упрека́ть За́пад: «И на́шей кро́вью искупи́ли Евро́пы во́льность, честь и мир». Когда́-то поэ́т … был за во́льность пролива́ть свою́ кровь (Danh hiệu «người ca sĩ Nga» […] Pushkin trách móc phương Tây: «Và bằng máu mình chúng tôi đã chuộc lấy tự do, danh dự và hòa bình cho châu Âu». Thuở nào nhà thơ […] đổ máu mình vì tự do); 14. Хотя́ стиль Бели́нского определя́л его́ успе́х, амби́ции кри́тика шли да́льше. Ему́ не хвата́ло фундамента́льной конце́пции, на ба́зе кото́рой он … бы стро́ить конкре́тный ана́лиз. Поэ́тому Бели́нский … созда́ть э́тот фунда́мент по хо́ду де́ла, прибавля́я к ка́ждой статье́ це́лую эстети́ческую систе́му (Dù văn phong của Belinsky làm nên thành công của ông, tham vọng của nhà phê bình còn đi xa hơn. Ông thiếu một quan niệm nền tảng để trên cơ sở đó […] xây dựng những phân tích cụ thể. Vì thế Belinsky […] tạo dựng cái nền móng ấy ngay trong khi viết, gắn vào mỗi bài báo cả một hệ thống mỹ học); 15. Го́голь с наслажде́нием опи́сывает свою́ Русь, где та́йна заключена́ во всём, где ничего́ … объясни́ть до конца́, где жи́знью управля́ет абсу́рд, неле́пица (Gogol thích thú mô tả nước Nga của mình, nơi bí ẩn ẩn chứa trong vạn vật, nơi chẳng có gì […] giải thích đến cùng, nơi cuộc sống bị cái phi lý, cái ngớ ngẩn chi phối); 16. Уто́пия Обло́мова — э́то мир, вы́шедший из исто́рии, мир насто́лько прекра́сный, что его́ … улучша́ть. А зна́чит — мир, лишённый це́ли (Xứ không tưởng của Oblomov là một thế giới đã bước ra khỏi lịch sử, một thế giới đẹp đến mức […] cải thiện nó. Nghĩa là — một thế giới không có mục đích); 17. … предположи́ть, что, полага́я литерату́ру «уче́бником жи́зни», Черныше́вский счита́л занима́тельность ва́жным ка́чеством хоро́шего уче́бника. Он … писа́ть так, что́бы бы́ло интере́сно чита́ть — отсю́да прете́нзии на непринуждённость и шутли́вость то́на, порожда́ющие ирони́ческий сдвиг в отноше́нии а́втора к геро́ям ([Có thể] giả định rằng, khi coi văn học là «sách giáo khoa của cuộc đời», Chernyshevsky xem tính hấp dẫn là phẩm chất quan trọng của một cuốn sách giáo khoa tốt. Ông […] viết sao cho đọc thấy thú vị — từ đó mà có những tham vọng về giọng văn tự nhiên, bông đùa, tạo nên độ chênh mỉa mai trong thái độ của tác giả với nhân vật); 18. Впро́чем, … бы́ло не преклоня́ться перед му́жеством Некра́сова, кото́рый … спасти́ литерату́ру от желе́зной хва́тки Пу́шкина, вы́вести поэ́зию из умертвля́ющего обая́ния пу́шкинского соверше́нства. Сама́ мысль боро́ться с Пу́шкиным на его́ террито́рии поража́ет свое́й сме́лостью. Наве́рное, … бы́ло бы сопе́рничать с ним в про́зе. Но как раз про́за Некра́сову, а́втору со́тен прозаи́ческих страни́ц, не дава́лась (Vả lại, [không thể] không khâm phục lòng dũng cảm của Nekrasov — người […] cứu văn học khỏi gọng kìm sắt của Pushkin, đưa thi ca thoát khỏi ma lực chết người của sự hoàn mỹ Pushkin. Riêng ý nghĩ đua tranh với Pushkin trên lãnh địa của ông đã gây kinh ngạc vì sự táo bạo. Có lẽ […] đua tài với ông trong văn xuôi thì hơn. Nhưng văn xuôi lại chính là thứ không đến được với Nekrasov, tác giả của hàng trăm trang văn xuôi); 19. Изве́стно, что «у сме́ха нет бо́лее си́льного врага́, чем волне́ние» (А. Бергсо́н). Поэ́тому, говоря́ о Щедрине́, … опусти́ть всё волну́ющее, но несмешно́е. Э́того тре́буют зако́ны жа́нра, кото́рые … перечи́тывать то́лько те обличи́тельные кни́ги, кото́рые напи́саны смешно́ (Ai cũng biết «tiếng cười không có kẻ thù nào mạnh hơn nỗi xúc động» (A. Bergson). Vì vậy, khi nói về Shchedrin, […] bỏ qua tất cả những gì gây xúc động nhưng không buồn cười. Đó là đòi hỏi của quy luật thể loại — quy luật […] đọc lại chỉ những cuốn sách tố cáo nào được viết một cách hài hước); 20. «Францу́зский Аракче́ев» — ма́ршал Даву́ — напи́сан в «Войне́ и ми́ре» одно́й чёрной кра́ской, и одна́ко наибо́лее я́ркой и запомина́ющейся характери́стикой ока́зывается то нева́жное вообще́-то обстоя́тельство, что он вы́брал для свое́й штаб-кварти́ры гря́зный сара́й — потому́ что «Даву́ был оди́н из тех люде́й, кото́рые наро́чно ста́вят себя́ в са́мые мра́чные усло́вия жи́зни, для того́ что́бы … быть мра́чными» (П. Вайль, А. Ге́нис. «Родна́я речь. Уро́ки изя́щной слове́сности») («Arakcheyev nước Pháp» — thống chế Davout — trong «Chiến tranh và hòa bình» được vẽ bằng một màu đen tuyền, ấy thế mà nét khắc họa đậm và đáng nhớ nhất lại là cái chi tiết vốn chẳng quan trọng: ông ta chọn một nhà kho bẩn thỉu làm tổng hành dinh — bởi «Davout là một trong những kẻ cố tình đặt mình vào những điều kiện sống u ám nhất, cốt để […] u ám» (P. Vail, A. Genis. «Tiếng nói quê hương. Những bài học văn chương»))."
+    }
+   ]
+  },
+  {
+   "id": "gra-23-s008",
+   "type": "exercise",
+   "title": "Упражнение 351",
+   "num": 351,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Mở ngoặc, dùng các từ ở cách 1 (именительный) hoặc cách 5 (творительный). Giải thích lựa chọn của bạn, nêu các phương án có thể."
+    },
+    {
+     "t": "note",
+     "text": "Gợi ý ôn tập: trong vị ngữ danh từ phức hợp với быть ở quá khứ, cách 1 nhấn mạnh đặc trưng thường xuyên, ổn định; cách 5 — đặc trưng tạm thời, gắn với một giai đoạn. Sau стать, каза́ться, оказа́ться… dùng cách 5. Các câu trích từ И. Ильф, Е. Петро́в «Двена́дцать сту́льев» (Mười hai chiếc ghế)."
+    },
+    {
+     "t": "para",
+     "text": "1. Она́ была́ (ма́ленькая, ма́ленькой), и да́же са́мые плюга́вые мужчи́ны ря́дом с не́ю вы́глядели (больши́е и могу́чие мужи́, больши́ми и могу́чими мужа́ми) (Bà ta vốn nhỏ bé, nên cạnh bà ngay cả những gã đàn ông còi cọc nhất trông cũng như những trang nam nhi cao lớn lẫm liệt); 2. Жизнь го́рода была́ (тиша́йшая, тиша́йшей) (Cuộc sống của thành phố hết sức lặng lẽ); 3. Ипполи́т Матве́евич в го́ре да́же не сообрази́л, что стал (соуча́стник, соуча́стником) обыкнове́нной кра́жи (Trong cơn sầu não, Ippolit Matveevich thậm chí không nhận ra rằng mình đã thành kẻ đồng lõa của một vụ trộm tầm thường); 4. Через пять мину́т оте́ц Фёдор убеди́лся, что подстрига́ть бо́роду он соверше́нно не уме́ет. Борода́ его́ оказа́лась (ско́шенная на оди́н бок, неприли́чная и да́же подозри́тельная; ско́шенной на оди́н бок, неприли́чной и да́же подозри́тельной) (Năm phút sau, cha Fyodor hiểu ra rằng mình hoàn toàn không biết tỉa râu. Bộ râu của ông hóa ra lệch hẳn về một bên, khiếm nhã và thậm chí khả nghi); 5. Хотя́ похоро́нных депо́ бы́ло мно́жество, но клиенту́ра у них была́ (небольша́я, небольшо́й) (Tuy nhà đòn nhiều vô kể, nhưng khách của họ chẳng được bao nhiêu); 6. Ему́ каза́лось, что де́ло, по кото́рому он пришёл, насто́лько незначи́тельно, что и́з-за него́ со́вестно беспоко́ить тако́го ви́дного седо́го граждани́на, (како́й, каки́м) был Ипполи́т Матве́евич (Anh ta cảm thấy việc mình đến nhỏ nhặt tới mức thật ngại làm phiền một công dân tóc bạc bệ vệ như Ippolit Matveevich); 7. То́лстые жёлтые лучи́ со́лнца лежа́ли на его́ плеча́х, как эполе́ты. Вид у него́ был не́сколько (смешно́й, смешны́м), но необыкнове́нно торже́ственный (Những tia nắng vàng sậm nằm trên vai anh ta như cầu vai sĩ quan. Dáng vẻ anh ta hơi buồn cười, nhưng trang trọng lạ thường); 8. Жизнь каза́лась ему́ (прекра́сная, прекра́сной) (Cuộc đời đối với anh ta dường như thật tươi đẹp); 9. Поры́вистая душа́ отца́ Фёдора не зна́ла поко́ю. Не зна́ла она́ его́ никогда́. Ни тогда́, когда́ он был (воспи́танник духо́вного учи́лища, Фе́дя; воспи́танником духо́вного учи́лища, Фе́дей), ни когда́ он был (уса́тый семинари́ст Фёдор Ива́ныч; уса́тым семинари́стом Фёдор Ива́нычем) (Tâm hồn sôi sục của cha Fyodor không biết đến bình yên. Chưa bao giờ biết. Cả khi ông còn là cậu bé Fedya, học sinh trường dòng, lẫn khi đã là chàng chủng sinh để ria Fyodor Ivanych); 10. (После́дний, После́дним) пришёл граждани́н Кисля́рский, кото́рый, не бу́дучи (дворяни́н, дворяни́ном) и никогда́ не служа́ в гварде́йских полка́х, из кра́ткого разгово́ра с Оста́пом сра́зу уясни́л себе́ положе́ние веще́й (Người đến cuối cùng là công dân Kislyarsky — kẻ tuy không phải quý tộc và chưa từng phục vụ trong các trung đoàn cận vệ, nhưng chỉ qua cuộc trò chuyện ngắn với Ostap đã lập tức hiểu rõ tình thế); 11. Весь го́род был друго́го цве́та. Си́ние дома́ ста́ли (зелёные, зелёными), жёлтые — (се́рые, се́рыми), с каланчи́ исче́зли бо́мбы, по ней не ходи́л бо́льше пожа́рный, и на у́лицах бы́ло гора́здо шумне́е, чем э́то по́мнилось Ипполи́ту Матве́евичу (Cả thành phố đã mang màu khác. Những ngôi nhà xanh lam thành xanh lục, nhà vàng thành xám; trên tháp canh không còn những quả cầu báo hiệu, lính cứu hỏa không đi lại trên đó nữa, và ngoài phố ồn ào hơn nhiều so với những gì Ippolit Matveevich còn nhớ)."
+    },
+    {
+     "t": "note",
+     "text": "Chú thích của sách (cho câu 9): Фёдор Ива́ныч — Фёдор Ива́нычем là dạng KHẨU NGỮ; dạng chuẩn: Фёдор Ива́нович — Фёдором Ива́новичем."
+    }
+   ]
+  },
+  {
+   "id": "gra-23-s009",
+   "type": "exercise",
+   "title": "Упражнение 352",
+   "num": 352,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Trong các câu sau, hãy tìm các cụm thành ngữ (фразеологические сочетания) ở vị trí vị ngữ danh từ phức hợp và bổ sung cho chúng những từ còn thiếu theo nghĩa."
+    },
+    {
+     "t": "para",
+     "text": "1. Весь день мы … не поклада́я рук (Cả ngày chúng tôi … không ngơi tay — làm việc quần quật); 2. Он не жале́л де́нег на развлече́ния, предпочита́я жить на широ́кую … (Anh ta không tiếc tiền ăn chơi, thích sống vương giả — жить на широ́кую…); 3. Говори́ пря́мо всё, что ду́маешь, не ходи́ … да о́коло (Nghĩ gì cứ nói thẳng ra, đừng vòng vo tam quốc); 4. Он челове́к несамостоя́тельный, всю жизнь пля́шет под чужу́ю … (Anh ta là người không tự chủ, cả đời nhảy theo điệu sáo của người khác); 5. Дел у него́ мно́го, прихо́дится верте́ться как … в колесе́ (Việc anh ấy nhiều lắm, cứ phải xoay như chong chóng); 6. Почему́ ты гру́стный? У твоего́ дру́га забо́т не ме́ньше, чем у тебя́, а он не уныва́ет: смо́трит … (Sao cậu buồn thế? Bạn cậu lo toan chẳng kém gì cậu mà đâu có nản: vẫn ngẩng cao đầu, tươi tỉnh hiên ngang); 7. Так ты пробле́му не реши́шь, на́до вы́делить гла́вное, стара́ться … в ко́рень (Làm thế cậu không giải quyết được vấn đề đâu, phải tách ra cái chính, cố nhìn thấu tận gốc rễ); 8. О чём ты говори́шь?! Я свою́ рабо́ту зна́ю как свои́ пять … (Cậu nói gì vậy?! Công việc của mình tớ thuộc như lòng bàn tay); 9. Сто́ит рискну́ть, ина́че ничего́ не добьёшься, иногда́ прихо́дится … ва-ба́нк (Đáng để liều đấy, không thì chẳng đạt được gì đâu; đôi khi phải chơi nước cờ được ăn cả ngã về không); 10. Он со все́ми согла́сен, всем гото́в угоди́ть, пыта́ется сиде́ть на двух … (Anh ta đồng ý với tất cả, sẵn sàng chiều lòng mọi người, cứ cố bắt cá hai tay)."
+    }
+   ]
+  },
+  {
+   "id": "gra-23-s010",
+   "type": "exercise",
+   "title": "Упражнение 353",
+   "num": 353,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Dùng các liên từ đẳng lập е́сли не… то, а мо́жет быть, а иногда́, как… так и, и уж тем бо́лее, не сто́лько… ско́лько, и гла́вное, и осо́бенно, не то́лько… но и để nối các thành phần đồng loại trong câu (phần cần nối cho trong ngoặc). Giải thích lựa chọn của bạn, nêu các phương án có thể."
+    },
+    {
+     "t": "note",
+     "text": "Nghĩa các liên từ: е́сли не… то — nếu không… thì (ít nhất); а мо́жет быть — mà cũng có thể; а иногда́ — mà đôi khi; как… так и — cả… lẫn; и уж тем бо́лее — và càng…; не сто́лько… ско́лько — không hẳn… mà chủ yếu; и гла́вное — và cái chính là; и осо́бенно — và đặc biệt là; не то́лько… но и — không chỉ… mà còn. Các câu trích từ tiểu thuyết trinh thám về Эра́ст Фандо́рин của Б. Аку́нин."
+    },
+    {
+     "t": "para",
+     "text": "1. Сле́дует призна́ться, что головокружи́тельные собы́тия после́дних неде́ль не́сколько приглуши́ли воспомина́ния о той, кого́ Эра́ст Петро́вич именова́л про себя́ исключи́тельно «Ли́занькой», (в осо́бенно мечта́тельные мину́ты, да́же «не́жным а́нгелом») (Phải thú nhận rằng những biến cố chóng mặt mấy tuần gần đây đã làm phai nhạt đôi chút ký ức về người mà Erast Petrovich thầm gọi riêng là «Lizanka», còn trong những phút mơ mộng nhất — thậm chí là «thiên thần dịu dàng»); 2. На́до на всех стра́ху нагна́ть, (на свои́х). Чтоб в о́ба смотре́ли и чтоб её, вла́сти, бо́льше, чем уби́йц боя́лись (Phải làm cho tất cả khiếp sợ, nhất là người của mình. Để chúng căng mắt canh chừng, và để chúng sợ bà ta — sợ quyền uy — hơn cả sợ những kẻ giết người); 3. Серге́й Вита́льевич говори́ть ма́стер, (сам ве́рит). Ну, и я пове́рил (Sergey Vitalyevich là bậc thầy nói chuyện, và cái chính — chính ông ta tin điều mình nói. Thế là tôi cũng tin); 4. Чтоб ка́ждый заде́ржанный приро́с к ме́сту, не мог па́льцем шевельну́ть, (го́лос пода́ть) (Để mỗi kẻ bị bắt phải chôn chân tại chỗ, không nhúc nhích nổi một ngón tay, càng không thể kêu lên một tiếng); 5. Е́сли ны́нче но́чью БГ и поги́бнет, то не зада́ром, (и не поги́бнет). Ещё посмо́трим. Кто предупреждён, тот вооружён (Nếu đêm nay BG có chết thì cũng không chết uổng, mà cũng có thể chẳng chết. Để rồi xem. Ai được báo trước, kẻ đó đã được vũ trang); 6. В це́рковь пуска́ли по осо́бым приглаше́ниям, и всё же пу́блики собрало́сь до двухсо́т челове́к. Бы́ло мно́го блестя́щих мунди́ров, (вое́нных, ста́тских), мно́го обнажённых да́мских плеч и высо́ких причёсок, лент, звёзд, бриллиа́нтов (Vào nhà thờ phải có giấy mời riêng, vậy mà công chúng vẫn tụ tập đến hai trăm người. Có rất nhiều bộ quân phục, lễ phục lộng lẫy — cả nhà binh lẫn dân sự, nhiều bờ vai trần của các quý bà và những mái tóc bới cao, băng lụa, huân chương, kim cương); 7. «Решено́!» — Ива́н Фра́нцевич энерги́чно взмахну́л кулако́м. — «Коне́чно, Фандо́рин, вы бы пригоди́лись мне и здесь, но, как говоря́т в наро́де, наси́льно мил не бу́дешь. Чита́л ва́ше де́ло, зна́ю, что владе́ете (францу́зским и неме́цким, англи́йским)» («Quyết định vậy!» — Ivan Frantsevich vung mạnh nắm tay. — «Dĩ nhiên, Fandorin, anh ở lại đây cũng được việc cho tôi, nhưng dân gian nói rồi: ép dầu ép mỡ ai nỡ ép duyên. Tôi đã đọc hồ sơ của anh, biết anh thông thạo không chỉ tiếng Pháp, tiếng Đức mà cả tiếng Anh»); 8. «Да э́то то́чно ты?» — (из сомне́ния, из любопы́тства) спроси́л Шту́кин («Mà đúng là cậu thật chứ?» — Shtukin hỏi, không hẳn vì nghi ngờ mà chủ yếu vì tò mò); 9. «Поди́, пло́хо про старика́ ду́мали — мол, как ра́порт запи́сывать, так сра́зу в больни́цу прискака́л, а пото́м, (не ну́жен стал, но́су не ка́жет). Я к врачу́ посыла́л справля́ться, а к вам ника́к не мог вы́браться» («Chắc mọi người nghĩ xấu về lão già này — rằng lúc cần ghi báo cáo thì phi ngay đến bệnh viện, còn sau đó, hễ hết cần thì mặt cũng chẳng thèm ló. Tôi vẫn cho người đến chỗ bác sĩ hỏi thăm đấy chứ, chỉ là không sao dứt ra đến thăm anh được»); 10. «Хоте́лось бы потолкова́ть с ле́ди Эсте́р. Сама́ она́, бу́дучи осо́бой (земно́й, небе́сной), (здесь Фандо́рин улыбну́лся) вряд ли была́ посвящена́ в суть и́стинной де́ятельности Ка́ннингема, но зна́ет э́того господи́на с де́тства и вообще́ могла́ бы пове́дать что́-нибудь поле́зное» («Tôi muốn hầu chuyện quý bà Esther. Bản thân bà ấy, vốn là một con người không hẳn của cõi trần mà chủ yếu của cõi trời (nói đến đây Fandorin mỉm cười), chưa chắc đã được biết thực chất hoạt động của Cunningham, nhưng bà biết quý ông này từ nhỏ, và nói chung có thể kể được điều gì đó hữu ích»); 11. Поско́льку у́жин име́л ста́тус непринуждённого, его́ сия́тельство ещё не выходи́л, дава́я гостя́м возмо́жность свобо́дно обща́ться друг с дру́гом, но фуро́р, произведённый спу́тницей ста́тского сове́тника Фандо́рина, был так силён, что обы́чный в подо́бных обстоя́тельствах лёгкий разгово́р ника́к не скле́ивался — па́хло (сканда́лом, уж во вся́ком слу́чае пика́нтностью), о кото́рой за́втра бу́дет говори́ть вся Москва́ (Б. Аку́нин) (Vì bữa tối mang tính chất thân mật, đức ngài chưa ra mặt, để khách khứa được tự do chuyện trò; nhưng cơn chấn động mà người bạn đồng hành của vị tham nghị Fandorin gây ra mạnh đến nỗi câu chuyện xã giao thường lệ mãi không thành hình — không khí sặc mùi nếu không phải là xì-căng-đan thì chí ít cũng là chuyện giật gân mà ngày mai cả Moskva sẽ bàn tán (B. Akunin))."
+    }
+   ]
+  },
+  {
+   "id": "gra-23-s011",
+   "type": "exercise",
+   "title": "Упражнение 354",
+   "num": 354,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Trong các câu sau, hãy tìm các định ngữ, so sánh, trạng ngữ, đồng vị ngữ và thành phần làm rõ nghĩa biệt lập (обособленные члены). Mở ngoặc, đặt các dấu câu cần thiết. Giải thích quyết định của bạn."
+    },
+    {
+     "t": "note",
+     "text": "Ký hiệu (,) hoặc (—) trong ngoặc là vị trí bạn cần cân nhắc: đặt hay không đặt dấu phẩy / gạch ngang. Ôn lý thuyết về thành phần biệt lập ở gra-19 và gra-20."
+    },
+    {
+     "t": "subhead",
+     "text": "а) Д. Гра́нин. «Зубр»"
+    },
+    {
+     "t": "para",
+     "text": "1. Подошёл америка́нец (,) лауреа́т Но́белевской пре́мии (,) нескла́дный (,) длиннору́кий (Một người Mỹ bước lại gần — nhà khoa học đoạt giải Nobel — dáng lóng ngóng, tay dài); 2. Слу́шая Гребенщико́ва (,) я погля́дывал на портре́т (,) сде́ланный чёрным карандашо́м. В про́стенькой ра́мочке (,) застеклённый (,) он висе́л над столо́м И́горя Серге́евича (Vừa nghe Grebenshchikov, tôi vừa liếc nhìn bức chân dung vẽ bằng chì đen. Lồng kính trong chiếc khung đơn sơ, nó treo phía trên bàn làm việc của Igor Sergeevich); 3. Лицо́ его́ бы́ло изре́зано морщи́нами жи́зни (,) бу́рной и значи́тельной. Следы́ мину́вших схва́ток (,) отча́янных схва́ток (,) не безобра́зили, а, скоре́е, украша́ли его́ си́льную (,) поро́дистую физионо́мию. И держа́лся он по-ино́му, чем все (,) (—) свобо́днее (,) раско́ваннее (Mặt ông hằn những nếp nhăn của một cuộc đời sóng gió và tầm vóc. Dấu vết của những trận chiến đã qua — những trận chiến quyết liệt — không làm xấu đi, mà đúng hơn còn tô điểm cho gương mặt cương nghị, quý phái của ông. Và phong thái của ông cũng khác mọi người — tự do hơn, phóng khoáng hơn); 4. Зубр смотре́л на восто́к, отку́да шёл непривы́чный (,) на одно́й но́те звук (,) не похо́жий ни на гул самолётов, ни на канона́ду (Zubr nhìn về phía đông, nơi vẳng tới một âm thanh lạ tai, đều đều một nốt, không giống tiếng gầm máy bay, cũng chẳng giống tiếng đại bác); 5. В глубине́ простра́нства что́-то жужжа́ло. Тяжёлый (,) ни́зкий (,) гул стла́лся по́низу. Вме́сте с ним доходи́ла е́ле ощути́мая дрожь (,) ещё не знако́мая э́той земле́ (Trong sâu thẳm không gian có cái gì đó vo vo. Một tiếng ầm ì nặng nề, trầm đục lan là là mặt đất. Cùng với nó là một chấn động chỉ hơi cảm thấy được, còn xa lạ với vùng đất này); 6. Разноязы́чный (,) разноплемённый (,) Но́ев ковче́г лаборато́рии то дели́лся, то соединя́лся. Не́мцы (,) воспи́танные в беспрекосло́вной дисципли́не (,) хоте́ли вы́полнить прика́з — отбы́ть в Ге́ттинген (Con tàu Noah đa ngôn ngữ, đa sắc tộc của phòng thí nghiệm khi thì chia tách, khi lại hợp nhất. Những người Đức, vốn được rèn trong kỷ luật phục tùng tuyệt đối, muốn thi hành mệnh lệnh — lên đường về Göttingen); 7. Проти́виться Кольцо́ву бы́ло тру́дно. Он был беспоща́ден ко вся́кого ро́да глу́пости (—) сентимента́льной (,) романти́ческой (,) беспе́чной (Cưỡng lại Koltsov thật khó. Ông không khoan nhượng với mọi kiểu ngu ngốc — ủy mị, lãng mạn, vô lo); 8. Мла́дший сын Тимофе́евых (,) Андре́й Никола́евич (,) вспомина́ет: «Ме́бель у нас в до́ме была́ вся сбо́рная: покра́шенный в чёрный цвет (,) дубо́вый шкаф, ма́ленький (,) пи́сьменный сто́лик отца́» (Д. Гра́нин. «Зубр») (Con trai út nhà Timofeev, Andrey Nikolaevich, nhớ lại: «Đồ đạc nhà tôi toàn đồ chắp nhặt: chiếc tủ gỗ sồi sơn đen, chiếc bàn viết nhỏ của cha»)."
+    },
+    {
+     "t": "subhead",
+     "text": "б) В. Набо́ков. «Други́е берега́»"
+    },
+    {
+     "t": "para",
+     "text": "1. Е́здили мы на ра́зные во́ды (,) морски́е и минера́льные (,) ка́ждую о́сень, но никогда́ не остава́лись так до́лго (Mùa thu nào chúng tôi cũng đi nghỉ ở các vùng nước — biển và suối khoáng — nhưng chưa bao giờ ở lại lâu đến thế); 2. О́коло бе́лой (,) скли́зкой от сы́рости (,) садо́вой скаме́йки со спи́нкой она́ выкла́дывает свои́ грибы́ концентри́ческими круга́ми на кру́глый (,) желе́зный стол (,) со сто́чной дыро́й посреди́не. Она́ счита́ет и сортиру́ет их. Ста́рые (,) с ры́хлым испо́дом (,) выбра́сываются; молоды́м и кре́пким уделя́ется вся́ческая забо́та (Cạnh chiếc ghế dài có tựa trong vườn, sơn trắng, nhớp nháp hơi ẩm, bà bày những cây nấm của mình thành các vòng tròn đồng tâm trên chiếc bàn sắt tròn có lỗ thoát nước ở giữa. Bà đếm và phân loại chúng. Những cây già, mặt dưới xốp bở, bị loại bỏ; những cây non và chắc được chăm chút đủ bề); 3. В де́тстве (,) до десяти́ лет (,) я был отягощён исключи́тельными (,) и да́же чудо́вищными (,) спосо́бностями к матема́тике (Thuở nhỏ — trước năm mười tuổi — tôi mang nặng những năng khiếu toán học phi thường, thậm chí quái dị); 4. Официа́льно в эконо́мках чи́слилась Еле́на Бори́совна (,) бы́вшая ня́ня ма́тери (,) дре́вняя (,) о́чень ни́зенького ро́ста (,) стару́шка (,) похо́жая на уны́лую черепа́ху (,) большено́гая (,) малоголо́вая (,) с соверше́нно поту́хшим (,) му́тно-ка́рим взгля́дом (,) и холо́дной (,) как забы́тое в кладо́вой я́блочко (,) ко́жей (Trên danh nghĩa, giữ chân quản gia là Elena Borisovna, vú nuôi cũ của mẹ — một bà lão cao tuổi lắm rồi, vóc người rất thấp, giống con rùa rầu rĩ, chân to, đầu nhỏ, ánh mắt nâu đục đã tắt lịm hẳn, làn da lạnh như quả táo nhỏ bị bỏ quên trong kho); 5. Одна́жды (,) в 1940 году́ (,) в Нью-Йо́рке, где сра́зу по прибы́тии в Аме́рику мне посчастли́вилось окуну́ться в су́щий рай нау́чных иссле́дований, я спусти́лся по ли́фту с пя́того этажа́ Америка́нского музе́я естествове́дения, где проводи́л це́лые дни в энтомологи́ческой лаборато́рии (Có lần — vào năm 1940 — tại New York, nơi vừa đặt chân đến Mỹ tôi đã may mắn được đắm mình vào thiên đường đích thực của nghiên cứu khoa học, tôi đi thang máy xuống từ tầng năm Bảo tàng Lịch sử tự nhiên Hoa Kỳ, nơi tôi vùi mình suốt ngày trong phòng thí nghiệm côn trùng học); 6. Ка́к-то в соче́льник (,) ме́сяца за три до рожде́ния её четвёртого ребёнка (,) она́ остава́лась в посте́ли и́з-за лёгкого недомога́ния (Một lần vào đêm trước lễ Giáng sinh — chừng ba tháng trước khi bà sinh đứa con thứ tư — bà nằm lại trên giường vì hơi khó ở); 7. Васи́лий Ива́нович вёл пра́здную и беспоко́йную жизнь. В ро́зовом фра́ке (,) верхо́м на взмыва́ющей через прегра́ды (,) грома́дной (,) гнедо́й кобы́ле (,) он уча́ствовал в ли́сьих охо́тах в Ита́лии, в А́нглии (В. Набо́ков. «Други́е берега́») (Vasily Ivanovich sống một cuộc đời nhàn rỗi mà chẳng yên. Trong chiếc áo đuôi tôm màu hồng, cưỡi con ngựa cái hồng tía to lớn tung mình qua các chướng ngại, ông tham gia những cuộc săn cáo ở Ý, ở Anh)."
+    }
+   ]
+  },
+  {
+   "id": "gra-23-s012",
+   "type": "exercise",
+   "title": "Упражнение 355",
+   "num": 355,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Trong các câu sau, hãy tìm các cấu trúc một thành phần (односоставные структуры). Xác định chúng thuộc loại nào: xác định-nhân xưng (определённо-личные), bất định-nhân xưng (неопределённо-личные), khái quát-nhân xưng (обобщённо-личные), vô nhân xưng (безличные), câu nguyên thể (инфинитивные) hay câu danh xưng (номинативные)."
+    },
+    {
+     "t": "note",
+     "text": "Ôn lý thuyết về 6 loại câu một thành phần ở gra-21. Các đoạn trích từ И. Эренбу́рг «О́ттепель» (Băng tan)."
+    },
+    {
+     "t": "subhead",
+     "text": "а)"
+    },
+    {
+     "t": "para",
+     "text": "1. Когда́ Ле́на подружи́лась с Короте́евым, Ива́н Васи́льевич ра́довался за неё. Никако́й ре́вности он не испы́тывал. Ле́на — серьёзная же́нщина, но ей хо́чется иногда́ поболта́ть, да и пококе́тничать, э́то есте́ственно. А у меня́ нет вре́мени. И не уме́ю я её развле́чь (Khi Lena kết thân với Koroteev, Ivan Vasilyevich mừng cho cô. Ông không hề ghen. Lena là người phụ nữ nghiêm túc, nhưng đôi khi cô cũng muốn chuyện phiếm, cả làm duyên nữa — điều đó tự nhiên thôi. Còn mình thì không có thời gian. Mà mình cũng chẳng biết cách làm cô ấy khuây khỏa); 2. Фотогра́фия Со́нечки — в Атка́рске, ей здесь четы́ре го́да. А хара́ктер уже́ ви́ден — упря́мая, всегда́ хо́чет поста́вить на своём. Она́ сама́ от э́того страда́ет. Вот умру́ — и оста́нется одна́-одинёшенька. Два́дцать шесть лет (Tấm ảnh của Sonechka — chụp ở Atkarsk, trong ảnh con bé lên bốn. Mà tính cách đã lộ rõ — bướng bỉnh, lúc nào cũng muốn làm theo ý mình. Chính nó khổ vì điều đó. Rồi mình chết đi — nó sẽ còn lại một thân một mình. Hai mươi sáu tuổi); 3. Хочу́ всего́ сра́зу, а сра́зу ничего́ не де́лается (Muốn có tất cả ngay lập tức, mà ngay lập tức thì chẳng việc gì thành); 4. Я хочу́ посмотре́ть его́ карти́ны. Дом и два де́рева... Ничего́ в э́том нет смешно́го. Переста́нь кривля́ться! (Tôi muốn xem tranh của anh ấy. Một ngôi nhà và hai cái cây... Chẳng có gì đáng cười cả. Thôi đừng làm trò nữa!); 5. «Я веду́ себя́ бесче́стно, — ду́мала она́, когда́ шла из шко́лы домо́й. — Нельзя́ жить с челове́ком, кото́рого не лю́бишь, да́же не уважа́ешь. Я должна́ была́ бы давно́ всё сказа́ть. Но он ни за что́ не согласи́тся отда́ть Шу́рочку. Начну́тся бесконе́чные исто́рии. Страда́ть придётся де́вочке» («Mình đang sống không trung thực, — cô nghĩ trên đường từ trường về nhà. — Không thể sống với một người mà mình không yêu, thậm chí không tôn trọng. Lẽ ra mình phải nói hết từ lâu. Nhưng anh ấy đời nào chịu trao lại Shurochka. Rồi sẽ bắt đầu những chuyện lôi thôi bất tận. Người chịu khổ sẽ là con bé»); 6. Должно́ быть, чем бо́льше лю́бишь челове́ка, тем трудне́е его́ поня́ть... (Hẳn là càng yêu một người bao nhiêu, càng khó hiểu người ấy bấy nhiêu...); 7. Зна́ешь, мне надое́ло твоё кривля́нье. Е́сли не мо́жешь говори́ть по-челове́чески, лу́чше совсе́м не говори́ (Này, tôi chán trò ưỡn ẹo của anh lắm rồi. Nếu không thể nói chuyện cho ra con người thì tốt nhất đừng nói gì cả); 8. Открове́нно говоря́, я ма́ло наде́ялся на успе́х; ду́мал, полу́чат моё письмо́ и отошлю́т в институ́т, так ча́сто быва́ет. А вот разобрали́сь... Огро́мная уда́ча! (Nói thật, tôi ít hy vọng thành công; cứ nghĩ người ta nhận thư của mình rồi lại chuyển về viện, chuyện vẫn thường thế. Vậy mà người ta đã xem xét thấu đáo... Vận may lớn quá!); 9. Хо́чет повида́ться — пусть приезжа́ет (Anh ta muốn gặp — thì cứ để anh ta đến); 10. Весь го́род зна́ет... Е́сли бы мы встреча́лись с Та́нечкой, э́того не случи́лось бы: я её стесня́лся... Да о чём говори́ть — докати́лся! Да́льше не́куда... (Cả thành phố đều biết... Giá mình với Tanechka còn gặp nhau thì chuyện này đã không xảy ra: mình từng ngượng với cô ấy... Mà còn nói gì nữa — trượt dốc đến thế là cùng! Không còn chỗ nào thấp hơn...); 11. Нехорошо́ э́то... А гла́вное — как бу́дут смотре́ть на Короте́ева? У челове́ка семь пя́тниц на неде́ле... (Chuyện này không hay... Mà cái chính — người ta sẽ nhìn Koroteev thế nào đây? Con người sáng nắng chiều mưa...); 12. В одно́м Са́вченко прав: проти́вно, когда́ говори́шь одно́, а де́лаешь друго́е. Хорошо́ бу́дет, е́сли меня́ пошлю́т куда́-нибудь пода́льше — на Ура́л и́ли в Сиби́рь (Có một điều Savchenko nói đúng: thật đáng ghét khi nói một đằng làm một nẻo. Sẽ tốt thôi, nếu người ta điều mình đi đâu đó thật xa — đến Ural hay Siberia); 13. Я, ка́жется, схожу́ с ума́. Ужа́сно, что не́ с кем поговори́ть! Ма́ма вчера́ спроси́ла, почему́ я не женю́сь. Ока́зывается, в три́дцать пять лет неприли́чно быть холосты́м. В пятьдеся́т полага́ется о́рден. Кста́ти, о́рден даду́т не мне, а Сабу́рову. Смешно́ — я ду́маю о том, что бу́дет через пятна́дцать лет (Hình như mình phát điên mất. Khủng khiếp nhất là chẳng có ai để chuyện trò! Hôm qua mẹ hỏi sao mình không lấy vợ. Hóa ra ba mươi lăm tuổi mà còn độc thân là không phải phép. Năm mươi tuổi thì «được phát» huân chương. Mà huân chương người ta sẽ trao cho Saburov chứ đâu phải mình. Buồn cười — mình lại đang nghĩ đến chuyện mười lăm năm nữa); 14. Напро́тив до́ма Журавлёва повали́ло большу́ю берёзу (Trước cửa nhà Zhuravlyov, cây bạch dương lớn bị quật đổ); 15. В ито́ге до́ктор Горо́хов мра́чно заяви́л: «Се́рдце у вас в отврати́тельном состоя́нии. Перерабо́тались, запусти́ли. Нельзя́ вам так жить, вы немолодо́й челове́к...» (Cuối cùng bác sĩ Gorokhov rầu rĩ tuyên bố: «Tim anh đang trong tình trạng tồi tệ. Làm việc quá sức, bỏ bê sức khỏe. Anh không thể sống thế được nữa, anh đâu còn trẻ...»)."
+    },
+    {
+     "t": "subhead",
+     "text": "б)"
+    },
+    {
+     "t": "para",
+     "text": "Со́ня откры́ла дверь. Са́вченко!\nОна́ споко́йно с ним поздоро́валась, провела́ к себе́.\n— Ма́мы нет, она́ у Брайнины́х.\n— Я зна́ю. Меня́ то́же зва́ли.\n— Что ж ты не пошёл?\n— Хоте́л зайти́ к тебе́.\n— О́чень ми́ло с твое́й стороны́. Хо́чешь ча́ю?\n— Нет, спаси́бо. Я ненадо́лго — у меня́ рабо́та. Как ты прово́дишь о́тпуск?\n— О́чень хорошо́. Отдыха́ю. А вот сего́дня реши́ла немно́го порабо́тать. Ви́дишь? (И. Эренбу́рг. «О́ттепель»)\n(Dịch: Sonya mở cửa. Savchenko!\nCô bình thản chào anh, dẫn vào phòng mình.\n— Mẹ không có nhà, mẹ sang nhà Brainin rồi.\n— Anh biết. Người ta cũng mời anh.\n— Thế sao anh không đi?\n— Anh muốn ghé thăm em.\n— Anh tử tế quá. Uống trà nhé?\n— Thôi, cảm ơn. Anh chỉ ghé một lát — anh còn việc. Em nghỉ phép thế nào?\n— Rất tốt. Em nghỉ ngơi. Mà hôm nay em lại quyết định làm việc một chút. Anh thấy chưa?)"
+    }
+   ]
+  },
+  {
+   "id": "gra-23-s013",
+   "type": "exercise",
+   "title": "Упражнение 356",
+   "num": 356,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Bổ sung vào câu các từ và cụm từ cho trong ngoặc. Chú ý đến trật tự từ."
+    },
+    {
+     "t": "note",
+     "text": "Gợi ý ôn tập (gra-22): phần thuyết (ре́ма — thông tin mới) thường đứng cuối câu; trạng ngữ thời gian/địa điểm làm детерминант thường mở đầu câu. Trong ngoặc, các cụm từ được liệt kê cách nhau bằng dấu chấm phẩy — hãy đặt mỗi cụm vào vị trí thích hợp trong câu."
+    },
+    {
+     "t": "subhead",
+     "text": "а) Ма́лая Коню́шенная у́лица"
+    },
+    {
+     "t": "para",
+     "text": "Ма́лая Коню́шенная у́лица появи́лась (в соотве́тствии с пла́ном Коми́ссии о Санкт-Петербу́ргском строе́нии; в тридца́тые го́ды XVIII ве́ка; в Петербу́рге). В 1733–1737 года́х была́ постро́ена це́рковь (на углу́ э́той у́лицы и Не́вского проспе́кта; деревя́нная). У́лицу назва́ли Рожде́ственской (в честь неё). Це́рковь была́ разо́брана (по́зже; э́та), и за у́лицей закрепи́лось назва́ние Ма́лая Коню́шенная (в девяно́стые го́ды XVIII ве́ка; по анало́гии с сосе́дней — Большо́й Коню́шенной (о́бе у́лицы появи́лись практи́чески одновре́менно)).\n(Dịch: Phố Malaya Konyushennaya xuất hiện ở Peterburg vào những năm 30 của thế kỷ XVIII, theo quy hoạch của Ủy ban xây dựng Sankt-Peterburg. Trong các năm 1733–1737, ở góc phố này với đại lộ Nevsky, một nhà thờ gỗ được dựng lên. Để vinh danh nhà thờ, người ta đặt tên phố là Rozhdestvenskaya. Về sau nhà thờ này bị tháo dỡ, và đến những năm 90 của thế kỷ XVIII, tên gọi Malaya Konyushennaya gắn hẳn với con phố — theo cách gọi tương tự phố bên cạnh, Bolshaya Konyushennaya (hai phố xuất hiện gần như đồng thời).)"
+    },
+    {
+     "t": "para",
+     "text": "Жи́ли в основно́м иностра́нцы (в дома́х; на у́лицах, прилега́вших к Не́вскому проспе́кту; во второ́й полови́не XVIII ве́ка). Так, располага́лась шве́дская общи́на (на Рожде́ственской у́лице). Была́ возведена́ це́рковь Свято́й Екатери́ны (здесь; в 1769 году́; благодаря́ её уси́лиям). Она́ была́ перестро́ена (во второ́й полови́не XIX ве́ка), и появи́лось зда́ние це́ркви (ка́менное; но́вое). На Ма́лой Коню́шенной у́лице был постро́ен дохо́дный дом (по прое́кту выдаю́щегося архите́ктора Ф. Лидва́ля; в нача́ле XX ве́ка).\n(Dịch: Nửa sau thế kỷ XVIII, sống trong những ngôi nhà trên các phố kề đại lộ Nevsky chủ yếu là người nước ngoài. Chẳng hạn, trên phố Rozhdestvenskaya có cộng đồng người Thụy Điển. Nhờ nỗ lực của cộng đồng này, năm 1769, nhà thờ Thánh Ekaterina được dựng lên tại đây. Nửa sau thế kỷ XIX, nhà thờ được xây lại, và xuất hiện tòa nhà thờ mới bằng đá. Đầu thế kỷ XX, trên phố Malaya Konyushennaya, một tòa nhà cho thuê được xây theo đồ án của kiến trúc sư kiệt xuất F. Lidval.)"
+    },
+    {
+     "t": "para",
+     "text": "Жил Михаи́л Зо́щенко (на Ма́лой Коню́шенной у́лице; изве́стный; писа́тель; в до́ме № 4). Размеща́ется музе́й (в э́том до́ме; сего́дня; мемориа́льный; его́).\n(Dịch: Nhà văn nổi tiếng Mikhail Zoshchenko từng sống ở ngôi nhà số 4 phố Malaya Konyushennaya. Ngày nay, trong ngôi nhà này là bảo tàng lưu niệm của ông.)"
+    },
+    {
+     "t": "para",
+     "text": "Ма́лую Коню́шенную у́лицу переименова́ли (по́сле Октя́брьской револю́ции; в у́лицу Со́фьи Перо́вской). Возврати́ли пре́жнее назва́ние (ей; в нача́ле девяно́стых годо́в XX ве́ка).\n(Dịch: Sau Cách mạng Tháng Mười, phố Malaya Konyushennaya bị đổi tên thành phố Sofya Perovskaya. Đầu những năm 90 của thế kỷ XX, người ta trả lại cho phố tên gọi cũ.)"
+    },
+    {
+     "t": "subhead",
+     "text": "б) У́лица Мара́та"
+    },
+    {
+     "t": "para",
+     "text": "Начало́сь строи́тельство магистра́ли (но́вой; в конце́ тридца́тых годо́в XVIII ве́ка; до Разъе́зжей у́лицы; от Ки́рочной). Магистра́ль распа́лась на две у́лицы (по́зже; э́та; отде́льные; больша́я) — у́лица Мара́та и Маяко́вская у́лица (э́то; сего́дня). У́лица Мара́та называ́лась Преображе́нской (в то вре́мя), поско́льку размеща́лись каза́рмы Преображе́нского полка́ (неподалёку от Ки́рочной у́лицы). Доро́га соединя́ла Не́вский проспе́кт (э́та; с Разъе́зжей у́лицей). Разъе́зжая у́лица называ́лась Семёновской (по́зже; уже́) — размеща́лся Семёновский полк (в э́том райо́не).\n(Dịch: Cuối những năm 30 của thế kỷ XVIII, việc xây dựng tuyến đường lớn mới từ phố Kirochnaya đến phố Razyezzhaya được khởi công. Về sau, tuyến đường lớn này tách thành hai phố riêng — ngày nay đó là phố Marata và phố Mayakovskaya. Thời ấy phố Marata mang tên Preobrazhenskaya, vì cách phố Kirochnaya không xa là doanh trại trung đoàn Preobrazhensky. Con đường này nối đại lộ Nevsky với phố Razyezzhaya. Về sau phố Razyezzhaya đã được gọi là Semyonovskaya — trong khu vực này đóng trung đoàn Semyonovsky.)"
+    },
+    {
+     "t": "para",
+     "text": "Исто́рия Влади́мирского собо́ра начина́лась на у́лице Мара́та (Петербу́рга; как раз) — на уча́стке комисса́ра канцеля́рии Ф. Яки́мова была́ откры́та вре́менная це́рковь (в середи́не XVIII ве́ка; и́менно здесь; дворцо́вой; гла́вной) — проо́браз бу́дущего собо́ра. Был постро́ен дом (здесь; э́того же столе́тия; в восьмидеся́тые го́ды; для А.Н. Ради́щева и его́ семьи́; двухэта́жный). Он написа́л произведе́ние «Путеше́ствие из Петербу́рга в Москву́» (в э́том до́ме; знамени́тое; своё).\n(Dịch: Lịch sử nhà thờ lớn Vladimirsky của Peterburg khởi đầu chính trên phố Marata — chính tại đây, vào giữa thế kỷ XVIII, trên phần đất của F. Yakimov, ủy viên Văn phòng cung đình tối cao, một nhà thờ tạm được mở — tiền thân của nhà thờ lớn tương lai. Vào những năm 80 cùng thế kỷ, tại đây người ta xây một ngôi nhà hai tầng cho A.N. Radishchev và gia đình. Trong ngôi nhà này, ông đã viết tác phẩm trứ danh của mình — «Hành trình từ Peterburg đến Moskva».)"
+    },
+    {
+     "t": "para",
+     "text": "У́лица приобрела́ назва́ние Гря́зная у́лица (в наро́де; в конце́ XVIII ве́ка; непритяга́тельное; доста́точно). Она́ находи́лась на окра́ине го́рода (практи́чески; де́ло в том, что), сели́лись служи́тели и реме́сленники (в основно́м; здесь; придво́рные). У́лица получи́ла назва́ние Гря́зная (официа́льное; действи́тельно; вско́ре).\n(Dịch: Cuối thế kỷ XVIII, trong dân gian, con phố mang một cái tên khá kém hấp dẫn — phố Gryaznaya («phố Bẩn»). Số là phố nằm gần như ở rìa thành phố: sống ở đây chủ yếu là gia nhân và thợ thủ công phục vụ cung đình. Chẳng bao lâu, phố quả thật nhận tên gọi chính thức là Gryaznaya.)"
+    },
+    {
+     "t": "para",
+     "text": "Бы́ло постро́ено зда́ние (в пе́рвой полови́не XIX ве́ка; для Ямско́го ры́нка; на Гря́зной у́лице), а та́кже Нико́льская це́рковь (единове́рческая). Дом № 25 изве́стен тем, что (О́льга (сестра́ А.С. Пу́шкина); и его́ ня́ня Ари́на Родио́новна; жила́; здесь). Прожива́ла семья́ архите́ктора В.П. Ста́сова (в середи́не XIX ве́ка; та́кже; на э́той у́лице; ру́сского; изве́стного). Гря́зная у́лица была́ соединена́ (с Семёновской; в э́то же вре́мя). У́лицу переименова́ли в Никола́евскую (э́того же столе́тия; в конце́ пятидеся́тых годо́в).\n(Dịch: Nửa đầu thế kỷ XIX, trên phố Gryaznaya, người ta xây tòa nhà cho chợ Yamskoy, cùng với nhà thờ Nikolskaya (dòng đồng tín). Ngôi nhà số 25 nổi tiếng vì Olga — em gái A.S. Pushkin — và nhũ mẫu của ông, bà Arina Rodionovna, từng sống tại đây. Giữa thế kỷ XIX, trên phố này còn có gia đình kiến trúc sư Nga nổi tiếng V.P. Stasov cư ngụ. Cũng vào thời gian đó, phố Gryaznaya được nối với phố Semyonovskaya. Cuối những năm 50 cùng thế kỷ, phố được đổi tên thành Nikolaevskaya.)"
+    },
+    {
+     "t": "para",
+     "text": "Откры́лся пе́рвый в Росси́и океана́риум (на перекрёстке Мара́та и Звенигоро́дской; в 2006 году́; у́лиц). Пло́щадь океана́риума (о́бщая; о́коло пяти́ ты́сяч квадра́тных ме́тров). Бо́лее ста двадцати́ ви́дов рыб (постоя́нное ме́сто жи́тельства; здесь; из ра́зных уголко́в ми́ра; получи́ли).\n(Dịch: Năm 2006, tại ngã tư các phố Marata và Zvenigorodskaya, thủy cung đầu tiên của nước Nga được khai trương. Tổng diện tích thủy cung khoảng năm nghìn mét vuông. Hơn một trăm hai mươi loài cá từ khắp các miền trên thế giới đã có nơi cư trú thường xuyên tại đây.)"
+    }
+   ]
+  }
+ ]
+}

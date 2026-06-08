@@ -1,0 +1,581 @@
+{
+ "id": "gra-21",
+ "num": 21,
+ "title": "Câu một thành phần (Односоставные предложения)",
+ "vi": "Câu một thành phần (Односоставные предложения)",
+ "ru": "Односоставные предложения",
+ "icon": "1️⃣",
+ "color": "#e11d48",
+ "sectionPrefix": "gra-21-s",
+ "group": "Раздел 2 · Câu đơn (Простое предложение)",
+ "sections": [
+  {
+   "id": "gra-21-s001",
+   "type": "grammar",
+   "title": "Câu một thành phần — Định nghĩa và phân loại",
+   "num": null,
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Câu đơn chia thành câu hai thành phần (двусоставные) và câu một thành phần (односоставные). Câu một thành phần là câu chỉ có MỘT thành phần chính, mà về hình thức trùng với vị ngữ hoặc với chủ ngữ. Thuộc câu một thành phần có: câu nhân xưng xác định (определённо-личные), câu nhân xưng phiếm định (неопределённо-личные), câu nhân xưng khái quát (обобщённо-личные), câu vô nhân xưng (безличные), câu nguyên thể (инфинитивные) và câu danh xưng (номинативные)."
+    },
+    {
+     "t": "para",
+     "text": "• Câu nhân xưng xác định (определённо-личные) — biểu thị hành động hoặc trạng thái của những người trực tiếp tham gia giao tiếp: người nói hoặc người đối thoại: Заме́чу кста́ти: все поэ́ты — любви́ мечта́тельной друзья́ (А. Пу́шкин) (Nhân tiện xin nhận xét: mọi nhà thơ đều là bạn của tình yêu mộng mơ)."
+    },
+    {
+     "t": "para",
+     "text": "• Câu nhân xưng phiếm định (неопределённо-личные) — biểu thị hành động do những người không xác định hoặc không được nêu rõ thực hiện: В декана́те вам вы́дадут студе́нческий биле́т (Ở văn phòng khoa người ta sẽ cấp thẻ sinh viên cho bạn). Trong câu nhân xưng phiếm định, sự chú ý tập trung vào sự việc, sự kiện, hành động."
+    },
+    {
+     "t": "para",
+     "text": "• Câu nhân xưng khái quát (обобщённо-личные) — hành động mà động từ biểu thị thuộc về bất kỳ ai, chủ thể của hành động được hiểu một cách khái quát: Из пе́сни сло́ва не вы́кинешь (tục ngữ Nga) (Lời trong bài hát chẳng thể bỏ đi một chữ — sự thật không thể chối bỏ)."
+    },
+    {
+     "t": "para",
+     "text": "• Câu vô nhân xưng (безличные) — câu không có và không thể có chủ ngữ. Câu vô nhân xưng biểu thị trạng thái của môi trường xung quanh, trạng thái thể chất hoặc tâm lý của con người: Света́ет (Trời đang rạng sáng); Его́ зноби́ло (Anh ấy thấy ớn lạnh trong người)."
+    },
+    {
+     "t": "para",
+     "text": "• Câu nguyên thể (инфинитивные) — thành phần chính được diễn đạt bằng động từ nguyên thể không phụ thuộc vào bất kỳ từ nào khác trong câu: Лицо́м к лицу́ лица́ не увида́ть (С. Есе́нин) (Mặt kề mặt thì chẳng nhìn rõ mặt)."
+    },
+    {
+     "t": "para",
+     "text": "• Câu danh xưng (номинативные) — thành phần chính được diễn đạt bằng danh từ ở danh cách (cách 1). Câu danh xưng khẳng định sự hiện hữu, tồn tại của hiện tượng hay sự vật mà thành phần chính gọi tên: Москва́. Дом Шу́йского. Ночь. Сад. Фонта́н (А. Пу́шкин) (Moskva. Nhà Shuisky. Đêm. Khu vườn. Đài phun nước)."
+    }
+   ]
+  },
+  {
+   "id": "gra-21-s002",
+   "type": "grammar",
+   "title": "Câu một thành phần với động từ ngôi (с личными глаголами) — Lý thuyết",
+   "num": null,
+   "blocks": [
+    {
+     "t": "subhead",
+     "text": "1. Trong câu nhân xưng xác định (определённо-личные), thành phần chính (vị ngữ) được diễn đạt bằng:"
+    },
+    {
+     "t": "para",
+     "text": "а) dạng động từ ngôi thứ nhất số ít hoặc số nhiều, thời hiện tại hoặc tương lai: Ни по́честей, ни бога́тства для да́льних доро́г не прошу́, но ма́ленький дво́рик арба́тский с собо́й уношу́ (Б. Окуджа́ва) (Tôi không cầu vinh quang hay phú quý cho những chặng đường xa, chỉ mang theo mình khoảng sân nhỏ phố Arbat); Ну что ж, посмо́трим, попыта́ем сча́стья (Thôi được, để xem sao, ta thử vận may xem);"
+    },
+    {
+     "t": "para",
+     "text": "б) dạng động từ ngôi thứ hai số ít hoặc số nhiều, thời hiện tại hoặc tương lai: Сде́лаешь то, что я проси́л, и мо́жешь отдыха́ть (Cậu làm xong việc tôi nhờ thì có thể nghỉ); Дойдёте до угла́, а там поверни́те нале́во (Anh đi đến góc phố rồi rẽ trái);"
+    },
+    {
+     "t": "para",
+     "text": "в) dạng động từ ở thức mệnh lệnh: Не предвкуша́й счастли́вых дней, преподнесённых небеса́ми (Б. Окуджа́ва) (Đừng vội nếm trước những ngày hạnh phúc mà trời cao ban tặng); Во глубине́ сиби́рских руд храни́те го́рдое терпе́нье (А. Пу́шкин) (Trong thẳm sâu hầm mỏ Sibir, hãy giữ lòng kiên nhẫn kiêu hãnh)."
+    },
+    {
+     "t": "note",
+     "text": "Câu nhân xưng xác định đồng nghĩa với câu hai thành phần có đại từ nhân xưng làm chủ ngữ: Прошу́ внима́ния! — Я прошу́ внима́ния! (Xin chú ý! — Tôi xin mọi người chú ý!)"
+    },
+    {
+     "t": "subhead",
+     "text": "2. Trong câu nhân xưng phiếm định (неопределённо-личные), thành phần chính (vị ngữ) được diễn đạt bằng:"
+    },
+    {
+     "t": "para",
+     "text": "dạng động từ ngôi thứ ba số nhiều, thời quá khứ, hiện tại hoặc tương lai: На селе́ погова́ривают, бу́дто она́ совсе́м ему́ не ро́дственница... (Н. Го́голь) (Trong làng người ta xì xào rằng cô ấy hoàn toàn chẳng phải họ hàng gì với ông ta...); По у́лицам слона́ води́ли, как ви́дно, напока́з (И. Крыло́в) (Người ta dắt voi qua các phố, hẳn là để khoe); И пусть говоря́т, да, пусть говоря́т, но — нет, никто́ не ги́бнет зря... (В. Высо́цкий) (Và mặc người ta nói, ừ thì cứ nói, nhưng — không, chẳng ai ngã xuống vô ích...); Э́то ничего́, что мы поэ́ты, то́лько бы чита́ли нас и пе́ли (Л. Оша́нин) (Chúng tôi là nhà thơ thì đã sao, miễn là người ta còn đọc và còn hát thơ chúng tôi)."
+    },
+    {
+     "t": "note",
+     "text": "Câu nhân xưng xác định, nhân xưng phiếm định và nhân xưng khái quát được dùng khi cần hướng sự chú ý vào hành động, chứ không phải vào người thực hiện hành động."
+    },
+    {
+     "t": "subhead",
+     "text": "3. Trong câu nhân xưng khái quát (обобщённо-личные), thành phần chính (vị ngữ) được diễn đạt bằng:"
+    },
+    {
+     "t": "para",
+     "text": "а) dạng động từ ngôi thứ nhất số nhiều, thời hiện tại và tương lai: Что име́ем — не храни́м, потеря́вши — пла́чем (tục ngữ Nga) (Cái đang có thì không biết giữ, mất rồi mới khóc);"
+    },
+    {
+     "t": "para",
+     "text": "б) dạng động từ ngôi thứ hai số ít, thời hiện tại và tương lai: Без труда́ не вы́тащишь и ры́бку из пруда́ (tục ngữ Nga) (Không chịu khó thì con cá trong ao cũng chẳng bắt được);"
+    },
+    {
+     "t": "para",
+     "text": "в) dạng động từ ngôi thứ ba số ít hoặc số nhiều, thời hiện tại và tương lai: По́сле дра́ки кулака́ми не ма́шут (tục ngữ Nga) (Đánh nhau xong rồi thì chẳng ai còn vung nắm đấm — chuyện đã rồi, hối cũng muộn); Ах, он люби́л, как в на́ши лета́ уже́ не лю́бят (А. Пу́шкин) (Ôi, chàng đã yêu — như ở tuổi chúng ta người ta không còn yêu được thế nữa);"
+    },
+    {
+     "t": "para",
+     "text": "г) dạng động từ ở thức mệnh lệnh: Век живи́, век учи́сь (tục ngữ Nga) (Sống một đời, học một đời); Не спеши́ языко́м — торопи́сь де́лом (tục ngữ Nga) (Chớ nhanh miệng lưỡi, hãy mau việc làm)."
+    },
+    {
+     "t": "note",
+     "text": "Câu nhân xưng khái quát là những câu về hình thức trùng với câu nhân xưng xác định hoặc nhân xưng phiếm định, nhưng biểu thị hành động hay trạng thái của một chủ thể được hiểu khái quát (bất kỳ ai)."
+    }
+   ]
+  },
+  {
+   "id": "gra-21-s003",
+   "type": "exercise",
+   "title": "Упражнение 312",
+   "num": 312,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy đọc các câu (xem phần lý thuyết ngay trên). Chú ý các cách diễn đạt thành phần chính trong câu một thành phần có động từ ngôi (личные глаголы)."
+    },
+    {
+     "t": "para",
+     "text": "Đối chiếu mục lý thuyết: vị ngữ của câu nhân xưng xác định dùng dạng ngôi thứ nhất, ngôi thứ hai và thức mệnh lệnh; câu nhân xưng phiếm định — ngôi thứ ba số nhiều; câu nhân xưng khái quát — các dạng trùng với hai loại trên (và cả ngôi thứ ba số ít/số nhiều), nhưng chủ thể được hiểu khái quát."
+    }
+   ]
+  },
+  {
+   "id": "gra-21-s004",
+   "type": "exercise",
+   "title": "Упражнение 313",
+   "num": 313,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy xác định các câu, hoặc phần được nhấn mạnh của câu, thuộc loại nào: câu nhân xưng xác định, câu nhân xưng phiếm định hay câu nhân xưng khái quát."
+    },
+    {
+     "t": "para",
+     "text": "а) 1. Вы́пей воды́, отдохни́, а то совсе́м зарабо́тался (Uống ngụm nước, nghỉ chút đi, kẻo cậu làm việc kiệt sức mất rồi); 2. Пода́льше поло́жишь — побли́же возьмёшь (Cất càng kỹ, lấy càng dễ); 3. Ну сказа́ли ему́, что непра́в, ничего́ стра́шного (Thì người ta đã bảo anh ta là anh ta sai, có gì ghê gớm đâu); 4. Поживи́-ка с моё, мне уж седьмо́й деся́ток пошёл (Cứ thử sống đến tuổi tôi xem — tôi đã ngoài sáu mươi rồi đấy); 5. Не волну́йся, успе́ешь всё сде́лать (Đừng lo, cậu sẽ kịp làm xong hết); 6. Придёшь, быва́ло, домо́й, а там никого́ (Hồi ấy cứ về đến nhà là chẳng có một ai); 7. Не предава́йте идеа́лов свое́й ю́ности (Đừng phản bội những lý tưởng thời tuổi trẻ của mình); 8. Да, мне уже́ сказа́ли, что на́до де́лать (Vâng, người ta đã bảo tôi cần làm gì rồi); 9. Дава́й схо́дим на ре́чку, искупа́емся (Ta ra sông tắm một cái đi); 10. Сня́вши го́лову, по волоса́м не пла́чут (Đầu đã mất thì tiếc gì tóc)."
+    },
+    {
+     "t": "para",
+     "text": "б) 1. Возьмёмся за́ руки, друзья́, чтоб не пропа́сть поодино́чке! (Б. Окуджа́ва) (Nắm tay nhau lại, các bạn ơi, để không lụi tàn lẻ loi từng người!); 2. Прости́м горя́чке ю́ных лет и ю́ный жар, и ю́ный бред (А. Пу́шкин) (Hãy tha thứ cho cơn sốt tuổi xuân — cả nhiệt huyết trẻ trung lẫn cuồng vọng trẻ dại); 3. Нас снача́ла сюда́ и пуска́ть не хоте́ли, мы уже́ тут встреча́лись с подо́бными шту́ками (К. Си́монов) (Ban đầu người ta còn không muốn cho chúng tôi vào đây — những trò như thế chúng tôi từng gặp ở đây rồi); 4. Обы́чно по по́воду на́шего обобществлённого литерату́рного хозя́йства к нам обраща́ются с вопро́сами вполне́ зако́нными, но весьма́ однообра́зными: «Как э́то вы пи́шете вдвоём?» (И. Ильф, Е. Петро́в) (Về «cơ ngơi văn chương tập thể hoá» của chúng tôi, người ta thường nêu những câu hỏi hoàn toàn chính đáng nhưng khá đơn điệu: «Làm thế nào mà hai ông viết chung được?»); 5. Сейча́с его́ схва́тят, заткну́т рот тря́пкой и унесу́т куда́-нибудь на слобо́дку Рома́новку (В. Ката́ев) (Bây giờ người ta sẽ tóm lấy nó, nhét giẻ vào miệng và khiêng nó đi đâu đó về xóm Romanovka); 6. Смея́сь над глупцо́м, всегда́ по́мни: в ша́шки он игра́ет лу́чше тебя́ (Ф. Исканде́р) (Khi cười nhạo kẻ ngốc, hãy luôn nhớ: cờ đam hắn chơi giỏi hơn anh đấy); 7. Когда́ в до́ме у нас происхо́дит что́-нибудь неприя́тное, от меня́ всё скрыва́ют (А. Але́ксин) (Mỗi khi trong nhà xảy ra chuyện gì khó chịu, người ta đều giấu tôi hết); 8. До́лго стоя́л я, про меня́ забы́ли. А мо́жет, бро́сили?.. (А. Би́тов) (Tôi đứng đó hồi lâu — người ta đã quên tôi. Mà cũng có thể đã bỏ rơi tôi rồi?..); 9. Темь хоть глаз вы́коли, ног, рук уж не чу́ем, всё лицо́ скова́ло, губ вро́де как совсе́м не́ту — одна́ че́люсть го́лая — и ничего́ не поймёшь! (И. Бу́нин) (Tối đen như mực, chân tay đã chẳng còn cảm giác, cả khuôn mặt cứng đờ, môi tựa hồ không còn nữa — chỉ trơ ra hàm — chẳng còn hiểu ra làm sao nữa!); 10. Как благоро́дно эволюциони́ровало враньё за после́дние две́сти лет! Ра́ньше вра́ли, что есть жени́х, миллионе́р и коннозаво́дчик. Тепе́рь врут про югосла́вского режиссёра (С. Довла́тов) (Trò bịa đặt đã «tiến hoá» thanh nhã làm sao trong hai trăm năm qua! Trước kia người ta bịa rằng có một vị hôn phu — triệu phú kiêm chủ trại ngựa. Bây giờ người ta bịa về một đạo diễn Nam Tư)."
+    },
+    {
+     "t": "note",
+     "text": "Chú thích của sách: Темь (ở đây) = темнота́ (bóng tối)."
+    }
+   ]
+  },
+  {
+   "id": "gra-21-s005",
+   "type": "exercise",
+   "title": "Упражнение 314",
+   "num": 314,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy xác định các câu sau thuộc loại nào: câu một thành phần hay câu hai thành phần khuyết (двусоставные неполные). Giải thích lựa chọn của bạn."
+    },
+    {
+     "t": "note",
+     "text": "KHÔNG phải là câu nhân xưng xác định: những câu có thành phần chính được diễn đạt bằng động từ thời quá khứ, vì các dạng thời quá khứ không chỉ ra ngôi (chúng chỉ có phạm trù ngữ pháp giống và số). Những câu như vậy được xếp vào câu hai thành phần khuyết."
+    },
+    {
+     "t": "note",
+     "text": "KHÔNG phải là câu nhân xưng phiếm định: những câu mà thành phần chính được diễn đạt bằng dạng động từ ngôi thứ ba số ít thời quá khứ. Những câu như vậy cũng được xếp vào câu hai thành phần khuyết."
+    },
+    {
+     "t": "para",
+     "text": "а) 1. По беле́вшей в ночи́ папа́хе угада́л По́ловцева. Наки́нул сюрту́к, снял с пе́чи ва́ленки, вы́шел (М. Шо́лохов) (Nhờ chiếc mũ lông trắng hiện rõ trong đêm mà nhận ra Polovtsev. Khoác vội áo, lấy đôi ủng dạ trên lò sưởi xuống, rồi đi ra); 2. В Черномо́рске собира́лись стро́ить кремато́рий с соотве́тствующим помеще́нием для гробовы́х урн, то есть колумба́рием, и э́то но́вшество со стороны́ кладби́щенского подотде́ла почему́-то о́чень весели́ло гра́ждан (И. Ильф, Е. Петро́в) (Ở Chernomorsk người ta định xây lò hoả táng kèm gian nhà để bình tro — tức nhà lưu cốt, và sáng kiến này của tiểu ban nghĩa trang chẳng hiểu sao lại làm dân chúng rất khoái chí); 3. Сообра́зно с зако́ном, Цинцинна́ту объяви́ли сме́ртный пригово́р шёпотом (В. Набо́ков) (Theo đúng luật, người ta tuyên án tử hình Cincinnatus bằng giọng thì thầm); 4. Он возмуща́лся сле́дователем. А сам?.. Наста́ивал стро́ить не капита́льное жильё, а бара́ки, приводи́л ве́ские до́воды — бы́стро, дёшево, про́сто... Гла́вное — про́сто! (В. Тендряко́в) (Anh ta phẫn nộ với dự thẩm viên. Thế còn chính anh ta?.. Cứ khăng khăng đòi xây không phải nhà ở kiên cố mà là lán trại, đưa ra những lý lẽ chắc nịch — nhanh, rẻ, đơn giản... Cái chính là đơn giản!); 5. Чай пи́ли, как всегда́, в пять часо́в ве́чера в ма́лой гости́ной у тёплого ками́на, под портре́том императри́цы Екатери́ны (Б. Окуджа́ва) (Trà, như thường lệ, được dùng lúc năm giờ chiều trong phòng khách nhỏ, bên lò sưởi ấm, dưới bức chân dung nữ hoàng Ekaterina)."
+    },
+    {
+     "t": "para",
+     "text": "б) День хвали́ ве́чером, так говоря́т. А пока́ во дворе́, за́мкнутом с трёх сторо́н дома́ми, с четвёртой — живо́й колю́чей и́згородью, — сбро́сили иму́щество, что да́ли в доро́гу: не́сколько я́щиков с консе́рвными ба́нками, на кото́рых бы́ли заграни́чные этике́тки, фля́гу прого́рклого расти́тельного ма́сла отку́да-то из запа́сов О́РСа, припасённого сами́м дире́ктором, стра́нные пода́рочные мешо́чки с нена́шенскими этике́тками и ку́чу тряпья́ (А. Приста́вкин).\n(Khen ngày thì đợi đến chiều hãy khen — người ta bảo vậy. Còn lúc này, trong khoảng sân ba phía bị nhà vây kín, phía thứ tư là hàng rào cây gai sống, người ta dỡ xuống số đồ đạc được cấp cho chuyến đi: mấy thùng đồ hộp dán nhãn nước ngoài, một can dầu ăn đã khét lấy từ kho dự trữ của ORS do chính ông giám đốc để dành, những chiếc túi quà là lạ dán nhãn không phải của ta, và một đống giẻ rách.)"
+    },
+    {
+     "t": "para",
+     "text": "в) Неда́вно мы с жено́й бы́ли на да́че. Вы́шли погуля́ть. Ну, я, есте́ственно, и гуля́я, ду́маю о Росси́и. Дово́льно уве́систая сосу́лька свиса́ла с кры́ши, где проходи́ла на́ша тро́пка. Ну, виси́т. Пусть себе́ виси́т, гре́ется на со́лнце. Кому́ она́ меша́ет? Так жена́ мне говори́т: «На́до попроси́ть у сосе́дей стремя́нку. Влезь на неё и сбей э́ту сосу́льку, ина́че она́ ру́хнет на на́шу го́лову». «Э́то абсолю́тно невозмо́жно», — говорю́ я ей. «Почему́ невозмо́жно? — упря́мо наста́ивает жена́. — Ты сбива́й себе́ сосу́льку и ду́май о Росси́и» (Ф. Исканде́р).\n(Mới đây hai vợ chồng tôi về nhà nghỉ ngoại ô. Chúng tôi ra ngoài dạo chơi. Mà tôi thì, dĩ nhiên, vừa dạo bước vẫn vừa nghĩ về nước Nga. Một cột băng khá nặng rủ từ mái nhà xuống, ngay chỗ lối mòn chúng tôi đi qua. Thì nó cứ treo đấy. Mặc nó treo, phơi mình trong nắng. Nó cản trở ai đâu? Thế mà vợ tôi bảo: «Phải mượn hàng xóm cái thang. Anh trèo lên gạt cột băng ấy đi, không thì nó rơi xuống đầu nhà mình bây giờ». «Điều đó tuyệt đối không thể được», — tôi đáp. «Sao lại không thể? — vợ tôi bướng bỉnh khăng khăng. — Thì anh cứ vừa gạt cột băng vừa nghĩ về nước Nga».)"
+    }
+   ]
+  },
+  {
+   "id": "gra-21-s006",
+   "type": "exercise",
+   "title": "Упражнение 315",
+   "num": 315,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy đọc các đoạn sau. Vào chỗ ba chấm, ở những nơi cần thiết, hãy điền đại từ thích hợp theo nghĩa. Giải thích lựa chọn của bạn, nêu các phương án. Sau đó theo dõi xem văn bản thay đổi thế nào khi vắng mặt các đại từ."
+    },
+    {
+     "t": "para",
+     "text": "а) И оста́лся (…) без рабо́ты. Мо́жет, (…) ду́маю, на портно́го вы́учиться? (…) заме́тил — у портны́х всегда́ хоро́шее настрое́ние...\n(…) встреча́ю Ло́гинова с телеви́дения.\n— Приве́т. Ну, как?\n— Да вот, (…) ищу́ рабо́ту (С. Довла́тов).\n(Thế là (…) thất nghiệp. Hay là, (…) nghĩ bụng, đi học nghề may? (…) để ý thấy thợ may lúc nào tâm trạng cũng tốt... (…) gặp Loginov bên đài truyền hình. — Chào. Sao rồi? — Thì đấy, (…) đang tìm việc.)"
+    },
+    {
+     "t": "para",
+     "text": "б) В о́бщем, забо́т на да́че хвата́ет. Впро́чем, да́чи у меня́ никогда́ не́ было, но (…) так ду́маю... А вот (…) на юг е́здил, в Алу́пку. Из профсою́зов (…) путёвку вы́делили... Лет де́сять наза́д, но (…) запо́мнил юг хорошо́... (…) не купа́лся, пра́вда, хо́лодно уже́ бы́ло — то ли дека́брь, то ли янва́рь, но (…) по́мню, о́чень хоте́лось купа́ться. С ребя́тами одна́жды (…) «запра́вились» и пошли́ на мо́ре. (…) на́чали раздева́ться, а тут как раз пограни́чники... (В. Гу́барев).\n(Nói chung, việc ở nhà nghỉ ngoại ô thì chẳng thiếu. Mà thực ra tôi chưa từng có nhà nghỉ, nhưng (…) cứ nghĩ vậy... Còn (…) thì từng đi nghỉ ở miền nam, ở Alupka. Công đoàn (…) cấp cho suất nghỉ... Khoảng chục năm trước, nhưng (…) nhớ miền nam rất rõ... (…) không tắm biển, quả thật, vì trời đã lạnh — chừng tháng Mười hai hay tháng Giêng gì đó, nhưng (…) nhớ là rất thèm tắm. Một lần cùng đám bạn, (…) «nạp» tí men rồi kéo nhau ra biển. (…) vừa bắt đầu cởi đồ thì đúng lúc lính biên phòng ập tới... )"
+    },
+    {
+     "t": "para",
+     "text": "в) А исто́рия с костя́ми была́ така́я. Когда́ по́сле пе́рвых ро́бких успе́хов экспеди́ции начала́сь полоса́ сплошны́х неуда́ч, Корни́лов по каки́м-то поня́тным одному́ ему́ приме́там вдруг реши́л, что ме́сто, где они́ копа́ют, коне́чно, безнадёжное, но вот е́сли приня́ться за небольшо́й поло́гий хо́лмик на я́блочной про́секе...\n(…) копа́ли до́лго и безнадёжно. (…) меня́ли места́, изры́ли весь уча́сток и под коне́ц (…) докопа́лись. Отры́ли преогро́мную ями́ну, по́лную косте́й. Ви́димо, сюда́ (…) свали́ли оста́тки како́го-то богаты́рского пи́ршества — персо́н э́дак на ты́сячу. Коро́вы, о́вцы, ко́зы, ло́шади, сви́ньи!\nНо по колхо́зу уж попо́лз слушо́к, что учёные раскопа́ли сапно́е кла́дбище (Ю. Домбро́вский).\n(Còn câu chuyện về đống xương thì như thế này. Khi sau những thành công rụt rè đầu tiên của đoàn khảo cổ bắt đầu chuỗi thất bại liên miên, Kornilov, theo những dấu hiệu nào đó chỉ mình ông hiểu, bỗng quyết rằng chỗ họ đang đào dĩ nhiên là vô vọng, nhưng nếu bắt tay vào quả đồi nhỏ thoai thoải bên lối phát quang vườn táo thì... (…) đào mãi, đào trong vô vọng. (…) đổi chỗ liên tục, xới tung cả khu đất, và rốt cuộc (…) cũng đào trúng. Bới được một cái hố to tướng đầy xương. Hẳn là người ta đã đổ xuống đây tàn tích của một bữa tiệc khổng lồ nào đó — cỡ nghìn thực khách. Bò, cừu, dê, ngựa, lợn! Nhưng khắp nông trang đã loan tin đồn rằng các nhà khoa học đào trúng một nghĩa địa chôn gia súc bệnh tỵ thư.)"
+    }
+   ]
+  },
+  {
+   "id": "gra-21-s007",
+   "type": "grammar",
+   "title": "Câu vô nhân xưng (Безличные предложения) — Lý thuyết",
+   "num": null,
+   "blocks": [
+    {
+     "t": "subhead",
+     "text": "Trong câu vô nhân xưng, thành phần chính (vị ngữ) được diễn đạt bằng:"
+    },
+    {
+     "t": "para",
+     "text": "а) động từ vô nhân xưng (безличный глагол) — trùng với dạng ngôi thứ ba số ít, còn ở thời quá khứ — với dạng giống trung số ít: Вечере́ет (Trời sẩm tối); За окно́м света́ло (Ngoài cửa sổ trời đang rạng); Ему́ нездоро́вится (Anh ấy thấy khó ở trong người);"
+    },
+    {
+     "t": "note",
+     "text": "Động từ vô nhân xưng biểu thị hành động hay trạng thái tự nó diễn ra, không có người thực hiện (chủ thể), và không thể dùng với danh từ ở danh cách."
+    },
+    {
+     "t": "para",
+     "text": "б) động từ ngôi (личный глагол) dùng với nghĩa vô nhân xưng: В по́лдень пригрева́ло (so sánh: Со́лнце пригрева́ло) (Giữa trưa trời hâm hấp nóng — Mặt trời sưởi ấm); В трубе́ во́ет (Ве́тер во́ет) (Trong ống khói có tiếng hú — Gió hú); Во рту́ со́хнет (Бельё со́хнет) (Miệng khô khốc — Quần áo đang phơi khô); На у́лице темне́ет (Не́бо темне́ет) (Ngoài trời đang tối dần — Bầu trời sẫm lại); Во все ще́ли ду́ло (Ве́тер ду́ет) (Gió lùa qua mọi khe hở — Gió thổi);"
+    },
+    {
+     "t": "note",
+     "text": "Động từ ngôi khi dùng với nghĩa vô nhân xưng không biến đổi: chỉ có dạng ngôi thứ ba số ít hoặc dạng thời quá khứ giống trung."
+    },
+    {
+     "t": "para",
+     "text": "в) từ vị ngữ tính vô nhân xưng (безлично-предикативное слово), biểu thị:\n1) trạng thái con người (доса́дно — bực mình, со́вестно — áy náy, лень — lười, неохо́та — chẳng buồn làm), trạng thái thiên nhiên (темно́ — tối, жа́рко — nóng, моро́зно — giá buốt, дождли́во — mưa dầm, ую́тно — ấm cúng), môi trường xung quanh (по́здно — muộn, ра́но — sớm, вре́мя — đến lúc, пора́ — đến giờ, далеко́ — xa, бли́зко — gần, ни́зко — thấp): По́сле его́ слов мне ста́ло доса́дно (Sau những lời anh ta nói, tôi thấy bực mình); Уже́ по́здно что́-то меня́ть (Đã quá muộn để thay đổi điều gì); В до́ме тепло́ и ую́тно (Trong nhà ấm áp và dễ chịu);\n2) các nghĩa tình thái: tất yếu (на́до, ну́жно, необходи́мо, на́добно (cổ)), khả năng (мо́жно, возмо́жно), mong muốn (уго́дно), bổn phận (должно́): На́до отме́тить его́ хра́брость (Phải ghi nhận lòng dũng cảm của anh ấy); Вам уго́дно спо́рить по э́тому по́воду (Ngài cứ muốn tranh cãi về chuyện này); Ну́жно прислу́шиваться к сове́там ста́рших (Cần lắng nghe lời khuyên của những người lớn tuổi hơn);"
+    },
+    {
+     "t": "note",
+     "text": "Một số từ kể trên chỉ làm thành phần chính khi kết hợp với động từ nguyên thể."
+    },
+    {
+     "t": "para",
+     "text": "г) tính động từ bị động dạng ngắn: В ко́мнате наку́рено (Trong phòng đầy khói thuốc); О ссо́ре вско́ре бы́ло забы́то (Chuyện cãi vã chẳng bao lâu đã bị quên đi);"
+    },
+    {
+     "t": "para",
+     "text": "д) từ phủ định (нет, не́ту (khẩu ngữ)) hoặc cấu trúc biểu thị phủ định: В до́ме нет ни души́ (Trong nhà không một bóng người); В отве́т ни сло́ва (Đáp lại — không một lời); У него́ (нет) ни семьи́, ни дете́й (Anh ta không gia đình, không con cái)."
+    }
+   ]
+  },
+  {
+   "id": "gra-21-s008",
+   "type": "exercise",
+   "title": "Упражнение 316",
+   "num": 316,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy đọc các câu (xem phần lý thuyết ngay trên). Chú ý các cách diễn đạt thành phần chính trong câu vô nhân xưng."
+    },
+    {
+     "t": "para",
+     "text": "Đối chiếu các nhóm а)–д) ở mục lý thuyết: thành phần chính của câu vô nhân xưng có thể là động từ vô nhân xưng; động từ ngôi dùng với nghĩa vô nhân xưng; từ vị ngữ tính vô nhân xưng; tính động từ bị động dạng ngắn; từ нет/не́ту hoặc cấu trúc phủ định."
+    }
+   ]
+  },
+  {
+   "id": "gra-21-s009",
+   "type": "exercise",
+   "title": "Упражнение 317",
+   "num": 317,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Dùng động từ vô nhân xưng hoặc động từ ngôi với nghĩa vô nhân xưng, hãy tìm phương án đồng nghĩa cho các câu sau. Trong các câu thu được, hãy xác định vị ngữ thuộc loại nào: động từ vô nhân xưng hay động từ ngôi dùng với nghĩa vô nhân xưng."
+    },
+    {
+     "t": "note",
+     "text": "Câu vô nhân xưng có thể biểu thị: hiện tượng thiên nhiên: Моро́зит (Trời giá rét); trạng thái thể chất và tâm lý của con người: Лихора́дит (Thấy sốt run trong người)."
+    },
+    {
+     "t": "para",
+     "text": "1. За окно́м стано́вится светло́ (Ngoài cửa sổ trời đang sáng dần); 2. Наступа́ет ве́чер (Buổi tối đang đến); 3. Я пло́хо себя́ чу́вствую (Tôi thấy trong người khó chịu); 4. Его́ бьёт озно́б (Cơn ớn lạnh làm anh ấy run lên); 5. Наступи́л рассве́т (Bình minh đã đến); 6. За окно́м наступа́ли су́мерки (Ngoài cửa sổ hoàng hôn đang buông); 7. Стано́вится хо́лодно (Trời đang trở lạnh); 8. От всех э́тих разгово́ров к моему́ го́рлу подступа́ла тошнота́ (Tất cả những chuyện trò ấy khiến cơn buồn nôn dâng lên tận cổ tôi); 9. С утра́ уда́рил моро́з (Từ sáng trời đổ rét đậm); 10. За окно́м разыгра́лась вью́га (Ngoài cửa sổ bão tuyết nổi lên dữ dội); 11. В голове́ слы́шится гул (Trong đầu nghe tiếng ong ong); 12. Неожи́данно мне в го́лову пришла́ гениа́льная мысль (Bỗng nhiên một ý nghĩ thiên tài loé lên trong đầu tôi); 13. На душе́ ка́мнем лежа́ла боль (Nỗi đau đè nặng trong lòng như tảng đá)."
+    }
+   ]
+  },
+  {
+   "id": "gra-21-s010",
+   "type": "exercise",
+   "title": "Упражнение 318",
+   "num": 318,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Dùng động từ vô nhân xưng hoặc động từ ngôi với nghĩa vô nhân xưng, hãy tìm phương án đồng nghĩa cho các câu sau."
+    },
+    {
+     "t": "note",
+     "text": "Câu vô nhân xưng có thể biểu thị: nghĩa tình thái bổn phận: надлежи́т (phải), сле́дует (nên), подоба́ет (cho phải phép); sự hiện hữu hay thiếu vắng: (не) хвата́ет, (не) достаёт (Ему́ не хвата́ет сме́лости — Anh ta thiếu can đảm); tác động của một lực không rõ: но́сит (Где его́ но́сит? — Nó lang thang đâu không biết?), везёт (Ему́ везёт — Anh ấy gặp may); tác động của lực tự nhiên (kết hợp với tạo cách): Тру́бы заби́ло (гря́зью) (Đường ống bị (bùn) làm tắc)."
+    },
+    {
+     "t": "para",
+     "text": "1. Сухи́е ли́стья заби́ли трамва́йные пути́ (Lá khô phủ kín đường tàu điện); 2. К ве́черу снег запороши́л кры́ши домо́в (Về chiều tuyết rắc trắng các mái nhà); 3. Вы должны́ всегда́ по́мнить об э́том (Các bạn phải luôn nhớ điều này); 4. Ка́ждый год весно́й вода́ залива́ет луг (Hằng năm cứ vào xuân, nước lại ngập đồng cỏ); 5. Уда́ча сопу́тствует ему́ во всех его́ начина́ниях (Vận may đồng hành với anh ấy trong mọi việc khởi sự); 6. Град поби́л весь урожа́й (Mưa đá phá sạch mùa màng); 7. Снег залепи́л глаза́ (Tuyết táp đầy mắt); 8. Молодо́й челове́к не до́лжен так себя́ вести́ (Người trẻ tuổi không nên cư xử như vậy); 9. С ку́хни доно́сится за́пах све́жих пирого́в (Từ gian bếp thoảng đưa mùi bánh nướng mới ra lò); 10. Су́дорога свела́ но́гу (Chân bị chuột rút); 11. Мо́лния уда́рила в де́рево (Sét đánh trúng cây); 12. Де́нег всегда́ ма́ло (Tiền thì lúc nào cũng thiếu)."
+    }
+   ]
+  },
+  {
+   "id": "gra-21-s011",
+   "type": "exercise",
+   "title": "Упражнение 319",
+   "num": 319,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy đọc các câu sau. Chú ý các động từ vô nhân xưng có hậu tố -ся được nhấn mạnh. Dùng động từ ngôi, hãy đưa ra phương án đồng nghĩa của các câu. Giải thích sự khác nhau về nghĩa giữa chúng. Sau đó tự đặt câu với các động từ vô nhân xưng có -ся, và xác định ý nghĩa của những cấu trúc vô nhân xưng khác có mặt trong các câu trên."
+    },
+    {
+     "t": "note",
+     "text": "Nhóm động từ vô nhân xưng được bổ sung từ các động từ ngôi bằng cách thêm hậu tố -ся: хо́чется, спи́тся, ве́рится, ды́шится. Động từ vô nhân xưng với -ся biểu thị hành động không chủ ý, không do điều gì thúc đẩy. So sánh: Я хочу́ есть (Tôi muốn ăn — vì đã lâu chưa ăn). — Мне хо́чется есть (Tự dưng thấy thèm ăn — không hiểu sao, dù mới ăn chưa lâu)."
+    },
+    {
+     "t": "para",
+     "text": "1. — Что, взво́дный, не спи́тся на но́вом ме́сте? — улыбну́лся комэ́ск. — Ну, у вас ещё вся жизнь впереди́: привы́кнете приходи́ть к команди́ру то́лько тогда́, когда́ он вас вызыва́ет (Б. Васи́льев) (— Sao thế, trung đội trưởng, ở chỗ mới không ngủ được à? — viên chỉ huy đại đội kỵ binh mỉm cười. — Mà cậu còn cả cuộc đời phía trước: rồi sẽ quen chỉ đến gặp chỉ huy khi nào được gọi); 2. Так хо́чется жить (В. Аста́фьев) (Thèm sống biết bao); 3. Во всём мне хо́чется дойти́ до са́мой су́ти. В рабо́те, в по́исках пути́, в серде́чной сму́те (Б. Пастерна́к) (Trong mọi sự tôi đều muốn đi đến tận cùng bản chất. Trong công việc, trong kiếm tìm đường đi, trong cơn xao động của con tim); 4. В о́бщем, любо́й книгопрода́вец подтверди́т, что кни́ги расхо́дятся тем лу́чше, чем они́ ху́же и пошле́е. Исключе́ния случа́йны и ре́дки. Весьма́ показа́тельно, что стихи́ не чита́ются во́все; э́то потому́, что они́ тре́буют от чита́теля тако́го литерату́рного и душе́вного у́ровня, кото́рый ему́ недосту́пен (В. Ходасе́вич) (Nói chung, bất kỳ người bán sách nào cũng sẽ xác nhận: sách càng dở và càng tầm thường thì càng bán chạy. Ngoại lệ là ngẫu nhiên và hiếm hoi. Rất đáng chú ý là thơ thì hoàn toàn không được đọc; ấy là vì thơ đòi hỏi ở người đọc một trình độ văn chương và tâm hồn mà anh ta không với tới); 5. Несмотря́ ни на что, ве́рится в хоро́шее и све́тлое (А. Коже́вников) (Dù thế nào đi nữa, lòng vẫn cứ tin vào những điều tốt đẹp, tươi sáng); 6. Трава́ умы́та ли́внем, и ды́шится легко́ (Д. Су́харев) (Cỏ được trận mưa rào gội sạch, và hít thở thật nhẹ nhõm); 7. Мы е́дем, е́дем, е́дем в далёкие края́. Весёлые сосе́ди, счастли́вые друзья́. Нам ве́село живётся, мы пе́сенку поём, а в пе́сенке поётся о том, как мы живём (С. Михалко́в) (Chúng ta đi, đi, đi mãi về những miền xa. Những người bạn đồng hành vui tính, những người bạn hạnh phúc. Chúng ta sống thật vui, ta hát một bài ca, và bài ca hát về cuộc sống của chúng ta); 8. Всё получа́ется. На́йден но́вый спо́соб рабо́ты, рабо́тается удиви́тельно легко́, и всё идёт как по ма́слу (Б. Струга́цкий) (Mọi việc đều suôn sẻ. Đã tìm ra cách làm việc mới, làm việc nhẹ nhàng đến lạ, và mọi thứ trơn tru như được bôi mỡ); 9. Ко́лька вы́сунулся, у́ши в одну́, в другу́ю сто́рону наста́вил — нет ли кого́ сле́дом? Вы́ждал, убеди́лся — никого́. Верну́лся за Са́шкой, пощу́пал, как ему́ лежи́тся, сно́ва вы́волок теле́жку на доро́гу. Схвати́л верёвку двумя́ рука́ми, повёз (А. Приста́вкин) (Kolka thò đầu ra, vểnh tai nghe ngóng hết bên này đến bên kia — có ai theo sau không? Chờ một lát, chắc chắn rồi — chẳng có ai. Cậu quay lại chỗ Sashka, sờ xem em nằm có êm không, rồi lại lôi chiếc xe kéo ra đường. Nắm chặt sợi dây bằng cả hai tay, kéo đi); 10. Сиди́м, смо́трим... Спать не хо́чется и да́же не дре́млется... (А. Че́хов) (Chúng tôi ngồi đó, nhìn... Chẳng muốn ngủ, thậm chí chẳng buồn ngủ gật...); 11. Мне уже́ соверше́нно расхоте́лось спать. Я подви́нул к стене́ стул и принялся́ ду́мать, отрыва́ть мне обо́и и́ли воздержа́ться (К. Булычёв) (Tôi đã hoàn toàn hết buồn ngủ. Tôi kê chiếc ghế sát tường và bắt đầu nghĩ xem nên bóc giấy dán tường ra hay là thôi); 12. Ему́ почу́дилось, что он задыха́ется и сле́пнет, и захоте́лось бежа́ть, что́бы вы́рваться из ка́менных объя́тий (Л. Андре́ев) (Anh cảm tưởng mình đang nghẹt thở và loà dần đi, và bỗng muốn bỏ chạy để thoát khỏi vòng ôm bằng đá); 13. Как живётся вам с друго́ю, — Про́ще ведь? — Уда́р весла́! — Ли́нией берегово́ю Ско́ро ль па́мять отошла́ (М. Цвета́ева) (Sống với người khác, anh thấy thế nào — Hẳn giản đơn hơn chứ? — Một nhịp chèo khua! — Ký ức về em có sớm lùi xa như dải bờ kia không); 14. Во́льфу о́чень везло́ на войне́; из са́мых опа́сных положе́ний ему́ удава́лось уходи́ть соверше́нно невреди́мым (Г. Газда́нов) (Wolf rất gặp may trong chiến tranh: từ những tình thế hiểm nghèo nhất, anh ta đều thoát ra hoàn toàn lành lặn); 15. Как засмо́трится мне ны́нче, как зады́шится? Во́здух крут перед грозо́й, крут да вя́зок. Что споётся мне сего́дня, что услы́шится? Пти́цы ве́щие пою́т — да всё из ска́зок (В. Высо́цкий) (Hôm nay mắt tôi sẽ đắm nhìn ra sao, hơi thở sẽ thế nào? Không khí trước cơn giông đặc quánh, đặc mà dính. Hôm nay tôi sẽ hát lên điều gì, sẽ nghe thấy điều gì? Bầy chim tiên tri đang hót — mà toàn chuyện cổ tích)."
+    },
+    {
+     "t": "note",
+     "text": "Chú thích của sách: Комэ́ск — команди́р эскадро́на (chỉ huy đại đội kỵ binh)."
+    }
+   ]
+  },
+  {
+   "id": "gra-21-s012",
+   "type": "exercise",
+   "title": "Упражнение 320",
+   "num": 320,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Với các trạng từ vị ngữ tính cho sẵn dưới đây (hoặc tự chọn), hãy đặt câu vô nhân xưng. Sử dụng các cấu trúc: кому́? + trạng từ đuôi -о + (nguyên thể/động từ); где? + trạng từ đuôi -о + (nguyên thể/động từ); когда́? + trạng từ đuôi -о + (nguyên thể/động từ). Trong các câu thu được, hãy xác định trạng từ làm thành phần gì của câu."
+    },
+    {
+     "t": "note",
+     "text": "Động từ vô nhân xưng tạo từ động từ ngôi bằng hậu tố -ся, khi kết hợp với trạng từ, được dùng ở dạng ngôi thứ ba số ít (спи́тся, ве́рится, ды́шится): Здесь сла́дко спи́тся (Ở đây ngủ thật ngon giấc)."
+    },
+    {
+     "t": "para",
+     "text": "а) со́вестно (áy náy), сты́дно (xấu hổ), то́шно (chán ngán/buồn nôn);\nб) ве́село (vui), гру́стно (buồn), ра́достно (mừng vui), ску́чно (chán), смешно́ (buồn cười), трево́жно (bồn chồn);\nв) ве́трено (lộng gió), пусты́нно (vắng vẻ), ую́тно (ấm cúng), тепло́ (ấm), хо́лодно (lạnh); бо́льно (đau), го́лодно (đói), ду́шно (ngột ngạt), пло́хо (khó chịu)."
+    }
+   ]
+  },
+  {
+   "id": "gra-21-s013",
+   "type": "exercise",
+   "title": "Упражнение 321",
+   "num": 321,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy xác định các câu, hoặc phần câu có trạng từ và từ vị ngữ tính vô nhân xưng được nhấn mạnh, thuộc loại nào: câu hai thành phần hay câu một thành phần. Các từ được nhấn mạnh làm thành phần gì của câu?"
+    },
+    {
+     "t": "para",
+     "text": "1. В жи́зни ему́ приходи́лось тру́дно (А. Але́ксин) (Trong cuộc đời, anh ấy từng phải chịu nhiều vất vả); 2. За окно́м бы́ло сы́ро и па́смурно (В. Войно́вич) (Ngoài cửa sổ trời ẩm ướt và u ám); 3. — Пло́хо тебе́ здесь бу́дет, — сказа́л Ве́нька. — Ох, пло́хо! Ты где пра́ктику проходи́л? В Казахста́не? Э́то где жа́рко, да? Здесь хо́лодно (Ю. Васи́льев) (— Ở đây rồi cậu sẽ khổ đấy, — Venka nói. — Ôi, khổ lắm! Cậu thực tập ở đâu? Ở Kazakhstan à? Chỗ ấy nóng, đúng không? Còn ở đây thì lạnh); 4. Глаза́ откры́ла — о́чень пло́хо всё ви́дно. И не поня́ть: куда́ Ко́ля дева́лся (Е. Замя́тин) (Cô mở mắt — mọi thứ nhìn rất mờ. Và không sao hiểu nổi: Kolya biến đi đâu mất); 5. Кру́то забира́л ию́ль (Ф. Абра́мов) (Tháng Bảy đang vào độ gay gắt); 6. — Ничего́, — отве́тила она́. — Э́то, мо́жет быть, глу́по, но мне хоте́лось спроси́ть у тебя́ одну́ вещь (Г. Газда́нов) (— Không sao, — nàng đáp. — Có thể điều này là ngớ ngẩn, nhưng em muốn hỏi anh một chuyện); 7. Гля́нула На́стя вниз. Так бли́зко беле́ют пли́ты. Стра́шно, в-в-в... И жаль. Чего́? Себя́? И́ли я́сной весны́? (Е. Замя́тин) (Nastya nhìn xuống dưới. Những phiến đá trắng lên thật gần. Sợ quá, hu-hu... Và tiếc. Tiếc gì? Tiếc mình? Hay tiếc mùa xuân trong trẻo?); 8. Порази́тельная у неё спосо́бность — выводи́ть меня́ из равнове́сия. Но ссо́риться бы́ло глу́по. Ссо́рятся лю́ди от полноты́ жи́зни... (С. Довла́тов) (Khả năng của nàng thật đáng kinh ngạc — làm tôi mất bình tĩnh. Nhưng cãi nhau thì thật ngớ ngẩn. Người ta cãi nhau khi cuộc sống đủ đầy...); 9. Нея́сно и не́жно зовёт ма́льчика ночь (Е. Замя́тин) (Đêm gọi cậu bé, mơ hồ và dịu dàng); 10. Ва́ша огро́мная держа́ва сего́дня представля́ет гла́вную опа́сность для цивилиза́ции. Росси́ю необходи́мо поста́вить на ме́сто, укороти́ть ей ру́ки. Э́то пойдёт вам же на по́льзу, а Евро́пе даст возмо́жность и да́льше развива́ться в ну́жном направле́нии (Б. Аку́нин) (Cường quốc khổng lồ của quý vị ngày nay là mối nguy chính cho nền văn minh. Cần đặt nước Nga vào đúng chỗ của nó, chặt ngắn vây cánh của nó đi. Điều đó có lợi cho chính quý vị, còn châu Âu sẽ có thể tiếp tục phát triển theo hướng cần thiết); 11. Ра́но и́ли по́здно, счита́ли они́, прихо́дит понима́ние: еди́нственно сто́ящая цель — служе́ние нау́ке, она́ не обма́нет, не разочару́ет. Нау́ка, лаборато́рная рабо́та, позна́ние тайн приро́ды — э́то бы́ло краси́во, я́сно и огражда́ло от про́чих обя́занностей (Д. Гра́нин) (Họ cho rằng, sớm hay muộn người ta cũng sẽ hiểu ra: mục đích duy nhất đáng giá là phụng sự khoa học — nó không lừa dối, không làm ta thất vọng. Khoa học, công việc trong phòng thí nghiệm, khám phá những bí ẩn của thiên nhiên — điều đó thật đẹp, thật sáng rõ, và che chắn ta khỏi mọi bổn phận khác); 12. В челове́ческой культу́ре са́мое дре́внее иску́сство — иску́сство обще́ния. Когда́ не́ было ни теа́тра, ни жи́вописи, ни му́зыки, бы́ло обще́ние. Из него́ роди́лись все иску́сства. Тру́дно определи́ть, в чём состоя́ло иску́сство обще́ния Зу́бра и мо́жно ли назва́ть э́то иску́сством (Д. Гра́нин) (Trong văn hoá loài người, nghệ thuật cổ xưa nhất là nghệ thuật giao tiếp. Khi chưa có sân khấu, hội hoạ, âm nhạc — đã có giao tiếp. Từ nó sinh ra mọi nghệ thuật. Khó mà xác định nghệ thuật giao tiếp của «Zubr» nằm ở đâu, và liệu có thể gọi đó là nghệ thuật hay không); 13. Так как па́пеньке бы́ло уго́дно пусти́ть его́ по вое́нной слу́жбе, то не то́лько безро́потно, но да́же как бы с удово́льствием проходи́л не́сколько лет в офице́рских пого́нах (А. Амфитеа́тров) (Vì cha cậu muốn cho cậu theo binh nghiệp, nên cậu không những cam chịu mà thậm chí dường như còn thích thú đeo quân hàm sĩ quan suốt mấy năm); 14. Но сейча́с на балюстра́де шёл о́бщий хоро́ший разгово́р. Тут обе́им сторона́м ва́жно бы́ло не спасова́ть друг пе́ред дру́гом (Л. Касси́ль) (Nhưng lúc này, trên hành lang lan can đang diễn ra một cuộc trò chuyện chung vui vẻ. Ở đây, điều quan trọng với cả hai bên là không tỏ ra lép vế trước nhau); 15. Ти́хо уйти́ бы́ло здесь про́ще просто́го: то́лько за дом, а уж да́льше никого́ не встре́тишь (В. Мака́нин) (Lặng lẽ bỏ đi ở đây là chuyện dễ như bỡn: chỉ cần vòng ra sau nhà, còn xa hơn nữa thì chẳng gặp một ai)."
+    }
+   ]
+  },
+  {
+   "id": "gra-21-s014",
+   "type": "exercise",
+   "title": "Упражнение 322",
+   "num": 322,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy biến đổi các câu có từ есть thành câu vô nhân xưng với từ нет hoặc với cấu trúc biểu thị phủ định. Trong các câu thu được với từ phủ định нет, ở những chỗ có thể, hãy dùng đại từ/trạng từ phủ định hoặc tiểu từ nhấn mạnh ни."
+    },
+    {
+     "t": "para",
+     "text": "1. В его́ слова́х есть смысл (Lời anh ấy nói có lý); 2. Здесь есть всё, что ну́жно (Ở đây có đủ mọi thứ cần thiết); 3. Всем есть де́ло до мои́х пробле́м (Ai cũng bận tâm đến những vấn đề của tôi); 4. У него́ есть хоро́шая иде́я (Anh ấy có một ý tưởng hay); 5. В го́роде есть и конце́ртный зал, и спорти́вный ко́мплекс (Thành phố có cả phòng hoà nhạc lẫn khu liên hợp thể thao); 6. У меня́ есть мину́та свобо́дного вре́мени (Tôi có một phút rảnh rỗi); 7. Э́ти кни́ги у меня́ есть, я могу́ вам за́втра их принести́ (Những cuốn sách này tôi có, mai tôi có thể mang đến cho anh); 8. Пока́ у нас есть возмо́жность продава́ть това́ры со ски́дкой (Hiện chúng tôi vẫn còn khả năng bán hàng giảm giá); 9. Для геро́ев-одино́чек в совреме́нном ми́ре есть ме́сто (Trong thế giới hiện đại vẫn có chỗ cho những người hùng đơn độc); 10. В его́ предложе́нии есть ко́е-что но́вое (Trong đề xuất của anh ấy có đôi điều mới mẻ); 11. Я ду́маю, есть хотя́ бы оди́н чита́тель, кото́рый не знако́м с э́тим произведе́нием (Tôi nghĩ có ít nhất một độc giả chưa biết đến tác phẩm này); 12. У него́ есть самолю́бие, а зна́чит, и уваже́ние к други́м лю́дям (Anh ấy có lòng tự trọng, nghĩa là cũng biết tôn trọng người khác); 13. В запове́днике есть все усло́вия для того́, что́бы живо́тные чу́вствовали себя́ свобо́дно (Khu bảo tồn có đủ mọi điều kiện để muông thú cảm thấy tự do); 14. На э́том са́йте в Интерне́те есть ссы́лка на на́шу страни́цу (Trên trang web này có đường dẫn đến trang của chúng tôi); 15. В моём расска́зе есть не́сколько слов вы́мысла (Trong câu chuyện của tôi có vài lời hư cấu); 16. Аттракцио́ны в на́шем па́рке есть и бу́дут (Các trò chơi trong công viên chúng tôi đang có và sẽ còn có); 17. Ка́ждому из нас есть что вспо́мнить (Mỗi chúng ta đều có điều để hồi tưởng); 18. У меня́ есть мно́го причи́н, что́бы отказа́ть вам в ва́шей про́сьбе (Tôi có nhiều lý do để từ chối đề nghị của anh)."
+    }
+   ]
+  },
+  {
+   "id": "gra-21-s015",
+   "type": "grammar",
+   "title": "Câu nguyên thể và câu danh xưng (Инфинитивные и номинативные предложения) — Lý thuyết",
+   "num": null,
+   "blocks": [
+    {
+     "t": "subhead",
+     "text": "1. Trong câu nguyên thể (инфинитивные предложения), thành phần chính được diễn đạt bằng:"
+    },
+    {
+     "t": "para",
+     "text": "а) động từ nguyên thể không phụ thuộc vào bất kỳ thành phần nào khác của câu: Быть грозе́ вели́кой! (А. Пу́шкин) (Ắt sẽ nổi cơn giông tố lớn!); Вам не поня́ть мое́й печа́ли (romance) (Người đâu hiểu được nỗi buồn của tôi); Не броди́ть, не мять в куста́х багря́ных лебеды́ и не иска́ть следа́ (С. Есе́нин) (Chẳng còn lang thang, chẳng còn giẫm lên đám rau muối trong bụi cây đỏ thắm, chẳng còn kiếm tìm dấu vết); Уж не мечта́ть о не́жности, о сла́ве! (А. Блок) (Thôi chẳng còn mơ về sự dịu dàng, về vinh quang!);"
+    },
+    {
+     "t": "note",
+     "text": "Câu nguyên thể đồng nghĩa với câu vô nhân xưng có các từ vị ngữ tính tình thái ну́жно, нельзя́, необходи́мо, должно́ và những từ khác, nhưng giàu sắc thái biểu cảm hơn."
+    },
+    {
+     "t": "para",
+     "text": "б) động từ nguyên thể với tiểu từ бы mang nghĩa mong muốn: Ему́ бы промолча́ть (а он на́чал спо́рить) (Giá anh ta cứ im đi (đằng này lại bắt đầu cãi)); Вам бы оста́ться и пожи́ть здесь до о́сени (Giá anh ở lại sống đây đến tận mùa thu)."
+    },
+    {
+     "t": "subhead",
+     "text": "2. Trong câu danh xưng (номинативные предложения), thành phần chính được diễn đạt bằng:"
+    },
+    {
+     "t": "para",
+     "text": "а) danh từ ở danh cách: По́лдень. За о́кнами ду́шное ле́то (К. Си́монов) (Giữa trưa. Ngoài cửa sổ là mùa hè oi ả); 1916 год. Око́пы... Грязь... (М. Шо́лохов) (Năm 1916. Chiến hào... Bùn lầy...);"
+    },
+    {
+     "t": "para",
+     "text": "б) từ loại khác được danh từ hoá, ở danh cách: Ура́! (Hoan hô!); Распахну́лась дверь. На поро́ге ниче́м не приме́тный молодо́й челове́к. Ве́жливое «Здра́сьте!» (Cánh cửa mở toang. Trên ngưỡng cửa là một thanh niên chẳng có gì nổi bật. Một tiếng «Chào ạ!» lễ phép); Предположе́ние де́рзкое. Нике́м не вы́сказанное (Một giả định táo bạo. Chưa ai từng nói ra);"
+    },
+    {
+     "t": "para",
+     "text": "в) cấu trúc sinh cách (генитивные конструкции): Сбежа́лись прохо́жие. Кри́ку! Шу́му! (Người qua đường xúm cả lại. Ôi bao nhiêu là tiếng la! Bao nhiêu là tiếng ồn!); С детьми́ забо́т! (Có con nhỏ thì bao nhiêu là lo toan!);"
+    },
+    {
+     "t": "para",
+     "text": "г) cụm số từ–danh từ hoặc giới từ–danh từ: Де́сять часо́в (Mười giờ); Вме́сто предисло́вия (Thay lời tựa)."
+    },
+    {
+     "t": "note",
+     "text": "Thành phần chính của câu danh xưng thường được xếp vào vị ngữ, tuy một số nhà nghiên cứu coi nó là chủ ngữ."
+    }
+   ]
+  },
+  {
+   "id": "gra-21-s016",
+   "type": "exercise",
+   "title": "Упражнение 323",
+   "num": 323,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy đọc các câu (xem phần lý thuyết ngay trên). Chú ý các cách diễn đạt thành phần chính trong câu nguyên thể và câu danh xưng."
+    },
+    {
+     "t": "para",
+     "text": "Đối chiếu mục lý thuyết: thành phần chính của câu nguyên thể là động từ nguyên thể độc lập (có thể kèm tiểu từ бы); thành phần chính của câu danh xưng là danh từ/từ được danh từ hoá ở danh cách, cấu trúc sinh cách, hoặc cụm số từ–danh từ, giới từ–danh từ."
+    }
+   ]
+  },
+  {
+   "id": "gra-21-s017",
+   "type": "exercise",
+   "title": "Упражнение 324",
+   "num": 324,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Dùng các cấu trúc nguyên thể vô nhân xưng, hãy đưa ra phương án đồng nghĩa của các câu sau. Xác định ý nghĩa của chúng."
+    },
+    {
+     "t": "para",
+     "text": "а) 1. Все должны́ спать (Mọi người đều phải ngủ); 2. Мы с тобо́й не мо́жем и мечта́ть об о́тдыхе (Tôi với cậu thì đến mơ về nghỉ ngơi cũng không được); 3. На́до зако́нчить строи́тельство в срок и доложи́ть (Phải hoàn thành công trình đúng hạn và báo cáo); 4. Ты не до́лжен разгова́ривать (Cậu không được nói chuyện); 5. Я уже́ не могу́ вспо́мнить, когда́ э́то бы́ло (Tôi không còn nhớ nổi chuyện đó xảy ra khi nào); 6. Я не смогу́ ни за что́ повтори́ть э́то упражне́ние ещё раз (Tôi không tài nào làm lại bài tập này thêm lần nữa); 7. Все сотру́дники должны́ успоко́иться и продолжа́ть рабо́ту (Toàn thể nhân viên phải bình tĩnh lại và tiếp tục làm việc); 8. И да́же по ра́ции мы не мо́жем сообщи́ть, где мы нахо́димся (Ngay cả qua bộ đàm chúng tôi cũng không thể báo mình đang ở đâu); 9. Мы с тобо́й не мо́жем туда́ верну́ться (Tôi với cậu không thể quay lại đó); 10. Вы должны́ разби́ться на гру́ппы по пять челове́к и дви́гаться к це́ли (Các bạn phải chia thành từng nhóm năm người và tiến về mục tiêu); 11. Напряму́ю пройти́ нельзя́, впереди́ боло́то (Không thể đi thẳng qua được — phía trước là đầm lầy)."
+    },
+    {
+     "t": "para",
+     "text": "б) 1. Здесь на́до бы́ло бы навести́ поря́док, а то круго́м грязь (Lẽ ra ở đây phải dọn cho ngăn nắp, chứ xung quanh bẩn quá); 2. Он до́лжен был бы сверну́ть в сто́рону, а он пое́хал пря́мо (Lẽ ra anh ta phải rẽ sang bên, đằng này lại đi thẳng); 3. То́лько бы я не забы́л но́мер его́ телефо́на (Chỉ mong tôi đừng quên số điện thoại của anh ấy); 4. Е́сли бы мы зна́ли наперёд, что бу́дет, всё пошло́ бы ина́че (Giá chúng ta biết trước điều gì sẽ xảy ra, mọi chuyện đã khác); 5. Е́сли бы мо́жно бы́ло прожи́ть жизнь ещё раз, ско́льких оши́бок мы бы избежа́ли (Giá có thể sống lại cuộc đời một lần nữa, ta đã tránh được bao nhiêu lỗi lầm); 6. Я хоте́л бы оста́ться сего́дня до́ма и отдохну́ть (Hôm nay tôi muốn được ở nhà nghỉ ngơi); 7. Е́сли бы мы могли́ верну́ться в де́тство хотя́ бы на оди́н день (Giá chúng ta có thể trở về tuổi thơ, dù chỉ một ngày); 8. То́лько бы они́ не поссо́рились из-за пустяко́в (Chỉ mong họ đừng cãi nhau vì những chuyện vặt vãnh); 9. Я хоте́л бы узна́ть зара́нее, каки́е вопро́сы бу́дут на экза́мене (Tôi muốn biết trước kỳ thi sẽ có những câu hỏi nào)."
+    }
+   ]
+  },
+  {
+   "id": "gra-21-s018",
+   "type": "exercise",
+   "title": "Упражнение 325",
+   "num": 325,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy đọc đoạn trích từ cuốn sách của O. I. Glazunova «Iosif Brodsky: nhật ký Mỹ» (СПб.: Не́стор, 2005). Chú ý cách các cấu trúc nguyên thể được diễn giải trong ngôn ngữ thơ ca. Sau đó hãy mang đến buổi học vài đoạn trích thơ có dùng cấu trúc nguyên thể và xác định ý nghĩa của chúng."
+    },
+    {
+     "t": "para",
+     "text": "Бо́льше уже́ ту дверь не отпира́ть ключо́м\nс замыслова́той боро́дкой, и не включи́ть плечо́м\nэлектри́чество в ку́хне к ра́дости огурца́.\nЭ́та скворе́шня пережила́ скворца́,\nкучевы́е и пе́ристые стада́.\nС то́чки зре́ния вре́мени, нет «тогда́»:\nесть то́лько «там». И «там», напряга́я взор,\nпа́мять бро́дит по ко́мнатам в су́мерках, то́чно вор,\nша́ря в шкафа́х, роня́я на́ пол рома́н,\nзапуска́я ру́ку к себе́ в карма́н.\n(Ио́сиф Бро́дский. «Келломя́ки», 1982)\n(Chẳng còn bao giờ mở cánh cửa ấy bằng chiếc chìa khoá có răng cầu kỳ, chẳng còn lấy vai bật công tắc điện trong bếp cho quả dưa chuột mừng vui. Cái tổ sáo này đã sống lâu hơn con sáo, lâu hơn những đàn mây tích và mây ti. Theo quan điểm của thời gian thì không có «khi ấy»: chỉ có «nơi ấy». Và «nơi ấy», căng mắt nhìn, ký ức lang thang qua các căn phòng trong hoàng hôn, hệt như tên trộm, lục lọi các ngăn tủ, đánh rơi cuốn tiểu thuyết xuống sàn, thọc tay vào túi của chính mình.)"
+    },
+    {
+     "t": "para",
+     "text": "Значе́ние безли́чных инфинити́вных констру́кций с части́цей «не» («Бо́льше уже́ ту дверь не отпира́ть ключо́м»; «и не включи́ть плечо́м электри́чество в ку́хне») неизбе́жно включа́ет мода́льный отте́нок сожале́ния и́ли опасе́ния. Сравни́те: Мне не привы́кнуть к э́тому кли́мату; Ему́ не сдать экза́мен; Нам не успе́ть на по́езд. Причём, в отли́чие от ли́чных констру́кций (Я не могу́ (не хочу́, не бу́ду...)), в инфинити́вной констру́кции причи́на невыполне́ния того́ и́ли ино́го де́йствия ча́сто обусло́влена не жела́нием челове́ка, а вне́шними обстоя́тельствами. Сравни́те: Я не могу́ прочита́ть э́тот текст за де́сять мину́т (потому́ что недоста́точно хорошо́ зна́ю язы́к, а кто́-то друго́й мо́жет), — Э́тот текст не прочита́ть за де́сять мину́т (текст о́чень большо́й, поэ́тому никто́ не смо́жет э́то сде́лать).\n(Dịch: Nghĩa của các cấu trúc nguyên thể vô nhân xưng với tiểu từ «не» tất yếu hàm chứa sắc thái tình thái tiếc nuối hoặc e ngại. So sánh: Мне не привы́кнуть к э́тому кли́мату — Tôi chẳng thể nào quen được khí hậu này; Ему́ не сдать экза́мен — Anh ta chẳng thể nào thi đỗ; Нам не успе́ть на по́езд — Chúng ta không kịp chuyến tàu mất rồi. Hơn nữa, khác với cấu trúc nhân xưng (Я не могу́ (не хочу́, не бу́ду...)), trong cấu trúc nguyên thể, nguyên nhân khiến hành động không thực hiện được thường không nằm ở ý muốn con người, mà ở hoàn cảnh bên ngoài. So sánh: Я не могу́ прочита́ть э́тот текст за де́сять мину́т — Tôi không thể đọc văn bản này trong mười phút (vì tôi chưa biết tiếng đủ giỏi, còn người khác thì có thể), — Э́тот текст не прочита́ть за де́сять мину́т — Văn bản này không thể nào đọc xong trong mười phút (văn bản quá dài, nên chẳng ai làm nổi).)"
+    },
+    {
+     "t": "para",
+     "text": "Инфинити́вные констру́кции с части́цей «не» употребля́ются в том слу́чае, е́сли в ка́честве причи́ны выступа́ют не физи́ческие ограниче́ния челове́ка, а судьба́, рок, жи́зненные обстоя́тельства — звёзды на не́бе не скла́дываются, поэ́тому и не получа́ется осуществи́ть то, что хо́чется. Прису́тствие роково́го вмеша́тельства обусло́вило широ́кое примене́ние отрица́тельных инфинити́вных констру́кций в поэ́зии: «Вам не поня́ть мое́й печа́ли» (рома́нс); «Но дни бегу́т, бегу́т года́, — Им не сойти́ся никогда́» (М. Ле́рмонтов); «Не броди́ть, не мять в куста́х багря́ных Лебеды́ и не иска́ть следа́. Со снопо́м воло́с твои́х овся́ных Отосни́лась ты мне навсегда́» (С. Есе́нин); «Уж не мечта́ть о не́жности, о сла́ве, Всё минова́лось, мо́лодость прошла́! Твоё лицо́ в его́ просто́й опра́ве Свое́й руко́й убра́л я со стола́» (А. Блок).\n(Dịch: Cấu trúc nguyên thể với «не» được dùng khi nguyên nhân không phải là giới hạn thể chất của con người, mà là số phận, định mệnh, hoàn cảnh cuộc đời — những vì sao trên trời không xếp thuận, nên điều mong muốn không thành hiện thực. Sự hiện diện của bàn tay định mệnh khiến các cấu trúc nguyên thể phủ định được dùng rộng rãi trong thơ: «Người đâu hiểu được nỗi buồn của tôi» (romance); «Nhưng ngày cứ trôi, năm tháng cứ trôi — Chúng chẳng bao giờ gặp lại» (M. Lermontov); «Chẳng còn lang thang, chẳng còn giẫm lên đám rau muối trong bụi cây đỏ thắm, chẳng còn kiếm tìm dấu vết. Cùng bó tóc màu yến mạch của em — em đã mãi mãi thôi hiện về trong giấc mơ tôi» (S. Esenin); «Thôi chẳng còn mơ về dịu dàng, về vinh quang. Tất cả đã qua, tuổi xuân đã hết! Gương mặt em trong khung ảnh giản dị, chính tay tôi đã cất khỏi mặt bàn» (A. Blok).)"
+    },
+    {
+     "t": "para",
+     "text": "Что же получа́ется у Бро́дского? Хоте́л бы верну́ться в про́шлое, но нет возмо́жности и́з-за роково́го стече́ния обстоя́тельств. Впро́чем, за э́тим не сле́дует ни исте́рики, ни обвине́ний, ни сарка́зма — то́лько печа́льный ито́г, суха́я констата́ция со́бственной «сме́рти»: «Э́та скворе́шня пережила́ скворца́». Но ведь скворе́ц, он же а́втор э́тих строк, ещё жив! Челове́к рассма́тривает себя́ как «мертвеца́», е́сли у́мерло всё лу́чшее, что бы́ло в его́ жи́зни, исче́зли ро́зовые облака́, «кучевы́е и пе́ристые стада́» ю́ности.\n(Dịch: Vậy ở Brodsky thì sao? Nhà thơ muốn trở về quá khứ, nhưng không thể — vì sự run rủi nghiệt ngã của hoàn cảnh. Song theo sau đó không phải là cơn kích động, lời buộc tội hay giọng mỉa mai — chỉ là một tổng kết buồn, lời ghi nhận khô khốc về «cái chết» của chính mình: «Cái tổ sáo này đã sống lâu hơn con sáo». Nhưng con sáo — cũng chính là tác giả những dòng thơ — vẫn còn sống! Con người tự xem mình là «người chết» khi tất cả những gì tốt đẹp nhất trong đời đã chết, khi những đám mây hồng, «những đàn mây tích và mây ti» của tuổi trẻ, đã biến mất.)"
+    },
+    {
+     "t": "para",
+     "text": "«С то́чки зре́ния вре́мени, нет “тогда́”», — пи́шет Бро́дский. Катего́рия вре́мени — филосо́фская катего́рия. Она́ многоли́ка. О како́м вре́мени идёт речь в э́том отры́вке? Возмо́жно, о жи́зни челове́ка, о его́ вну́треннем состоя́нии. А здесь вре́мя теря́ет свою́ односторо́ннюю напра́вленность и мо́жет дви́гаться в обо́их направле́ниях. То, что жи́во в се́рдце, и есть настоя́щее, тем бо́лее для челове́ка, кото́рый счита́ет себя́ «уме́ршим». Отсю́да стремле́ние, «напряга́я взор», вспо́мнить всё, что оста́лось в про́шлом, вспо́мнить до мельча́йших подро́бностей: и замыслова́тую боро́здку ключа́, и то, как обы́чно, входя́ в ко́мнату, плечо́м включа́л электри́чество, и ра́дость от предчу́вствия долгожда́нной встре́чи. Вре́мя останови́лось, мир расколо́лся на две ча́сти: «здесь» и «там», и то́лько э́то име́ет для поэ́та значе́ние. И «там» — в той жи́зни — «па́мять бро́дит по ко́мнатам в су́мерках, то́чно вор», как бу́дто вспомина́ть про́шлое — э́то преступле́ние. А мо́жет быть, не преступле́ние, про́сто когда́-то раз и навсегда́ он запрети́л себе́ ду́мать о том вре́мени: бесполе́зно вороши́ть то, что невозмо́жно верну́ть, ничего́, кро́ме бо́ли и отча́янья, э́то не принесёт. Но па́мять вновь и вновь возвраща́ется к боле́зненной те́ме, «запуска́я ру́ку себе́ в карма́н», по крупи́нкам собира́я то, что прошло́, но не утра́тило своего́ значе́ния.\n(Dịch: «Theo quan điểm của thời gian, không có “khi ấy”», — Brodsky viết. Phạm trù thời gian là một phạm trù triết học. Nó muôn mặt. Đoạn thơ này nói về thời gian nào? Có lẽ về cuộc đời con người, về trạng thái nội tâm của anh ta. Và khi ấy thời gian mất đi tính một chiều của nó và có thể chuyển động theo cả hai hướng. Cái gì còn sống trong tim, cái đó chính là hiện tại — nhất là với người tự coi mình «đã chết». Từ đó mà có khát khao, «căng mắt nhìn», nhớ lại tất cả những gì còn ở lại trong quá khứ, nhớ đến từng chi tiết nhỏ nhất: cả đường răng cầu kỳ của chiếc chìa khoá, cả thói quen lấy vai bật công tắc điện mỗi khi bước vào phòng, cả niềm vui khi linh cảm về cuộc gặp mong đợi từ lâu. Thời gian dừng lại, thế giới vỡ làm hai nửa: «ở đây» và «nơi ấy», và chỉ điều đó là có ý nghĩa với nhà thơ. Và «nơi ấy» — trong cuộc đời kia — «ký ức lang thang qua các căn phòng trong hoàng hôn, hệt như tên trộm», như thể nhớ về quá khứ là một tội lỗi. Mà có lẽ chẳng phải tội lỗi — chỉ là đã có lúc ông vĩnh viễn cấm mình nghĩ về quãng thời gian ấy: bới lại những gì không thể lấy lại là vô ích, nó chẳng mang lại gì ngoài đau đớn và tuyệt vọng. Nhưng ký ức vẫn hết lần này đến lần khác quay về với đề tài nhức nhối ấy, «thọc tay vào túi mình», nhặt nhạnh từng hạt những gì đã qua nhưng chưa mất đi ý nghĩa.)"
+    }
+   ]
+  },
+  {
+   "id": "gra-21-s019",
+   "type": "exercise",
+   "title": "Упражнение 326",
+   "num": 326,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy mở rộng các câu danh xưng sau. Sử dụng các cấu trúc: у кого́? + danh từ; где? + danh từ; когда́? + danh từ. Trong các câu thu được, hãy xác định từ ngữ mở rộng làm thành phần gì của câu."
+    },
+    {
+     "t": "note",
+     "text": "Câu danh xưng chia thành loại không gắn chủ thể (нели́чно-субъе́ктные) và loại gắn chủ thể (ли́чно-субъе́ктные). Loại thứ nhất nói về tình huống không thể quy cho một chủ thể nào: Дождь (Mưa). Loại thứ hai — về tình huống có người gây ra hoặc người mang trạng thái: (У меня́) Неприя́тности ((Tôi đang gặp) Chuyện phiền toái)."
+    },
+    {
+     "t": "para",
+     "text": "У́тро (Buổi sáng); Час (дня) (Một giờ (chiều)); Си́льная боль (Cơn đau dữ dội); Воскресе́нье (Chủ nhật); По́лночь (Nửa đêm); Зима́ (Mùa đông); Дека́брь (Tháng Mười hai); Больши́е переме́ны (Những đổi thay lớn); Мете́ль (Bão tuyết); Ве́тер (Gió); Ра́дость (Niềm vui); Тре́бование (Đòi hỏi); Ссо́ра (Cuộc cãi vã); О́ттепель (Tiết trời tan băng); Наводне́ние (Lũ lụt); Не о́тдых (Chẳng phải là nghỉ ngơi); За́рево (Ánh lửa rực trời); Желе́зный хара́ктер (Tính cách sắt đá); Пожа́р (Đám cháy); Моро́з (Giá rét); Пурга́ (Bão tuyết mịt mù); Шторм (Bão biển); Гололе́дица (Đường phủ băng trơn trượt); Зной (Nắng nóng hầm hập); За́суха (Hạn hán); Гром (Sấm); Рабо́та без выходны́х (Công việc không ngày nghỉ); Гроза́ (Cơn giông); Дождь (Mưa); Грипп (Cúm); Жара́ (Nóng bức); Шко́ла, а́рмия, рабо́та на заво́де (Trường học, quân ngũ, làm việc ở nhà máy); Ра́дуга (Cầu vồng); Долг пе́ред това́рищами (Món nợ với bạn bè); Дым (Khói); Хо́лод (Cái lạnh); Сквозня́к (Gió lùa); Но́вый год (Năm mới); То свет, то тьма (Lúc sáng, lúc tối)."
+    }
+   ]
+  },
+  {
+   "id": "gra-21-s020",
+   "type": "exercise",
+   "title": "Упражнение 327",
+   "num": 327,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy đọc các câu danh xưng-tồn tại (номинативно-бытийные). Dùng tiểu từ вот, hãy tạo từ chúng các câu danh xưng-chỉ trỏ (указательно-номинативные). Nghĩ ra các tình huống giao tiếp mà những câu ấy có thể được nói ra. Sau đó tự đặt thêm vài câu danh xưng-chỉ trỏ."
+    },
+    {
+     "t": "note",
+     "text": "Câu danh xưng chia thành loại tồn tại (бытийные: Кремль) và loại chỉ trỏ (указательные: Вот Кремль — Điện Kremlin đây). Với danh từ biểu thị sự kiện hay trạng thái (Весна́ — Mùa xuân), cũng như khi biểu lộ cảm xúc (vui mừng/thất vọng), dùng tiểu từ chỉ trỏ вот и (Вот и Кремль! Наконе́ц-то! — Kremlin đây rồi! Cuối cùng thì!; Вот и неприя́тности — Thế là rắc rối đến rồi) hoặc tiểu từ вот kèm đại từ khi muốn diễn tả vẻ trang trọng: Вот он, Кремль! (Nó đây rồi — điện Kremlin!)."
+    },
+    {
+     "t": "para",
+     "text": "Моя́ рука́ (Bàn tay tôi); Зада́ние (Bài tập được giao); На́ша у́лица (Phố của chúng tôi); У́тро (Buổi sáng); Твой уче́бник (Sách giáo khoa của cậu); Ну́жный тебе́ цвет (Màu cậu cần); Москва́ (Moskva); Заря́ (Ráng trời); Небольшо́й кусо́к пи́ццы (Miếng pizza nhỏ); Ли́вень (Mưa rào); По́езд «Москва́ — Владивосто́к» (Đoàn tàu «Moskva — Vladivostok»); На́ша о́чередь (Đến lượt chúng ta); Рождество́ (Lễ Giáng sinh); Две ты́сячи оди́ннадцатый год (Năm hai nghìn không trăm mười một); Его́ ко́мната (Căn phòng của anh ấy); Росси́я (Nước Nga); Мои́ фотогра́фии в де́тстве (Những tấm ảnh thời thơ ấu của tôi); Новосе́лье (Tân gia); Мой друг (Bạn tôi); Ро́дина (Tổ quốc); Пе́рвый снег (Tuyết đầu mùa); На́ша столо́вая (Nhà ăn của chúng tôi); После́дний экза́мен (Kỳ thi cuối cùng)."
+    }
+   ]
+  },
+  {
+   "id": "gra-21-s021",
+   "type": "exercise",
+   "title": "Упражнение 328",
+   "num": 328,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy đọc các câu danh xưng được diễn đạt bằng cấu trúc sinh cách. Hãy mở rộng chúng bằng các thành phần phụ khác nhau. Nghĩ ra các tình huống giao tiếp trong đó những câu này có thể được dùng. Sau đó tự đặt thêm vài câu danh xưng với cấu trúc sinh cách."
+    },
+    {
+     "t": "note",
+     "text": "Câu danh xưng diễn đạt bằng cấu trúc sinh cách (генити́вная констру́кция) chỉ số lượng lớn sự vật, hoặc hành động/trạng thái được hình dung như sự vật: (О́чень мно́го) Забо́т! ((Ôi bao nhiêu là) Lo toan!).\nCâu loại này được mở rộng nhờ định ngữ (Забо́т вся́ких! — Đủ thứ lo toan!), bổ ngữ (С детьми́ забо́т! — Có con nhỏ, bao nhiêu là lo!), trạng ngữ (Ле́том забо́т! — Mùa hè lắm việc phải lo!; В го́роде забо́т! — Ở thành phố bao nhiêu là lo toan!), chủ thể ở sinh cách (У меня́ забо́т! — Tôi thì bao nhiêu là việc phải lo!)."
+    },
+    {
+     "t": "para",
+     "text": "Цвето́в! (Hoa ơi là hoa!); Ра́дости бы́ло! (Vui ơi là vui!); Слёз и объя́тий! (Bao nhiêu là nước mắt và những vòng tay ôm!); Разгово́ров бы́ло! (Chuyện trò không dứt!); Сме́ху! (Cười ơi là cười!); Добра́-то! (Của nả ê hề!); Дел бу́дет! (Rồi sẽ bận túi bụi!); Наро́ду! (Người đông nghịt!); Хлопо́т, беготни́! (Bao nhiêu là lo toan, chạy vạy!); Грибо́в и я́год! (Nấm với quả rừng nhiều vô kể!); Сча́стья-то бы́ло! (Hạnh phúc biết bao nhiêu!); Вопро́сов бу́дет! (Rồi sẽ vô khối câu hỏi!); Пятёрок! (Toàn điểm năm!); Госте́й бы́ло! (Khách khứa nườm nượp!); Прете́нзий бу́дет! (Rồi sẽ lắm lời phàn nàn!)."
+    }
+   ]
+  },
+  {
+   "id": "gra-21-s022",
+   "type": "exercise",
+   "title": "Упражнение 329",
+   "num": 329,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy đọc các câu danh xưng được diễn đạt bằng cụm số từ–danh từ hoặc giới từ–danh từ. Hãy viết những mẩu tin ngắn dùng các câu này làm tiêu đề. Sau đó tự đặt thêm vài câu danh xưng với cụm số từ–danh từ hoặc giới từ–danh từ."
+    },
+    {
+     "t": "note",
+     "text": "Câu danh xưng diễn đạt bằng cụm số từ–danh từ hoặc giới từ–danh từ thường được dùng làm nhan đề tác phẩm nghệ thuật hoặc tiêu đề bài báo."
+    },
+    {
+     "t": "para",
+     "text": "Накану́не вы́боров (Trước thềm bầu cử); Пе́ред грозо́й (Trước cơn giông); За преде́лами Вселе́нной (Bên ngoài Vũ trụ); Не́сколько слов о любви́ (Đôi lời về tình yêu); Оди́н шаг вперёд, два — наза́д (Một bước tiến, hai bước lùi); Мно́го шу́ма из ничего́ (Ầm ĩ vì chuyện không đâu); Не́сколько секу́нд тишины́ (Vài giây tĩnh lặng); Благодаря́ расчёту (Nhờ sự tính toán)."
+    }
+   ]
+  }
+ ]
+}

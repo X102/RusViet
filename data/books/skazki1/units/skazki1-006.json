@@ -1,0 +1,243 @@
+{
+ "id": "skazki1-006",
+ "num": 6,
+ "title": "Лиса-лекарка — Cáo làm thầy lang",
+ "vi": "Лиса-лекарка — Cáo làm thầy lang",
+ "ru": "Лиса-лекарка",
+ "icon": "🌿",
+ "color": "#a16207",
+ "sectionPrefix": "skazki1-006-s",
+ "group": "Truyện № 1–30",
+ "sections": [
+  {
+   "id": "skazki1-006-s001",
+   "type": "story",
+   "num": 18,
+   "title": "№ 18 · Лиса-лекарка — Cáo làm thầy lang",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Cùng kiểu truyện «ông lão trèo lên trời» như №19, nhưng cây thần ở đây là cây bắp cải. Nửa sau truyện ghép thêm mô-típ «cáo làm thầy lang» (Лиса-лекарка): cáo lừa ông lão đang đau khổ, vờ chữa cho bà lão đã chết mà thực ra gặm sạch xương bà rồi chuồn mất — kết cục cay đắng, hài hước đen đặc trưng lối kể dân dã Nga."
+    },
+    {
+     "t": "para",
+     "text": "Бывал-живал старик со старухой. (Ngày xửa ngày xưa có một ông lão sống với một bà lão.)"
+    },
+    {
+     "t": "para",
+     "text": "Старик посадил кочешок в подпольецо, а старуха в попелушку. (Ông lão trồng một cây bắp cải con dưới gầm sàn nhà, còn bà lão trồng vào đống tro.)"
+    },
+    {
+     "t": "para",
+     "text": "У старухи в попелушке совсем завял кочешок, а у старика рос, рос, до полу дорос. (Cây của bà lão trồng trong tro thì héo rũ hẳn, còn cây của ông lão cứ lớn mãi, lớn mãi, vươn tới tận sàn nhà.)"
+    },
+    {
+     "t": "para",
+     "text": "Старик взял топор и вырубил на полу прямо кочешка дыру. (Ông lão liền cầm rìu đẽo một cái lỗ trên sàn, ngay chỗ cây bắp cải.)"
+    },
+    {
+     "t": "para",
+     "text": "Кочешок опять рос, рос, до потолку дорос; старик опять взял топор и вырубил на потолку прямо кочешка дыру. (Cây bắp cải lại lớn, lớn mãi, vươn tới tận trần nhà; ông lão lại cầm rìu đẽo một cái lỗ trên trần, ngay chỗ cây.)"
+    },
+    {
+     "t": "para",
+     "text": "Кочешок рос, рос до неба дорос. (Cây bắp cải cứ lớn, lớn mãi, vươn lên đến tận trời.)"
+    },
+    {
+     "t": "para",
+     "text": "Как старику поглядеть на верхушку кочешка? (Làm sao ông lão ngó được lên ngọn cây bây giờ?)"
+    },
+    {
+     "t": "para",
+     "text": "Полез по корешку, лез-лез, лез-лез, долез до неба, просек на́ небе дыру и влез туда. (Ông men theo thân cây mà trèo, trèo mãi trèo mãi, trèo tới tận trời, đục thủng một cái lỗ trên trời rồi chui vào.)"
+    },
+    {
+     "t": "para",
+     "text": "Смотрит: стоят жерновцы; жерновцы повернутся — пирог да шаньга, наверх каши горшок. (Nhìn xem: có cái cối xay đá đặt sẵn; cối vừa quay một vòng là ra ngay chiếc bánh nướng với chiếc bánh phô mai, bên trên lại thêm một nồi cháo.)"
+    },
+    {
+     "t": "para",
+     "text": "Старик наелся, напился и спать повалился. (Ông lão ăn no nê, uống thỏa thuê rồi lăn ra ngủ.)"
+    },
+    {
+     "t": "para",
+     "text": "Выспался, слез на землю и говорит: «Старуха, а старуха! Какое житье-то на небе! Там есть жерновцы, как повернутся — пирог да шаньга, наверх каши горшок!» (Ngủ đẫy giấc, ông tụt xuống đất rồi bảo: «Bà nó ơi, bà nó! Trên trời sống sướng làm sao! Trên ấy có cái cối xay, cứ quay một vòng là ra bánh nướng với bánh phô mai, bên trên lại thêm nồi cháo!»)"
+    },
+    {
+     "t": "para",
+     "text": "«Как бы мне, старичок, там побывать?» («Làm thế nào để tôi cũng lên trên ấy một phen được hở ông?»)"
+    },
+    {
+     "t": "para",
+     "text": "«Садись, старуха, в мешок; я тебя унесу». («Bà chui vào bao đi, để tôi cõng bà lên».)"
+    },
+    {
+     "t": "para",
+     "text": "Старуха подумала и села в мешок. (Bà lão ngẫm nghĩ một lát rồi chui vào bao.)"
+    },
+    {
+     "t": "para",
+     "text": "Старик взял мешок в зубы и полез на́ небо; лез-лез, долго лез; старухе стало скучно, она и спрашивает: «Далеко ли, старичок?» — «Далече, старуха!» (Ông lão ngậm chặt cái bao vào răng rồi trèo lên trời; trèo mãi trèo mãi, trèo hồi lâu; bà lão sốt ruột bèn hỏi: «Còn xa không hở ông?» — «Còn xa lắm, bà nó ơi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Опять лез-лез, лез-лез. «Далеко ли, старичок?» — «Еще половина!» (Lại trèo, trèo mãi. «Còn xa không hở ông?» — «Còn nửa đường nữa!»)"
+    },
+    {
+     "t": "para",
+     "text": "Опять лез-лез, лез-лез. Старуха снова спрашивает: «Далеко ли, старичок?» (Lại trèo, trèo mãi. Bà lão lại hỏi: «Còn xa không hở ông?»)"
+    },
+    {
+     "t": "para",
+     "text": "Только старик хотел сказать: «Недалече!» — мешок у него из зубов вырвался, старуха на землю свалилась и вся расшиблась. (Ông lão vừa toan đáp: «Sắp tới rồi!» thì cái bao tuột khỏi răng, bà lão rơi tọt xuống đất, ngã giập nát cả người.)"
+    },
+    {
+     "t": "para",
+     "text": "Старик спустился вниз по кочешку, поднял мешок, а в мешке одно костье, и то примельчалось. (Ông lão men theo cây bắp cải tụt xuống, nhặt cái bao lên, mà trong bao chỉ còn mỗi đống xương, lại vụn nát cả.)"
+    },
+    {
+     "t": "para",
+     "text": "Пошел старик из дому и горько плачет. (Ông lão lủi thủi ra khỏi nhà, khóc lóc thảm thiết.)"
+    },
+    {
+     "t": "para",
+     "text": "Навстречу ему лиска: «О чем, старичок, плачешь?» — «Как не плакать! Старуха расшиблась». (Một con cáo đi ngược chiều lại gặp: «Ông lão ơi, ông khóc gì thế?» — «Sao mà không khóc cho được! Bà lão nhà tôi ngã giập nát cả rồi».)"
+    },
+    {
+     "t": "para",
+     "text": "«Молчи, я вылечу». («Ông nín đi, để tôi chữa cho».)"
+    },
+    {
+     "t": "para",
+     "text": "Старик пал лисице в ноги: «Вылечи, что угодно заплачу!» (Ông lão sụp xuống lạy dưới chân cáo: «Cô chữa giúp đi, cô muốn gì tôi cũng xin trả!»)"
+    },
+    {
+     "t": "para",
+     "text": "«Ну, вытопи баньку, снеси туда толоконца мешочек, маслица горшочек, да старуху, а сам стань за двери и не смотри в баньку». («Vậy thì ông đốt lò nhà tắm cho nóng, đem vào đó một túi bột yến mạch, một hũ bơ, với cả bà lão nữa, rồi ông đứng nép sau cửa, đừng có nhìn vào trong nhà tắm đấy».)"
+    },
+    {
+     "t": "para",
+     "text": "Старик вытопил баню, принес что надо и стал за двери; а лиса зашла в баню, двери на крюк, стала мыть старухины кости, моет — не моет, а все огладывает. (Ông lão đốt nóng nhà tắm, đem đủ thứ cần dùng vào rồi đứng nép sau cửa; còn cáo bước vào nhà tắm, gài chốt cửa lại, bắt đầu rửa ráy đám xương bà lão — nói là rửa chứ kỳ thực nó cứ gặm rỉa nhấm nháp cả.)"
+    },
+    {
+     "t": "para",
+     "text": "Старик спрашивает: «Каково, старушка?» — «Пошевеливается!» — говорит лиска, а сама доела старуху, собрала костье и сложила в уголок и принялась месить саламату. (Ông lão hỏi vọng vào: «Thế nào rồi, bà nó?» — «Đã cựa quậy rồi đây!» — cáo đáp, mà kỳ thực nó đã xơi hết bà lão, gom xương lại chất vào một góc rồi bắt tay khuấy món cháo bột.)"
+    },
+    {
+     "t": "para",
+     "text": "Старик постоял-постоял и спрашивает: «Каково, старушка?» — «Посиживает!» — говорит лиска, а сама саламату дохлебывает. (Ông lão đứng chờ một hồi lâu rồi lại hỏi: «Thế nào rồi, bà nó?» — «Đã ngồi dậy được rồi đây!» — cáo đáp, mà kỳ thực nó đang húp nốt món cháo bột.)"
+    },
+    {
+     "t": "para",
+     "text": "Съела и говорит: «Старичок, отвори двери шире». (Ăn xong, nó bảo: «Ông lão ơi, mở toang cửa ra nào».)"
+    },
+    {
+     "t": "para",
+     "text": "Он отворил, а лиса прыг из баньки и убежала домой. (Ông vừa mở cửa, cáo liền nhảy phóc ra khỏi nhà tắm, ba chân bốn cẳng chạy biến về nhà.)"
+    },
+    {
+     "t": "para",
+     "text": "Старик вошел в баню, поглядел: только старухины кости под лавкой, и те оглоданы, толоконце и маслице съедено. (Ông lão bước vào nhà tắm nhìn xem: chỉ còn mỗi đám xương bà lão nằm dưới ghế, mà cũng đã bị gặm trơ, bột yến mạch với bơ thì bị xơi sạch.)"
+    },
+    {
+     "t": "para",
+     "text": "Остался старик один в бедности. (Thế là ông lão trơ trọi một mình trong cảnh nghèo túng.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "бывал-живал",
+     "vi": "«ngày xửa ngày xưa có…» (công thức mở đầu truyện cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кочешок (кочан)",
+     "vi": "cây/bắp cải con (dạng nhỏ thân mật của «кочан»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "подпольецо (подполье)",
+     "vi": "gầm sàn, hầm chứa dưới sàn nhà gỗ Nga",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "попелушка",
+     "vi": "chỗ chứa tro, đống tro (phương ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "завянуть",
+     "vi": "héo rũ, tàn úa",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "жерновцы (жёрнов)",
+     "vi": "cối xay tay nhỏ bằng đá",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "шаньга",
+     "vi": "bánh shanga — bánh tròn phết nhân phô mai/khoai, đặc sản miền Bắc Nga",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "далече",
+     "vi": "xa (từ cổ = далеко)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "расшибиться",
+     "vi": "ngã giập, ngã nát cả người",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "костье (кости)",
+     "vi": "xương (danh từ tập hợp, dạng cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "примельчаться",
+     "vi": "vỡ vụn ra, nát nhỏ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "толокно (толоконце)",
+     "vi": "bột yến mạch rang",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "банька (баня)",
+     "vi": "nhà tắm hơi kiểu Nga",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "огладывать",
+     "vi": "gặm rỉa quanh, gặm cho sạch",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "саламата",
+     "vi": "món cháo bột (yến mạch) khuấy với mỡ/bơ",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

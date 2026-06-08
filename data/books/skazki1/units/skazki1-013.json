@@ -1,0 +1,545 @@
+{
+ "id": "skazki1-013",
+ "num": 13,
+ "title": "Звери в яме — Bầy thú dưới hố",
+ "vi": "Звери в яме — Bầy thú dưới hố",
+ "ru": "Звери в яме",
+ "icon": "🕳️",
+ "color": "#57534e",
+ "sectionPrefix": "skazki1-013-s",
+ "group": "Truyện № 1–30",
+ "sections": [
+  {
+   "id": "skazki1-013-s001",
+   "type": "story",
+   "num": 29,
+   "title": "№ 29 · Звери в яме — Bầy thú dưới hố",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Dị bản ngắn gọn của truyện «Bầy thú dưới hố» (kiểu ATU 20A): con lợn nái rủ cả đoàn sói, cáo, thỏ, sóc đi hành hương, nhưng tất cả rơi xuống một cái hố sâu; ở đó cáo bày trò thi giọng hát để lần lượt lừa ăn thịt từng con — kết cục cộc lốc, hài hước rất đặc trưng lối kể dân dã Nga."
+    },
+    {
+     "t": "para",
+     "text": "Шла свинья в Питер богу молиться. (Con lợn nái lên đường đi Pê-téc-bua cầu Chúa.)"
+    },
+    {
+     "t": "para",
+     "text": "Попадается ей волк навстречу: «Свинья, свинья, куда идешь?» — «В Питер, богу молиться». (Đi giữa đường thì gặp con sói: «Lợn ơi lợn, đi đâu đấy?» — «Lên Pê-téc-bua cầu Chúa.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Возьми и меня». — «Пойдем, куманек!» («Cho ta đi với.» — «Đi nào, ông bạn!»)"
+    },
+    {
+     "t": "para",
+     "text": "Шли-шли, попадается лиса навстречу: «Свинья, свинья, куда идешь?» — «В Питер, богу молиться». (Đi mãi đi mãi, lại gặp con cáo: «Lợn ơi lợn, đi đâu đấy?» — «Lên Pê-téc-bua cầu Chúa.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Возьми и меня». — «Иди, кума!» («Cho ta đi với.» — «Đi nào, chị cáo!»)"
+    },
+    {
+     "t": "para",
+     "text": "Шли они, шли, попадается им заяц: «Свинья, свинья, куда идешь?» — «В Питер, богу молиться». (Cả bọn đi mãi đi mãi, lại gặp con thỏ: «Lợn ơi lợn, đi đâu đấy?» — «Lên Pê-téc-bua cầu Chúa.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Возьми и меня с собой». — «Ступай, косой!» («Cho ta đi cùng với.» — «Đi nào, cậu thỏ lác!»)"
+    },
+    {
+     "t": "para",
+     "text": "Потом выпросилась еще белка, и вот они шли-шли... (Sau đó lại có con sóc nài xin đi cùng, thế là cả lũ cứ đi, đi mãi…)"
+    },
+    {
+     "t": "para",
+     "text": "Глядь — на дороге яма глубокая и широкая; свинья прыгнула и попала в яму, а за ней и волк, и лиса, и заяц, и белка. (Bỗng nhìn xem — giữa đường có một cái hố vừa sâu vừa rộng; con lợn nhảy qua thì lọt tõm xuống hố, theo sau là sói, cáo, thỏ và sóc cũng rơi cả xuống.)"
+    },
+    {
+     "t": "para",
+     "text": "Долго они сидели, сильно проголодались — есть-то нечего. (Chúng ngồi dưới hố hồi lâu, đói cồn cào — mà chẳng có gì ăn.)"
+    },
+    {
+     "t": "para",
+     "text": "Лиса и придумала: «Давайте, — говорит, — тянуть: кто всех тоньше запоет, того и скушаем». (Cáo bèn nghĩ ra một kế: «Nào, — nó bảo, — ta thi cất giọng đi: ai hát giọng nhỏ nhất, thì xơi kẻ ấy.»)"
+    },
+    {
+     "t": "para",
+     "text": "Волк затянул толстым голосом: «О-о-о!» (Sói cất giọng ồm ồm trầm đục: «Ô-ô-ô!»)"
+    },
+    {
+     "t": "para",
+     "text": "Свинья немного помягче: «У-у-у!» (Lợn thì giọng mềm hơn một chút: «U-u-u!»)"
+    },
+    {
+     "t": "para",
+     "text": "Лиса и того мягче: «Э-э-э!», а заяц с белкою тонким голоском: «И-и-и!» (Cáo còn mềm hơn nữa: «Ê-ê-ê!», còn thỏ với sóc thì the thé giọng nhỏ xíu: «I-i-i!»)"
+    },
+    {
+     "t": "para",
+     "text": "Тотчас разорвали звери зайца да белку и съели со всеми косточками. (Tức thì cả bọn xé xác thỏ và sóc, ăn ngấu nghiến cả đến từng khúc xương.)"
+    },
+    {
+     "t": "para",
+     "text": "На другой день лиса опять говорит: «Кто толще всех запоет, того и скушаем». (Hôm sau cáo lại bảo: «Lần này ai hát giọng to dày nhất, thì xơi kẻ ấy.»)"
+    },
+    {
+     "t": "para",
+     "text": "Волк всех толще затянул: «О-о-о!», ну, его и съели. (Sói cất giọng to dày hơn cả: «Ô-ô-ô!», thế là nó bị ăn thịt.)"
+    },
+    {
+     "t": "para",
+     "text": "Лиса мясо скушала, а кишочки под себя спрятала. (Cáo xơi hết phần thịt, còn bộ lòng thì giấu xuống dưới mình.)"
+    },
+    {
+     "t": "para",
+     "text": "Дня через три сидит да ест себе кишочки; свинья и спрашивает: «Что ты, кума, кушаешь? Дай-ка мне». (Được chừng ba ngày sau, cáo ngồi nhấm nháp bộ lòng của mình; lợn mới hỏi: «Chị cáo ăn gì đấy? Cho tôi với nào.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Эх, свинья! Ведь я свои кишочки таскаю; разорви и ты свое брюхо, таскай кишочки и закусывай». («Ôi, lợn ơi! Ta đang moi ruột của chính mình ra mà ăn đấy; mày cũng cứ rạch bụng mình ra, lôi ruột ra mà nhấm nháp.»)"
+    },
+    {
+     "t": "para",
+     "text": "Свинья то и сделала, разорвала свое брюхо и досталась лисе на обед. (Lợn làm theo thật, rạch toang bụng mình ra, thế là thành bữa trưa cho cáo.)"
+    },
+    {
+     "t": "para",
+     "text": "Осталась лиса одна-одинехонька в яме; вылезла ль она оттудова или и теперь там сидит, право, не ведаю. (Cáo còn lại một mình thui thủi dưới hố; nó đã trèo ra khỏi đó được chưa, hay đến giờ vẫn ngồi dưới ấy, thật tình tôi cũng chẳng biết nữa.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "Питер",
+     "vi": "tên gọi thân mật của thành Sankt-Peterburg (Pê-téc-bua)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "куманек",
+     "vi": "«ông bạn, bác» — cách gọi thân mật (giảm nhẹ của кум)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "косой",
+     "vi": "«kẻ mắt lác» — biệt danh dân gian gọi con thỏ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "тянуть (голос)",
+     "vi": "ngân/kéo dài giọng (khi thi hát)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кишочки",
+     "vi": "bộ lòng, ruột (dạng giảm nhẹ của кишки)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "брюхо",
+     "vi": "bụng (con vật; lối nói thô)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "одинехонька",
+     "vi": "một mình trơ trọi, thui thủi (dạng nhấn mạnh, cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "оттудова",
+     "vi": "từ chỗ đó (phương ngữ = оттуда)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "не ведаю",
+     "vi": "tôi chẳng biết (cổ = не знаю)",
+     "g": null
+    }
+   ]
+  },
+  {
+   "id": "skazki1-013-s002",
+   "type": "story",
+   "num": 30,
+   "title": "№ 30 · Звери в яме — Bầy thú dưới hố",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Dị bản phương Nam dài hơn của truyện «Bầy thú dưới hố» (kiểu ATU 20A): con lợn đực lần lượt dụ sói, gấu, thỏ rồi cáo nhảy hụt xuống hố, sau đó cáo bày trò thi ngân giọng để lừa ăn thịt từng con. Phần sau ghép thêm mô-típ «cáo và chim hét» (ATU 56B) và khép lại bằng một bài присказка vần vè chơi chữ: «синь кафтан» (áo xanh) nghe như «скинь кафтан» (cởi áo ra), «красный шлык» (mũ đỏ) nghe như «краденый шлык» (mũ ăn cắp)."
+    },
+    {
+     "t": "para",
+     "text": "Жил себе старик со старушкой, и у них только и было именья, что один боров. (Ngày xưa có một ông lão sống với bà lão, gia tài của họ vẻn vẹn chỉ có mỗi một con lợn đực.)"
+    },
+    {
+     "t": "para",
+     "text": "Пошел боров в лес желуди есть. (Con lợn đực vào rừng ăn quả sồi.)"
+    },
+    {
+     "t": "para",
+     "text": "Навстречу ему идет волк. (Đi ngược chiều lại là con sói.)"
+    },
+    {
+     "t": "para",
+     "text": "«Боров, боров, куда ты идешь?» — «В лес, желуди есть». («Lợn ơi lợn, mày đi đâu đấy?» — «Vào rừng ăn quả sồi.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Возьми меня с собою». — «Я бы взял, — говорит, — тебя с собою, да там яма есть глубока, широка, ты не перепрыгнешь». («Cho ta đi cùng với.» — «Ta thì cũng cho mày đi, — lợn bảo, — ngặt nỗi ngoài ấy có cái hố vừa sâu vừa rộng, mày không nhảy qua được đâu.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Ничего, — говорит, — перепрыгну». («Không sao, — sói đáp, — ta nhảy qua được.»)"
+    },
+    {
+     "t": "para",
+     "text": "Вот и пошли; шли-шли по лесу и пришли к этой яме. (Thế là cùng đi; đi mãi đi mãi trong rừng, rồi đến bên cái hố ấy.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ну, — говорит волк, — прыгай». («Nào, — sói bảo, — nhảy đi.»)"
+    },
+    {
+     "t": "para",
+     "text": "Боров прыгнул — перепрыгнул. (Lợn nhảy một cái — qua gọn.)"
+    },
+    {
+     "t": "para",
+     "text": "Волк прыгнул, да прямо в яму. (Sói nhảy theo, nhưng rơi tõm thẳng xuống hố.)"
+    },
+    {
+     "t": "para",
+     "text": "Ну, потом боров наелся желудей и отправился домой. (Rồi lợn ăn quả sồi no nê, đi về nhà.)"
+    },
+    {
+     "t": "para",
+     "text": "На другой день опять идет боров в лес. (Hôm sau lợn lại vào rừng.)"
+    },
+    {
+     "t": "para",
+     "text": "Навстречу ему медведь. (Đi ngược lại là con gấu.)"
+    },
+    {
+     "t": "para",
+     "text": "«Боров, боров, куда ты идешь?» — «В лес, желуди есть». («Lợn ơi lợn, mày đi đâu đấy?» — «Vào rừng ăn quả sồi.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Возьми, — говорит медведь, — меня с собою». — «Я бы взял тебя, да там яма глубока, широка, ты не перепрыгнешь». («Cho ta, — gấu bảo, — đi cùng với.» — «Ta thì cũng cho mày đi, ngặt nỗi ngoài ấy có cái hố vừa sâu vừa rộng, mày không nhảy qua được đâu.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Небось, — говорит, — перепрыгну». («Lo gì, — gấu đáp, — ta nhảy qua được.»)"
+    },
+    {
+     "t": "para",
+     "text": "Подошли к этой яме. (Cả hai đến bên cái hố.)"
+    },
+    {
+     "t": "para",
+     "text": "Боров прыгнул — перепрыгнул; медведь прыгнул — прямо в яму угодил. (Lợn nhảy — qua gọn; gấu nhảy — rơi ngay xuống hố.)"
+    },
+    {
+     "t": "para",
+     "text": "Боров наелся желудей, отправился домой. (Lợn ăn quả sồi no nê, đi về nhà.)"
+    },
+    {
+     "t": "para",
+     "text": "На третий день боров опять пошел в лес желуди есть. (Sang ngày thứ ba, lợn lại vào rừng ăn quả sồi.)"
+    },
+    {
+     "t": "para",
+     "text": "Навстречу ему косой заяц. (Đi ngược lại là chú thỏ mắt lác.)"
+    },
+    {
+     "t": "para",
+     "text": "«Здравствуй, боров!» — «Здравствуй, косой заяц!» («Chào lợn!» — «Chào thỏ mắt lác!»)"
+    },
+    {
+     "t": "para",
+     "text": "«Куда ты идешь?» — «В лес, желуди есть». («Mày đi đâu đấy?» — «Vào rừng ăn quả sồi.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Возьми меня с собою». — «Нет, косой, там яма есть широка, глубока, ты не перепрыгнешь». («Cho ta đi cùng với.» — «Không được đâu thỏ lác ơi, ngoài ấy có cái hố vừa rộng vừa sâu, mày không nhảy qua nổi.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Вот не перепрыгну, как не перепрыгнуть!» («Sao lại không nhảy qua, không nhảy qua sao được chứ!»)"
+    },
+    {
+     "t": "para",
+     "text": "Пошли и пришли к яме. (Hai con đi, rồi đến bên hố.)"
+    },
+    {
+     "t": "para",
+     "text": "Боров прыгнул — перепрыгнул. (Lợn nhảy — qua gọn.)"
+    },
+    {
+     "t": "para",
+     "text": "Заяц прыгнул — попал в яму. (Thỏ nhảy — rơi xuống hố.)"
+    },
+    {
+     "t": "para",
+     "text": "Ну, боров наелся желудей, отправился домой. (Thế rồi lợn ăn quả sồi no nê, đi về nhà.)"
+    },
+    {
+     "t": "para",
+     "text": "На четвертый день идет боров в лес желуди есть. (Sang ngày thứ tư, lợn lại vào rừng ăn quả sồi.)"
+    },
+    {
+     "t": "para",
+     "text": "Навстречу ему лисица; тоже просится, чтоб взял ее боров с собою. (Đi ngược lại là con cáo; nó cũng nài xin lợn cho đi cùng.)"
+    },
+    {
+     "t": "para",
+     "text": "«Нет, — говорит боров, — там яма есть глубока, широка, ты не перепрыгнешь». («Không được đâu, — lợn bảo, — ngoài ấy có cái hố vừa sâu vừa rộng, mày không nhảy qua được.»)"
+    },
+    {
+     "t": "para",
+     "text": "«И-и, — говорит лисица, — перепрыгну!» («Ì-i, — cáo bảo, — ta nhảy qua được chứ!»)"
+    },
+    {
+     "t": "para",
+     "text": "Ну, и она попалась в яму. (Thế là nó cũng lọt xuống hố.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот их набралось там в яме четверо, и стали они горевать, как им еду добывать. (Vậy là dưới hố tụ lại bốn con, chúng đâm ra rầu rĩ lo không biết kiếm cái ăn ở đâu.)"
+    },
+    {
+     "t": "para",
+     "text": "Лисица и говорит: «Давайте-ка голос тянуть; кто не встянет — того и есть станем». (Cáo bèn bảo: «Nào, ta thử ngân giọng xem; ai ngân không nổi, thì sẽ ăn thịt kẻ ấy.»)"
+    },
+    {
+     "t": "para",
+     "text": "Вот начала тянуть голос; один заяц отстал, а лисица всех перетянула. (Thế là chúng bắt đầu ngân giọng; chỉ mỗi thỏ là đuối trước, còn cáo thì ngân vượt hết thảy.)"
+    },
+    {
+     "t": "para",
+     "text": "Взяли зайца, разорвали и съели. (Chúng tóm lấy thỏ, xé xác ra ăn thịt.)"
+    },
+    {
+     "t": "para",
+     "text": "Проголодались и опять стали уговариваться голос тянуть; кто отстанет — чтоб того и есть. (Đói trở lại, chúng lại giao hẹn ngân giọng; ai đuối trước — thì ăn thịt kẻ ấy.)"
+    },
+    {
+     "t": "para",
+     "text": "«Если, — говорит лисица, — я отстану, то и меня есть, все равно!» («Nếu, — cáo bảo, — ta mà đuối, thì cứ ăn thịt ta, chẳng sao cả!»)"
+    },
+    {
+     "t": "para",
+     "text": "Начали тянуть; только волк отстал, не мог встянуть голос. (Chúng bắt đầu ngân; lần này chỉ mỗi sói đuối, không ngân nổi giọng.)"
+    },
+    {
+     "t": "para",
+     "text": "Лисица с медведем взяли его, разорвали и съели. (Cáo cùng gấu tóm lấy sói, xé xác ra ăn thịt.)"
+    },
+    {
+     "t": "para",
+     "text": "Только лисица надула медведя: дала ему немного мяса, а остальное припрятала от него ест себе потихоньку. (Có điều cáo lừa gấu: nó chỉ chia cho gấu một ít thịt, còn lại thì giấu đi, lén lút ăn một mình.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот медведь начинает опять голодать и говорит: «Кума, кума, где ты берешь себе еду?» (Rồi gấu lại đói bụng, hỏi: «Chị cáo ơi, chị kiếm đâu ra cái ăn thế?»)"
+    },
+    {
+     "t": "para",
+     "text": "«Экой ты, кум! Ты возьми-ка просунь себе лапу в ребра, зацепись за ребро — так и узнаешь, как есть». («Ôi cái bác này! Bác cứ thọc chân vào mạng sườn, móc lấy một dẻ sườn — thì khắc biết cách kiếm ăn thôi.»)"
+    },
+    {
+     "t": "para",
+     "text": "Медведь так и сделал, зацепил себя лапой за ребро, да и околел. (Gấu làm theo thật, lấy chân móc vào dẻ sườn mình, thế là lăn ra chết.)"
+    },
+    {
+     "t": "para",
+     "text": "Лисица осталась одна. (Cáo còn lại một mình.)"
+    },
+    {
+     "t": "para",
+     "text": "После этого, убрамши медведя, начала лисица голодать. (Sau khi xơi sạch con gấu, cáo lại bắt đầu đói.)"
+    },
+    {
+     "t": "para",
+     "text": "Над этой ямой стояло древо, на этом древе вил дрозд гнездо. (Bên trên cái hố ấy có một cái cây, trên cây có con chim hét đang làm tổ.)"
+    },
+    {
+     "t": "para",
+     "text": "Лисица сидела, сидела в яме, все на дрозда смотрела и говорит ему: «Дрозд, дрозд, что ты делаешь?» — «Гнездо вью». (Cáo ngồi mãi dưới hố, cứ ngước nhìn con chim hét, rồi bảo: «Chim hét ơi chim hét, mày làm gì đấy?» — «Tôi làm tổ.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Для чего ты вьешь?» — «Детей выведу». («Mày làm tổ để làm gì?» — «Để ấp nở đàn con.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Дрозд, накорми меня, если не накормишь — я твоих детей поем». («Chim hét, cho ta ăn đi, không cho thì ta xơi sạch đàn con của mày.»)"
+    },
+    {
+     "t": "para",
+     "text": "Дрозд горевать, дрозд тосковать, как лисицу ему накормить. (Chim hét rầu rĩ, chim hét xót xa, không biết lấy gì cho cáo ăn.)"
+    },
+    {
+     "t": "para",
+     "text": "Полетел в село, принес ей курицу. (Nó bay về làng, tha cho cáo một con gà mái.)"
+    },
+    {
+     "t": "para",
+     "text": "Лисица курицу убрала и говорит опять: «Дрозд, дрозд, ты меня накормил?» — «Накормил». (Cáo xơi sạch con gà rồi lại nói: «Chim hét, chim hét, mày cho ta ăn chưa?» — «Cho ăn rồi.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Ну, напои ж меня». («Thế thì cho ta uống nữa đi.»)"
+    },
+    {
+     "t": "para",
+     "text": "Дрозд горевать, дрозд тосковать, как лисицу напоить. (Chim hét rầu rĩ, chim hét xót xa, không biết lấy gì cho cáo uống.)"
+    },
+    {
+     "t": "para",
+     "text": "Полетел в село, принес ей воды. (Nó bay về làng, mang nước về cho cáo.)"
+    },
+    {
+     "t": "para",
+     "text": "Напилась лисица и говорит: «Дрозд, дрозд, ты меня накормил?» — «Накормил». — «Ты меня напоил?» — «Напоил». — «Вытащи ж меня из ямы». (Cáo uống no rồi bảo: «Chim hét, chim hét, mày cho ta ăn chưa?» — «Cho ăn rồi.» — «Cho ta uống chưa?» — «Cho uống rồi.» — «Thế thì kéo ta lên khỏi hố đi.»)"
+    },
+    {
+     "t": "para",
+     "text": "Дрозд горевать, дрозд тосковать, как лисицу вынимать. (Chim hét rầu rĩ, chim hét xót xa, không biết làm sao kéo cáo lên.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот начал он палки в яму метать; наметал так, что лисица выбралась по этим палкам на волю и возле самого древа легла — протянулась. (Thế rồi nó bắt đầu ném từng que củi xuống hố; ném mãi đến khi cáo theo đống que ấy trèo được lên trên, rồi nằm dài ngay dưới gốc cây — duỗi thẳng cẳng ra.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ну, — говорит, — накормил ты меня, дрозд?» — «Накормил». — «Напоил ты меня?» — «Напоил». — «Вытащил ты меня из ямы?» — «Вытащил». — «Ну, рассмеши ж меня теперь». («Nào, — cáo bảo, — mày cho ta ăn chưa, chim hét?» — «Cho ăn rồi.» — «Cho ta uống chưa?» — «Cho uống rồi.» — «Kéo ta lên khỏi hố chưa?» — «Kéo lên rồi.» — «Thế thì giờ chọc cho ta cười cái nào.»)"
+    },
+    {
+     "t": "para",
+     "text": "Дрозд горевать, дрозд тосковать, как лисицу рассмешить. (Chim hét rầu rĩ, chim hét xót xa, không biết làm sao cho cáo cười.)"
+    },
+    {
+     "t": "para",
+     "text": "«Я, — говорит он, — полечу, а ты, лиса, иди за мною». («Tôi, — nó bảo, — sẽ bay đi, còn cáo cứ theo sau tôi.»)"
+    },
+    {
+     "t": "para",
+     "text": "Вот хорошо — полетел дрозд в село, сел на ворота к богатому мужику, а лисица легла под воротами. (Thế là hay rồi — chim hét bay về làng, đậu trên cánh cổng nhà một bác nông dân giàu có, còn cáo thì nằm phục ngay dưới cổng.)"
+    },
+    {
+     "t": "para",
+     "text": "Дрозд и начал кричать: «Бабка, бабка, принеси мне сала кусок! Бабка, бабка, принеси мне сала кусок!» (Chim hét bèn kêu toáng lên: «Bà ơi bà, mang cho tôi miếng mỡ! Bà ơi bà, mang cho tôi miếng mỡ!»)"
+    },
+    {
+     "t": "para",
+     "text": "Выскочили собаки и разорвали лисицу. (Lũ chó xồ ra, xé xác con cáo.)"
+    },
+    {
+     "t": "para",
+     "text": "Я там была, мед-вино пила, по губам текло, в рот не попало. (Tôi cũng có mặt ở đó, được uống rượu mật, rượu chảy ròng ròng trên mép mà chẳng giọt nào lọt vào miệng.)"
+    },
+    {
+     "t": "para",
+     "text": "Дали мне синий кафтан; я пошла, а воро́ны летят да кричат: «Синь кафтан, синь кафтан!» (Người ta cho tôi chiếc áo cà-phơ-tan màu xanh; tôi vừa đi thì đàn quạ bay theo kêu inh ỏi: «Синь кафтан, синь кафтан! — Áo xanh, áo xanh!»)"
+    },
+    {
+     "t": "para",
+     "text": "Я думала: «Скинь кафтан», взяла да и скинула. (Tôi lại nghe nhầm thành «Скинь кафтан — Cởi áo ra!», thế là cởi phắt áo ra.)"
+    },
+    {
+     "t": "para",
+     "text": "Дали мне красный шлык. (Người ta lại cho tôi cái mũ chỏm màu đỏ.)"
+    },
+    {
+     "t": "para",
+     "text": "Воро́ны летят да кричат: «Красный шлык, красный шлык!» (Đàn quạ lại bay theo kêu: «Красный шлык, красный шлык! — Mũ đỏ, mũ đỏ!»)"
+    },
+    {
+     "t": "para",
+     "text": "Я думала, что «краденый шлык», скинула — и осталась ни с чем. (Tôi lại nghe nhầm thành «краденый шлык — mũ ăn cắp!», bèn vứt phắt đi — thế là cuối cùng trắng tay, chẳng còn gì.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "боров",
+     "vi": "lợn đực (đã thiến)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "именье",
+     "vi": "của cải, gia sản (cổ = имущество)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "желудь",
+     "vi": "quả sồi (hạt dẻ sồi)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "небось",
+     "vi": "chắc là, lo gì (khẩu ngữ cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "угодить (в яму)",
+     "vi": "rơi trúng, lọt thẳng vào",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "горевать",
+     "vi": "buồn rầu, sầu muộn, rầu rĩ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "древо",
+     "vi": "cây (cổ = дерево)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "дрозд",
+     "vi": "chim hét (một loài chim hót, tiếng Anh: thrush)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "шлык",
+     "vi": "mũ chỏm, mũ nhọn cổ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кафтан",
+     "vi": "áo khoác dài kiểu Nga (caftan)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "сало",
+     "vi": "mỡ lợn (thường ướp muối)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

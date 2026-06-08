@@ -1,0 +1,128 @@
+{
+  "id": "gra-34",
+  "num": 34,
+  "title": "Câu ghép chính phụ (VIII): Mệnh đề phụ nhượng bộ",
+  "vi": "Câu ghép chính phụ (VIII): Mệnh đề phụ nhượng bộ",
+  "ru": "Сложноподчинённые предложения: придаточная часть уступительная",
+  "icon": "☂️",
+  "color": "#c2410c",
+  "sectionPrefix": "gra-34-s",
+  "group": "Раздел 3 · Câu phức (Сложное предложение)",
+  "sections": [
+    {
+      "id": "gra-34-s001",
+      "type": "grammar",
+      "title": "Liên kết chính phụ với mệnh đề phụ nhượng bộ (придаточная часть уступительная)",
+      "blocks": [
+        {
+          "t": "note",
+          "text": "Mệnh đề phụ với các liên từ và tổ hợp liên từ хотя́, несмотря́ на то что, пусть chỉ ra điều kiện mà điều được nói tới trong mệnh đề chính diễn ra BẤT CHẤP điều kiện ấy."
+        },
+        {
+          "t": "para",
+          "text": "Các liên từ và tổ hợp liên từ mang ý nghĩa nhượng bộ: хотя́ (хоть — khẩu ngữ), несмотря́ на то что, пусть (пуска́й — khẩu ngữ):\nСоло́мин посла́л за до́ктором, хотя́, коне́чно, наде́жды не́ было никако́й (И. Турге́нев) (Solomin cho người đi mời bác sĩ, dù dĩ nhiên chẳng còn chút hy vọng nào — I. Turgenev);\nВ степи́ бы́ло ти́хо, па́смурно, несмотря́ на то что со́лнце подняло́сь (А. Че́хов) (Trên thảo nguyên yên ắng, âm u, mặc dù mặt trời đã lên — A. Chekhov);\nПусть ро́за со́рвана — она́ ещё цветёт, Пусть а́рфа сло́мана — акко́рд ещё рыда́ет (С. На́дсон) (Dù đoá hồng đã bị ngắt — hoa vẫn còn tươi nở, Dù cây đàn hạc đã gãy — hợp âm vẫn còn nức nở — S. Nadson);\nНо то, что вобра́ло в себя́ так мно́го страда́ний и стра́сти, пуска́й де́тских страда́ний и де́тской стра́сти, не мо́жет пропа́сть во́все (Ю. Три́фонов) (Nhưng cái đã thu vào mình bao nhiêu khổ đau và đam mê, cho dù chỉ là khổ đau con trẻ và đam mê con trẻ, thì không thể tiêu tan hoàn toàn — Yu. Trifonov);\nПуска́й ты вы́пита други́м, Но мне оста́лось, мне оста́лось Твои́х воло́с стекля́нный дым И глаз осе́нняя уста́лость (С. Есе́нин) (Dẫu em đã bị người khác uống cạn, Nhưng còn lại cho tôi, còn lại cho tôi Làn khói thủy tinh của mái tóc em Và nỗi mỏi mệt mùa thu trong ánh mắt — S. Esenin)."
+        },
+        {
+          "t": "note",
+          "text": "Chú ý (!): Mệnh đề phụ nhượng bộ có thể đứng ở bất kỳ vị trí nào so với mệnh đề chính. Khi mệnh đề phụ đứng đầu câu, sự không tương hợp giữa nội dung hai vế được nhấn mạnh."
+        },
+        {
+          "t": "note",
+          "text": "Chú ý (!): Sự đối lập giữa tình huống của mệnh đề chính và mệnh đề phụ có thể được tăng cường bằng các liên từ đối lập но, зато́, одна́ко, тем не ме́нее đặt trong mệnh đề chính."
+        }
+      ]
+    },
+    {
+      "id": "gra-34-s002",
+      "type": "exercise",
+      "title": "Упражнение 458",
+      "num": 458,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "Hãy đọc các câu. Chú ý các liên từ và tổ hợp liên từ nối các vế của câu ghép chính phụ mang ý nghĩa nhượng bộ."
+        },
+        {
+          "t": "para",
+          "text": "Ngữ liệu của bài 458 chính là phần lý thuyết «Liên kết chính phụ với mệnh đề phụ nhượng bộ» ở mục ngay trên: các liên từ và tổ hợp liên từ хотя́ (хоть), несмотря́ на то что, пусть (пуска́й) — cùng toàn bộ ví dụ minh hoạ (Turgenev, Chekhov, Nadson, Trifonov, Esenin) và các khung chú ý."
+        }
+      ]
+    },
+    {
+      "id": "gra-34-s003",
+      "type": "exercise",
+      "title": "Упражнение 459",
+      "num": 459,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "Dùng các liên từ phụ thuộc хотя́ (несмотря́ на то что), hãy nêu — nếu có thể — phương án đồng nghĩa cho các câu ghép đẳng lập sau. Giải thích cách chọn của bạn, nêu các phương án có thể."
+        },
+        {
+          "t": "model",
+          "text": "Образец: Была́ зима́, но на у́лице бы́ло тепло́. — Хотя́ (несмотря́ на то что) была́ зима́, на у́лице бы́ло тепло́. — На у́лице бы́ло тепло́, хотя́ (несмотря́ на то что) была́ зима́. (Đang là mùa đông, nhưng ngoài trời ấm. — Tuy (mặc dù) đang là mùa đông, ngoài trời vẫn ấm. — Ngoài trời ấm, tuy (mặc dù) đang là mùa đông.)"
+        },
+        {
+          "t": "note",
+          "text": "Chú ý (!): Trong câu ghép chính phụ với liên từ хотя́ (несмотря́ на то что), mệnh đề chính mâu thuẫn với tình huống được diễn đạt trong mệnh đề phụ nhượng bộ: Посла́ли за до́ктором, хотя́ наде́жды не́ было (Người ta cho mời bác sĩ, dù chẳng còn hy vọng). (Nếu không còn hy vọng thì người ta không mời bác sĩ nữa.) Còn trong câu ghép đẳng lập với liên từ но, tình huống của hai vế có thể không ràng buộc nhau bằng quan hệ điều kiện: Я заходи́л, но тебя́ до́ма не́ было (Tớ có ghé qua, nhưng cậu không có nhà) (Tôi có thể ghé bất cứ lúc nào)."
+        },
+        {
+          "t": "para",
+          "text": "1. Мы прилете́ли ра́но у́тром, но наш бага́ж задержа́лся в аэропорту́ до ве́чера (Chúng tôi bay đến từ sáng sớm, nhưng hành lý bị giữ lại ở sân bay đến tận tối); 2. Я регуля́рно хожу́ к стомато́логу, но э́то не спаса́ет меня́ от зубно́й бо́ли (Tôi đi khám nha sĩ đều đặn, nhưng điều đó không cứu tôi khỏi chứng đau răng); 3. Мои́ роди́тели познако́мились во вре́мя о́тпуска, но пожени́лись то́лько через не́сколько лет (Bố mẹ tôi quen nhau trong một kỳ nghỉ phép, nhưng mãi mấy năm sau mới cưới); 4. Я роди́лся на Во́лге, но основну́ю часть жи́зни про́жил в Москве́ (Tôi sinh ra bên sông Volga, nhưng phần lớn cuộc đời sống ở Moskva); 5. На доро́гах бы́ли про́бки, но нам удало́сь во́время добра́ться до институ́та (Đường sá tắc nghẽn, nhưng chúng tôi vẫn kịp đến viện đúng giờ); 6. Спекта́кль зако́нчился, но зри́тели не спеши́ли поки́нуть зал (Vở diễn đã kết thúc, nhưng khán giả không vội rời khán phòng); 7. У́тро вы́далось ти́хое и я́сное, но ко́е-где на не́бе уже́ ста́ли собира́ться ту́чи (Buổi sáng êm ả và quang đãng, nhưng đây đó trên bầu trời mây đen đã bắt đầu kéo về); 8. Была́ полови́на шесто́го ве́чера, но наро́ду на у́лицах почти́ не́ было (Lúc đó là năm rưỡi chiều, nhưng ngoài phố hầu như không một bóng người); 9. До це́нтра удо́бнее добира́ться на метро́, но мы пое́дем на авто́бусе, что́бы посмотре́ть го́род (Vào trung tâm đi tàu điện ngầm thì tiện hơn, nhưng chúng ta sẽ đi xe buýt để ngắm thành phố); 10. Во вре́мя обе́да он не сказа́л ни сло́ва, но мы по́няли: что́-то случи́лось (Suốt bữa trưa anh ấy không nói một lời, nhưng chúng tôi hiểu: đã có chuyện gì đó xảy ra); 11. Мои́ роди́тели жи́ли недалеко́ от меня́, но быва́ть у них мне приходи́лось неча́сто (Bố mẹ tôi sống không xa tôi, nhưng tôi ít khi có dịp ghé thăm ông bà); 12. Из окна́ открыва́лся чуде́сный вид на верши́ну горы́, но и́з-за тума́на ничего́ не́ было ви́дно (Từ cửa sổ mở ra khung cảnh tuyệt đẹp nhìn lên đỉnh núi, nhưng vì sương mù nên chẳng thấy được gì); 13. Я хоте́л позвони́ть тебе́ ещё до обе́да, но телефо́н не рабо́тал (Tôi định gọi cho cậu từ trước bữa trưa, nhưng điện thoại không hoạt động); 14. Был коне́ц февраля́, но в во́здухе уже́ па́хло весно́й (Đã là cuối tháng Hai, nhưng trong không khí đã thoang thoảng hơi xuân); 15. Мы облегчённо вздохну́ли, но гла́вное испыта́ние жда́ло нас впереди́ (Chúng tôi thở phào nhẹ nhõm, nhưng thử thách chính vẫn còn chờ phía trước); 16. Коне́чно, он стара́лся нас убеди́ть в свое́й правоте́, но мы так и не смогли́ ему́ пове́рить (Dĩ nhiên, anh ta cố thuyết phục chúng tôi rằng mình đúng, nhưng rốt cuộc chúng tôi vẫn không thể tin anh ta); 17. Мне о́чень не хоте́лось идти́ на э́ту встре́чу, но отказа́ться я не мог (Tôi rất không muốn đến cuộc gặp ấy, nhưng từ chối thì tôi không thể); 18. О его́ реше́нии сожале́ли мно́гие, но измени́ть ничего́ не могли́ (Nhiều người tiếc nuối về quyết định của ông, nhưng chẳng ai thay đổi được gì); 19. Мы не́сколько раз проверя́ли отчёт, но ничего́ подозри́тельного не обнару́жили (Chúng tôi kiểm tra bản báo cáo mấy lần, nhưng không phát hiện điều gì đáng ngờ); 20. Ста́ло темно́, но мы не прекрати́ли по́иски (Trời đã tối, nhưng chúng tôi không ngừng tìm kiếm)."
+        }
+      ]
+    },
+    {
+      "id": "gra-34-s004",
+      "type": "exercise",
+      "title": "Упражнение 460",
+      "num": 460,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "Dùng liên từ хотя́ hoặc е́сли phù hợp về nghĩa, hãy ghép hai câu đơn thành một câu phức. Giải thích cách chọn của bạn."
+        },
+        {
+          "t": "note",
+          "text": "Chú ý (!): Liên từ е́сли chỉ điều kiện mà hành động của mệnh đề chính diễn ra PHÙ HỢP với nó. Các liên từ хотя́, несмотря́ на то что chỉ điều kiện mà hành động của mệnh đề chính diễn ra BẤT CHẤP nó."
+        },
+        {
+          "t": "para",
+          "text": "1. На у́лице хо́лодно. Лу́чше оста́ться до́ма (Ngoài trời lạnh. Tốt hơn là ở nhà); 2. Мы не́сколько часо́в провели́ в па́рке. Зара́нее мы не плани́ровали прогу́лку (Chúng tôi đã ở trong công viên mấy tiếng liền. Trước đó chúng tôi không hề dự định đi dạo); 3. Я поступи́л на факульте́т социоло́гии. Всю жизнь я мечта́л быть фило́логом (Tôi thi vào khoa xã hội học. Cả đời tôi vốn mơ làm nhà ngữ văn); 4. Твоему́ бра́ту пять лет. Ему́ понра́вятся ру́сские наро́дные ска́зки (Em trai cậu lên năm. Em ấy sẽ thích truyện cổ tích dân gian Nga); 5. Вокру́г никого́ не́ было. Он постоя́нно огля́дывался (Xung quanh chẳng có ai. Anh ta vẫn liên tục ngoái nhìn); 6. У тебя́ нет води́тельских прав. Ты не мо́жешь води́ть маши́ну (Cậu không có bằng lái. Cậu không được lái xe); 7. Собра́ние в во́семь. Я успе́ю к его́ нача́лу (Cuộc họp lúc tám giờ. Tôi sẽ kịp đến lúc khai mạc); 8. Он о́чень о́пытный специали́ст. Он вы́глядит сли́шком мо́лодо (Anh ấy là chuyên gia rất giàu kinh nghiệm. Trông anh ấy lại quá trẻ); 9. Ты хо́чешь пое́хать с на́ми. Пора́ собира́ться в доро́гу (Cậu muốn đi cùng chúng tớ. Đến lúc sửa soạn lên đường rồi); 10. Ты це́лый день за́нят на рабо́те. Когда́ ты успева́ешь гото́виться к экза́менам? (Cậu bận việc cả ngày. Vậy cậu kịp ôn thi vào lúc nào?); 11. У меня́ мно́го друзе́й. Мы встреча́емся о́чень ре́дко (Tôi có nhiều bạn. Chúng tôi lại rất hiếm khi gặp nhau); 12. В тот день он о́чень не́рвничал. Причи́н для э́того не́ было (Hôm ấy anh ta rất bồn chồn. Mà chẳng có lý do gì cho điều đó); 13. Я не уме́ю пла́вать. Я о́чень люблю́ купа́ться (Tôi không biết bơi. Tôi lại rất thích tắm); 14. Он ничего́ нам не сказа́л. Он знал об опа́сности (Anh ta không nói gì với chúng tôi. Anh ta vốn biết về mối nguy hiểm); 15. Я бу́ду рад. Вы́яснится, что ты прав (Tôi sẽ mừng. Hoá ra là cậu đúng); 16. Охо́тник обяза́тельно вы́стрелит. В по́ле его́ зре́ния попадёт дичь (Người thợ săn nhất định sẽ nổ súng. Con mồi lọt vào tầm mắt anh ta); 17. Рабо́та предстоя́ла сло́жная. Настрое́ние у всех бы́ло отли́чное (Công việc sắp tới rất phức tạp. Tâm trạng mọi người vẫn hết sức phấn chấn)."
+        }
+      ]
+    },
+    {
+      "id": "gra-34-s005",
+      "type": "exercise",
+      "title": "Упражнение 461",
+      "num": 461,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "Dùng liên từ пусть hoặc хотя́ phù hợp về nghĩa, hãy ghép hai câu đơn thành một câu phức. Giải thích cách chọn của bạn, nêu các phương án có thể."
+        },
+        {
+          "t": "note",
+          "text": "Chú ý (!): Liên từ пусть (пуска́й) thường chỉ tình huống TIÊU CỰC, đối lập với tình huống tích cực ở mệnh đề chính: Пусть (Хотя́) сейча́с кри́зис, к концу́ го́да ситуа́ция обяза́тельно изме́нится к лу́чшему (Dù hiện giờ đang khủng hoảng, đến cuối năm tình hình nhất định sẽ chuyển biến tốt hơn). Khi tình huống trong mệnh đề phụ là trung tính hoặc tích cực thì dùng liên từ хотя́ (несмотря́ на то́ что): Хотя́ эконо́мика сейча́с на подъёме, э́то не мо́жет продолжа́ться ве́чно (Tuy kinh tế đang đi lên, điều đó không thể kéo dài mãi)."
+        },
+        {
+          "t": "para",
+          "text": "1. Пого́да была́ прекра́сная. Мы оста́лись до́ма (Thời tiết tuyệt đẹp. Chúng tôi lại ở nhà); 2. К нача́лу спекта́кля мы опозда́ли. Нам удало́сь успе́ть на второ́е отделе́ние (Chúng tôi lỡ phần mở màn vở diễn. Nhưng vẫn kịp xem phần hai); 3. Он и не разделя́ет на́ших взгля́дов. Препя́тствовать нам он не бу́дет (Ông ấy tuy không cùng quan điểm với chúng ta. Nhưng ông sẽ không cản trở chúng ta); 4. Он прие́хал на встре́чу. В тот день у него́ подняла́сь температу́ра (Anh ấy vẫn đến cuộc hẹn. Dù hôm đó anh bị sốt); 5. Он сдал се́ссию. За экза́мены у него́ все «тро́йки» (Cậu ấy đã qua kỳ thi học kỳ. Dù các môn thi đều chỉ được điểm «ba»); 6. В э́тот раз мы проигра́ли. У нас ещё есть вре́мя подгото́виться к нача́лу соревнова́ний (Lần này chúng ta thua. Nhưng vẫn còn thời gian chuẩn bị cho đầu mùa giải); 7. Он сообрази́телен и хорошо́ воспи́тан. Я сомнева́юсь, что он умён (Cậu ta nhanh trí và được giáo dục tốt. Nhưng tôi vẫn ngờ rằng cậu ta chưa hẳn thông minh); 8. В э́том году́ мы доби́лись результа́тов. Они́ оказа́лись не таки́ми высо́кими, как ра́ньше (Năm nay chúng ta đã đạt được kết quả. Dù kết quả không cao như trước); 9. Сейча́с поста́вки га́за европе́йским потреби́телям нала́жены. Кри́зис энергоснабже́ния по-пре́жнему остаётся реа́льностью (Hiện việc cung cấp khí đốt cho người tiêu dùng châu Âu đã ổn định. Nhưng khủng hoảng cung ứng năng lượng vẫn là hiện thực); 10. Высо́ких оце́нок у него́ никогда́ не́ было. Он о́чень стара́лся (Cậu ấy chưa bao giờ đạt điểm cao. Dù cậu rất cố gắng); 11. Сейча́с мы должны́ поту́же затяну́ть пояса́. В бу́дущем у предприя́тия есть все ша́нсы доби́ться успе́ха (Hiện giờ chúng ta phải thắt lưng buộc bụng chặt hơn. Nhưng trong tương lai doanh nghiệp có đủ mọi cơ hội thành công); 12. Немно́гие прислу́шаются к моему́ мне́нию. Я всё равно́ скажу́ то, что ду́маю (Chẳng mấy ai nghe theo ý kiến của tôi. Tôi vẫn cứ nói điều mình nghĩ); 13. Нам пришло́сь идти́ це́лый день. Обы́чно на э́тот путь уходи́ло не бо́льше двух часо́в (Chúng tôi phải đi cả ngày. Dù thường thì quãng đường này mất không quá hai tiếng); 14. За э́то вре́мя мы мно́гого смогли́ доби́ться. Обстоя́тельства нам не благоприя́тствовали (Trong thời gian đó chúng tôi đã đạt được nhiều điều. Dù hoàn cảnh không thuận lợi); 15. Вариа́нтов для реше́ния пробле́мы не так мно́го. Нам сто́ит и́ми воспо́льзоваться (Phương án giải quyết vấn đề không nhiều. Nhưng ta vẫn nên tận dụng chúng); 16. Он отказа́лся пое́хать с на́ми. У него́ полно́ свобо́дного вре́мени (Anh ta từ chối đi cùng chúng tôi. Dù anh ta thừa thời gian rảnh)."
+        }
+      ]
+    },
+    {
+      "id": "gra-34-s006",
+      "type": "exercise",
+      "title": "Упражнение 462",
+      "num": 462,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "Dùng liên từ пусть (пуска́й), hãy kể về những vấn đề bạn đã hoặc đang gặp phải và về cách bạn cố gắng giữ cho mình tinh thần lạc quan."
+        }
+      ]
+    }
+  ]
+}

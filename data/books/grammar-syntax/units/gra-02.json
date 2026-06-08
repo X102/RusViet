@@ -1,0 +1,1068 @@
+{
+ "id": "gra-02",
+ "num": 2,
+ "title": "Liên kết phụ thuộc: hợp dạng",
+ "vi": "Liên kết phụ thuộc: hợp dạng",
+ "ru": "Подчинительная связь: согласование",
+ "icon": "🧩",
+ "color": "#ec4899",
+ "sectionPrefix": "gra-02-s",
+ "sections": [
+  {
+   "id": "gra-02-s001",
+   "type": "grammar",
+   "title": "Giới thiệu",
+   "num": null,
+   "blocks": [
+    {
+     "t": "subhead",
+     "text": "Раздел 1. СЛОВОСОЧЕТАНИЕ"
+    }
+   ]
+  },
+  {
+   "id": "gra-02-s002",
+   "type": "exercise",
+   "title": "Упражнение 1",
+   "num": 1,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Đọc các cụm từ. Chú ý xem danh từ hợp dạng với những từ nào, và đuôi của từ phụ thuộc thay đổi như thế nào tùy thuộc vào giống và số của từ chính."
+    },
+    {
+     "t": "subhead",
+     "text": "а) (Giống đực số ít)"
+    },
+    {
+     "t": "para",
+     "text": "Но́вый костю́м (bộ véc mới), краси́вый пуло́вер (áo len chui đầu đẹp), ко́жаный кошелёк (ví da), мо́крый асфа́льт (nhựa đường ướt), поле́зный сове́т (lời khuyên hữu ích);"
+    },
+    {
+     "t": "para",
+     "text": "большо́й дом (ngôi nhà lớn), густо́й суп (súp đặc), молодо́й специали́ст (chuyên gia trẻ), плохо́й вид (cảnh xấu/dáng vẻ tồi);"
+    },
+    {
+     "t": "para",
+     "text": "второ́й день (ngày thứ hai);"
+    },
+    {
+     "t": "para",
+     "text": "осе́нний сад (khu vườn mùa thu), зи́мний пейза́ж (phong cảnh mùa đông), си́ний цвет (màu xanh dương), ти́хий го́лос (giọng nói khẽ), кра́ткий отчёт (báo cáo tóm tắt), стро́гий учи́тель (giáo viên nghiêm khắc), тре́тий уро́к (bài học thứ ba);"
+    },
+    {
+     "t": "para",
+     "text": "улыба́ющийся ма́льчик (cậu bé đang cười), догоре́вший костёр (đống lửa đã tàn), люби́мый арти́ст (nghệ sĩ yêu thích), непрочи́танный рома́н (tiểu thuyết chưa đọc);"
+    },
+    {
+     "t": "para",
+     "text": "ка́ждый ве́чер (mỗi tối), мой брат (anh/em trai tôi), друго́й челове́к (người khác);"
+    },
+    {
+     "t": "para",
+     "text": "пе́рвый снег (tuyết đầu mùa)."
+    },
+    {
+     "t": "subhead",
+     "text": "б) (Giống cái số ít)"
+    },
+    {
+     "t": "para",
+     "text": "Но́вая ку́ртка (áo khoác mới), краси́вая пло́щадь (quảng trường đẹp), ко́жаная су́мка (túi da), мо́края доро́га (con đường ướt), поле́зная кни́га (quyển sách hữu ích), больша́я пробле́ма (vấn đề lớn), густа́я чёлка (tóc mái dày), молода́я мать (người mẹ trẻ), плоха́я доро́га (con đường xấu);"
+    },
+    {
+     "t": "para",
+     "text": "втора́я попы́тка (nỗ lực lần thứ hai);"
+    },
+    {
+     "t": "para",
+     "text": "осе́нняя пого́да (thời tiết mùa thu), зи́мняя оде́жда (quần áo mùa đông), си́няя блу́зка (áo blouson xanh), ти́хая похо́дка (dáng đi nhẹ nhàng), кра́ткая фо́рма (dạng rút gọn), стро́гая учи́тельница (cô giáo nghiêm khắc), тре́тья неде́ля (tuần thứ ba);"
+    },
+    {
+     "t": "para",
+     "text": "улыба́ющаяся де́вушка (cô gái đang cười), сгоре́вшая дере́вня (ngôi làng bị cháy rụi), люби́мая пе́сня (bài hát yêu thích), непрочи́танная по́весть (truyện vừa chưa đọc);"
+    },
+    {
+     "t": "para",
+     "text": "ка́ждая фра́за (mỗi câu/cụm từ), моя́ сестра́ (chị/em gái tôi), друга́я исто́рия (câu chuyện khác);"
+    },
+    {
+     "t": "para",
+     "text": "пе́рвая любо́вь (mối tình đầu),."
+    },
+    {
+     "t": "note",
+     "text": "! (Gợi ý ngữ pháp): Trong liên kết hợp dạng, thành phần phụ thuộc là các từ biến đổi theo giống, số và cách: tính từ đầy đủ và tính động từ, đại từ định chỉ (đại từ xác định), số thứ tự."
+    },
+    {
+     "t": "subhead",
+     "text": "в) (Giống trung số ít)"
+    },
+    {
+     "t": "para",
+     "text": "Но́вое пла́тье (váy mới), краси́вое кольцо́ (chiếc nhẫn đẹp), ко́жаное кре́сло (ghế bành da), мо́крое стекло́ (kính ướt), поле́зное заня́тие (công việc/hoạt động có ích), большо́е собы́тие (sự kiện lớn), густо́е пови́дло (mứt đặc), молодо́е поколе́ние (thế hệ trẻ), плохо́е настрое́ние (tâm trạng tồi);"
+    },
+    {
+     "t": "para",
+     "text": "второ́е зада́ние (nhiệm vụ thứ hai);"
+    },
+    {
+     "t": "para",
+     "text": "осе́ннее со́лнце (mặt trời mùa thu), зи́мнее пальто́ (áo khoác mùa đông), си́нее не́бо (bầu trời xanh), ти́хое у́тро (buổi sáng tĩnh lặng), кра́ткое изложе́ние (bài tóm tắt), стро́гое выраже́ние (vẻ mặt nghiêm nghị), тре́тье сообще́ние (tin nhắn thứ ba);"
+    },
+    {
+     "t": "para",
+     "text": "улыба́ющееся лицо́ (khuôn mặt đang cười), сгоре́вшее зда́ние (tòa nhà bị cháy), люби́мое блю́до (món ăn yêu thích), непрочи́танное письмо́ (bức thư chưa đọc);"
+    },
+    {
+     "t": "para",
+     "text": "ка́ждое сло́во (mỗi từ), моё вре́мя (thời gian của tôi), друго́е мне́ние (ý kiến khác);"
+    },
+    {
+     "t": "para",
+     "text": "пе́рвое впечатле́ние (ấn tượng đầu tiên)."
+    },
+    {
+     "t": "subhead",
+     "text": "г) (Số nhiều)"
+    },
+    {
+     "t": "para",
+     "text": "Но́вые перспекти́вы (những triển vọng mới), краси́вые у́лицы (những con đường đẹp), ко́жаные дива́ны (những chiếc ghế sofa da), мо́крые ступе́ни (những bậc thềm ướt), поле́зные сове́ты (những lời khuyên hữu ích), больши́е наде́жды (những hy vọng lớn), густы́е ресни́цы (lông mi dày), молоды́е колле́ги (những đồng nghiệp trẻ), плохи́е оце́нки (những điểm số kém);"
+    },
+    {
+     "t": "para",
+     "text": "вторы́е су́тки (ngày đêm thứ hai);"
+    },
+    {
+     "t": "para",
+     "text": "осе́нние ли́стья (những chiếc lá mùa thu), зи́мние ви́ды спо́рта (các môn thể thao mùa đông), си́ние глаза́ (đôi mắt xanh), ти́хие разгово́ры (những cuộc nói chuyện khẽ), кра́ткие вы́воды (những kết luận ngắn gọn), стро́гие пра́вила (những quy tắc nghiêm ngặt);"
+    },
+    {
+     "t": "para",
+     "text": "тре́тьи су́тки (ngày đêm thứ ba), улыба́ющиеся де́ти (những đứa trẻ đang cười), сгоре́вшие докуме́нты (tài liệu bị cháy), люби́мые кни́ги (những cuốn sách yêu thích), непрочи́танные страни́цы (những trang chưa đọc);"
+    },
+    {
+     "t": "para",
+     "text": "ка́ждые су́тки (mỗi ngày đêm), мои́ предложе́ния (những đề xuất của tôi), други́е вариа́нты (những phương án khác);"
+    },
+    {
+     "t": "para",
+     "text": "пе́рвые ито́ги (những kết quả đầu tiên),."
+    },
+    {
+     "t": "para",
+     "text": "Từ mỗi nhóm hãy chọn một vài cụm từ và biến đổi chúng theo các cách."
+    }
+   ]
+  },
+  {
+   "id": "gra-02-s003",
+   "type": "exercise",
+   "title": "Упражнение 2",
+   "num": 2,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Điền các đuôi từ của từ phụ thuộc vào chỗ trống. Gọi tên dạng của chúng ở cách 1 (Danh cách), xác định chúng thuộc từ loại nào."
+    },
+    {
+     "t": "para",
+     "text": "В сосе́днем до́ме на пе́рвом этаже́ горе́л свет;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Trong ngôi nhà bên cạnh, ở tầng một, đèn đang sáng."
+    },
+    {
+     "t": "para",
+     "text": "Dạng danh cách: сосе́дний дом (tính từ - прилагательное), пе́рвый эта́ж (số thứ tự - порядковое числительное)."
+    },
+    {
+     "t": "para",
+     "text": "На ма́йские пра́здники мы пригласи́ли в го́сти всех ближа́йших ро́дственников;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Vào những ngày lễ tháng Năm, chúng tôi đã mời tất cả những người họ hàng gần gũi nhất đến làm khách."
+    },
+    {
+     "t": "para",
+     "text": "Dạng danh cách: ма́йские пра́здники (tính từ - прилагательное), ближа́йшие ро́дственники (tính từ cấp so sánh nhất - прилагательное в превосходной степени)."
+    },
+    {
+     "t": "para",
+     "text": "Он просну́лся в тре́тьем часу́ но́чи от телефо́нного звонка́, встал и через тёмную прихо́жую прошёл в кабине́т;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Anh ấy thức dậy lúc hơn hai giờ đêm (trong giờ thứ ba) bởi tiếng chuông điện thoại, đứng dậy và đi qua tiền sảnh tối vào phòng làm việc."
+    },
+    {
+     "t": "para",
+     "text": "Dạng danh cách: тре́тий час (số thứ tự - порядковое числительное), телефо́нный звоно́к (tính từ - прилагательное), тёмная прихо́жая (tính từ - прилагательное, dùng như danh từ)."
+    },
+    {
+     "t": "para",
+     "text": "С ка́ждым днём на у́лице станови́лось всё тепле́е, весе́ннее со́лнце прогрева́ло промёрзлую зе́млю, то́лько по края́м доро́ги ещё лежа́л почерне́вший снег;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Từng ngày trôi qua trên đường phố trời trở nên ấm hơn, mặt trời mùa xuân sưởi ấm mặt đất đông cứng, chỉ có bên lề đường là vẫn còn tuyết đã chuyển sang màu đen."
+    },
+    {
+     "t": "para",
+     "text": "Dạng danh cách: ка́ждый день (đại từ định chỉ - определительное местоимение), весе́ннее со́лнце (tính từ - прилагательное), промёрзлая земля́ (tính từ - прилагательное), почерне́вший снег (tính động từ - причастие)."
+    },
+    {
+     "t": "para",
+     "text": "Мо́жет быть, в друго́е вре́мя я бы и вы́слушал его́ до конца́, но в э́тот день у меня́ бы́ло мно́го неотло́жных дел, и я не мог заде́рживаться;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Có lẽ, vào một thời điểm khác tôi đã nghe anh ấy nói hết, nhưng vào ngày hôm đó tôi có nhiều việc khẩn cấp, và tôi không thể nán lại."
+    },
+    {
+     "t": "para",
+     "text": "Dạng danh cách: друго́е вре́мя (đại từ định chỉ - определительное местоимение), неотло́жные дела́ (tính từ - прилагательное)."
+    },
+    {
+     "t": "para",
+     "text": "За до́лгую доро́гу я успе́л познако́миться со мно́гими попу́тчиками, мы ста́ли хоро́шими знако́мыми;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Trong suốt chuyến đi dài tôi đã kịp làm quen với nhiều bạn đồng hành, chúng tôi đã trở thành những người quen tốt."
+    },
+    {
+     "t": "para",
+     "text": "Dạng danh cách: до́лгая доро́га (tính từ - прилагательное), мно́гие попу́тчики (đại từ/tính từ - местоимение/прилагательное), хоро́шие знако́мые (tính từ - прилагательное)."
+    },
+    {
+     "t": "para",
+     "text": "Мне ста́ло не по себе́ от его́ тяжёлого взгля́да и хри́плого го́лоса;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Tôi cảm thấy không thoải mái vì cái nhìn nặng nề và giọng nói khàn khàn của anh ta."
+    },
+    {
+     "t": "para",
+     "text": "Dạng danh cách: тяжёлый взгляд (tính từ - прилагательное), хри́плый го́лос (tính từ - прилагательное)."
+    },
+    {
+     "t": "para",
+     "text": "И́з-за твое́й про́сьбы мне придётся отмени́ть ва́жную встре́чу;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Vì lời yêu cầu của bạn mà tôi sẽ phải hủy cuộc gặp quan trọng."
+    },
+    {
+     "t": "para",
+     "text": "Dạng danh cách: твоя́ про́сьба (đại từ sở hữu - притяжательное местоимение), ва́жная встре́ча (tính từ - прилагательное)."
+    },
+    {
+     "t": "para",
+     "text": "Через за́пертую дверь доноси́лась му́зыка и приглушённые зву́ки разгово́ра, из кото́рых я мог разобра́ть то́лько не́сколько отде́льных слов;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Qua cánh cửa bị khóa vang lên tiếng nhạc và những âm thanh nói chuyện bị bóp nghẹt, từ đó tôi chỉ có thể nghe ra một vài từ riêng lẻ."
+    },
+    {
+     "t": "para",
+     "text": "Dạng danh cách: за́пертая дверь (tính động từ bị động - страдательное причастие), приглушённые зву́ки (tính động từ bị động - страдательное причастие), кото́рые (đại từ quan hệ - относительное местоимение), отде́льные слова́ (tính từ - прилагательное)."
+    },
+    {
+     "t": "para",
+     "text": "С ва́шим прие́здом мно́гое в мое́й жи́зни измени́лось в лу́чшую сто́рону;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Với sự đến (việc đến) của bạn, nhiều thứ trong cuộc đời tôi đã thay đổi theo chiều hướng tốt hơn."
+    },
+    {
+     "t": "para",
+     "text": "Dạng danh cách: ваш прие́зд (đại từ sở hữu - притяжательное местоимение), лу́чшая сторона́ (tính từ cấp so sánh - прилагательное в превосходной степени)."
+    },
+    {
+     "t": "para",
+     "text": "Мы вы́шли из до́ма ра́нним моро́зным у́тром, когда́ бы́ло ещё темно́, высо́кие дере́вья отбра́сывали на снег густы́е тёмные те́ни, переплета́ющиеся в замыслова́тый узо́р;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Chúng tôi ra khỏi nhà vào một buổi sáng sớm giá lạnh, khi trời vẫn còn tối, những cái cây cao đổ những cái bóng dày tối sẫm lên tuyết, đan xen vào nhau thành một hoa văn cầu kỳ."
+    },
+    {
+     "t": "para",
+     "text": "Dạng danh cách: ра́ннее моро́зное у́тро (tính từ - прилагательное), высо́кие дере́вья (tính từ - прилагательное), густы́е тёмные те́ни (tính từ - прилагательное), переплета́ющиеся (tính động từ chủ động - действительное причастие), замыслова́тый узо́р (tính từ - прилагательное)."
+    },
+    {
+     "t": "para",
+     "text": "На ле́тние кани́кулы я собира́юсь пое́хать с университе́тскими друзья́ми на Средизе́мное мо́ре,,."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Vào kỳ nghỉ hè tôi định đi cùng những người bạn đại học đến biển Địa Trung Hải."
+    },
+    {
+     "t": "para",
+     "text": "Dạng danh cách: ле́тние кани́кулы (tính từ - прилагательное), университе́тские друзья́ (tính từ - прилагательное), Средизе́мное мо́ре (tính từ - прилагательное)."
+    }
+   ]
+  },
+  {
+   "id": "gra-02-s004",
+   "type": "exercise",
+   "title": "Упражнение 3",
+   "num": 3,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Mở ngoặc đơn, sử dụng các đại từ định chỉ (xác định) ở đúng cách."
+    },
+    {
+     "t": "para",
+     "text": "Э́того реше́ния я от вас ника́к не ожида́л."
+    },
+    {
+     "t": "para",
+     "text": "Dịch và giải thích: Tôi hoàn toàn không ngờ được quyết định này từ các bạn."
+    },
+    {
+     "t": "para",
+     "text": "Ngữ pháp: \"Реше́ния\" là danh từ giống trung, số ít, Cách 2 (Sinh cách - Родителый падеж) do đi sau động từ phủ định \"не ожида́л\" (hoặc động từ đòi hỏi cách 2). Đại từ \"этот\" biến đổi thành \"э́того\" để hợp dạng."
+    },
+    {
+     "t": "para",
+     "text": "Я с сами́м президе́нтом за́ руку здоро́вался."
+    },
+    {
+     "t": "para",
+     "text": "Dịch và giải thích: Tôi đã bắt tay chào hỏi với chính tổng thống."
+    },
+    {
+     "t": "para",
+     "text": "Ngữ pháp: \"С президе́нтом\" là Cách 5 (Tạo cách - Творительный падеж). Đại từ \"сам\" biến đổi thành \"сами́м\"."
+    },
+    {
+     "t": "para",
+     "text": "Он никогда́ не слу́шает ничьи́х сове́тов."
+    },
+    {
+     "t": "para",
+     "text": "Dịch và giải thích: Anh ấy không bao giờ nghe lời khuyên của bất kỳ ai."
+    },
+    {
+     "t": "para",
+     "text": "Ngữ pháp: \"Сове́тов\" là Cách 2 (Sinh cách). Đại từ phủ định \"ничьи́\" (số nhiều) biến đổi thành \"ничьи́х\"."
+    },
+    {
+     "t": "para",
+     "text": "Мы уже́ слы́шали о ва́шей но́вой кни́ге."
+    },
+    {
+     "t": "para",
+     "text": "Dịch và giải thích: Chúng tôi đã nghe về cuốn sách mới của bạn."
+    },
+    {
+     "t": "para",
+     "text": "Ngữ pháp: \"О кни́ге\" là Cách 6 (Giới cách - Предложный падеж), giống cái. Đại từ \"ва́ша\" biến đổi thành \"ва́шей\"."
+    },
+    {
+     "t": "para",
+     "text": "В э́тот день мы пое́хали всей компа́нией за́ город."
+    },
+    {
+     "t": "para",
+     "text": "Dịch và giải thích: Vào ngày hôm đó, chúng tôi đã đi ra ngoại ô với cả nhóm (cả công ty)."
+    },
+    {
+     "t": "para",
+     "text": "Ngữ pháp: \"В день\" là Cách 4 (Đối cách - Винительный падеж) chỉ thời gian, \"этот\" giữ nguyên (giống đực, bất động vật). \"Компа́нией\" là Cách 5, giống cái, đại từ \"вся\" biến đổi thành \"всей\",."
+    },
+    {
+     "t": "para",
+     "text": "Познако́мь меня́, пожа́луйста, с те́ми молоды́ми людьми́ у вхо́да."
+    },
+    {
+     "t": "para",
+     "text": "Dịch và giải thích: Làm ơn hãy giới thiệu tôi với những người trẻ tuổi kia ở lối vào."
+    },
+    {
+     "t": "para",
+     "text": "Ngữ pháp: \"С людьми́\" là Cách 5 số nhiều. Đại từ \"те\" biến đổi thành \"те́ми\"."
+    },
+    {
+     "t": "para",
+     "text": "Спроси́, как тебе́ поступи́ть, у того́ челове́ка, чьим мне́нием ты дорожи́шь."
+    },
+    {
+     "t": "para",
+     "text": "Dịch và giải thích: Hãy hỏi cách xử sự (làm thế nào) ở người mà bạn trân trọng ý kiến của người đó."
+    },
+    {
+     "t": "para",
+     "text": "Ngữ pháp: \"У челове́ка\" là Cách 2, \"тот\" thành \"того́\". \"Мне́нием\" là Cách 5, \"чьё\" thành \"чьим\"."
+    },
+    {
+     "t": "para",
+     "text": "По́мнишь, я тебе́ расска́зывал об э́том молодо́м челове́ке?"
+    },
+    {
+     "t": "para",
+     "text": "Dịch và giải thích: Bạn có nhớ tôi đã kể cho bạn về chàng trai trẻ này không?"
+    },
+    {
+     "t": "para",
+     "text": "Ngữ pháp: \"О челове́ке\" là Cách 6, \"э́тот\" thành \"э́том\"."
+    },
+    {
+     "t": "para",
+     "text": "К мои́м слова́м здесь никто́ не прислу́шивается."
+    },
+    {
+     "t": "para",
+     "text": "Dịch và giải thích: Ở đây không ai lắng nghe (để ý đến) lời nói của tôi."
+    },
+    {
+     "t": "para",
+     "text": "Ngữ pháp: \"К слова́м\" là Cách 3 (Tặng cách - Дательный падеж) số nhiều. \"Мои́\" thành \"мои́м\"."
+    },
+    {
+     "t": "para",
+     "text": "С на́шими колле́гами вы уже́ знако́мы."
+    },
+    {
+     "t": "para",
+     "text": "Dịch và giải thích: Các bạn đã quen với các đồng nghiệp của chúng tôi rồi."
+    },
+    {
+     "t": "para",
+     "text": "Ngữ pháp: \"С колле́гами\" là Cách 5 số nhiều. \"На́ши\" thành \"на́шими\"."
+    },
+    {
+     "t": "para",
+     "text": "В тече́ние всего́ дня я собира́лся в доро́гу."
+    },
+    {
+     "t": "para",
+     "text": "Dịch và giải thích: Tôi đã chuẩn bị lên đường trong suốt cả ngày."
+    },
+    {
+     "t": "para",
+     "text": "Ngữ pháp: \"В тече́ние дня\" đòi hỏi Cách 2. \"Весь\" thành \"всего́\"."
+    },
+    {
+     "t": "para",
+     "text": "Ду́маю, в э́той ситуа́ции мне не уда́стся воспо́льзоваться ничье́й по́мощью."
+    },
+    {
+     "t": "para",
+     "text": "Dịch và giải thích: Tôi nghĩ, trong tình huống này tôi sẽ không thể tận dụng được sự giúp đỡ của bất kỳ ai."
+    },
+    {
+     "t": "para",
+     "text": "Ngữ pháp: \"По́мощью\" là Cách 5 giống cái. \"Ничья́\" thành \"ничье́й\"."
+    },
+    {
+     "t": "para",
+     "text": "Вряд ли ты смо́жешь спря́таться за то де́рево."
+    },
+    {
+     "t": "para",
+     "text": "Dịch và giải thích: Khó mà bạn có thể trốn sau cái cây kia."
+    },
+    {
+     "t": "para",
+     "text": "Ngữ pháp: \"За де́рево\" chỉ hướng chuyển động (trốn vào sau cái gì) nên dùng Cách 4. Giống trung, bất động vật nên \"то\" giữ nguyên."
+    },
+    {
+     "t": "para",
+     "text": "Тепе́рь я зна́ю обо все́х их пла́нах."
+    },
+    {
+     "t": "para",
+     "text": "Dịch và giải thích: Bây giờ tôi đã biết về tất cả các kế hoạch của họ."
+    },
+    {
+     "t": "para",
+     "text": "Ngữ pháp: \"О пла́нах\" là Cách 6 số nhiều. \"Все\" thành \"все́х\". Giới từ \"о\" biến thành \"обо\" trước từ bắt đầu bằng cụm phụ âm."
+    },
+    {
+     "t": "para",
+     "text": "Свое́й жи́знью я дово́лен."
+    },
+    {
+     "t": "para",
+     "text": "Dịch và giải thích: Tôi hài lòng với cuộc sống của mình."
+    },
+    {
+     "t": "para",
+     "text": "Ngữ pháp: \"Жи́знью\" là Cách 5 giống cái. \"Своя́\" thành \"свое́й\"."
+    },
+    {
+     "t": "para",
+     "text": "Э́тот спекта́кль обяза́тельно понра́вится твои́м де́тям."
+    },
+    {
+     "t": "para",
+     "text": "Dịch và giải thích: Vở kịch này nhất định sẽ làm các con của bạn thích (sẽ được các con bạn thích)."
+    },
+    {
+     "t": "para",
+     "text": "Ngữ pháp: \"Де́тям\" là Cách 3 số nhiều. \"Твои́\" thành \"твои́м\"."
+    },
+    {
+     "t": "para",
+     "text": "Всю жизнь я мечта́л об э́той пое́здке."
+    },
+    {
+     "t": "para",
+     "text": "Dịch và giải thích: Cả đời tôi đã mơ về chuyến đi này."
+    },
+    {
+     "t": "para",
+     "text": "Ngữ pháp: \"Жизнь\" chỉ thời gian (lượng thời gian) dùng ở Cách 4. \"Вся\" thành \"всю\"."
+    },
+    {
+     "t": "note",
+     "text": "! (Gợi ý ngữ pháp): Một loạt các đại từ định chỉ (э́тот, вся, чьи, наш và các từ khác) có đuôi của tính từ ở các cách: sinh cách (cách 2), tặng cách (cách 3), đối cách (cách 4 - một phần), tạo cách (cách 5) và giới cách (cách 6),."
+    }
+   ]
+  },
+  {
+   "id": "gra-02-s005",
+   "type": "exercise",
+   "title": "Упражнение 4",
+   "num": 4,
+   "blocks": [
+    {
+     "t": "para",
+     "text": "Điền số từ оди́н (một) vào chỗ trống ở đúng cách."
+    },
+    {
+     "t": "note",
+     "text": "! (Gợi ý ngữ pháp): Ở các cách sinh cách (cách 2), tặng cách (cách 3), đối cách (cách 4 - với danh từ động vật hoặc danh từ giống cái), tạo cách (cách 5) và giới cách (cách 6), đuôi của các từ оди́н (одна́, одно́, одни́) trùng hợp về hình thức với đuôi của tính từ,."
+    },
+    {
+     "t": "para",
+     "text": "Э́та исто́рия произошла́ с одни́м мои́м прия́телем про́шлым ле́том;"
+    },
+    {
+     "t": "instruction",
+     "text": "Dịch: Câu chuyện này đã xảy ra với một người bạn của tôi vào mùa hè năm ngoái. (Cách 5)"
+    },
+    {
+     "t": "para",
+     "text": "Я не по́нял одного́ вопро́са;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Tôi đã không hiểu một câu hỏi. (Cách 2 sau phủ định/động từ)"
+    },
+    {
+     "t": "para",
+     "text": "Э́тот пода́рок я пригото́вил для одно́й знако́мой;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Món quà này tôi đã chuẩn bị cho một người quen (nữ). (Cách 2 giống cái)"
+    },
+    {
+     "t": "para",
+     "text": "(3). Одного́ реше́ния здесь ма́ло, нужны́ де́йствия;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Một quyết định ở đây là chưa đủ (ít), cần những hành động. (Cách 2 do từ định lượng ма́ло)"
+    },
+    {
+     "t": "para",
+     "text": "(4). Одни́ми обеща́ниями сыт не бу́дешь;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Bạn sẽ không no chỉ bằng những lời hứa (Không thể sống chỉ bằng những lời hứa). (Cách 5 số nhiều)"
+    },
+    {
+     "t": "para",
+     "text": "(5). За́втра я е́ду к одному́ дру́гу на да́чу;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Ngày mai tôi sẽ đi đến nhà nghỉ ngoại ô (dacha) của một người bạn. (Cách 3)"
+    },
+    {
+     "t": "para",
+     "text": "(7). В разгово́ре он постоя́нно переска́кивал с одно́й те́мы на другу́ю;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Trong cuộc nói chuyện, anh ta liên tục nhảy từ chủ đề này sang chủ đề khác. (Cách 2 giống cái)"
+    },
+    {
+     "t": "para",
+     "text": "(8). С одни́м прое́ктом я уже́ знако́м;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Với một dự án thì tôi đã quen rồi. (Cách 5)"
+    },
+    {
+     "t": "para",
+     "text": "(9). Доста́точно одного́ ва́шего сло́ва, что́бы мне пове́рили;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Chỉ cần một lời nói của bạn là đủ để người ta tin tôi. (Cách 2)"
+    },
+    {
+     "t": "para",
+     "text": "(10). Для одни́х люде́й рабо́та — э́то спо́соб зарабо́тать де́ньги, для други́х — э́то са́мое гла́вное де́ло в жи́зни;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Đối với một số người (những người này), công việc là cách để kiếm tiền, còn đối với những người khác — đó là việc quan trọng nhất trong đời. (Cách 2 số nhiều)"
+    },
+    {
+     "t": "para",
+     "text": "(11). Я могу́ рассказа́ть тебе́ об одно́й ситуа́ции, кото́рая о́чень напомина́ет мне то, что случи́лось с тобо́й;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Tôi có thể kể cho bạn về một tình huống rất gợi cho tôi nhớ đến điều đã xảy ra với bạn. (Cách 6 giống cái)"
+    },
+    {
+     "t": "para",
+     "text": "(12). Он ду́мает об одни́х развлече́ниях;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Anh ấy chỉ nghĩ về những trò giải trí (không nghĩ gì khác ngoài giải trí). (Cách 6 số nhiều)"
+    },
+    {
+     "t": "para",
+     "text": "(13). На́до сказа́ть, что одного́ дня недоста́точно, что́бы осмотре́ть все достопримеча́тельности;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Phải nói rằng một ngày là không đủ để xem hết các danh lam thắng cảnh. (Cách 2)"
+    },
+    {
+     "t": "para",
+     "text": "(14). Мно́го лет мы прорабо́тали с ним в одно́м учрежде́нии;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Chúng tôi đã làm việc cùng nhau nhiều năm trong cùng một cơ quan. (Cách 6)"
+    },
+    {
+     "t": "para",
+     "text": "(15). В одну́ секу́нду я по́нял, что произошло́;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Trong một giây (ngay lập tức), tôi đã hiểu chuyện gì đã xảy ra. (Cách 4 giống cái)"
+    },
+    {
+     "t": "para",
+     "text": "(16). Мы с ним родили́сь в оди́н день;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Tôi và anh ấy sinh ra cùng một ngày. (Cách 4, danh từ день bất động vật)"
+    },
+    {
+     "t": "para",
+     "text": "(17). Попро́буй произнести́ э́ту фра́зу на одно́м дыха́нии."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Hãy thử phát âm câu này trong một hơi thở (một lèo). (Cách 6)"
+    }
+   ]
+  },
+  {
+   "id": "gra-02-s006",
+   "type": "exercise",
+   "title": "Упражнение 5",
+   "num": 5,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Đọc các cụm từ. Chú ý đến chức năng của danh từ đóng vai trò là từ phụ thuộc."
+    },
+    {
+     "t": "note",
+     "text": "! (Gợi ý ngữ pháp): Trong liên kết hợp dạng, danh từ cũng có thể đóng vai trò là từ phụ thuộc."
+    },
+    {
+     "t": "subhead",
+     "text": "а)"
+    },
+    {
+     "t": "para",
+     "text": "Приро́да-мать (Mẹ thiên nhiên), лес-велика́н (khu rừng khổng lồ), брат-худо́жник (anh/em trai là họa sĩ), дочь-старшекла́ссница (con gái là học sinh cấp ba), сын-отли́чник (con trai là học sinh xuất sắc), дворе́ц-музе́й (cung điện-bảo tàng), рома́н-автобиогра́фия (tiểu thuyết tự truyện), нос-карто́шка (mũi to tròn như củ khoai tây), го́род-геро́й (thành phố anh hùng), вы́ставка-прода́жа (triển lãm-bán hàng), же́нщина-космона́вт (nữ phi hành gia), челове́к-орке́стр (người chơi nhiều nhạc cụ/người đa năng), заво́д-гига́нт (nhà máy khổng lồ), пти́ца-тро́йка (xe tam mã/xe bộ ba ngựa kéo nhanh như bay - hình ảnh văn học), сосе́д-ветера́н (người hàng xóm là cựu chiến binh)."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Ở đây danh từ thứ hai (phụ thuộc) bổ sung ý nghĩa, định danh hoặc mô tả đặc điểm cho danh từ chính. Chúng thường viết nối bằng dấu gạch ngang."
+    },
+    {
+     "t": "subhead",
+     "text": "б)"
+    },
+    {
+     "t": "para",
+     "text": "Дя́дя Ва́ня (Chú Vanya), ма́льчик Пе́тя (cậu bé Petya), сосе́дка Ле́на (cô hàng xóm Lena), тётя Ка́тя (cô/dì Katya), соба́ка Ша́рик (con chó Sharik), кот Ба́рсик (con mèo Barsik), де́душка Ва́ня (ông Vanya), ба́бушка Ва́ля (bà Valya), учи́тельница Ве́ра Петро́вна (cô giáo Vera Petrovna), секрета́рь Ле́на (thư ký Lena)."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Danh từ chỉ tên riêng đóng vai trò phụ thuộc (ứng dụng) cho danh từ chỉ chức danh, quan hệ họ hàng hoặc loại vật."
+    },
+    {
+     "t": "subhead",
+     "text": "в)"
+    },
+    {
+     "t": "para",
+     "text": "Го́род Пари́ж (thành phố Paris), дере́вня Вы́хино (làng Vykhino), ста́нция Сосно́во (ga Sosnovo), о́зеро Байка́л (hồ Baikal), река́ Нева́ (sông Neva), аэропо́рт Пу́лково (sân bay Pulkovo); гости́ница «Евро́па» (khách sạn \"Châu Âu\"), изда́тельство «Плане́та» (nhà xuất bản \"Hành tinh\"), журна́л «Но́вый мир» (tạp chí \"Thế giới mới\"), газе́та «Вперёд» (báo \"Tiến lên\")."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Đây là các tên địa danh và tên riêng (trong ngoặc kép) đóng vai trò phụ thuộc cho danh từ chung."
+    },
+    {
+     "t": "note",
+     "text": "! (Gợi ý ngữ pháp): Nếu trong liên kết hợp dạng, từ phụ thuộc là danh từ-định ngữ, thì hình thức cách của nó, theo quy tắc, phụ thuộc vào từ chính. Ngoại lệ là tên riêng, tên gọi trong ngoặc kép, tên địa lý đi cùng các từ о́зеро (hồ), река́ (sông), дере́вня (làng), село́ (thôn), ста́нция (nhà ga) và tên sân bay (sân bay vũ trụ): из аэропо́рта Пу́лково (từ sân bay Pulkovo), на космодро́ме Байкону́р (tại sân bay vũ trụ Baikonur) - ở đây tên riêng không biến đổi. Nếu trong tên địa lý, từ định ngữ đứng trước từ chính, nó không biến đổi theo cách: в Ива́нгороде (ở Ivangorod), на Сапу́н-гору́ (lên núi Sapun), к И́льмень-о́зеру (đến hồ Ilmen). Ngoại lệ là cụm từ với từ река́: на Москве́-реке́ (trên sông Moskva), Во́лгой-реко́й (bởi sông Volga),."
+    },
+    {
+     "t": "note",
+     "text": "! (Gợi ý ngữ pháp): Trong liên kết hợp dạng, danh từ có thể đóng vai trò là từ phụ thuộc."
+    }
+   ]
+  },
+  {
+   "id": "gra-02-s007",
+   "type": "exercise",
+   "title": "Упражнение 6",
+   "num": 6,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Mở ngoặc đơn, sử dụng danh từ ở đúng cách. Giải thích quyết định của bạn."
+    },
+    {
+     "t": "note",
+     "text": "! (Gợi ý ngữ pháp): Nếu trong liên kết hợp dạng, từ phụ thuộc là danh từ-định ngữ, thì hình thức cách của nó, theo quy tắc, phụ thuộc vào từ chính. Ngoại lệ là tên riêng, tên gọi trong ngoặc kép, tên địa lý đi cùng các từ о́зеро (hồ), река́ (sông), дере́вня (làng), село́ (thôn), ста́нция (nhà ga) và tên sân bay (sân bay vũ trụ): из аэропо́рта Пу́лково (từ sân bay Pulkovo), на космодро́ме Байкону́р (tại sân bay vũ trụ Baikonur) — ở đây tên riêng không biến đổi. Nếu trong tên địa lý, từ định ngữ đứng trước từ chính, nó không biến đổi theo cách: в Ива́нгороде (ở Ivangorod), на Сапу́н-гору́ (lên núi Sapun), к И́льмень-о́зеру (đến hồ Ilmen). Ngoại lệ là cụm từ với từ река́: на Москве́-реке́ (trên sông Moskva), Во́лгой-реко́й (bởi sông Volga),."
+    },
+    {
+     "t": "para",
+     "text": "В го́роде Москве́ прожива́ет о́коло девяти́ миллио́нов жи́телей;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Tại thành phố Moskva có khoảng chín triệu cư dân sinh sống."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Danh từ Москва́ biến đổi theo cách 6 (Giới cách) cùng với từ chính го́род vì đây là tên địa lý thông thường, không thuộc ngoại lệ (không có dấu gạch nối đứng trước, không phải hồ/sông/làng/ga)."
+    },
+    {
+     "t": "para",
+     "text": "За́втра я собира́юсь зае́хать к прия́телю-меха́нику прове́рить маши́ну;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Ngày mai tôi định ghé qua chỗ người bạn thợ máy để kiểm tra xe hơi."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Cả hai danh từ đều biến đổi sang cách 3 (Tặng cách) sau giới từ к. Меха́ник là danh từ chung đóng vai trò định ngữ (nghề nghiệp), hợp dạng với từ chính."
+    },
+    {
+     "t": "para",
+     "text": "Мы подошли́ к до́му-музе́ю Ре́пина («Пена́ты») в два часа́ дня;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Chúng tôi đã đi đến nhà bảo tàng của Repin (\"Penaty\") lúc hai giờ chiều."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Дом-музе́й là danh từ ghép, cả hai phần đều biến đổi sang cách 3. Tên riêng trong ngoặc kép «Пена́ты» giữ nguyên (dạng danh cách) vì nó là tên gọi phụ chú."
+    },
+    {
+     "t": "para",
+     "text": "На ста́нцию «Го́рьковская» по́езд прибу́дет че́рез полчаса́;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Tàu sẽ đến ga \"Gorkovskaya\" sau nửa tiếng nữa."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Từ ста́нция biến đổi sang cách 4 (Đối cách) chỉ hướng đi. Tên ga trong ngoặc kép «Го́рьковская» giữ nguyên ở dạng danh cách (theo quy tắc ngoại lệ về tên nhà ga)."
+    },
+    {
+     "t": "para",
+     "text": "Дава́й встре́тимся пря́мо в аэропорту́ Шереме́тьево;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Hãy gặp nhau ngay tại sân bay Sheremetyevo."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Từ аэропо́рт biến đổi sang cách 6 (Giới cách). Tên riêng của sân bay Шереме́тьево không biến đổi (theo quy tắc ngoại lệ về tên sân bay)."
+    },
+    {
+     "t": "para",
+     "text": "Мы зайдём к дя́де Ко́ле, что́бы поздра́вить его́ с днём рожде́ния;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Chúng tôi sẽ ghé qua chỗ chú Kolya để chúc mừng sinh nhật chú ấy."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Дя́дя Ко́ля là tên riêng chỉ người, cả hai từ đều biến đổi sang cách 3 sau giới từ к."
+    },
+    {
+     "t": "para",
+     "text": "Пье́су «Дя́дя Ва́ня» поста́вили на сце́не Моско́вского худо́жественного теа́тра в 1899 году́;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Vở kịch \"Chú Vanya\" đã được dựng trên sân khấu Nhà hát Nghệ thuật Moscow vào năm 1899."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Từ пье́са ở cách 4 (Đối cách). Tên tác phẩm trong ngoặc kép «Дя́дя Ва́ня» giữ nguyên dạng danh cách."
+    },
+    {
+     "t": "para",
+     "text": "Зи́мние кани́кулы я собира́юсь провести́ у бра́та-худо́жника на да́че;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Kỳ nghỉ đông tôi định trải qua ở nhà nghỉ ngoại ô (dacha) của người anh trai họa sĩ."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Cả брат và худо́жник đều biến đổi sang cách 2 (Sinh cách) sau giới từ у."
+    },
+    {
+     "t": "para",
+     "text": "Мы дово́льны преподава́телем Серге́ем Миха́йловичем;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Chúng tôi hài lòng với giảng viên Sergei Mikhailovich."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Tính từ ngắn дово́льны đòi hỏi cách 5 (Tạo cách). Cả danh từ chỉ chức danh và tên riêng đều biến đổi sang cách 5."
+    },
+    {
+     "t": "para",
+     "text": "В изда́тельстве «Златоу́ст» публику́ются материа́лы по ру́сскому языку́ как иностра́нному;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Tại nhà xuất bản \"Zlatoust\", các tài liệu về tiếng Nga như một ngoại ngữ được xuất bản."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Từ изда́тельство ở cách 6. Tên trong ngoặc kép giữ nguyên."
+    },
+    {
+     "t": "para",
+     "text": "Мы бу́дем ждать тебя́ за́втра на ста́нции «Пло́щадь Восста́ния» в семь ве́чера;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Chúng tôi sẽ đợi bạn ngày mai tại ga \"Quảng trường Khởi nghĩa\" lúc bảy giờ tối."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Tương tự câu 4, tên nhà ga giữ nguyên, từ ста́нция ở cách 6."
+    },
+    {
+     "t": "para",
+     "text": "Отда́йте свои́ рабо́ты секретарю́ Ната́ше;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Hãy đưa các bài làm của các bạn cho thư ký Natasha."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Động từ отда́ть đòi hỏi cách 3 (cho ai). Cả chức danh và tên riêng đều biến đổi."
+    },
+    {
+     "t": "para",
+     "text": "О пти́це-тро́йке писа́л Го́голь в рома́не «Мёртвые ду́ши»;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Gogol đã viết về bộ ba xe ngựa (hình ảnh ẩn dụ về nước Nga) trong tiểu thuyết \"Những linh hồn chết\"."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: О пти́це-тро́йке là cách 6, cả hai từ nối bằng gạch ngang đều biến đổi. Tên tác phẩm «Мёртвые ду́ши» giữ nguyên."
+    },
+    {
+     "t": "para",
+     "text": "В аэропо́рт Домоде́дово приземля́ются самолёты из ра́зных городо́в Росси́и;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Máy bay từ các thành phố khác nhau của Nga hạ cánh xuống sân bay Domodedovo."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: В аэропо́рт là cách 4 chỉ hướng. Tên sân bay Домоде́дово không biến đổi."
+    },
+    {
+     "t": "para",
+     "text": "Ты мо́жешь позвони́ть домо́й по телефо́ну-автома́ту;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Bạn có thể gọi về nhà bằng điện thoại công cộng (điện thoại tự động)."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: По телефо́ну-автома́ту là cách 3, cả hai thành phần của danh từ ghép đều biến đổi."
+    },
+    {
+     "t": "para",
+     "text": "На террито́рии Кита́й-го́рода располо́жены многочи́сленные архитекту́рные па́мятники Москвы́;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Trong khu vực Kitay-gorod có tọa lạc nhiều di tích kiến trúc của Moscow."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Кита́й-го́род là tên một khu vực lịch sử, cả hai phần thường được biến đổi (cách 2) để hợp dạng với террито́рии."
+    },
+    {
+     "t": "para",
+     "text": "Ко́шке Му́рке на́до дать молока́;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Cần cho con mèo Murka uống sữa."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Cấu trúc на́до дать (cần cho ai) đòi hỏi chủ thể ở cách 3. Cả danh từ chung ко́шка và tên riêng Му́рка đều biến đổi."
+    },
+    {
+     "t": "para",
+     "text": "Отпра́вился Ива́н-царе́вич по прика́зу Ба́бы Яги́ иска́ть жар-пти́цу;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Ivan Hoàng tử đã lên đường theo lệnh của Baba Yaga để tìm chim lửa."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Ива́н-царе́вич là chủ ngữ (cách 1). По прика́зу (theo lệnh ai) đòi hỏi cách 2 -> Ба́бы Яги́. Иска́ть (tìm cái gì) đòi hỏi cách 4 -> жар-пти́цу."
+    },
+    {
+     "t": "para",
+     "text": "О Лу́ге-реке́ ча́сто упомина́ется в худо́жественных произведе́ниях."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Sông Luga thường được nhắc đến trong các tác phẩm văn học."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Đây là trường hợp ngoại lệ với từ река́. Khi tên riêng đứng trước река́, cả hai đều biến đổi (cách 6 sau giới từ о)."
+    }
+   ]
+  },
+  {
+   "id": "gra-02-s008",
+   "type": "exercise",
+   "title": "Упражнение 7",
+   "num": 7,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Đọc các câu. Trong các cụm từ cố định, hãy xác định cụm danh từ + tính từ. Xác định giống, số, cách của tính từ ngắn (dạng rút gọn). Đưa ra dạng đầy đủ của chúng."
+    },
+    {
+     "t": "note",
+     "text": "! (Gợi ý ngữ pháp): Trong các cụm từ cố định (thành ngữ), tính từ dạng rút gọn có thể hợp dạng với danh từ về giống, số và cách."
+    },
+    {
+     "t": "para",
+     "text": "Вчера́ на у́лице средь бе́ла дня разби́ли витри́ну магази́на;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Hôm qua trên phố, ngay giữa ban ngày ban mặt, người ta đã đập vỡ cửa kính cửa hàng."
+    },
+    {
+     "t": "para",
+     "text": "Cụm từ: средь бе́ла дня (giữa ban ngày)."
+    },
+    {
+     "t": "para",
+     "text": "Phân tích: бе́ла (tính từ ngắn, giống đực, số ít, cách 2 - Sinh cách)."
+    },
+    {
+     "t": "para",
+     "text": "Dạng đầy đủ: бе́лого."
+    },
+    {
+     "t": "para",
+     "text": "Звоно́к разда́лся но́чью, я да́же оде́ться не успе́л как сле́дует, так в та́почках на бо́су но́гу и пошёл открыва́ть дверь;"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Chuông reo vào ban đêm, tôi thậm chí còn không kịp mặc quần áo chỉnh tề, cứ thế đi dép lê trên chân trần ra mở cửa."
+    },
+    {
+     "t": "para",
+     "text": "Cụm từ: на бо́су но́гу (trên chân trần/không tất)."
+    },
+    {
+     "t": "para",
+     "text": "Phân tích: бо́су (tính từ ngắn, giống cái, số ít, cách 4 - Đối cách)."
+    },
+    {
+     "t": "para",
+     "text": "Dạng đầy đủ: босу́ю."
+    },
+    {
+     "t": "para",
+     "text": "До́лго он броди́л по бе́лу све́ту, всего́ насмотре́лся."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Anh ấy đã lang thang khắp thế gian (khắp thế giới rộng lớn) rất lâu, đã nhìn thấy đủ mọi thứ."
+    },
+    {
+     "t": "para",
+     "text": "Cụm từ: по бе́лу све́ту (khắp thế gian)."
+    },
+    {
+     "t": "para",
+     "text": "Phân tích: бе́лу (tính từ ngắn, giống đực, số ít, cách 3 - Tặng cách)."
+    },
+    {
+     "t": "para",
+     "text": "Dạng đầy đủ: бе́лому."
+    }
+   ]
+  }
+ ]
+}

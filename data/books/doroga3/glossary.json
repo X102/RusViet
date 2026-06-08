@@ -1,0 +1,4058 @@
+{
+ "count": 579,
+ "entries": [
+  {
+   "ru": "акти́вная констру́кция",
+   "ruPlain": "активная конструкция",
+   "vi": "câu chủ động",
+   "g": null,
+   "ref": "doroga3-01-s057"
+  },
+  {
+   "ru": "пасси́вная констру́кция",
+   "ruPlain": "пассивная конструкция",
+   "vi": "câu bị động",
+   "g": null,
+   "ref": "doroga3-01-s057"
+  },
+  {
+   "ru": "перехо́дный глаго́л",
+   "ruPlain": "переходный глагол",
+   "vi": "động từ ngoại động (chuyển tiếp)",
+   "g": null,
+   "ref": "doroga3-01-s057"
+  },
+  {
+   "ru": "неперехо́дный глаго́л",
+   "ruPlain": "непереходный глагол",
+   "vi": "động từ nội động",
+   "g": null,
+   "ref": "doroga3-01-s057"
+  },
+  {
+   "ru": "объявле́ние",
+   "ruPlain": "объявление",
+   "vi": "thông báo, lời rao",
+   "g": "n",
+   "ref": "doroga3-01-s057"
+  },
+  {
+   "ru": "запреща́ться",
+   "ruPlain": "запрещаться",
+   "vi": "bị cấm",
+   "g": null,
+   "ref": "doroga3-01-s057"
+  },
+  {
+   "ru": "коллекционе́р",
+   "ruPlain": "коллекционер",
+   "vi": "nhà sưu tầm",
+   "g": "m",
+   "ref": "doroga3-01-s057"
+  },
+  {
+   "ru": "мозг",
+   "ruPlain": "мозг",
+   "vi": "bộ não",
+   "g": "m",
+   "ref": "doroga3-01-s057"
+  },
+  {
+   "ru": "иссле́дование",
+   "ruPlain": "исследование",
+   "vi": "sự nghiên cứu, công trình nghiên cứu",
+   "g": "n",
+   "ref": "doroga3-01-s057"
+  },
+  {
+   "ru": "симфо́ния",
+   "ruPlain": "симфония",
+   "vi": "bản giao hưởng",
+   "g": "f",
+   "ref": "doroga3-01-s057"
+  },
+  {
+   "ru": "блока́да",
+   "ruPlain": "блокада",
+   "vi": "sự phong toả",
+   "g": "f",
+   "ref": "doroga3-01-s057"
+  },
+  {
+   "ru": "основа́тель",
+   "ruPlain": "основатель",
+   "vi": "người sáng lập",
+   "g": "m",
+   "ref": "doroga3-01-s057"
+  },
+  {
+   "ru": "изда́тельство",
+   "ruPlain": "издательство",
+   "vi": "nhà xuất bản",
+   "g": "n",
+   "ref": "doroga3-01-s057"
+  },
+  {
+   "ru": "изобрета́ть / изобрести́",
+   "ruPlain": "изобретать / изобрести",
+   "vi": "phát minh",
+   "g": null,
+   "ref": "doroga3-01-s057"
+  },
+  {
+   "ru": "мореплава́тель",
+   "ruPlain": "мореплаватель",
+   "vi": "nhà hàng hải",
+   "g": "m",
+   "ref": "doroga3-01-s057"
+  },
+  {
+   "ru": "скульпту́ра",
+   "ruPlain": "скульптура",
+   "vi": "tác phẩm điêu khắc",
+   "g": "f",
+   "ref": "doroga3-01-s057"
+  },
+  {
+   "ru": "плани́рование семьи́",
+   "ruPlain": "планирование семьи",
+   "vi": "kế hoạch hoá gia đình",
+   "g": null,
+   "ref": "doroga3-01-s016"
+  },
+  {
+   "ru": "воспи́тывать / воспита́ть",
+   "ruPlain": "воспитывать / воспитать",
+   "vi": "nuôi dạy, giáo dục",
+   "g": null,
+   "ref": "doroga3-01-s016"
+  },
+  {
+   "ru": "опека́ть",
+   "ruPlain": "опекать",
+   "vi": "bao bọc, chăm nom (quá mức)",
+   "g": null,
+   "ref": "doroga3-01-s016"
+  },
+  {
+   "ru": "обеспе́чивать / обеспе́чить",
+   "ruPlain": "обеспечивать / обеспечить",
+   "vi": "chu cấp, bảo đảm (кого чем)",
+   "g": null,
+   "ref": "doroga3-01-s016"
+  },
+  {
+   "ru": "уделя́ть вре́мя / внима́ние",
+   "ruPlain": "уделять время / внимание",
+   "vi": "dành thời gian / sự quan tâm (кому)",
+   "g": null,
+   "ref": "doroga3-01-s016"
+  },
+  {
+   "ru": "многоде́тная семья́",
+   "ruPlain": "многодетная семья",
+   "vi": "gia đình đông con",
+   "g": null,
+   "ref": "doroga3-01-s016"
+  },
+  {
+   "ru": "подро́сток",
+   "ruPlain": "подросток",
+   "vi": "thiếu niên",
+   "g": "m",
+   "ref": "doroga3-01-s016"
+  },
+  {
+   "ru": "одино́чество",
+   "ruPlain": "одиночество",
+   "vi": "nỗi cô đơn",
+   "g": "n",
+   "ref": "doroga3-01-s016"
+  },
+  {
+   "ru": "самостоя́тельный",
+   "ruPlain": "самостоятельный",
+   "vi": "tự lập",
+   "g": null,
+   "ref": "doroga3-01-s016"
+  },
+  {
+   "ru": "уве́ренный в себе́",
+   "ruPlain": "уверенный в себе",
+   "vi": "tự tin",
+   "g": null,
+   "ref": "doroga3-01-s016"
+  },
+  {
+   "ru": "причёсываться / причеса́ться",
+   "ruPlain": "причёсываться / причесаться",
+   "vi": "chải đầu (cho mình)",
+   "g": null,
+   "ref": "doroga3-01-s031"
+  },
+  {
+   "ru": "одева́ться / оде́ться",
+   "ruPlain": "одеваться / одеться",
+   "vi": "mặc quần áo",
+   "g": null,
+   "ref": "doroga3-01-s031"
+  },
+  {
+   "ru": "раздева́ться / разде́ться",
+   "ruPlain": "раздеваться / раздеться",
+   "vi": "cởi quần áo",
+   "g": null,
+   "ref": "doroga3-01-s032"
+  },
+  {
+   "ru": "умыва́ться / умы́ться",
+   "ruPlain": "умываться / умыться",
+   "vi": "rửa mặt",
+   "g": null,
+   "ref": "doroga3-01-s032"
+  },
+  {
+   "ru": "бри́ться / побри́ться",
+   "ruPlain": "бриться / побриться",
+   "vi": "cạo râu",
+   "g": null,
+   "ref": "doroga3-01-s032"
+  },
+  {
+   "ru": "мы́ться / помы́ться",
+   "ruPlain": "мыться / помыться",
+   "vi": "tắm rửa",
+   "g": null,
+   "ref": "doroga3-01-s032"
+  },
+  {
+   "ru": "стри́чься / постри́чься",
+   "ruPlain": "стричься / постричься",
+   "vi": "cắt tóc (cho mình)",
+   "g": null,
+   "ref": "doroga3-01-s034"
+  },
+  {
+   "ru": "ссо́риться / поссо́риться",
+   "ruPlain": "ссориться / поссориться",
+   "vi": "cãi nhau (с кем)",
+   "g": null,
+   "ref": "doroga3-01-s036"
+  },
+  {
+   "ru": "мири́ться / помири́ться",
+   "ruPlain": "мириться / помириться",
+   "vi": "làm lành (с кем)",
+   "g": null,
+   "ref": "doroga3-01-s036"
+  },
+  {
+   "ru": "обнима́ться / обня́ться",
+   "ruPlain": "обниматься / обняться",
+   "vi": "ôm nhau",
+   "g": null,
+   "ref": "doroga3-01-s036"
+  },
+  {
+   "ru": "целова́ться / поцелова́ться",
+   "ruPlain": "целоваться / поцеловаться",
+   "vi": "hôn nhau",
+   "g": null,
+   "ref": "doroga3-01-s035"
+  },
+  {
+   "ru": "перепи́сываться",
+   "ruPlain": "переписываться",
+   "vi": "thư từ qua lại (с кем)",
+   "g": null,
+   "ref": "doroga3-01-s038"
+  },
+  {
+   "ru": "ви́деться",
+   "ruPlain": "видеться",
+   "vi": "gặp mặt nhau",
+   "g": null,
+   "ref": "doroga3-01-s043"
+  },
+  {
+   "ru": "ложи́ться спать",
+   "ruPlain": "ложиться спать",
+   "vi": "đi ngủ",
+   "g": null,
+   "ref": "doroga3-01-s043"
+  },
+  {
+   "ru": "боя́ться",
+   "ruPlain": "бояться",
+   "vi": "sợ (кого? чего?)",
+   "g": null,
+   "ref": "doroga3-01-s043"
+  },
+  {
+   "ru": "боро́ться",
+   "ruPlain": "бороться",
+   "vi": "đấu tranh, đấu vật (с кем)",
+   "g": null,
+   "ref": "doroga3-01-s042"
+  },
+  {
+   "ru": "проща́ться / попроща́ться",
+   "ruPlain": "прощаться / попрощаться",
+   "vi": "chào tạm biệt (с кем)",
+   "g": null,
+   "ref": "doroga3-01-s042"
+  },
+  {
+   "ru": "улыба́ться / улыбну́ться",
+   "ruPlain": "улыбаться / улыбнуться",
+   "vi": "mỉm cười (кому)",
+   "g": null,
+   "ref": "doroga3-01-s042"
+  },
+  {
+   "ru": "вска́кивать / вскочи́ть",
+   "ruPlain": "вскакивать / вскочить",
+   "vi": "bật dậy",
+   "g": null,
+   "ref": "doroga3-01-s045"
+  },
+  {
+   "ru": "хвата́ть / схвати́ть",
+   "ruPlain": "хватать / схватить",
+   "vi": "chộp lấy, vớ nhanh lấy",
+   "g": null,
+   "ref": "doroga3-01-s045"
+  },
+  {
+   "ru": "машина́льно",
+   "ruPlain": "машинально",
+   "vi": "một cách máy móc, vô thức",
+   "g": null,
+   "ref": "doroga3-01-s045"
+  },
+  {
+   "ru": "заду́маться",
+   "ruPlain": "задуматься",
+   "vi": "trầm ngâm suy nghĩ",
+   "g": null,
+   "ref": "doroga3-01-s045"
+  },
+  {
+   "ru": "засыпа́ть / засну́ть",
+   "ruPlain": "засыпать / заснуть",
+   "vi": "ngủ thiếp đi",
+   "g": null,
+   "ref": "doroga3-01-s045"
+  },
+  {
+   "ru": "от не́чего де́лать",
+   "ruPlain": "от нечего делать",
+   "vi": "vì rảnh rỗi không có gì làm",
+   "g": null,
+   "ref": "doroga3-01-s045"
+  },
+  {
+   "ru": "хо́чешь не хо́чешь",
+   "ruPlain": "хочешь не хочешь",
+   "vi": "muốn hay không (cũng phải)",
+   "g": null,
+   "ref": "doroga3-01-s045"
+  },
+  {
+   "ru": "болтли́вый",
+   "ruPlain": "болтливый",
+   "vi": "lắm lời, ba hoa",
+   "g": null,
+   "ref": "doroga3-01-s046"
+  },
+  {
+   "ru": "пожило́й",
+   "ruPlain": "пожилой",
+   "vi": "đứng tuổi",
+   "g": null,
+   "ref": "doroga3-01-s046"
+  },
+  {
+   "ru": "чу́до",
+   "ruPlain": "чудо",
+   "vi": "phép màu, điều kỳ diệu",
+   "g": "n",
+   "ref": "doroga3-01-s046"
+  },
+  {
+   "ru": "превраща́ться / преврати́ться",
+   "ruPlain": "превращаться / превратиться",
+   "vi": "biến thành (во что)",
+   "g": null,
+   "ref": "doroga3-01-s050"
+  },
+  {
+   "ru": "восхища́ться / восхити́ться",
+   "ruPlain": "восхищаться / восхититься",
+   "vi": "thán phục, ngưỡng mộ (кем? чем?)",
+   "g": null,
+   "ref": "doroga3-01-s050"
+  },
+  {
+   "ru": "удивля́ться / удиви́ться",
+   "ruPlain": "удивляться / удивиться",
+   "vi": "ngạc nhiên (чему?)",
+   "g": null,
+   "ref": "doroga3-01-s050"
+  },
+  {
+   "ru": "сра́внивать / сравни́ть",
+   "ruPlain": "сравнивать / сравнить",
+   "vi": "so sánh (что с чем)",
+   "g": null,
+   "ref": "doroga3-01-s050"
+  },
+  {
+   "ru": "трудолю́бие",
+   "ruPlain": "трудолюбие",
+   "vi": "tính chăm chỉ, cần cù",
+   "g": "n",
+   "ref": "doroga3-01-s054"
+  },
+  {
+   "ru": "черта́ хара́ктера",
+   "ruPlain": "черта характера",
+   "vi": "nét tính cách",
+   "g": "f",
+   "ref": "doroga3-01-s054"
+  },
+  {
+   "ru": "прича́стие",
+   "ruPlain": "причастие",
+   "vi": "phân từ",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "действи́тельное прича́стие",
+   "ruPlain": "действительное причастие",
+   "vi": "phân từ chủ động",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "страда́тельное прича́стие",
+   "ruPlain": "страдательное причастие",
+   "vi": "phân từ bị động",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "прича́стный оборо́т",
+   "ruPlain": "причастный оборот",
+   "vi": "ngữ đoạn phân từ",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "определя́емое сло́во",
+   "ruPlain": "определяемое слово",
+   "vi": "từ được bổ nghĩa",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "прожива́ющий",
+   "ruPlain": "проживающий",
+   "vi": "(người) đang cư trú",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "провожа́ющие",
+   "ruPlain": "провожающие",
+   "vi": "những người đi tiễn",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "встреча́ющие",
+   "ruPlain": "встречающие",
+   "vi": "những người ra đón",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "соверши́ть поса́дку",
+   "ruPlain": "совершить посадку",
+   "vi": "hạ cánh",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "рейс",
+   "ruPlain": "рейс",
+   "vi": "chuyến bay, chuyến tàu",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "попуга́й",
+   "ruPlain": "попугай",
+   "vi": "con vẹt",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "хиру́рг",
+   "ruPlain": "хирург",
+   "vi": "bác sĩ phẫu thuật",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "пацие́нт",
+   "ruPlain": "пациент",
+   "vi": "bệnh nhân",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "спаса́ть/спасти́",
+   "ruPlain": "спасать/спасти",
+   "vi": "cứu, cứu chữa",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "диплома́т",
+   "ruPlain": "дипломат",
+   "vi": "nhà ngoại giao",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "служи́ть",
+   "ruPlain": "служить",
+   "vi": "phục vụ, công tác",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "защища́ть",
+   "ruPlain": "защищать",
+   "vi": "bảo vệ",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "за рубежо́м",
+   "ruPlain": "за рубежом",
+   "vi": "ở nước ngoài",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "абитурие́нт",
+   "ruPlain": "абитуриент",
+   "vi": "thí sinh thi vào đại học",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "пассажи́р",
+   "ruPlain": "пассажир",
+   "vi": "hành khách",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "зри́тель",
+   "ruPlain": "зритель",
+   "vi": "khán giả",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "покупа́тель",
+   "ruPlain": "покупатель",
+   "vi": "người mua",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "продаве́ц",
+   "ruPlain": "продавец",
+   "vi": "người bán",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "строи́тель",
+   "ruPlain": "строитель",
+   "vi": "thợ xây",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "компози́тор",
+   "ruPlain": "композитор",
+   "vi": "nhà soạn nhạc",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "предпринима́тель",
+   "ruPlain": "предприниматель",
+   "vi": "doanh nhân",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "депута́т",
+   "ruPlain": "депутат",
+   "vi": "đại biểu quốc hội",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "домохозя́йка",
+   "ruPlain": "домохозяйка",
+   "vi": "người nội trợ",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "уда́чливый",
+   "ruPlain": "удачливый",
+   "vi": "thành đạt, gặp may",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "семе́йный оча́г",
+   "ruPlain": "семейный очаг",
+   "vi": "tổ ấm gia đình",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "поколе́ние",
+   "ruPlain": "поколение",
+   "vi": "thế hệ",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "передава́ться по насле́дству",
+   "ruPlain": "передаваться по наследству",
+   "vi": "được truyền lại theo thừa kế",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "воспита́ние",
+   "ruPlain": "воспитание",
+   "vi": "sự nuôi dạy, giáo dục",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "влюби́ться",
+   "ruPlain": "влюбиться",
+   "vi": "phải lòng, yêu",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "пожени́ться",
+   "ruPlain": "пожениться",
+   "vi": "kết hôn (cả hai người)",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "сва́дьба",
+   "ruPlain": "свадьба",
+   "vi": "đám cưới",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "жени́х",
+   "ruPlain": "жених",
+   "vi": "chú rể",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "неве́ста",
+   "ruPlain": "невеста",
+   "vi": "cô dâu",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "сва́дебное путеше́ствие",
+   "ruPlain": "свадебное путешествие",
+   "vi": "chuyến trăng mật",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "фи́рменное блю́до",
+   "ruPlain": "фирменное блюдо",
+   "vi": "món «tủ», món đặc sản riêng",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "тюрьма́",
+   "ruPlain": "тюрьма",
+   "vi": "nhà tù",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "ками́н",
+   "ruPlain": "камин",
+   "vi": "lò sưởi",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "гастро́ли",
+   "ruPlain": "гастроли",
+   "vi": "chuyến lưu diễn",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "сюже́т",
+   "ruPlain": "сюжет",
+   "vi": "cốt truyện",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "по́двиг",
+   "ruPlain": "подвиг",
+   "vi": "kỳ tích, chiến công",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "репети́ция",
+   "ruPlain": "репетиция",
+   "vi": "buổi tập, diễn tập",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "премье́ра",
+   "ruPlain": "премьера",
+   "vi": "buổi công diễn đầu tiên",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "туберкулёз",
+   "ruPlain": "туберкулёз",
+   "vi": "bệnh lao",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "нужда́ться в чём",
+   "ruPlain": "нуждаться в чём",
+   "vi": "cần đến, thiếu",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "гонора́р",
+   "ruPlain": "гонорар",
+   "vi": "nhuận bút, thù lao",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "улучша́ться/улу́чшиться",
+   "ruPlain": "улучшаться/улучшиться",
+   "vi": "tốt lên, được cải thiện",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "ухудша́ться/уху́дшиться",
+   "ruPlain": "ухудшаться/ухудшиться",
+   "vi": "xấu đi",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "гостеприи́мный",
+   "ruPlain": "гостеприимный",
+   "vi": "hiếu khách",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "сдержа́ть сло́во",
+   "ruPlain": "сдержать слово",
+   "vi": "giữ lời hứa",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "произвести́ впечатле́ние",
+   "ruPlain": "произвести впечатление",
+   "vi": "gây ấn tượng",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "устра́ивать/устро́ить",
+   "ruPlain": "устраивать/устроить",
+   "vi": "tổ chức",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "пе́репись населе́ния",
+   "ruPlain": "перепись населения",
+   "vi": "cuộc điều tra dân số",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "купе́ц",
+   "ruPlain": "купец",
+   "vi": "thương nhân",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "ла́вка",
+   "ruPlain": "лавка",
+   "vi": "tiệm tạp hoá, quán nhỏ",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "ка́торга",
+   "ruPlain": "каторга",
+   "vi": "khổ sai",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "ссы́лка",
+   "ruPlain": "ссылка",
+   "vi": "sự lưu đày",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "престу́пник",
+   "ruPlain": "преступник",
+   "vi": "tội phạm",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "крестья́нин",
+   "ruPlain": "крестьянин",
+   "vi": "nông dân",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "бесплатно",
+   "ruPlain": "бесплатно",
+   "vi": "miễn phí",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "обще́ственная де́ятельность",
+   "ruPlain": "общественная деятельность",
+   "vi": "hoạt động xã hội",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "побере́жье",
+   "ruPlain": "побережье",
+   "vi": "bờ biển, duyên hải",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "окра́ина",
+   "ruPlain": "окраина",
+   "vi": "vùng ven, ngoại ô",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "как на ладо́ни",
+   "ruPlain": "как на ладони",
+   "vi": "rõ như lòng bàn tay",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "уха́живать за кем/чем",
+   "ruPlain": "ухаживать за кем/чем",
+   "vi": "chăm sóc",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "скуча́ть по кому́/чему́",
+   "ruPlain": "скучать по кому/чему",
+   "vi": "nhớ ai/cái gì",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "плодотво́рный",
+   "ruPlain": "плодотворный",
+   "vi": "sung sức, hiệu quả",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "расцве́т тала́нта",
+   "ruPlain": "расцвет таланта",
+   "vi": "độ chín của tài năng",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "благодаря́ кому́/чему́",
+   "ruPlain": "благодаря кому/чему",
+   "vi": "nhờ có (nguyên nhân tích cực, +cách 3)",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "из-за кого́/чего́",
+   "ruPlain": "из-за кого/чего",
+   "vi": "vì, do (nguyên nhân tiêu cực, +cách 2)",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "найти́ своё ме́сто в жи́зни",
+   "ruPlain": "найти своё место в жизни",
+   "vi": "tìm được chỗ đứng trong đời",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "не хвата́ть",
+   "ruPlain": "не хватать",
+   "vi": "thiếu, không đủ",
+   "g": null,
+   "ref": "doroga3-02-s055"
+  },
+  {
+   "ru": "кра́ткая фо́рма прича́стия",
+   "ruPlain": "краткая форма причастия",
+   "vi": "dạng ngắn của phân từ",
+   "g": null,
+   "ref": "doroga3-03-s026"
+  },
+  {
+   "ru": "фина́нсы",
+   "ruPlain": "финансы",
+   "vi": "tài chính, tiền",
+   "g": "мн.",
+   "ref": "doroga3-03-s030"
+  },
+  {
+   "ru": "финанси́ровать",
+   "ruPlain": "финансировать",
+   "vi": "cấp kinh phí, tài trợ",
+   "g": "НСВ/СВ",
+   "ref": "doroga3-03-s030"
+  },
+  {
+   "ru": "посеща́ть / посети́ть",
+   "ruPlain": "посещать / посетить",
+   "vi": "đến thăm, tham dự (bảo tàng, giờ học)",
+   "g": "НСВ/СВ",
+   "ref": "doroga3-03-s030"
+  },
+  {
+   "ru": "уделя́ть / удели́ть внима́ние",
+   "ruPlain": "уделять / уделить внимание",
+   "vi": "dành sự chú ý (cho ai/cái gì)",
+   "g": "+ Д.п.",
+   "ref": "doroga3-03-s030"
+  },
+  {
+   "ru": "у́мственное разви́тие",
+   "ruPlain": "умственное развитие",
+   "vi": "sự phát triển trí tuệ",
+   "g": null,
+   "ref": "doroga3-03-s030"
+  },
+  {
+   "ru": "углублённое изуче́ние",
+   "ruPlain": "углублённое изучение",
+   "vi": "việc học chuyên sâu",
+   "g": null,
+   "ref": "doroga3-03-s030"
+  },
+  {
+   "ru": "вступи́тельный экза́мен",
+   "ruPlain": "вступительный экзамен",
+   "vi": "kỳ thi đầu vào (đại học)",
+   "g": null,
+   "ref": "doroga3-03-s030"
+  },
+  {
+   "ru": "выпускно́й экза́мен",
+   "ruPlain": "выпускной экзамен",
+   "vi": "kỳ thi tốt nghiệp",
+   "g": null,
+   "ref": "doroga3-03-s030"
+  },
+  {
+   "ru": "срок обуче́ния",
+   "ruPlain": "срок обучения",
+   "vi": "thời gian đào tạo",
+   "g": null,
+   "ref": "doroga3-03-s030"
+  },
+  {
+   "ru": "рефо́рма",
+   "ruPlain": "реформа",
+   "vi": "cải cách",
+   "g": "ж.",
+   "ref": "doroga3-03-s030"
+  },
+  {
+   "ru": "проводи́ть / провести́ экспериме́нт",
+   "ruPlain": "проводить / провести эксперимент",
+   "vi": "tiến hành thí nghiệm",
+   "g": null,
+   "ref": "doroga3-03-s030"
+  },
+  {
+   "ru": "о́пыт",
+   "ruPlain": "опыт",
+   "vi": "thí nghiệm; kinh nghiệm",
+   "g": "м.",
+   "ref": "doroga3-03-s030"
+  },
+  {
+   "ru": "сторо́нник",
+   "ruPlain": "сторонник",
+   "vi": "người ủng hộ",
+   "g": "м.",
+   "ref": "doroga3-03-s030"
+  },
+  {
+   "ru": "проти́вник",
+   "ruPlain": "противник",
+   "vi": "người phản đối; đối thủ",
+   "g": "м.",
+   "ref": "doroga3-03-s030"
+  },
+  {
+   "ru": "включа́ть / включи́ть",
+   "ruPlain": "включать / включить",
+   "vi": "bao gồm; bật",
+   "g": "НСВ/СВ",
+   "ref": "doroga3-03-s030"
+  },
+  {
+   "ru": "у́ровень",
+   "ruPlain": "уровень",
+   "vi": "cấp độ, trình độ, bậc",
+   "g": "м.",
+   "ref": "doroga3-03-s035"
+  },
+  {
+   "ru": "дошко́льное воспита́ние",
+   "ruPlain": "дошкольное воспитание",
+   "vi": "giáo dục mầm non",
+   "g": null,
+   "ref": "doroga3-03-s032"
+  },
+  {
+   "ru": "де́тский сад",
+   "ruPlain": "детский сад",
+   "vi": "nhà trẻ, trường mẫu giáo",
+   "g": "м.",
+   "ref": "doroga3-03-s032"
+  },
+  {
+   "ru": "нача́льная шко́ла",
+   "ruPlain": "начальная школа",
+   "vi": "trường tiểu học",
+   "g": null,
+   "ref": "doroga3-03-s033"
+  },
+  {
+   "ru": "сре́дняя шко́ла",
+   "ruPlain": "средняя школа",
+   "vi": "trường trung học",
+   "g": null,
+   "ref": "doroga3-03-s033"
+  },
+  {
+   "ru": "общеобразова́тельный",
+   "ruPlain": "общеобразовательный",
+   "vi": "(thuộc) giáo dục phổ thông",
+   "g": "прил.",
+   "ref": "doroga3-03-s033"
+  },
+  {
+   "ru": "гимна́зия",
+   "ruPlain": "гимназия",
+   "vi": "trường gymnasium (trường chuyên)",
+   "g": "ж.",
+   "ref": "doroga3-03-s033"
+  },
+  {
+   "ru": "лице́й",
+   "ruPlain": "лицей",
+   "vi": "trường lyceum (trường chuyên cấp cuối)",
+   "g": "м.",
+   "ref": "doroga3-03-s033"
+  },
+  {
+   "ru": "старшекла́ссник",
+   "ruPlain": "старшеклассник",
+   "vi": "học sinh lớp trên (cuối cấp)",
+   "g": "м.",
+   "ref": "doroga3-03-s033"
+  },
+  {
+   "ru": "аттеста́т",
+   "ruPlain": "аттестат",
+   "vi": "bằng tốt nghiệp trung học",
+   "g": "м.",
+   "ref": "doroga3-03-s033"
+  },
+  {
+   "ru": "учи́лище",
+   "ruPlain": "училище",
+   "vi": "trường trung cấp, trường nghề",
+   "g": "ср.",
+   "ref": "doroga3-03-s034"
+  },
+  {
+   "ru": "ко́лледж",
+   "ruPlain": "колледж",
+   "vi": "trường cao đẳng",
+   "g": "м.",
+   "ref": "doroga3-03-s034"
+  },
+  {
+   "ru": "вуз (вы́сшее уче́бное заведе́ние)",
+   "ruPlain": "вуз (высшее учебное заведение)",
+   "vi": "trường đại học (cơ sở giáo dục đại học)",
+   "g": "м.",
+   "ref": "doroga3-03-s035"
+  },
+  {
+   "ru": "бакала́вр",
+   "ruPlain": "бакалавр",
+   "vi": "cử nhân (hệ 4 năm)",
+   "g": "м.",
+   "ref": "doroga3-03-s035"
+  },
+  {
+   "ru": "специали́ст",
+   "ruPlain": "специалист",
+   "vi": "chuyên gia (hệ đào tạo 5 năm)",
+   "g": "м.",
+   "ref": "doroga3-03-s035"
+  },
+  {
+   "ru": "маги́стр",
+   "ruPlain": "магистр",
+   "vi": "thạc sĩ (hệ 6 năm)",
+   "g": "м.",
+   "ref": "doroga3-03-s035"
+  },
+  {
+   "ru": "ко́нкурс",
+   "ruPlain": "конкурс",
+   "vi": "cuộc thi; tỉ lệ chọi (tuyển sinh)",
+   "g": "м.",
+   "ref": "doroga3-03-s035"
+  },
+  {
+   "ru": "балл",
+   "ruPlain": "балл",
+   "vi": "điểm (thi)",
+   "g": "м.",
+   "ref": "doroga3-03-s035"
+  },
+  {
+   "ru": "стипе́ндия",
+   "ruPlain": "стипендия",
+   "vi": "học bổng",
+   "g": "ж.",
+   "ref": "doroga3-03-s035"
+  },
+  {
+   "ru": "очная (дневна́я) фо́рма обуче́ния",
+   "ruPlain": "очная (дневная) форма обучения",
+   "vi": "hệ chính quy ban ngày",
+   "g": null,
+   "ref": "doroga3-03-s035"
+  },
+  {
+   "ru": "вече́рняя фо́рма обуче́ния",
+   "ruPlain": "вечерняя форма обучения",
+   "vi": "hệ học buổi tối",
+   "g": null,
+   "ref": "doroga3-03-s035"
+  },
+  {
+   "ru": "зао́чная фо́рма обуче́ния",
+   "ruPlain": "заочная форма обучения",
+   "vi": "hệ tại chức (đào tạo từ xa)",
+   "g": null,
+   "ref": "doroga3-03-s035"
+  },
+  {
+   "ru": "се́ссия",
+   "ruPlain": "сессия",
+   "vi": "kỳ thi học kỳ",
+   "g": "ж.",
+   "ref": "doroga3-03-s035"
+  },
+  {
+   "ru": "консульта́ция",
+   "ruPlain": "консультация",
+   "vi": "buổi phụ đạo, tư vấn",
+   "g": "ж.",
+   "ref": "doroga3-03-s035"
+  },
+  {
+   "ru": "еди́ный госуда́рственный экза́мен (ЕГЭ)",
+   "ruPlain": "единый государственный экзамен (ЕГЭ)",
+   "vi": "kỳ thi quốc gia thống nhất",
+   "g": null,
+   "ref": "doroga3-03-s036"
+  },
+  {
+   "ru": "день откры́тых двере́й",
+   "ruPlain": "день открытых дверей",
+   "vi": "ngày hội mở cửa (tư vấn tuyển sinh)",
+   "g": "м.",
+   "ref": "doroga3-03-s038"
+  },
+  {
+   "ru": "факульте́т",
+   "ruPlain": "факультет",
+   "vi": "khoa (trong trường đại học)",
+   "g": "м.",
+   "ref": "doroga3-03-s038"
+  },
+  {
+   "ru": "ре́ктор",
+   "ruPlain": "ректор",
+   "vi": "hiệu trưởng trường đại học",
+   "g": "м.",
+   "ref": "doroga3-03-s038"
+  },
+  {
+   "ru": "дека́н",
+   "ruPlain": "декан",
+   "vi": "chủ nhiệm khoa",
+   "g": "м.",
+   "ref": "doroga3-03-s038"
+  },
+  {
+   "ru": "общежи́тие",
+   "ruPlain": "общежитие",
+   "vi": "ký túc xá",
+   "g": "ср.",
+   "ref": "doroga3-03-s040"
+  },
+  {
+   "ru": "заявле́ние",
+   "ruPlain": "заявление",
+   "vi": "đơn (xin nhập học...)",
+   "g": "ср.",
+   "ref": "doroga3-03-s040"
+  },
+  {
+   "ru": "медици́нская спра́вка",
+   "ruPlain": "медицинская справка",
+   "vi": "giấy chứng nhận sức khoẻ",
+   "g": null,
+   "ref": "doroga3-03-s040"
+  },
+  {
+   "ru": "зачи́слить",
+   "ruPlain": "зачислить",
+   "vi": "tuyển vào, ghi danh (vào trường)",
+   "g": "СВ",
+   "ref": "doroga3-03-s040"
+  },
+  {
+   "ru": "корми́ть / прокорми́ть",
+   "ruPlain": "кормить / прокормить",
+   "vi": "cho ăn / nuôi sống (gia đình)",
+   "g": "НСВ/СВ",
+   "ref": "doroga3-03-s041"
+  },
+  {
+   "ru": "гимнастёрка",
+   "ruPlain": "гимнастёрка",
+   "vi": "áo lính (sơ mi quân phục)",
+   "g": "ж.",
+   "ref": "doroga3-03-s041"
+  },
+  {
+   "ru": "приёмная коми́ссия",
+   "ruPlain": "приёмная комиссия",
+   "vi": "hội đồng tuyển sinh",
+   "g": "ж.",
+   "ref": "doroga3-03-s041"
+  },
+  {
+   "ru": "прису́тствовать",
+   "ruPlain": "присутствовать",
+   "vi": "có mặt",
+   "g": "НСВ",
+   "ref": "doroga3-03-s041"
+  },
+  {
+   "ru": "отсу́тствовать",
+   "ruPlain": "отсутствовать",
+   "vi": "vắng mặt",
+   "g": "НСВ",
+   "ref": "doroga3-03-s041"
+  },
+  {
+   "ru": "мёрзнуть / замёрзнуть",
+   "ruPlain": "мёрзнуть / замёрзнуть",
+   "vi": "bị rét cóng; đóng băng",
+   "g": "НСВ/СВ",
+   "ref": "doroga3-03-s041"
+  },
+  {
+   "ru": "призва́ние",
+   "ruPlain": "призвание",
+   "vi": "thiên hướng, nghề nghiệp trời định",
+   "g": "ср.",
+   "ref": "doroga3-03-s042"
+  },
+  {
+   "ru": "по́черк",
+   "ruPlain": "почерк",
+   "vi": "nét chữ",
+   "g": "м.",
+   "ref": "doroga3-03-s042"
+  },
+  {
+   "ru": "сты́дно",
+   "ruPlain": "стыдно",
+   "vi": "xấu hổ, ngượng",
+   "g": "предик.",
+   "ref": "doroga3-03-s044"
+  },
+  {
+   "ru": "стро́гий",
+   "ruPlain": "строгий",
+   "vi": "nghiêm khắc",
+   "g": "прил.",
+   "ref": "doroga3-03-s044"
+  },
+  {
+   "ru": "стро́гость",
+   "ruPlain": "строгость",
+   "vi": "sự nghiêm khắc",
+   "g": "ж.",
+   "ref": "doroga3-03-s044"
+  },
+  {
+   "ru": "име́ть пра́во",
+   "ruPlain": "иметь право",
+   "vi": "có quyền (+ động từ nguyên thể)",
+   "g": null,
+   "ref": "doroga3-03-s044"
+  },
+  {
+   "ru": "гото́в (-а, -ы)",
+   "ruPlain": "готов (-а, -ы)",
+   "vi": "sẵn sàng",
+   "g": "кр. прил.",
+   "ref": "doroga3-03-s044"
+  },
+  {
+   "ru": "успе́ть",
+   "ruPlain": "успеть",
+   "vi": "kịp (làm gì)",
+   "g": "СВ",
+   "ref": "doroga3-03-s044"
+  },
+  {
+   "ru": "зли́ться",
+   "ruPlain": "злиться",
+   "vi": "tức giận",
+   "g": "НСВ",
+   "ref": "doroga3-03-s044"
+  },
+  {
+   "ru": "плен",
+   "ruPlain": "плен",
+   "vi": "cảnh tù binh (попасть в плен — bị bắt làm tù binh)",
+   "g": "м.",
+   "ref": "doroga3-03-s044"
+  },
+  {
+   "ru": "пле́нный",
+   "ruPlain": "пленный",
+   "vi": "tù binh",
+   "g": "м.",
+   "ref": "doroga3-03-s044"
+  },
+  {
+   "ru": "зачётка (зачётная кни́жка)",
+   "ruPlain": "зачётка (зачётная книжка)",
+   "vi": "sổ điểm sinh viên",
+   "g": "ж.",
+   "ref": "doroga3-03-s045"
+  },
+  {
+   "ru": "малокро́вие",
+   "ruPlain": "малокровие",
+   "vi": "bệnh thiếu máu",
+   "g": "ср.",
+   "ref": "doroga3-03-s024"
+  },
+  {
+   "ru": "желе́зо",
+   "ruPlain": "железо",
+   "vi": "sắt",
+   "g": "ср.",
+   "ref": "doroga3-03-s024"
+  },
+  {
+   "ru": "кровь",
+   "ruPlain": "кровь",
+   "vi": "máu",
+   "g": "ж.",
+   "ref": "doroga3-03-s024"
+  },
+  {
+   "ru": "посёлок",
+   "ruPlain": "посёлок",
+   "vi": "thị trấn, khu dân cư",
+   "g": "м.",
+   "ref": "doroga3-03-s034"
+  },
+  {
+   "ru": "наро́дный ма́стер",
+   "ruPlain": "народный мастер",
+   "vi": "nghệ nhân dân gian",
+   "g": "м.",
+   "ref": "doroga3-03-s034"
+  },
+  {
+   "ru": "медсестра́",
+   "ruPlain": "медсестра",
+   "vi": "y tá (nữ)",
+   "g": "ж.",
+   "ref": "doroga3-03-s034"
+  },
+  {
+   "ru": "воспита́тель",
+   "ruPlain": "воспитатель",
+   "vi": "giáo viên mầm non; người nuôi dạy",
+   "g": "м.",
+   "ref": "doroga3-03-s034"
+  },
+  {
+   "ru": "со́товый телефо́н",
+   "ruPlain": "сотовый телефон",
+   "vi": "điện thoại di động",
+   "g": "м.",
+   "ref": "doroga3-03-s006"
+  },
+  {
+   "ru": "владе́лец",
+   "ruPlain": "владелец",
+   "vi": "chủ sở hữu",
+   "g": "м.",
+   "ref": "doroga3-03-s006"
+  },
+  {
+   "ru": "драгоце́нный ка́мень",
+   "ruPlain": "драгоценный камень",
+   "vi": "đá quý",
+   "g": "м.",
+   "ref": "doroga3-03-s023"
+  },
+  {
+   "ru": "Вселе́нная",
+   "ruPlain": "Вселенная",
+   "vi": "Vũ trụ",
+   "g": "ж.",
+   "ref": "doroga3-03-s023"
+  },
+  {
+   "ru": "мецена́т",
+   "ruPlain": "меценат",
+   "vi": "nhà bảo trợ (nghệ thuật, khoa học)",
+   "g": "м.",
+   "ref": "doroga3-03-s025"
+  },
+  {
+   "ru": "сте́пени сравне́ния",
+   "ruPlain": "степени сравнения",
+   "vi": "các cấp so sánh",
+   "g": null,
+   "ref": "doroga3-04-s005"
+  },
+  {
+   "ru": "сравни́тельная сте́пень",
+   "ruPlain": "сравнительная степень",
+   "vi": "cấp so sánh hơn",
+   "g": null,
+   "ref": "doroga3-04-s005"
+  },
+  {
+   "ru": "превосхо́дная сте́пень",
+   "ruPlain": "превосходная степень",
+   "vi": "cấp so sánh nhất",
+   "g": null,
+   "ref": "doroga3-04-s005"
+  },
+  {
+   "ru": "эффекти́вный",
+   "ruPlain": "эффективный",
+   "vi": "hiệu quả",
+   "g": null,
+   "ref": "doroga3-04-s005"
+  },
+  {
+   "ru": "то́нкий — то́ньше",
+   "ruPlain": "тонкий — тоньше",
+   "vi": "mỏng — mỏng hơn",
+   "g": null,
+   "ref": "doroga3-04-s005"
+  },
+  {
+   "ru": "то́лстый — то́лще",
+   "ruPlain": "толстый — толще",
+   "vi": "dày — dày hơn",
+   "g": null,
+   "ref": "doroga3-04-s005"
+  },
+  {
+   "ru": "ре́дкий — ре́же",
+   "ruPlain": "редкий — реже",
+   "vi": "hiếm, thưa — hiếm hơn",
+   "g": null,
+   "ref": "doroga3-04-s005"
+  },
+  {
+   "ru": "ча́стый — ча́ще",
+   "ruPlain": "частый — чаще",
+   "vi": "thường xuyên — thường hơn",
+   "g": null,
+   "ref": "doroga3-04-s005"
+  },
+  {
+   "ru": "дорого́й — доро́же",
+   "ruPlain": "дорогой — дороже",
+   "vi": "đắt — đắt hơn",
+   "g": null,
+   "ref": "doroga3-04-s005"
+  },
+  {
+   "ru": "дешёвый — деше́вле",
+   "ruPlain": "дешёвый — дешевле",
+   "vi": "rẻ — rẻ hơn",
+   "g": null,
+   "ref": "doroga3-04-s005"
+  },
+  {
+   "ru": "просто́й — про́ще",
+   "ruPlain": "простой — проще",
+   "vi": "đơn giản — đơn giản hơn",
+   "g": null,
+   "ref": "doroga3-04-s005"
+  },
+  {
+   "ru": "сло́жный — сложне́е",
+   "ruPlain": "сложный — сложнее",
+   "vi": "phức tạp — phức tạp hơn",
+   "g": null,
+   "ref": "doroga3-04-s005"
+  },
+  {
+   "ru": "лёгкий — ле́гче",
+   "ruPlain": "лёгкий — легче",
+   "vi": "nhẹ, dễ — dễ hơn",
+   "g": null,
+   "ref": "doroga3-04-s005"
+  },
+  {
+   "ru": "бли́зкий — бли́же",
+   "ruPlain": "близкий — ближе",
+   "vi": "gần — gần hơn",
+   "g": null,
+   "ref": "doroga3-04-s005"
+  },
+  {
+   "ru": "далёкий — да́льше",
+   "ruPlain": "далёкий — дальше",
+   "vi": "xa — xa hơn",
+   "g": null,
+   "ref": "doroga3-04-s005"
+  },
+  {
+   "ru": "коро́ткий — коро́че",
+   "ruPlain": "короткий — короче",
+   "vi": "ngắn — ngắn hơn",
+   "g": null,
+   "ref": "doroga3-04-s005"
+  },
+  {
+   "ru": "я́ркий — я́рче",
+   "ruPlain": "яркий — ярче",
+   "vi": "rực rỡ — rực rỡ hơn",
+   "g": null,
+   "ref": "doroga3-04-s005"
+  },
+  {
+   "ru": "алма́з",
+   "ruPlain": "алмаз",
+   "vi": "kim cương",
+   "g": null,
+   "ref": "doroga3-04-s008"
+  },
+  {
+   "ru": "твёрдый",
+   "ruPlain": "твёрдый",
+   "vi": "cứng",
+   "g": null,
+   "ref": "doroga3-04-s008"
+  },
+  {
+   "ru": "мя́гкий",
+   "ruPlain": "мягкий",
+   "vi": "mềm",
+   "g": null,
+   "ref": "doroga3-04-s008"
+  },
+  {
+   "ru": "серебро́",
+   "ruPlain": "серебро",
+   "vi": "bạc",
+   "g": null,
+   "ref": "doroga3-04-s008"
+  },
+  {
+   "ru": "сла́дкий",
+   "ruPlain": "сладкий",
+   "vi": "ngọt",
+   "g": null,
+   "ref": "doroga3-04-s008"
+  },
+  {
+   "ru": "ки́слый",
+   "ruPlain": "кислый",
+   "vi": "chua",
+   "g": null,
+   "ref": "doroga3-04-s008"
+  },
+  {
+   "ru": "зага́дка",
+   "ruPlain": "загадка",
+   "vi": "câu đố",
+   "g": null,
+   "ref": "doroga3-04-s010"
+  },
+  {
+   "ru": "посло́вица",
+   "ruPlain": "пословица",
+   "vi": "tục ngữ",
+   "g": null,
+   "ref": "doroga3-04-s011"
+  },
+  {
+   "ru": "черепа́ха",
+   "ruPlain": "черепаха",
+   "vi": "con rùa",
+   "g": null,
+   "ref": "doroga3-04-s012"
+  },
+  {
+   "ru": "стра́ус",
+   "ruPlain": "страус",
+   "vi": "đà điểu",
+   "g": null,
+   "ref": "doroga3-04-s012"
+  },
+  {
+   "ru": "верблю́д",
+   "ruPlain": "верблюд",
+   "vi": "lạc đà",
+   "g": null,
+   "ref": "doroga3-04-s012"
+  },
+  {
+   "ru": "ба́сня",
+   "ruPlain": "басня",
+   "vi": "truyện ngụ ngôn",
+   "g": null,
+   "ref": "doroga3-04-s016"
+  },
+  {
+   "ru": "баснопи́сец",
+   "ruPlain": "баснописец",
+   "vi": "người viết ngụ ngôn",
+   "g": null,
+   "ref": "doroga3-04-s016"
+  },
+  {
+   "ru": "раб",
+   "ruPlain": "раб",
+   "vi": "nô lệ",
+   "g": null,
+   "ref": "doroga3-04-s016"
+  },
+  {
+   "ru": "мысли́тель",
+   "ruPlain": "мыслитель",
+   "vi": "nhà tư tưởng",
+   "g": null,
+   "ref": "doroga3-04-s017"
+  },
+  {
+   "ru": "преда́ть",
+   "ruPlain": "предать",
+   "vi": "phản bội",
+   "g": null,
+   "ref": "doroga3-04-s017"
+  },
+  {
+   "ru": "оби́деть",
+   "ruPlain": "обидеть",
+   "vi": "xúc phạm, làm tổn thương",
+   "g": null,
+   "ref": "doroga3-04-s017"
+  },
+  {
+   "ru": "обману́ть",
+   "ruPlain": "обмануть",
+   "vi": "lừa dối",
+   "g": null,
+   "ref": "doroga3-04-s017"
+  },
+  {
+   "ru": "разруша́ть",
+   "ruPlain": "разрушать",
+   "vi": "phá hủy",
+   "g": null,
+   "ref": "doroga3-04-s017"
+  },
+  {
+   "ru": "го́ре",
+   "ruPlain": "горе",
+   "vi": "đau khổ, tai họa",
+   "g": null,
+   "ref": "doroga3-04-s017"
+  },
+  {
+   "ru": "несча́стье",
+   "ruPlain": "несчастье",
+   "vi": "bất hạnh",
+   "g": null,
+   "ref": "doroga3-04-s017"
+  },
+  {
+   "ru": "хи́трый",
+   "ruPlain": "хитрый",
+   "vi": "xảo quyệt, ranh mãnh",
+   "g": null,
+   "ref": "doroga3-04-s017"
+  },
+  {
+   "ru": "злой",
+   "ruPlain": "злой",
+   "vi": "độc ác",
+   "g": null,
+   "ref": "doroga3-04-s017"
+  },
+  {
+   "ru": "нау́чно-популя́рный",
+   "ruPlain": "научно-популярный",
+   "vi": "khoa học thường thức",
+   "g": null,
+   "ref": "doroga3-04-s018"
+  },
+  {
+   "ru": "веду́щий",
+   "ruPlain": "ведущий",
+   "vi": "người dẫn chương trình; hàng đầu",
+   "g": null,
+   "ref": "doroga3-04-s018"
+  },
+  {
+   "ru": "телезри́тель",
+   "ruPlain": "телезритель",
+   "vi": "khán giả truyền hình",
+   "g": null,
+   "ref": "doroga3-04-s018"
+  },
+  {
+   "ru": "устро́йство ми́ра",
+   "ruPlain": "устройство мира",
+   "vi": "cấu tạo thế giới",
+   "g": null,
+   "ref": "doroga3-04-s018"
+  },
+  {
+   "ru": "цивилиза́ция",
+   "ruPlain": "цивилизация",
+   "vi": "nền văn minh",
+   "g": null,
+   "ref": "doroga3-04-s018"
+  },
+  {
+   "ru": "мураве́й",
+   "ruPlain": "муравей",
+   "vi": "con kiến",
+   "g": null,
+   "ref": "doroga3-04-s018"
+  },
+  {
+   "ru": "биофи́зика",
+   "ruPlain": "биофизика",
+   "vi": "lý sinh học",
+   "g": null,
+   "ref": "doroga3-04-s018"
+  },
+  {
+   "ru": "заслу́женный",
+   "ruPlain": "заслуженный",
+   "vi": "xứng đáng",
+   "g": null,
+   "ref": "doroga3-04-s018"
+  },
+  {
+   "ru": "справедли́вый",
+   "ruPlain": "справедливый",
+   "vi": "công bằng",
+   "g": null,
+   "ref": "doroga3-04-s018"
+  },
+  {
+   "ru": "аплоди́ровать",
+   "ruPlain": "аплодировать",
+   "vi": "vỗ tay",
+   "g": null,
+   "ref": "doroga3-04-s018"
+  },
+  {
+   "ru": "по́лная фо́рма",
+   "ruPlain": "полная форма",
+   "vi": "dạng đầy đủ (của tính từ)",
+   "g": null,
+   "ref": "doroga3-04-s019"
+  },
+  {
+   "ru": "кра́ткая фо́рма",
+   "ruPlain": "краткая форма",
+   "vi": "dạng ngắn (của tính từ)",
+   "g": null,
+   "ref": "doroga3-04-s019"
+  },
+  {
+   "ru": "прозра́чный",
+   "ruPlain": "прозрачный",
+   "vi": "trong suốt",
+   "g": null,
+   "ref": "doroga3-04-s020"
+  },
+  {
+   "ru": "стро́йный",
+   "ruPlain": "стройный",
+   "vi": "cân đối, thon thả",
+   "g": null,
+   "ref": "doroga3-04-s020"
+  },
+  {
+   "ru": "арома́тный",
+   "ruPlain": "ароматный",
+   "vi": "thơm",
+   "g": null,
+   "ref": "doroga3-04-s020"
+  },
+  {
+   "ru": "бога́т (чем)",
+   "ruPlain": "богат (чем)",
+   "vi": "giàu (về cái gì — cách 5)",
+   "g": null,
+   "ref": "doroga3-04-s021"
+  },
+  {
+   "ru": "изве́стен (кому, чем)",
+   "ruPlain": "известен (кому, чем)",
+   "vi": "nổi tiếng (với ai, nhờ gì)",
+   "g": null,
+   "ref": "doroga3-04-s021"
+  },
+  {
+   "ru": "дово́лен (кем, чем)",
+   "ruPlain": "доволен (кем, чем)",
+   "vi": "hài lòng (với ai, với gì)",
+   "g": null,
+   "ref": "doroga3-04-s021"
+  },
+  {
+   "ru": "ра́вен (чему)",
+   "ruPlain": "равен (чему)",
+   "vi": "bằng (cái gì — cách 3)",
+   "g": null,
+   "ref": "doroga3-04-s021"
+  },
+  {
+   "ru": "импера́трица",
+   "ruPlain": "императрица",
+   "vi": "nữ hoàng",
+   "g": null,
+   "ref": "doroga3-04-s022"
+  },
+  {
+   "ru": "ука́з",
+   "ruPlain": "указ",
+   "vi": "chỉ dụ, sắc lệnh",
+   "g": null,
+   "ref": "doroga3-04-s022"
+  },
+  {
+   "ru": "покрови́тельница",
+   "ruPlain": "покровительница",
+   "vi": "nữ thánh bảo trợ",
+   "g": null,
+   "ref": "doroga3-04-s022"
+  },
+  {
+   "ru": "торже́ственный",
+   "ruPlain": "торжественный",
+   "vi": "trọng thể, long trọng",
+   "g": null,
+   "ref": "doroga3-04-s022"
+  },
+  {
+   "ru": "награ́да",
+   "ruPlain": "награда",
+   "vi": "phần thưởng",
+   "g": null,
+   "ref": "doroga3-04-s022"
+  },
+  {
+   "ru": "гуля́нье",
+   "ruPlain": "гулянье",
+   "vi": "cuộc dạo chơi, hội hè",
+   "g": null,
+   "ref": "doroga3-04-s022"
+  },
+  {
+   "ru": "беззабо́тный",
+   "ruPlain": "беззаботный",
+   "vi": "vô tư lự",
+   "g": null,
+   "ref": "doroga3-04-s022"
+  },
+  {
+   "ru": "медову́ха",
+   "ruPlain": "медовуха",
+   "vi": "rượu mật ong (medovukha)",
+   "g": null,
+   "ref": "doroga3-04-s022"
+  },
+  {
+   "ru": "гимн",
+   "ruPlain": "гимн",
+   "vi": "bài ca chính thức, quốc ca/trường ca",
+   "g": null,
+   "ref": "doroga3-04-s022"
+  },
+  {
+   "ru": "посвяти́ть",
+   "ruPlain": "посвятить",
+   "vi": "đề tặng; cống hiến",
+   "g": null,
+   "ref": "doroga3-04-s023"
+  },
+  {
+   "ru": "консервато́рия",
+   "ruPlain": "консерватория",
+   "vi": "nhạc viện",
+   "g": null,
+   "ref": "doroga3-04-s023"
+  },
+  {
+   "ru": "реда́кция",
+   "ruPlain": "редакция",
+   "vi": "tòa soạn",
+   "g": null,
+   "ref": "doroga3-04-s023"
+  },
+  {
+   "ru": "любо́вь с пе́рвого взгля́да",
+   "ruPlain": "любовь с первого взгляда",
+   "vi": "tình yêu từ cái nhìn đầu tiên",
+   "g": null,
+   "ref": "doroga3-04-s023"
+  },
+  {
+   "ru": "определи́тельные отноше́ния",
+   "ruPlain": "определительные отношения",
+   "vi": "quan hệ định ngữ",
+   "g": null,
+   "ref": "doroga3-04-s024"
+  },
+  {
+   "ru": "обло́жка",
+   "ruPlain": "обложка",
+   "vi": "bìa sách",
+   "g": null,
+   "ref": "doroga3-04-s024"
+  },
+  {
+   "ru": "буки́нистический магази́н",
+   "ruPlain": "букинистический магазин",
+   "vi": "hiệu sách cũ",
+   "g": null,
+   "ref": "doroga3-04-s027"
+  },
+  {
+   "ru": "автогра́ф",
+   "ruPlain": "автограф",
+   "vi": "chữ ký (tác giả)",
+   "g": null,
+   "ref": "doroga3-04-s027"
+  },
+  {
+   "ru": "вступи́тельные экза́мены",
+   "ruPlain": "вступительные экзамены",
+   "vi": "kỳ thi đầu vào",
+   "g": null,
+   "ref": "doroga3-04-s028"
+  },
+  {
+   "ru": "льго́тный",
+   "ruPlain": "льготный",
+   "vi": "ưu đãi",
+   "g": null,
+   "ref": "doroga3-04-s028"
+  },
+  {
+   "ru": "одо́брить",
+   "ruPlain": "одобрить",
+   "vi": "phê chuẩn, tán thành",
+   "g": null,
+   "ref": "doroga3-04-s031"
+  },
+  {
+   "ru": "состоя́ться",
+   "ruPlain": "состояться",
+   "vi": "diễn ra",
+   "g": null,
+   "ref": "doroga3-04-s031"
+  },
+  {
+   "ru": "общепри́знанный",
+   "ruPlain": "общепризнанный",
+   "vi": "được thừa nhận chung",
+   "g": null,
+   "ref": "doroga3-04-s031"
+  },
+  {
+   "ru": "крепостно́й крестья́нин",
+   "ruPlain": "крепостной крестьянин",
+   "vi": "nông nô",
+   "g": null,
+   "ref": "doroga3-04-s031"
+  },
+  {
+   "ru": "ру́копись",
+   "ruPlain": "рукопись",
+   "vi": "bản viết tay, bản thảo",
+   "g": null,
+   "ref": "doroga3-04-s031"
+  },
+  {
+   "ru": "общедосту́пный",
+   "ruPlain": "общедоступный",
+   "vi": "công cộng, ai cũng tiếp cận được",
+   "g": null,
+   "ref": "doroga3-04-s031"
+  },
+  {
+   "ru": "архи́в",
+   "ruPlain": "архив",
+   "vi": "kho lưu trữ",
+   "g": null,
+   "ref": "doroga3-04-s031"
+  },
+  {
+   "ru": "ока́зывать по́мощь",
+   "ruPlain": "оказывать помощь",
+   "vi": "giúp đỡ, hỗ trợ",
+   "g": null,
+   "ref": "doroga3-04-s031"
+  },
+  {
+   "ru": "сто́имость",
+   "ruPlain": "стоимость",
+   "vi": "giá trị, giá",
+   "g": null,
+   "ref": "doroga3-04-s031"
+  },
+  {
+   "ru": "энциклопеди́ст",
+   "ruPlain": "энциклопедист",
+   "vi": "nhà bách khoa",
+   "g": null,
+   "ref": "doroga3-04-s032"
+  },
+  {
+   "ru": "предисло́вие",
+   "ruPlain": "предисловие",
+   "vi": "lời tựa",
+   "g": null,
+   "ref": "doroga3-04-s032"
+  },
+  {
+   "ru": "типогра́фия",
+   "ruPlain": "типография",
+   "vi": "nhà in",
+   "g": null,
+   "ref": "doroga3-04-s032"
+  },
+  {
+   "ru": "кни́жная ла́вка",
+   "ruPlain": "книжная лавка",
+   "vi": "hiệu sách nhỏ",
+   "g": null,
+   "ref": "doroga3-04-s032"
+  },
+  {
+   "ru": "восстановле́ние",
+   "ruPlain": "восстановление",
+   "vi": "sự khôi phục",
+   "g": null,
+   "ref": "doroga3-04-s032"
+  },
+  {
+   "ru": "аудито́рия",
+   "ruPlain": "аудитория",
+   "vi": "giảng đường",
+   "g": null,
+   "ref": "doroga3-04-s032"
+  },
+  {
+   "ru": "вуз (вы́сшее уче́бное заведе́ние)",
+   "ruPlain": "вуз",
+   "vi": "trường đại học (cơ sở giáo dục bậc cao)",
+   "g": null,
+   "ref": "doroga3-04-s032"
+  },
+  {
+   "ru": "прести́жно",
+   "ruPlain": "престижно",
+   "vi": "danh giá",
+   "g": null,
+   "ref": "doroga3-04-s032"
+  },
+  {
+   "ru": "выпускни́к",
+   "ruPlain": "выпускник",
+   "vi": "cựu sinh viên, người tốt nghiệp",
+   "g": null,
+   "ref": "doroga3-04-s036"
+  },
+  {
+   "ru": "одарённый",
+   "ruPlain": "одарённый",
+   "vi": "thiên bẩm, có tài",
+   "g": null,
+   "ref": "doroga3-04-s036"
+  },
+  {
+   "ru": "физио́лог",
+   "ruPlain": "физиолог",
+   "vi": "nhà sinh lý học",
+   "g": null,
+   "ref": "doroga3-04-s036"
+  },
+  {
+   "ru": "головно́й мозг",
+   "ruPlain": "головной мозг",
+   "vi": "não bộ",
+   "g": null,
+   "ref": "doroga3-04-s036"
+  },
+  {
+   "ru": "лауреа́т",
+   "ruPlain": "лауреат",
+   "vi": "người đoạt giải",
+   "g": null,
+   "ref": "doroga3-04-s036"
+  },
+  {
+   "ru": "томо́граф",
+   "ruPlain": "томограф",
+   "vi": "máy chụp cắt lớp",
+   "g": null,
+   "ref": "doroga3-04-s036"
+  },
+  {
+   "ru": "диа́гноз",
+   "ruPlain": "диагноз",
+   "vi": "chẩn đoán",
+   "g": null,
+   "ref": "doroga3-04-s036"
+  },
+  {
+   "ru": "обсле́довать",
+   "ruPlain": "обследовать",
+   "vi": "khám, kiểm tra (y tế)",
+   "g": null,
+   "ref": "doroga3-04-s036"
+  },
+  {
+   "ru": "продли́ть жизнь",
+   "ruPlain": "продлить жизнь",
+   "vi": "kéo dài cuộc sống",
+   "g": null,
+   "ref": "doroga3-04-s036"
+  },
+  {
+   "ru": "досу́г",
+   "ruPlain": "досуг",
+   "vi": "thời gian nhàn rỗi",
+   "g": null,
+   "ref": "doroga3-04-s037"
+  },
+  {
+   "ru": "трудоспосо́бный",
+   "ruPlain": "трудоспособный",
+   "vi": "còn sức lao động",
+   "g": null,
+   "ref": "doroga3-04-s037"
+  },
+  {
+   "ru": "полигло́т",
+   "ruPlain": "полиглот",
+   "vi": "người biết nhiều thứ tiếng",
+   "g": null,
+   "ref": "doroga3-04-s038"
+  },
+  {
+   "ru": "акце́нт",
+   "ruPlain": "акцент",
+   "vi": "giọng (ngoại quốc), pha giọng",
+   "g": null,
+   "ref": "doroga3-04-s038"
+  },
+  {
+   "ru": "перево́дчик-синхрони́ст",
+   "ruPlain": "переводчик-синхронист",
+   "vi": "phiên dịch song song (cabin)",
+   "g": null,
+   "ref": "doroga3-04-s038"
+  },
+  {
+   "ru": "сооте́чественник",
+   "ruPlain": "соотечественник",
+   "vi": "đồng hương, đồng bào",
+   "g": null,
+   "ref": "doroga3-04-s038"
+  },
+  {
+   "ru": "во́ля",
+   "ruPlain": "воля",
+   "vi": "ý chí",
+   "g": null,
+   "ref": "doroga3-04-s038"
+  },
+  {
+   "ru": "стесня́ться",
+   "ruPlain": "стесняться",
+   "vi": "ngại ngùng, e thẹn",
+   "g": null,
+   "ref": "doroga3-04-s038"
+  },
+  {
+   "ru": "па́мять",
+   "ruPlain": "память",
+   "vi": "trí nhớ",
+   "g": null,
+   "ref": "doroga3-04-s039"
+  },
+  {
+   "ru": "жа́ловаться",
+   "ruPlain": "жаловаться",
+   "vi": "phàn nàn",
+   "g": null,
+   "ref": "doroga3-04-s039"
+  },
+  {
+   "ru": "исчеза́ть",
+   "ruPlain": "исчезать",
+   "vi": "biến mất",
+   "g": null,
+   "ref": "doroga3-04-s039"
+  },
+  {
+   "ru": "жёсткий диск",
+   "ruPlain": "жёсткий диск",
+   "vi": "ổ cứng",
+   "g": null,
+   "ref": "doroga3-04-s039"
+  },
+  {
+   "ru": "не́рвная кле́тка",
+   "ruPlain": "нервная клетка",
+   "vi": "tế bào thần kinh",
+   "g": null,
+   "ref": "doroga3-04-s039"
+  },
+  {
+   "ru": "стере́ть",
+   "ruPlain": "стереть",
+   "vi": "xóa",
+   "g": null,
+   "ref": "doroga3-04-s039"
+  },
+  {
+   "ru": "сэконо́мить",
+   "ruPlain": "сэкономить",
+   "vi": "tiết kiệm được",
+   "g": null,
+   "ref": "doroga3-04-s039"
+  },
+  {
+   "ru": "анто́ним",
+   "ruPlain": "антоним",
+   "vi": "từ trái nghĩa",
+   "g": null,
+   "ref": "doroga3-04-s040"
+  },
+  {
+   "ru": "ме́лкий",
+   "ruPlain": "мелкий",
+   "vi": "nông; nhỏ, vụn",
+   "g": null,
+   "ref": "doroga3-04-s040"
+  },
+  {
+   "ru": "да́льний ро́дственник",
+   "ruPlain": "дальний родственник",
+   "vi": "họ hàng xa",
+   "g": null,
+   "ref": "doroga3-04-s040"
+  },
+  {
+   "ru": "потре́бовать",
+   "ruPlain": "потребовать",
+   "vi": "yêu cầu, đòi hỏi",
+   "g": null,
+   "ref": "doroga3-04-s041"
+  },
+  {
+   "ru": "приказа́ть",
+   "ruPlain": "приказать",
+   "vi": "ra lệnh",
+   "g": null,
+   "ref": "doroga3-04-s041"
+  },
+  {
+   "ru": "передава́ть",
+   "ruPlain": "передавать",
+   "vi": "chuyển, truyền, nhắn",
+   "g": null,
+   "ref": "doroga3-04-s042"
+  },
+  {
+   "ru": "издава́ть",
+   "ruPlain": "издавать",
+   "vi": "xuất bản",
+   "g": null,
+   "ref": "doroga3-04-s042"
+  },
+  {
+   "ru": "анке́та",
+   "ruPlain": "анкета",
+   "vi": "phiếu đăng ký, bản khai",
+   "g": null,
+   "ref": "doroga3-04-s044"
+  },
+  {
+   "ru": "те́зисы докла́да",
+   "ruPlain": "тезисы доклада",
+   "vi": "tóm tắt báo cáo",
+   "g": null,
+   "ref": "doroga3-04-s044"
+  },
+  {
+   "ru": "оргкомите́т",
+   "ruPlain": "оргкомитет",
+   "vi": "ban tổ chức",
+   "g": null,
+   "ref": "doroga3-04-s044"
+  },
+  {
+   "ru": "за свой счёт",
+   "ruPlain": "за свой счёт",
+   "vi": "tự túc, tự trả tiền",
+   "g": null,
+   "ref": "doroga3-04-s044"
+  },
+  {
+   "ru": "трудоустро́йство",
+   "ruPlain": "трудоустройство",
+   "vi": "giới thiệu việc làm, bố trí việc làm",
+   "g": null,
+   "ref": "doroga3-04-s002"
+  },
+  {
+   "ru": "собесе́дование",
+   "ruPlain": "собеседование",
+   "vi": "phỏng vấn",
+   "g": null,
+   "ref": "doroga3-04-s002"
+  },
+  {
+   "ru": "носи́тель языка́",
+   "ruPlain": "носитель языка",
+   "vi": "người bản ngữ",
+   "g": null,
+   "ref": "doroga3-04-s002"
+  },
+  {
+   "ru": "обя́занность",
+   "ruPlain": "обязанность",
+   "vi": "nhiệm vụ, bổn phận",
+   "g": null,
+   "ref": "doroga3-04-s003"
+  },
+  {
+   "ru": "зарпла́та",
+   "ruPlain": "зарплата",
+   "vi": "tiền lương",
+   "g": null,
+   "ref": "doroga3-04-s003"
+  },
+  {
+   "ru": "ви́ды тра́нспорта",
+   "ruPlain": "виды транспорта",
+   "vi": "các loại phương tiện giao thông",
+   "g": null,
+   "ref": "doroga3-05-s005"
+  },
+  {
+   "ru": "сре́дство передвиже́ния",
+   "ruPlain": "средство передвижения",
+   "vi": "phương tiện đi lại",
+   "g": null,
+   "ref": "doroga3-05-s005"
+  },
+  {
+   "ru": "городско́й жи́тель",
+   "ruPlain": "городской житель",
+   "vi": "cư dân thành phố",
+   "g": null,
+   "ref": "doroga3-05-s005"
+  },
+  {
+   "ru": "по́льзоваться (чем?)",
+   "ruPlain": "пользоваться (чем?)",
+   "vi": "sử dụng",
+   "g": null,
+   "ref": "doroga3-05-s005"
+  },
+  {
+   "ru": "плот",
+   "ruPlain": "плот",
+   "vi": "cái bè",
+   "g": null,
+   "ref": "doroga3-05-s005"
+  },
+  {
+   "ru": "гондо́ла",
+   "ruPlain": "гондола",
+   "vi": "thuyền gondola",
+   "g": null,
+   "ref": "doroga3-05-s005"
+  },
+  {
+   "ru": "скоростно́й по́езд",
+   "ruPlain": "скоростной поезд",
+   "vi": "tàu cao tốc",
+   "g": null,
+   "ref": "doroga3-05-s005"
+  },
+  {
+   "ru": "ско́рость",
+   "ruPlain": "скорость",
+   "vi": "tốc độ",
+   "g": null,
+   "ref": "doroga3-05-s005"
+  },
+  {
+   "ru": "про́бка",
+   "ruPlain": "пробка",
+   "vi": "sự tắc đường",
+   "g": null,
+   "ref": "doroga3-05-s005"
+  },
+  {
+   "ru": "часы́ пик",
+   "ruPlain": "часы пик",
+   "vi": "giờ cao điểm",
+   "g": null,
+   "ref": "doroga3-05-s005"
+  },
+  {
+   "ru": "автомобили́ст",
+   "ruPlain": "автомобилист",
+   "vi": "người lái ô tô",
+   "g": null,
+   "ref": "doroga3-05-s005"
+  },
+  {
+   "ru": "ходи́ть пешко́м",
+   "ruPlain": "ходить пешком",
+   "vi": "đi bộ",
+   "g": null,
+   "ref": "doroga3-05-s005"
+  },
+  {
+   "ru": "идти́ — ходи́ть",
+   "ruPlain": "идти — ходить",
+   "vi": "đi (bộ; một hướng — nhiều hướng)",
+   "g": null,
+   "ref": "doroga3-05-s006"
+  },
+  {
+   "ru": "е́хать — е́здить",
+   "ruPlain": "ехать — ездить",
+   "vi": "đi (bằng xe; một hướng — nhiều hướng)",
+   "g": null,
+   "ref": "doroga3-05-s006"
+  },
+  {
+   "ru": "бежа́ть — бе́гать",
+   "ruPlain": "бежать — бегать",
+   "vi": "chạy",
+   "g": null,
+   "ref": "doroga3-05-s006"
+  },
+  {
+   "ru": "лете́ть — лета́ть",
+   "ruPlain": "лететь — летать",
+   "vi": "bay",
+   "g": null,
+   "ref": "doroga3-05-s006"
+  },
+  {
+   "ru": "плыть — пла́вать",
+   "ruPlain": "плыть — плавать",
+   "vi": "bơi, trôi",
+   "g": null,
+   "ref": "doroga3-05-s006"
+  },
+  {
+   "ru": "нести́ — носи́ть",
+   "ruPlain": "нести — носить",
+   "vi": "mang, xách (khi đi bộ)",
+   "g": null,
+   "ref": "doroga3-05-s007"
+  },
+  {
+   "ru": "везти́ — вози́ть",
+   "ruPlain": "везти — возить",
+   "vi": "chở (bằng xe)",
+   "g": null,
+   "ref": "doroga3-05-s007"
+  },
+  {
+   "ru": "вести́ — води́ть",
+   "ruPlain": "вести — водить",
+   "vi": "dắt, dẫn",
+   "g": null,
+   "ref": "doroga3-05-s007"
+  },
+  {
+   "ru": "фи́ниш",
+   "ruPlain": "финиш",
+   "vi": "đích (thể thao)",
+   "g": null,
+   "ref": "doroga3-05-s006"
+  },
+  {
+   "ru": "за́ город",
+   "ruPlain": "за город",
+   "vi": "về ngoại ô",
+   "g": null,
+   "ref": "doroga3-05-s006"
+  },
+  {
+   "ru": "вокза́л",
+   "ruPlain": "вокзал",
+   "vi": "nhà ga",
+   "g": null,
+   "ref": "doroga3-05-s014"
+  },
+  {
+   "ru": "воро́та",
+   "ruPlain": "ворота",
+   "vi": "cổng",
+   "g": null,
+   "ref": "doroga3-05-s014"
+  },
+  {
+   "ru": "впечатле́ние",
+   "ruPlain": "впечатление",
+   "vi": "ấn tượng",
+   "g": null,
+   "ref": "doroga3-05-s014"
+  },
+  {
+   "ru": "желе́зная доро́га",
+   "ruPlain": "железная дорога",
+   "vi": "đường sắt",
+   "g": null,
+   "ref": "doroga3-05-s014"
+  },
+  {
+   "ru": "зал ожида́ния",
+   "ruPlain": "зал ожидания",
+   "vi": "phòng chờ",
+   "g": null,
+   "ref": "doroga3-05-s014"
+  },
+  {
+   "ru": "украша́ть — укра́сить (что? чем?)",
+   "ruPlain": "украшать — украсить (что? чем?)",
+   "vi": "trang trí, tô điểm",
+   "g": null,
+   "ref": "doroga3-05-s013"
+  },
+  {
+   "ru": "привы́чное ме́сто",
+   "ruPlain": "привычное место",
+   "vi": "nơi quen thuộc",
+   "g": null,
+   "ref": "doroga3-05-s013"
+  },
+  {
+   "ru": "исто́чник",
+   "ruPlain": "источник",
+   "vi": "nguồn; nguồn gốc",
+   "g": null,
+   "ref": "doroga3-05-s013"
+  },
+  {
+   "ru": "конкури́ровать (с кем? с чем?)",
+   "ruPlain": "конкурировать (с кем? с чем?)",
+   "vi": "cạnh tranh",
+   "g": null,
+   "ref": "doroga3-05-s013"
+  },
+  {
+   "ru": "техни́ческий прогре́сс",
+   "ruPlain": "технический прогресс",
+   "vi": "tiến bộ kỹ thuật",
+   "g": null,
+   "ref": "doroga3-05-s014"
+  },
+  {
+   "ru": "эли́тный",
+   "ruPlain": "элитный",
+   "vi": "thượng lưu, cao cấp",
+   "g": null,
+   "ref": "doroga3-05-s014"
+  },
+  {
+   "ru": "досту́пный",
+   "ruPlain": "доступный",
+   "vi": "dễ tiếp cận, vừa túi tiền",
+   "g": null,
+   "ref": "doroga3-05-s014"
+  },
+  {
+   "ru": "ме́стные жи́тели",
+   "ruPlain": "местные жители",
+   "vi": "dân địa phương",
+   "g": null,
+   "ref": "doroga3-05-s014"
+  },
+  {
+   "ru": "невы́годно",
+   "ruPlain": "невыгодно",
+   "vi": "không có lợi",
+   "g": null,
+   "ref": "doroga3-05-s014"
+  },
+  {
+   "ru": "перестра́ивать — перестро́ить",
+   "ruPlain": "перестраивать — перестроить",
+   "vi": "cải tạo, xây lại",
+   "g": null,
+   "ref": "doroga3-05-s014"
+  },
+  {
+   "ru": "смотрова́я площа́дка",
+   "ruPlain": "смотровая площадка",
+   "vi": "đài quan sát",
+   "g": null,
+   "ref": "doroga3-05-s014"
+  },
+  {
+   "ru": "ка́мера хране́ния",
+   "ruPlain": "камера хранения",
+   "vi": "nơi gửi hành lý",
+   "g": null,
+   "ref": "doroga3-05-s015"
+  },
+  {
+   "ru": "перро́н",
+   "ruPlain": "перрон",
+   "vi": "sân ga",
+   "g": null,
+   "ref": "doroga3-05-s016"
+  },
+  {
+   "ru": "путь (5-й путь)",
+   "ruPlain": "путь (5-й путь)",
+   "vi": "đường ray (số 5)",
+   "g": null,
+   "ref": "doroga3-05-s016"
+  },
+  {
+   "ru": "отправля́ться — отпра́виться",
+   "ruPlain": "отправляться — отправиться",
+   "vi": "khởi hành",
+   "g": null,
+   "ref": "doroga3-05-s016"
+  },
+  {
+   "ru": "прибыва́ть — прибы́ть",
+   "ruPlain": "прибывать — прибыть",
+   "vi": "đến nơi (tàu, xe)",
+   "g": null,
+   "ref": "doroga3-05-s016"
+  },
+  {
+   "ru": "провожа́ть — проводи́ть (кого?)",
+   "ruPlain": "провожать — проводить (кого?)",
+   "vi": "tiễn",
+   "g": null,
+   "ref": "doroga3-05-s015"
+  },
+  {
+   "ru": "расстава́ние",
+   "ruPlain": "расставание",
+   "vi": "sự chia tay",
+   "g": null,
+   "ref": "doroga3-05-s014"
+  },
+  {
+   "ru": "победи́тель",
+   "ruPlain": "победитель",
+   "vi": "người chiến thắng",
+   "g": null,
+   "ref": "doroga3-05-s015"
+  },
+  {
+   "ru": "первонача́льный вид",
+   "ruPlain": "первоначальный вид",
+   "vi": "diện mạo ban đầu",
+   "g": null,
+   "ref": "doroga3-05-s015"
+  },
+  {
+   "ru": "войти́ — входи́ть (в)",
+   "ruPlain": "войти — входить (в)",
+   "vi": "đi vào",
+   "g": null,
+   "ref": "doroga3-05-s021"
+  },
+  {
+   "ru": "вы́йти — выходи́ть (из)",
+   "ruPlain": "выйти — выходить (из)",
+   "vi": "đi ra",
+   "g": null,
+   "ref": "doroga3-05-s021"
+  },
+  {
+   "ru": "пойти́ — пое́хать",
+   "ruPlain": "пойти — поехать",
+   "vi": "bắt đầu đi",
+   "g": null,
+   "ref": "doroga3-05-s021"
+  },
+  {
+   "ru": "прийти́ — приходи́ть",
+   "ruPlain": "прийти — приходить",
+   "vi": "đến nơi",
+   "g": null,
+   "ref": "doroga3-05-s021"
+  },
+  {
+   "ru": "уйти́ — уходи́ть",
+   "ruPlain": "уйти — уходить",
+   "vi": "rời đi hẳn",
+   "g": null,
+   "ref": "doroga3-05-s021"
+  },
+  {
+   "ru": "зайти́ — заходи́ть (за чем?)",
+   "ruPlain": "зайти — заходить (за чем?)",
+   "vi": "ghé qua, tạt vào (lấy gì)",
+   "g": null,
+   "ref": "doroga3-05-s021"
+  },
+  {
+   "ru": "подойти́ — подходи́ть (к)",
+   "ruPlain": "подойти — подходить (к)",
+   "vi": "lại gần",
+   "g": null,
+   "ref": "doroga3-05-s021"
+  },
+  {
+   "ru": "отойти́ — отходи́ть (от)",
+   "ruPlain": "отойти — отходить (от)",
+   "vi": "rời ra xa",
+   "g": null,
+   "ref": "doroga3-05-s021"
+  },
+  {
+   "ru": "дойти́ — доходи́ть (до)",
+   "ruPlain": "дойти — доходить (до)",
+   "vi": "đi đến tận",
+   "g": null,
+   "ref": "doroga3-05-s021"
+  },
+  {
+   "ru": "обойти́ — обходи́ть (вокруг)",
+   "ruPlain": "обойти — обходить (вокруг)",
+   "vi": "đi vòng quanh, đi khắp",
+   "g": null,
+   "ref": "doroga3-05-s021"
+  },
+  {
+   "ru": "пройти́ — проходи́ть (мимо, через)",
+   "ruPlain": "пройти — проходить (мимо, через)",
+   "vi": "đi qua, đi ngang qua",
+   "g": null,
+   "ref": "doroga3-05-s021"
+  },
+  {
+   "ru": "перейти́ — переходи́ть (через)",
+   "ruPlain": "перейти — переходить (через)",
+   "vi": "băng qua; chuyển sang",
+   "g": null,
+   "ref": "doroga3-05-s021"
+  },
+  {
+   "ru": "перее́хать — переезжа́ть",
+   "ruPlain": "переехать — переезжать",
+   "vi": "chuyển nhà; đi qua (bằng xe)",
+   "g": null,
+   "ref": "doroga3-05-s021"
+  },
+  {
+   "ru": "съе́хаться — съезжа́ться",
+   "ruPlain": "съехаться — съезжаться",
+   "vi": "tụ họp về một chỗ",
+   "g": null,
+   "ref": "doroga3-05-s021"
+  },
+  {
+   "ru": "разъе́хаться — разъезжа́ться",
+   "ruPlain": "разъехаться — разъезжаться",
+   "vi": "tản đi mỗi người một ngả",
+   "g": null,
+   "ref": "doroga3-05-s021"
+  },
+  {
+   "ru": "разойти́сь — расходи́ться",
+   "ruPlain": "разойтись — расходиться",
+   "vi": "giải tán, tản ra",
+   "g": null,
+   "ref": "doroga3-05-s021"
+  },
+  {
+   "ru": "привезти́ — привози́ть",
+   "ruPlain": "привезти — привозить",
+   "vi": "chở đến",
+   "g": null,
+   "ref": "doroga3-05-s021"
+  },
+  {
+   "ru": "принести́ — приноси́ть",
+   "ruPlain": "принести — приносить",
+   "vi": "mang đến",
+   "g": null,
+   "ref": "doroga3-05-s021"
+  },
+  {
+   "ru": "привести́ — приводи́ть",
+   "ruPlain": "привести — приводить",
+   "vi": "dẫn đến, đưa đến",
+   "g": null,
+   "ref": "doroga3-05-s021"
+  },
+  {
+   "ru": "внести́ — вноси́ть",
+   "ruPlain": "внести — вносить",
+   "vi": "khiêng vào, mang vào",
+   "g": null,
+   "ref": "doroga3-05-s018"
+  },
+  {
+   "ru": "вы́лететь — вылета́ть",
+   "ruPlain": "вылететь — вылетать",
+   "vi": "cất cánh, bay khỏi",
+   "g": null,
+   "ref": "doroga3-05-s023"
+  },
+  {
+   "ru": "улете́ть — улета́ть",
+   "ruPlain": "улететь — улетать",
+   "vi": "bay đi",
+   "g": null,
+   "ref": "doroga3-05-s022"
+  },
+  {
+   "ru": "облете́ть — облета́ть",
+   "ruPlain": "облететь — облетать",
+   "vi": "bay vòng quanh",
+   "g": null,
+   "ref": "doroga3-05-s022"
+  },
+  {
+   "ru": "доста́вить — доставля́ть",
+   "ruPlain": "доставить — доставлять",
+   "vi": "giao (hàng) đến",
+   "g": null,
+   "ref": "doroga3-05-s018"
+  },
+  {
+   "ru": "подзе́мный перехо́д",
+   "ruPlain": "подземный переход",
+   "vi": "hầm đi bộ qua đường",
+   "g": null,
+   "ref": "doroga3-05-s023"
+  },
+  {
+   "ru": "указа́тель",
+   "ruPlain": "указатель",
+   "vi": "biển chỉ dẫn",
+   "g": null,
+   "ref": "doroga3-05-s050"
+  },
+  {
+   "ru": "заблуди́ться",
+   "ruPlain": "заблудиться",
+   "vi": "bị lạc đường",
+   "g": null,
+   "ref": "doroga3-05-s050"
+  },
+  {
+   "ru": "ориенти́роваться",
+   "ruPlain": "ориентироваться",
+   "vi": "định hướng",
+   "g": null,
+   "ref": "doroga3-05-s050"
+  },
+  {
+   "ru": "дозвони́ться (кому?)",
+   "ruPlain": "дозвониться (кому?)",
+   "vi": "gọi điện được cho ai",
+   "g": null,
+   "ref": "doroga3-05-s050"
+  },
+  {
+   "ru": "добра́ться (до чего?)",
+   "ruPlain": "добраться (до чего?)",
+   "vi": "đến được (nơi nào)",
+   "g": null,
+   "ref": "doroga3-05-s051"
+  },
+  {
+   "ru": "коне́чная остано́вка",
+   "ruPlain": "конечная остановка",
+   "vi": "bến cuối",
+   "g": null,
+   "ref": "doroga3-05-s051"
+  },
+  {
+   "ru": "достопримеча́тельность",
+   "ruPlain": "достопримечательность",
+   "vi": "danh lam thắng cảnh",
+   "g": null,
+   "ref": "doroga3-05-s029"
+  },
+  {
+   "ru": "экскурсово́д",
+   "ruPlain": "экскурсовод",
+   "vi": "hướng dẫn viên du lịch",
+   "g": null,
+   "ref": "doroga3-05-s028"
+  },
+  {
+   "ru": "на́бережная",
+   "ruPlain": "набережная",
+   "vi": "bờ kè, đường ven sông",
+   "g": null,
+   "ref": "doroga3-05-s031"
+  },
+  {
+   "ru": "переу́лок",
+   "ruPlain": "переулок",
+   "vi": "ngõ, hẻm",
+   "g": null,
+   "ref": "doroga3-05-s032"
+  },
+  {
+   "ru": "колле́кция",
+   "ruPlain": "коллекция",
+   "vi": "bộ sưu tập",
+   "g": null,
+   "ref": "doroga3-05-s032"
+  },
+  {
+   "ru": "жи́вопись",
+   "ruPlain": "живопись",
+   "vi": "hội hoạ",
+   "g": null,
+   "ref": "doroga3-05-s032"
+  },
+  {
+   "ru": "ико́на",
+   "ruPlain": "икона",
+   "vi": "tranh thánh",
+   "g": null,
+   "ref": "doroga3-05-s032"
+  },
+  {
+   "ru": "экспона́т",
+   "ruPlain": "экспонат",
+   "vi": "hiện vật trưng bày",
+   "g": null,
+   "ref": "doroga3-05-s032"
+  },
+  {
+   "ru": "многонациона́льный",
+   "ruPlain": "многонациональный",
+   "vi": "đa dân tộc",
+   "g": null,
+   "ref": "doroga3-05-s033"
+  },
+  {
+   "ru": "мемориа́льный ко́мплекс",
+   "ruPlain": "мемориальный комплекс",
+   "vi": "quần thể tưởng niệm",
+   "g": null,
+   "ref": "doroga3-05-s033"
+  },
+  {
+   "ru": "правосла́вный храм",
+   "ruPlain": "православный храм",
+   "vi": "nhà thờ Chính thống giáo",
+   "g": null,
+   "ref": "doroga3-05-s033"
+  },
+  {
+   "ru": "мече́ть",
+   "ruPlain": "мечеть",
+   "vi": "thánh đường Hồi giáo",
+   "g": null,
+   "ref": "doroga3-05-s033"
+  },
+  {
+   "ru": "синаго́га",
+   "ruPlain": "синагога",
+   "vi": "giáo đường Do Thái",
+   "g": null,
+   "ref": "doroga3-05-s033"
+  },
+  {
+   "ru": "вооруже́ние",
+   "ruPlain": "вооружение",
+   "vi": "vũ khí, khí tài",
+   "g": null,
+   "ref": "doroga3-05-s033"
+  },
+  {
+   "ru": "ветера́н",
+   "ruPlain": "ветеран",
+   "vi": "cựu chiến binh",
+   "g": null,
+   "ref": "doroga3-05-s033"
+  },
+  {
+   "ru": "конди́терская фа́брика",
+   "ruPlain": "кондитерская фабрика",
+   "vi": "nhà máy bánh kẹo",
+   "g": null,
+   "ref": "doroga3-05-s031"
+  },
+  {
+   "ru": "предприя́тие",
+   "ruPlain": "предприятие",
+   "vi": "xí nghiệp, doanh nghiệp",
+   "g": null,
+   "ref": "doroga3-05-s031"
+  },
+  {
+   "ru": "промы́шленный центр",
+   "ruPlain": "промышленный центр",
+   "vi": "trung tâm công nghiệp",
+   "g": null,
+   "ref": "doroga3-05-s031"
+  },
+  {
+   "ru": "обору́дование",
+   "ruPlain": "оборудование",
+   "vi": "thiết bị",
+   "g": null,
+   "ref": "doroga3-05-s031"
+  },
+  {
+   "ru": "герб",
+   "ruPlain": "герб",
+   "vi": "quốc huy, huy hiệu",
+   "g": null,
+   "ref": "doroga3-05-s031"
+  },
+  {
+   "ru": "беда́",
+   "ruPlain": "беда",
+   "vi": "tai hoạ, chuyện chẳng lành",
+   "g": null,
+   "ref": "doroga3-05-s038"
+  },
+  {
+   "ru": "достава́ть — доста́ть (что?)",
+   "ruPlain": "доставать — достать (что?)",
+   "vi": "kiếm được, xoay xở mua được",
+   "g": null,
+   "ref": "doroga3-05-s038"
+  },
+  {
+   "ru": "обма́нывать — обману́ть (кого?)",
+   "ruPlain": "обманывать — обмануть (кого?)",
+   "vi": "lừa dối",
+   "g": null,
+   "ref": "doroga3-05-s038"
+  },
+  {
+   "ru": "дать сло́во (кому?)",
+   "ruPlain": "дать слово (кому?)",
+   "vi": "hứa",
+   "g": null,
+   "ref": "doroga3-05-s038"
+  },
+  {
+   "ru": "взять сло́во (с кого?)",
+   "ruPlain": "взять слово (с кого?)",
+   "vi": "bắt ai hứa",
+   "g": null,
+   "ref": "doroga3-05-s038"
+  },
+  {
+   "ru": "пря́таться — спря́таться (от кого?)",
+   "ruPlain": "прятаться — спрятаться (от кого?)",
+   "vi": "trốn, nấp",
+   "g": null,
+   "ref": "doroga3-05-s038"
+  },
+  {
+   "ru": "путёвка",
+   "ruPlain": "путёвка",
+   "vi": "phiếu nghỉ dưỡng",
+   "g": null,
+   "ref": "doroga3-05-s038"
+  },
+  {
+   "ru": "плацка́ртное ме́сто",
+   "ruPlain": "плацкартное место",
+   "vi": "giường nằm phổ thông (toa chung)",
+   "g": null,
+   "ref": "doroga3-05-s038"
+  },
+  {
+   "ru": "о́тпуск",
+   "ruPlain": "отпуск",
+   "vi": "kỳ nghỉ phép",
+   "g": null,
+   "ref": "doroga3-05-s039"
+  },
+  {
+   "ru": "курье́р",
+   "ruPlain": "курьер",
+   "vi": "người đưa tin, nhân viên chuyển phát",
+   "g": null,
+   "ref": "doroga3-05-s040"
+  },
+  {
+   "ru": "прохо́жий",
+   "ruPlain": "прохожий",
+   "vi": "người qua đường",
+   "g": null,
+   "ref": "doroga3-05-s040"
+  },
+  {
+   "ru": "добросо́вестный",
+   "ruPlain": "добросовестный",
+   "vi": "tận tâm, có lương tâm",
+   "g": null,
+   "ref": "doroga3-05-s043"
+  },
+  {
+   "ru": "аншла́г",
+   "ruPlain": "аншлаг",
+   "vi": "cháy vé, hết sạch vé",
+   "g": null,
+   "ref": "doroga3-05-s047"
+  },
+  {
+   "ru": "океана́риум",
+   "ruPlain": "океанариум",
+   "vi": "thuỷ cung",
+   "g": null,
+   "ref": "doroga3-05-s049"
+  },
+  {
+   "ru": "развлека́тельный ко́мплекс",
+   "ruPlain": "развлекательный комплекс",
+   "vi": "tổ hợp giải trí",
+   "g": null,
+   "ref": "doroga3-05-s049"
+  },
+  {
+   "ru": "светофо́р",
+   "ruPlain": "светофор",
+   "vi": "đèn tín hiệu giao thông",
+   "g": null,
+   "ref": "doroga3-05-s049"
+  },
+  {
+   "ru": "полоса́ движе́ния",
+   "ruPlain": "полоса движения",
+   "vi": "làn xe",
+   "g": null,
+   "ref": "doroga3-05-s049"
+  },
+  {
+   "ru": "водоём",
+   "ruPlain": "водоём",
+   "vi": "vực nước (ao, hồ)",
+   "g": null,
+   "ref": "doroga3-05-s048"
+  },
+  {
+   "ru": "двухме́стный но́мер",
+   "ruPlain": "двухместный номер",
+   "vi": "phòng đôi (khách sạn)",
+   "g": null,
+   "ref": "doroga3-05-s051"
+  },
+  {
+   "ru": "со все́ми удо́бствами",
+   "ruPlain": "со всеми удобствами",
+   "vi": "đủ tiện nghi",
+   "g": null,
+   "ref": "doroga3-05-s051"
+  },
+  {
+   "ru": "су́тки",
+   "ruPlain": "сутки",
+   "vi": "một ngày đêm (24 giờ)",
+   "g": null,
+   "ref": "doroga3-05-s051"
+  },
+  {
+   "ru": "снять но́мер",
+   "ruPlain": "снять номер",
+   "vi": "thuê phòng khách sạn",
+   "g": null,
+   "ref": "doroga3-05-s051"
+  },
+  {
+   "ru": "ко́локол",
+   "ruPlain": "колокол",
+   "vi": "chuông (quả chuông)",
+   "g": null,
+   "ref": "doroga3-06-s001"
+  },
+  {
+   "ru": "ку́пол",
+   "ruPlain": "купол",
+   "vi": "mái vòm (nhà thờ)",
+   "g": null,
+   "ref": "doroga3-06-s001"
+  },
+  {
+   "ru": "ле́топись",
+   "ruPlain": "летопись",
+   "vi": "biên niên sử",
+   "g": null,
+   "ref": "doroga3-06-s001"
+  },
+  {
+   "ru": "созве́здие",
+   "ruPlain": "созвездие",
+   "vi": "chòm sao",
+   "g": null,
+   "ref": "doroga3-06-s001"
+  },
+  {
+   "ru": "милиционе́р",
+   "ruPlain": "милиционер",
+   "vi": "cảnh sát (thời Liên Xô/Nga cũ)",
+   "g": null,
+   "ref": "doroga3-06-s006"
+  },
+  {
+   "ru": "почтальо́н",
+   "ruPlain": "почтальон",
+   "vi": "người đưa thư",
+   "g": null,
+   "ref": "doroga3-06-s006"
+  },
+  {
+   "ru": "телегра́мма",
+   "ruPlain": "телеграмма",
+   "vi": "bức điện tín",
+   "g": null,
+   "ref": "doroga3-06-s006"
+  },
+  {
+   "ru": "новосе́лье",
+   "ruPlain": "новоселье",
+   "vi": "tiệc tân gia",
+   "g": null,
+   "ref": "doroga3-06-s007"
+  },
+  {
+   "ru": "ми́тинг",
+   "ruPlain": "митинг",
+   "vi": "cuộc mít tinh",
+   "g": null,
+   "ref": "doroga3-06-s007"
+  },
+  {
+   "ru": "возду́шный шар",
+   "ruPlain": "воздушный шар",
+   "vi": "khinh khí cầu",
+   "g": null,
+   "ref": "doroga3-06-s008"
+  },
+  {
+   "ru": "платфо́рма",
+   "ruPlain": "платформа",
+   "vi": "sân ga, thềm ga",
+   "g": null,
+   "ref": "doroga3-06-s009"
+  },
+  {
+   "ru": "пешехо́д",
+   "ruPlain": "пешеход",
+   "vi": "người đi bộ",
+   "g": null,
+   "ref": "doroga3-06-s012"
+  },
+  {
+   "ru": "ваго́н",
+   "ruPlain": "вагон",
+   "vi": "toa tàu",
+   "g": null,
+   "ref": "doroga3-06-s012"
+  },
+  {
+   "ru": "эскала́тор",
+   "ruPlain": "эскалатор",
+   "vi": "thang cuốn",
+   "g": null,
+   "ref": "doroga3-06-s012"
+  },
+  {
+   "ru": "декана́т",
+   "ruPlain": "деканат",
+   "vi": "văn phòng khoa",
+   "g": null,
+   "ref": "doroga3-06-s012"
+  },
+  {
+   "ru": "провожа́ющий",
+   "ruPlain": "провожающий",
+   "vi": "người đưa tiễn",
+   "g": null,
+   "ref": "doroga3-06-s012"
+  },
+  {
+   "ru": "поса́дка",
+   "ruPlain": "посадка",
+   "vi": "việc lên tàu/máy bay",
+   "g": null,
+   "ref": "doroga3-06-s012"
+  },
+  {
+   "ru": "путеводи́тель",
+   "ruPlain": "путеводитель",
+   "vi": "sách cẩm nang du lịch",
+   "g": null,
+   "ref": "doroga3-06-s013"
+  },
+  {
+   "ru": "фойе́",
+   "ruPlain": "фойе",
+   "vi": "tiền sảnh (nhà hát)",
+   "g": null,
+   "ref": "doroga3-06-s013"
+  },
+  {
+   "ru": "зри́тельный зал",
+   "ruPlain": "зрительный зал",
+   "vi": "khán phòng",
+   "g": null,
+   "ref": "doroga3-06-s013"
+  },
+  {
+   "ru": "служа́щая",
+   "ruPlain": "служащая",
+   "vi": "nữ nhân viên",
+   "g": null,
+   "ref": "doroga3-06-s013"
+  },
+  {
+   "ru": "бино́кль",
+   "ruPlain": "бинокль",
+   "vi": "ống nhòm",
+   "g": null,
+   "ref": "doroga3-06-s013"
+  },
+  {
+   "ru": "задыха́ться",
+   "ruPlain": "задыхаться",
+   "vi": "thở hổn hển, nghẹt thở",
+   "g": null,
+   "ref": "doroga3-06-s013"
+  },
+  {
+   "ru": "шёпотом",
+   "ruPlain": "шёпотом",
+   "vi": "thì thầm",
+   "g": null,
+   "ref": "doroga3-06-s013"
+  },
+  {
+   "ru": "контролёр",
+   "ruPlain": "контролёр",
+   "vi": "người soát vé",
+   "g": null,
+   "ref": "doroga3-06-s014"
+  },
+  {
+   "ru": "аплодисме́нты",
+   "ruPlain": "аплодисменты",
+   "vi": "tiếng vỗ tay",
+   "g": null,
+   "ref": "doroga3-06-s014"
+  },
+  {
+   "ru": "кры́са",
+   "ruPlain": "крыса",
+   "vi": "con chuột (to)",
+   "g": null,
+   "ref": "doroga3-06-s014"
+  },
+  {
+   "ru": "вести́ себя́",
+   "ruPlain": "вести себя",
+   "vi": "cư xử",
+   "g": null,
+   "ref": "doroga3-06-s016"
+  },
+  {
+   "ru": "води́ть маши́ну",
+   "ruPlain": "водить машину",
+   "vi": "lái xe (kỹ năng)",
+   "g": null,
+   "ref": "doroga3-06-s016"
+  },
+  {
+   "ru": "причёска",
+   "ruPlain": "причёска",
+   "vi": "kiểu tóc",
+   "g": null,
+   "ref": "doroga3-06-s016"
+  },
+  {
+   "ru": "везти́ (кому́)",
+   "ruPlain": "везти (кому)",
+   "vi": "gặp may (ai đó may mắn)",
+   "g": null,
+   "ref": "doroga3-06-s016"
+  },
+  {
+   "ru": "зре́ние",
+   "ruPlain": "зрение",
+   "vi": "thị lực",
+   "g": null,
+   "ref": "doroga3-06-s017"
+  },
+  {
+   "ru": "тролле́йбус",
+   "ruPlain": "троллейбус",
+   "vi": "xe điện bánh hơi",
+   "g": null,
+   "ref": "doroga3-06-s018"
+  },
+  {
+   "ru": "па́мятник",
+   "ruPlain": "памятник",
+   "vi": "tượng đài, di tích",
+   "g": null,
+   "ref": "doroga3-06-s019"
+  },
+  {
+   "ru": "ма́ршал",
+   "ruPlain": "маршал",
+   "vi": "nguyên soái",
+   "g": null,
+   "ref": "doroga3-06-s019"
+  },
+  {
+   "ru": "гости́ница",
+   "ruPlain": "гостиница",
+   "vi": "khách sạn",
+   "g": null,
+   "ref": "doroga3-06-s019"
+  },
+  {
+   "ru": "фонта́н",
+   "ruPlain": "фонтан",
+   "vi": "đài phun nước",
+   "g": null,
+   "ref": "doroga3-06-s020"
+  },
+  {
+   "ru": "салю́т",
+   "ruPlain": "салют",
+   "vi": "pháo hoa (chào mừng)",
+   "g": null,
+   "ref": "doroga3-06-s020"
+  },
+  {
+   "ru": "моне́та",
+   "ruPlain": "монета",
+   "vi": "đồng tiền xu",
+   "g": null,
+   "ref": "doroga3-06-s020"
+  },
+  {
+   "ru": "льго́та",
+   "ruPlain": "льгота",
+   "vi": "ưu đãi, chế độ miễn giảm",
+   "g": null,
+   "ref": "doroga3-06-s022"
+  },
+  {
+   "ru": "военнослу́жащий",
+   "ruPlain": "военнослужащий",
+   "vi": "quân nhân",
+   "g": null,
+   "ref": "doroga3-06-s022"
+  },
+  {
+   "ru": "значо́к",
+   "ruPlain": "значок",
+   "vi": "huy hiệu",
+   "g": null,
+   "ref": "doroga3-06-s022"
+  },
+  {
+   "ru": "плато́к",
+   "ruPlain": "платок",
+   "vi": "khăn trùm đầu",
+   "g": null,
+   "ref": "doroga3-06-s022"
+  },
+  {
+   "ru": "холм",
+   "ruPlain": "холм",
+   "vi": "đồi, gò",
+   "g": null,
+   "ref": "doroga3-06-s023"
+  },
+  {
+   "ru": "колоко́льня",
+   "ruPlain": "колокольня",
+   "vi": "tháp chuông",
+   "g": null,
+   "ref": "doroga3-06-s023"
+  },
+  {
+   "ru": "живопи́сец",
+   "ruPlain": "живописец",
+   "vi": "hoạ sĩ",
+   "g": null,
+   "ref": "doroga3-06-s023"
+  },
+  {
+   "ru": "венча́ться на ца́рство",
+   "ruPlain": "венчаться на царство",
+   "vi": "đăng quang ngôi Sa hoàng",
+   "g": null,
+   "ref": "doroga3-06-s023"
+  },
+  {
+   "ru": "в старину́",
+   "ruPlain": "в старину",
+   "vi": "thời xưa",
+   "g": null,
+   "ref": "doroga3-06-s023"
+  },
+  {
+   "ru": "торгова́ть с рук",
+   "ruPlain": "торговать с рук",
+   "vi": "bán hàng rong",
+   "g": null,
+   "ref": "doroga3-06-s023"
+  },
+  {
+   "ru": "рыть — вы́рыть",
+   "ruPlain": "рыть — вырыть",
+   "vi": "đào (hào, hố)",
+   "g": null,
+   "ref": "doroga3-06-s023"
+  },
+  {
+   "ru": "охраня́ть",
+   "ruPlain": "охранять",
+   "vi": "canh giữ, bảo vệ",
+   "g": null,
+   "ref": "doroga3-06-s023"
+  },
+  {
+   "ru": "кре́пость",
+   "ruPlain": "крепость",
+   "vi": "pháo đài",
+   "g": null,
+   "ref": "doroga3-06-s024"
+  },
+  {
+   "ru": "враг",
+   "ruPlain": "враг",
+   "vi": "kẻ thù",
+   "g": null,
+   "ref": "doroga3-06-s024"
+  },
+  {
+   "ru": "ров",
+   "ruPlain": "ров",
+   "vi": "hào (quanh thành)",
+   "g": null,
+   "ref": "doroga3-06-s024"
+  },
+  {
+   "ru": "ба́шня",
+   "ruPlain": "башня",
+   "vi": "toà tháp",
+   "g": null,
+   "ref": "doroga3-06-s024"
+  },
+  {
+   "ru": "кирпи́ч",
+   "ruPlain": "кирпич",
+   "vi": "gạch",
+   "g": null,
+   "ref": "doroga3-06-s024"
+  },
+  {
+   "ru": "собо́р",
+   "ruPlain": "собор",
+   "vi": "nhà thờ lớn",
+   "g": null,
+   "ref": "doroga3-06-s025"
+  },
+  {
+   "ru": "усыпа́льница",
+   "ruPlain": "усыпальница",
+   "vi": "lăng mộ",
+   "g": null,
+   "ref": "doroga3-06-s025"
+  },
+  {
+   "ru": "гробни́ца",
+   "ruPlain": "гробница",
+   "vi": "ngôi mộ (lăng)",
+   "g": null,
+   "ref": "doroga3-06-s025"
+  },
+  {
+   "ru": "пу́шка",
+   "ruPlain": "пушка",
+   "vi": "khẩu đại bác",
+   "g": null,
+   "ref": "doroga3-06-s026"
+  },
+  {
+   "ru": "ядро́",
+   "ruPlain": "ядро",
+   "vi": "viên đạn đại bác",
+   "g": null,
+   "ref": "doroga3-06-s026"
+  },
+  {
+   "ru": "сраже́ние",
+   "ruPlain": "сражение",
+   "vi": "trận chiến",
+   "g": null,
+   "ref": "doroga3-06-s026"
+  },
+  {
+   "ru": "ору́жие",
+   "ruPlain": "оружие",
+   "vi": "vũ khí",
+   "g": null,
+   "ref": "doroga3-06-s026"
+  },
+  {
+   "ru": "украше́ние",
+   "ruPlain": "украшение",
+   "vi": "đồ trang sức",
+   "g": null,
+   "ref": "doroga3-06-s026"
+  },
+  {
+   "ru": "посо́л",
+   "ruPlain": "посол",
+   "vi": "sứ thần, đại sứ",
+   "g": null,
+   "ref": "doroga3-06-s026"
+  },
+  {
+   "ru": "саморо́док",
+   "ruPlain": "самородок",
+   "vi": "thỏi vàng/quặng tự nhiên",
+   "g": null,
+   "ref": "doroga3-06-s026"
+  },
+  {
+   "ru": "резиде́нция",
+   "ruPlain": "резиденция",
+   "vi": "dinh, phủ (tổng thống)",
+   "g": null,
+   "ref": "doroga3-06-s026"
+  },
+  {
+   "ru": "кура́нты",
+   "ruPlain": "куранты",
+   "vi": "chuông đồng hồ lớn (trên tháp)",
+   "g": null,
+   "ref": "doroga3-06-s026"
+  },
+  {
+   "ru": "занима́ть — заня́ть",
+   "ruPlain": "занимать — занять",
+   "vi": "vay (tiền)",
+   "g": null,
+   "ref": "doroga3-06-s034"
+  },
+  {
+   "ru": "поднима́ться — подня́ться",
+   "ruPlain": "подниматься — подняться",
+   "vi": "đi lên",
+   "g": null,
+   "ref": "doroga3-06-s034"
+  },
+  {
+   "ru": "спуска́ться — спусти́ться",
+   "ruPlain": "спускаться — спуститься",
+   "vi": "đi xuống",
+   "g": null,
+   "ref": "doroga3-06-s034"
+  },
+  {
+   "ru": "перестава́ть — переста́ть",
+   "ruPlain": "переставать — перестать",
+   "vi": "thôi, ngừng (làm gì)",
+   "g": null,
+   "ref": "doroga3-06-s034"
+  },
+  {
+   "ru": "притворя́ться — притвори́ться",
+   "ruPlain": "притворяться — притвориться",
+   "vi": "giả vờ",
+   "g": null,
+   "ref": "doroga3-06-s034"
+  },
+  {
+   "ru": "оформля́ть — офо́рмить",
+   "ruPlain": "оформлять — оформить",
+   "vi": "làm (thủ tục, giấy tờ)",
+   "g": null,
+   "ref": "doroga3-06-s034"
+  },
+  {
+   "ru": "снима́ть кварти́ру",
+   "ruPlain": "снимать квартиру",
+   "vi": "thuê căn hộ",
+   "g": null,
+   "ref": "doroga3-06-s035"
+  },
+  {
+   "ru": "новостро́йка",
+   "ruPlain": "новостройка",
+   "vi": "khu nhà mới xây",
+   "g": null,
+   "ref": "doroga3-06-s035"
+  },
+  {
+   "ru": "аге́нтство",
+   "ruPlain": "агентство",
+   "vi": "văn phòng môi giới, đại lý",
+   "g": null,
+   "ref": "doroga3-06-s035"
+  },
+  {
+   "ru": "молодожёны",
+   "ruPlain": "молодожёны",
+   "vi": "đôi vợ chồng mới cưới",
+   "g": null,
+   "ref": "doroga3-06-s036"
+  },
+  {
+   "ru": "ссо́ра",
+   "ruPlain": "ссора",
+   "vi": "cuộc cãi vã",
+   "g": null,
+   "ref": "doroga3-06-s036"
+  },
+  {
+   "ru": "замо́к",
+   "ruPlain": "замок",
+   "vi": "ổ khoá",
+   "g": null,
+   "ref": "doroga3-06-s037"
+  },
+  {
+   "ru": "люк",
+   "ruPlain": "люк",
+   "vi": "cửa sập",
+   "g": null,
+   "ref": "doroga3-06-s037"
+  },
+  {
+   "ru": "пожа́рный инспе́ктор",
+   "ruPlain": "пожарный инспектор",
+   "vi": "thanh tra phòng cháy",
+   "g": null,
+   "ref": "doroga3-06-s037"
+  },
+  {
+   "ru": "жильцы́",
+   "ruPlain": "жильцы",
+   "vi": "cư dân (toà nhà)",
+   "g": null,
+   "ref": "doroga3-06-s037"
+  },
+  {
+   "ru": "коля́ска",
+   "ruPlain": "коляска",
+   "vi": "xe nôi",
+   "g": null,
+   "ref": "doroga3-06-s037"
+  },
+  {
+   "ru": "бензоколо́нка",
+   "ruPlain": "бензоколонка",
+   "vi": "trạm xăng",
+   "g": null,
+   "ref": "doroga3-06-s041"
+  },
+  {
+   "ru": "дива́н-крова́ть",
+   "ruPlain": "диван-кровать",
+   "vi": "giường-sofa",
+   "g": null,
+   "ref": "doroga3-06-s042"
+  },
+  {
+   "ru": "журна́льный сто́лик",
+   "ruPlain": "журнальный столик",
+   "vi": "bàn trà",
+   "g": null,
+   "ref": "doroga3-06-s042"
+  },
+  {
+   "ru": "занаве́ски",
+   "ruPlain": "занавески",
+   "vi": "rèm cửa",
+   "g": null,
+   "ref": "doroga3-06-s042"
+  },
+  {
+   "ru": "пла́та за прое́зд",
+   "ruPlain": "плата за проезд",
+   "vi": "tiền vé, phí đi lại",
+   "g": null,
+   "ref": "doroga3-06-s044"
+  },
+  {
+   "ru": "мили́ция",
+   "ruPlain": "милиция",
+   "vi": "cảnh sát (cơ quan)",
+   "g": null,
+   "ref": "doroga3-06-s045"
+  },
+  {
+   "ru": "катало́г",
+   "ruPlain": "каталог",
+   "vi": "danh mục",
+   "g": null,
+   "ref": "doroga3-06-s046"
+  },
+  {
+   "ru": "книгохрани́лище",
+   "ruPlain": "книгохранилище",
+   "vi": "kho sách",
+   "g": null,
+   "ref": "doroga3-06-s046"
+  },
+  {
+   "ru": "чита́льный зал",
+   "ruPlain": "читальный зал",
+   "vi": "phòng đọc",
+   "g": null,
+   "ref": "doroga3-06-s046"
+  },
+  {
+   "ru": "вертолёт",
+   "ruPlain": "вертолёт",
+   "vi": "máy bay trực thăng",
+   "g": null,
+   "ref": "doroga3-06-s047"
+  },
+  {
+   "ru": "безопа́сность",
+   "ruPlain": "безопасность",
+   "vi": "sự an toàn",
+   "g": null,
+   "ref": "doroga3-06-s047"
+  },
+  {
+   "ru": "парте́р",
+   "ruPlain": "партер",
+   "vi": "khu ghế tầng trệt (nhà hát)",
+   "g": null,
+   "ref": "doroga3-06-s049"
+  },
+  {
+   "ru": "ряд",
+   "ruPlain": "ряд",
+   "vi": "hàng (ghế)",
+   "g": null,
+   "ref": "doroga3-06-s049"
+  },
+  {
+   "ru": "парикма́херская",
+   "ruPlain": "парикмахерская",
+   "vi": "tiệm làm tóc",
+   "g": null,
+   "ref": "doroga3-06-s051"
+  },
+  {
+   "ru": "стри́жка",
+   "ruPlain": "стрижка",
+   "vi": "kiểu cắt tóc",
+   "g": null,
+   "ref": "doroga3-06-s051"
+  },
+  {
+   "ru": "постри́чься",
+   "ruPlain": "постричься",
+   "vi": "cắt tóc (cho mình)",
+   "g": null,
+   "ref": "doroga3-06-s051"
+  },
+  {
+   "ru": "покра́сить во́лосы",
+   "ruPlain": "покрасить волосы",
+   "vi": "nhuộm tóc",
+   "g": null,
+   "ref": "doroga3-06-s051"
+  },
+  {
+   "ru": "переса́дка",
+   "ruPlain": "пересадка",
+   "vi": "việc đổi tàu/xe",
+   "g": null,
+   "ref": "doroga3-06-s052"
+  },
+  {
+   "ru": "маршру́тка",
+   "ruPlain": "маршрутка",
+   "vi": "xe buýt nhỏ chạy tuyến",
+   "g": null,
+   "ref": "doroga3-06-s052"
+  },
+  {
+   "ru": "химчи́стка",
+   "ruPlain": "химчистка",
+   "vi": "tiệm giặt khô",
+   "g": null,
+   "ref": "doroga3-06-s053"
+  },
+  {
+   "ru": "испа́чкать",
+   "ruPlain": "испачкать",
+   "vi": "làm bẩn",
+   "g": null,
+   "ref": "doroga3-06-s053"
+  },
+  {
+   "ru": "га́лстук",
+   "ruPlain": "галстук",
+   "vi": "cà vạt",
+   "g": null,
+   "ref": "doroga3-06-s054"
+  },
+  {
+   "ru": "руба́шка",
+   "ruPlain": "рубашка",
+   "vi": "áo sơ mi",
+   "g": null,
+   "ref": "doroga3-06-s054"
+  },
+  {
+   "ru": "приме́рить",
+   "ruPlain": "примерить",
+   "vi": "mặc thử",
+   "g": null,
+   "ref": "doroga3-06-s054"
+  },
+  {
+   "ru": "переры́в",
+   "ruPlain": "перерыв",
+   "vi": "giờ giải lao",
+   "g": null,
+   "ref": "doroga3-06-s055"
+  }
+ ]
+}

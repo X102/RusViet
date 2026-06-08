@@ -1,0 +1,205 @@
+# -*- coding: utf-8 -*-
+"""Build unit skazki1-026 «Волк и коза» (№53–54), append glossary, insert book.json part."""
+import json, os
+
+BASE = os.path.dirname(os.path.abspath(__file__))
+
+UNIT_ID = "skazki1-026"
+PREFIX  = "skazki1-026-s"
+NUM     = 26
+GROUP   = "Truyện № 31–60"
+ICON    = "🐐"
+COLOR   = "#9d174d"
+TITLE   = "Волк и коза — Con sói và con dê"
+
+def para(t): return {"t": "para", "text": t}
+def note(t): return {"t": "note", "text": t}
+def vocab(ru, vi): return {"t": "vocab", "ru": ru, "vi": vi, "g": None}
+def subhead(): return {"t": "subhead", "text": "Từ khó trong truyện"}
+
+# ---------------- Section 1: № 53 ----------------
+s1 = {
+ "id": PREFIX + "001",
+ "type": "story",
+ "num": 53,
+ "title": "№ 53 · Волк и коза — Con sói và con dê",
+ "blocks": [
+  note("Bản kể quen thuộc nhất của kiểu truyện «Sói và bầy dê con» (ATU 123): dê mẹ dặn con đừng mở cửa cho ai lạ, sói nghe lỏm bài hát ru cửa, giả giọng để lừa vào ăn thịt cả đàn. Điểm đặc sắc của bản Afanasyev là bài đồng dao lặp lại nhiều lần với hình ảnh «sữa chảy theo bầu vú… thấm xuống đất ẩm», và cái kết dân gian: sói nhảy thi qua hố lửa, bụng nổ bục, đàn dê con chui ra sống lại — khép bằng câu vè quen thuộc «sống yên vui, ngày càng khôn ra, tai ương rũ sạch»."),
+  para("Жила-была коза, сделала себе в лесу избушку и нарожала деток. (Ngày xưa có một con dê cái, nó dựng cho mình một túp lều nhỏ trong rừng và sinh ra một đàn con.)"),
+  para("Часто уходила коза в бор искать корму; как только уйдет, козлятки запрут за нею избушку, а сами никуда не выходят. (Dê mẹ thường vào rừng thông kiếm cỏ; hễ mẹ vừa đi khỏi là đàn dê con cài chặt cửa lều lại sau lưng mẹ, còn mình thì chẳng đi đâu cả.)"),
+  para("Воротится коза, постучится в дверь и запоет: (Khi trở về, dê mẹ gõ cửa rồi cất tiếng hát:)"),
+  para("«Козлятушки, детятушки! Отопритеся, отворитеся! А я, коза, в бору была; ела траву шелкову́ю, пила воду студену́ю. Бежит молоко по вымечку, из вымечка в копытечко, из копытечка в сыру землю!» («Dê con của mẹ, các cục cưng của mẹ ơi! Mở chốt ra, mở cửa ra! Mẹ dê vừa ở rừng thông về; mẹ ăn cỏ mượt như tơ, uống nước mát lạnh. Sữa chảy theo bầu vú, từ bầu vú xuống móng chân, từ móng chân thấm xuống đất ẩm!»)"),
+  para("Козлятки тотчас отопрут двери и впустят мать. (Đàn dê con liền mở cửa cho mẹ vào.)"),
+  para("Она покормит их и опять уйдет в бор, а козлятки запрутся крепко-накрепко. (Mẹ cho con bú no rồi lại vào rừng thông, còn đàn dê con thì cài cửa thật chặt.)"),
+  para("Волк все это и подслушал; выждал время, и только коза в бор, он подошел к избушке и закричал своим толстым голосом: (Con sói nghe lỏm được hết cả; nó rình đợi thời cơ, hễ dê mẹ vừa vào rừng thông là nó mò đến túp lều rồi gào lên bằng cái giọng ồ ề:)"),
+  para("«Вы, детушки, вы, батюшки, отопритеся, отворитеся! Ваша мать пришла, молока принесла, полны копытца водицы!» («Này các con, này các cháu yêu, mở chốt ra, mở cửa ra! Mẹ chúng bay về rồi, mang sữa về này, móng chân đầy ắp nước này!»)"),
+  para("А козлятки отвечают: «Слышим, слышим — не матушкин голосок! Наша матушка поет тонким голоском и не так причитает». (Nhưng đàn dê con đáp: «Nghe rồi, nghe rồi — chẳng phải giọng của mẹ! Mẹ chúng tôi hát bằng giọng thanh, ngân nga đâu có như thế».)"),
+  para("Волк ушел и спрятался. (Con sói bỏ đi, nấp một chỗ.)"),
+  para("Вот приходит коза и стучится: (Rồi dê mẹ về, gõ cửa:)"),
+  para("«Козлятушки, детятушки! Отопритеся, отворитеся! А я, коза, в бору была; ела траву шелкову́ю, пила воду студену́ю. Бежит молоко по вымечку, из вымечка в копытечко, из копытечка в сыру землю!» («Dê con của mẹ, các cục cưng của mẹ ơi! Mở chốt ra, mở cửa ra! Mẹ dê vừa ở rừng thông về; mẹ ăn cỏ mượt như tơ, uống nước mát lạnh. Sữa chảy theo bầu vú, từ bầu vú xuống móng chân, từ móng chân thấm xuống đất ẩm!»)"),
+  para("Козлятки впустили мать и рассказали ей, как приходил к ним бирюк и хотел их поесть. (Đàn dê con cho mẹ vào và kể lại chuyện con sói xám đã mò đến định ăn thịt chúng.)"),
+  para("Коза покормила их и, уходя в бор, строго-настрого наказала: коли придет кто к избушке и станет проситься толстым голосом и не переберет всего, что она им причитывает, — того ни за что не впускать в двери. (Dê mẹ cho con bú no rồi, trước khi vào rừng thông, dặn đi dặn lại thật nghiêm: nếu có kẻ nào đến lều, lấy giọng ồ ề xin vào mà không đọc đủ hết những lời mẹ vẫn ngân nga, thì dù thế nào cũng tuyệt đối không được mở cửa.)"),
+  para("Только что ушла коза, волк прибежал к избе, постучался и начал причитывать тоненьким голоском: (Dê mẹ vừa đi khỏi, con sói liền chạy đến lều, gõ cửa rồi cất giọng the thé ngân nga:)"),
+  para("«Козлятушки, детятушки! Отопритеся, отворитеся! А я, коза, в бору была; ела траву шелкову́ю, пила воду студену́ю. Бежит молоко по вымечку, из вымечка в копытечко, из копытечка в сыру землю!» («Dê con của mẹ, các cục cưng của mẹ ơi! Mở chốt ra, mở cửa ra! Mẹ dê vừa ở rừng thông về; mẹ ăn cỏ mượt như tơ, uống nước mát lạnh. Sữa chảy theo bầu vú, từ bầu vú xuống móng chân, từ móng chân thấm xuống đất ẩm!»)"),
+  para("Козлятки отперли двери, волк вбежал в избу и всех поел, только один козленочек схоронился, в печь улез. (Đàn dê con mở cửa, con sói xông vào lều ăn thịt sạch cả đàn, chỉ sót lại một chú dê con kịp trốn, chui tọt vào trong lò.)"),
+  para("Приходит коза; сколько ни причитывала — никто ей не отзывается. (Dê mẹ trở về; ngân nga mãi mà chẳng ai lên tiếng đáp.)"),
+  para("Подошла поближе к дверям и видит, что все отворено; в избу — а там все пусто; заглянула в печь и нашла одного детища. (Mẹ lại gần cửa thì thấy cửa mở toang; bước vào lều — bên trong trống không; ngó vào lò mới thấy còn sót một đứa con.)"),
+  para("Как узнала коза о своей беде, села она на лавку, зачала горько плакать и припевать: (Hay tin tai họa, dê mẹ ngồi phịch xuống ghế dài, khóc nức nở mà cất lời than:)"),
+  para("«Ох вы, детушки мои, козлятушки! На что отпиралися-отворялися, злому волку доставалися? Он вас всех поел и меня, козу, со великим горем, со кручиной сделал». («Ôi các con của mẹ, đàn dê con ơi! Sao các con lại mở chốt, mở cửa, để rơi vào nanh sói dữ? Nó ăn thịt hết cả các con, để lại cho mẹ dê này nỗi đau đớn, sầu muộn ngập lòng».)"),
+  para("Услышал это волк, входит в избушку и говорит козе: «Ах ты, кума, кума! Что ты на меня грешишь? Неужли-таки я сделаю это! Пойдем в лес погуляем». (Con sói nghe thấy, bèn bước vào lều bảo dê mẹ: «Ơ kìa, bà bạn, bà bạn ơi! Sao bà lại đổ oan cho tôi? Lẽ nào tôi lại làm cái chuyện ấy! Ta đi vào rừng dạo chơi nào».)"),
+  para("— «Нет, кум, не до гулянья». — «Пойдем!» — уговаривает волк. (— «Không đâu, ông bạn ơi, lòng dạ nào mà dạo với chơi». — «Đi mà!» — con sói cứ gạ gẫm.)"),
+  para("Пошли они в лес, нашли яму, а в этой яме разбойники кашицу недавно варили, и оставалось в ней еще довольно-таки огня. (Cả hai vào rừng, tìm thấy một cái hố; trong hố đó bọn cướp vừa mới nấu cháo, vẫn còn khá nhiều than lửa.)"),
+  para("Коза говорит волку: «Кум, давай попробуем, кто перепрыгнет через эту яму?» (Dê mẹ bảo sói: «Ông bạn ơi, ta thử xem ai nhảy qua được cái hố này nào?»)"),
+  para("Стали прыгать. (Thế là hai con thi nhau nhảy.)"),
+  para("Волк прыгнул, да и ввалился в горячую яму; брюхо у него от огня лопнуло, и козлятки выбежали оттуда да прыг к матери. (Con sói nhảy, nhưng lại rơi tọt xuống hố lửa nóng bỏng; bụng nó bị lửa nung cho nổ bục ra, đàn dê con từ trong đó chạy ùa ra, nhảy phóc về với mẹ.)"),
+  para("И стали они жить да поживать, ума наживать, а лиха избывать. (Thế rồi mẹ con sống với nhau yên vui, ngày càng khôn ra, tai ương rũ sạch.)"),
+  subhead(),
+  vocab("избушка", "túp lều nhỏ trong rừng (dạng nhỏ của изба — nhà gỗ nông thôn Nga)"),
+  vocab("бор", "rừng thông, rừng cây lá kim"),
+  vocab("вымечко", "bầu vú (dạng nhỏ âu yếm của вымя — bầu vú gia súc)"),
+  vocab("копытечко", "cái móng (chân) nhỏ (dạng nhỏ của копыто)"),
+  vocab("шелковая трава", "cỏ mượt như tơ, êm như lụa (шёлк — tơ lụa); công thức ví von dân gian"),
+  vocab("студёная", "(nước) mát lạnh, buốt (từ cổ của холодная)"),
+  vocab("толстый голос", "giọng ồ ề, trầm thô (đối lập với тонкий голос — giọng thanh, the thé)"),
+  vocab("причитывать", "ngân nga đọc/than theo điệu, lặp đi lặp lại (lối hát kể, than vãn)"),
+  vocab("схорониться", "trốn, ẩn nấp (từ cổ của спрятаться)"),
+  vocab("кручина", "nỗi sầu muộn, u uất (từ cổ trong văn dân gian)"),
+  vocab("лихо", "tai ương, điều dữ, vận rủi (danh từ cổ)"),
+  vocab("избывать", "rũ bỏ, trừ khử dần (избывать лихо — xua tan tai ương)"),
+  vocab("крепко-накрепко", "thật chặt, chặt cứng (cài cửa kỹ càng)"),
+  vocab("строго-настрого", "thật nghiêm, dặn đi dặn lại nghiêm ngặt"),
+ ]
+}
+
+# ---------------- Section 2: № 54 ----------------
+s2 = {
+ "id": PREFIX + "002",
+ "type": "story",
+ "num": 54,
+ "title": "№ 54 · Волк и коза — Con sói và con dê",
+ "blocks": [
+  note("Dị bản thứ hai phong phú hơn về tình tiết: mở đầu bằng mô-típ dê chửa đi xin chỗ đẻ (cây táo, cây phỉ đều từ chối) và câu thần chú xoay lều «quay mặt về phía ta, quay lưng ra rừng» — vốn quen thuộc trong truyện Baba Yaga. Sói còn nhờ thợ rèn rèn cho cái «lưỡi mảnh» để giả giọng thanh. Khác với bản №53, ở đây dê mẹ chủ động báo thù: gom lông dê con xay thành bột làm bánh, mời sói (giờ đã béo mượt) đến dự rồi dụ nó nhảy qua hố cắm cọc sắt và lửa, kết bằng bữa «giỗ» cho con sói."),
+  para("Где-то когда-то шла брюхатая коза. (Ở một nơi nào đó, vào một thuở nào đó, có một con dê cái chửa đi trên đường.)"),
+  para("Подошла она к яблоне и говорит: «Яблонь, яблонь! Пусти меня окотиться под себя». (Nó đến bên cây táo và nói: «Cây táo, cây táo ơi! Cho ta đẻ con dưới gốc ngươi với».)"),
+  para("Яблонь не пустила, сказала: «Яблочко отпадет, козленка ушибет; тебе ж невыгодно будет». (Cây táo không cho, bảo: «Quả táo rụng xuống sẽ làm đau dê con đấy; rồi lại thiệt cho chính ngươi thôi».)"),
+  para("Коза подошла к орешне, чтоб она пустила ее окотиться; и орешня не пустила, сказала: «Орех упадет, козленка ушибет». (Dê đến bên cây phỉ xin được đẻ con; cây phỉ cũng không cho, bảo: «Hạt phỉ rơi xuống sẽ làm đau dê con».)"),
+  para("Нечего делать — коза пошла как не солоно щи хлебала. (Chẳng biết làm sao, dê đành đi tiếp, tiu nghỉu như mèo cụt tai — như vừa húp phải bát canh nhạt thếch.)"),
+  para("Вот шла, шла она и видит — стоит избушка, к лесу передом, а к ней задом. (Cứ thế đi mãi đi mãi, dê chợt thấy — có một túp lều, mặt quay ra rừng, lưng quay về phía nó.)"),
+  para("Тут коза сказала: «Избушка, избушка! Обратись ко мне передом, а к лесу задом; я войду в тебя». (Dê bèn nói: «Lều ơi, lều! Hãy quay mặt về phía ta, quay lưng ra rừng; ta muốn vào trong ngươi».)"),
+  para("Избушка обратилась, и коза вошла в нее котиться, и окотилась. (Túp lều liền quay lại, dê chui vào trong đẻ con, và đã đẻ được một đàn.)"),
+  para("Тут коза расположилась как дома; начала нередко оставлять своих козляточек в этой избушке под запором, а сама ходить в лес — траву есть. (Dê ở đó như ở nhà mình; nó hay để đàn dê con lại trong lều cài chặt cửa, còn mình thì vào rừng ăn cỏ.)"),
+  para("Вот однажды — только коза ушла от козляточков — приходит к дверям избушки бирюк и кричит толстым голосом: (Một hôm — dê mẹ vừa rời đàn con — thì có con sói xám mò đến cửa lều, gào lên bằng giọng ồ ề:)"),
+  para("«Козлятушки, ребятушки! Отопритеся, отомкнитеся! Я — ваша мать пришла, молока принесла; бежит молоко по вымечку, из вымечка в корытце, из корытца в сыру землю». («Dê con ơi, các con ơi! Mở chốt ra, mở khóa ra! Mẹ chúng con về rồi, mang sữa về này; sữa chảy theo bầu vú, từ bầu vú xuống máng nhỏ, từ máng nhỏ thấm xuống đất ẩm».)"),
+  para("Козлятки узнали, что голос не их матери, и не отперли двери. (Đàn dê con nhận ra đó chẳng phải giọng mẹ mình nên không mở cửa.)"),
+  para("«У нашей маменьки, — говорят они, — не такой голос; у ней голосок тонкий и нежный». («Mẹ chúng tôi, — chúng nói, — đâu có giọng như thế; giọng mẹ thanh và dịu lắm».)"),
+  para("Скоро после того, как ушел бирюк, приходит к двери их мать и кричит: (Con sói vừa đi khỏi chẳng bao lâu thì mẹ chúng về đến cửa, gọi to:)"),
+  para("«Ой, детушки, отопритеся, отомкнитеся! Я — ваша мать пришла, молока принесла; я на бору была, скорваду глодала; молочко течет по вымечку, из вымечка в корытце, из корытца в сыру землю». («Ơi các con, mở chốt ra, mở khóa ra! Mẹ chúng con về rồi, mang sữa về này; mẹ vừa ở rừng thông, gặm vỏ cây khô; sữa chảy theo bầu vú, từ bầu vú xuống máng nhỏ, từ máng nhỏ thấm xuống đất ẩm».)"),
+  para("Козлятки отперли ей и начали пить молочко. (Đàn dê con mở cửa cho mẹ và bắt đầu bú sữa.)"),
+  para("Между тем бирюк пришел к кузнецу и говорит ему: «Кузнец, кузнец! Сделай мне тоненький язычок». (Trong khi đó, con sói tìm đến bác thợ rèn và bảo: «Bác thợ rèn, bác thợ rèn ơi! Rèn cho tôi một cái lưỡi thật mảnh».)"),
+  para("Кузнец сделал ему. (Bác thợ rèn rèn cho nó.)"),
+  para("Вот как наелись, напились козлятки, коза опять в лес ушла, строго приказав деткам никого не пускать к себе. (Đàn dê con ăn no uống đủ rồi, dê mẹ lại vào rừng, dặn nghiêm các con không được cho bất kỳ ai vào.)"),
+  para("Только коза ушла, приходит к дверям прежний бирюк и начал кричать голосом, похожим на голос их матери: (Dê mẹ vừa đi khỏi, con sói lúc trước lại mò đến cửa, cất tiếng gào bằng cái giọng giống hệt giọng mẹ chúng:)"),
+  para("«Ох, детушки, отопритеся, отомкнитеся! Я — ваша мать пришла, молока принесла; бежит молочко по вымечку, из вымечка в корытце, из корытца в сыру землю». («Ơi các con, mở chốt ra, mở khóa ra! Mẹ chúng con về rồi, mang sữa về này; sữa chảy theo bầu vú, từ bầu vú xuống máng nhỏ, từ máng nhỏ thấm xuống đất ẩm».)"),
+  para("Козлятки не разгадали голоса и отперли бирюку. (Đàn dê con không nhận ra giọng giả, mở cửa cho con sói.)"),
+  para("Бирюк почти всех их поел (только один маленький козленчик спрятался под печь), поел, оставил одну шерстку да косточки и ушел в лес. (Con sói ăn gần sạch cả đàn (chỉ một chú dê con bé nhất kịp nấp xuống gầm lò), ăn xong chỉ chừa lại nhúm lông với mấy khúc xương rồi bỏ vào rừng.)"),
+  para("Пришла коза, кричит у двери, и козленчик отпер ей. (Dê mẹ về, gọi ngoài cửa, và chú dê con mở cửa cho mẹ.)"),
+  para("Тут она собрала шерстку, иссушила на печи и смолола, как муку: через день затеяла блины и вздумала позвать к себе в гости бирюка, а бирюка она видывала у своей кумушки — лисы. (Dê mẹ bèn gom nhúm lông lại, hong khô trên lò rồi xay mịn như bột; cách một ngày, nó đổ bánh xèo và nảy ra ý mời con sói đến chơi nhà — con sói ấy nó từng gặp ở nhà bà bạn cáo.)"),
+  para("Затеяв блины, коза приходит к куме и просит ее к себе в гости с тем бирюком. (Đổ bánh xong, dê mẹ sang nhà bà bạn cáo, mời cáo cùng con sói ấy đến nhà mình chơi.)"),
+  para("Лиса дала верное ей слово, и коза воротилась домой. (Cáo hứa chắc chắn sẽ đến, dê mẹ liền trở về nhà.)"),
+  para("Вот поутру рано, еще часов в пять, приходит к козе лиса с бирюком, а этот бирюк такой гладыш стал, что коза и не узнала его. (Sáng sớm hôm sau, mới chừng năm giờ, cáo cùng con sói đến nhà dê; con sói giờ béo mượt nhẵn nhụi đến mức dê mẹ chẳng nhận ra.)"),
+  para("Сели они за стол; коза подала им тарелки, ножи и вилки, масло и сливки, и стали есть блины. (Họ ngồi vào bàn; dê mẹ dọn ra đĩa, dao dĩa, bơ và kem sữa, rồi cùng ăn bánh xèo.)"),
+  para("Между тем коза полезла в по́дпол за сметаною, а у самой не то на уме; взяла с собою туда жару и развела огонь, а около огня натыкала много железных тычек. (Thừa lúc đó, dê mẹ chui xuống hầm dưới sàn lấy kem chua, nhưng bụng dạ lại tính chuyện khác; nó mang theo than xuống nhóm lửa, rồi quanh đống lửa cắm tua tủa những cọc sắt nhọn.)"),
+  para("Только гости покушали блинов, коза и говорит им: не угодно ли будет им поиграть в ее любимую игру. (Khách vừa ăn bánh xong, dê mẹ liền mời: chẳng hay quý khách có muốn chơi trò mà nó thích nhất không.)"),
+  para("Они согласились. (Cả hai đồng ý.)"),
+  para("Коза тотчас вынула одну доску из пола и, не приказывая им подходить близко, говорит: «Вот моя игра — прыгать через эту дыру скоро и без отдышки». (Dê mẹ liền cạy một tấm ván sàn lên, dặn họ chớ lại gần, rồi nói: «Trò của ta đây — nhảy qua cái lỗ này thật nhanh, không được nghỉ lấy hơi».)"),
+  para("Лиса с козою тут же перепрыгнули; за ними сряжается прыгать толстый бирюк. (Cáo với dê nhảy qua ngay; đến lượt con sói béo ục ịch sửa soạn nhảy.)"),
+  para("Лишь только прыгнул, зацепил ногою за половицу и упал в дыру, а там на железные тычки и огонь. (Vừa nhảy lên, nó vướng chân vào tấm ván sàn, ngã nhào xuống lỗ, rơi đúng vào đám cọc sắt và lửa.)"),
+  para("Коза с лисою прикрыли его доскою, и бирюк сгорел. (Dê với cáo đậy tấm ván lên, thế là con sói cháy thành tro.)"),
+  para("Тут коза с кумою лисою сделали чудесный помин по бирюке: наелись, напились, вышли на двор; коза проводила куму, а сама с своим козленком стала жить да поживать и молочко для козленка добывать. (Thế rồi dê mẹ cùng bà bạn cáo bày một bữa giỗ linh đình cho con sói: ăn no uống say rồi ra sân; dê mẹ tiễn bạn về, còn mình thì cùng chú dê con sống yên vui, ngày ngày kiếm sữa cho con bú.)"),
+  subhead(),
+  vocab("брюхатая", "(con cái) đang chửa, mang thai (брюхатая коза — dê cái chửa)"),
+  vocab("окотиться", "(dê, cừu, mèo) đẻ con; dạng chưa hoàn thành: котиться"),
+  vocab("орешня", "cây phỉ, cây dẻ rừng (cây cho hạt орех)"),
+  vocab("не солоно хлебать", "thành ngữ: ra về tay không, chưng hửng (đen: húp bát canh nhạt thếch)"),
+  vocab("обратиться", "quay (mặt/lưng) về phía nào (обратись передом — hãy quay mặt lại)"),
+  vocab("под запором", "bị cài chốt, khóa kín (запор — then/chốt cửa)"),
+  vocab("отомкнуться", "mở khóa, mở chốt ra (từ cổ; gieo vần với отопереться)"),
+  vocab("корытце", "cái máng nhỏ (dạng nhỏ của корыто — máng gỗ đựng nước/thức ăn)"),
+  vocab("скорвада", "(?) từ phương ngữ tối nghĩa, ngỡ là thứ vỏ/lớp cứng mà dê gặm — nguyên bản đánh dấu khuyết nghĩa"),
+  vocab("кузнец", "bác thợ rèn"),
+  vocab("язычок", "cái lưỡi nhỏ (dạng nhỏ của язык); sói nhờ rèn để đổi sang giọng thanh"),
+  vocab("гладыш", "kẻ béo mượt, nhẵn nhụi (gốc гладкий — nhẵn, trơn mượt)"),
+  vocab("подпол", "hầm chứa dưới sàn nhà gỗ (по́дпол)"),
+  vocab("тычки", "những cọc/que (sắt) nhọn cắm dựng đứng (железные тычки)"),
+  vocab("помин", "lễ giỗ, bữa cúng tưởng nhớ người đã khuất"),
+ ]
+}
+
+unit = {
+ "id": UNIT_ID, "num": NUM,
+ "title": TITLE, "vi": TITLE, "ru": "Волк и коза",
+ "icon": ICON, "color": COLOR,
+ "sectionPrefix": PREFIX, "group": GROUP,
+ "sections": [s1, s2],
+}
+
+# ---- write unit json ----
+unit_path = os.path.join(BASE, "units", UNIT_ID + ".json")
+with open(unit_path, "w", encoding="utf-8") as f:
+    json.dump(unit, f, ensure_ascii=False, indent=1)
+print("wrote", unit_path)
+
+# ---- append glossary (skip words already present) ----
+gpath = os.path.join(BASE, "glossary.json")
+g = json.load(open(gpath, encoding="utf-8"))
+existing = set(e["ruPlain"].lower() for e in g["entries"])
+
+def collect(section):
+    out = []
+    for b in section["blocks"]:
+        if b["t"] == "vocab":
+            ruPlain = b["ru"]
+            out.append((b["ru"], ruPlain, b["vi"], section["id"]))
+    return out
+
+added = 0
+skipped = []
+for sec in (s1, s2):
+    for ru, ruPlain, vi, ref in collect(sec):
+        if ruPlain.lower() in existing:
+            skipped.append(ruPlain)
+            continue
+        g["entries"].append({"ru": ru, "ruPlain": ruPlain, "vi": vi, "g": None, "ref": ref})
+        existing.add(ruPlain.lower())
+        added += 1
+
+g["count"] = len(g["entries"])
+with open(gpath, "w", encoding="utf-8") as f:
+    json.dump(g, f, ensure_ascii=False, indent=1)
+print("glossary new count:", g["count"], "| added:", added, "| skipped(dup):", skipped)
+
+# ---- insert book.json part ----
+bpath = os.path.join(BASE, "book.json")
+book = json.load(open(bpath, encoding="utf-8"))
+if not any(p["id"] == UNIT_ID for p in book["parts"]):
+    part = {
+        "id": UNIT_ID, "num": NUM,
+        "title": TITLE, "vi": TITLE, "ru": "Волк и коза",
+        "icon": ICON, "color": COLOR,
+        "file": "units/%s.json" % UNIT_ID,
+        "sectionPrefix": PREFIX, "group": GROUP,
+        "sectionCount": 2, "exerciseCount": 0, "grammarCount": 0,
+    }
+    # insert keeping num order
+    parts = book["parts"]
+    idx = len(parts)
+    for i, p in enumerate(parts):
+        if p["num"] > NUM:
+            idx = i; break
+    parts.insert(idx, part)
+    book["parts"] = parts
+    with open(bpath, "w", encoding="utf-8") as f:
+        json.dump(book, f, ensure_ascii=False, indent=1)
+    print("inserted book part at idx", idx, "| total parts:", len(parts))
+else:
+    print("book part already present")

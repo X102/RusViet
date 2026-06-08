@@ -1,0 +1,227 @@
+{
+ "id": "skazki1-004",
+ "num": 4,
+ "title": "Лиса, заяц и петух — Cáo, thỏ và gà trống",
+ "vi": "Лиса, заяц и петух — Cáo, thỏ và gà trống",
+ "ru": "Лиса, заяц и петух",
+ "icon": "🐓",
+ "color": "#dc2626",
+ "sectionPrefix": "skazki1-004-s",
+ "group": "Truyện № 1–30",
+ "sections": [
+  {
+   "id": "skazki1-004-s001",
+   "type": "story",
+   "num": 14,
+   "title": "№ 14 · Лиса, заяц и петух — Cáo, thỏ và gà trống",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Một trong những truyện loài vật được yêu thích nhất của Nga (quen gọi «túp lều của thỏ»): theo lối kể trùng điệp tăng tiến, hết chó đến gấu rồi bò to xác đều bó tay, chỉ chú gà trống bé nhỏ vác lưỡi hái mới đuổi nổi con cáo gian — đề cao lòng dũng cảm hơn là sức vóc."
+    },
+    {
+     "t": "para",
+     "text": "Жили-были лиса да заяц. (Ngày xưa có một con cáo và một con thỏ.)"
+    },
+    {
+     "t": "para",
+     "text": "У лисицы была избенка ледяная, а у зайчика лубяная; пришла весна красна — у лисицы растаяла, а у зайчика стоит по-старому. (Cáo có một túp lều bằng băng, còn thỏ có túp lều bằng vỏ cây; xuân tươi đẹp về — lều của cáo tan chảy mất, còn lều của thỏ vẫn đứng nguyên như cũ.)"
+    },
+    {
+     "t": "para",
+     "text": "Лиса попросилась у зайчика погреться, да зайчика-то и выгнала. (Cáo xin sang nhà thỏ sưởi nhờ, rồi lại đuổi luôn thỏ ra ngoài.)"
+    },
+    {
+     "t": "para",
+     "text": "Идет доро́гой зайчик да плачет, а ему навстречу собаки: «Тяф, тяф, тяф! Про что, зайчик, плачешь?» (Thỏ đi trên đường vừa đi vừa khóc, thì gặp mấy con chó đi tới: «Gâu, gâu, gâu! Thỏ ơi, khóc gì thế?»)"
+    },
+    {
+     "t": "para",
+     "text": "А зайчик говорит: «Отстаньте, собаки! Как мне не плакать? Была у меня избенка лубяная, а у лисы ледяная, попросилась она ко мне, да меня и выгнала». (Thỏ đáp: «Buông tôi ra, mấy chú chó! Sao tôi không khóc cho được? Tôi có túp lều bằng vỏ cây, cáo có lều bằng băng, nó xin sang nhà tôi, rồi lại đuổi tôi đi.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Не плачь, зайчик! — говорят собаки. — Мы ее выгоним». (Bầy chó nói: «Đừng khóc, thỏ ơi! Chúng tôi sẽ đuổi nó đi cho.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Нет, не выгоните!» — «Нет, выгоним!» (Thỏ: «Không, không đuổi được đâu!» — Bầy chó: «Có chứ, đuổi được!»)"
+    },
+    {
+     "t": "para",
+     "text": "Подошли к избенке: «Тяф, тяф, тяф! Поди, лиса, вон!» (Chúng tới bên túp lều: «Gâu, gâu, gâu! Cáo kia, cút ra ngoài!»)"
+    },
+    {
+     "t": "para",
+     "text": "А она им с печи: «Как выскочу, как выпрыгну, пойдут клочки по заулочкам!» (Cáo từ trên bệ lò đáp lại: «Tao mà nhảy ra, tao mà phóng ra, lông lá bay tứ tung khắp các ngõ ngách cho coi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Собаки испугались и ушли. (Bầy chó sợ hãi bỏ đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Зайчик опять идет да плачет. Ему навстречу медведь: «О чем, зайчик, плачешь?» (Thỏ lại lủi thủi vừa đi vừa khóc. Gặp một con gấu đi tới: «Thỏ ơi, khóc chuyện gì vậy?»)"
+    },
+    {
+     "t": "para",
+     "text": "А зайчик говорит: «Отстань, медведь! Как мне не плакать? Была у меня избенка лубяная, а у лисы ледяная; попросилась она ко мне, да меня и выгнала». (Thỏ đáp: «Buông tôi ra, bác gấu! Sao tôi không khóc cho được? Tôi có túp lều bằng vỏ cây, cáo có lều bằng băng; nó xin sang nhà tôi, rồi lại đuổi tôi đi.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Не плачь, зайчик! — говорит медведь. — Я выгоню ее». (Gấu nói: «Đừng khóc, thỏ ơi! Ta sẽ đuổi nó đi.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Нет, не выгонишь! Собаки гнали — не выгнали, и ты не выгонишь». — «Нет, выгоню!» (Thỏ: «Không, bác không đuổi được đâu! Chó đuổi mà chẳng đuổi nổi, bác cũng chẳng đuổi nổi đâu.» — Gấu: «Không, ta đuổi được!»)"
+    },
+    {
+     "t": "para",
+     "text": "Пошли гнать: «Поди, лиса, вон!» А она с печи: «Как выскочу, как выпрыгну, пойдут клочки по заулочкам!» (Hai bên đi đuổi cáo: «Cáo kia, cút ra ngoài!» Cáo từ trên bệ lò: «Tao mà nhảy ra, tao mà phóng ra, lông lá bay tứ tung khắp các ngõ ngách cho coi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Медведь испугался и ушел. (Gấu sợ hãi bỏ đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Идет опять зайчик да плачет, а ему навстречу бык: «Про что, зайчик, плачешь?» (Thỏ lại đi vừa đi vừa khóc, thì gặp một con bò mộng: «Thỏ ơi, khóc gì thế?»)"
+    },
+    {
+     "t": "para",
+     "text": "«Отстань, бык! Как мне не плакать? Была у меня избенка лубяная, а у лисы ледяная; попросилась она ко мне, да меня и выгнала». (Thỏ: «Buông tôi ra, anh bò! Sao tôi không khóc cho được? Tôi có túp lều bằng vỏ cây, cáo có lều bằng băng; nó xin sang nhà tôi, rồi lại đuổi tôi đi.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Пойдем, я ее выгоню». — «Нет, бык, не выгонишь! Собаки гнали — не выгнали, медведь гнал — не выгнал, и ты не выгонишь». — «Нет, выгоню». (Bò: «Đi nào, tôi sẽ đuổi nó đi.» — Thỏ: «Không, anh bò ơi, không đuổi được đâu! Chó đuổi chẳng nổi, gấu đuổi chẳng nổi, anh cũng chẳng đuổi nổi đâu.» — Bò: «Không, tôi đuổi được.»)"
+    },
+    {
+     "t": "para",
+     "text": "Подошли к избенке: «Поди, лиса, вон!» А она с печи: «Как выскочу, как выпрыгну, пойдут клочки по заулочкам!» (Hai bên tới bên túp lều: «Cáo kia, cút ra ngoài!» Cáo từ trên bệ lò: «Tao mà nhảy ra, tao mà phóng ra, lông lá bay tứ tung khắp các ngõ ngách cho coi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Бык испугался и ушел. (Bò sợ hãi bỏ đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Идет опять зайчик да плачет, а ему навстречу петух с косой: «Кукуреку! О чем, зайчик, плачешь?» (Thỏ lại đi vừa đi vừa khóc, thì gặp một chú gà trống vác lưỡi hái: «Ò ó o! Thỏ ơi, khóc chuyện gì vậy?»)"
+    },
+    {
+     "t": "para",
+     "text": "«Отстань, петух! Как мне не плакать? Была у меня избенка лубяная, а у лисы ледяная; попросилась она ко мне, да меня и выгнала». (Thỏ: «Buông tôi ra, anh gà! Sao tôi không khóc cho được? Tôi có túp lều bằng vỏ cây, cáo có lều bằng băng; nó xin sang nhà tôi, rồi lại đuổi tôi đi.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Пойдем, я выгоню». — «Нет, не выгонишь! Собаки гнали — не выгнали, медведь гнал — не выгнал, бык гнал — не выгнал, и ты не выгонишь». — «Нет, выгоню!» (Gà: «Đi nào, tôi sẽ đuổi nó đi.» — Thỏ: «Không, không đuổi được đâu! Chó đuổi chẳng nổi, gấu đuổi chẳng nổi, bò đuổi chẳng nổi, anh cũng chẳng đuổi nổi đâu.» — Gà: «Không, tôi đuổi được!»)"
+    },
+    {
+     "t": "para",
+     "text": "Подошли к избенке. «Кукуреку! Несу косу на плечи, хочу лису посечи! Поди, лиса, вон!» (Hai bên tới bên túp lều. «Ò ó o! Vác lưỡi hái trên vai, ta muốn chém phăng con cáo! Cáo kia, cút ra ngoài!»)"
+    },
+    {
+     "t": "para",
+     "text": "А она услыхала, испугалась, говорит: «Одеваюсь...» (Cáo nghe thấy, đâm hoảng, bèn nói: «Để tôi mặc áo đã...»)"
+    },
+    {
+     "t": "para",
+     "text": "Петух опять: «Кукуреку! Несу косу на плечи, хочу лису посечи! Поди, лиса, вон!» А она говорит: «Шубу надеваю». (Gà trống lại gáy: «Ò ó o! Vác lưỡi hái trên vai, ta muốn chém phăng con cáo! Cáo kia, cút ra ngoài!» Cáo đáp: «Tôi đang khoác áo lông đây.»)"
+    },
+    {
+     "t": "para",
+     "text": "Петух в третий раз: «Кукуреку! Несу косу на плечи, хочу лису посечи! Поди, лиса, вон!» (Gà trống gáy lần thứ ba: «Ò ó o! Vác lưỡi hái trên vai, ta muốn chém phăng con cáo! Cáo kia, cút ra ngoài!»)"
+    },
+    {
+     "t": "para",
+     "text": "Лисица выбежала; он ее зарубил косой-то и стал с зайчиком жить да поживать да добра наживать. (Cáo vọt chạy ra; gà trống vung lưỡi hái chém chết nó, rồi cùng thỏ sống yên vui, làm ăn khấm khá bên nhau.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот тебе сказка, а мне кринка масла. (Truyện kể cho người là thế, còn phần ta là một liễn bơ.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "избёнка",
+     "vi": "túp lều nhỏ (dạng thân mật của «изба»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "лубяной",
+     "vi": "(làm) bằng vỏ cây bồ đề (луб)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ледяной",
+     "vi": "bằng băng, lạnh giá",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "весна красна",
+     "vi": "mùa xuân tươi đẹp (lối nói cổ trong dân ca)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "погреться",
+     "vi": "sưởi ấm nhờ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "выгнать",
+     "vi": "đuổi ra, tống ra ngoài",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "печь",
+     "vi": "bệ lò sưởi Nga (chỗ nằm ấm trên lò)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "клочки",
+     "vi": "túm/mớ lông bị giật ra",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "заулок",
+     "vi": "ngõ nhỏ, hẻm (заулочки: các ngõ ngách)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "коса",
+     "vi": "lưỡi hái",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "посечи",
+     "vi": "chém, đốn (dạng cổ của «посечь»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кринка",
+     "vi": "liễn/hũ sành đựng sữa, bơ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кукуреку",
+     "vi": "ò ó o (tiếng gà gáy)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

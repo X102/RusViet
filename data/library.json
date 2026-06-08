@@ -1,0 +1,92 @@
+{
+ "title": "Thư viện tiếng Nga",
+ "books": [
+  {
+   "id": "grammar-morphology",
+   "title": "Ngữ pháp tiếng Nga — Hình thái học",
+   "subtitle": "Giải bài tập ngữ pháp tiếng Nga (Морфология)",
+   "cover": "📕",
+   "level": "A2–B2",
+   "lang": "ru",
+   "path": "books/grammar-morphology/book.json",
+   "type": "grammar"
+  },
+  {
+   "id": "grammar-syntax",
+   "title": "Ngữ pháp tiếng Nga — Cú pháp",
+   "subtitle": "Грамматика русского языка. Часть 2: Синтаксис",
+   "cover": "📗",
+   "level": "B1–C1",
+   "lang": "ru",
+   "path": "books/grammar-syntax/book.json",
+   "type": "grammar"
+  },
+  {
+   "id": "doroga1",
+   "title": "Дорога в Россию 1 — Sơ cấp (Элементарный)",
+   "subtitle": "Дорога в Россию · A1",
+   "cover": "🛤️",
+   "level": "A1",
+   "lang": "ru",
+   "path": "books/doroga1/book.json",
+   "type": "textbook"
+  },
+  {
+   "id": "doroga2",
+   "title": "Дорога в Россию 2 — Cơ bản (Базовый)",
+   "subtitle": "Дорога в Россию · A2",
+   "cover": "🚆",
+   "level": "A2",
+   "lang": "ru",
+   "path": "books/doroga2/book.json",
+   "type": "textbook"
+  },
+  {
+   "id": "doroga3",
+   "title": "Дорога в Россию 3 — Trình độ 1 (Первый уровень)",
+   "subtitle": "Дорога в Россию · B1",
+   "cover": "🏛️",
+   "level": "B1",
+   "lang": "ru",
+   "path": "books/doroga3/book.json",
+   "type": "textbook"
+  },
+  {
+   "id": "skazki1",
+   "title": "Truyện cổ dân gian Nga — Сказки Афанасьева (T.1)",
+   "subtitle": "Đọc song ngữ · nghe · tra từ",
+   "cover": "🦊",
+   "level": "A2+",
+   "lang": "ru",
+   "path": "books/skazki1/book.json",
+   "type": "reader"
+  },
+  {
+   "id": "vhnga",
+   "title": "Tuyển tập Văn học Nga",
+   "subtitle": "Thơ · ngụ ngôn · truyện ngắn (song ngữ)",
+   "cover": "🪆",
+   "level": "A2–C1",
+   "lang": "ru",
+   "path": "books/vhnga/book.json",
+   "type": "reader"
+  }
+ ],
+ "comingSoon": [
+  {
+   "title": "Postcard & Văn hoá Nga",
+   "cover": "🖼️",
+   "type": "culture"
+  },
+  {
+   "title": "Video bài giảng",
+   "cover": "🎬",
+   "type": "video"
+  },
+  {
+   "title": "Trò chơi từ vựng",
+   "cover": "🎮",
+   "type": "game"
+  }
+ ]
+}

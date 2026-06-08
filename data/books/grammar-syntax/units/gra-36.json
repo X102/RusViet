@@ -1,0 +1,152 @@
+{
+ "id": "gra-36",
+ "num": 36,
+ "title": "Câu ghép không liên từ (Бессоюзное сложное предложение)",
+ "vi": "Câu ghép không liên từ (Бессоюзное сложное предложение)",
+ "ru": "Бессоюзное сложное предложение",
+ "icon": "🪢",
+ "color": "#0891b2",
+ "sectionPrefix": "gra-36-s",
+ "group": "Раздел 3 · Câu phức (Сложное предложение)",
+ "sections": [
+  {
+   "id": "gra-36-s001",
+   "type": "grammar",
+   "title": "Câu ghép không liên từ (бессоюзное сложное предложение)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Câu ghép không liên từ (бессоюзное сложное предложение) là câu phức mà các vế được nối với nhau không bằng liên từ hay từ liên kết, mà bằng ngữ điệu và quan hệ ý nghĩa giữa các vế. Theo ý nghĩa, chúng chia thành hai nhóm lớn: nhóm gần nghĩa với câu ghép ĐẲNG LẬP (сложносочинённые) và nhóm gần nghĩa với câu ghép CHÍNH PHỤ (сложноподчинённые)."
+    },
+    {
+     "t": "para",
+     "text": "I. Câu ghép không liên từ gần nghĩa với câu ghép ĐẲNG LẬP:\nа) các câu biểu thị tính đồng thời hoặc kế tiếp của các sự kiện, hiện tượng: Ещё заря́ не вста́ла над село́м, Ещё лежа́т в саду́ деся́тки тене́й, Ещё блиста́ет лу́нным серебро́м замёрзший мир дере́вьев и расте́ний (Н. Заболо́цкий) (Bình minh còn chưa lên trên xóm làng, Trong vườn còn nằm la liệt hàng chục bóng râm, Thế giới cây cối cỏ hoa giá băng còn lấp lánh ánh bạc của vầng trăng — N. Zabolotsky); Жизнь засты́ла в све́тлом поко́е, не́бо ла́сково смо́трит на зе́млю голубы́м я́сным о́ком, со́лнце — о́гненный зрачо́к его́ (М. Го́рький) (Cuộc sống lặng đi trong cõi yên bình sáng trong, bầu trời trìu mến nhìn mặt đất bằng con mắt xanh trong vắt, còn mặt trời là con ngươi rực lửa của con mắt ấy — M. Gorky); Ве́тка наклони́лась, с неё посы́пался снег (К. Паусто́вский) (Cành cây trĩu xuống, tuyết từ trên cành rơi lả tả — K. Paustovsky);\nб) các câu biểu thị quan hệ so sánh đối chiếu hoặc đối lập: Но́ги но́сят — ру́ки ко́рмят (ру́сская посло́вица) (Chân đi — tay nuôi miệng; tục ngữ Nga: có chịu khó đi lại, lao động thì mới có ăn); Ле́то припаса́ет — зима́ поеда́ет (ру́сская посло́вица) (Mùa hè tích trữ — mùa đông ăn dần; tục ngữ Nga); Не ве́тер бушу́ет над бо́ром, не с гор побежа́ли ручьи́ — Моро́з-воево́да дозо́ром обхо́дит владе́нья свои́ (Н. Некра́сов) (Chẳng phải gió gào trên rừng thông, chẳng phải suối từ núi đổ về — đó là Chúa rét Moroz-voevoda đang đi tuần khắp lãnh địa của mình — N. Nekrasov)."
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Câu ghép không liên từ gần nghĩa với câu ghép đẳng lập thường có các vế được xây dựng CÙNG KIỂU: dạng thức vị ngữ giống nhau, các sự kiện xảy ra đồng thời hoặc kế tiếp nhau."
+    },
+    {
+     "t": "para",
+     "text": "II. Câu ghép không liên từ gần nghĩa với câu ghép CHÍNH PHỤ — một vế mang ý nghĩa:\nа) BỔ NGỮ (объектное значение): Жи́лин ви́дит: де́ло пло́хо (Л. Толсто́й) (Zhilin thấy rõ: tình hình gay go rồi — L. Tolstoy); Мы по́няли: всё бу́дет в поря́дке (Chúng tôi hiểu ra: mọi chuyện rồi sẽ ổn thoả);\nб) ĐỊNH NGỮ (определительное значение): Ей предста́вилась карти́на: хру́пкая ладья́ несётся по тече́нию (В. Вереса́ев) (Trước mắt nàng hiện lên một bức tranh: con thuyền mỏng manh đang lao theo dòng nước — V. Veresaev); О́коло огня́ дви́гались лю́ди: я узна́л Дерсу́ — он поправля́л дрова́ (В. Арсе́ньев) (Quanh đống lửa có bóng người qua lại: tôi nhận ra Dersu — ông đang xếp lại củi — V. Arsenyev); Он вы́тащил блокно́т — его́ он всегда́ носи́л в ле́вом карма́не (Anh rút cuốn sổ tay ra — cuốn sổ anh luôn mang theo ở túi bên trái);\nв) NGUYÊN NHÂN (значение причины): Я несча́стлив: ка́ждый день го́сти (А. Че́хов) (Tôi khổ lắm: ngày nào cũng có khách — A. Chekhov); Не́бо полыха́ет на горизо́нте: там идёт возду́шный бой (В. И́нбер) (Bầu trời rực cháy phía chân trời: ở đó đang diễn ra một trận không chiến — V. Inber); Не удало́сь Артёму устро́ить бра́та ученико́м в депо́: моло́же пятна́дцати лет не бра́ли (Н. Остро́вский) (Artyom không xin được cho em vào học việc ở xưởng đầu máy: dưới mười lăm tuổi người ta không nhận — N. Ostrovsky);\nг) KẾT QUẢ (значение следствия): Со́лнце ды́мное встаёт — бу́дет день горя́чий (А. Твардо́вский) (Mặt trời mọc lên mờ khói — hôm nay sẽ là một ngày nóng bức — A. Tvardovsky); Слой облако́в был о́чень то́нок — сквозь него́ просве́чивало со́лнце (К. Паусто́вский) (Lớp mây rất mỏng — mặt trời xuyên qua được — K. Paustovsky);\nд) THỜI GIAN (значение времени): Просну́лся — пять ста́нций убежа́ло наза́д (Н. Го́голь) (Tỉnh dậy — năm ga đã vụt qua sau lưng — N. Gogol); Лес ру́бят — ще́пки летя́т (ру́сская посло́вица) (Đốn rừng — dăm gỗ bay; tục ngữ Nga: làm việc lớn khó tránh tổn thất nhỏ);\nе) ĐIỀU KIỆN (значение условия): Бу́дете в теа́тре — заходи́те (К. Фе́дин) (Có dịp đến nhà hát — mời anh ghé vào — K. Fedin); Знай я ремесло́ — жил бы в го́роде (М. Го́рький) (Giá tôi biết lấy một nghề — tôi đã sống ở thành phố — M. Gorky); Лю́бишь ката́ться — люби́ и са́ночки вози́ть (ру́сская посло́вица) (Thích ngồi xe trượt thì cũng phải thích kéo xe; tục ngữ Nga: muốn hưởng thì phải chịu khó);\nж) NHƯỢNG BỘ (значение уступки): Давно́ пора́ бы ка́ждому сверну́ть свое́й доро́гою — они́ рядко́м иду́т (Н. Некра́сов) (Đã từ lâu lẽ ra mỗi người phải rẽ theo con đường riêng của mình — vậy mà họ vẫn sóng bước bên nhau — N. Nekrasov)."
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Giữa các vế của câu ghép không liên từ gần nghĩa với câu ghép chính phụ tồn tại quan hệ PHỤ THUỘC: quan hệ bổ ngữ, điều kiện, định ngữ, nhân – quả, nhượng bộ, v.v."
+    }
+   ]
+  },
+  {
+   "id": "gra-36-s002",
+   "type": "exercise",
+   "title": "Упражнение 472",
+   "num": 472,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy đọc các câu ghép không liên từ. Chú ý các quan hệ ý nghĩa làm nền tảng cho chúng."
+    },
+    {
+     "t": "para",
+     "text": "Ngữ liệu của bài 472 chính là phần lý thuyết «Câu ghép không liên từ» ở mục ngay trên: hai nhóm lớn — câu gần nghĩa với câu ghép đẳng lập (а) đồng thời/kế tiếp; б) so sánh – đối lập) và câu gần nghĩa với câu ghép chính phụ (а) bổ ngữ; б) định ngữ; в) nguyên nhân; г) kết quả; д) thời gian; е) điều kiện; ж) nhượng bộ) — cùng toàn bộ ví dụ minh hoạ và các khung chú ý."
+    }
+   ]
+  },
+  {
+   "id": "gra-36-s003",
+   "type": "exercise",
+   "title": "Упражнение 473",
+   "num": 473,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy biến đổi các câu ghép không liên từ thành câu ghép đẳng lập với các liên từ и, а, но, и… и, не то́лько… но и. Giải thích cách chọn của bạn, nêu các phương án có thể."
+    },
+    {
+     "t": "para",
+     "text": "1. Наступи́ла зима́, сне́га по-пре́жнему не́ было (Mùa đông đã đến, tuyết vẫn chưa rơi); 2. На мой день рожде́ния собрали́сь друзья́, из ра́зных городо́в прие́хали мои́ ро́дственники (Sinh nhật tôi, bạn bè tụ họp đông đủ, họ hàng từ nhiều thành phố khác nhau cũng đổ về); 3. У́тро бы́ло моро́зным и я́сным, настрое́ние заме́тно улу́чшилось (Buổi sáng giá lạnh và quang đãng, tâm trạng khá hẳn lên); 4. Я не хоте́л ему́ ве́рить; те, кто прису́тствовал при на́шем разгово́ре, то́же отка́зывались ве́рить его́ слова́м (Tôi không muốn tin anh ta; những người có mặt trong cuộc nói chuyện của chúng tôi cũng không chịu tin lời anh ta); 5. Му́зыка вошла́ в мою́ жизнь с са́мого рожде́ния, к четырём года́м я уже́ игра́л на скри́пке (Âm nhạc đi vào đời tôi ngay từ lúc lọt lòng, lên bốn tuổi tôi đã chơi vĩ cầm); 6. В тот день шёл дождь, мы реши́ли оста́ться до́ма (Hôm đó trời mưa, chúng tôi quyết định ở nhà); 7. Вре́мени остава́лось ма́ло, мы должны́ бы́ли сдать прое́кт в срок (Thời gian còn lại rất ít, mà chúng tôi phải nộp dự án đúng hạn); 8. Подведе́ние ито́гов голосова́ния должно́ бы́ло состоя́ться то́лько ве́чером — никто́ не знал, как зако́нчатся вы́боры (Việc kiểm phiếu chỉ được tiến hành vào buổi tối — chưa ai biết cuộc bầu cử sẽ kết thúc ra sao); 9. Я де́лал всё тща́тельно и никуда́ не спеши́л, мои́ колле́ги торопи́ли меня́ ка́ждую мину́ту (Tôi làm mọi việc kỹ lưỡng, chẳng vội vàng gì, còn các đồng nghiệp thì giục tôi từng phút); 10. Сомне́ний в том, что всё идёт по пла́ну, ни у кого́ не́ было; мале́йшие возраже́ния по э́тому по́воду в кома́нде воспринима́лись с раздраже́нием (Không ai nghi ngờ việc mọi chuyện đang diễn ra đúng kế hoạch; trong nhóm, ý kiến phản đối dù nhỏ nhất về chuyện này cũng bị đón nhận một cách khó chịu); 11. Жизнь прошла́, оста́лись воспомина́ния (Cuộc đời đã trôi qua, chỉ còn lại những hồi ức); 12. В то у́тро я ра́но просну́лся, настрое́ния идти́ на рабо́ту не́ было (Sáng hôm ấy tôi dậy sớm, chẳng còn chút hứng thú đi làm); 13. С у́лицы доноси́лся звон трамва́ев, хло́пали две́ри отъезжа́ющих автомоби́лей (Từ ngoài phố vọng vào tiếng leng keng tàu điện, tiếng đóng sầm cửa của những chiếc ô tô đang lăn bánh); 14. В э́той ча́сти са́да дере́вья не росли́, трава́ не зелене́ла (Ở góc vườn này cây không mọc, cỏ chẳng xanh); 15. Пи́сем по-пре́жнему не́ было, газе́ты приходи́ли не ка́ждый день (Thư vẫn bặt tin, báo cũng không đến đều mỗi ngày)."
+    }
+   ]
+  },
+  {
+   "id": "gra-36-s004",
+   "type": "exercise",
+   "title": "Упражнение 474",
+   "num": 474,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy đọc đoạn trích từ tiểu thuyết «Геро́й на́шего вре́мени» (Một anh hùng thời đại) của M. Lermontov. Tìm trong đó các câu ghép không liên từ. Đưa ra phương án đồng nghĩa của chúng, dùng các cấu trúc câu ghép đẳng lập tương ứng."
+    },
+    {
+     "t": "para",
+     "text": "Да, такова́ была́ моя́ у́часть с са́мого де́тства! Все чита́ли на моём лице́ при́знаки дурны́х свойств, кото́рых не́ было; но их предполага́ли — и они́ родили́сь. Я был скро́мен — меня́ обвиня́ли в лука́встве: я стал скры́тен. Я глубоко́ чу́вствовал добро́ и зло; никто́ меня́ не ласка́л, все оскорбля́ли: я стал злопа́мятен; я был угрю́м, — други́е де́ти веселы́ и болтли́вы; я чу́вствовал себя́ вы́ше их, — меня́ ста́вили ни́же. Я сде́лался зави́стлив. Я был гото́в люби́ть весь мир, — меня́ никто́ не по́нял: и я вы́учился ненави́деть. Моя́ бесцве́тная мо́лодость протека́ла в борьбе́ с собо́й и све́том; лу́чшие мои́ чу́вства, боя́сь насме́шки, я хорони́л в глубине́ се́рдца: они́ там и у́мерли. Я говори́л пра́вду — мне не ве́рили: я на́чал обма́нывать... (М. Ле́рмонтов. «Геро́й на́шего вре́мени»)\n(Dịch: Phải, số phận tôi từ thuở ấu thơ đã là như thế! Mọi người đều đọc thấy trên gương mặt tôi dấu hiệu của những thói xấu vốn không hề có; nhưng người ta cứ ngờ là có — và chúng đã nảy sinh. Tôi vốn khiêm nhường — người ta buộc tội tôi xảo trá: tôi đâm ra kín đáo. Tôi cảm nhận sâu sắc điều thiện và điều ác; chẳng ai vuốt ve tôi, mọi người đều lăng nhục: tôi trở nên hay thù dai; tôi vốn lầm lì — những đứa trẻ khác thì vui vẻ, liến thoắng; tôi cảm thấy mình cao hơn chúng — người ta lại đặt tôi thấp hơn. Tôi đâm ra đố kỵ. Tôi từng sẵn sàng yêu cả thế gian — chẳng ai hiểu tôi: và tôi học được cách căm ghét. Tuổi xuân nhạt nhoà của tôi trôi qua trong cuộc vật lộn với chính mình và với người đời; những tình cảm tốt đẹp nhất, vì sợ bị chế giễu, tôi chôn sâu đáy lòng: chúng đã chết ở đó. Tôi nói thật — người ta không tin tôi: tôi bắt đầu lừa dối...)"
+    }
+   ]
+  },
+  {
+   "id": "gra-36-s005",
+   "type": "exercise",
+   "title": "Упражнение 475",
+   "num": 475,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Từ các câu đơn ở mục а) và б), hãy ghép thành tất cả các câu ghép không liên từ có thể có, gần nghĩa với câu ghép chính phụ. Đặt dấu câu thích hợp."
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Nếu một vế của câu ghép không liên từ GIẢI THÍCH nghĩa của vế kia, giữa hai vế đặt DẤU HAI CHẤM: Я по́нял (что и́менно?): разгово́р око́нчен (Tôi hiểu ra (hiểu ra điều gì?): câu chuyện đã chấm dứt). Nếu một vế quyết định diễn biến của tình huống ở vế kia (ý nghĩa kết quả, thời gian, điều kiện) hoặc trái ngược với vế kia (ý nghĩa nhượng bộ), giữa hai vế đặt DẤU GẠCH NGANG: Ко́нчил де́ло — гуля́й сме́ло (ру́сская посло́вица) (Xong việc — tha hồ chơi; tục ngữ Nga) (гуля́й сме́ло когда́? при како́м усло́вии? — chơi thoải mái khi nào? với điều kiện gì?)."
+    },
+    {
+     "t": "para",
+     "text": "а) 1. Зима́ была́ о́чень холо́дная (Mùa đông năm ấy rất lạnh); 2. У́тро бы́ло споко́йным (Buổi sáng yên ả); 3. Сомне́ний не́ было (Không còn nghi ngờ gì nữa); 4. Ему́ бы притормози́ть и сверну́ть на обо́чину (Giá anh ta phanh bớt lại và tấp vào lề đường); 5. В тот моме́нт я поду́мал (Khoảnh khắc ấy tôi chợt nghĩ); 6. Перед на́ми раски́нулась доли́на (Trước mắt chúng tôi trải ra một thung lũng); 7. Я уви́дел свет маяка́ (Tôi nhìn thấy ánh đèn hải đăng); 8. На за́паде сверка́ли мо́лнии (Phía tây chớp loé sáng); 9. Встре́ча проходи́ла в просто́рном а́ктовом за́ле (Cuộc gặp diễn ra trong hội trường rộng rãi); 10. У неё тру́дный хара́ктер (Cô ấy tính khí khó chịu)."
+    },
+    {
+     "t": "para",
+     "text": "б) Мне о ней расска́зывал мой друг (Bạn tôi đã kể cho tôi nghe về nó); Начала́сь гроза́ (Cơn dông bắt đầu); Мы дви́гались в пра́вильном направле́нии (Chúng tôi đang đi đúng hướng); Он пое́хал пря́мо (Anh ta cứ phóng thẳng); Весь урожа́й поги́б (Cả vụ mùa mất trắng); Гроза́ прошла́ ми́мо (Cơn dông đã đi qua nơi khác); Обы́чно она́ не заде́рживается на одно́м ме́сте бо́льше го́да (Thường thì cô ấy không ở yên một chỗ quá một năm); Всё мо́жет случи́ться (Chuyện gì cũng có thể xảy ra); Наро́ду собрало́сь мно́го (Người kéo đến rất đông); Он горе́л впереди́ в по́лной темноте́, ука́зывая нам путь (Nó cháy sáng phía trước trong bóng tối mịt mùng, chỉ đường cho chúng tôi)."
+    }
+   ]
+  },
+  {
+   "id": "gra-36-s006",
+   "type": "exercise",
+   "title": "Упражнение 476",
+   "num": 476,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy đọc các câu. Xác định các cấu trúc không liên từ gặp trong đó thuộc loại nào. Thay cho dấu ngoặc ( ), hãy đặt các dấu câu cần thiết. Giải thích cách chọn của bạn, nêu các phương án có thể. (Các câu trích từ truyện vừa «О́ттепель» (Băng tan) của I. Erenburg.)"
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Thay cho dấu hai chấm giữa các vế của câu ghép không liên từ CÓ THỂ dùng dấu gạch ngang khi vế mang ý nghĩa bổ ngữ đứng TRƯỚC vế chính: Ничего́ стра́шного не произошло́ — в э́том уверя́ли его́ все прису́тствующие (Chẳng có gì đáng sợ xảy ra cả — mọi người có mặt đều cam đoan với anh như vậy). (So sánh: Все прису́тствующие его́ уверя́ли: ничего́ стра́шного не произошло́.) Dấu gạch ngang cũng được dùng nếu trong câu đã có sẵn một dấu hai chấm."
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Dấu gạch ngang còn được dùng trong câu ghép không liên từ mang ý nghĩa định ngữ hoặc nguyên nhân, khi các vế khác nhau về cấu trúc, hoặc khi giữa chúng hiện diện hay ngầm hiểu một sự đối lập: В тот день он не пришёл на рабо́ту — температу́ра у́тром была́ под со́рок (Hôm đó anh không đến chỗ làm — sáng ra nhiệt độ người anh đã lên gần bốn mươi độ)."
+    },
+    {
+     "t": "para",
+     "text": "1. Мари́я Ильи́нишна волнова́лась () очки́ сполза́ли на ко́нчик но́са, а седы́е кудря́шки подпры́гивали (Maria Ilinishna hồi hộp () cặp kính trễ xuống chóp mũi, còn những lọn tóc xoăn bạc thì nhấp nhổm); 2. Спать не сто́ит () ско́ро на заво́д (Không nên ngủ nữa () sắp đến giờ tới nhà máy rồi); 3. В клу́бе бы́ло полно́ наро́ду () лю́ди стоя́ли в прохо́дах, во́зле двере́й (Trong câu lạc bộ chật kín người () người đứng cả ở lối đi, cạnh cửa ra vào); 4. Дми́трий Серге́евич говори́л жи́во () его́ слу́шали (Dmitry Sergeevich nói chuyện sinh động () mọi người chăm chú nghe ông); 5. Короте́ев сел на своё ме́сто и сму́тно поду́мал () начина́ется грипп. Глу́по тепе́рь расхвора́ться () на мне прое́кт Брайнина́ (Koroteev ngồi xuống chỗ mình và mơ hồ nghĩ () mình chớm cúm rồi. Đổ bệnh lúc này thì dại quá () đồ án của Brainin đang trên vai mình); 6. Ка́тю он знал по рабо́те () э́то была́ весёлая де́вушка, белёсая, безбро́вая, с выраже́нием како́го-то непреста́нного восхище́ния жи́знью (Katya thì anh biết qua công việc () đó là một cô gái vui tính, tóc nhạt màu, lông mày thưa gần như không có, với vẻ mặt lúc nào cũng như đang say mê cuộc sống không thôi); 7. Тогда́ он ча́сто быва́л у Журавлёва, хотя́ в душе́ его́ недолю́бливал () счита́л чересчу́р благоду́шным (Dạo ấy anh hay đến nhà Zhuravlyov, dù trong thâm tâm không ưa ông ta () cho rằng ông ta xuề xoà dễ dãi quá mức); 8. Мете́ль не унима́лась () снег слепи́л, глуши́л (Bão tuyết không chịu dứt () tuyết làm loá mắt, ù tai); 9. В пять часо́в утра́ он с удовлетворе́нием сказа́л себе́ () мо́жно с попра́вками рекомендова́ть прое́кт Брайнина́ (Năm giờ sáng, anh hài lòng tự nhủ () có thể đề nghị thông qua đồ án của Brainin kèm một số chỉnh sửa); 10. Ива́н Васи́льевич взял газе́ту () у́тром он не успе́л её прочита́ть (Ivan Vasilievich cầm tờ báo lên () sáng nay ông chưa kịp đọc nó); 11. Её тяну́ло тепе́рь к лю́дям, облада́вшим жи́зненным о́пытом, и она́ сама́ над собо́й подтру́нивала () учи́тельница, а всё ещё хочу́, что́бы кто́-нибудь меня́ научи́л! (Giờ đây chị thấy mình bị cuốn về phía những người từng trải, và chị tự giễu mình () mình là cô giáo mà vẫn cứ muốn có ai đó dạy bảo mình!); 12. До чего́ си́льно то́пят () дыша́ть не́чем! (Người ta đốt lò nóng quá thể () không sao thở nổi!); 13. На чита́тельскую конфере́нцию она́ пошла́ неохо́тно () ску́чно () бу́дут чита́ть по бума́жке, цити́ровать газе́тные статьи́, переска́зывать содержа́ние кни́ги (Chị miễn cưỡng đi dự hội nghị bạn đọc () chán lắm () người ta sẽ đọc theo giấy, trích dẫn các bài báo, kể lại nội dung cuốn sách); 14. Бы́ли у него́ неприя́тности по рабо́те () три го́да наза́д все говори́ли, что его́ сни́мут, он два́жды е́здил в Москву́ () обошло́сь (Ông cũng từng gặp chuyện phiền phức trong công việc () ba năm trước ai cũng bảo ông sắp bị cách chức, ông hai lần phải lên Moskva () rồi mọi chuyện cũng êm); 15. Он лю́бит её, лю́бит до́чку () э́то Ле́на зна́ет (Anh ấy yêu chị, yêu con gái () điều đó Lena biết rõ); 16. Одна́жды в сбо́рочном це́хе начался́ пожа́р. Ива́н Васи́льевич показа́л себя́ с лу́чшей стороны́ () не растеря́лся, де́йствовал уме́ло, так что с огнём бы́стро спра́вились (Một lần ở phân xưởng lắp ráp xảy ra hoả hoạn. Ivan Vasilievich đã thể hiện mình từ phía tốt đẹp nhất () không hề luống cuống, xử trí khéo léo, nhờ thế đám cháy nhanh chóng được dập tắt); 17. Ле́на хоте́ла привезти́ из го́рода де́тского врача́ Филимо́нова () оказа́лось, что он бо́лен (Lena định đón bác sĩ nhi Filimonov từ thành phố về () hoá ra ông ấy lại đang ốm); 18. Вдруг Короте́ев останови́лся () никого́ круго́м не́ было, а он припо́днял бро́ви и засмея́лся () вспо́мнил своё выступле́ние на чита́тельской конфере́нции (Bỗng Koroteev dừng bước () quanh đó chẳng có ai, vậy mà anh nhướng mày bật cười () anh nhớ lại bài phát biểu của mình ở hội nghị bạn đọc); 19. Он заста́вил себя́ поду́мать о просто́м, я́сном () за́втра ну́жно пойти́ к ма́тери Серёжи. Поня́тно, что ей тру́дно () машини́стка, наве́рно, получа́ет непо́лных шестьсо́т. Но у Серёжи ре́дкие спосо́бности к матема́тике () нельзя́ его́ взять из шко́лы. Я говори́л с На́дей () мы смо́жем немно́го им помога́ть (Anh buộc mình nghĩ về những điều giản dị, rõ ràng () mai phải đến nhà mẹ Seryozha. Dễ hiểu là bà ấy đang chật vật () nhân viên đánh máy chắc chỉ lĩnh chưa đầy sáu trăm. Nhưng Seryozha có năng khiếu toán hiếm thấy () không thể cho cậu bé thôi học. Mình đã nói chuyện với Nadya () hai người có thể giúp đỡ họ chút ít); 20. Ле́на усну́ла то́лько под у́тро и просну́лась по́здно () воскресе́нье. Она́ сра́зу поду́мала () ну́жно сего́дня обяза́тельно ему́ сказа́ть всё () нельзя́ скрыва́ть () э́то нече́стно (Lena gần sáng mới chợp mắt và tỉnh dậy thì đã muộn () chủ nhật mà. Chị nghĩ ngay () hôm nay nhất định phải nói hết với anh ấy () không thể giấu giếm () như thế là không trung thực); 21. Сно́ва позвони́ли () на э́тот раз пришёл Соколо́вский (Lại có tiếng chuông () lần này là Sokolovsky đến); 22. Пра́вда, това́рищи счита́ли его́ уда́чником () всё у него́ получа́лось () за два го́да он обрёл всео́бщее призна́ние (Quả thật, đồng nghiệp coi anh là người gặp thời () việc gì anh làm cũng xuôi () chỉ trong hai năm anh đã được mọi người công nhận); 23. Тепе́рь она́ уже́ не серди́лась на Короте́ева, говори́ла себе́ () он прав. Не всё ли равно́, каку́ю фо́рму он вы́брал () он до́лжен был че́стно меня́ предостере́чь (Giờ chị không còn giận Koroteev nữa, chị tự nhủ () anh ấy đúng. Anh ấy chọn hình thức nào thì có khác gì nhau () anh ấy có bổn phận thẳng thắn cảnh báo mình); 24. Он мрачне́л, загля́дывая в сыры́е, тёмные доми́шки, где юти́лись рабо́чие, вспомина́л своё де́тство () он был ро́дом из бе́дного села́ Калу́жской о́бласти (Anh sa sầm mặt khi nhìn vào những căn nhà nhỏ ẩm thấp, tối tăm nơi công nhân chen chúc, và nhớ lại tuổi thơ của mình () anh vốn quê ở một làng nghèo tỉnh Kaluga) (И. Эренбу́рг. «О́ттепель»)."
+    }
+   ]
+  },
+  {
+   "id": "gra-36-s007",
+   "type": "exercise",
+   "title": "Упражнение 477",
+   "num": 477,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Sử dụng các câu ghép không liên từ, hãy viết một câu chuyện về bản thân bạn hoặc về điều mà bạn thấy thú vị. Lưu ý rằng các cấu trúc không liên từ thường gặp nhất trong khẩu ngữ."
+    },
+    {
+     "t": "note",
+     "text": "Bài tự luận — không có đáp án trong sách. Hãy vận dụng các kiểu quan hệ ý nghĩa (giải thích, nguyên nhân, kết quả, thời gian, điều kiện…) và quy tắc dấu câu (hai chấm/gạch ngang) đã học ở các bài 472–476."
+    }
+   ]
+  }
+ ]
+}

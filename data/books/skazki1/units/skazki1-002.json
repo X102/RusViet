@@ -1,0 +1,171 @@
+{
+ "id": "skazki1-002",
+ "num": 2,
+ "title": "За лапоток — курочку, за курочку — гусочку — Đổi giày cỏ lấy gà, đổi gà lấy ngỗng",
+ "vi": "За лапоток — курочку, за курочку — гусочку — Đổi giày cỏ lấy gà, đổi gà lấy ngỗng",
+ "ru": "За лапоток — курочку, за курочку — гусочку",
+ "icon": "🦊",
+ "color": "#d97706",
+ "sectionPrefix": "skazki1-002-s",
+ "group": "Truyện № 1–30",
+ "sections": [
+  {
+   "id": "skazki1-002-s001",
+   "type": "story",
+   "num": 8,
+   "title": "№ 8 · За лапоток — курочку, за курочку — гусочку — Đổi giày cỏ lấy gà, đổi gà lấy ngỗng",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Truyện loài vật kiểu «đổi chác leo thang»: cáo dùng mưu lừa, đổi một vật bé tí lấy vật to dần — giày cỏ → gà mái → ngỗng → cừu non → bê — rồi chính trò gian lại bị lòng tham của gấu và sói phá hỏng. Một trong những cốt truyện về cáo nổi tiếng nhất do Afanasyev sưu tầm."
+    },
+    {
+     "t": "para",
+     "text": "Шла лиса по дорожке и нашла ла́поток, пришла к мужику и просится: «Хозяин, пусти меня ночевать». (Cáo ta đi trên đường thì nhặt được một chiếc giày cỏ, bèn tìm đến nhà một bác nông dân mà xin: «Bác chủ ơi, cho tôi ngủ nhờ một đêm với».)"
+    },
+    {
+     "t": "para",
+     "text": "Он говорит: «Некуда, лисонька! Тесно!» — «Да много ли нужно мне места! Я сама на лавку, а хвост под лавку». (Bác nông dân bảo: «Chẳng còn chỗ đâu, cáo ơi! Chật lắm!» — «Tôi thì cần bao nhiêu chỗ cho cam! Mình tôi nằm trên ghế dài, còn đuôi thì thò xuống gầm ghế».)"
+    },
+    {
+     "t": "para",
+     "text": "Пустили ее ночевать; она и говорит: «Положите мой ла́поток к вашим курочкам». (Người ta cho cáo ngủ nhờ; nó liền nói: «Cho tôi gửi chiếc giày cỏ vào chỗ đàn gà mái của nhà bác nhé».)"
+    },
+    {
+     "t": "para",
+     "text": "Положили, а лисонька ночью встала и забросила свой лапоть. (Họ đặt giày vào đó, nhưng đến đêm cáo lẻn dậy, ném quách chiếc giày của mình đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Поутру встают, она и спрашивает свой лапоть, а хозяева говорят: «Лисонька, ведь он пропал!» — «Ну, отдайте мне за него курочку». (Sáng ra mọi người thức dậy, cáo đòi chiếc giày, chủ nhà bảo: «Cáo ơi, giày mất rồi còn đâu!» — «Thế thì đền cho tôi một con gà mái vậy».)"
+    },
+    {
+     "t": "para",
+     "text": "Взяла курочку, приходит в другой дом и просит, чтоб ее курочку посадили к хозяйским гуськам. (Cáo bắt con gà mái, đến một nhà khác, xin cho gửi con gà mái của mình vào chung với đàn ngỗng nhà chủ.)"
+    },
+    {
+     "t": "para",
+     "text": "Ночью лиса припрятала курочку и получила за нее утром гуська. (Đêm đến, cáo giấu biến con gà mái đi, để sáng hôm sau đòi đền cho một con ngỗng.)"
+    },
+    {
+     "t": "para",
+     "text": "Приходит в новый дом, просится ночевать и говорит, чтоб ее гуська посадили к барашкам; опять схитрила, взяла за гуська барашка и пошла еще в один дом. (Nó lại đến một nhà mới, xin ngủ nhờ và bảo cho gửi con ngỗng của mình vào chỗ đàn cừu; rồi cũng giở mánh cũ, đổi con ngỗng lấy một con cừu non, đoạn lại đi đến một nhà nữa.)"
+    },
+    {
+     "t": "para",
+     "text": "Осталась ночевать и просит посадить ее барашка к хозяйским бычкам. (Cáo ở lại ngủ nhờ, xin cho gửi con cừu non của mình vào chung với đàn bê nhà chủ.)"
+    },
+    {
+     "t": "para",
+     "text": "Ночью лисонька украла и барашка, а поутру требует, чтобы за него отдали ей бычка. (Ban đêm cáo lại đánh cắp luôn con cừu non, sáng ra đòi nhà chủ phải đền cho một con bê.)"
+    },
+    {
+     "t": "para",
+     "text": "Всех — и курочку, и гуська, и барашка, и бычка — она передушила, мясо припрятала, а шкуру бычка набила соломой и поставила на дороге. (Tất cả — nào gà mái, nào ngỗng, nào cừu non, nào bê — cáo bóp cổ giết sạch, giấu thịt đi, riêng tấm da bê thì nhồi đầy rơm rồi dựng đứng giữa đường.)"
+    },
+    {
+     "t": "para",
+     "text": "Идет медведь с волком, а лиса говорит: «Подите, украдьте сани да поедемте кататься». (Gấu và sói đi tới, cáo bèn nói: «Hai anh đi lấy trộm cái xe trượt rồi ta cùng đi dạo một vòng».)"
+    },
+    {
+     "t": "para",
+     "text": "Вот они украли и сани и хомут, впрягли бычка, сели все в сани; лиса стала править и кричит: «Шню, шню, бычок, соломенный бочок! Сани чужие, хомут не свой, погоняй — не стой!» (Thế là chúng lấy trộm cả xe trượt lẫn bộ ách, thắng con bê vào, tất cả cùng ngồi lên xe; cáo cầm cương điều khiển, miệng hô: «Đi nào, đi nào, bê ơi, sườn rơm hỡi! Xe của người, ách chẳng của ta, cứ đi đi — đừng đứng lại!»)"
+    },
+    {
+     "t": "para",
+     "text": "Бычок нейдет. (Nhưng con bê chẳng nhúc nhích.)"
+    },
+    {
+     "t": "para",
+     "text": "Она выпрыгнула из саней и закричала: «Оставайтесь, дураки!», а сама ушла. (Cáo nhảy phắt khỏi xe, kêu lớn: «Ở lại đó nhé, lũ ngốc!», rồi chuồn mất.)"
+    },
+    {
+     "t": "para",
+     "text": "Медведь с волком обрадовались добыче и ну рвать бычка; рвали-рвали, видят, что одна шкура да солома, покачали головами и разошлись по домам. (Gấu với sói mừng rỡ vì có miếng mồi, liền xúm vào xé con bê; xé mãi xé hoài, mới hay chỉ có mỗi tấm da với rơm, đành lắc đầu, ai về nhà nấy.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "лапоть",
+     "vi": "giày bện bằng vỏ cây — giày cỏ của nông dân Nga",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "лисонька",
+     "vi": "cáo ơi (cách gọi âu yếm của «лиса»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "лавка",
+     "vi": "ghế dài kê sát tường trong nhà gỗ Nga",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "поутру",
+     "vi": "vào sáng sớm (từ cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "припрятать",
+     "vi": "giấu kĩ đi",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "гуська",
+     "vi": "con ngỗng (dạng thân mật của «гусь»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "барашек",
+     "vi": "con cừu non",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "бычок",
+     "vi": "con bê, bò đực non",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "передушить",
+     "vi": "bóp cổ giết sạch (cả lũ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "хомут",
+     "vi": "bộ ách — vòng cổ thắng bò/ngựa vào xe",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "сани",
+     "vi": "xe trượt (tuyết)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "нейдёт",
+     "vi": "không chịu đi (cổ = «не идёт»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "добыча",
+     "vi": "con mồi, chiến lợi phẩm",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

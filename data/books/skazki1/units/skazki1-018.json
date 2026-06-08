@@ -1,0 +1,127 @@
+{
+ "id": "skazki1-018",
+ "num": 18,
+ "title": "Лиса и рак — Cáo và tôm",
+ "vi": "Лиса и рак — Cáo và tôm",
+ "ru": "Лиса и рак",
+ "icon": "🦞",
+ "color": "#0d9488",
+ "sectionPrefix": "skazki1-018-s",
+ "group": "Truyện № 31–60",
+ "sections": [
+  {
+   "id": "skazki1-018-s001",
+   "type": "story",
+   "num": 35,
+   "title": "№ 35 · Лиса и рак — Cáo và tôm",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Truyện loài vật cực ngắn theo mô-típ «cuộc đua thắng bằng mẹo» (ATU 275): con tôm bám chặt đuôi cáo để cáo tự mang mình tới đích — họ hàng gần với chuyện Rùa và Thỏ. Đây là một trong những bản «đua tài» cổ xưa nhất của kho truyện Nga."
+    },
+    {
+     "t": "para",
+     "text": "Лиса и рак стоят вместе и говорят промеж себя. (Cáo và tôm đứng cạnh nhau, rì rầm trò chuyện với nhau.)"
+    },
+    {
+     "t": "para",
+     "text": "Лиса говорит раку: «Давай с тобой перегоняться». (Cáo bảo tôm: «Nào, ta với mày thử chạy đua xem sao».)"
+    },
+    {
+     "t": "para",
+     "text": "Рак: «Что ж, лиса, ну давай!» (Tôm đáp: «Được thôi, chị cáo, thì đua!»)"
+    },
+    {
+     "t": "para",
+     "text": "Зачали перегоняться. (Thế là hai bên bắt đầu đua.)"
+    },
+    {
+     "t": "para",
+     "text": "Лишь лиса побегла, рак уцепился лисе за хвост. (Cáo vừa cất chân chạy, tôm liền bám chặt ngay lấy đuôi cáo.)"
+    },
+    {
+     "t": "para",
+     "text": "Лиса до места добегла, а рак не отцепляется. (Cáo chạy tới đích rồi mà tôm vẫn chẳng chịu buông ra.)"
+    },
+    {
+     "t": "para",
+     "text": "Лиса обернулась посмотреть, вернула хвостом, рак отцепился и говорит: (Cáo ngoái đầu nhìn lại, ngoe nguẩy cái đuôi; tôm liền buông ra, nói:)"
+    },
+    {
+     "t": "para",
+     "text": "«А я давно уж жду тебя тут». («Ơ, tôi đợi chị ở đây lâu lắm rồi đấy!»)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "рак",
+     "vi": "con tôm càng nước ngọt (loài giáp xác có càng, crayfish)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "промеж (себя)",
+     "vi": "giữa nhau, với nhau (khẩu ngữ cổ = между)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "перегоняться",
+     "vi": "thi chạy đua, đua xem ai nhanh hơn",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "зачать (зачали)",
+     "vi": "bắt đầu (từ cổ = начать)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "побежать (побегла)",
+     "vi": "chạy đi (побегла = dạng cổ/phương ngữ của побежала)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "уцепиться",
+     "vi": "bám chặt, níu lấy",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "добежать (добегла)",
+     "vi": "chạy tới nơi (добегла = dạng cổ của добежала)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "отцепиться",
+     "vi": "buông ra, nhả ra, gỡ móc ra",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "обернуться",
+     "vi": "ngoảnh/ngoái đầu lại nhìn",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "вернуть хвостом",
+     "vi": "vẩy/ngoe nguẩy cái đuôi (ở đây từ вернуть mang nghĩa cổ: quay, vung)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "давно уж",
+     "vi": "đã từ lâu rồi",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

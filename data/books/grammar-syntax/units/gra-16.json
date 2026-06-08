@@ -1,0 +1,233 @@
+{
+  "id": "gra-16",
+  "num": 16,
+  "title": "Động từ nguyên thể làm chủ ngữ và vị ngữ",
+  "vi": "Động từ nguyên thể làm chủ ngữ và vị ngữ",
+  "ru": "Инфинитив в позиции подлежащего и сказуемого",
+  "icon": "♾️",
+  "color": "#0891b2",
+  "sectionPrefix": "gra-16-s",
+  "group": "Раздел 2 · Câu đơn (Простое предложение)",
+  "sections": [
+    {
+      "id": "gra-16-s001",
+      "type": "grammar",
+      "title": "ĐỘNG TỪ NGUYÊN THỂ (инфинитив) ở vị trí chủ ngữ và vị ngữ — Lý thuyết",
+      "num": null,
+      "blocks": [
+        {
+          "t": "subhead",
+          "text": "1. Động từ nguyên thể ở vị trí CHỦ NGỮ được dùng:"
+        },
+        {
+          "t": "para",
+          "text": "а) khi vị ngữ là danh từ mang nghĩa đánh giá: сча́стье (hạnh phúc), го́ре (nỗi bất hạnh), ра́дость (niềm vui), глу́пость (sự dại dột) hoặc các từ цель (mục đích), обя́занность (nghĩa vụ), зада́ча (nhiệm vụ), долг (bổn phận) v.v.: Ви́деть вас — удово́льствие (Được gặp ngài là một niềm vui thích); Найти́ себя́ в жи́зни — сча́стье (Tìm được chính mình trong cuộc sống là hạnh phúc); Отказа́ться от пое́здки — больша́я глу́пость (Từ bỏ chuyến đi là điều hết sức dại dột); Помога́ть больны́м — обя́занность врача́ (Giúp đỡ người bệnh là nghĩa vụ của thầy thuốc);"
+        },
+        {
+          "t": "para",
+          "text": "б) khi vị ngữ là trạng từ: Поступа́ть так некраси́во (Hành xử như vậy là không đẹp); Спо́рить по любо́му по́воду глу́по (Chuyện gì cũng cãi là dại dột); Ду́мать так наи́вно (Nghĩ như thế là ngây thơ); Переходи́ть у́лицу в неполо́женном ме́сте опа́сно (Qua đường không đúng nơi quy định là nguy hiểm)."
+        },
+        {
+          "t": "subhead",
+          "text": "2. Động từ nguyên thể ở vị trí VỊ NGỮ được dùng:"
+        },
+        {
+          "t": "para",
+          "text": "khi chủ ngữ là danh từ mang nghĩa trừu tượng (рабо́та — công việc, цель — mục đích, спо́соб — cách thức, иде́я — ý tưởng) hoặc tính từ dùng như danh từ: Зада́ча учи́теля — научи́ть ученика́ ду́мать самостоя́тельно (Nhiệm vụ của người thầy là dạy học trò biết suy nghĩ độc lập); Основна́я иде́я — объедини́ть на́ши уси́лия (Ý tưởng cơ bản là hợp nhất nỗ lực của chúng ta); Их обя́занность — учи́ться (Nghĩa vụ của họ là học tập); Гла́вное — сохрани́ть люде́й (Điều quan trọng nhất là giữ được con người)."
+        },
+        {
+          "t": "subhead",
+          "text": "3. Động từ nguyên thể đồng thời ở vị trí CHỦ NGỮ và VỊ NGỮ được dùng:"
+        },
+        {
+          "t": "para",
+          "text": "а) trong các cấu trúc với hệ từ э́то, э́то (и) есть, (э́то) зна́чит, э́то ещё не зна́чит, (э́то) называ́ется, (э́то) означа́ет, (э́то) всё равно́ что v.v.: Реши́ть зада́чу — э́то найти́ пра́вильный отве́т (Giải bài toán tức là tìm ra đáp án đúng); Поня́ть — зна́чит прости́ть (Hiểu nghĩa là tha thứ); Не отве́тить на письмо́ — всё равно́ что не пожа́ть протя́нутую ру́ку (Không trả lời thư cũng chẳng khác gì không bắt bàn tay người ta chìa ra);"
+        },
+        {
+          "t": "para",
+          "text": "б) trong tục ngữ: Лома́ть — не стро́ить (Phá bao giờ cũng dễ hơn xây); Говори́ть пра́вду — потеря́ть дру́жбу (Nói thật mất lòng, nói thật là mất tình bạn); Жизнь прожи́ть — не по́ле перейти́ (Sống hết một đời người đâu phải như đi qua cánh đồng); Чай пить — не дрова́ руби́ть (Uống trà đâu phải bổ củi — việc nhẹ nhàng dễ chịu)."
+        }
+      ]
+    },
+    {
+      "id": "gra-16-s002",
+      "type": "exercise",
+      "title": "Упражнение 242",
+      "num": 242,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "Hãy đọc các câu sau. Chú ý các cấu trúc có động từ nguyên thể ở vị trí chủ ngữ và vị ngữ (xem phần lý thuyết ở trên)."
+        },
+        {
+          "t": "para",
+          "text": "1. Ви́деть вас — удово́льствие (Được gặp ngài là một niềm vui thích); 2. Найти́ себя́ в жи́зни — сча́стье (Tìm được chính mình trong cuộc sống là hạnh phúc); 3. Отказа́ться от пое́здки — больша́я глу́пость (Từ bỏ chuyến đi là điều hết sức dại dột); 4. Помога́ть больны́м — обя́занность врача́ (Giúp đỡ người bệnh là nghĩa vụ của thầy thuốc); 5. Спо́рить по любо́му по́воду глу́по (Chuyện gì cũng cãi là dại dột); 6. Переходи́ть у́лицу в неполо́женном ме́сте опа́сно (Qua đường không đúng nơi quy định là nguy hiểm); 7. Зада́ча учи́теля — научи́ть ученика́ ду́мать самостоя́тельно (Nhiệm vụ của người thầy là dạy học trò biết suy nghĩ độc lập); 8. Основна́я иде́я — объедини́ть на́ши уси́лия (Ý tưởng cơ bản là hợp nhất nỗ lực của chúng ta); 9. Реши́ть зада́чу — э́то найти́ пра́вильный отве́т (Giải bài toán tức là tìm ra đáp án đúng); 10. Поня́ть — зна́чит прости́ть (Hiểu nghĩa là tha thứ); 11. Не отве́тить на письмо́ — всё равно́ что не пожа́ть протя́нутую ру́ку (Không trả lời thư cũng chẳng khác gì không bắt bàn tay người ta chìa ra); 12. Жизнь прожи́ть — не по́ле перейти́ (Sống hết một đời người đâu phải như đi qua cánh đồng)."
+        }
+      ]
+    },
+    {
+      "id": "gra-16-s003",
+      "type": "exercise",
+      "title": "Упражнение 243",
+      "num": 243,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "Hoàn thành các câu, dùng danh từ hoặc trạng từ cho trong ngoặc. Giải thích cách chọn của bạn, nêu các phương án có thể."
+        },
+        {
+          "t": "note",
+          "text": "Khi chủ ngữ là động từ nguyên thể: 1) trạng từ ở vị trí vị ngữ đặc trưng cho HÀNH ĐỘNG của nguyên thể (đánh giá từ bên ngoài): Спо́рить глу́по (Tranh cãi là dại dột — nói chung tranh cãi là dại); 2) danh từ-vị ngữ đặc trưng cho CHỦ THỂ hoặc thái độ của chủ thể với hành động ấy (đánh giá từ bên trong): Ви́деть вас — удово́льствие (Được gặp ngài là một niềm vui thích — đối với tôi, người được gặp)."
+        },
+        {
+          "t": "note",
+          "text": "Trong nhiều trường hợp trạng từ và danh từ có thể dùng như từ đồng nghĩa: Ду́мать так престу́пно (преступле́ние) (Nghĩ như vậy là tội lỗi / là một tội ác)."
+        },
+        {
+          "t": "note",
+          "text": "Nếu vị ngữ biểu thị phẩm chất bên trong của chủ thể thì ở vị trí vị thể CHỈ dùng danh từ: Ду́мать так — тру́сость (Nghĩ thế là hèn nhát). Nếu nghĩa của vị ngữ gắn với đánh giá bên ngoài thì dùng trạng từ: Поступа́ть так риско́ванно (Làm như vậy là mạo hiểm)."
+        },
+        {
+          "t": "para",
+          "text": "1. Оставля́ть дете́й без присмо́тра (опа́сно, опа́сность) (Để trẻ nhỏ không ai trông nom — nguy hiểm / mối nguy); 2. Дозвони́ться туда́ (тру́дно, пробле́ма) (Gọi điện được đến đó — khó / cả một vấn đề); 3. Сле́довать зако́ну (обяза́тельно для ка́ждого граждани́на, обя́занность ка́ждого граждани́на) (Tuân theo pháp luật — bắt buộc đối với mỗi công dân / nghĩa vụ của mỗi công dân); 4. Ходи́ть в ку́ртке (удо́бно, удо́бство) (Mặc áo khoác đi lại — tiện / sự tiện lợi); 5. Уме́ть объясни́ть сло́жные ве́щи просты́ми слова́ми (ре́дко, ре́дкий дар) (Biết giải thích những điều phức tạp bằng lời lẽ giản dị — hiếm thấy / một tài năng hiếm có); 6. Ревнова́ть (смешно́, смех) (Ghen tuông — nực cười / trò cười); 7. Посади́ть престу́пника в тюрьму́ (справедли́во, справедли́вость) (Bỏ tù kẻ phạm tội — công bằng / lẽ công bằng); 8. Обижа́ть ребёнка (грешно́, грех) (Ức hiếp trẻ con — là có tội / tội lỗi); 9. Потеря́ть рабо́ту (тяжело́, тя́жесть) (Mất việc — nặng nề / gánh nặng); 10. Име́ть свою́ то́чку зре́ния (похва́льно, похвала́) (Có chính kiến riêng — đáng khen / điều đáng khen); 11. Бро́сить дру́га в беде́ (малоду́шно, малоду́шие) (Bỏ mặc bạn trong cơn hoạn nạn — hèn nhát / sự hèn nhát); 12. Име́ть три маши́ны (роско́шно, ро́скошь) (Có ba chiếc ô tô — xa xỉ / sự xa xỉ); 13. Задава́ть таки́е вопро́сы (беста́ктно, беста́ктность) (Đặt những câu hỏi như thế — thiếu tế nhị / sự thiếu tế nhị); 14. Получи́ть э́ту награ́ду (че́стно, честь) (Nhận phần thưởng này — chính đáng / một vinh dự); 15. В его́ во́зрасте соверши́ть оши́бку (прости́тельно, проще́ние) (Ở tuổi cậu ấy mà phạm sai lầm — có thể tha thứ / đáng được tha thứ); 16. Говори́ть (легко́, лёгкость), де́лать (тру́дно, тру́дность) (Nói thì — dễ / cái dễ; làm thì — khó / cái khó); 17. Поднима́ться по ле́стнице ста́рому челове́ку (мучи́тельно, муче́ние) (Leo cầu thang đối với người già — cực nhọc / cả một cực hình); 18. Занима́ться спо́ртом (поле́зно, по́льза) (Chơi thể thao — có ích / điều bổ ích); 19. Потеря́ть ребёнка (го́рестно, го́ре) (Mất con — đau xót / nỗi đau khôn cùng); 20. Слу́шать его́ му́зыку (отли́чно, наслажде́ние) (Nghe nhạc của ông ấy — tuyệt vời / một sự hưởng thụ)."
+        },
+        {
+          "t": "note",
+          "text": "Câu hỏi thêm: Những câu nào bạn vừa lập KHÔNG thể dùng ở thì quá khứ? Hãy chuyển các câu còn lại sang thì quá khứ. Lưu ý: danh từ ở vị trí vị thể thường biểu thị ý nghĩa phi thời gian (không gắn với thì)."
+        }
+      ]
+    },
+    {
+      "id": "gra-16-s004",
+      "type": "exercise",
+      "title": "Упражнение 244",
+      "num": 244,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "Dựa theo mẫu, hãy đưa ra biến thể biểu cảm cho các câu ở bài 243. Chú ý: khi vị ngữ được đưa lên đầu câu, có thể dùng kèm đại từ chỉ định э́то."
+        },
+        {
+          "t": "model",
+          "text": "(Э́то) Бы́ло опа́сно — оставля́ть дете́й без присмо́тра ((Quả) là nguy hiểm — khi để trẻ nhỏ không ai trông nom)."
+        }
+      ]
+    },
+    {
+      "id": "gra-16-s005",
+      "type": "exercise",
+      "title": "Упражнение 245",
+      "num": 245,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "Dùng các danh từ dưới đây làm vị ngữ, hãy đặt câu với động từ nguyên thể làm chủ ngữ."
+        },
+        {
+          "t": "para",
+          "text": "Глу́пость (sự dại dột), стыд (nỗi xấu hổ), заблужде́ние (sự lầm lạc), го́ре (nỗi bất hạnh), ра́дость (niềm vui), сча́стье (hạnh phúc), оши́бка (sai lầm), мечта́ (ước mơ), уда́р (cú sốc)."
+        }
+      ]
+    },
+    {
+      "id": "gra-16-s006",
+      "type": "exercise",
+      "title": "Упражнение 246",
+      "num": 246,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "Hoàn thành các câu, dùng động từ nguyên thể làm chủ ngữ. Lưu ý: ở vị trí vị ngữ là các danh từ ngữ nghĩa trừu tượng mang ý nghĩa cần thiết, mong muốn, bổn phận hoặc đánh giá."
+        },
+        {
+          "t": "para",
+          "text": "1. ... — ва́ша пряма́я обя́занность (… — là nghĩa vụ trực tiếp của anh/chị); 2. ... — на́ша гла́вная зада́ча (… — là nhiệm vụ chính của chúng ta); 3. ... — наш при́нцип рабо́ты (… — là nguyên tắc làm việc của chúng tôi); 4. ... — их усло́вие заключе́ния догово́ра (… — là điều kiện ký hợp đồng của họ); 5. ... — долг ка́ждого челове́ка (… — là bổn phận của mỗi người); 6. ... — основна́я цель на́шей пое́здки (… — là mục đích chính chuyến đi của chúng tôi); 7. ... — деви́з на́шего предприя́тия (… — là khẩu hiệu của doanh nghiệp chúng tôi); 8. ... — привы́чное де́ло (… — là chuyện thường tình); 9. ... — моя́ мечта́ (… — là ước mơ của tôi); 10. ... — его́ судьба́ (… — là số phận của anh ấy); 11. ... — сло́жная вещь (… — là một việc phức tạp); 12. ... — дурна́я привы́чка (… — là một thói quen xấu); 13. ... — тяжёлый труд (… — là một công việc nặng nhọc)."
+        },
+        {
+          "t": "note",
+          "text": "Hãy tự đặt thêm vài câu có động từ nguyên thể ở vị trí chủ ngữ và danh từ trừu tượng ở vị trí vị ngữ."
+        }
+      ]
+    },
+    {
+      "id": "gra-16-s007",
+      "type": "exercise",
+      "title": "Упражнение 247",
+      "num": 247,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "Từ các cụm từ cho sẵn (mỗi mục gồm hai thành phần, ngăn cách bằng dấu /), hãy lập câu TRUNG HOÀ về sắc thái, chọn động từ nguyên thể hoặc danh từ làm chủ ngữ. Giải thích cách chọn của bạn."
+        },
+        {
+          "t": "note",
+          "text": "Trong câu kiểu «nguyên thể + danh từ», hành động của nguyên thể được nêu kèm ý nghĩa đánh giá chủ quan: Приня́ть от меня́ заявле́ние — ва́ша обя́занность (Nhận đơn của tôi là nghĩa vụ của anh — một trong các nghĩa vụ, không phải duy nhất)."
+        },
+        {
+          "t": "note",
+          "text": "Trong câu kiểu «danh từ + nguyên thể», nội dung cơ bản của danh từ-chủ ngữ được làm rõ: Обя́занность студе́нта — хорошо́ учи́ться (Nghĩa vụ của sinh viên là học cho giỏi — nghĩa vụ chính là ở chỗ học giỏi). Các biến thể khác (Учи́ться — основна́я обя́занность студе́нта; Ва́ша обя́занность — приня́ть от меня́ заявле́ние) dùng để diễn đạt các sắc thái biểu cảm."
+        },
+        {
+          "t": "para",
+          "text": "1) зада́ча абитурие́нта / поступи́ть в институ́т (nhiệm vụ của thí sinh / đỗ vào trường đại học); 2) ваш долг / заверши́ть э́ту рабо́ту во́время (bổn phận của anh / hoàn thành công việc này đúng hạn); 3) моё жела́ние / быть ря́дом с ва́ми (mong muốn của tôi / được ở bên các bạn); 4) основна́я иде́я прое́кта / консолиди́ровать рабо́ту учёных разли́чных областе́й зна́ний (ý tưởng cơ bản của dự án / liên kết công việc của các nhà khoa học thuộc nhiều lĩnh vực tri thức); 5) лу́чший спо́соб вы́яснить и́стину / сопоста́вить разли́чные то́чки зре́ния (cách tốt nhất để làm rõ chân lý / đối chiếu các quan điểm khác nhau); 6) цель учи́теля / приви́ть уча́щимся любо́вь к зна́ниям (mục đích của người thầy / gieo cho học sinh lòng yêu tri thức); 7) обя́занность прожива́ющих на ней гра́ждан / убира́ть террито́рию (nghĩa vụ của những công dân sinh sống trên khu đất / dọn dẹp vệ sinh khu đất); 8) цель диссертацио́нной рабо́ты / вы́явить наибо́лее перспекти́вные направле́ния для иссле́дований (mục đích của luận án / xác định những hướng nghiên cứu triển vọng nhất); 9) лу́чший спо́соб знако́мства / прояви́ть и́скренний интере́с к челове́ку (cách làm quen tốt nhất / bày tỏ sự quan tâm chân thành đến người đối diện); 10) зада́ча ближа́йшего бу́дущего / найти́ но́вые исто́чники эне́ргии (nhiệm vụ của tương lai gần / tìm ra các nguồn năng lượng mới); 11) методи́ческий при́нцип обуче́ния / возвраща́ться к про́йденному материа́лу (nguyên tắc phương pháp trong dạy học / quay lại ôn tài liệu đã học); 12) привлека́ть на свою́ сто́рону единомы́шленников / пе́рвый шаг на пути́ к успе́ху (thu hút những người cùng chí hướng về phía mình / bước đầu tiên trên con đường đến thành công); 13) зада́ча перегово́ров / найти́ ми́рные спо́собы урегули́рования конфли́кта (nhiệm vụ của cuộc đàm phán / tìm các biện pháp hoà bình giải quyết xung đột); 14) при́нцип, кото́рый заслу́живает уваже́ния / всегда́ остава́ться сами́м собо́й (một nguyên tắc đáng tôn trọng / luôn là chính mình); 15) иде́я уче́бного посо́бия / предста́вить уче́бный материа́л в логи́ческой после́довательности (ý tưởng của cuốn giáo trình / trình bày tài liệu học tập theo trình tự lôgic); 16) обя́занность секретаря́ ка́федры / обеспе́чивать техни́ческую сто́рону рабо́ты преподава́телей (nhiệm vụ của thư ký bộ môn / bảo đảm mặt kỹ thuật cho công việc của giảng viên); 17) вы́сшая сте́пень мастерства́ специали́ста / предви́деть возника́ющие в рабо́те тру́дности (trình độ tay nghề cao nhất của người chuyên gia / lường trước những khó khăn nảy sinh trong công việc)."
+        },
+        {
+          "t": "note",
+          "text": "Trong các câu đã lập, hãy thay (ở những chỗ có thể) chủ ngữ là danh từ bằng các từ гла́вное (điều chính), основно́е (điều cơ bản), са́мое тру́дное (điều khó nhất), са́мое лу́чшее (điều tốt nhất)."
+        }
+      ]
+    },
+    {
+      "id": "gra-16-s008",
+      "type": "exercise",
+      "title": "Упражнение 248",
+      "num": 248,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "Từ các cụm từ cho sẵn, hãy lập câu, dùng hệ từ phù hợp về nghĩa: э́то, (э́то) зна́чит, (э́то) ещё не зна́чит, (э́то) всё равно́ что, называ́ется, означа́ет. Giải thích cách chọn, nêu các phương án có thể."
+        },
+        {
+          "t": "note",
+          "text": "Khi chủ ngữ và vị ngữ đều là động từ nguyên thể, hệ từ э́то dùng khi ĐỒNG NHẤT các dấu hiệu: Ходи́ть бы́стро — э́то ходи́ть со ско́ростью шесть киломе́тров в час (Đi nhanh tức là đi với tốc độ sáu cây số một giờ) — có thể đảo trật tự: Ходи́ть со ско́ростью шесть киломе́тров в час — э́то ходи́ть бы́стро. Hệ từ всё равно́ что dùng khi SO SÁNH ẨN DỤ các dấu hiệu: Оби́деть живо́тное — всё равно́ что оби́деть ребёнка (Xúc phạm con vật cũng chẳng khác gì xúc phạm đứa trẻ). Hệ từ называ́ется trong khẩu ngữ biểu thị thái độ MỈA MAI đối với cách người khác đồng nhất các dấu hiệu: У них обменя́ться ко́лкостями называ́ется поговори́ть (Với họ, đốp chát nhau mấy câu cay độc thì gọi là «trò chuyện»)."
+        },
+        {
+          "t": "para",
+          "text": "1) печа́тать бы́стро / печа́тать со ско́ростью четы́ре зна́ка в секу́нду (đánh máy nhanh / đánh máy với tốc độ bốn ký tự một giây); 2) уха́живать за щенко́м / уха́живать за ребёнком (chăm sóc chó con / chăm sóc trẻ nhỏ); 3) у них вме́шиваться в дела́ други́х госуда́рств / защища́ть демокра́тию (với họ, can thiệp vào công việc của các quốc gia khác / bảo vệ dân chủ); 4) пло́хо ви́деть / име́ть зре́ние бо́льше и́ли ме́ньше едини́цы (nhìn kém / có thị lực trên hoặc dưới mức 1); 5) лиши́ть челове́ка после́дней наде́жды / лиши́ть его́ жи́зни (tước đi của con người niềm hy vọng cuối cùng / tước đi mạng sống của họ); 6) у них смотре́ть телеви́зор / отдыха́ть (với họ, xem tivi / nghỉ ngơi); 7) не поддержа́ть дру́га в тру́дный моме́нт / преда́ть его́ (không nâng đỡ bạn lúc khó khăn / phản bội bạn); 8) не наруша́ть пра́вила доро́жного движе́ния / е́хать со ско́ростью 60 киломе́тров в час (không vi phạm luật giao thông / chạy xe với tốc độ 60 km một giờ); 9) не чита́ть кни́ги / обкра́дывать самого́ себя́ (không đọc sách / tự đánh cắp của chính mình); 10) оди́н раз провести́ тря́пкой по по́лу / помы́ть его́ (đưa giẻ lau qua sàn một lượt / lau sạch sàn); 11) заже́чь авари́йные огни́ у маши́ны / сообщи́ть об опа́сности (bật đèn khẩn cấp của ô tô / báo hiệu nguy hiểm); 12) быть дальто́ником / не различа́ть кра́сный и зелёный цвета́ (bị mù màu / không phân biệt được màu đỏ và màu xanh lá); 13) занима́ться поли́тикой / ходи́ть по натя́нутой про́волоке (làm chính trị / đi trên dây căng); 14) в э́той семье́ крича́ть на ребёнка / воспи́тывать его́ (trong gia đình này, quát mắng đứa trẻ / giáo dục nó); 15) око́нчить оди́ннадцать кла́ссов / получи́ть сре́днее образова́ние (học xong lớp mười một / hoàn thành chương trình giáo dục phổ thông trung học)."
+        }
+      ]
+    },
+    {
+      "id": "gra-16-s009",
+      "type": "exercise",
+      "title": "Упражнение 249",
+      "num": 249,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "Dùng hệ từ phù hợp về nghĩa зна́чит, означа́ет, ещё не зна́чит, ещё не означа́ет và trật tự từ đúng, hãy lập câu từ các cụm từ cho sẵn. Giải thích cách chọn, nêu các phương án có thể."
+        },
+        {
+          "t": "note",
+          "text": "Trong câu có chủ ngữ và vị ngữ là động từ nguyên thể, зна́чит dùng khi nguyên thể thứ hai LÀM RÕ Ý NGHĨA của nguyên thể thứ nhất: Кивну́ть голово́й — зна́чит согласи́ться (Gật đầu nghĩa là đồng ý — nếu đã gật đầu tức là đồng ý). Không thể đảo trật tự từ, vì sự đồng ý còn có thể biểu thị bằng cách khác. Означа́ет dùng khi một trong hai hành động mang Ý NGHĨA NGHI THỨC: Обменя́ться ко́льцами на сва́дьбе означа́ет дать кля́тву в любви́ и ве́рности (Trao nhẫn cho nhau trong lễ cưới có nghĩa là thề nguyện yêu thương chung thuỷ)."
+        },
+        {
+          "t": "para",
+          "text": "1) быть терпели́вым / уме́ть мо́лча переноси́ть все тру́дности (kiên nhẫn / biết lặng lẽ chịu đựng mọi khó khăn); 2) сда́ться / вы́весить бе́лый флаг (đầu hàng / treo cờ trắng); 3) не опозда́ть ни на секу́нду / прийти́ во́время (không muộn lấy một giây / đến đúng giờ); 4) направля́ть / руководи́ть (định hướng / lãnh đạo); 5) учи́ться на «четы́ре» и «пять» / хорошо́ учи́ться (học toàn điểm «bốn» và «năm» / học giỏi); 6) бы́стро просмотре́ть уче́бник / подгото́вить дома́шнее зада́ние (xem lướt nhanh sách giáo khoa / chuẩn bị xong bài tập về nhà); 7) отказа́ться от всего́, во что ты ве́рил / согласи́ться на их усло́вия (từ bỏ tất cả những gì mình từng tin / chấp nhận các điều kiện của họ); 8) найти́ пробле́му / реши́ть её (tìm ra vấn đề / giải quyết được nó); 9) перенести́ перегово́ры / отказа́ться от них (hoãn cuộc đàm phán / từ bỏ đàm phán); 10) найти́ разу́мный компроми́сс / сда́ться (tìm được thoả hiệp hợp lý / đầu hàng); 11) застрахова́ть себя́ от неприя́тностей / три ра́за плю́нуть через ле́вое плечо́ (tự phòng thân khỏi những điều phiền toái / nhổ ba lần qua vai trái — tục kiêng của người Nga); 12) забо́титься / люби́ть (chăm lo / yêu thương); 13) быть бли́зким дру́гом / встреча́ться вре́мя от вре́мени (là bạn thân / thỉnh thoảng gặp nhau); 14) облегчи́ть боль / вы́лечить (làm dịu cơn đau / chữa khỏi bệnh); 15) согласи́ться / промолча́ть (đồng ý / im lặng); 16) люби́ть / ревнова́ть (yêu / ghen); 17) стать хоро́шим специали́стом / получи́ть дипло́м об оконча́нии уче́бного заведе́ния (trở thành chuyên gia giỏi / nhận tấm bằng tốt nghiệp); 18) подписа́ть догово́р / приня́ть на себя́ определённые обяза́тельства (ký hợp đồng / nhận về mình những nghĩa vụ nhất định); 19) два́дцать четы́ре часа́ в су́тки быть на виду́ у пу́блики / быть знамени́тым (suốt hai mươi tư giờ một ngày luôn trước mắt công chúng / nổi tiếng)."
+        }
+      ]
+    },
+    {
+      "id": "gra-16-s010",
+      "type": "exercise",
+      "title": "Упражнение 250",
+      "num": 250,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "Tìm trong các từ điển và chép vào vở vài câu tục ngữ có động từ nguyên thể ở vị trí chủ ngữ và vị ngữ."
+        }
+      ]
+    }
+  ]
+}

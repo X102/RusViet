@@ -1,0 +1,2435 @@
+{
+ "id": "doroga3-06",
+ "num": 6,
+ "title": "Урок 6 — Москва! Звонят колокола!",
+ "vi": "Moskva! Chuông ngân vang!",
+ "ru": "Урок 6 · Москва — звонят колокола! Москва — златые купола! (Глаголы движения с приставками II группы, переносные значения; пространственные отношения; Кремль, новая квартира)",
+ "icon": "🔔",
+ "color": "#b45309",
+ "sectionPrefix": "doroga3-06-s",
+ "group": "Дорога в Россию",
+ "sections": [
+  {
+   "id": "doroga3-06-s001",
+   "type": "grammar",
+   "title": "Урок 6 — Mở đầu «Москва! Звонят колокола!»",
+   "num": null,
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Đề từ của bài: «Москва́ — звоня́т колокола́! / Москва́ — златы́е купола́! / Москва́ — по зо́лоту ико́н / Прохо́дит ле́топись времён.» — «Moskva — chuông đang ngân vang! / Moskva — những mái vòm dát vàng! / Moskva — trên nền vàng của những bức tượng thánh / Biên niên sử thời gian lướt qua.»"
+    },
+    {
+     "t": "note",
+     "text": "«Я смотрю́ с Воробьёвых высо́т / На ночно́е созве́здие огне́й. / Пусть Москве́ уже́ за 800, / Мы вове́к не соста́римся с ней!» (Оле́г Газма́нов) — «Tôi ngắm nhìn từ đỉnh cao Vorobyovy / Chòm sao ánh đèn trong đêm. / Dẫu Moskva đã ngoài 800 tuổi, / Chúng ta sẽ chẳng bao giờ già đi cùng nàng!» (Oleg Gazmanov)"
+    },
+    {
+     "t": "subhead",
+     "text": "Тема (Chủ đề)"
+    },
+    {
+     "t": "para",
+     "text": "Го́род, городски́е достопримеча́тельности, жизнь в го́роде (продолже́ние). — Thành phố, danh lam thắng cảnh đô thị, cuộc sống trong thành phố (tiếp theo)."
+    },
+    {
+     "t": "subhead",
+     "text": "Грамматика (Ngữ pháp)"
+    },
+    {
+     "t": "para",
+     "text": "Глаго́лы движе́ния (продолже́ние): I. Сопоставле́ние ви́дов у глаго́лов движе́ния с приста́вками. II. Глаго́лы движе́ния с приста́вками (II гру́ппа). III. Перено́сные значе́ния глаго́лов движе́ния. — Động từ chuyển động (tiếp): I. So sánh thể của động từ chuyển động có tiền tố. II. Động từ chuyển động có tiền tố (nhóm II). III. Nghĩa bóng của động từ chuyển động."
+    },
+    {
+     "t": "para",
+     "text": "Выраже́ние простра́нственных отноше́ний в просто́м и сло́жном предложе́ниях. — Diễn đạt quan hệ không gian trong câu đơn và câu phức."
+    },
+    {
+     "t": "subhead",
+     "text": "Тексты (Bài đọc)"
+    },
+    {
+     "t": "para",
+     "text": "«Как попа́сть в теа́тр без биле́та» (Làm sao vào nhà hát không cần vé), «Моско́вский Кремль» (Điện Kremlin Moskva), «Но́вая кварти́ра» (Căn hộ mới), Чита́ем газе́ты и журна́лы (Đọc báo và tạp chí)."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s002",
+   "type": "exercise",
+   "title": "Поговорим — Задание 1 (Thành phố nơi người đối thoại đang sống)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Дава́йте поговори́м о го́роде, в кото́ром сейча́с живёт ваш собесе́дник. — Ta hãy nói về thành phố nơi người đối thoại của bạn đang sống. а) Вы хоти́те знать (Bạn muốn biết):"
+    },
+    {
+     "t": "para",
+     "text": "— Как называ́ется э́тот го́род? — Thành phố ấy tên là gì?"
+    },
+    {
+     "t": "para",
+     "text": "— Где нахо́дится э́тот го́род? — Thành phố ấy nằm ở đâu?"
+    },
+    {
+     "t": "para",
+     "text": "— Како́й э́то го́род? — Đó là thành phố như thế nào?"
+    },
+    {
+     "t": "para",
+     "text": "— Каково́ населе́ние э́того го́рода? — Dân số thành phố ấy là bao nhiêu?"
+    },
+    {
+     "t": "para",
+     "text": "— Где рабо́тают жи́тели э́того го́рода? — Cư dân thành phố ấy làm việc ở đâu?"
+    },
+    {
+     "t": "para",
+     "text": "— Где и как они́ отдыха́ют? — Họ nghỉ ngơi ở đâu và như thế nào?"
+    },
+    {
+     "t": "instruction",
+     "text": "б) Вы прослу́шали диало́г. Сообщи́те, что вы узна́ли о го́роде, где живёт оди́н из ва́ших собесе́дников. — Bạn đã nghe hội thoại. Hãy thuật lại những gì bạn biết được về thành phố nơi một trong những người đối thoại của bạn sinh sống."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s003",
+   "type": "exercise",
+   "title": "Поговорим — Задание 2 (Danh thắng của thành phố)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "а) Вы хоти́те знать (Bạn muốn biết):"
+    },
+    {
+     "t": "para",
+     "text": "— Каки́е достопримеча́тельности есть в го́роде, где живёт ваш собесе́дник? — Thành phố nơi người đối thoại sống có những danh thắng nào?"
+    },
+    {
+     "t": "para",
+     "text": "— Что мо́гут посмотре́ть тури́сты в э́том го́роде? — Du khách có thể xem gì ở thành phố ấy?"
+    },
+    {
+     "t": "para",
+     "text": "— Где уже́ был ваш собесе́дник? Что ви́дел? — Người đối thoại của bạn đã đến những đâu? Đã thấy gì?"
+    },
+    {
+     "t": "para",
+     "text": "— Где ещё он хоте́л бы побыва́ть? Что он хоте́л бы посмотре́ть? — Anh ấy còn muốn ghé thăm nơi nào nữa? Muốn xem gì?"
+    },
+    {
+     "t": "para",
+     "text": "— Что ему́ нра́вится в э́том го́роде? Что не нра́вится? — Anh ấy thích gì ở thành phố này? Không thích gì?"
+    },
+    {
+     "t": "instruction",
+     "text": "б) Вы прослу́шали диало́г. Сообщи́те, что вы узна́ли о го́роде, где живёт оди́н из ва́ших собесе́дников. — Hãy thuật lại những gì bạn biết được về thành phố của một trong hai người đối thoại."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s004",
+   "type": "exercise",
+   "title": "Поговорим — Задание 3 (Giới thiệu thành phố với du khách)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "а) Вы хоти́те знать (Bạn muốn biết):"
+    },
+    {
+     "t": "para",
+     "text": "— Каки́е достопримеча́тельности э́того го́рода он хоте́л бы показа́ть тури́стам? — Anh ấy muốn giới thiệu cho du khách những danh thắng nào của thành phố?"
+    },
+    {
+     "t": "para",
+     "text": "— Что он мог бы показа́ть тури́стам? — Anh ấy có thể cho du khách xem gì?"
+    },
+    {
+     "t": "para",
+     "text": "— Что он мог бы рассказа́ть тури́стам об исто́рии э́того го́рода? — Anh ấy có thể kể cho du khách điều gì về lịch sử thành phố?"
+    },
+    {
+     "t": "para",
+     "text": "— Каки́е нерешённые пробле́мы есть в э́том го́роде? — Thành phố còn những vấn đề nào chưa giải quyết?"
+    },
+    {
+     "t": "para",
+     "text": "— Как реша́ют и́ли хотя́т реши́ть э́ти пробле́мы? — Người ta đang giải quyết hoặc muốn giải quyết những vấn đề ấy ra sao?"
+    },
+    {
+     "t": "instruction",
+     "text": "б) Вы прослу́шали диало́г. Сообщи́те, что вы узна́ли о го́роде, где живёт оди́н из ва́ших собесе́дников. — Hãy thuật lại những gì bạn biết được về thành phố của một trong hai người đối thoại."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s005",
+   "type": "grammar",
+   "title": "Гр. I. Сопоставление видов у глаголов движения с приставками — Таблица 1 (So sánh thể của động từ chuyển động có tiền tố)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Посмотри́те табли́цу 1 и объясни́те ситуа́ции употребле́ния глаго́лов движе́ния НСВ и СВ с приста́вками. — Hãy xem bảng 1 và giải thích các tình huống dùng động từ chuyển động thể chưa hoàn thành (НСВ) và hoàn thành (СВ) có tiền tố."
+    },
+    {
+     "t": "table",
+     "title": "Таблица 1 (Bảng 1)",
+     "head": [
+      "глаго́лы НСВ (от глаго́лов ходи́ть, е́здить…) — động từ НСВ (từ ходить, ездить…)",
+      "глаго́лы СВ (от глаго́лов идти́, е́хать…) — động từ СВ (từ идти, ехать…)"
+     ],
+     "rows": [
+      [
+       "1. Вчера́ к нам приходи́л представи́тель экономи́ческого факульте́та и расска́зывал студе́нтам о своём факульте́те (= он был у нас, сейча́с его́ там нет). — Hôm qua đại diện khoa kinh tế ĐÃ ĐẾN chỗ chúng tôi kể về khoa mình (= ông ấy đã ở chỗ chúng tôi, giờ không còn ở đó nữa).",
+       "Сего́дня к нам пришёл дека́н географи́ческого факульте́та, сейча́с он разгова́ривает со студе́нтами (= он сейча́с у нас). — Hôm nay chủ nhiệm khoa địa lý ĐÃ ĐẾN chỗ chúng tôi, hiện ông đang trò chuyện với sinh viên (= ông hiện vẫn đang ở đây)."
+      ],
+      [
+       "Тури́сты приезжа́ли в Москву́ на неде́лю (= они́ бы́ли в Москве́, сейча́с их там нет, они́ в Петербу́рге). — Du khách ĐÃ ĐẾN Moskva một tuần (= họ từng ở Moskva, giờ không còn ở đó, họ đang ở Peterburg).",
+       "Тури́сты прие́хали в Москву́ и на́чали осма́тривать го́род (= они́ сейча́с в Москве́, на экску́рсии). — Du khách ĐÃ ĐẾN Moskva và bắt đầu tham quan thành phố (= họ hiện đang ở Moskva)."
+      ],
+      [
+       "2. Михаи́л подходи́л к до́му и иска́л ключи́ от свое́й кварти́ры. — Mikhail vừa tiến lại gần ngôi nhà vừa tìm chìa khoá căn hộ (quá trình).",
+       "Когда́ Михаи́л подошёл к своему́ до́му, он нашёл ключи́ от свое́й кварти́ры. — Khi Mikhail đến sát nhà, anh đã tìm thấy chìa khoá (kết quả)."
+      ],
+      [
+       "В кварти́ре был ремо́нт, и мы переноси́ли кни́ги из одно́й ко́мнаты в другу́ю. — Căn hộ đang sửa, chúng tôi (cứ) chuyển sách từ phòng này sang phòng khác (quá trình lặp lại).",
+       "Мы перенесли́ кни́ги, но не смогли́ перенести́ шкаф, он сли́шком тяжёлый. — Chúng tôi đã chuyển xong sách nhưng không chuyển nổi cái tủ, nó quá nặng (kết quả)."
+      ],
+      [
+       "3. Ка́ждый день Анто́н приходи́л на заня́тия в 10 часо́в утра́. — Ngày nào Anton cũng đến lớp lúc 10 giờ sáng (lặp lại).",
+       "Сего́дня Анто́н опозда́л, он пришёл на заня́тия в 10:30. — Hôm nay Anton muộn, anh đến lớp lúc 10:30 (một lần, kết quả)."
+      ],
+      [
+       "Лю́ди всегда́ переходи́ли у́лицу по пешехо́дному перехо́ду на зелёный свет. — Mọi người luôn băng qua đường ở vạch dành cho người đi bộ khi đèn xanh (lặp lại).",
+       "Серге́й нару́шил пра́вила и перешёл у́лицу на кра́сный свет светофо́ра. — Sergey vi phạm luật và băng qua đường khi đèn đỏ (một lần)."
+      ],
+      [
+       "Ле́том мы ча́сто приезжа́ли на мо́ре и жи́ли там 2–3 неде́ли. — Mùa hè chúng tôi thường về biển và sống ở đó 2–3 tuần (lặp lại).",
+       "Мы прие́хали на мо́ре и сра́зу побежа́ли купа́ться. — Chúng tôi đến biển và lập tức chạy đi tắm (một lần, kế tiếp hành động khác)."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Ghi nhớ: động từ chuyển động НSV có tiền tố ở thì quá khứ (приходи́л, приезжа́л…) thường chỉ (1) hành động «khứ hồi» — kết quả đã bị huỷ (đã đến rồi đi); (2) quá trình kéo dài; (3) hành động lặp lại. Động từ СВ (пришёл, прие́хал…) chỉ hành động một lần với kết quả còn hiệu lực tại thời điểm nói."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s006",
+   "type": "exercise",
+   "title": "Задание 1 (Tranh minh hoạ: НСВ hay СВ?)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Посмотри́те на рису́нки, прочита́йте по́дписи к ним. Объясни́те ситуа́ции употребле́ния глаго́лов движе́ния НСВ и СВ с приста́вками. — Hãy xem tranh, đọc chú thích và giải thích tình huống dùng động từ chuyển động НСВ và СВ có tiền tố."
+    },
+    {
+     "t": "para",
+     "text": "1. Когда́ тури́сты переходи́ли мост, они́ уви́дели ло́дку. — Khi đoàn du khách đang qua cầu, họ trông thấy một chiếc thuyền."
+    },
+    {
+     "t": "para",
+     "text": "2. Тури́сты перешли́ мост и вошли́ в лес. — Du khách đã qua cầu và đi vào rừng."
+    },
+    {
+     "t": "para",
+     "text": "3. В дождли́вую пого́ду, когда́ я выходи́л из до́ма, я всегда́ брал с собо́й зонт. — Vào những hôm mưa, mỗi khi ra khỏi nhà tôi luôn mang theo ô."
+    },
+    {
+     "t": "para",
+     "text": "4. Я вы́шел из до́ма и откры́л зонт. — Tôi ra khỏi nhà và giương ô lên."
+    },
+    {
+     "t": "para",
+     "text": "5. Когда́ я входи́л в кварти́ру, там бы́ло темно́. — (Mỗi) khi tôi bước vào căn hộ, trong nhà tối om."
+    },
+    {
+     "t": "para",
+     "text": "6. Я вошёл в кварти́ру и включи́л свет. — Tôi bước vào căn hộ và bật đèn."
+    },
+    {
+     "t": "para",
+     "text": "7. Мы проходи́ли че́рез парк и ви́дели там бе́лку. — Chúng tôi đi xuyên qua công viên và thấy ở đó một con sóc."
+    },
+    {
+     "t": "para",
+     "text": "8. Мы прошли́ че́рез парк, вы́шли на у́лицу и уви́дели зда́ние кинотеа́тра. — Chúng tôi băng qua công viên, ra phố và nhìn thấy toà nhà rạp chiếu phim."
+    },
+    {
+     "t": "para",
+     "text": "9. Когда́ ба́бушка приходи́ла к нам в го́сти, она́ всегда́ приноси́ла пода́рки. — Mỗi lần bà đến chơi nhà, bà luôn mang theo quà."
+    },
+    {
+     "t": "para",
+     "text": "10. У́тром к нам пришёл почтальо́н и принёс телегра́мму. — Sáng nay người đưa thư đã đến và mang theo một bức điện."
+    },
+    {
+     "t": "para",
+     "text": "11. Когда́ маши́на подъезжа́ла к Москве́, её останови́л милиционе́р. — Khi chiếc xe đang tiến gần Moskva, một cảnh sát đã chặn nó lại."
+    },
+    {
+     "t": "para",
+     "text": "12. Маши́на подъе́хала к магази́ну и останови́лась. — Chiếc xe chạy đến sát cửa hàng rồi dừng lại."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s007",
+   "type": "grammar",
+   "title": "Гр. II. Глаголы движения с приставками (II группа — ходить, ездить…) — Таблица 2",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Посмотри́те табли́цу 2. а) Прочита́йте приме́ры и скажи́те, в како́й ситуа́ции мо́жно употреби́ть э́ти глаго́лы с приста́вками. — Xem bảng 2. a) Đọc ví dụ và cho biết những động từ có tiền tố này dùng trong tình huống nào."
+    },
+    {
+     "t": "model",
+     "text": "Образе́ц: Анто́н пригласи́л госте́й: «Входи́те в дом, пожа́луйста, раздева́йтесь!» — Mẫu: Anton mời khách: «Mời vào nhà, xin cứ cởi áo khoác!»"
+    },
+    {
+     "t": "table",
+     "title": "Таблица 2. Значение и употребление глаголов движения с приставками (II группа) — Bảng 2. Ý nghĩa và cách dùng động từ chuyển động có tiền tố (nhóm II)",
+     "head": [
+      "Приста́вка (Tiền tố)",
+      "Глаго́лы II гру́ппы (НСВ)",
+      "Предло́ги (Giới từ)",
+      "Приме́ры (Ví dụ)"
+     ],
+     "rows": [
+      [
+       "в- (во-) — vào trong",
+       "входи́ть / въезжа́ть",
+       "в",
+       "Входи́те, пожа́луйста, в дом! (Mời vào nhà!) Въезжа́йте в гара́ж! (Cho xe vào gara!)"
+      ],
+      [
+       "вы- — ra khỏi",
+       "выходи́ть / выезжа́ть",
+       "из, на",
+       "Выхожу́ из до́ма ра́но у́тром. (Tôi ra khỏi nhà từ sáng sớm.) Выезжа́ем из до́ма в 9 часо́в. (9 giờ chúng tôi đánh xe khỏi nhà.) Маши́на выезжа́ла из гаража́. (Chiếc xe đang chạy ra khỏi gara.)"
+      ],
+      [
+       "при- — đến nơi",
+       "приходи́ть / приезжа́ть",
+       "в, на, к",
+       "Приходи́те в го́сти! (Hãy đến chơi!) Приезжа́йте на новосе́лье! (Hãy đến mừng tân gia!)"
+      ],
+      [
+       "у- — rời đi hẳn",
+       "уходи́ть / уезжа́ть",
+       "к, на, за",
+       "Уезжа́ю к подру́ге. (Tôi đi đến nhà bạn gái.) Уезжа́ли на мо́ре, за грани́цу, за́ город. (Họ đi biển, đi nước ngoài, về ngoại ô.)"
+      ],
+      [
+       "за- — ghé qua, tạt vào",
+       "заходи́ть / заезжа́ть",
+       "в, к, за",
+       "Заходи́л за кни́гой. (Ghé lấy quyển sách.) Заезжа́л к Ма́ше на да́чу. (Tạt qua nhà nghỉ ngoại ô của Masha.) Заезжа́л в магази́н. (Ghé vào cửa hàng.)"
+      ],
+      [
+       "под- (подо-) — tiến lại gần",
+       "подходи́ть / подъезжа́ть",
+       "к",
+       "Подхожу́ к остано́вке. (Tôi tiến lại gần bến xe.) Подъезжа́ли к ста́нции. (Xe đang tiến gần ga.)"
+      ],
+      [
+       "от- (ото-) — rời xa ra",
+       "отходи́ть / отъезжа́ть",
+       "от",
+       "По́езд отхо́дит от перро́на. (Đoàn tàu rời sân ga.) Маши́на отъезжа́ла от гаража́. (Chiếc xe chạy ra xa khỏi gara.)"
+      ],
+      [
+       "до- — đến tận",
+       "доходи́ть / доезжа́ть",
+       "до",
+       "Доезжа́ем до дере́вни. (Chúng tôi đi đến tận làng.) Доходи́ли пешко́м до о́зера. (Họ đi bộ đến tận hồ.)"
+      ],
+      [
+       "об- (обо-) — vòng quanh, khắp",
+       "обходи́ть / объезжа́ть",
+       "вокру́г",
+       "1) Обхожу́ па́мятник. (Tôi đi vòng quanh tượng đài.) 2) Объезжа́ю вокру́г го́рода. (Tôi chạy xe vòng quanh thành phố.) 3) Обхо́дим все теа́тры. (Chúng tôi đi khắp các nhà hát.)"
+      ],
+      [
+       "про- — ngang qua, xuyên qua, vượt quãng đường",
+       "проходи́ть / проезжа́ть",
+       "ми́мо, по, че́рез",
+       "1) Проезжа́ем ми́мо Кремля́. (Chúng tôi chạy xe ngang qua Kremlin.) 2) Прохо́дим по мосту́ че́рез ре́ку. (Chúng tôi đi trên cầu qua sông.) 3) Проезжа́ли 500 км в день. (Mỗi ngày họ vượt 500 km.)"
+      ],
+      [
+       "пере- — băng qua; chuyển hẳn",
+       "переходи́ть / переезжа́ть",
+       "че́рез; в / на",
+       "1) Перехожу́ че́рез у́лицу по перехо́ду. (Tôi băng qua đường ở lối sang đường.) 2) Переезжа́ем в Москву́. (Chúng tôi chuyển đến Moskva.)"
+      ],
+      [
+       "с-…ся (сь) — tụ về một chỗ",
+       "сходи́ться / съезжа́ться",
+       "в / на, из / с, к",
+       "Схо́дятся на пло́щади на ми́тинг. (Người ta tụ về quảng trường mít tinh.) Съезжа́лись на конфере́нцию. (Đại biểu từ khắp nơi đổ về hội nghị.) Съезжа́лись к друзья́м на сва́дьбу. (Họ đổ về nhà bạn dự đám cưới.)"
+      ],
+      [
+       "рас-…ся / раз-…ся (сь) — tản ra các ngả",
+       "расходи́ться / разъезжа́ться",
+       "в / на, из / с, по",
+       "Расхо́дятся по аудито́риям. (Sinh viên tản về các giảng đường.) Разъезжа́ются из теа́тра по дома́м. (Khán giả từ nhà hát toả về nhà.)"
+      ]
+     ]
+    },
+    {
+     "t": "instruction",
+     "text": "б) Соста́вьте свою́ табли́цу с глаго́лами II гру́ппы: лета́ть, бе́гать, носи́ть. Вы́берите приста́вки, кото́рые вы ча́сто употребля́ете. — b) Hãy tự lập bảng tương tự với các động từ nhóm II: лета́ть (bay), бе́гать (chạy), носи́ть (mang). Chọn những tiền tố bạn hay dùng."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s008",
+   "type": "grammar",
+   "title": "Обратите внимание! ПО- + động từ chuyển động nhóm I / nhóm II",
+   "num": null,
+   "blocks": [
+    {
+     "t": "table",
+     "title": "ПО- + глаголы движения (Tiền tố ПО- với động từ chuyển động)",
+     "head": [
+      "ПО- + I гру́ппа (СВ): пойти́, пое́хать, полете́ть, побежа́ть, поплы́ть… — нача́ло движе́ния в одно́м направле́нии (bắt đầu chuyển động theo MỘT hướng)",
+      "ПО- + II гру́ппа (СВ): походи́ть, пое́здить, полета́ть, побе́гать, попла́вать… — движе́ние в ра́зных направле́ниях, ограни́ченное по вре́мени (= немно́го) (chuyển động NHIỀU hướng, giới hạn về thời gian = một lát, một chút)"
+     ],
+     "rows": [
+      [
+       "Шко́льники сда́ли выпускны́е экза́мены и пошли́ гуля́ть по Москве́. — Học sinh thi tốt nghiệp xong liền đi dạo khắp Moskva (bắt đầu đi).",
+       "Пе́ред пое́здкой Татья́на походи́ла по магази́нам и купи́ла ле́тнюю оде́жду. — Trước chuyến đi, Tatyana đi một vòng các cửa hàng và mua quần áo hè."
+      ],
+      [
+       "Друзья́ встре́тились о́коло метро́ и пое́хали в парк Побе́ды. — Các bạn gặp nhau cạnh ga metro rồi lên đường đến công viên Chiến Thắng.",
+       "Мне о́чень хо́чется пое́здить по ми́ру и посмотре́ть ра́зные стра́ны. — Tôi rất muốn chu du đó đây một thời gian và ngắm nhìn các nước."
+      ],
+      [
+       "Тре́нер дал старт, и спортсме́ны побежа́ли. — Huấn luyện viên phát lệnh xuất phát và các vận động viên lao đi.",
+       "У меня́ есть мечта́ — полета́ть на возду́шном ша́ре. — Tôi có một ước mơ — được bay khinh khí cầu một chuyến."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s009",
+   "type": "exercise",
+   "title": "Задание 2 (Chọn phương án đúng — 11 câu)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Восстанови́те предложе́ния. Вы́берите пра́вильный вариа́нт. (Как изме́нится ситуа́ция, е́сли замени́ть глаго́лы НСВ глаго́лами СВ с той же приста́вкой?) — Khôi phục câu. Chọn phương án đúng. (Tình huống thay đổi thế nào nếu thay động từ НСВ bằng động từ СВ cùng tiền tố?)"
+    },
+    {
+     "t": "para",
+     "text": "1. Ка́ждый день в Москву́ … ты́сячи тури́стов. (Mỗi ngày hàng nghìn du khách … đến Moskva.) А) приезжа́ют Б) доезжа́ют В) подъезжа́ют"
+    },
+    {
+     "t": "para",
+     "text": "2. Мой самолёт … из Москвы́ в три часа́ дня. (Máy bay của tôi … khỏi Moskva lúc 3 giờ chiều.) А) облета́ет Б) вылета́ет В) долета́ет"
+    },
+    {
+     "t": "para",
+     "text": "3. Сейча́с в Москве́ стро́ят мно́го совреме́нных жилы́х домо́в. Москвичи́ с удово́льствием … в но́вые кварти́ры. (Người Moskva vui vẻ … sang các căn hộ mới.) А) переезжа́ют Б) объезжа́ют В) выезжа́ют"
+    },
+    {
+     "t": "para",
+     "text": "4. В метро́ пассажи́ров постоя́нно предупрежда́ют, что … к кра́ю платфо́рмы о́чень опа́сно. (Trong metro luôn nhắc hành khách rằng … sát mép sân ga rất nguy hiểm.) А) заходи́ть Б) подходи́ть В) приходи́ть (cần soát lại phương án В — ảnh mờ)"
+    },
+    {
+     "t": "para",
+     "text": "5. Когда́ мне ну́жно купи́ть хлеб, по доро́ге с рабо́ты я … в магази́н о́коло на́шего до́ма. (Khi cần mua bánh mì, trên đường đi làm về tôi … cửa hàng cạnh nhà.) А) ухожу́ Б) захожу́ В) перехожу́"
+    },
+    {
+     "t": "para",
+     "text": "6. Конце́рт ко́нчился, но зри́тели ещё до́лго не … из зри́тельного за́ла. Они́ стоя́ли и аплоди́ровали арти́стам. (Buổi hoà nhạc kết thúc nhưng khán giả mãi vẫn chưa … khỏi khán phòng.) А) расходи́лись Б) сходи́лись В) входи́ли"
+    },
+    {
+     "t": "para",
+     "text": "7. Моя́ подру́га не лю́бит опа́здывать. Когда́ нам на́до е́хать на заня́тия, она́ … из до́ма на полчаса́ ра́ньше меня́. (Bạn tôi không thích trễ giờ. Khi phải đi học, cô ấy … khỏi nhà sớm hơn tôi nửa tiếng.) А) прихо́дит Б) отхо́дит В) выхо́дит"
+    },
+    {
+     "t": "para",
+     "text": "8. В музе́е тури́сты … из одного́ за́ла в друго́й и смотре́ли карти́ны ру́сских худо́жников. (Trong bảo tàng, du khách … từ phòng này sang phòng khác xem tranh các hoạ sĩ Nga.) А) обходи́ли Б) переходи́ли В) подходи́ли"
+    },
+    {
+     "t": "para",
+     "text": "9. Ра́ньше, когда́ мой друг жил со мной в одно́м до́ме, я ка́ждый ве́чер … к нему́ в го́сти. (Trước kia, khi bạn tôi sống cùng toà nhà, tối nào tôi cũng … chơi nhà cậu ấy.) А) заходи́л Б) входи́л В) уходи́л"
+    },
+    {
+     "t": "para",
+     "text": "10. Когда́ мы лете́ли из Ирку́тска в Москву́, мы … над о́зером Байка́л. (Khi bay từ Irkutsk về Moskva, chúng tôi … phía trên hồ Baikal.) А) долета́ли Б) подлета́ли В) пролета́ли"
+    },
+    {
+     "t": "para",
+     "text": "11. Нача́лся си́льный дождь, и де́ти, кото́рые игра́ли во дворе́, … по дома́м. (Mưa to ập xuống, lũ trẻ đang chơi ngoài sân … về nhà.) А) сбежа́лись Б) разбежа́лись В) прибежа́ли"
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s010",
+   "type": "exercise",
+   "title": "Задание 3 (Chọn động từ bên phải, chia đúng dạng — 5 nhóm)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Восстанови́те предложе́ния. Вы́берите глаго́л (спра́ва) и поста́вьте его́ в ну́жную фо́рму. В каки́х ситуа́циях возмо́жны вариа́нты? Напиши́те предложе́ния. — Khôi phục câu. Chọn động từ (cho ở cuối nhóm) và chia đúng dạng. Trường hợp nào có thể có nhiều phương án? Hãy viết các câu."
+    },
+    {
+     "t": "subhead",
+     "text": "Nhóm 1 — приходи́ть / прийти́ (đến)"
+    },
+    {
+     "t": "para",
+     "text": "1. За́втра ко мне в го́сти … друзья́, и мы отме́тим мой день рожде́ния. — Ngày mai bạn bè sẽ … chơi nhà tôi và chúng tôi sẽ mừng sinh nhật tôi."
+    },
+    {
+     "t": "para",
+     "text": "2. Ра́ньше мои́ шко́льные друзья́ … ко мне о́чень ча́сто, а сейча́с … ре́дко. — Trước kia các bạn học phổ thông … nhà tôi rất thường xuyên, còn bây giờ … hiếm khi."
+    },
+    {
+     "t": "para",
+     "text": "3. Вчера́ ве́чером ко мне … друг, кото́рого я давно́ не ви́дел. Когда́ он …, я о́чень обра́довался. — Tối qua một người bạn lâu ngày không gặp đã … chỗ tôi. Khi cậu ấy …, tôi mừng lắm."
+    },
+    {
+     "t": "subhead",
+     "text": "Nhóm 2 — переезжа́ть / перее́хать (chuyển nhà)"
+    },
+    {
+     "t": "para",
+     "text": "1. Сейча́с мы живём в но́вой кварти́ре, в кото́рую мы … совсе́м неда́вно. — Hiện chúng tôi sống trong căn hộ mới mà chúng tôi vừa … đến cách đây không lâu."
+    },
+    {
+     "t": "para",
+     "text": "2. Мой оте́ц был строи́телем, поэ́тому на́ша семья́ ча́сто … из одного́ го́рода в друго́й. — Bố tôi là thợ xây nên gia đình tôi thường … từ thành phố này sang thành phố khác."
+    },
+    {
+     "t": "para",
+     "text": "3. Мой брат ра́ньше жил на Се́вере, пото́м он … в Москву́ и живёт здесь уже́ два го́да. — Anh tôi trước sống ở phương Bắc, sau đó anh … về Moskva và đã sống ở đây hai năm."
+    },
+    {
+     "t": "subhead",
+     "text": "Nhóm 3 — прилета́ть / прилете́ть (bay đến)"
+    },
+    {
+     "t": "para",
+     "text": "1. Обы́чно самолёт из Новосиби́рска … в Москву́ в 19:30. — Thường thì máy bay từ Novosibirsk … Moskva lúc 19:30."
+    },
+    {
+     "t": "para",
+     "text": "2. А вчера́ из-за плохо́й пого́ды самолёт опозда́л и … на два часа́ по́зже. — Còn hôm qua do thời tiết xấu, máy bay trễ và … muộn hai tiếng."
+    },
+    {
+     "t": "para",
+     "text": "3. В аэропорту́ боле́льщики встре́тили футбо́льную кома́нду, кото́рая … из Португа́лии. — Ở sân bay, người hâm mộ đón đội bóng đá vừa … từ Bồ Đào Nha về."
+    },
+    {
+     "t": "subhead",
+     "text": "Nhóm 4 — заходи́ть / зайти́ (ghé vào)"
+    },
+    {
+     "t": "para",
+     "text": "1. По́сле рабо́ты я обы́чно … в кни́жный магази́н на Тверско́й у́лице. — Sau giờ làm tôi thường … hiệu sách trên phố Tverskaya."
+    },
+    {
+     "t": "para",
+     "text": "2. Я уви́дел в витри́не магази́на но́вую кни́гу моего́ люби́мого писа́теля и …, что́бы купи́ть её. — Tôi thấy trong tủ kính cuốn sách mới của nhà văn yêu thích và đã … để mua nó."
+    },
+    {
+     "t": "para",
+     "text": "3. На сле́дующей неде́ле я обяза́тельно … туда́ ещё раз, что́бы купи́ть но́вую исто́рию Москвы́. — Tuần sau nhất định tôi sẽ … đó lần nữa để mua cuốn lịch sử Moskva mới."
+    },
+    {
+     "t": "subhead",
+     "text": "Nhóm 5 — уходи́ть / уйти́; приноси́ть / принести́ (rời đi; mang đến)"
+    },
+    {
+     "t": "para",
+     "text": "1. Когда́ моя́ сестра́ … на рабо́ту, она́ ча́сто забыва́ет взять ключи́. Пото́м она́ звони́т мне, что́бы я … ей ключи́. — Khi chị tôi … đi làm, chị hay quên mang chìa khoá. Sau đó chị gọi để tôi … chìa khoá cho chị."
+    },
+    {
+     "t": "para",
+     "text": "2. Мой друг заболе́л, поэ́тому ра́но … с заня́тий. — Bạn tôi bị ốm nên đã … khỏi giờ học sớm."
+    },
+    {
+     "t": "para",
+     "text": "3. Когда́ ты бу́дешь … домо́й, позвони́ мне, пожа́луйста. Я … тебе́ кни́гу, кото́рую давно́ хоте́л отда́ть. — Khi nào cậu … về nhà thì gọi mình nhé. Mình sẽ … cho cậu cuốn sách mình muốn trả từ lâu. (cần soát lại câu 3 — ảnh mờ)"
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s011",
+   "type": "exercise",
+   "title": "Задание 4 (Chọn НСВ hay СВ — 7 câu, động từ mang/chở)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Восстанови́те предложе́ния. Вы́берите глаго́л НСВ и́ли СВ и поста́вьте его́ в ну́жную фо́рму. Напиши́те предложе́ния. — Khôi phục câu. Chọn động từ НСВ hoặc СВ và chia đúng dạng. Viết các câu."
+    },
+    {
+     "t": "para",
+     "text": "1. В конце́ уче́бного го́да студе́нты должны́ собра́ть все уче́бники и … их в библиоте́ку. [относи́ть — отнести́] — Cuối năm học sinh viên phải gom toàn bộ giáo trình và … chúng đến thư viện. [mang đến trả]"
+    },
+    {
+     "t": "para",
+     "text": "2. У́тром мой брат ушёл из до́ма ра́ньше меня́ и случа́йно … мои́ перча́тки. [уноси́ть — унести́] — Sáng nay anh tôi rời nhà trước tôi và vô tình … đôi găng tay của tôi. [mang đi mất]"
+    },
+    {
+     "t": "para",
+     "text": "3. В кафе́ мы заказа́ли чай и пиро́жные, а официа́нт оши́бся и … нам ко́фе и моро́женое. [приноси́ть — принести́] — Trong quán chúng tôi gọi trà và bánh ngọt, nhưng người phục vụ nhầm và … cà phê với kem. [mang đến]"
+    },
+    {
+     "t": "para",
+     "text": "4. Ка́ждый день оте́ц е́дет на рабо́ту на маши́не и … дете́й до шко́лы. [довози́ть — довезти́] — Ngày nào bố cũng lái xe đi làm và … các con đến tận trường. [chở đến tận nơi]"
+    },
+    {
+     "t": "para",
+     "text": "5. Друзья́ помогли́ мне … ве́щи в но́вое общежи́тие. [перевози́ть — перевезти́] — Các bạn đã giúp tôi … đồ đạc sang ký túc xá mới. [chuyển chở]"
+    },
+    {
+     "t": "para",
+     "text": "6. На нового́дний пра́здник в МГУ прихо́дят студе́нты и … свои́х друзе́й из други́х институ́тов. [приводи́ть — привести́] — Dịp lễ năm mới ở MGU, sinh viên đến dự và … bạn bè từ các trường khác. [dẫn theo]"
+    },
+    {
+     "t": "para",
+     "text": "7. Когда́ я бу́ду е́хать из университе́та, я зае́ду к тебе́ и … твою́ кни́гу. [завози́ть — завезти́] — Khi đi từ trường về, mình sẽ tạt qua chỗ cậu và … cuốn sách của cậu. [mang ghé trả]"
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s012",
+   "type": "exercise",
+   "title": "Задание 5 (Các thông báo nơi công cộng — nghe/đọc và đoán địa điểm)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Прослу́шайте объявле́ния. Скажи́те, где вы мо́жете их услы́шать и́ли уви́деть. — Hãy nghe (đọc) các thông báo và cho biết bạn có thể nghe hoặc thấy chúng ở đâu. (Sách không có audio — hãy dùng nút đọc TTS của trang web.)"
+    },
+    {
+     "t": "para",
+     "text": "1. Наш по́езд отхо́дит че́рез 5 мину́т. Провожа́ющих про́сят вы́йти из ваго́на. — Tàu chúng ta sẽ chuyển bánh sau 5 phút. Đề nghị người đưa tiễn ra khỏi toa."
+    },
+    {
+     "t": "para",
+     "text": "2. Отойди́те от кра́я платфо́рмы, по́езд отправля́ется! — Hãy lùi xa mép sân ga, tàu sắp chạy!"
+    },
+    {
+     "t": "para",
+     "text": "3. Уважа́емые пешехо́ды! Переходи́те у́лицу то́лько на зелёный свет светофо́ра. — Kính thưa người đi bộ! Chỉ băng qua đường khi đèn tín hiệu màu xanh."
+    },
+    {
+     "t": "para",
+     "text": "4. Начина́ется поса́дка на рейс Москва́ — Пари́ж. Пассажи́ров про́сят пройти́ в зал № 5, вы́ход 10. — Bắt đầu lên máy bay chuyến Moskva — Paris. Đề nghị hành khách đến sảnh số 5, cửa ra số 10."
+    },
+    {
+     "t": "para",
+     "text": "5. Уважа́емые пассажи́ры! По́езд да́льше не идёт, про́сьба освободи́ть ваго́ны. — Quý hành khách lưu ý! Tàu không chạy tiếp nữa, đề nghị rời khỏi toa."
+    },
+    {
+     "t": "para",
+     "text": "6. Уважа́емые пассажи́ры! Наш полёт прохо́дит на высоте́ 10 000 ме́тров, сейча́с мы пролета́ем го́род Ха́рьков. — Quý hành khách! Chuyến bay đang ở độ cao 10 000 mét, hiện chúng ta đang bay ngang thành phố Kharkov."
+    },
+    {
+     "t": "para",
+     "text": "7. Уважа́емые пассажи́ры! Не сто́йте у двере́й, проходи́те в центр сало́на. — Quý hành khách! Đừng đứng ở cửa, hãy đi vào giữa khoang xe."
+    },
+    {
+     "t": "para",
+     "text": "8. Уважа́емые пассажи́ры! Сто́йте спра́ва, проходи́те сле́ва. Бежа́ть по эскала́тору запреща́ется! — Quý hành khách! Đứng bên phải, đi bên trái. Cấm chạy trên thang cuốn!"
+    },
+    {
+     "t": "para",
+     "text": "9. Студе́нтов, не получи́вших студенче́ские биле́ты, про́сят зайти́ в декана́т. — Đề nghị các sinh viên chưa nhận thẻ sinh viên ghé văn phòng khoa."
+    },
+    {
+     "t": "para",
+     "text": "10. Жела́ющие купи́ть биле́ты на по́езд до Петербу́рга мо́гут подойти́ к ка́ссе № 2. — Ai muốn mua vé tàu đi Peterburg xin đến quầy vé số 2."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s013",
+   "type": "exercise",
+   "title": "Текст — Задание 6 а) «Как попасть в театр без билета» (phần 1: Cách số 1 — Nhà hát Bolshoy)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "а) Прочита́йте текст и скажи́те, како́й спо́соб попа́сть в теа́тр без биле́та вам понра́вился бо́льше. — a) Đọc bài và cho biết bạn thích cách vào nhà hát không vé nào hơn."
+    },
+    {
+     "t": "subhead",
+     "text": "Как попа́сть в теа́тр без биле́та — Làm thế nào vào nhà hát mà không có vé"
+    },
+    {
+     "t": "para",
+     "text": "Вы прие́хали в Москву́. Вы о́чень хоти́те культу́рно провести́ ве́чер и попа́сть в оди́н из знамени́тых моско́вских теа́тров. Но биле́та у вас нет. Как тут быть? Как попа́сть в теа́тр без биле́та? Наш путеводи́тель помо́жет вам реши́ть и́менно э́ту зада́чу. Мы даём вам два спо́соба, кото́рые зави́сят от ва́шего хара́ктера и усло́вий ка́ждого теа́тра. — Bạn đến Moskva. Bạn rất muốn có một buổi tối văn hoá và lọt vào một trong những nhà hát danh tiếng của Moskva. Nhưng bạn không có vé. Biết làm sao đây? Làm thế nào vào nhà hát không vé? Cuốn cẩm nang của chúng tôi sẽ giúp bạn giải đúng bài toán này. Chúng tôi mách bạn hai cách, tuỳ theo tính cách của bạn và điều kiện của từng nhà hát."
+    },
+    {
+     "t": "subhead",
+     "text": "Спо́соб № 1 — для Большо́го теа́тра (Cách số 1 — cho Nhà hát Bolshoy)"
+    },
+    {
+     "t": "para",
+     "text": "Вы е́дете в Большо́й теа́тр, подхо́дите к гла́вному вхо́ду, смо́трите вокру́г и ждёте. Когда́ вы ви́дите гру́ппу люде́й, кото́рая уже́ вхо́дит внутрь, вы бы́стро прохо́дите вме́сте с ни́ми. Да́льше всё про́сто. Вы поднима́етесь по ле́стнице на балко́н, нахо́дите свобо́дное ме́сто, запомина́ете его́ но́мер и споко́йно спуска́етесь в фойе́. Там вы нахо́дитесь до нача́ла спекта́кля. — Bạn đến Nhà hát Bolshoy, tiến lại lối vào chính, nhìn quanh và chờ. Khi thấy một nhóm người đang đi vào trong, bạn nhanh chóng đi cùng họ. Tiếp theo mọi việc đều đơn giản. Bạn theo cầu thang lên ban công, tìm một chỗ trống, nhớ số ghế rồi thong thả xuống tiền sảnh. Bạn ở đó cho đến khi vở diễn bắt đầu."
+    },
+    {
+     "t": "para",
+     "text": "Когда́ вы слы́шите пе́рвые зву́ки му́зыки, вы бы́стро добега́ете до ва́шего балко́на. Зате́м вы спра́шиваете служа́щую теа́тра задыха́ющимся го́лосом (задыха́ться ну́жно обяза́тельно): — Балко́н, деся́тое ме́сто — здесь? Служа́щая ва́жно отвеча́ет: — Здесь. — Уф, сла́ва бо́гу! — говори́те вы ра́достно. — Вы не пове́рите, я весь теа́тр обежа́л… Програ́мма есть? А бино́кль? — Khi nghe những âm thanh nhạc đầu tiên, bạn chạy thật nhanh lên ban công của mình. Rồi bạn hỏi bà nhân viên nhà hát bằng giọng hổn hển (nhất thiết phải thở hổn hển): — Ban công, ghế số mười — ở đây ạ? Bà nhân viên trịnh trọng đáp: — Ở đây. — Phù, ơn trời! — bạn mừng rỡ nói. — Bà không tin nổi đâu, tôi chạy khắp cả nhà hát… Có tờ chương trình không ạ? Còn ống nhòm?"
+    },
+    {
+     "t": "para",
+     "text": "Вы покупа́ете програ́мму, пла́тите за бино́кль и говори́те: — Ну, покажи́те мне, пожа́луйста, э́то деся́тое ме́сто! Она́ пока́зывает вам деся́тое ме́сто и ухо́дит. — Bạn mua tờ chương trình, trả tiền thuê ống nhòm và nói: — Nào, xin bà chỉ giúp tôi cái ghế số mười ấy! Bà ấy chỉ cho bạn ghế số mười rồi đi."
+    },
+    {
+     "t": "para",
+     "text": "Но е́сли вдруг служа́щая попро́сит вас показа́ть биле́т, вы должны́ о́чень гро́мко сказа́ть: — Биле́т у моего́ дру́га, он всегда́ прихо́дит ра́ньше меня́… Он сиди́т где́-то здесь… Серге́й, покажи́ мой биле́т! (Коне́чно, никако́го Серге́я нет и быть не мо́жет.) — Ш-ш-ш! Ти́ше, пожа́луйста. Вы меша́ете слу́шать! — начина́ют волнова́ться други́е зри́тели. — Входи́те, входи́те быстре́е, — говори́т шёпотом служа́щая и отхо́дит от вас. В э́тот моме́нт вы, наконе́ц, вхо́дите в зри́тельный зал и сади́тесь на «своё» деся́тое ме́сто. — Nhưng nếu bà nhân viên bỗng yêu cầu bạn xuất trình vé, bạn phải nói thật to: — Vé ở chỗ bạn tôi, cậu ấy bao giờ cũng đến trước tôi… Cậu ấy ngồi đâu đó quanh đây… Sergey, đưa vé của tớ ra xem nào! (Dĩ nhiên chẳng có Sergey nào cả và không thể có.) — Suỵt! Xin trật tự cho. Anh làm phiền người khác nghe đấy! — các khán giả khác bắt đầu nhốn nháo. — Vào đi, vào nhanh lên, — bà nhân viên nói thì thầm rồi lảng ra xa. Đúng lúc đó, cuối cùng bạn bước vào khán phòng và ngồi xuống ghế số mười «của mình». (vài câu mở đầu đoạn này — cần soát lại)"
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s014",
+   "type": "exercise",
+   "title": "«Как попасть в театр без билета» (phần 2: Cách số 2 — rạp xiếc)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "subhead",
+     "text": "Спо́соб № 2 — для ци́рка (Cách số 2 — cho rạp xiếc)"
+    },
+    {
+     "t": "para",
+     "text": "Когда́ вы бу́дете выходи́ть из до́ма, вам ну́жно бу́дет взять с собо́й небольшо́е дома́шнее живо́тное: соба́чку, бе́лую кры́су, ко́шку, пти́чку. С э́тим дома́шним живо́тным вы е́дете в цирк. Вы доезжа́ете до ци́рка, подхо́дите к контролёру и говори́те ему́: — Khi ra khỏi nhà, bạn cần mang theo một con vật nuôi nhỏ: chú chó con, chuột bạch, mèo hay chim. Cùng con vật ấy bạn đi đến rạp xiếc. Đến nơi, bạn tiến lại người soát vé và nói:"
+    },
+    {
+     "t": "para",
+     "text": "— Э́то не ва́ша? Я проходи́л ми́мо ци́рка и вдруг уви́дел, что она́ бе́гает (пры́гает, лета́ет) по у́лице… Ну, ду́маю, коне́чно, из ци́рка убежа́ла. Я сказа́л ей: «Иди́ сюда́, ма́ленькая!» Взял её и принёс к вам. Как пройти́ к дире́ктору ци́рка? — Con này không phải của rạp à? Tôi đi ngang rạp xiếc thì bỗng thấy nó chạy (nhảy, bay) ngoài phố… Tôi nghĩ bụng, chắc chắn nó sổng từ rạp xiếc ra. Tôi bảo nó: «Lại đây nào, bé con!» Tôi bắt nó và mang đến cho các vị. Đi lối nào đến phòng giám đốc rạp xiếc nhỉ?"
+    },
+    {
+     "t": "para",
+     "text": "Контролёр, восхищённый ва́шей доброто́й, расска́зывает вам, как пройти́ к дире́ктору. Вы на мину́ту захо́дите в фойе́ и отпуска́ете дома́шнее живо́тное на все четы́ре сто́роны. Зате́м вы вхо́дите в зал, где уже́ звуча́т аплодисме́нты, смех зри́телей и весёлая му́зыка. — Người soát vé, cảm kích trước lòng tốt của bạn, chỉ cho bạn đường đến phòng giám đốc. Bạn ghé vào tiền sảnh một phút và thả con vật đi bốn phương tám hướng. Sau đó bạn bước vào khán phòng, nơi đã vang lên tiếng vỗ tay, tiếng cười của khán giả và âm nhạc rộn rã."
+    },
+    {
+     "t": "note",
+     "text": "(По расска́зу В. Ардо́ва «Де́вять спо́собов безбиле́тного проникнове́ния в зри́тельный зал») — (Theo truyện của V. Ardov «Chín cách lọt vào khán phòng không vé»)"
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s015",
+   "type": "exercise",
+   "title": "Задание 6 б) в) (Thảo luận sau bài đọc)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "б) Како́й спо́соб вы́берете вы? Расскажи́те, что вы сде́лаете. — b) Bạn sẽ chọn cách nào? Hãy kể bạn sẽ làm gì."
+    },
+    {
+     "t": "instruction",
+     "text": "в) Вчера́ ваш знако́мый был в теа́тре. Биле́та у него́ не́ было. Что он рассказа́л вам о том, как он попа́л в теа́тр? — c) Hôm qua người quen của bạn đi nhà hát. Anh ấy không có vé. Anh ấy đã kể với bạn thế nào về việc mình lọt vào nhà hát?"
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s016",
+   "type": "grammar",
+   "title": "Гр. III. Переносные значения глаголов движения — Задание 7 (Nghĩa bóng của động từ chuyển động)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Посмотри́те на рису́нки и по́дписи к ним. Да́йте свои́ приме́ры с э́тими словосочета́ниями. — Hãy xem tranh và chú thích. Cho ví dụ của riêng bạn với những cụm từ này."
+    },
+    {
+     "t": "para",
+     "text": "Э́ти часы́ всегда́ иду́т пра́вильно. — Chiếc đồng hồ này luôn chạy đúng."
+    },
+    {
+     "t": "table",
+     "title": "идти (nghĩa bóng)",
+     "head": [
+      "Thời gian",
+      "Phương tiện",
+      "Sự kiện"
+     ],
+     "rows": [
+      [
+       "часы́ иду́т (đồng hồ chạy), вре́мя идёт (thời gian trôi), го́ды иду́т (năm tháng trôi đi)",
+       "по́езд идёт (tàu chạy), авто́бус идёт (xe buýt chạy), трамва́й идёт (tàu điện chạy)",
+       "спекта́кль идёт (vở kịch đang diễn), фильм идёт (phim đang chiếu), заня́тия иду́т (giờ học đang diễn ra)"
+      ]
+     ]
+    },
+    {
+     "t": "para",
+     "text": "В Петербу́рге ча́сто иду́т дожди́. — Ở Peterburg trời thường mưa. → идёт дождь (trời mưa), идёт снег (trời tuyết)"
+    },
+    {
+     "t": "para",
+     "text": "— Ты сего́дня така́я краси́вая! Тебе́ так идёт но́вая причёска! — Hôm nay cậu xinh quá! Kiểu tóc mới hợp với cậu ghê! → причёска идёт кому́? (3 — tặng cách), пла́тье идёт (váy hợp), костю́м идёт (bộ vest hợp)"
+    },
+    {
+     "t": "para",
+     "text": "Ему́ повезло́! Он вы́играл миллио́н рубле́й! — Anh ấy gặp may! Trúng một triệu rúp! → кому́? (3) везёт / не везёт, повезло́ / не повезло́ (ai đó may / không may)"
+    },
+    {
+     "t": "para",
+     "text": "Он ведёт себя́ хорошо́. / Он ведёт себя́ пло́хо. — Anh ấy cư xử tốt. / Anh ấy cư xử tệ. → вести́ себя́ как? хорошо́ / пло́хо (cư xử thế nào)"
+    },
+    {
+     "t": "para",
+     "text": "Анто́н хорошо́ во́дит маши́ну. Он никогда́ не разгова́ривает по телефо́ну, когда́ ведёт маши́ну. — Anton lái xe giỏi. Anh không bao giờ nói chuyện điện thoại khi đang cầm lái. → вести́ уро́к, заня́тие, спор, разгово́р, диску́ссию, иссле́дования (chủ trì/tiến hành giờ học, buổi học, cuộc tranh luận, trò chuyện, thảo luận, nghiên cứu); вести́ / води́ть маши́ну (lái xe)"
+    },
+    {
+     "t": "para",
+     "text": "Джеймс Бонд всегда́ но́сит большу́ю шля́пу и тёмные очки́. — James Bond luôn đội mũ rộng vành và đeo kính đen. → носи́ть и́мя, фами́лию (mang tên, mang họ); носи́ть очки́, оде́жду, джи́нсы, бо́роду, усы́, причёску (đeo kính, mặc quần áo, mặc quần jeans, để râu cằm, để ria, để kiểu tóc)"
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s017",
+   "type": "exercise",
+   "title": "Задание 8 (Điền идти/носить/вести/везти theo nghĩa bóng — 11 câu)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Восстанови́те предложе́ния (вы́берите подходя́щий по смы́слу глаго́л — идти́, носи́ть, вести́, везти́ — и поста́вьте его́ в ну́жную фо́рму). — Khôi phục câu (chọn động từ hợp nghĩa — идти, носить, вести, везти — và chia đúng dạng)."
+    },
+    {
+     "t": "para",
+     "text": "1. Конце́ртный зал в це́нтре Москвы́ … и́мя компози́тора П.И. Чайко́вского. — Phòng hoà nhạc ở trung tâm Moskva … tên nhà soạn nhạc P.I. Tchaikovsky. [но́сит]"
+    },
+    {
+     "t": "para",
+     "text": "2. Посмотри́ в окно́, … пе́рвый снег. — Nhìn ra cửa sổ kìa, tuyết đầu mùa đang … [идёт]"
+    },
+    {
+     "t": "para",
+     "text": "3. Преподава́тели школ и ву́зов … диску́ссию о еди́ном госуда́рственном экза́мене. — Giáo viên phổ thông và đại học đang … cuộc thảo luận về kỳ thi quốc gia thống nhất. [веду́т]"
+    },
+    {
+     "t": "para",
+     "text": "4. Наш преподава́тель матема́тики … усы́ и бо́роду. — Thầy dạy toán của chúng tôi … ria và râu. [но́сит]"
+    },
+    {
+     "t": "para",
+     "text": "5. Моя́ подру́га вы́шла за́муж, тепе́рь она́ … фами́лию му́жа. — Bạn gái tôi đã lấy chồng, giờ cô ấy … họ của chồng. [но́сит]"
+    },
+    {
+     "t": "para",
+     "text": "6. Сейча́с во мно́гих моско́вских теа́трах … пье́са А.П. Че́хова «Ча́йка». — Hiện nhiều nhà hát Moskva đang … vở «Hải âu» của A.P. Chekhov. [идёт]"
+    },
+    {
+     "t": "para",
+     "text": "7. Е́сли у вас плохо́е зре́ние, вам ну́жно … очки́. — Nếu thị lực kém, bạn cần … kính. [носи́ть]"
+    },
+    {
+     "t": "para",
+     "text": "8. Мне не … . Я всегда́ опа́здываю на после́дний авто́бус, кото́рый … до моего́ до́ма. — Tôi không … may. Tôi luôn lỡ chuyến xe buýt cuối cùng … đến nhà tôi. [везёт; идёт]"
+    },
+    {
+     "t": "para",
+     "text": "9. Возьми́ зонт, на у́лице … дождь! — Cầm ô đi, ngoài trời đang … mưa! [идёт]"
+    },
+    {
+     "t": "para",
+     "text": "10. Я люблю́ е́здить с отцо́м по го́роду, потому́ что он о́чень хорошо́ и споко́йно … маши́ну. — Tôi thích đi xe với bố quanh thành phố vì bố … xe rất giỏi và điềm tĩnh. [во́дит]"
+    },
+    {
+     "t": "para",
+     "text": "11. Ещё вчера́ ты был ма́леньким ма́льчиком, а сего́дня уже́ студе́нт. Как бы́стро … вре́мя! — Mới hôm qua con còn là cậu bé, mà nay đã là sinh viên. Thời gian … nhanh quá! [идёт]"
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s018",
+   "type": "exercise",
+   "title": "Задание 9 (Bạn sẽ nói gì / hỏi gì trong các tình huống?)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "а) Что вы ска́жете в э́тих ситуа́циях? — a) Bạn sẽ nói gì trong những tình huống sau?"
+    },
+    {
+     "t": "para",
+     "text": "1. Ва́ша подру́га пришла́ сего́дня в но́вом пла́тье. Она́ о́чень краси́вая. — Bạn gái bạn hôm nay mặc váy mới, rất xinh."
+    },
+    {
+     "t": "para",
+     "text": "2. Вы узна́ли, что ва́ши роди́тели купи́ли вам маши́ну. — Bạn biết tin bố mẹ đã mua xe cho bạn."
+    },
+    {
+     "t": "para",
+     "text": "3. На экза́мене ваш друг получи́л биле́т, в кото́ром о́чень сло́жные вопро́сы. — Trong kỳ thi, bạn của bạn bốc phải đề có những câu hỏi rất khó."
+    },
+    {
+     "t": "para",
+     "text": "4. Сего́дня ваш друг до́лжен обяза́тельно взять зонт. Почему́? — Hôm nay bạn của bạn nhất định phải mang ô. Vì sao?"
+    },
+    {
+     "t": "para",
+     "text": "5. Ва́ша подру́га пло́хо ви́дит. — Bạn gái bạn nhìn kém."
+    },
+    {
+     "t": "para",
+     "text": "6. Вам нра́вится е́здить с дру́гом на маши́не. Почему́? — Bạn thích đi xe cùng người bạn. Vì sao?"
+    },
+    {
+     "t": "instruction",
+     "text": "б) Что вы спро́сите в э́тих ситуа́циях? — b) Bạn sẽ hỏi gì trong những tình huống sau?"
+    },
+    {
+     "t": "para",
+     "text": "1. Вы хоти́те узна́ть маршру́т трамва́я (авто́буса, тролле́йбуса). — Bạn muốn biết lộ trình tàu điện (xe buýt, xe điện bánh hơi)."
+    },
+    {
+     "t": "para",
+     "text": "2. Вы хоти́те узна́ть, ско́лько вре́мени продолжа́ется спекта́кль (бале́т, экску́рсия). — Bạn muốn biết vở diễn (vở ballet, chuyến tham quan) kéo dài bao lâu. (cần soát lại cách diễn đạt câu 2–3)"
+    },
+    {
+     "t": "para",
+     "text": "3. Вы хоти́те узна́ть, где мо́жно посмотре́ть но́вый фильм (пье́су «Три сестры́»). — Bạn muốn biết có thể xem phim mới (vở «Ba chị em») ở đâu."
+    },
+    {
+     "t": "para",
+     "text": "4. Вы хоти́те узна́ть, каки́е фи́льмы сего́дня бу́дут пока́зывать в кинотеа́тре. — Bạn muốn biết hôm nay rạp chiếu những phim gì."
+    },
+    {
+     "t": "para",
+     "text": "5. Вы хоти́те узна́ть, уме́ет ли ваш друг е́здить на маши́не. — Bạn muốn biết bạn mình có biết lái xe không."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s019",
+   "type": "grammar",
+   "title": "Выражение пространственных отношений в простом предложении — Задание 10 (Ảnh các địa danh quanh Манежная площадь)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "subhead",
+     "text": "I. Выраже́ние простра́нственных отноше́ний в просто́м предложе́нии — Diễn đạt quan hệ không gian trong câu đơn"
+    },
+    {
+     "t": "instruction",
+     "text": "Посмотри́те фотогра́фии и прочита́йте по́дписи к ним. — Hãy xem các bức ảnh và đọc chú thích."
+    },
+    {
+     "t": "para",
+     "text": "Торго́вый центр «Охо́тный ряд» на Мане́жной пло́щади — Trung tâm thương mại «Okhotny Ryad» trên quảng trường Manezhnaya"
+    },
+    {
+     "t": "para",
+     "text": "Центра́льный вы́ставочный зал (Мане́ж) — Nhà triển lãm trung ương (Manezh)"
+    },
+    {
+     "t": "para",
+     "text": "Истори́ческий музе́й — Bảo tàng Lịch sử"
+    },
+    {
+     "t": "para",
+     "text": "Па́мятник геро́ю Вели́кой Оте́чественной войны́ ма́ршалу Г.К. Жу́кову — Tượng đài nguyên soái G.K. Zhukov, anh hùng Chiến tranh Vệ quốc vĩ đại"
+    },
+    {
+     "t": "para",
+     "text": "Алекса́ндровский сад — Vườn Aleksandrovsky"
+    },
+    {
+     "t": "para",
+     "text": "Центра́льная госуда́рственная библиоте́ка — Thư viện Quốc gia trung ương"
+    },
+    {
+     "t": "para",
+     "text": "Па́мятник Ф.М. Достое́вскому — Tượng đài F.M. Dostoevsky"
+    },
+    {
+     "t": "para",
+     "text": "Гости́ница «Национа́ль» — Khách sạn «National»"
+    },
+    {
+     "t": "para",
+     "text": "Зда́ние МГУ на Мохово́й у́лице — Toà nhà MGU trên phố Mokhovaya"
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s020",
+   "type": "grammar",
+   "title": "Таблица 3. Обозначение места (находиться где?) + bài đọc «Манежная площадь»",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Посмотри́те табли́цу 3, прочита́йте текст. Скажи́те, где нахо́дится Мане́жная пло́щадь. Почему́ она́ так называ́ется? Зада́йте вопро́сы, что́бы уточни́ть, где нахо́дится тот и́ли ино́й объе́кт. — Xem bảng 3, đọc bài. Cho biết quảng trường Manezhnaya nằm ở đâu, vì sao có tên như vậy. Đặt câu hỏi để làm rõ vị trí của từng địa điểm."
+    },
+    {
+     "t": "table",
+     "title": "Таблица 3. Обозначение места (находиться где?) — Bảng 3. Chỉ vị trí (nằm ở đâu?)",
+     "head": [
+      "Cấu trúc",
+      "Cách dùng"
+     ],
+     "rows": [
+      [
+       "1. здесь, тут — там; наверху́ — внизу́; сле́ва — спра́ва",
+       "trạng từ: ở đây — ở kia; trên cao — dưới thấp; bên trái — bên phải"
+      ],
+      [
+       "2. сле́ва от, спра́ва от, недалеко́ от, напро́тив, о́коло, у, вокру́г + чего́? (2)",
+       "+ sinh cách: bên trái của, bên phải của, không xa, đối diện, cạnh, ở sát, xung quanh"
+      ],
+      [
+       "3. ря́дом с + чем? (5); ме́жду + чем? (5); пе́ред, за, над, под + чем? (5)",
+       "+ công cụ cách: ngay cạnh; ở giữa; phía trước, phía sau, phía trên, phía dưới"
+      ],
+      [
+       "4. в, на + чём? (6)",
+       "+ giới cách: trong, trên"
+      ]
+     ]
+    },
+    {
+     "t": "subhead",
+     "text": "Мане́жная пло́щадь — Quảng trường Manezhnaya"
+    },
+    {
+     "t": "para",
+     "text": "Пе́ред ва́ми Мане́жная пло́щадь. Она́ нахо́дится в це́нтре Москвы́, ря́дом с Кра́сной пло́щадью. Здесь, на Мане́жной пло́щади, постро́или торго́вый ко́мплекс «Охо́тный ряд» — большо́й, краси́вый, совреме́нный. Наверху́ — фонта́ны, внизу́ — магази́ны, рестора́ны, кафе́. Там мо́жно де́лать поку́пки, пить ко́фе, ужина́ть… — Trước mắt các bạn là quảng trường Manezhnaya. Nó nằm ở trung tâm Moskva, ngay cạnh Quảng trường Đỏ. Tại đây, trên quảng trường Manezhnaya, người ta đã xây tổ hợp thương mại «Okhotny Ryad» — to lớn, đẹp đẽ, hiện đại. Phía trên là các đài phun nước, phía dưới là cửa hàng, nhà hàng, quán cà phê. Ở đó có thể mua sắm, uống cà phê, ăn tối…"
+    },
+    {
+     "t": "para",
+     "text": "Сле́ва от Мане́жной пло́щади нахо́дятся Истори́ческий музе́й и Алекса́ндровский сад. Спра́ва — гости́ница «Национа́ль» и ста́рое зда́ние Моско́вского университе́та. В це́нтре Мане́жной пло́щади, напро́тив торго́вого ко́мплекса «Охо́тный ряд», нахо́дится Центра́льный вы́ставочный зал, и́ли Мане́ж. — Bên trái quảng trường Manezhnaya là Bảo tàng Lịch sử và vườn Aleksandrovsky. Bên phải là khách sạn «National» và toà nhà cổ của Đại học Tổng hợp Moskva. Ở giữa quảng trường, đối diện tổ hợp thương mại «Okhotny Ryad», là Nhà triển lãm trung ương, hay còn gọi là Manezh."
+    },
+    {
+     "t": "para",
+     "text": "Недалеко́ от Мане́жной пло́щади нахо́дится Центра́льная госуда́рственная библиоте́ка — са́мая больша́я в стране́. О́коло зда́ния библиоте́ки — па́мятник ру́сскому писа́телю Ф.М. Достое́вскому. У па́мятника лежа́т живы́е цветы́. А вокру́г па́мятника всегда́ мно́го студе́нтов, так как ря́дом — библиоте́ка и Моско́вский университе́т. — Không xa quảng trường Manezhnaya là Thư viện Quốc gia trung ương — thư viện lớn nhất nước. Cạnh toà nhà thư viện là tượng đài nhà văn Nga F.M. Dostoevsky. Dưới chân tượng luôn có hoa tươi. Còn quanh tượng đài lúc nào cũng đông sinh viên, vì ngay bên cạnh là thư viện và Đại học Tổng hợp Moskva."
+    },
+    {
+     "t": "para",
+     "text": "Ме́жду Мане́жной пло́щадью и Кра́сной пло́щадью нахо́дится Истори́ческий музе́й. Пе́ред Истори́ческим музе́ем стои́т па́мятник геро́ю Вели́кой Оте́чественной войны́ ма́ршалу Г.К. Жу́кову. За Истори́ческим музе́ем располо́жена Кра́сная пло́щадь. — Giữa quảng trường Manezhnaya và Quảng trường Đỏ là Bảo tàng Lịch sử. Trước bảo tàng là tượng đài nguyên soái G.K. Zhukov, anh hùng Chiến tranh Vệ quốc vĩ đại. Sau Bảo tàng Lịch sử chính là Quảng trường Đỏ."
+    },
+    {
+     "t": "para",
+     "text": "Во вре́мя строи́тельства на Мане́жной пло́щади глубоко́ под землёй бы́ли на́йдены стари́нные ве́щи, моне́ты, кото́рые сейча́с мо́жно уви́деть в Истори́ческом музе́е. В пра́здничные дни над Мане́жной пло́щадью греми́т салю́т. — Trong quá trình xây dựng trên quảng trường Manezhnaya, sâu dưới lòng đất người ta đã tìm thấy những đồ vật, đồng tiền cổ — nay có thể xem chúng trong Bảo tàng Lịch sử. Vào những ngày lễ, pháo hoa rền vang trên quảng trường Manezhnaya."
+    },
+    {
+     "t": "note",
+     "text": "Chú thích của sách: Quảng trường mang tên Manezhnaya vì năm 1817 tại đây xây toà nhà Manezh — nơi tập cưỡi ngựa, duyệt binh; nhà văn L.N. Tolstoy thời trẻ từng học cưỡi ngựa rồi tập xe đạp ở đây; về sau toà nhà dùng làm nơi triển lãm, từ 1957 mang tên Nhà triển lãm trung ương (Центральный выставочный зал). Năm 1957 quảng trường… (chi tiết chú thích in nhỏ, ảnh mờ — cần soát lại)"
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s021",
+   "type": "exercise",
+   "title": "Задание 11 (Sơ đồ quảng trường Manezhnaya)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "а) Посмотри́те на план-ка́рту Мане́жной пло́щади и найди́те изве́стные вам объе́кты. — a) Xem sơ đồ quảng trường Manezhnaya và tìm các địa điểm bạn đã biết."
+    },
+    {
+     "t": "para",
+     "text": "На пла́не: Кремль, Алекса́ндровский сад, Кра́сная пло́щадь, Истори́ческий музе́й, па́мятник Г.К. Жу́кову, торго́вый ко́мплекс «Охо́тный ряд», зда́ние Мане́жа, у́лица Охо́тный ряд, Тверска́я у́лица, гости́ница «Национа́ль», ста́рые зда́ния МГУ, МГУ, па́мятник Ф.М. Достое́вскому, зда́ние Центра́льной госуда́рственной библиоте́ки. — Trên sơ đồ: Kremlin, vườn Aleksandrovsky, Quảng trường Đỏ, Bảo tàng Lịch sử, tượng đài G.K. Zhukov, TTTM «Okhotny Ryad», toà nhà Manezh, phố Okhotny Ryad, phố Tverskaya, khách sạn «National», các toà nhà cũ của MGU, MGU, tượng đài F.M. Dostoevsky, toà nhà Thư viện Quốc gia trung ương."
+    },
+    {
+     "t": "instruction",
+     "text": "б) Ваш друг хо́чет пое́хать в центр Москвы́. Объясни́те ему́, где нахо́дятся Мане́ж, Истори́ческий музе́й и т. д. (Испо́льзуйте материа́л табли́цы 3.) — b) Bạn của bạn muốn đi vào trung tâm Moskva. Hãy giải thích cho anh ấy Manezh, Bảo tàng Lịch sử… nằm ở đâu (dùng tư liệu bảng 3)."
+    },
+    {
+     "t": "instruction",
+     "text": "в) Спроси́те, где нахо́дятся интересу́ющие вас достопримеча́тельности (в го́роде, где вы живёте) и как туда́ дое́хать. — c) Hãy hỏi xem những danh thắng bạn quan tâm (ở thành phố bạn sống) nằm ở đâu và đi đến đó thế nào."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s022",
+   "type": "exercise",
+   "title": "Задание 12 (Quảng cáo: Mời tham quan Điện Kremlin Moskva)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Прочита́йте рекла́мное объявле́ние и скажи́те, на каки́е вопро́сы мо́жет отве́тить челове́к, получи́вший э́ту информа́цию. — Đọc mẩu quảng cáo và cho biết người nhận được thông tin này có thể trả lời những câu hỏi nào."
+    },
+    {
+     "t": "subhead",
+     "text": "Приглаша́ем всех жела́ющих посети́ть Моско́вский Кремль! — Mời tất cả những ai mong muốn đến thăm Điện Kremlin Moskva!"
+    },
+    {
+     "t": "para",
+     "text": "Кремль откры́т ежедне́вно с 10 до 17 часо́в, кро́ме четверга́. Четве́рг — выходно́й день. Что́бы посети́ть Кремль, на́до купи́ть биле́т в ка́ссе. Ка́ссы нахо́дятся в Алекса́ндровском саду́. Покупа́ть биле́т на́до в тот день, когда́ вы хоти́те пойти́ на экску́рсию, так как на биле́те стои́т да́та. Вход в Кремль нахо́дится ря́дом с ка́ссами. В Кремль вхо́дят че́рез Тро́ицкие воро́та, а в Оруже́йную пала́ту — че́рез Борови́цкие воро́та. Моско́вский Кремль ежего́дно посеща́ют о́коло пяти́ миллио́нов челове́к. — Kremlin mở cửa hằng ngày từ 10 đến 17 giờ, trừ thứ Năm. Thứ Năm nghỉ. Muốn thăm Kremlin phải mua vé ở quầy. Quầy vé nằm trong vườn Aleksandrovsky. Phải mua vé đúng ngày bạn muốn tham quan vì trên vé in ngày. Lối vào Kremlin nằm cạnh quầy vé. Vào Kremlin qua cổng Troitskie, còn vào Cung Vũ khí — qua cổng Borovitskie. Mỗi năm có khoảng năm triệu người thăm Kremlin."
+    },
+    {
+     "t": "para",
+     "text": "Для гра́ждан Росси́и биле́т в Кремль сто́ит 70 рубле́й. Уча́щиеся, пенсионе́ры и военнослу́жащие име́ют льго́ты. Для них биле́т сто́ит 30 рубле́й. Для дете́й ста́рше 10 лет — 30 рубле́й. Для дете́й до 10 лет биле́т беспла́тный. Сто́имость биле́та в Кремль для иностра́нных гра́ждан — 250 рубле́й. — Với công dân Nga, vé vào Kremlin giá 70 rúp. Học sinh sinh viên, người hưu trí và quân nhân được ưu đãi: vé 30 rúp. Trẻ trên 10 tuổi — 30 rúp. Trẻ dưới 10 tuổi miễn phí. Vé cho công dân nước ngoài — 250 rúp."
+    },
+    {
+     "t": "para",
+     "text": "Е́сли вы купи́ли биле́т в Кремль, вы мо́жете посети́ть собо́ры — Успе́нский, Арха́нгельский, Благове́щенский, — вы́ставочный зал под колоко́льней Ива́на Вели́кого и други́е достопримеча́тельности. В биле́те ука́заны все объе́кты, кото́рые вы мо́жете посети́ть во вре́мя экску́рсии по Кремлю́. И не забу́дьте, что при вхо́де в храм мужчи́ны должны́ снять ша́пки, а у же́нщины на голове́ до́лжен быть плато́к. — Mua vé vào Kremlin, bạn có thể thăm các nhà thờ lớn — Uspensky, Arkhangelsky, Blagoveshchensky — phòng triển lãm dưới tháp chuông Ivan Đại đế và các điểm khác. Trên vé ghi rõ mọi địa điểm bạn được thăm trong chuyến tham quan Kremlin. Và đừng quên: khi vào nhà thờ, đàn ông phải bỏ mũ, còn phụ nữ phải trùm khăn trên đầu."
+    },
+    {
+     "t": "para",
+     "text": "Е́сли вы вошли́ в храм и́ли музе́й и хоти́те фотографи́ровать внутри́, то вы должны́ заплати́ть 50 рубле́й и получи́ть специа́льный значо́к, кото́рый даёт вам пра́во фотографи́ровать. — Nếu bạn vào nhà thờ hay bảo tàng và muốn chụp ảnh bên trong, bạn phải trả 50 rúp để nhận huy hiệu đặc biệt cho phép chụp ảnh."
+    },
+    {
+     "t": "para",
+     "text": "Е́сли вы хоти́те посети́ть ещё и Оруже́йную пала́ту, то ваш биле́т бу́дет доро́же на 100 рубле́й, а льго́тный биле́т — на 30 рубле́й, то есть для гра́ждан Росси́и — 170 рубле́й, для иностра́нных гра́ждан — 350 рубле́й, льго́тный биле́т — 60 рубле́й. Оруже́йная пала́та рабо́тает ежедне́вно, сеа́нсы в 10:00, 12:00, 14:30 и 16:30. Фотографи́роваться в Оруже́йной пала́те нельзя́. — Nếu muốn thăm thêm Cung Vũ khí, vé của bạn sẽ đắt thêm 100 rúp, vé ưu đãi thêm 30 rúp — tức với công dân Nga là 170 rúp, công dân nước ngoài 350 rúp, vé ưu đãi 60 rúp. Cung Vũ khí mở cửa hằng ngày, các suất lúc 10:00, 12:00, 14:30 và 16:30. Trong Cung Vũ khí cấm chụp ảnh. (số liệu giá vé — cần soát lại do ảnh mờ)"
+    },
+    {
+     "t": "para",
+     "text": "Вся террито́рия Кремля́ стро́го охраня́ется, так как Моско́вский Кремль — э́то не то́лько госуда́рственный музе́й, но и ме́сто рабо́ты росси́йского президе́нта. Поэ́тому мы сове́туем вам не брать с собо́й на экску́рсию больши́е ве́щи. Су́мки, портфе́ли и други́е ве́щи на́до сдава́ть в ка́меру хране́ния. — Toàn bộ khuôn viên Kremlin được canh gác nghiêm ngặt, vì Kremlin không chỉ là bảo tàng quốc gia mà còn là nơi làm việc của tổng thống Nga. Vì vậy chúng tôi khuyên bạn đừng mang theo đồ cồng kềnh. Túi xách, cặp và các đồ khác phải gửi ở quầy giữ đồ."
+    },
+    {
+     "t": "para",
+     "text": "Получи́ть дополни́тельную информа́цию о рабо́те Кремля́ мо́жно по телефо́ну 202-37-76. Заказа́ть экску́рсию в Кремль мо́жно по телефо́ну 203-03-49. — Có thể nhận thêm thông tin về giờ mở cửa Kremlin qua số điện thoại 202-37-76. Đặt tour tham quan Kremlin qua số 203-03-49."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s023",
+   "type": "exercise",
+   "title": "Текст — Задание 13 (Từ mới trước bài «Московский Кремль»)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "В статье́, кото́рую вы бу́дете чита́ть, вы встре́тите но́вые слова́. Познако́мьтесь с ни́ми. Прочита́йте приме́ры и объясне́ния. Постара́йтесь поня́ть значе́ния выделенных слов без словаря́. — Trong bài sắp đọc bạn sẽ gặp từ mới. Hãy làm quen với chúng, đọc ví dụ và giải thích, cố hiểu nghĩa không cần từ điển."
+    },
+    {
+     "t": "para",
+     "text": "1. холм = высо́кое ме́сто (на холме́ = на высо́ком ме́сте) — đồi, gò (trên đồi = ở chỗ cao)"
+    },
+    {
+     "t": "para",
+     "text": "2. колоко́льня = высо́кая ба́шня, на кото́рой устано́влены колокола́ — tháp chuông (toà tháp cao đặt các quả chuông)"
+    },
+    {
+     "t": "para",
+     "text": "3. живопи́сец = худо́жник — hoạ sĩ"
+    },
+    {
+     "t": "para",
+     "text": "4. венча́ться на ца́рство = получа́ть официа́льный ста́тус царя́; станови́ться царём — đăng quang, làm lễ lên ngôi Sa hoàng"
+    },
+    {
+     "t": "para",
+     "text": "5. в старину́ = в ста́рые времена́, о́чень давно́ — thời xưa, ngày xưa"
+    },
+    {
+     "t": "para",
+     "text": "6. торгова́ть с рук = занима́ться ме́лкой торго́влей на у́лице, на ры́нке (не в магази́не) — bán hàng rong, buôn bán nhỏ ngoài phố/chợ"
+    },
+    {
+     "t": "para",
+     "text": "7. рыть — вы́рыть что? (4) ров, я́му — đào (hào, hố)"
+    },
+    {
+     "t": "para",
+     "text": "8. охраня́ть кого́? что? (4) царя́, люде́й, Москву́, Кремль, ро́дину, грани́цу — canh giữ, bảo vệ (Sa hoàng, con người, Moskva, Kremlin, tổ quốc, biên giới)"
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s024",
+   "type": "exercise",
+   "title": "Задание 14 — «Московский Кремль» (phần 1: Pháo đài và Quảng trường Đỏ)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Вы собира́етесь на экску́рсию в Моско́вский Кремль. Пе́ред экску́рсией прочита́йте кра́ткую информа́цию о Кремле́, посмотри́те фотогра́фии и скажи́те, что вас заинтересова́ло, что вы хоти́те посмотре́ть. — Bạn sắp đi tham quan Điện Kremlin Moskva. Trước chuyến đi, hãy đọc thông tin ngắn về Kremlin, xem ảnh và cho biết điều gì khiến bạn quan tâm, bạn muốn xem gì."
+    },
+    {
+     "t": "para",
+     "text": "Моско́вский Кремль располо́жен в це́нтре столи́цы — на высо́ком холме́ над Москво́й-реко́й. Стари́нные ве́щи и моне́ты, на́йденные глубоко́ под землёй на террито́рии Моско́вского Кремля́, говоря́т о том, что Москва́ существу́ет почти́ ты́сячу лет. — Điện Kremlin Moskva toạ lạc ở trung tâm thủ đô — trên ngọn đồi cao bên sông Moskva. Những đồ vật và đồng tiền cổ tìm thấy sâu dưới lòng đất trong khuôn viên Kremlin cho thấy Moskva đã tồn tại gần một nghìn năm."
+    },
+    {
+     "t": "para",
+     "text": "Моско́вский Кремль был постро́ен как кре́пость, защища́вшая жи́телей го́рода от враго́в. В конце́ XV ве́ка, когда́ Москва́ ста́ла столи́цей Ру́сского централизо́ванного госуда́рства, вокру́г Кремля́ была́ постро́ена высо́кая ка́менная стена́ и два́дцать ба́шен из кра́сного кирпича́. О́коло стены́ вы́рыли глубо́кий дли́нный ров и пусти́ли туда́ во́ду из Москвы́-реки́, что́бы враги́ не могли́ бли́зко подойти́ к Кремлёвской стене́. Попа́сть в Кремль мо́жно бы́ло то́лько по моста́м, кото́рые вели́ че́рез ров к воро́там Кремля́, но э́ти мосты́ стро́го охраня́лись и днём и но́чью. — Kremlin Moskva được xây như một pháo đài bảo vệ cư dân thành phố khỏi quân thù. Cuối thế kỷ XV, khi Moskva trở thành thủ đô của Nhà nước Nga trung ương tập quyền, quanh Kremlin đã xây bức tường đá cao và hai mươi toà tháp bằng gạch đỏ. Cạnh tường người ta đào con hào dài và sâu rồi dẫn nước từ sông Moskva vào để quân địch không thể tiến sát tường Kremlin. Chỉ có thể vào Kremlin qua những cây cầu bắc qua hào dẫn đến các cổng, nhưng những cây cầu này được canh phòng nghiêm ngặt cả ngày lẫn đêm."
+    },
+    {
+     "t": "para",
+     "text": "Кремль защища́ли не то́лько от враго́в, но и от пожа́ров. Деревя́нные дома́, постро́енные ря́дом с Кремлём, ча́сто горе́ли, поэ́тому вели́кий князь моско́вский Ива́н III (XV век) запрети́л стро́ить деревя́нные дома́ ря́дом с Кремлём и приказа́л освободи́ть зе́млю вокру́г Кремля́. Так пе́ред восто́чной Кремлёвской стено́й образова́лась больша́я пло́щадь. На э́той пло́щади царь разреши́л торгова́ть с рук, поэ́тому лю́ди ста́ли называ́ть э́ту пло́щадь Торг. Э́то бы́ло пе́рвое назва́ние гла́вной моско́вской пло́щади, кото́рая тепе́рь называ́ется Кра́сной. — Người ta bảo vệ Kremlin không chỉ khỏi giặc mà cả khỏi hoả hoạn. Những ngôi nhà gỗ xây cạnh Kremlin thường cháy, nên Đại công tước Moskva Ivan III (thế kỷ XV) cấm xây nhà gỗ cạnh Kremlin và ra lệnh giải toả đất quanh Kremlin. Thế là trước bức tường phía đông của Kremlin hình thành một quảng trường lớn. Trên quảng trường này Sa hoàng cho phép bán hàng rong, nên dân chúng gọi nó là Torg (Chợ). Đó là tên đầu tiên của quảng trường chính của Moskva — nay gọi là Quảng trường Đỏ."
+    },
+    {
+     "t": "para",
+     "text": "Сейча́с Моско́вский Кремль представля́ет собо́й уника́льный архитекту́рный анса́мбль, состоя́щий из знамени́тых па́мятников исто́рии, культу́ры и иску́сства Росси́и. На террито́рии Кремля́ нахо́дятся пло́щади и скве́ры, пара́дные дворцы́ и стари́нные собо́ры. — Ngày nay Kremlin Moskva là một quần thể kiến trúc độc nhất vô nhị gồm những di tích lịch sử, văn hoá và nghệ thuật lừng danh của nước Nga. Trong khuôn viên Kremlin có các quảng trường và vườn hoa, các cung điện nghi lễ và những nhà thờ cổ kính."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s025",
+   "type": "exercise",
+   "title": "«Московский Кремль» (phần 2: Quảng trường Nhà thờ và tháp chuông Ivan Đại đế)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "para",
+     "text": "Е́сли вы посмо́трите на Моско́вский Кремль со стороны́ Москвы́-реки́, с Большо́го Ка́менного моста́, вы уви́дите над Кремлём золоты́е купола́ собо́ров и поймёте, почему́ Москву́ называ́ют златогла́вой. — Nếu ngắm Kremlin từ phía sông Moskva, từ cầu Đá Lớn, bạn sẽ thấy những mái vòm vàng của các nhà thờ vươn trên Kremlin và hiểu vì sao Moskva được gọi là «thành phố mái vàng»."
+    },
+    {
+     "t": "para",
+     "text": "Гла́вная пло́щадь Кремля́ — э́то Собо́рная пло́щадь. Она́ названа́ так потому́, что на э́той пло́щади нахо́дятся три собо́ра: Успе́нский собо́р, Благове́щенский собо́р и Арха́нгельский собо́р. — Quảng trường chính của Kremlin là Quảng trường Nhà thờ (Соборная площадь). Nó được gọi như vậy vì trên quảng trường có ba nhà thờ lớn: nhà thờ Uspensky (Đức Mẹ An Giấc), nhà thờ Blagoveshchensky (Truyền Tin) và nhà thờ Arkhangelsky (Tổng lãnh thiên thần)."
+    },
+    {
+     "t": "para",
+     "text": "Центра́льное ме́сто на Собо́рной пло́щади занима́ет Успе́нский собо́р. Э́то о́чень большо́й и бога́тый собо́р. В э́том собо́ре все ру́сские цари́ венча́лись на ца́рство; здесь чита́лись ва́жные госуда́рственные ука́зы, пра́здновались вое́нные побе́ды. — Vị trí trung tâm của Quảng trường Nhà thờ thuộc về nhà thờ Uspensky. Đây là nhà thờ rất lớn và giàu có. Trong nhà thờ này, tất cả các Sa hoàng Nga làm lễ đăng quang; tại đây người ta đọc các chiếu chỉ quan trọng của quốc gia, mừng các chiến thắng quân sự."
+    },
+    {
+     "t": "para",
+     "text": "Недалеко́ от Успе́нского собо́ра нахо́дится Благове́щенский собо́р, кото́рый был дома́шней це́рковью ца́рской семьи́. Сюда́ приходи́ли цари́ и все чле́ны ца́рской семьи́, что́бы побы́ть наедине́ с Бо́гом, помоли́ться. Благове́щенский собо́р укра́шен ико́нами изве́стного ру́сского живопи́сца Андре́я Рублёва. — Cách nhà thờ Uspensky không xa là nhà thờ Blagoveshchensky — nhà thờ riêng của hoàng gia. Các Sa hoàng và mọi thành viên hoàng tộc đến đây để được riêng tư với Chúa, để cầu nguyện. Nhà thờ Blagoveshchensky được trang hoàng bằng các bức icon của danh hoạ Nga Andrey Rublev."
+    },
+    {
+     "t": "para",
+     "text": "Напро́тив Благове́щенского собо́ра нахо́дится торже́ственный и стро́гий Арха́нгельский собо́р. Э́тот собо́р о́чень краси́в внутри́. В э́том собо́ре хорони́ли царе́й, поэ́тому собо́р называ́ют усыпа́льницей ру́сских царе́й. В собо́ре 46 гробни́ц, в том числе́ и гробни́цы Ива́на III (тре́тьего) и Ива́на IV (четвёртого) Гро́зного. — Đối diện nhà thờ Blagoveshchensky là nhà thờ Arkhangelsky trang nghiêm và uy nghi, bên trong rất đẹp. Các Sa hoàng được an táng trong nhà thờ này, vì thế nó được gọi là lăng mộ của các Sa hoàng Nga. Trong nhà thờ có 46 ngôi mộ, trong đó có mộ của Ivan III và Ivan IV (Ivan Hung đế)."
+    },
+    {
+     "t": "para",
+     "text": "На Собо́рной пло́щади ря́дом с Арха́нгельским собо́ром стои́т колоко́льня «Ива́н Вели́кий». На колоко́льне 21 ко́локол, са́мый кру́пный ко́локол ве́сит 64 то́нны. Не́сколько веко́в наза́д колоко́льня была́ са́мым высо́ким зда́нием Москвы́ (высота́ колоко́льни 81 метр). В я́сную пого́ду с колоко́льни «Ива́н Вели́кий» мо́жно бы́ло уви́деть всю Москву́ в ра́диусе 25 киломе́тров. Когда́ начина́лись пожа́ры и́ли враги́ подходи́ли к Москве́, звони́ли колокола́, и колоко́льный звон был слы́шен над всей Москво́й. — Trên Quảng trường Nhà thờ, cạnh nhà thờ Arkhangelsky, là tháp chuông «Ivan Đại đế». Tháp có 21 quả chuông, quả lớn nhất nặng 64 tấn. Vài thế kỷ trước, tháp chuông là toà nhà cao nhất Moskva (cao 81 mét). Trời quang có thể nhìn từ tháp «Ivan Đại đế» thấy toàn Moskva trong bán kính 25 km. Khi xảy ra hoả hoạn hay quân giặc tiến gần Moskva, chuông được gióng lên và tiếng chuông vang vọng khắp Moskva."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s026",
+   "type": "exercise",
+   "title": "«Московский Кремль» (phần 3: Царь-колокол, Царь-пушка, Cung Vũ khí, tháp Spasskaya)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "para",
+     "text": "Ря́дом с колоко́льней «Ива́н Вели́кий» стои́т Царь-ко́локол — произведе́ние иску́сства XVIII ве́ка, сде́ланное ру́сскими мастера́ми. Э́то са́мый большо́й в ми́ре ко́локол, но, к сожале́нию, он никогда́ не звони́л. Вот его́ исто́рия. Он был сде́лан в 1735 году́ ру́сскими мастера́ми — отцо́м и сы́ном Мото́риными. Во вре́мя си́льного пожа́ра 1737 го́да ко́локол находи́лся в мастерско́й. От высо́кой температу́ры он си́льно нагре́лся. Когда́ пожа́р туши́ли холо́дной водо́й, от ко́локола отколо́лся большо́й кусо́к. Отремонти́ровать ко́локол бы́ло невозмо́жно. Он до́лго лежа́л в мастерско́й. И то́лько че́рез 100 лет (в 1836 году́) его́ поста́вили на террито́рии Кремля́ ря́дом с колоко́льней «Ива́н Вели́кий». Так и стои́т Царь-ко́локол, а о́коло него́ лежи́т большо́й кусо́к ве́сом 11,5 (оди́ннадцать с полови́ной) тонн. — Cạnh tháp chuông «Ivan Đại đế» là Chuông Sa hoàng (Царь-колокол) — tác phẩm nghệ thuật thế kỷ XVIII do các nghệ nhân Nga chế tác. Đây là quả chuông lớn nhất thế giới, nhưng tiếc thay nó chưa từng được rung. Chuyện của nó thế này: chuông được đúc năm 1735 bởi hai cha con nghệ nhân Motorin. Trong trận hoả hoạn lớn năm 1737, chuông đang nằm trong xưởng. Vì nhiệt độ cao nó bị nung rất nóng. Khi người ta dập lửa bằng nước lạnh, một mảnh lớn vỡ ra khỏi chuông. Không thể sửa được chuông. Nó nằm mãi trong xưởng. Phải 100 năm sau (năm 1836) người ta mới đặt nó trong khuôn viên Kremlin cạnh tháp chuông «Ivan Đại đế». Chuông Sa hoàng đứng đó đến nay, bên cạnh là mảnh vỡ lớn nặng 11,5 tấn."
+    },
+    {
+     "t": "para",
+     "text": "Недалеко́ от ко́локола стои́т друго́й истори́ческий па́мятник — Царь-пу́шка. Э́то са́мая больша́я пу́шка в ми́ре. Её сде́лал ру́сский ма́стер для защи́ты Кремля́. Но пу́шка э́та никогда́ не уча́ствовала в вое́нных сраже́ниях и никогда́ не стреля́ла. Ря́дом с пу́шкой лежа́т я́дра, ка́ждое ядро́ ве́сит одну́ то́нну. — Cách quả chuông không xa là một di tích lịch sử khác — Đại bác Sa hoàng (Царь-пушка). Đây là khẩu đại bác lớn nhất thế giới, do một nghệ nhân Nga chế tạo để bảo vệ Kremlin. Nhưng khẩu đại bác này chưa từng tham gia trận chiến nào và chưa từng khai hoả. Cạnh đại bác là những viên đạn, mỗi viên nặng một tấn."
+    },
+    {
+     "t": "para",
+     "text": "Е́сли вы войдёте в Кремль че́рез Борови́цкие воро́та, то сра́зу за воро́тами сле́ва вы уви́дите краси́вое зда́ние. Э́то Оруже́йная пала́та — оди́н из старе́йших музе́ев на́шей страны́. Снача́ла э́то бы́ло ме́сто, где храни́ли ору́жие (отсю́да и назва́ние — Оруже́йная). Пото́м здесь на́чали храни́ть ювели́рные украше́ния, золоты́е и сере́бряные ве́щи, драгоце́нные ка́мни, дорогу́ю оде́жду ца́рской семьи́, а та́кже пода́рки, кото́рые иностра́нные послы́ дари́ли ру́сским царя́м. Сейча́с в музе́е со́брано о́коло 4 (четырёх) ты́сяч экспона́тов. В Оруже́йной пала́те нахо́дится са́мый большо́й в ми́ре золото́й саморо́док, на́йденный на Ура́ле. Вес его́ бо́лее 36 (тридцати́ шести́) килогра́ммов. Ря́дом с Оруже́йной пала́той нахо́дится Большо́й Кремлёвский дворе́ц. — Nếu vào Kremlin qua cổng Borovitskie, ngay sau cổng bên trái bạn sẽ thấy một toà nhà đẹp. Đó là Cung Vũ khí (Оружейная палата) — một trong những bảo tàng cổ nhất nước. Ban đầu đây là nơi cất giữ vũ khí (vì thế có tên Оружейная). Về sau người ta lưu giữ ở đây đồ trang sức, đồ vàng bạc, đá quý, y phục đắt giá của hoàng gia, cùng những tặng phẩm mà các sứ thần nước ngoài dâng các Sa hoàng Nga. Hiện bảo tàng có khoảng 4 nghìn hiện vật. Trong Cung Vũ khí có thỏi vàng tự nhiên lớn nhất thế giới, tìm thấy ở Ural, nặng hơn 36 kg. Cạnh Cung Vũ khí là Đại Cung điện Kremlin."
+    },
+    {
+     "t": "para",
+     "text": "На террито́рии Кремля́ далёкое про́шлое соединя́ется с настоя́щим. Ря́дом с дре́вними собо́рами нахо́дится Госуда́рственный Кремлёвский дворе́ц, постро́енный в 1961 году́. Здесь же, в Кремле́, нахо́дится стари́нное зда́ние, в кото́ром сейча́с располага́ется резиде́нция президе́нта Росси́и. Над резиде́нцией президе́нта — росси́йский госуда́рственный флаг. — Trong khuôn viên Kremlin, quá khứ xa xưa hoà quyện với hiện tại. Cạnh những nhà thờ cổ là Cung điện Kremlin Quốc gia xây năm 1961. Cũng tại Kremlin có toà nhà cổ nay là dinh tổng thống Nga. Trên nóc dinh tổng thống là quốc kỳ Nga."
+    },
+    {
+     "t": "para",
+     "text": "Вокру́г Моско́вского Кремля́ идёт высо́кая Кремлёвская стена́ (её длина́ 2 киломе́тра 235 ме́тров). Сте́ны Кремля́ украша́ют два́дцать ба́шен. Са́мая краси́вая из них — Спа́сская ба́шня. Её высота́ 71 метр. Э́то гла́вная ба́шня Кремля́. В старину́, когда́ лю́ди шли в Кремль, они́ снима́ли пе́ред ней ша́пки. На Спа́сской ба́шне устано́влены са́мые гла́вные часы́ госуда́рства — Кремлёвские кура́нты, кото́рые пока́зывают то́чное вре́мя и бьют ка́ждые 15 мину́т. — Bao quanh Kremlin Moskva là bức tường Kremlin cao (dài 2 km 235 m). Tô điểm cho tường thành là hai mươi toà tháp. Đẹp nhất là tháp Spasskaya, cao 71 mét — toà tháp chính của Kremlin. Thời xưa, khi vào Kremlin, người ta ngả mũ trước tháp. Trên tháp Spasskaya đặt chiếc đồng hồ quan trọng nhất quốc gia — chuông đồng hồ Kremlin (куранты), chỉ giờ chính xác và điểm chuông mỗi 15 phút."
+    },
+    {
+     "t": "para",
+     "text": "Вре́мя идёт вперёд. Меня́ется на́ша жизнь. А Спа́сская ба́шня была́ и остаётся си́мволом Кремля́, си́мволом Москвы́, си́мволом всей Росси́и. — Thời gian cứ trôi về phía trước. Cuộc sống của chúng ta đổi thay. Còn tháp Spasskaya đã và vẫn là biểu tượng của Kremlin, biểu tượng của Moskva, biểu tượng của cả nước Nga."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s027",
+   "type": "exercise",
+   "title": "Задание 15 (Câu hỏi về bài «Московский Кремль»)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "а) Прочита́йте статью́ ещё раз и найди́те в те́ксте отве́ты на э́ти вопро́сы: — a) Đọc lại bài và tìm trong bài câu trả lời cho các câu hỏi:"
+    },
+    {
+     "t": "para",
+     "text": "1. Ско́лько лет Москве́? — Moskva bao nhiêu tuổi?"
+    },
+    {
+     "t": "para",
+     "text": "2. Когда́ Москва́ ста́ла столи́цей Ру́сского централизо́ванного госуда́рства? — Moskva trở thành thủ đô Nhà nước Nga trung ương tập quyền khi nào?"
+    },
+    {
+     "t": "para",
+     "text": "3. Как называ́лась Кра́сная пло́щадь ра́ньше? — Quảng trường Đỏ trước kia tên gì?"
+    },
+    {
+     "t": "para",
+     "text": "4. Почему́ гла́вная пло́щадь Кремля́ называ́ется Собо́рной пло́щадью? — Vì sao quảng trường chính của Kremlin gọi là Quảng trường Nhà thờ?"
+    },
+    {
+     "t": "para",
+     "text": "5. Како́е зда́ние в старину́ бы́ло са́мым высо́ким в Москве́? — Toà nhà nào thời xưa cao nhất Moskva?"
+    },
+    {
+     "t": "para",
+     "text": "6. Ско́лько колоколо́в на колоко́льне «Ива́н Вели́кий»? — Tháp chuông «Ivan Đại đế» có bao nhiêu quả chuông?"
+    },
+    {
+     "t": "para",
+     "text": "7. Почему́ Царь-ко́локол никогда́ не звони́л, а Царь-пу́шка никогда́ не стреля́ла? — Vì sao Chuông Sa hoàng chưa từng kêu, còn Đại bác Sa hoàng chưa từng bắn?"
+    },
+    {
+     "t": "para",
+     "text": "8. Почему́ оди́н из старе́йших музе́ев Кремля́ называ́ется Оруже́йной пала́той? — Vì sao một trong những bảo tàng cổ nhất của Kremlin mang tên Cung Vũ khí?"
+    },
+    {
+     "t": "para",
+     "text": "9. Какова́ длина́ Кремлёвской стены́ и ско́лько на ней ба́шен? — Tường Kremlin dài bao nhiêu và có bao nhiêu tháp? (cần soát lại — ảnh mờ câu 9)"
+    },
+    {
+     "t": "para",
+     "text": "10. Как называ́ется са́мая гла́вная ба́шня Кремля́? — Toà tháp chính của Kremlin tên là gì?"
+    },
+    {
+     "t": "instruction",
+     "text": "б) Что вы узна́ли об исто́рии Моско́вского Кремля́? — b) Bạn đã biết được gì về lịch sử Kremlin Moskva?"
+    },
+    {
+     "t": "instruction",
+     "text": "в) Каку́ю дополни́тельную информа́цию вы хоте́ли бы получи́ть? Зада́йте вопро́сы экскурсово́ду. — c) Bạn muốn biết thêm thông tin gì? Hãy đặt câu hỏi cho hướng dẫn viên."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s028",
+   "type": "exercise",
+   "title": "Задание 16 (Sơ đồ Điện Kremlin — 14 địa điểm)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Посмотри́те план-ка́рту Моско́вского Кремля́ и найди́те все обозна́ченные объе́кты. — Xem sơ đồ Điện Kremlin Moskva và tìm tất cả các địa điểm được đánh dấu."
+    },
+    {
+     "t": "para",
+     "text": "1. Борови́цкие воро́та — cổng Borovitskie; 2. Дворцо́вая пло́щадь — quảng trường Cung điện; 3. Большо́й Кремлёвский дворе́ц — Đại Cung điện Kremlin; 4. Собо́рная пло́щадь — Quảng trường Nhà thờ; 5. Успе́нский собо́р — nhà thờ Uspensky; 6. Арха́нгельский собо́р — nhà thờ Arkhangelsky; 7. Благове́щенский собо́р — nhà thờ Blagoveshchensky."
+    },
+    {
+     "t": "para",
+     "text": "8. Тро́ицкие воро́та — cổng Troitskie; 9. Сена́тская пло́щадь — quảng trường Senatskaya; 10. Колоко́льня «Ива́н Вели́кий» — tháp chuông «Ivan Đại đế»; 11. Царь-ко́локол — Chuông Sa hoàng; 12. Царь-пу́шка — Đại bác Sa hoàng; 13. Оруже́йная пала́та — Cung Vũ khí; 14. Госуда́рственный Кремлёвский дворе́ц — Cung điện Kremlin Quốc gia."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s029",
+   "type": "grammar",
+   "title": "Таблица 4. Обозначение направления движения + lộ trình tham quan Kremlin",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Посмотри́те табли́цу 4. а) Прочита́йте текст и покажи́те на ка́рте маршру́т экску́рсии по Кремлю́. — Xem bảng 4. a) Đọc bài và chỉ trên sơ đồ lộ trình tham quan Kremlin. (Trong sách phần này đi liền sau задание 16, không đánh số riêng.)"
+    },
+    {
+     "t": "table",
+     "title": "Таблица 4. Обозначение направления движения (идти — ехать куда? откуда?) — Bảng 4. Chỉ hướng chuyển động (đi đâu? từ đâu?)",
+     "head": [
+      "Cấu trúc",
+      "Cách dùng"
+     ],
+     "rows": [
+      [
+       "1. туда́ — сюда́; отту́да — отсю́да; напра́во — нале́во; вверх — вниз; пря́мо",
+       "trạng từ: đến đó — đến đây; từ đó — từ đây; sang phải — sang trái; lên trên — xuống dưới; thẳng"
+      ],
+      [
+       "2. до, ми́мо, из / с + чего́? (2)",
+       "+ sinh cách: đến tận, ngang qua, từ / từ trên"
+      ],
+      [
+       "3. к + чему́? (3)",
+       "+ tặng cách: về phía, lại gần"
+      ],
+      [
+       "4. в (во), на, че́рез + что? (4)",
+       "+ đối cách: vào, lên, qua"
+      ]
+     ]
+    },
+    {
+     "t": "para",
+     "text": "В воскресе́нье студе́нты ходи́ли на экску́рсию в Кремль. Они́ вошли́ на террито́рию Кремля́ че́рез Борови́цкие воро́та, пото́м прошли́ по Дворцо́вой пло́щади ми́мо Большо́го Кремлёвского дворца́, поверну́ли нале́во и дошли́ до Собо́рной пло́щади. Зате́м студе́нты прошли́ по Собо́рной пло́щади и подошли́ к Успе́нскому собо́ру, осмотре́ли его́, а пото́м отошли́ от э́того собо́ра и обошли́ всю Собо́рную пло́щадь. Во вре́мя экску́рсии студе́нты узна́ли мно́го интере́сного из исто́рии Моско́вского Кремля́. — Chủ nhật sinh viên đi tham quan Kremlin. Họ vào khuôn viên Kremlin qua cổng Borovitskie, rồi đi qua quảng trường Cung điện ngang Đại Cung điện Kremlin, rẽ trái và đi đến Quảng trường Nhà thờ. Sau đó họ đi dọc Quảng trường Nhà thờ, tiến lại nhà thờ Uspensky, tham quan nó, rồi rời nhà thờ và đi một vòng khắp Quảng trường Nhà thờ. Trong chuyến tham quan, sinh viên biết thêm nhiều điều thú vị về lịch sử Kremlin Moskva."
+    },
+    {
+     "t": "subhead",
+     "text": "Движе́ние по пове́рхности (где?), движе́ние по ра́зным объе́ктам: по + чему́? (3) — Chuyển động trên bề mặt, qua nhiều đối tượng: по + tặng cách"
+    },
+    {
+     "t": "para",
+     "text": "Весь день мы гуля́ли по Москве́: ходи́ли по музе́ям и вы́ставкам, пла́вали на парохо́де по Москве́-реке́, ката́лись на маши́не по моско́вским у́лицам. — Cả ngày chúng tôi dạo chơi khắp Moskva: đi khắp các bảo tàng và triển lãm, đi tàu thuỷ trên sông Moskva, lái xe dạo các phố Moskva."
+    },
+    {
+     "t": "instruction",
+     "text": "б) Найди́те на ка́рте маршру́т № 2, обозна́ченный стре́лками, пройди́те по э́тому маршру́ту и расскажи́те своему́ дру́гу об э́той экску́рсии. (Объе́кты: Тро́ицкие воро́та, Сена́тская пло́щадь, Собо́рная пло́щадь, колоко́льня «Ива́н Вели́кий», Царь-ко́локол, Большо́й Кремлёвский дворе́ц, Оруже́йная пала́та, Борови́цкие воро́та.) Начни́те так: Мы вошли́ в Моско́вский Кремль че́рез Тро́ицкие воро́та… — b) Tìm trên sơ đồ lộ trình số 2 (đánh dấu bằng mũi tên), đi theo lộ trình ấy và kể cho bạn về chuyến tham quan. Bắt đầu thế này: Chúng tôi vào Kremlin Moskva qua cổng Troitskie…"
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s030",
+   "type": "exercise",
+   "title": "Задание 17 (Viết thư kể về Kremlin)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Напиши́те письмо́ своему́ дру́гу и расскажи́те ему́, что интере́сного вы узна́ли о Моско́вском Кремле́ (что вы уви́дели в Моско́вском Кремле́ во вре́мя экску́рсии). — Hãy viết thư cho bạn và kể những điều thú vị bạn đã biết về Kremlin Moskva (những gì bạn thấy trong chuyến tham quan Kremlin)."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s031",
+   "type": "exercise",
+   "title": "Задание 18 (Di tích lịch sử ở thành phố/đất nước bạn)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Каки́е истори́ческие па́мятники есть в ва́шем го́роде, в ва́шей стране́? Расскажи́те о них. — Thành phố và đất nước bạn có những di tích lịch sử nào? Hãy kể về chúng."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s032",
+   "type": "grammar",
+   "title": "Гр. II. Выражение пространственных отношений в сложном предложении (там, где / туда, куда / оттуда, откуда)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "para",
+     "text": "— Где вы лю́бите занима́ться? — Я люблю́ занима́ться там, где мне никто́ не меша́ет. — Bạn thích học ở đâu? — Tôi thích học ở nơi không ai làm phiền tôi."
+    },
+    {
+     "t": "para",
+     "text": "— Где ты нашёл свою́ кни́гу? — Я нашёл её там, куда́ вчера́ положи́л. — Cậu tìm thấy cuốn sách ở đâu? — Mình tìm thấy nó ở chỗ hôm qua mình đã đặt vào."
+    },
+    {
+     "t": "para",
+     "text": "— Где рабо́тает твоя́ сестра́? — Она́ сно́ва рабо́тает там, отку́да ушла́ не́сколько лет наза́д. — Chị cậu làm việc ở đâu? — Chị ấy lại làm ở nơi mấy năm trước chị ấy đã rời đi."
+    },
+    {
+     "t": "para",
+     "text": "— Куда́ пое́хал твой друг? — Он пое́хал отдыха́ть туда́, куда́ его́ пригласи́ли. — Bạn cậu đi đâu? — Cậu ấy đi nghỉ ở nơi người ta mời cậu ấy."
+    },
+    {
+     "t": "para",
+     "text": "— Отку́да прие́хали э́ти тури́сты? — Они́ прие́хали отту́да, где никогда́ не быва́ет зимы́. — Các du khách này từ đâu đến? — Họ đến từ nơi không bao giờ có mùa đông."
+    },
+    {
+     "t": "table",
+     "title": "Bảng tương quan (câu phức chỉ không gian)",
+     "head": [
+      "Где…?",
+      "Куда́…?",
+      "Отку́да…?"
+     ],
+     "rows": [
+      [
+       "…там, где… / …там, куда́… / …там, отку́да…",
+       "…туда́, где… / …туда́, куда́… / …туда́, отку́да…",
+       "…отту́да, где… / …отту́да, куда́… / …отту́да, отку́да…"
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Mệnh đề chính dùng там/туда́/отту́да tương ứng câu hỏi где?/куда́?/отку́да?; mệnh đề phụ mở đầu bằng где, куда́ hoặc отку́да tuỳ quan hệ vị trí/hướng đến/hướng đi."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s033",
+   "type": "exercise",
+   "title": "Задание 19 (10 câu — chúng trả lời câu hỏi nào?)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Прослу́шайте сообще́ния и скажи́те, на каки́е вопро́сы они́ отвеча́ют. — Hãy nghe (đọc) các câu sau và cho biết chúng trả lời cho câu hỏi nào (где? куда́? отку́да?)."
+    },
+    {
+     "t": "para",
+     "text": "1. Я пойду́ туда́, где мне никто́ не бу́дет меша́ть. — Tôi sẽ đến nơi không ai quấy rầy tôi."
+    },
+    {
+     "t": "para",
+     "text": "2. Я откры́л кни́гу там, где мы зако́нчили чита́ть. — Tôi mở sách đúng chỗ chúng ta đọc dở."
+    },
+    {
+     "t": "para",
+     "text": "3. Мой друг ча́сто быва́ет там, отку́да я прие́хал. — Bạn tôi thường đến nơi mà tôi từ đó đến đây."
+    },
+    {
+     "t": "para",
+     "text": "4. Мне позвони́ли отту́да, где я ра́ньше учи́лся. — Người ta gọi cho tôi từ nơi tôi từng học."
+    },
+    {
+     "t": "para",
+     "text": "5. Я хочу́ побыва́ть там, где никогда́ ещё не́ был. — Tôi muốn ghé thăm nơi tôi chưa từng đến."
+    },
+    {
+     "t": "para",
+     "text": "6. За́втра мы встре́тимся там, где договори́лись. — Ngày mai chúng ta gặp nhau ở chỗ đã hẹn."
+    },
+    {
+     "t": "para",
+     "text": "7. Мои́ друзья́ е́дут туда́, куда́ е́дут все тури́сты. — Các bạn tôi đi đến nơi mọi du khách đều đến."
+    },
+    {
+     "t": "para",
+     "text": "8. Врач пришёл туда́, где его́ ждал больно́й. — Bác sĩ đến nơi người bệnh đang chờ ông."
+    },
+    {
+     "t": "para",
+     "text": "9. Молоды́е лю́ди познако́мились там, где вме́сте отдыха́ли. — Đôi bạn trẻ quen nhau ở nơi họ cùng đi nghỉ."
+    },
+    {
+     "t": "para",
+     "text": "10. Моя́ подру́га ушла́ отту́да, где ей бы́ло неинтере́сно рабо́тать. — Bạn tôi đã rời khỏi nơi cô ấy thấy công việc nhàm chán."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s034",
+   "type": "exercise",
+   "title": "Текст — Задание 20 (Từ mới trước bài «Новая квартира»)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "В те́ксте, кото́рый вы бу́дете чита́ть, вы встре́тите но́вые слова́. Познако́мьтесь с ни́ми. Прочита́йте приме́ры и объясне́ния. Постара́йтесь поня́ть значе́ние вы́деленных слов без словаря́. — Trong bài sắp đọc bạn sẽ gặp từ mới. Hãy làm quen, đọc ví dụ và giải thích, cố hiểu nghĩa các từ in đậm không cần từ điển."
+    },
+    {
+     "t": "para",
+     "text": "1. занима́ть — заня́ть что? (4) у кого́? (2) де́ньги — vay (tiền của ai). Заня́ть де́ньги у дру́га = взять де́ньги на определённое вре́мя, а пото́м отда́ть (верну́ть) э́ти де́ньги. — Vay tiền của bạn = lấy tiền trong một thời hạn rồi trả lại."
+    },
+    {
+     "t": "para",
+     "text": "2. поднима́ться — подня́ться = движе́ние вверх — đi lên. Мы вошли́ в лифт и подняли́сь на пя́тый эта́ж. — Chúng tôi vào thang máy và lên tầng năm. / спуска́ться — спусти́ться = движе́ние вниз — đi xuống. Мы вы́шли из кварти́ры и спусти́лись на пе́рвый эта́ж пешко́м. — Chúng tôi ra khỏi căn hộ và đi bộ xuống tầng một."
+    },
+    {
+     "t": "para",
+     "text": "3. перестава́ть — переста́ть что де́лать? — thôi, ngừng (làm gì). Он переста́л учи́ть иностра́нный язы́к. = Сейча́с он не у́чит иностра́нный язы́к, а ра́ньше учи́л. Они́ переста́ли бе́гать по утра́м. = Ра́ньше они́ бе́гали по утра́м, а сейча́с не бе́гают. — Anh ấy đã thôi học ngoại ngữ. Họ đã ngừng chạy buổi sáng."
+    },
+    {
+     "t": "para",
+     "text": "4. притворя́ться — притвори́ться = де́лать — сде́лать вид, обма́нывать — обману́ть — giả vờ, làm bộ. Он притвори́лся, что спит. (= На са́мом де́ле он не спал.) Она́ притвори́лась, что ей бы́ло ве́село. (= На са́мом де́ле ей бы́ло ску́чно.) Же́нщина притво́рно улыбну́лась, но ей бы́ло невесело́. — Anh ta giả vờ ngủ. Cô ấy làm bộ vui vẻ. Người phụ nữ cười gượng nhưng trong lòng chẳng vui."
+    },
+    {
+     "t": "para",
+     "text": "5. оформля́ть — офо́рмить что? (4) па́спорт, ви́зу, докуме́нты — làm (thủ tục), hoàn tất giấy tờ. Е́сли вы хоти́те пое́хать за грани́цу, вам ну́жно офо́рмить докуме́нты. Вы мо́жете офо́рмить и получи́ть ви́зу в посо́льстве. — Muốn ra nước ngoài bạn cần làm giấy tờ. Bạn có thể làm và nhận visa ở đại sứ quán."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s035",
+   "type": "exercise",
+   "title": "Задание 21 а) «Новая квартира» (phần 1: Đi tìm mua căn hộ)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "а) Прочита́йте текст и скажи́те, како́й неприя́тный сюрпри́з ждал молоды́х люде́й в но́вой кварти́ре. — a) Đọc bài và cho biết điều bất ngờ khó chịu nào chờ đợi đôi vợ chồng trẻ trong căn hộ mới."
+    },
+    {
+     "t": "subhead",
+     "text": "Но́вая кварти́ра — Căn hộ mới"
+    },
+    {
+     "t": "para",
+     "text": "Ма́ша и Ви́тя, молода́я семья́ москвиче́й без дете́й и живо́тных, не име́ли свое́й кварти́ры. Они́ снима́ли кварти́ру, потому́ что не хоте́ли жить с роди́телями. Но всем изве́стно, что снять кварти́ру на до́лгое вре́мя о́чень тру́дно, поэ́тому Ма́ша и Ви́тя ча́сто переезжа́ли из одно́й кварти́ры в другу́ю. Наконе́ц молода́я семья́, уста́вшая от бездо́мной жи́зни, реши́ла купи́ть со́бственную отде́льную кварти́ру. Э́та зада́ча то́же была́ нелёгкой, так как у молоды́х люде́й бы́ло ма́ло де́нег. Э́тих де́нег не хвата́ло, что́бы купи́ть кварти́ру. Тогда́ они́ пошли́ занима́ть де́ньги у роди́телей, ро́дственников и друзе́й. В результа́те Ма́ша и Ви́тя собра́ли су́мму, кото́рой должно́ бы́ло хвати́ть на ма́ленькую однокомна́тную кварти́ру в стро́ящемся до́ме на окра́ине Москвы́. — Masha và Vitya, đôi vợ chồng trẻ người Moskva chưa con cái, không nuôi thú cưng, không có căn hộ riêng. Họ thuê nhà vì không muốn sống cùng bố mẹ. Nhưng ai cũng biết thuê nhà dài hạn rất khó, nên Masha và Vitya thường xuyên phải chuyển từ căn hộ này sang căn hộ khác. Cuối cùng, mệt mỏi vì cảnh sống «không nhà», đôi vợ chồng trẻ quyết định mua căn hộ riêng. Việc này cũng chẳng dễ vì họ có ít tiền — số tiền ấy không đủ mua nhà. Thế là họ đi vay tiền của bố mẹ, họ hàng và bạn bè. Kết quả Masha và Vitya gom được khoản tiền đủ cho một căn hộ một phòng nhỏ trong toà nhà đang xây ở ngoại ô Moskva."
+    },
+    {
+     "t": "para",
+     "text": "Ка́ждый день молоды́е лю́ди уходи́ли с рабо́ты пора́ньше и е́хали смотре́ть новостро́йки, что́бы вы́брать дом, в кото́ром они́ ку́пят кварти́ру. Они́ приезжа́ли туда́, где стро́или но́вый дом, подходи́ли к бу́дущему до́му, обходи́ли вокру́г него́, представля́ли себе́, како́й вид бу́дет из окна́, ду́мали, ско́лько вре́мени они́ бу́дут добира́ться до рабо́ты. Ма́ша да́же бе́гала в де́тские сады́, кото́рые находи́лись вокру́г, что́бы узна́ть, куда́ бу́дет ходи́ть их бу́дущий ребёнок. Наконе́ц дом был на́йден. Он был практи́чески гото́в: в нём уже́ бы́ли о́кна и две́ри с замка́ми. Же́нщина, рабо́тающая в кварти́рном аге́нтстве, ходи́ла вме́сте с Ма́шей и Ви́тей и с удово́льствием пока́зывала им дом. — Ngày nào đôi vợ chồng trẻ cũng rời sở làm sớm hơn để đi xem các khu nhà mới xây, chọn toà nhà sẽ mua căn hộ. Họ đến nơi đang xây nhà mới, tiến lại gần ngôi nhà tương lai, đi vòng quanh nó, hình dung cảnh nhìn từ cửa sổ, tính xem đi làm mất bao lâu. Masha thậm chí chạy đến các nhà trẻ quanh đó để xem con họ sau này sẽ học ở đâu. Cuối cùng ngôi nhà đã được tìm thấy. Nó gần như hoàn thiện: đã có cửa sổ và cửa ra vào có khoá. Người phụ nữ làm ở văn phòng môi giới nhà đất đi cùng Masha và Vitya, vui vẻ dẫn họ xem nhà."
+    },
+    {
+     "t": "para",
+     "text": "— Прекра́сный вариа́нт, — говори́ла же́нщина-аге́нт, — всего́ 15 мину́т на тра́нспорте и́ли 30 мину́т пешко́м до метро́, лу́чше вы не найдёте. Ря́дом бу́дет парк, и стро́ятся подзе́мные гаражи́ — всё для вас. — «Phương án tuyệt vời, — bà môi giới nói, — chỉ 15 phút đi xe hoặc 30 phút đi bộ đến metro, không tìm đâu tốt hơn. Cạnh nhà sẽ có công viên, lại đang xây gara ngầm — tất cả vì các bạn.»"
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s036",
+   "type": "exercise",
+   "title": "«Новая квартира» (phần 2: Lên tầng chín… hay tầng tám?)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "para",
+     "text": "Их бу́дущая кварти́ра находи́лась на девя́том этаже́, но лифт в но́вом до́ме ещё не рабо́тал, поэ́тому они́ пошли́ на девя́тый эта́ж пешко́м. Когда́ молоды́е лю́ди прошли́ 3–4 этажа́, они́ так уста́ли поднима́ться пешко́м, что переста́ли счита́ть этажи́. Они́ про́сто шли за аге́нтом. — Căn hộ tương lai của họ ở tầng chín, nhưng thang máy trong toà nhà mới chưa hoạt động nên họ đi bộ lên tầng chín. Leo được 3–4 tầng, đôi vợ chồng mệt đến mức thôi đếm tầng. Họ chỉ lẳng lặng đi theo bà môi giới."
+    },
+    {
+     "t": "para",
+     "text": "— Ну вот, пришли́, смотри́те, — сказа́ла аге́нт и откры́ла дверь кварти́ры. Молодожёны вошли́. Ма́ша сра́зу подошла́ к окну́. Вид из окна́ ей о́чень понра́вился: парк, часть у́лицы, шко́ла и небольшо́й стадио́н. Ви́тя в э́то вре́мя обошёл кварти́ру: зашёл на ку́хню, пото́м прошёл в ко́мнату, вы́шел на балко́н, постоя́л, посмотре́л и верну́лся в кварти́ру. — «Đây rồi, đến nơi rồi, mời xem», — bà môi giới nói và mở cửa căn hộ. Đôi vợ chồng mới cưới bước vào. Masha lập tức đến bên cửa sổ. Cảnh nhìn từ cửa sổ khiến cô rất thích: công viên, một đoạn phố, trường học và sân vận động nhỏ. Vitya lúc đó đi một vòng căn hộ: vào bếp, sang phòng khách, ra ban công, đứng một lát ngắm nghía rồi quay vào."
+    },
+    {
+     "t": "para",
+     "text": "— Всё подхо́дит, бу́дем покупа́ть, — уста́ло сказа́л он. — Ну, вот и хорошо́! — отве́тила же́нщина-аге́нт. Они́ вы́шли из кварти́ры и ста́ли спуска́ться вниз. Путь наза́д был намно́го коро́че и ле́гче. Ма́ша бежа́ла по ле́стнице и счита́ла этажи́. — Шесть! — ра́достно крича́ла Ма́ша. — Семь! Во́семь?! — удивлённо сказа́ла она́, когда́ уви́дела дверь на у́лицу. — Де́вять! — попра́вил её муж. — Нет, во́семь! Я хорошо́ уме́ю счита́ть, в шко́ле у меня́ была́ пятёрка по матема́тике. — «Mọi thứ đều ổn, mua thôi», — anh mệt mỏi nói. — «Thế thì tốt quá!» — bà môi giới đáp. Họ ra khỏi căn hộ và bắt đầu xuống cầu thang. Đường về ngắn và nhẹ hơn nhiều. Masha vừa chạy xuống vừa đếm tầng. — «Sáu!» — Masha hớn hở reo. — «Bảy! Tám?!» — cô ngạc nhiên thốt lên khi thấy cửa ra phố. — «Chín chứ!» — chồng cô sửa. — «Không, tám! Em đếm giỏi lắm, hồi đi học em toàn điểm 5 môn toán.»"
+    },
+    {
+     "t": "para",
+     "text": "— Мы что, бы́ли на восьмо́м этаже́? — спроси́л Ви́тя. — Не мо́жет быть! — притво́рно удиви́лась же́нщина-аге́нт и с у́жасом посмотре́ла вверх. — Ну что, пойдём обра́тно? Ма́ша и Ви́тя посмотре́ли друг на дру́га. — Я бы подняла́сь ещё раз, — сказа́ла Ма́ша. — Е́сли хоти́те, коне́чно, мы мо́жем пойти́, но э́то необяза́тельно, — бы́стро сказа́ла же́нщина-аге́нт, — ва́ша кварти́ра то́чно така́я же, как та кварти́ра, кото́рую мы сейча́с посмотре́ли. Они́ же нахо́дятся друг под дру́гом! — «Chẳng lẽ chúng ta vừa ở tầng tám?» — Vitya hỏi. — «Không thể nào!» — bà môi giới giả vờ ngạc nhiên và kinh hãi nhìn lên. — «Sao, ta quay lại chứ?» Masha và Vitya nhìn nhau. — «Em sẵn sàng leo lần nữa», — Masha nói. — «Nếu muốn thì dĩ nhiên ta có thể đi, nhưng không cần thiết đâu, — bà môi giới nói nhanh, — căn hộ của các bạn giống hệt căn vừa xem. Chúng nằm ngay trên dưới nhau mà!»"
+    },
+    {
+     "t": "para",
+     "text": "— Зна́ешь что, иди́ одна́, — сказа́л Ви́тя жене́, отверну́лся и закури́л. Ма́ша поняла́, что её ждёт семе́йная ссо́ра. Но лу́чше неприя́тная семе́йная ссо́ра, чем жизнь в плохо́й кварти́ре. Ма́ша пошла́ наза́д к ле́стнице. Аге́нт ме́дленно пошла́ за ней. Тепе́рь Ма́ша сама́ счита́ла этажи́. Наконе́ц они́ дошли́ до девя́того этажа́. Же́нщина-аге́нт до́лго иска́ла ключ в свое́й су́мке. — «Thế này nhé, em đi một mình đi», — Vitya nói với vợ, quay đi và châm thuốc. Masha hiểu rằng một trận cãi vã gia đình đang chờ cô. Nhưng thà cãi nhau khó chịu còn hơn sống trong căn hộ tồi. Masha quay lại cầu thang. Bà môi giới chậm chạp đi theo. Lần này Masha tự đếm tầng. Cuối cùng họ lên đến tầng chín. Bà môi giới lục tìm chìa khoá trong túi hồi lâu."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s037",
+   "type": "exercise",
+   "title": "«Новая квартира» (phần 3: Cửa không mở và vị thanh tra cứu hoả)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "para",
+     "text": "Ключ легко́ вошёл в замо́к, но дверь не открыва́лась. — Ничего́ не понима́ю, — сказа́ла аге́нт, — почему́ дверь не открыва́ется? Э́то ваш ключ, от ва́шей кварти́ры, я то́чно зна́ю! — Что бу́дем де́лать? — спроси́ла Ма́ша. — Мо́жем пойти́ вниз поиска́ть строи́телей, они́ нам помо́гут откры́ть дверь, — предложи́ла аге́нт. — Но я вам уже́ говори́ла, что все кварти́ры одина́ковые. Вы там ничего́ но́вого не уви́дите. Ко́мната, ку́хня, балко́н — всё тако́е же. Пове́рьте моему́ о́пыту! — Chiếc chìa tra vào ổ nhẹ nhàng nhưng cửa không mở. — «Tôi chẳng hiểu gì cả, — bà môi giới nói, — sao cửa không mở nhỉ? Đây là chìa của các bạn, của chính căn hộ các bạn, tôi biết chắc mà!» — «Giờ làm sao?» — Masha hỏi. — «Ta có thể xuống tìm thợ xây, họ sẽ giúp mở cửa, — bà môi giới đề nghị. — Nhưng tôi nói rồi, các căn hộ giống hệt nhau. Các bạn sẽ chẳng thấy gì mới đâu. Phòng, bếp, ban công — y như thế cả. Hãy tin kinh nghiệm của tôi!»"
+    },
+    {
+     "t": "para",
+     "text": "Ма́ша поду́мала, что она́ бо́льше не мо́жет ходи́ть вверх-вниз по ле́стнице, пото́м предста́вила лицо́ му́жа, ожида́ющего её на у́лице, и реши́ла, что иска́ть строи́телей она́ не пойдёт. Че́рез неде́лю молоды́е лю́ди заплати́ли де́ньги, офо́рмили докуме́нты и получи́ли ключи́ от но́вой кварти́ры. Ма́ша и Ви́тя прие́хали в но́вый дом, подняли́сь на ли́фте на девя́тый эта́ж и вошли́ в свою́ кварти́ру. Кварти́ра действи́тельно была́ така́я же, как и на восьмо́м этаже́. — Masha nghĩ cô không thể leo lên leo xuống cầu thang thêm nữa, rồi hình dung gương mặt ông chồng đang đợi dưới phố, và quyết định không đi tìm thợ xây. Một tuần sau, đôi vợ chồng trẻ trả tiền, hoàn tất giấy tờ và nhận chìa khoá căn hộ mới. Masha và Vitya đến nhà mới, đi thang máy lên tầng chín và bước vào căn hộ của mình. Căn hộ quả thật giống hệt căn ở tầng tám."
+    },
+    {
+     "t": "para",
+     "text": "— На́до же, не обману́ли! — сказа́ла Ма́ша и пошла́ смотре́ть ку́хню. Ви́тя реши́л покури́ть. — То́лько не в кварти́ре! — закрича́ла Ма́ша. — Иди́ на ле́стницу и́ли на балко́н! Ви́тя вы́брал балко́н. Он ва́жно вы́шел на свой пе́рвый в жи́зни балко́н и вдохну́л холо́дный моско́вский во́здух. — Кака́я красота́! Как хорошо́ жить в свое́й кварти́ре! — ра́достно сказа́л Ви́тя. Он предста́вил себе́, что ле́том они́ покра́сят балко́н бе́лой кра́ской, поса́дят цветы́ и поста́вят ма́ленький сто́лик и два кре́сла. Их замеча́тельный балко́н, отку́да открыва́ется прекра́сный вид, преврати́тся в симпати́чное францу́зское ле́тнее кафе́. — «Hoá ra họ không lừa mình!» — Masha nói rồi đi xem bếp. Vitya định hút thuốc. — «Không hút trong nhà!» — Masha hét lên. — «Ra cầu thang hoặc ban công!» Vitya chọn ban công. Anh trịnh trọng bước ra ban công đầu tiên trong đời mình và hít làn không khí lạnh của Moskva. — «Đẹp quá! Sống trong căn hộ của chính mình thật tuyệt!» — Vitya sung sướng nói. Anh hình dung mùa hè họ sẽ sơn ban công màu trắng, trồng hoa, đặt chiếc bàn nhỏ và hai chiếc ghế bành. Ban công tuyệt vời của họ, nơi mở ra khung cảnh đẹp đẽ, sẽ biến thành quán cà phê mùa hè xinh xắn kiểu Pháp."
+    },
+    {
+     "t": "para",
+     "text": "— Ве́чером мы бу́дем сиде́ть за сто́ликом, пить чай и разгова́ривать. Я смогу́ споко́йно чита́ть газе́ту и кури́ть, — мечта́л Ви́тя. — А че́рез год, мо́жет быть, ря́дом с на́ми бу́дет стоя́ть коля́ска, где бу́дет спать наш сын. Мы никогда́ не бу́дем ста́вить на наш балко́н ста́рую ме́бель, коро́бки с веща́ми и лы́жи. У нас здесь всегда́ бу́дет чи́сто и краси́во. Бо́же мой, как хорошо́! — «Tối tối ta sẽ ngồi bên bàn, uống trà trò chuyện. Anh sẽ được thong thả đọc báo, hút thuốc, — Vitya mơ màng. — Còn sang năm, biết đâu cạnh chúng ta sẽ là chiếc xe nôi, nơi con trai mình ngủ. Ta sẽ không bao giờ chất lên ban công đồ đạc cũ, thùng hộp hay ván trượt tuyết. Ở đây lúc nào cũng sạch và đẹp. Trời ơi, sướng quá!»"
+    },
+    {
+     "t": "para",
+     "text": "В э́тот прекра́сный миг Ви́тя услы́шал звоно́к в дверь и пошёл открыва́ть. За две́рью стоя́л высо́кий незнако́мый мужчи́на. — Ви́ктор Петро́вич Моро́зов? — стро́го спроси́л незнако́мый мужчи́на. — Да, э́то я, — отве́тил Ви́тя. — Здра́вствуйте, моя́ фами́лия Ко́шкин, я пожа́рный инспе́ктор. Дава́йте осмо́трим ваш балко́н! Они́ вме́сте вы́шли на балко́н. То́лько тепе́рь Ви́тя заме́тил большу́ю зелёную ле́стницу и огро́мный люк. — Đúng khoảnh khắc tuyệt vời ấy, Vitya nghe tiếng chuông cửa và ra mở. Sau cánh cửa là một người đàn ông cao lớn, lạ mặt. — «Viktor Petrovich Morozov?» — người lạ hỏi nghiêm nghị. — «Vâng, là tôi», — Vitya đáp. — «Chào anh, tôi họ Koshkin, thanh tra phòng cháy. Ta cùng xem ban công của anh nào!» Họ cùng ra ban công. Lúc này Vitya mới để ý chiếc thang sắt lớn màu xanh lá và cái cửa sập khổng lồ."
+    },
+    {
+     "t": "para",
+     "text": "— Я пожа́рный инспе́ктор, — ещё раз повтори́л мужчи́на, — ва́ша кварти́ра еди́нственная в э́том до́ме, где на балко́не есть пожа́рная ле́стница и люк. Поэ́тому, е́сли случи́тся пожа́р, все жильцы́ с ве́рхних этаже́й, с деся́того и оди́ннадцатого, бу́дут проходи́ть че́рез ва́шу кварти́ру и че́рез ваш люк спуска́ться вниз. Поэ́тому я даю́ вам пра́вила, как по́льзоваться балко́ном. Запо́мните, вы должны́ обяза́тельно выполня́ть э́ти пра́вила! Вот, пожа́луйста, возьми́те и распиши́тесь! Ви́тя расписа́лся. Пожа́рный инспе́ктор ушёл. Супру́ги на́чали чита́ть пра́вила: — «Tôi là thanh tra phòng cháy, — người đàn ông nhắc lại, — căn hộ của anh là căn duy nhất trong toà nhà có thang thoát hiểm và cửa sập trên ban công. Vì vậy nếu xảy ra hoả hoạn, toàn bộ cư dân các tầng trên — tầng mười và mười một — sẽ đi qua căn hộ của anh và xuống bằng cửa sập này. Do đó tôi đưa anh bản quy tắc sử dụng ban công. Nhớ là anh bắt buộc phải tuân thủ các quy tắc này! Đây, xin anh nhận và ký vào!» Vitya ký. Thanh tra phòng cháy ra về. Hai vợ chồng bắt đầu đọc quy tắc:"
+    },
+    {
+     "t": "para",
+     "text": "1. Балко́н до́лжен быть покра́шен в зелёный цвет. 2. Балко́н до́лжен быть абсолю́тно пусты́м: нельзя́ ста́вить на балко́не цветы́, сто́лик, кре́сла, коля́ску. 3. На балко́не нельзя́ пить чай, кури́ть и чита́ть газе́ты. — 1. Ban công phải sơn màu xanh lá. 2. Ban công phải hoàn toàn trống: không được đặt hoa, bàn, ghế bành, xe nôi. 3. Trên ban công không được uống trà, hút thuốc và đọc báo."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s038",
+   "type": "exercise",
+   "title": "Задание 21 б) в) г) (Câu hỏi về «Новая квартира»)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "б) Каки́е вопро́сы о но́вой кварти́ре друзья́ за́дали Ма́ше и Ви́те? — b) Bạn bè đã hỏi Masha và Vitya những gì về căn hộ mới?"
+    },
+    {
+     "t": "instruction",
+     "text": "в) Прочита́йте вопро́сы по содержа́нию те́кста и найди́те те вопро́сы, кото́рые ещё не обсужда́лись. Отве́тьте на них. — c) Đọc các câu hỏi theo nội dung bài, tìm những câu chưa được thảo luận và trả lời chúng."
+    },
+    {
+     "t": "para",
+     "text": "1. Где жила́ молода́я семья́? Почему́ они́ ча́сто переезжа́ли? — Đôi vợ chồng trẻ sống ở đâu? Vì sao họ hay chuyển nhà?"
+    },
+    {
+     "t": "para",
+     "text": "2. Почему́ молоды́е лю́ди ста́ли занима́ть де́ньги? — Vì sao họ phải đi vay tiền?"
+    },
+    {
+     "t": "para",
+     "text": "3. Как они́ выбира́ли но́вую кварти́ру? — Họ chọn căn hộ mới như thế nào?"
+    },
+    {
+     "t": "para",
+     "text": "4. Куда́ обрати́лись Ма́ша и Ви́тя, что́бы купи́ть кварти́ру? — Masha và Vitya tìm đến đâu để mua nhà?"
+    },
+    {
+     "t": "para",
+     "text": "5. Каку́ю кварти́ру они́ вы́брали? — Họ chọn căn hộ thế nào?"
+    },
+    {
+     "t": "para",
+     "text": "6. Кварти́ру на како́м этаже́ показа́ла им же́нщина-аге́нт и почему́? — Bà môi giới đã cho họ xem căn hộ ở tầng mấy và vì sao? (cần soát lại — ảnh mờ)"
+    },
+    {
+     "t": "para",
+     "text": "7. Почему́ молоды́е лю́ди пове́рили аге́нту и согласи́лись купи́ть кварти́ру? — Vì sao đôi vợ chồng tin bà môi giới và đồng ý mua?"
+    },
+    {
+     "t": "para",
+     "text": "8. О чём мечта́л Ви́тя на но́вом балко́не? — Vitya mơ ước gì trên ban công mới?"
+    },
+    {
+     "t": "para",
+     "text": "9. С како́й це́лью пришёл пожа́рный инспе́ктор? Что он сообщи́л молоды́м лю́дям? — Thanh tra phòng cháy đến nhằm mục đích gì? Ông thông báo điều gì?"
+    },
+    {
+     "t": "para",
+     "text": "10. Как вы ду́маете, что сде́лают Ма́ша и Ви́тя в э́той ситуа́ции? — Theo bạn, Masha và Vitya sẽ làm gì trong tình huống này?"
+    },
+    {
+     "t": "instruction",
+     "text": "г) Скажи́те, что бы вы сде́лали в подо́бной ситуа́ции. Почему́ на́до быть о́чень внима́тельным при поку́пке но́вой кварти́ры? — d) Bạn sẽ làm gì trong tình huống tương tự? Vì sao khi mua nhà mới phải hết sức cẩn thận?"
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s039",
+   "type": "exercise",
+   "title": "Задание 22 (Kể lại và nghĩ đoạn kết)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "а) Как э́ту исто́рию расска́жут Ма́ша, Ви́тя, друзья́ Ма́ши и Ви́ти? — a) Masha, Vitya và bạn bè của họ sẽ kể câu chuyện này như thế nào?"
+    },
+    {
+     "t": "instruction",
+     "text": "б) Приду́майте своё оконча́ние э́той исто́рии. — b) Hãy nghĩ ra đoạn kết của riêng bạn cho câu chuyện."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s040",
+   "type": "exercise",
+   "title": "Задание 23 (Viết thư của Masha cho bạn ở Peterburg)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Како́е письмо́ Ма́ша написа́ла свое́й подру́ге в Петербу́рг? Оно́ начина́лось так: «Дорога́я Ле́на! Неда́вно мы купи́ли но́вую кварти́ру. Я хочу́ рассказа́ть тебе́ об э́том…» Напиши́те э́то письмо́. — Masha đã viết bức thư thế nào cho bạn gái ở Peterburg? Thư mở đầu: «Lena thân mến! Bọn mình vừa mua căn hộ mới. Mình muốn kể cậu nghe…» Hãy viết bức thư ấy."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s041",
+   "type": "exercise",
+   "title": "Задание 24 (So sánh sơ đồ hai khu phố)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Посмотри́те на пла́ны двух райо́нов. Сравни́те их. Скажи́те, что где нахо́дится. Как вы ду́маете, в како́м райо́не вы́брали кварти́ру Ма́ша и Ви́тя? Объясни́те почему́. — Xem sơ đồ hai khu phố. So sánh chúng, nói xem cái gì nằm ở đâu. Theo bạn, Masha và Vitya chọn căn hộ ở khu nào? Giải thích vì sao."
+    },
+    {
+     "t": "para",
+     "text": "Рис. 1: шоссе́, остано́вка авто́буса, парк, ста́нция метро́, стадио́н, дома́, де́тский сад, магази́н. — Hình 1: đường quốc lộ, bến xe buýt, công viên, ga metro, sân vận động, các toà nhà, nhà trẻ, cửa hàng."
+    },
+    {
+     "t": "para",
+     "text": "Рис. 2: шоссе́, бензоколо́нка, остано́вка авто́буса, дома́, магази́н, шко́ла, стадио́н, парк. — Hình 2: đường quốc lộ, trạm xăng, bến xe buýt, các toà nhà, cửa hàng, trường học, sân vận động, công viên."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s042",
+   "type": "exercise",
+   "title": "Задание 25 (Kê đồ đạc vào phòng mới)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "а) Ма́ша и Ви́тя перее́хали в но́вую кварти́ру. Они́ купи́ли ме́бель: дива́н-крова́ть, два кре́сла, журна́льный сто́лик, кни́жные по́лки, шкаф, пи́сьменный стол и стул, а та́кже други́е ве́щи: компью́тер, телеви́зор, насто́льную ла́мпу, занаве́ски, ва́зу, карти́ну и кни́ги. Помоги́те им поста́вить в ко́мнату ме́бель и други́е ве́щи. — a) Masha và Vitya đã dọn về căn hộ mới. Họ mua đồ gỗ: giường-sofa, hai ghế bành, bàn trà, kệ sách, tủ, bàn viết và ghế, cùng các thứ khác: máy tính, TV, đèn bàn, rèm cửa, lọ hoa, bức tranh và sách. Hãy giúp họ kê đồ vào phòng."
+    },
+    {
+     "t": "model",
+     "text": "Образе́ц: — Я предлага́ю поста́вить пи́сьменный стол спра́ва от окна́. — Нет, дава́й лу́чше поста́вим пи́сьменный стол пе́ред окно́м. — Mẫu: — Tớ đề nghị đặt bàn viết bên phải cửa sổ. — Không, ta đặt bàn viết trước cửa sổ thì hơn."
+    },
+    {
+     "t": "instruction",
+     "text": "б) Нарису́йте свою́ ко́мнату и́ли кварти́ру. Скажи́те, где что стои́т, лежи́т, виси́т. — b) Vẽ căn phòng hay căn hộ của bạn. Nói xem cái gì đặt, nằm, treo ở đâu."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s043",
+   "type": "exercise",
+   "title": "Задание 26 (Cảnh nhìn từ cửa sổ ký túc xá)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Вы у́читесь в университе́те и живёте в общежи́тии. Расскажи́те дру́гу, что вы ви́дите из окна́ свое́й ко́мнаты (испо́льзуйте материа́лы табли́ц 3 и 4). — Bạn học đại học và sống trong ký túc xá. Hãy kể cho bạn mình nghe bạn nhìn thấy gì từ cửa sổ phòng (dùng tư liệu bảng 3 và 4)."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s044",
+   "type": "exercise",
+   "title": "Читаем газеты — Задание 27.1 «Ночные автобусы» (Xe buýt đêm)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Прочита́йте назва́ния стате́й из моско́вских газе́т. Как вы ду́маете, о чём расска́зывается в э́тих статья́х? 1. а) Прочита́йте статью́ (в слу́чае необходи́мости мо́жно по́льзоваться словарём) и скажи́те, как рабо́тают ночны́е авто́бусы. — Đọc tên các bài báo Moskva. Theo bạn các bài viết về gì? 1. a) Đọc bài (có thể dùng từ điển nếu cần) và cho biết xe buýt đêm hoạt động ra sao."
+    },
+    {
+     "t": "subhead",
+     "text": "Ночны́е авто́бусы — Xe buýt đêm"
+    },
+    {
+     "t": "para",
+     "text": "В Москве́ прохо́дит экспериме́нт: на́чали рабо́тать авто́бусы, кото́рые развозя́т ночны́х пассажи́ров. Сейча́с существу́ет то́лько пять маршру́тов, совпада́ющих с ли́ниями метро́. Авто́бусы рабо́тают с ча́су но́чи до полови́ны шесто́го утра́. Пла́та за прое́зд зави́сит от да́льности пое́здки. Э́тот экспериме́нт до́лжен показа́ть, нужны́ ли ночны́е авто́бусы москвича́м. Е́сли пассажи́ров бу́дет мно́го, бу́дут откры́ты но́вые маршру́ты в ра́зных райо́нах Москвы́. — Moskva đang thí điểm: các xe buýt chở khách đêm đã bắt đầu hoạt động. Hiện chỉ có năm tuyến, trùng với các tuyến metro. Xe chạy từ 1 giờ đêm đến 5 rưỡi sáng. Giá vé phụ thuộc độ dài chuyến đi. Cuộc thí điểm này phải cho thấy người Moskva có cần xe buýt đêm hay không. Nếu đông khách, các tuyến mới sẽ được mở ở nhiều quận của Moskva."
+    },
+    {
+     "t": "instruction",
+     "text": "б) Отве́тьте на вопро́сы: 1. При како́м усло́вии бу́дут откры́ты но́вые ночны́е маршру́ты? 2. От чего́ зави́сит пла́та за прое́зд в но́вых авто́бусах? — b) Trả lời: 1. Với điều kiện nào các tuyến đêm mới sẽ được mở? 2. Giá vé trên các xe buýt mới phụ thuộc điều gì?"
+    },
+    {
+     "t": "instruction",
+     "text": "в) Кра́тко переда́йте содержа́ние статьи́ (2–3 предложе́ния). — c) Tóm tắt nội dung bài báo (2–3 câu)."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s045",
+   "type": "exercise",
+   "title": "Задание 27.2 «О потерянных вещах» (Về đồ thất lạc)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "2. а) Прочита́йте статью́ (в слу́чае необходи́мости мо́жно по́льзоваться словарём) и скажи́те, заче́м моско́вская мили́ция со́здала но́вый сайт в Интерне́те. — 2. a) Đọc bài và cho biết cảnh sát Moskva lập trang web mới để làm gì."
+    },
+    {
+     "t": "subhead",
+     "text": "О поте́рянных веща́х — Về những đồ vật bị thất lạc"
+    },
+    {
+     "t": "para",
+     "text": "Е́сли вы потеря́ли каки́е-нибу́дь ве́щи на у́лицах Москвы́ и́ли в тра́нспорте, тепе́рь вы мо́жете сообщи́ть об э́том в мили́цию че́рез Интерне́т. На но́вом са́йте городско́й мили́ции (www.petrovka38.ru) появи́лась специа́льная анке́та (фо́рма), кото́рую ну́жно запо́лнить и отосла́ть. В э́той анке́те вы должны́ указа́ть своё и́мя и фами́лию, указа́ть ве́щи, кото́рые вы потеря́ли, и ме́сто, где э́то могло́ произойти́. Отве́т на ва́шу анке́ту придёт на ваш электро́нный а́дрес. — Nếu bạn đánh mất đồ trên đường phố Moskva hay trên phương tiện giao thông, giờ đây bạn có thể báo cảnh sát qua Internet. Trên trang web mới của cảnh sát thành phố (www.petrovka38.ru) có mẫu khai đặc biệt cần điền và gửi đi. Trong mẫu khai bạn phải ghi họ tên, liệt kê đồ đã mất và nơi có thể xảy ra việc đó. Câu trả lời sẽ được gửi đến địa chỉ email của bạn."
+    },
+    {
+     "t": "instruction",
+     "text": "б) Каки́е вопро́сы вы зада́дите, что́бы уточни́ть информа́цию? — b) Bạn sẽ đặt những câu hỏi nào để làm rõ thông tin?"
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s046",
+   "type": "exercise",
+   "title": "Задание 27.3 «Библиотека МГУ выходит в Интернет» (Thư viện MGU lên Internet)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "3. а) Прочита́йте статью́ (в слу́чае необходи́мости мо́жно по́льзоваться словарём) и скажи́те, мо́гут ли студе́нты и преподава́тели МГУ занима́ться в чита́льных за́лах библиоте́ки. — 3. a) Đọc bài và cho biết sinh viên, giảng viên MGU có còn được học trong các phòng đọc của thư viện không."
+    },
+    {
+     "t": "subhead",
+     "text": "Библиоте́ка МГУ выхо́дит в Интерне́т — Thư viện MGU lên Internet"
+    },
+    {
+     "t": "para",
+     "text": "В сентябре́ 2005 го́да в Интерне́те появи́лся катало́г всех книг (изда́ний), храня́щихся в библиоте́ке Моско́вского университе́та. Ра́ньше на са́йте библиоте́ки мо́жно бы́ло найти́ спи́сок книг, и́зданных то́лько за после́дние 15 лет. Тепе́рь здесь есть всё — 3,5 миллио́на назва́ний. В Интерне́те мо́жно познако́миться с любы́ми стари́нными и ре́дкими кни́гами, име́ющимися в университе́тском книгохрани́лище. И, коне́чно, никто́ не собира́ется закрыва́ть чита́льные за́лы. Они́ бу́дут рабо́тать по-пре́жнему. — Tháng 9 năm 2005, trên Internet xuất hiện danh mục toàn bộ sách (ấn phẩm) lưu giữ trong thư viện Đại học Tổng hợp Moskva. Trước kia trên trang web của thư viện chỉ tìm được danh sách sách xuất bản trong 15 năm gần nhất. Giờ đây ở đó có tất cả — 3,5 triệu đầu sách. Trên Internet có thể làm quen với bất kỳ cuốn sách cổ, sách quý hiếm nào có trong kho sách của trường. Và dĩ nhiên, không ai định đóng cửa các phòng đọc. Chúng vẫn hoạt động như trước."
+    },
+    {
+     "t": "instruction",
+     "text": "б) Отве́тьте на вопро́сы: 1. Каку́ю информа́цию мо́жно бы́ло получи́ть на са́йте библиоте́ки Моско́вского университе́та ра́ньше? 2. С каки́ми кни́гами мо́жно познако́миться в Интерне́те сейча́с? — b) Trả lời: 1. Trước kia trang web thư viện MGU cung cấp thông tin gì? 2. Hiện nay trên Internet có thể làm quen với những sách nào?"
+    },
+    {
+     "t": "instruction",
+     "text": "в) Кра́тко переда́йте содержа́ние статьи́ (2–3 предложе́ния). — c) Tóm tắt nội dung bài báo (2–3 câu)."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s047",
+   "type": "exercise",
+   "title": "Задание 27.4 «Полетать на воздушном шаре» (Bay khinh khí cầu)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "4. а) Прочита́йте статью́ (в слу́чае необходи́мости мо́жно по́льзоваться словарём) и скажи́те, при каки́х усло́виях вы мо́жете уча́ствовать в настоя́щем возду́шном путеше́ствии. — 4. a) Đọc bài và cho biết với điều kiện nào bạn có thể tham gia một chuyến du hành trên không thực thụ."
+    },
+    {
+     "t": "subhead",
+     "text": "Полета́ть на возду́шном ша́ре — Bay khinh khí cầu"
+    },
+    {
+     "t": "para",
+     "text": "В Москве́ лета́ть на возду́шных шара́х запрещено́, на самолётах и вертолётах то́же. Но иногда́, в пра́здники, на откры́тых площа́дках, наприме́р на смотрово́й площа́дке на Воробьёвых гора́х, мо́жно подня́ться в во́здух на возду́шном ша́ре. К сожале́нию, шар привя́зан, он поднима́ется то́лько на определённую высоту́, но не лети́т. Почу́вствовать свобо́дный полёт невозмо́жно. — Ở Moskva, bay khinh khí cầu bị cấm, máy bay và trực thăng cũng vậy. Nhưng đôi khi, vào dịp lễ, tại các khu đất trống — ví dụ đài ngắm cảnh trên đồi Vorobyovy — có thể lên không trung bằng khinh khí cầu. Tiếc rằng quả cầu bị buộc dây, chỉ lên đến độ cao nhất định chứ không bay. Không thể cảm nhận chuyến bay tự do."
+    },
+    {
+     "t": "para",
+     "text": "Но сейча́с мно́гие туристи́ческие фи́рмы организу́ют полёты на возду́шных шара́х не в го́роде, а в Подмоско́вье. Е́сли не идёт дождь и́ли снег и нет си́льного ве́тра, вы мо́жете уча́ствовать в настоя́щем возду́шном путеше́ствии. Вы пролети́те как пти́ца над деревня́ми, леса́ми и поля́ми. Все пило́ты возду́шных шаро́в име́ют докуме́нты, кото́рые разреша́ют им рабо́тать на возду́шных шара́х. В полёте вам гаранти́руют безопа́сность. Вам обяза́тельно понра́вится лета́ть вы́ше облако́в. Вы никогда́ не забу́дете э́тот полёт и э́тот экстрема́льный о́тдых. — Nhưng hiện nhiều công ty du lịch tổ chức bay khinh khí cầu không phải trong thành phố mà ở ngoại ô Moskva. Nếu trời không mưa, không tuyết và không gió mạnh, bạn có thể tham gia chuyến du hành trên không thực thụ. Bạn sẽ bay như chim trên các làng mạc, rừng và cánh đồng. Mọi phi công khinh khí cầu đều có giấy phép hành nghề. Trong chuyến bay, an toàn của bạn được bảo đảm. Chắc chắn bạn sẽ thích bay cao hơn những đám mây. Bạn sẽ không bao giờ quên chuyến bay và kỳ nghỉ mạo hiểm này."
+    },
+    {
+     "t": "instruction",
+     "text": "б) На каки́е вопро́сы мо́жет отве́тить челове́к, прочита́вший э́ту статью́? — b) Người đã đọc bài này có thể trả lời những câu hỏi nào?"
+    },
+    {
+     "t": "instruction",
+     "text": "в) Кра́тко переда́йте содержа́ние э́той статьи́ (3–4 предложе́ния). — c) Tóm tắt nội dung bài (3–4 câu)."
+    },
+    {
+     "t": "instruction",
+     "text": "г) Отве́тьте на вопро́сы: 1. Лю́бите ли вы экстрема́льный о́тдых? Како́й? 2. Куда́ вы хоте́ли бы пойти́, что посмотре́ть, где отдохну́ть и почему́? — d) Trả lời: 1. Bạn có thích nghỉ ngơi mạo hiểm không? Kiểu nào? 2. Bạn muốn đi đâu, xem gì, nghỉ ở đâu và vì sao?"
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s048",
+   "type": "exercise",
+   "title": "Задание 28 (Viết thư giới thiệu bài báo)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Вы прочита́ли не́сколько стате́й. Скажи́те, кака́я информа́ция вас заинтересова́ла и почему́. Напиши́те дру́гу письмо́, ко́ротко изложи́те пробле́му, о кото́рой расска́зывается в статье́, и посове́туйте ему́ прочита́ть её. Вы́разите своё ли́чное отноше́ние к э́той пробле́ме. — Bạn đã đọc mấy bài báo. Hãy nói thông tin nào khiến bạn quan tâm và vì sao. Viết thư cho bạn mình, trình bày ngắn gọn vấn đề trong bài báo và khuyên bạn ấy đọc. Bày tỏ thái độ cá nhân với vấn đề ấy."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s049",
+   "type": "exercise",
+   "title": "Поговорим — Задание 29.1 (John đặt vé phòng hoà nhạc «Россия»)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "1. а) Прослу́шайте диало́г и скажи́те, что сде́лал Джон Мур в сре́ду. Куда́ он позвони́л и заче́м? — 1. a) Nghe (đọc) hội thoại và cho biết John Moore đã làm gì hôm thứ Tư. Anh gọi đến đâu và để làm gì?"
+    },
+    {
+     "t": "para",
+     "text": "Джон. Алло́, здра́вствуйте, э́то конце́ртный зал «Росси́я»? — John: Alô, xin chào, đây là phòng hoà nhạc «Rossiya» phải không ạ?"
+    },
+    {
+     "t": "para",
+     "text": "Администра́тор. Да, э́то конце́ртный зал. Слу́шаю вас, что вы хоти́те? — Quản lý: Vâng, phòng hoà nhạc đây. Tôi nghe, anh cần gì ạ?"
+    },
+    {
+     "t": "para",
+     "text": "Джон. Скажи́те, пожа́луйста, что у вас бу́дет в суббо́ту? — John: Xin cho biết thứ Bảy có chương trình gì?"
+    },
+    {
+     "t": "para",
+     "text": "Администра́тор. В пя́тницу, суббо́ту и воскресе́нье у нас бу́дет выступа́ть популя́рная гру́ппа «Маши́на вре́мени». — Quản lý: Thứ Sáu, thứ Bảy và Chủ nhật, ban nhạc nổi tiếng «Mashina Vremeni» (Cỗ máy thời gian) sẽ biểu diễn."
+    },
+    {
+     "t": "para",
+     "text": "Джон. Скажи́те, когда́ нача́ло конце́рта? — John: Cho hỏi mấy giờ bắt đầu?"
+    },
+    {
+     "t": "para",
+     "text": "Администра́тор. Конце́рт, как обы́чно, начина́ется в 19:00 (девятна́дцать часо́в). — Quản lý: Như thường lệ, buổi diễn bắt đầu lúc 19:00."
+    },
+    {
+     "t": "para",
+     "text": "Джон. Мо́жно заказа́ть биле́ты? — John: Tôi đặt vé được không?"
+    },
+    {
+     "t": "para",
+     "text": "Администра́тор. Да. На како́й день вы хоти́те? — Quản lý: Được ạ. Anh muốn ngày nào?"
+    },
+    {
+     "t": "para",
+     "text": "Джон. Я хочу́ три биле́та на суббо́ту. — John: Tôi muốn ba vé tối thứ Bảy."
+    },
+    {
+     "t": "para",
+     "text": "Администра́тор. Сейча́с посмотрю́… На суббо́ту биле́ты есть. Где вы хоти́те сиде́ть? Есть места́ в парте́ре и на балко́не. — Quản lý: Để tôi xem… Thứ Bảy còn vé. Anh muốn ngồi đâu? Còn chỗ ở khu ghế tầng trệt (parterre) và trên ban công."
+    },
+    {
+     "t": "para",
+     "text": "Джон. А ско́лько сто́ит биле́т в парте́р? — John: Vé khu trệt giá bao nhiêu?"
+    },
+    {
+     "t": "para",
+     "text": "Администра́тор. Биле́т в парте́р сто́ит 1000 рубле́й. — Quản lý: Vé khu trệt 1000 rúp."
+    },
+    {
+     "t": "para",
+     "text": "Джон. О, э́то о́чень до́рого. А на балко́не? — John: Ồ, đắt quá. Còn ban công?"
+    },
+    {
+     "t": "para",
+     "text": "Администра́тор. Биле́ты на балко́н — 500 рубле́й. — Quản lý: Vé ban công 500 rúp."
+    },
+    {
+     "t": "para",
+     "text": "Джон. Отли́чно, три биле́та на балко́н. А мо́жно в пе́рвый ряд? — John: Tuyệt, cho ba vé ban công. Hàng đầu được không?"
+    },
+    {
+     "t": "para",
+     "text": "Администра́тор. Да, пожа́луйста: три биле́та на балко́н, пе́рвый ряд, в середи́не, места́ 14, 15 и 16. Назови́те ва́ше и́мя и фами́лию. — Quản lý: Vâng: ba vé ban công, hàng một, ở giữa, ghế 14, 15 và 16. Xin cho biết họ tên."
+    },
+    {
+     "t": "para",
+     "text": "Джон. Джон Мур. Когда́ я могу́ получи́ть биле́ты? — John: John Moore. Khi nào tôi nhận vé được?"
+    },
+    {
+     "t": "para",
+     "text": "Администра́тор. Вы должны́ прие́хать в ка́ссу конце́ртного за́ла «Росси́я» в суббо́ту в 18:00 и купи́ть ва́ши биле́ты. — Quản lý: Anh phải đến quầy vé phòng hoà nhạc «Rossiya» thứ Bảy lúc 18:00 và mua vé của mình."
+    },
+    {
+     "t": "para",
+     "text": "Джон. Спаси́бо. До свида́ния. — John: Cảm ơn. Tạm biệt."
+    },
+    {
+     "t": "instruction",
+     "text": "б) Отве́тьте на вопро́сы: 1. Когда́ начина́ется конце́рт в конце́ртном за́ле «Росси́я»? 2. Ско́лько сто́ит оди́н биле́т? 3. Когда́ Джон до́лжен купи́ть биле́ты? — b) Trả lời: 1. Buổi hoà nhạc ở «Rossiya» bắt đầu khi nào? 2. Một vé giá bao nhiêu? 3. John phải mua vé khi nào?"
+    },
+    {
+     "t": "instruction",
+     "text": "в) Вы хоти́те посмотре́ть но́вый фильм. Вам ну́жно заказа́ть биле́ты. Позвони́те в кинотеа́тр «Пу́шкинский» и закажи́те биле́ты. — c) Bạn muốn xem phim mới và cần đặt vé. Hãy gọi đến rạp «Pushkinsky» và đặt vé."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s050",
+   "type": "exercise",
+   "title": "Задание 29.2 (John mời bạn đi nghe nhạc nhân sinh nhật)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "2. а) Прослу́шайте диало́г и скажи́те, кто, куда́ и почему́ пригласи́л свои́х друзе́й. — 2. a) Nghe hội thoại và cho biết ai mời bạn bè, đi đâu và vì sao."
+    },
+    {
+     "t": "para",
+     "text": "Джон. Приве́т, ребя́та! Вы по́мните, что у меня́ в суббо́ту день рожде́ния? — John: Chào các cậu! Còn nhớ thứ Bảy là sinh nhật tớ chứ?"
+    },
+    {
+     "t": "para",
+     "text": "Майкл. Коне́чно, по́мним, Джон! — Michael: Dĩ nhiên là nhớ, John!"
+    },
+    {
+     "t": "para",
+     "text": "Джон. Я хочу́ пригласи́ть вас в конце́ртный зал «Росси́я». В суббо́ту там бу́дет выступа́ть гру́ппа «Маши́на вре́мени». Я уже́ заказа́л биле́ты. — John: Tớ muốn mời các cậu đến phòng hoà nhạc «Rossiya». Thứ Bảy ban nhạc «Mashina Vremeni» diễn ở đó. Tớ đặt vé rồi."
+    },
+    {
+     "t": "para",
+     "text": "Нико́ль. Отли́чно, я слы́шала, что э́то хоро́шая гру́ппа. — Nicole: Tuyệt, tớ nghe nói đó là ban nhạc hay."
+    },
+    {
+     "t": "para",
+     "text": "Майкл. А я давно́ хоте́л побыва́ть в «Росси́и», с удово́льствием пойду́. — Michael: Còn tớ từ lâu đã muốn đến «Rossiya», rất vui được đi."
+    },
+    {
+     "t": "para",
+     "text": "Джон. Тогда́ дава́йте встре́тимся в суббо́ту у вхо́да в конце́ртный зал. — John: Vậy hẹn gặp nhau thứ Bảy ở cổng vào phòng hoà nhạc nhé."
+    },
+    {
+     "t": "para",
+     "text": "Нико́ль. Во ско́лько? — Nicole: Mấy giờ?"
+    },
+    {
+     "t": "para",
+     "text": "Джон. Конце́рт начина́ется в семь часо́в, предлага́ю встре́титься пора́ньше, в полови́не седьмо́го. Я ду́маю, что там есть буфе́т: посиди́м, вы́пьем ко́фе и со́ку. Не опа́здывайте! — John: Buổi diễn bắt đầu lúc bảy giờ, tớ đề nghị gặp sớm hơn, sáu rưỡi. Tớ nghĩ ở đó có quầy giải khát: ta ngồi chơi, uống cà phê, nước quả. Đừng đến muộn nhé!"
+    },
+    {
+     "t": "para",
+     "text": "Майкл. Договори́лись! — Michael: Nhất trí!"
+    },
+    {
+     "t": "instruction",
+     "text": "б) Отве́тьте на вопро́сы: 1. Где и когда́ договори́лись встре́титься друзья́? 2. Куда́ они́ реши́ли зайти́ пе́ред конце́ртом? — b) Trả lời: 1. Các bạn hẹn gặp nhau ở đâu, khi nào? 2. Họ định ghé đâu trước buổi diễn?"
+    },
+    {
+     "t": "instruction",
+     "text": "в) Позвони́те свои́м друзья́м, пригласи́те их в теа́тр (в кино́, в музе́й, на конце́рт) и договори́тесь о встре́че. — c) Hãy gọi điện cho bạn bè, mời họ đi nhà hát (xem phim, bảo tàng, hoà nhạc) và hẹn gặp."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s051",
+   "type": "exercise",
+   "title": "Задание 29.3 (Nicole ở tiệm làm tóc)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "3. а) Прослу́шайте диало́г и скажи́те, где была́ Нико́ль в суббо́ту у́тром. — 3. a) Nghe hội thoại và cho biết sáng thứ Bảy Nicole ở đâu."
+    },
+    {
+     "t": "para",
+     "text": "Нико́ль. Здра́вствуйте, я хоте́ла бы постри́чься, покра́сить во́лосы и сде́лать причёску. — Nicole: Chào chị, tôi muốn cắt tóc, nhuộm và làm kiểu."
+    },
+    {
+     "t": "para",
+     "text": "Ма́стер. Проходи́те, пожа́луйста, сади́тесь в кре́сло. Как вас постри́чь? — Thợ làm tóc: Mời vào, mời ngồi vào ghế. Chị muốn cắt thế nào?"
+    },
+    {
+     "t": "para",
+     "text": "Нико́ль. Я хочу́ сде́лать мо́дную причёску, потому́ что я сего́дня иду́ с друзья́ми на конце́рт. — Nicole: Tôi muốn một kiểu tóc thời thượng, vì hôm nay tôi đi nghe hoà nhạc với bạn bè."
+    },
+    {
+     "t": "para",
+     "text": "Ма́стер. Хорошо́, я ду́маю, коро́ткая стри́жка вам пойдёт. А како́й цвет воло́с вы хоти́те? — Thợ: Được, tôi nghĩ tóc ngắn sẽ hợp với chị. Chị muốn màu tóc nào?"
+    },
+    {
+     "t": "para",
+     "text": "Нико́ль. Са́мый мо́дный в э́том сезо́не. — Nicole: Màu mốt nhất mùa này."
+    },
+    {
+     "t": "para",
+     "text": "Ма́стер. Хорошо́, я поняла́. — Thợ: Vâng, tôi hiểu rồi."
+    },
+    {
+     "t": "para",
+     "text": "Ма́стер. Ну как, вам нра́вится ва́ша но́вая причёска? — Thợ: Sao, chị có thích kiểu tóc mới không?"
+    },
+    {
+     "t": "para",
+     "text": "Нико́ль. Да, о́чень. По-мо́ему, э́та причёска и э́тот ры́жий цвет мне о́чень иду́т. Ско́лько я вам должна́? — Nicole: Có, thích lắm. Theo tôi, kiểu tóc này và màu hung đỏ này rất hợp với tôi. Tôi phải trả bao nhiêu?"
+    },
+    {
+     "t": "para",
+     "text": "Ма́стер. С вас 1200 рубле́й. — Thợ: Của chị hết 1200 rúp."
+    },
+    {
+     "t": "para",
+     "text": "Нико́ль. Вот де́ньги. Большо́е спаси́бо! — Nicole: Tiền đây ạ. Cảm ơn nhiều!"
+    },
+    {
+     "t": "para",
+     "text": "Ма́стер. Пожа́луйста! Приходи́те ещё. — Thợ: Không có gì! Lần sau lại ghé nhé."
+    },
+    {
+     "t": "instruction",
+     "text": "б) Отве́тьте на вопро́сы: 1. Каку́ю причёску сде́лала Нико́ль? 2. Почему́ Нико́ль посове́тует подру́ге пойти́ в э́ту парикма́херскую? — b) Trả lời: 1. Nicole làm kiểu tóc nào? 2. Vì sao Nicole sẽ khuyên bạn gái đến tiệm này? (câu hỏi 2 — cần soát lại)"
+    },
+    {
+     "t": "instruction",
+     "text": "в) Вы пришли́ в парикма́херскую. Объясни́те ма́стеру, что вы хоти́те сде́лать. — c) Bạn đến tiệm làm tóc. Hãy giải thích cho thợ bạn muốn làm gì."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s052",
+   "type": "exercise",
+   "title": "Задание 29.4 (Hỏi đường đến «Россия»)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "4. а) Прослу́шайте диало́г. Как вы ду́маете, на чём Нико́ль пое́дет в конце́ртный зал? — 4. a) Nghe hội thoại. Theo bạn, Nicole sẽ đi đến phòng hoà nhạc bằng gì?"
+    },
+    {
+     "t": "para",
+     "text": "Нико́ль. Извини́те, вы не зна́ете, как дое́хать отсю́да до конце́ртного за́ла «Росси́я»? — Nicole: Xin lỗi, anh có biết từ đây đến phòng hoà nhạc «Rossiya» đi thế nào không?"
+    },
+    {
+     "t": "para",
+     "text": "Прохо́жий (1). Извини́те, я не зна́ю. — Người qua đường (1): Xin lỗi, tôi không biết."
+    },
+    {
+     "t": "para",
+     "text": "Нико́ль. Прости́те, а вы не ска́жете, как мне добра́ться до «Росси́и»? — Nicole: Xin lỗi, bác có thể chỉ tôi cách đến «Rossiya» không?"
+    },
+    {
+     "t": "para",
+     "text": "Прохо́жий (2). До «Росси́и» идёт пя́тый тролле́йбус, но он идёт о́чень до́лго. Я сове́тую вам пое́хать на метро́. — Người qua đường (2): Đến «Rossiya» có tuyến trolleybus số 5, nhưng đi rất lâu. Tôi khuyên cô đi metro."
+    },
+    {
+     "t": "para",
+     "text": "Нико́ль. А где здесь метро́? — Nicole: Thế metro ở đâu ạ?"
+    },
+    {
+     "t": "para",
+     "text": "Прохо́жий (2). Иди́те пря́мо по у́лице. Мину́т че́рез пять бу́дет ста́нция метро́ «Ле́нинский проспе́кт». Дое́дете до ста́нции «Кита́й-го́род» и мину́т де́сять пройдёте пешко́м до «Росси́и». — Người qua đường (2): Cô đi thẳng theo phố. Chừng năm phút sẽ tới ga metro «Leninsky Prospekt». Đi đến ga «Kitay-gorod» rồi đi bộ khoảng mười phút đến «Rossiya»."
+    },
+    {
+     "t": "para",
+     "text": "Нико́ль. А на́до де́лать переса́дку? — Nicole: Có phải đổi tàu không?"
+    },
+    {
+     "t": "para",
+     "text": "Прохо́жий (2). Нет, э́то пряма́я ли́ния. — Người qua đường (2): Không, tuyến thẳng."
+    },
+    {
+     "t": "para",
+     "text": "Нико́ль. Спаси́бо! — Nicole: Cảm ơn!"
+    },
+    {
+     "t": "para",
+     "text": "Прохо́жий (2). Де́вушка! Лу́чше поезжа́йте на маршру́тке, дое́дете пря́мо до конце́ртного за́ла. — Người qua đường (2): Cô gì ơi! Tốt hơn cô đi xe buýt nhỏ (marshrutka), sẽ đến thẳng phòng hoà nhạc."
+    },
+    {
+     "t": "para",
+     "text": "Нико́ль. Спаси́бо за по́мощь! — Nicole: Cảm ơn đã giúp đỡ!"
+    },
+    {
+     "t": "instruction",
+     "text": "б) Отве́тьте на вопро́сы: 1. На како́м тра́нспорте Нико́ль могла́ дое́хать до «Росси́и»? 2. Како́й маршру́т са́мый бы́стрый и удо́бный? — b) Trả lời: 1. Nicole có thể đến «Rossiya» bằng những phương tiện nào? 2. Lộ trình nào nhanh và tiện nhất?"
+    },
+    {
+     "t": "instruction",
+     "text": "в) Вы не зна́ете, как добра́ться до ну́жного вам объе́кта (теа́тра, музе́я, стадио́на, па́рка, гости́ницы). Узна́йте э́то у прохо́жего. — c) Bạn không biết đường đến nơi cần (nhà hát, bảo tàng, sân vận động, công viên, khách sạn). Hãy hỏi người qua đường."
+    },
+    {
+     "t": "instruction",
+     "text": "г) Посове́туйте прохо́жему, как лу́чше добра́ться до ну́жного ему́ ме́ста. — d) Hãy tư vấn cho người qua đường cách đến nơi họ cần thuận tiện nhất."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s053",
+   "type": "exercise",
+   "title": "Задание 29.5 (Michael ở tiệm giặt khô)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "5. а) Прослу́шайте диало́г и скажи́те, куда́ пришёл Майкл и почему́. — 5. a) Nghe hội thoại và cho biết Michael đến đâu, vì sao."
+    },
+    {
+     "t": "para",
+     "text": "Майкл. Здра́вствуйте, мне на́до почи́стить брю́ки, то́лько о́чень сро́чно. Э́то мо́жно сде́лать? — Michael: Xin chào, tôi cần giặt sạch chiếc quần, nhưng rất gấp. Có làm được không ạ?"
+    },
+    {
+     "t": "para",
+     "text": "Рабо́тник химчи́стки. Да, коне́чно, пройди́те в друго́й зал, сро́чная химчи́стка там. — Nhân viên giặt khô: Được chứ, mời anh sang phòng bên, giặt khô lấy nhanh ở đó."
+    },
+    {
+     "t": "para",
+     "text": "Рабо́тник химчи́стки. Что случи́лось с ва́шими брю́ками? — Nhân viên: Quần của anh bị làm sao?"
+    },
+    {
+     "t": "para",
+     "text": "Майкл. У́тром я попа́л под си́льный дождь, и брю́ки ста́ли о́чень гря́зными, а я сего́дня ве́чером собира́юсь пойти́ на конце́рт. Вы мо́жете мне помо́чь? — Michael: Sáng nay tôi gặp trận mưa to, quần bẩn hết cả, mà tối nay tôi định đi nghe hoà nhạc. Chị giúp tôi được không?"
+    },
+    {
+     "t": "para",
+     "text": "Рабо́тник химчи́стки. Дава́йте ва́ши брю́ки. Мы их почи́стим, бу́дут как но́вые. — Nhân viên: Đưa quần đây. Chúng tôi giặt sạch, sẽ như mới."
+    },
+    {
+     "t": "para",
+     "text": "Майкл. Ско́лько я вам до́лжен? — Michael: Tôi phải trả bao nhiêu?"
+    },
+    {
+     "t": "para",
+     "text": "Рабо́тник химчи́стки. 80 рубле́й. — Nhân viên: 80 rúp."
+    },
+    {
+     "t": "para",
+     "text": "Майкл. Пожа́луйста. А когда́ они́ бу́дут гото́вы? — Michael: Đây ạ. Khi nào xong?"
+    },
+    {
+     "t": "para",
+     "text": "Рабо́тник химчи́стки. Зайди́те че́рез час. — Nhân viên: Một tiếng nữa anh ghé lấy."
+    },
+    {
+     "t": "para",
+     "text": "Майкл. Спаси́бо! — Michael: Cảm ơn!"
+    },
+    {
+     "t": "instruction",
+     "text": "б) Отве́тьте на вопро́сы: 1. Что случи́лось с Майклом у́тром? 2. Куда́ он собира́ется идти́ ве́чером? 3. Ско́лько вре́мени чи́стили брю́ки Майкла? — b) Trả lời: 1. Sáng nay Michael gặp chuyện gì? 2. Tối anh định đi đâu? 3. Giặt quần của Michael mất bao lâu?"
+    },
+    {
+     "t": "instruction",
+     "text": "в) Вы пришли́ в химчи́стку и принесли́ свои́ ве́щи. Объясни́те, что вы хоти́те. — c) Bạn đến tiệm giặt khô mang theo đồ. Hãy giải thích bạn muốn gì."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s054",
+   "type": "exercise",
+   "title": "Задание 29.6 (John mua cà vạt)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "6. а) Прослу́шайте диало́г и скажи́те, заче́м Джон пришёл в магази́н. — 6. a) Nghe hội thoại và cho biết John đến cửa hàng để làm gì."
+    },
+    {
+     "t": "para",
+     "text": "Продаве́ц. Здра́вствуйте, проходи́те, пожа́луйста! Что вы хоти́те купи́ть? — Người bán: Xin chào, mời vào! Anh muốn mua gì ạ?"
+    },
+    {
+     "t": "para",
+     "text": "Джон. Мне ну́жен хоро́ший га́лстук. Я сего́дня иду́ с друзья́ми на конце́рт, а у меня́ нет га́лстука. — John: Tôi cần một chiếc cà vạt đẹp. Hôm nay tôi đi nghe hoà nhạc với bạn bè mà chưa có cà vạt."
+    },
+    {
+     "t": "para",
+     "text": "Продаве́ц. Хорошо́, я вам с удово́льствием помогу́ вы́брать краси́вый га́лстук. Посмотри́те, вот э́тот си́ний га́лстук о́чень мо́дный. Вам нра́вится? — Người bán: Vâng, tôi rất sẵn lòng giúp anh chọn cà vạt đẹp. Anh xem, chiếc cà vạt xanh này rất mốt. Anh thích chứ?"
+    },
+    {
+     "t": "para",
+     "text": "Джон. Да, о́чень. Ско́лько он сто́ит? — John: Có, thích lắm. Giá bao nhiêu?"
+    },
+    {
+     "t": "para",
+     "text": "Продаве́ц. 600 рубле́й. — Người bán: 600 rúp."
+    },
+    {
+     "t": "para",
+     "text": "Джон. Отли́чно, я беру́ э́тот га́лстук. — John: Tuyệt, tôi lấy chiếc này."
+    },
+    {
+     "t": "para",
+     "text": "Продаве́ц. Но э́тот га́лстук не идёт к ва́шей руба́шке. Я сове́тую вам купи́ть другу́ю руба́шку, голубу́ю. Приме́рьте, пожа́луйста! — Người bán: Nhưng cà vạt này không hợp với áo sơ mi của anh. Tôi khuyên anh mua chiếc sơ mi khác, màu xanh da trời. Mời anh mặc thử!"
+    },
+    {
+     "t": "para",
+     "text": "Джон. Ну как? Мне идёт? — John: Sao? Tôi mặc hợp chứ?"
+    },
+    {
+     "t": "para",
+     "text": "Продаве́ц. Вам о́чень иду́т э́та руба́шка и га́лстук. — Người bán: Sơ mi và cà vạt này rất hợp với anh."
+    },
+    {
+     "t": "para",
+     "text": "Джон. А ско́лько э́то бу́дет сто́ить? — John: Tổng cộng bao nhiêu tiền?"
+    },
+    {
+     "t": "para",
+     "text": "Продаве́ц. Га́лстук — 600 рубле́й, руба́шка — 850 рубле́й. Но у нас есть специа́льное предложе́ние: е́сли вы ку́пите руба́шку и костю́м, то га́лстук вы полу́чите беспла́тно, в пода́рок. — Người bán: Cà vạt 600 rúp, sơ mi 850 rúp. Nhưng chúng tôi có khuyến mãi đặc biệt: nếu anh mua sơ mi và bộ vest thì được tặng cà vạt miễn phí."
+    },
+    {
+     "t": "para",
+     "text": "Джон. Покажи́те костю́м! — John: Cho xem bộ vest đi!"
+    },
+    {
+     "t": "instruction",
+     "text": "б) Отве́тьте на вопро́сы: 1. Почему́ продаве́ц посове́товал Джо́ну купи́ть голубу́ю руба́шку? 2. При како́м усло́вии Джон мо́жет получи́ть га́лстук беспла́тно? 3. Как вы ду́маете, Джон ку́пит костю́м? — b) Trả lời: 1. Vì sao người bán khuyên John mua sơ mi xanh da trời? 2. Với điều kiện nào John được tặng cà vạt? 3. Theo bạn John có mua bộ vest không?"
+    },
+    {
+     "t": "instruction",
+     "text": "в) Вы пришли́ в магази́н. Объясни́те продавцу́, что вы хоти́те. — c) Bạn đến cửa hàng. Hãy nói với người bán bạn muốn gì."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s055",
+   "type": "exercise",
+   "title": "Задание 29.7 (Gặp nhau trước buổi hoà nhạc)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "7. а) Прослу́шайте диало́г и скажи́те, бы́ло ли у друзе́й вре́мя, что́бы вы́пить ко́фе. — 7. a) Nghe hội thoại và cho biết các bạn có kịp uống cà phê không."
+    },
+    {
+     "t": "para",
+     "text": "Майкл. Приве́т, Джон! Ты уже́ здесь! Наде́юсь, я не опозда́л? — Michael: Chào John! Cậu đến rồi à! Hy vọng tớ không muộn?"
+    },
+    {
+     "t": "para",
+     "text": "Джон. Нет, ты как всегда́ во́время, Майкл. — John: Không, cậu đúng giờ như mọi khi, Michael."
+    },
+    {
+     "t": "para",
+     "text": "Майкл. Я боя́лся опозда́ть, потому́ что был в химчи́стке. — Michael: Tớ sợ muộn vì vừa ở tiệm giặt khô."
+    },
+    {
+     "t": "para",
+     "text": "Джон. А что случи́лось? — John: Có chuyện gì thế?"
+    },
+    {
+     "t": "para",
+     "text": "Майкл. У́тром я попа́л под дождь и испа́чкал брю́ки, пришло́сь зайти́ в химчи́стку. А что, Нико́ль ещё не пришла́? — Michael: Sáng nay tớ dính mưa, quần bẩn hết, phải ghé tiệm giặt. Mà sao, Nicole chưa đến à?"
+    },
+    {
+     "t": "para",
+     "text": "Джон. Пока́ нет, наде́юсь, ско́ро придёт. А кото́рый час? — John: Chưa, hy vọng cô ấy sắp đến. Mấy giờ rồi nhỉ?"
+    },
+    {
+     "t": "para",
+     "text": "Майкл. Уже́ без пятна́дцати семь. — Michael: Bảy giờ kém mười lăm rồi."
+    },
+    {
+     "t": "para",
+     "text": "Джон. А вот и Нико́ль! Кака́я краси́вая! — John: Nicole kia rồi! Xinh quá!"
+    },
+    {
+     "t": "para",
+     "text": "Нико́ль. Спаси́бо! Извини́те, что опозда́ла, ходи́ла в парикма́херскую. — Nicole: Cảm ơn! Xin lỗi tớ muộn, tớ đi tiệm làm tóc."
+    },
+    {
+     "t": "para",
+     "text": "Джон. У тебя́ но́вая причёска! Тебе́ о́чень идёт! — John: Cậu có kiểu tóc mới kìa! Rất hợp với cậu!"
+    },
+    {
+     "t": "para",
+     "text": "Нико́ль. А у тебя́ но́вый костю́м! Тебе́ то́же о́чень идёт! — Nicole: Còn cậu có bộ vest mới! Cũng rất hợp với cậu! (cần soát lại — câu thoại bị mờ giữa hai nửa trang)"
+    },
+    {
+     "t": "para",
+     "text": "Джон. Да, я сего́дня купи́л костю́м и руба́шку, а га́лстук мне подари́ли. — John: Ừ, hôm nay tớ mua bộ vest và sơ mi, còn cà vạt thì được tặng."
+    },
+    {
+     "t": "para",
+     "text": "Майкл. Ну что, вре́мени бо́льше нет, пора́ идти́ на конце́рт. — Michael: Thôi, hết giờ rồi, đến lúc vào nghe hoà nhạc."
+    },
+    {
+     "t": "para",
+     "text": "Нико́ль. А ко́фе? — Nicole: Thế còn cà phê?"
+    },
+    {
+     "t": "para",
+     "text": "Джон. А ко́фе мы вы́пьем в переры́ве. — John: Cà phê ta sẽ uống vào giờ giải lao."
+    },
+    {
+     "t": "instruction",
+     "text": "б) Отве́тьте на вопро́сы: 1. Кто из друзе́й пришёл на встре́чу пе́рвым? 2. Почему́ Нико́ль опозда́ла? 3. Како́й комплиме́нт Джон сде́лал Нико́ль? — b) Trả lời: 1. Ai trong nhóm bạn đến chỗ hẹn đầu tiên? 2. Vì sao Nicole muộn? 3. John đã khen Nicole thế nào?"
+    },
+    {
+     "t": "instruction",
+     "text": "в) Вы немно́го опозда́ли на встре́чу (в го́сти, на уро́к…). Что вы ска́жете в э́той ситуа́ции? — c) Bạn đến muộn cuộc hẹn (đi chơi nhà, giờ học…). Bạn sẽ nói gì trong tình huống ấy?"
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s056",
+   "type": "exercise",
+   "title": "Задание 30 (Kể lại câu chuyện bằng động từ chuyển động)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "а) Как вы ду́маете, как э́ту исто́рию расска́жет ка́ждый из друзе́й? — a) Theo bạn, từng người trong nhóm bạn sẽ kể câu chuyện này thế nào?"
+    },
+    {
+     "t": "instruction",
+     "text": "б) Расскажи́те э́ту исто́рию (испо́льзуйте глаго́лы движе́ния). — b) Hãy kể lại câu chuyện (dùng các động từ chuyển động)."
+    }
+   ]
+  },
+  {
+   "id": "doroga3-06-s057",
+   "type": "grammar",
+   "title": "Теперь вы можете… (Giờ bạn đã có thể…) — Tổng kết Урок 6",
+   "num": null,
+   "blocks": [
+    {
+     "t": "subhead",
+     "text": "Тепе́рь вы мо́жете: — Giờ đây bạn đã có thể:"
+    },
+    {
+     "t": "para",
+     "text": "1. Заказа́ть биле́ты в кино́ и́ли в теа́тр. — Đặt vé xem phim hoặc xem kịch."
+    },
+    {
+     "t": "para",
+     "text": "2. Сде́лать причёску, постри́чься. — Làm tóc, cắt tóc."
+    },
+    {
+     "t": "para",
+     "text": "3. Почи́стить ве́щи в химчи́стке. — Giặt đồ ở tiệm giặt khô."
+    },
+    {
+     "t": "para",
+     "text": "4. Узна́ть (спроси́ть, объясни́ть), как дое́хать, как добра́ться до ну́жного вам ме́ста. — Hỏi và giải thích cách đi, cách đến nơi bạn cần."
+    },
+    {
+     "t": "para",
+     "text": "5. Описа́ть ме́сто, где нахо́дится тот и́ли ино́й объе́кт в го́роде. — Mô tả vị trí của một địa điểm trong thành phố."
+    },
+    {
+     "t": "note",
+     "text": "Đây là урок cuối của cuốn «Дорога в Россию 3 — Первый уровень» (часть 1). Sách kết thúc tại đây (trang 200)."
+    }
+   ]
+  }
+ ]
+}

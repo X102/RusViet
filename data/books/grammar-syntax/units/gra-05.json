@@ -1,0 +1,412 @@
+{
+  "id": "gra-05",
+  "num": 5,
+  "title": "Sự điều khiển đôi/kép",
+  "vi": "Sự điều khiển đôi/kép",
+  "ru": "Двойное управление",
+  "icon": "🧭",
+  "color": "#8b5cf6",
+  "sectionPrefix": "gra-05-s",
+  "sections": [
+    {
+      "id": "gra-05-s001",
+      "type": "exercise",
+      "title": "Упражнение 25",
+      "num": 25,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "Đọc các cụm động từ với sự điều khiển đôi. Chú ý đến ý nghĩa của các từ phụ thuộc."
+        },
+        {
+          "t": "para",
+          "text": "а) Глаго́л + существи́тельное в вини́тельном падеже́ + существи́тельное в да́тельном падеже́ (Động từ + DT Cách 4 + DT Cách 3):"
+        },
+        {
+          "t": "para",
+          "text": "Дава́ть/дать (отдава́ть/отда́ть, передава́ть/переда́ть, дари́ть/подари́ть, оставля́ть/оста́вить) что? (кому́?) кни́гу студе́нту."
+        },
+        {
+          "t": "para",
+          "text": "Dịch: Đưa/cho (trả lại, chuyển giao, tặng, để lại) cái gì? (cho ai?) cuốn sách cho sinh viên."
+        },
+        {
+          "t": "para",
+          "text": "Говори́ть/сказа́ть (сообща́ть/сообщи́ть, расска́зывать/рассказа́ть, крича́ть/кри́кнуть) что? (кому́?) после́дние но́вости одноку́рсникам."
+        },
+        {
+          "t": "para",
+          "text": "Dịch: Nói/bảo (thông báo, kể, hét lên/gọi to) cái gì? (với ai?) tin tức mới nhất cho các bạn cùng khóa."
+        },
+        {
+          "t": "para",
+          "text": "Пока́зывать/показа́ть (представля́ть/предста́вить, рекомендова́ть/порекомендова́ть) кого́? что? (кому́?) но́вого дире́ктора коллекти́ву."
+        },
+        {
+          "t": "para",
+          "text": "Dịch: Chỉ/cho xem (giới thiệu, tiến cử) ai? cái gì? (cho ai?) giám đốc mới cho tập thể."
+        },
+        {
+          "t": "para",
+          "text": "Посвяща́ть/посвяти́ть что? (кому́? чему́?) докла́д тво́рчеству Пу́шкина; обеща́ть/пообеща́ть что? (кому́?) конспе́кт това́рищу."
+        },
+        {
+          "t": "para",
+          "text": "Dịch: Cống hiến/dành cái gì? (cho ai/cái gì?) bài báo cáo cho sáng tác của Pushkin; hứa cái gì? (với ai?) đưa vở ghi chép cho bạn."
+        },
+        {
+          "t": "para",
+          "text": "б) Глаго́л + существи́тельное в вини́тельном падеже́ + существи́тельное в твори́тельном падеже́ (Động từ + DT Cách 4 + DT Cách 5):"
+        },
+        {
+          "t": "para",
+          "text": "Счита́ть/посчита́ть (представля́ть/предста́вить, называ́ть/назва́ть, признава́ть/призна́ть) кого́? что? (кем? чем?) врача́ лу́чшим специали́стом."
+        },
+        {
+          "t": "para",
+          "text": "Dịch: Coi/cho rằng (hình dung/giới thiệu, gọi là, công nhận) ai? cái gì? (là ai/cái gì?) bác sĩ là chuyên gia giỏi nhất."
+        },
+        {
+          "t": "para",
+          "text": "Де́лать/сде́лать (назнача́ть/назна́чить) кого́? что? (кем? чем?) лу́чшего студе́нта ста́ростой гру́ппы."
+        },
+        {
+          "t": "para",
+          "text": "Dịch: Làm cho/biến thành (bổ nhiệm) ai? cái gì? (thành ai/cái gì?) sinh viên giỏi nhất làm lớp trưởng."
+        },
+        {
+          "t": "para",
+          "text": "Награжда́ть/награди́ть кого́? (чем?) победи́теля меда́лью (trao thưởng cho người chiến thắng bằng huy chương); заслужи́ть что? (чем?) оце́нку хоро́шей учёбой (xứng đáng điểm số nhờ việc học tốt); открыва́ть/откры́ть что? (чем?) ба́нку консе́рвным ножо́м (mở cái hộp bằng đồ khui); украша́ть/укра́сить что? (чем?) ёлку игру́шками (trang trí cây thông bằng đồ chơi); удивля́ть/удиви́ть кого́? (чем?) роди́телей реше́нием (làm bố mẹ ngạc nhiên bằng quyết định); соблазня́ть/соблазни́ть кого́? (чем?) челове́ка обеща́ниями (dụ dỗ người khác bằng những lời hứa); корми́ть/накорми́ть кого́? (чем?) ребёнка ка́шей (cho đứa bé ăn cháo)."
+        },
+        {
+          "t": "para",
+          "text": "Писа́ть/написа́ть что? (чем?) письмо́ карандашо́м (viết thư bằng bút chì); руби́ть/наруби́ть дрова́ топоро́м (chặt củi bằng rìu); пили́ть/спили́ть де́рево пило́й (cưa cây bằng cưa)."
+        },
+        {
+          "t": "para",
+          "text": "Полива́ть/поли́ть что? (чем?) сала́т ма́слом (tưới dầu lên salad); посыпа́ть/посы́пать торт оре́хами (rắc các loại hạt lên bánh gato)."
+        },
+        {
+          "t": "para",
+          "text": "в) Глаго́л + существи́тельное в роди́тельном падеже́ + существи́тельное в твори́тельном падеже́ (Động từ + DT Cách 2 + DT Cách 5):"
+        },
+        {
+          "t": "para",
+          "text": "Добива́ться/доби́ться (достига́ть/дости́чь) чего́? (чем?) повыше́ния хоро́шей рабо́той."
+        },
+        {
+          "t": "para",
+          "text": "Dịch: Đạt được (giành được) cái gì? (bằng cái gì?) sự thăng tiến nhờ làm việc tốt."
+        },
+        {
+          "t": "para",
+          "text": "г) Глаго́л + существи́тельное в да́тельном падеже́ + существи́тельное в твори́тельном падеже́ (Động từ + DT Cách 3 + DT Cách 5):"
+        },
+        {
+          "t": "para",
+          "text": "Надоеда́ть/надое́сть кому́? (чем?) окружа́ющим жа́лобами."
+        },
+        {
+          "t": "para",
+          "text": "Dịch: Làm phiền/quấy rầy ai? (bằng cái gì?) những người xung quanh bằng những lời than vãn."
+        },
+        {
+          "t": "para",
+          "text": "Với mỗi động từ hãy đặt một vài cụm từ. Biến đổi chúng theo ngôi và số."
+        },
+        {
+          "t": "note",
+          "text": "! (Gợi ý ngữ pháp): Trong sự điều khiển đôi, bất kỳ trật tự từ nào cũng có thể xảy ra. Cuối câu thường là từ chứa thông tin mới: дать студе́нту кни́гу (đưa cho sinh viên quyển sách); дать кни́гу студе́нту (đưa quyển sách cho sinh viên); студе́нту кни́гу дать (đưa quyển sách cho sinh viên); кни́гу дать студе́нту (đưa cho sinh viên quyển sách)."
+        }
+      ]
+    },
+    {
+      "id": "gra-05-s002",
+      "type": "exercise",
+      "title": "Упражнение 26",
+      "num": 26,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "Sử dụng các cấu trúc dưới đây, hãy xác định ý nghĩa của các thành phần phụ thuộc trong thành phần cụm động từ không có giới từ ở bài tập 25. Xác định chúng đặc trưng cho những cách nào."
+        },
+        {
+          "t": "para",
+          "text": "объе́кт де́йствия + инструме́нт де́йствия (đối tượng của hành động + công cụ của hành động)."
+        },
+        {
+          "t": "para",
+          "text": "Đặc trưng cho: Винительный падеж + Творительный падеж (Cách 4 + Cách 5)."
+        },
+        {
+          "t": "para",
+          "text": "Ví dụ từ bài 25: открыва́ть ба́нку консе́рвным ножо́м (mở cái hộp bằng đồ khui), писа́ть письмо́ карандашо́м (viết thư bằng bút chì)."
+        },
+        {
+          "t": "para",
+          "text": "адреса́т де́йствия + объе́кт де́йствия (người nhận hành động + đối tượng của hành động)."
+        },
+        {
+          "t": "para",
+          "text": "Đặc trưng cho: Дательный падеж + Винительный падеж (Cách 3 + Cách 4)."
+        },
+        {
+          "t": "para",
+          "text": "Ví dụ từ bài 25: дава́ть кни́гу студе́нту (đưa sách cho sinh viên), говори́ть но́вости одноку́рсникам (nói tin tức cho bạn cùng khóa)."
+        },
+        {
+          "t": "para",
+          "text": "адреса́т де́йствия + сре́дство, с по́мощью кото́рого осуществля́ется де́йствие (người nhận hành động + phương tiện/cách thức mà hành động được thực hiện)."
+        },
+        {
+          "t": "para",
+          "text": "Đặc trưng cho: Винительный падеж + Творительный падеж (Cách 4 + Cách 5) hoặc Дательный падеж + Творительный падеж (Cách 3 + Cách 5)."
+        },
+        {
+          "t": "para",
+          "text": "Ví dụ từ bài 25: удивля́ть роди́телей реше́нием (làm bố mẹ ngạc nhiên bằng quyết định), надоеда́ть окружа́ющим жа́лобами (làm phiền người xung quanh bằng những lời than vãn)."
+        },
+        {
+          "t": "para",
+          "text": "цель де́йствия + сре́дство её достиже́ния (mục đích của hành động + phương tiện để đạt được nó)."
+        },
+        {
+          "t": "para",
+          "text": "Đặc trưng cho: Родительный падеж + Творительный падеж (Cách 2 + Cách 5)."
+        },
+        {
+          "t": "para",
+          "text": "Ví dụ từ bài 25: добива́ться повыше́ния хоро́шей рабо́той (đạt được sự thăng tiến bằng công việc tốt/nhờ làm việc tốt)."
+        }
+      ]
+    },
+    {
+      "id": "gra-05-s003",
+      "type": "exercise",
+      "title": "Упражнение 27",
+      "num": 27,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "Mở ngoặc đơn, sử dụng các danh từ ở đúng cách phù hợp với các phương án điều khiển của động từ. Xác định ý nghĩa của các từ phụ thuộc trong cụm từ."
+        },
+        {
+          "t": "para",
+          "text": "Прочита́ть ле́кцию студе́нтам (Đọc bài giảng cho sinh viên) — Cách 4 + Cách 3 (Đối tượng + Người nhận)."
+        },
+        {
+          "t": "para",
+          "text": "Верну́ть кни́гу това́рищу (Trả lại sách cho bạn) — Cách 4 + Cách 3 (Đối tượng + Người nhận)."
+        },
+        {
+          "t": "para",
+          "text": "Гла́дить бельё утюго́м (Là quần áo bằng bàn ủi) — Cách 4 + Cách 5 (Đối tượng + Công cụ)."
+        },
+        {
+          "t": "para",
+          "text": "Надое́сть вопро́сами преподава́телю (Làm giảng viên chán ngấy/phiền phức bằng những câu hỏi) — Cách 5 + Cách 3 (Phương tiện + Người nhận). Lưu ý: \"надое́сть\" thường dùng cấu trúc \"làm ai đó chán/mệt mỏi (Cách 3) bằng cái gì (Cách 5)\"."
+        },
+        {
+          "t": "para",
+          "text": "Объясни́ть студе́нту пра́вило (Giải thích quy tắc cho sinh viên) — Cách 3 + Cách 4 (Người nhận + Đối tượng)."
+        },
+        {
+          "t": "para",
+          "text": "Продемонстри́ровать прису́тствующим результа́ты (Trình diễn kết quả cho những người có mặt) — Cách 3 + Cách 4 (Người nhận + Đối tượng)."
+        },
+        {
+          "t": "para",
+          "text": "Покра́сить дом кра́ской (Sơn nhà bằng sơn) — Cách 4 + Cách 5 (Đối tượng + Công cụ/Vật liệu)."
+        },
+        {
+          "t": "para",
+          "text": "Уда́рить змею́ па́лкой (Đánh con rắn bằng gậy) — Cách 4 + Cách 5 (Đối tượng + Công cụ)."
+        },
+        {
+          "t": "para",
+          "text": "Порази́ть друзе́й спосо́бностями (Làm bạn bè kinh ngạc bằng khả năng) — Cách 4 + Cách 5 (Người nhận + Phương tiện)."
+        },
+        {
+          "t": "para",
+          "text": "Закры́ть дверь руко́й (Đóng cửa bằng tay) — Cách 4 + Cách 5 (Đối tượng + Công cụ)."
+        },
+        {
+          "t": "para",
+          "text": "Прошепта́ть врачу́ слова́ благода́рности (Thì thầm những lời biết ơn với bác sĩ) — Cách 3 + Cách 4 (Người nhận + Đối tượng)."
+        },
+        {
+          "t": "para",
+          "text": "Нама́зать хлеб ма́слом (Phết bơ lên bánh mì) — Cách 4 + Cách 5 (Đối tượng + Vật liệu). Lưu ý: cấu trúc này nhấn mạnh việc bánh mì được phủ bởi bơ."
+        },
+        {
+          "t": "para",
+          "text": "Наре́зать колбасу́ ножо́м (Cắt xúc xích bằng dao) — Cách 4 + Cách 5 (Đối tượng + Công cụ)."
+        },
+        {
+          "t": "para",
+          "text": "Меша́ть заня́тиям разгово́рами (Làm phiền buổi học bằng những cuộc nói chuyện) — Cách 3 + Cách 5 (Đối tượng bị ảnh hưởng + Phương tiện)."
+        },
+        {
+          "t": "para",
+          "text": "Бро́сить мяч партнёру (Ném bóng cho đồng đội) — Cách 4 + Cách 3 (Đối tượng + Người nhận)."
+        },
+        {
+          "t": "para",
+          "text": "Нали́ть го́стю чай (Rót trà cho khách) — Cách 3 + Cách 4 (Người nhận + Đối tượng)."
+        }
+      ]
+    },
+    {
+      "id": "gra-05-s004",
+      "type": "exercise",
+      "title": "Упражнение 28",
+      "num": 28,
+      "blocks": [
+        {
+          "t": "instruction",
+          "text": "Hoàn thành các câu. Chú ý đến cách của danh từ trong thành phần cụm động từ."
+        },
+        {
+          "t": "para",
+          "text": "Gợi ý điền từ (có thể thay đổi tùy ngữ cảnh, nhưng phải đúng cách):"
+        },
+        {
+          "t": "para",
+          "text": "Мне на́до сказа́ть ва́жную но́вость (C4) друзья́м (C3)."
+        },
+        {
+          "t": "para",
+          "text": "Dịch: Tôi cần nói một tin quan trọng cho bạn bè."
+        },
+        {
+          "t": "para",
+          "text": "Ты до́лжен заслужи́ть дове́рие (C4) че́стностью (C5)."
+        },
+        {
+          "t": "para",
+          "text": "Dịch: Bạn phải xứng đáng có được niềm tin bằng sự trung thực."
+        },
+        {
+          "t": "para",
+          "text": "Не соблазня́й ребёнка (C4) конфе́тами (C5)."
+        },
+        {
+          "t": "para",
+          "text": "Dịch: Đừng dụ dỗ đứa trẻ bằng kẹo."
+        },
+        {
+          "t": "para",
+          "text": "Я хочу́ посвяти́ть э́ту пе́сню (C4) свое́й ма́ме (C3)."
+        },
+        {
+          "t": "para",
+          "text": "Dịch: Tôi muốn dành tặng bài hát này cho mẹ tôi."
+        },
+        {
+          "t": "para",
+          "text": "Он вы́нужден был призна́ть своё пораже́ние (C4) пе́ред сопе́рником (C5 + giới từ) / (себя́ (C4) побеждённым (C5))."
+        },
+        {
+          "t": "para",
+          "text": "Dịch: Anh ấy buộc phải thừa nhận thất bại của mình (hoặc: thừa nhận bản thân bị đánh bại). Lưu ý: cấu trúc \"призна́ть кого́-то кем-то\" (công nhận ai là gì) dùng C4 + C5."
+        },
+        {
+          "t": "para",
+          "text": "Но ты обеща́л пода́рок (C4) сы́ну (C3), как же тепе́рь ты мо́жешь от э́того отка́зываться?"
+        },
+        {
+          "t": "para",
+          "text": "Dịch: Nhưng bạn đã hứa món quà cho con trai, làm sao bây giờ bạn có thể từ chối điều đó?"
+        },
+        {
+          "t": "para",
+          "text": "Ты не до́лжен называ́ть э́того че́ловека (C4) дурако́м (C5)."
+        },
+        {
+          "t": "para",
+          "text": "Dịch: Bạn không nên gọi người này là kẻ ngốc."
+        },
+        {
+          "t": "para",
+          "text": "Я не могу́ откры́ть дверь (C4) ключо́м (C5)."
+        },
+        {
+          "t": "para",
+          "text": "Dịch: Tôi không thể mở cửa bằng chìa khóa."
+        },
+        {
+          "t": "para",
+          "text": "Тру́дно удиви́ть чита́теля (C4) но́вым сюже́том (C5)."
+        },
+        {
+          "t": "para",
+          "text": "Dịch: Khó mà làm độc giả ngạc nhiên bằng cốt truyện mới."
+        },
+        {
+          "t": "para",
+          "text": "Э́тим (C5) ты мо́жешь доби́ться то́лько худшего результа́та (C2)."
+        },
+        {
+          "t": "para",
+          "text": "Dịch: Bằng cách này bạn chỉ có thể đạt được kết quả tồi tệ hơn thôi. Lưu ý: \"доби́ться\" + C2 (đạt được cái gì) + C5 (bằng cái gì)."
+        },
+        {
+          "t": "para",
+          "text": "Не на́до соблазня́ть меня́ (C4) покеро́м (C5), ты же зна́ешь, у меня́ за́втра экза́мен."
+        },
+        {
+          "t": "para",
+          "text": "Dịch: Đừng dụ dỗ tôi bằng bài poker, bạn biết là mai tôi có bài thi mà."
+        },
+        {
+          "t": "para",
+          "text": "Позво́льте мне предста́вить моего́ колле́гу (C4) ва́шему нача́льнику (C3)."
+        },
+        {
+          "t": "para",
+          "text": "Dịch: Cho phép tôi giới thiệu đồng nghiệp của tôi với sếp của bạn."
+        },
+        {
+          "t": "para",
+          "text": "Нет, не могу́, я уже́ пообеща́л свою́ по́мощь (C4) сосе́ду (C3)."
+        },
+        {
+          "t": "para",
+          "text": "Dịch: Không, tôi không thể, tôi đã hứa giúp đỡ hàng xóm rồi."
+        },
+        {
+          "t": "para",
+          "text": "Я посвяща́ю свою́ жи́знь (C4) иску́сству (C3)."
+        },
+        {
+          "t": "para",
+          "text": "Dịch: Tôi cống hiến cuộc đời mình cho nghệ thuật."
+        },
+        {
+          "t": "para",
+          "text": "Неуже́ли ты хо́чешь удиви́ть госте́й (C4) таки́м просты́м блю́дом (C5)?"
+        },
+        {
+          "t": "para",
+          "text": "Dịch: Chẳng lẽ bạn muốn làm khách ngạc nhiên bằng món ăn đơn giản thế này sao?"
+        },
+        {
+          "t": "para",
+          "text": "Пе́ред пра́здником мы укра́сили ко́мнату (C4) шара́ми (C5)."
+        },
+        {
+          "t": "para",
+          "text": "Dịch: Trước ngày lễ, chúng tôi đã trang trí căn phòng bằng bóng bay."
+        },
+        {
+          "t": "para",
+          "text": "Це́лый ве́чер он говори́л то́лько о свои́х пробле́мах и бы́стро надое́л всем (C3) свои́м нытьём (C5)."
+        },
+        {
+          "t": "para",
+          "text": "Dịch: Cả buổi tối anh ta chỉ nói về vấn đề của mình và nhanh chóng làm mọi người chán ngấy vì sự than vãn của mình."
+        }
+      ]
+    }
+  ]
+}

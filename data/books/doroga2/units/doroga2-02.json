@@ -1,0 +1,680 @@
+{
+ "id": "doroga2-02",
+ "num": 2,
+ "title": "Cách 4 (Винительный падеж): đối tượng · giống ai · thời gian · Động từ chuyển động · Câu gián tiếp · «Который» (4)",
+ "vi": "Cách 4 (Винительный падеж): đối tượng · giống ai · thời gian · Động từ chuyển động · Câu gián tiếp · «Который» (4)",
+ "ru": "Урок 2 · Винительный падеж (4): объект, похож на кого/на что, время. Глаголы движения. Прямая/косвенная речь. «Который» (4)",
+ "icon": "🎬",
+ "color": "#8b5cf6",
+ "sectionPrefix": "doroga2-02-s",
+ "group": "Дорога в Россию",
+ "sections": [
+  {
+   "id": "doroga2-02-s001",
+   "type": "grammar",
+   "title": "Урок 2 — Mở đầu · Nghe audio gốc",
+   "num": null,
+   "blocks": [
+    {"t": "goal", "text": "Mục tiêu Урок 2: cách 4 (винительный падеж) của danh từ đi với đại từ và tính từ (số ít) theo 4 ý nghĩa — đối tượng (кого? что?), giống ai (похож на кого? на что?), thời gian (как часто? каждый день; когда? назад/через); đại từ свой ở cách 4; động từ chuyển động пойти/поехать, прийти/приехать, уйти/уехать và идти/ходить, ехать/ездить; câu trực tiếp → gián tiếp; câu phức với который ở cách 4; từ mới: стать, смеяться/засмеяться, уставать/устать, хвалить/похвалить, краснеть/покраснеть, узнавать/узнать, зарабатывать/заработать, сводить концы с концами, представлять себе, брать пример, обращать внимание, не хватать, предлагать/предложить; bài đọc «Что я люблю», «Внук Юрия Гагарина», «Завтрак»."},
+    {"t": "para", "text": "🎧 Audio gốc của sách là 4 track dài (gộp nhiều урок). Урок 2 nằm trong phần CD1 · Track 1–2."},
+    {"t": "audio", "src": "data/books/doroga2/audio/cd1-1.mp3", "label": "CD1 · Track 1 (≈25 phút)"},
+    {"t": "audio", "src": "data/books/doroga2/audio/cd1-2.mp3", "label": "CD1 · Track 2 (≈28 phút)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s002",
+   "type": "exercise",
+   "title": "I. Фонетическая зарядка — Упр. 1 (Khởi động ngữ âm)",
+   "num": 1,
+   "blocks": [
+    {"t": "instruction", "text": "Слушайте, повторяйте, читайте. (Nghe, nhắc lại, đọc.) Пойте: а-о-у-э-ы (Hát: a-o-u-e-y)."},
+    {"t": "subhead", "text": "а) Cách 6 — о ком? о чём? (ôn tập)"},
+    {"t": "para", "text": "вспоминаю о своём родном городе (tôi nhớ về thành phố quê hương mình) · рассказываю о своём школьном друге (kể về người bạn học của mình) · думаю о своей будущей жизни (nghĩ về cuộc sống tương lai của mình) · помню о своём первом свидании (nhớ về buổi hẹn hò đầu tiên của mình) · мечтаю об интересной работе (mơ về công việc thú vị) · спорим о новом фильме (tranh luận về bộ phim mới) · читаем о современной экологии (đọc về sinh thái học hiện đại) · говорим об известной артистке (nói về nữ nghệ sĩ nổi tiếng)"},
+    {"t": "subhead", "text": "б) Cách 6 — где? (ôn tập)"},
+    {"t": "para", "text": "живёт в этом большом доме (sống trong ngôi nhà lớn này) · работал в этой известной фирме (đã làm việc ở hãng nổi tiếng này) · учится в Московском государственном университете (học ở Đại học Tổng hợp Quốc gia Moskva) · занималась в музыкальной школе (đã học ở trường nhạc) · играем в футбол на городском стадионе (chơi bóng đá ở sân vận động thành phố) · фотографировались на Красной площади (đã chụp ảnh trên Quảng trường Đỏ) · смотрели балет в Большом театре (đã xem ba lê ở Nhà hát Lớn Bolshoi)"},
+    {"t": "subhead", "text": "в) В каком году...? (Vào năm nào...?)"},
+    {"t": "para", "text": "В каком году ты родился? (Cậu sinh năm nào? — nam) · В каком году ты родилась? (— nữ) · В каком году вы родились? (Các bạn/ngài sinh năm nào?) · В каком году ты поступил в школу? (Cậu vào trường năm nào? — nam) · В каком году ты поступила в школу? (— nữ) · В каком году ты приехал в Россию? (Cậu đến Nga năm nào? — nam) · В каком году ты приехала в Россию? (— nữ) · В каком году вы приехали в Россию? (Các bạn đến Nga năm nào?)"},
+    {"t": "subhead", "text": "г) Đọc năm — в каком году? (số thứ tự cách 6)"},
+    {"t": "para", "text": "Родилась в 1980 (тысяча девятьсот восьмидесятом) году. (Sinh năm 1980.)\nНачал учиться в школе в 1992 (тысяча девятьсот девяносто втором) году. (Bắt đầu học ở trường năm 1992.)\nОкончил школу в 2000 (двухтысячном) году. (Tốt nghiệp phổ thông năm 2000.)\nПоступила в институт в 2001 (две тысячи первом) году. (Vào học viện năm 2001.)\nПриехал в Россию в 2003 (две тысячи третьем) году. (Đến Nga năm 2003.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s003",
+   "type": "exercise",
+   "title": "I. Фонетическая зарядка — Упр. 2 (Nghe và mở rộng câu)",
+   "num": 2,
+   "blocks": [
+    {"t": "instruction", "text": "Слушайте и повторяйте. Запомните последнее предложение и запишите его. Продолжите высказывание. (Nghe và nhắc lại. Ghi nhớ câu cuối cùng và viết lại. Tiếp tục mở rộng câu.)"},
+    {"t": "para", "text": "... и буду учиться... → Я буду учиться в университете. → Я буду учиться в Московском университете. → В следующем году я буду учиться в Московском университете. → В следующем году я буду учиться в Московском университете на экономическом факультете. → В следующем году я буду учиться в Московском университете на экономическом факультете на первом курсе. (Năm sau tôi sẽ học ở Đại học Moskva, khoa kinh tế, năm thứ nhất.)"},
+    {"t": "para", "text": "... я узнал... → Я узнал о журнале. → Я узнал о новом журнале. → Я узнал о новом научно-популярном журнале. → Я узнал о новом научно-популярном журнале, который называется «Современная наука». (Tôi biết tin về tạp chí khoa học thường thức mới có tên «Khoa học hiện đại».)"},
+    {"t": "para", "text": "... друг был ... → мой друг был ... → мой друг был в городе ... → Мой друг был в старинном городе. → Мой друг был в старинном русском городе. → В прошлом году мой друг был в старинном русском городе. → В прошлом году мой друг был в старинном русском городе, который находится на Волге. (Năm ngoái bạn tôi đã ở một thành phố cổ của Nga nằm bên sông Volga.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s004",
+   "type": "exercise",
+   "title": "II. Поговорим — Упр. 1 (Hội thoại mẫu)",
+   "num": 1,
+   "blocks": [
+    {"t": "instruction", "text": "Прослушайте диалоги, задайте аналогичные вопросы своим друзьям. (Nghe các hội thoại, đặt câu hỏi tương tự cho bạn bè.)"},
+    {"t": "para", "text": "— Джон, в каком районе вы сняли комнату?\n— В тихом зелёном районе около университета.\n(— John, anh thuê phòng ở khu nào?\n— Ở khu yên tĩnh, nhiều cây xanh gần trường đại học.)"},
+    {"t": "para", "text": "— Мария, когда вы начали изучать русский язык?\n— В этом году, два месяца назад.\n(— Maria, chị bắt đầu học tiếng Nga khi nào?\n— Năm nay, hai tháng trước.)"},
+    {"t": "para", "text": "— Когда вы хотите поехать на экскурсию во Владимир?\n— На будущей неделе, в пятницу.\n(— Khi nào các bạn muốn đi tham quan Vladimir?\n— Tuần tới, vào thứ Sáu.)"},
+    {"t": "para", "text": "— Том, давай пойдём вечером на футбол!\n— Давай! Где мы встретимся?\n— В метро на «Спортивной».\n(— Tom, tối nay đi xem bóng đá đi!\n— Đi! Mình gặp nhau ở đâu?\n— Ở ga tàu điện ngầm «Sportivnaya».)"},
+    {"t": "para", "text": "— Виктор, о какой работе ты мечтаешь?\n— Я мечтаю об интересной научной работе в большой лаборатории.\n(— Viktor, cậu mơ ước công việc thế nào?\n— Tớ mơ về công việc khoa học thú vị trong một phòng thí nghiệm lớn.)"},
+    {"t": "para", "text": "— Иван, ты читал роман Л.Н. Толстого «Война и мир»?\n— Конечно, читал.\n— О чём этот роман?\n— О жизни, о счастливой и несчастной любви, о войне и о мире.\n(— Ivan, cậu đọc tiểu thuyết «Chiến tranh và hoà bình» của L.N. Tolstoy chưa?\n— Tất nhiên là đọc rồi.\n— Tiểu thuyết viết về cái gì?\n— Về cuộc sống, về tình yêu hạnh phúc và bất hạnh, về chiến tranh và hoà bình.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s005",
+   "type": "exercise",
+   "title": "II. Поговорим — Упр. 2 (Как вы ответите?)",
+   "num": 2,
+   "blocks": [
+    {"t": "instruction", "text": "Как вы ответите? (Возможны варианты.) (Bạn sẽ trả lời thế nào? Có thể có nhiều phương án.)"},
+    {"t": "para", "text": "1. В каком году вы родились? (Bạn sinh năm nào?)\n2. Когда вы начали изучать русский язык? (Bạn bắt đầu học tiếng Nga khi nào?)\n3. На каком факультете вы хотите учиться? (Bạn muốn học ở khoa nào?)\n4. На каком этаже ты живёшь? (Cậu sống ở tầng mấy?)\n5. В каком посольстве можно получить визу во Францию? (Có thể xin visa đi Pháp ở đại sứ quán nào?)\n6. Где вы учились раньше? (Trước đây bạn học ở đâu?)\n7. В каком университете вы хотите учиться? (Bạn muốn học ở trường đại học nào?)\n8. Вы смотрели этот фильм? О чём он? (Bạn xem phim này chưa? Phim nói về gì?)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s006",
+   "type": "exercise",
+   "title": "II. Поговорим — Упр. 3 (Как вы спросите?)",
+   "num": 3,
+   "blocks": [
+    {"t": "instruction", "text": "Как вы спросите? (Возможны варианты.) Cho sẵn câu trả lời — hãy đặt câu hỏi tương ứng."},
+    {"t": "para", "text": "1. — .........? — На экономическом факультете. (Ở khoa kinh tế.)\n2. — .........? — Я хочу рассказать о своём друге. (Tôi muốn kể về bạn mình.)\n3. — .........? — Друг занимается в шахматном клубе. (Bạn ấy sinh hoạt ở câu lạc bộ cờ vua.)\n4. — .........? — Брат учится в математической школе. (Anh/em trai học ở trường chuyên toán.)\n5. — .........? — Библиотека находится на втором этаже. (Thư viện ở tầng hai.)\n6. — .........? — Я прочитал интересную статью в последнем журнале «Наука и жизнь». (Tôi đã đọc một bài báo thú vị trong số mới nhất của tạp chí «Khoa học và đời sống».)\n7. — .........? — Мой друг родился в 1987 году. (Bạn tôi sinh năm 1987.)\n8. — .........? — Мы обедали в ресторане «Ёлки-палки». (Chúng tôi ăn trưa ở nhà hàng «Yolki-palki».)\n9. — .........? — Гагарин полетел в космос в 1961 году, в апреле. (Gagarin bay vào vũ trụ năm 1961, vào tháng Tư.)\n10. — .........? — В статье журналист рассказывает о детской музыкальной школе. (Trong bài báo nhà báo kể về trường nhạc thiếu nhi.)\n11. — .........? — Я сидел в первом ряду на десятом месте. (Tôi ngồi hàng một, ghế số mười.)\n12. — .........? — Мои родители живут в Петербурге. (Bố mẹ tôi sống ở Peterburg.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s007",
+   "type": "grammar",
+   "title": "Гр · Винительный падеж (4) — tổng quan 4 ý nghĩa",
+   "num": null,
+   "blocks": [
+    {"t": "note", "text": "Tục ngữ đề từ của bài: «Учиться всегда пригодится» — Học luôn luôn có ích."},
+    {"t": "para", "text": "Винительный падеж (4) имён существительных с местоимениями и прилагательными (единственное число) — Cách 4 (đối cách) của danh từ đi cùng đại từ và tính từ (số ít), với 4 ý nghĩa chính trong урок này:"},
+    {"t": "example", "text": "1) кого? что? — đối tượng: Я часто смотрю фотографии и вспоминаю свой родной город, свою семью. (Tôi thường xem ảnh và nhớ về thành phố quê hương, gia đình mình.)"},
+    {"t": "example", "text": "2) похож на кого? на что? — giống ai/cái gì: Внук очень похож на своего дедушку. (Cháu trai rất giống ông mình.)"},
+    {"t": "example", "text": "3) когда? — thời gian: Каждую неделю мы ходим в бассейн. (Mỗi tuần chúng tôi đi bơi.)"},
+    {"t": "example", "text": "4) глаголы движения + куда? — động từ chuyển động: Пойди туда, не знаю куда, в страну чужую, неизвестную. (Hãy đi đến nơi nào đó không biết là đâu, đến xứ sở xa lạ, chưa từng biết — câu cổ tích Nga.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s008",
+   "type": "grammar",
+   "title": "Гр 1 · Винительный падеж (4). Объект (Đối tượng) + Таблица 1",
+   "num": null,
+   "blocks": [
+    {"t": "example", "text": "Бабушка, я нашла твою старую шляпу. (Bà ơi, cháu tìm thấy cái mũ cũ của bà rồi.) · Видишь этого симпатичного молодого человека? Он мне очень нравится. (Cậu thấy chàng trai dễ mến kia không? Tớ rất thích anh ấy.) · Помогите мне выбрать самую красивую сумку. (Hãy giúp tôi chọn chiếc túi đẹp nhất.) · Я хочу заказать праздничный ужин на двоих. (Tôi muốn đặt bữa tối lễ hội cho hai người.)"},
+    {"t": "instruction", "text": "Посмотрите таблицу. Дополните её своими примерами. (Xem bảng 1. Bổ sung ví dụ của bạn.)"},
+    {"t": "table", "rows": [["Cách 1 — какой? какая? какое?", "Cách 4 — какого? какую? какое?", "Đuôi"], ["Это мой старый хороший друг. (Đây là người bạn cũ tốt của tôi — động vật, giống đực)", "люблю, уважаю своего хорошего старого друга (yêu mến, kính trọng người bạn cũ tốt của mình)", "-ого/-его; DT: -а/-я"], ["Это мой родной дом. (Đây là ngôi nhà thân yêu của tôi — bất động vật)", "вспоминаю свой родной дом (nhớ về ngôi nhà thân yêu của mình)", "1 = 4"], ["Вот свободное место. (Đây là chỗ trống — giống trung)", "ищу, нашёл свободное место (tìm, đã tìm thấy chỗ trống)", "1 = 4"], ["Это моя близкая хорошая подруга. Вот моя родная улица. (Đây là cô bạn thân của tôi. Đây là con phố quê tôi — giống cái)", "жду, встречаю мою близкую хорошую подругу; вспоминаю свою родную улицу (chờ, đón cô bạn thân; nhớ con phố quê mình)", "-ую/-юю; DT: -у/-ю"]]},
+    {"t": "note", "text": "Quy tắc: giống đực bất động vật và giống trung — cách 4 trùng cách 1; giống đực động vật — tính từ -ого/-его, danh từ -а/-я (trùng cách 2); giống cái — tính từ -ую/-юю, danh từ -у/-ю."}
+   ]
+  },
+  {
+   "id": "doroga2-02-s009",
+   "type": "exercise",
+   "title": "Упр. 1 — Микротексты về người nổi tiếng",
+   "num": 1,
+   "blocks": [
+    {"t": "instruction", "text": "а) Прочитайте микротексты и ответьте на вопросы. (Đọc các đoạn văn ngắn và trả lời câu hỏi.)"},
+    {"t": "para", "text": "1. Знаменитый российский режиссёр Никита Михалков показал на Международном Каннском фестивале свой самый известный фильм. Этот фильм получил приз фестиваля. (Đạo diễn Nga lừng danh Nikita Mikhalkov đã trình chiếu bộ phim nổi tiếng nhất của mình tại LHP quốc tế Cannes. Bộ phim đã nhận giải của liên hoan.)\n→ Какой фильм показал Никита Михалков на Каннском фестивале? (Mikhalkov đã chiếu bộ phim nào tại LHP Cannes?)"},
+    {"t": "para", "text": "2. Популярный российский артист Филипп Киркоров купил жене необычный подарок. Он подарил ей современную машину. Её длина 15 метров. А её цена?!! (Nghệ sĩ Nga nổi tiếng Philipp Kirkorov đã mua cho vợ một món quà khác thường. Anh tặng cô một chiếc xe hơi hiện đại. Chiều dài của nó là 15 mét. Còn giá của nó thì?!!)\n→ Какой подарок купил жене Филипп Киркоров? (Kirkorov đã mua cho vợ món quà gì?)"},
+    {"t": "para", "text": "3. Российский спортсмен — пловец Александр Попов — выиграл золотую медаль на Международной олимпиаде в Сиднее. (VĐV Nga — kình ngư Aleksandr Popov — đã giành huy chương vàng tại Olympic quốc tế ở Sydney.)\n→ Какую медаль выиграл Александр Попов на Олимпиаде в Сиднее? (Popov giành huy chương gì?)"},
+    {"t": "para", "text": "4. Российский учёный-физик Жорес Алфёров получил Нобелевскую премию в 2000 (в двухтысячном) году. (Nhà vật lý Nga Zhores Alferov nhận giải Nobel năm 2000.)\n→ Какую премию получил российский учёный-физик Жорес Алфёров? (Alferov nhận giải thưởng gì?)"},
+    {"t": "para", "text": "5. Известный российский художник-модельер Слава Зайцев показал свою новую коллекцию одежды на Международном конкурсе в Париже. (Nhà thiết kế thời trang Nga nổi tiếng Slava Zaitsev đã trình diễn bộ sưu tập trang phục mới của mình tại cuộc thi quốc tế ở Paris.)\n→ Какую коллекцию Слава Зайцев показал в Париже? (Zaitsev trình diễn bộ sưu tập nào ở Paris?)"},
+    {"t": "instruction", "text": "б) Задайте вопросы к этим микротекстам, чтобы уточнить, правильно ли вы поняли эту информацию. (Đặt câu hỏi làm rõ thông tin.)"},
+    {"t": "model", "text": "Как зовут российского режиссёра, который показал свой фильм на фестивале? (Đạo diễn Nga đã chiếu phim của mình tại liên hoan tên là gì?) · На каком фестивале режиссёр Никита Михалков показал свой самый известный фильм? (Mikhalkov chiếu phim nổi tiếng nhất của mình tại liên hoan nào?)"},
+    {"t": "instruction", "text": "в) Расскажите, что вы узнали о каждом человеке. (Kể lại những gì bạn biết về từng người.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s010",
+   "type": "exercise",
+   "title": "Упр. 2 — Ghép cụm từ A + Б (cách 4)",
+   "num": 2,
+   "blocks": [
+    {"t": "instruction", "text": "Подберите нужные словосочетания (соедините части А и Б, поставьте часть Б в нужную форму), а затем придумайте небольшие рассказы или опишите ситуацию, в которой можно использовать эти сочетания (А + Б). Формы глаголов можно изменять. (Ghép động từ cột A với cụm danh từ cột Б, đưa cột Б về cách 4, rồi đặt đoạn hội thoại/tình huống ngắn.)"},
+    {"t": "model", "text": "встречать + школьный друг → Вчера вечером я ездил на вокзал встречать школьного друга. Он приехал из Петербурга. И я хочу показать ему Москву, московские музеи. (Tối qua tôi ra ga đón người bạn học. Cậu ấy từ Peterburg đến. Tôi muốn cho cậu ấy xem Moskva, các bảo tàng Moskva.)"},
+    {"t": "para", "text": "А: фотографировать (chụp ảnh) · смотреть (xem) · покупать (mua) · любить (yêu thích) · читать (đọc) · рисовать (vẽ) · вспоминать (nhớ về) · есть на завтрак (ăn sáng) · встречать (đón, gặp) · изучать (nghiên cứu, học) · уважать (kính trọng) · пить (uống) · поздравлять (chúc mừng) · благодарить (cảm ơn)"},
+    {"t": "para", "text": "Б: русский язык, русская литература (tiếng Nga, văn học Nga) · детская передача, весёлый мультфильм (chương trình thiếu nhi, phim hoạt hình vui) · старый друг, первая учительница, первая любовь (bạn cũ, cô giáo đầu tiên, mối tình đầu) · популярный артист, известный спортсмен (nghệ sĩ nổi tiếng, VĐV nổi tiếng) · осенний парк, осеннее небо, осенняя природа (công viên mùa thu, bầu trời mùa thu, thiên nhiên mùa thu) · любимая бабушка, старшая сестра, младший брат (bà yêu quý, chị gái, em trai) · спортивный костюм, модная шляпа, тёплое пальто (bộ đồ thể thao, mũ mốt, áo măng tô ấm) · чёрный кофе, холодное молоко, минеральная вода (cà phê đen, sữa lạnh, nước khoáng) · Красная площадь, московский Кремль (Quảng trường Đỏ, điện Kremli Moskva) · свежий журнал, свежая газета (tạp chí mới, báo mới) · белый хлеб, сливочное масло, красная икра (bánh mì trắng, bơ, trứng cá đỏ) · новая подруга, хороший знакомый (bạn gái mới, người quen tốt)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s011",
+   "type": "grammar",
+   "title": "Гр · Местоимение «свой» в винительном падеже (4)",
+   "num": null,
+   "blocks": [
+    {"t": "example", "text": "Художник живёт в этом доме. Это его дом и его сад. (Hoạ sĩ sống trong ngôi nhà này. Đây là nhà của ông và vườn của ông.) · Иногда он рисует свой дом, свой сад. (Đôi khi ông vẽ ngôi nhà của mình, khu vườn của mình.) · Его друг живёт в другом доме. (Bạn ông sống ở ngôi nhà khác.) · Художник любит своего друга и часто рисует его дом и его сад. (Hoạ sĩ quý người bạn của mình và thường vẽ ngôi nhà của bạn, khu vườn của bạn.)"},
+    {"t": "table", "rows": [["Chủ ngữ", "Какой город? (bất động vật)", "Какого друга? (động vật)", "Какую подругу? (giống cái)"], ["я рисую", "свой (мой) город", "своего (моего) друга", "свою (мою) подругу"], ["ты рисуешь", "свой (твой) город", "своего (твоего) друга", "свою (твою) подругу"], ["мы рисуем", "свой (наш) город", "своего (нашего) друга", "свою (нашу) подругу"], ["вы рисуете", "свой (ваш) город", "своего (вашего) друга", "свою (вашу) подругу"], ["она рисует / он рисует", "свой город", "своего друга", "свою подругу"]]},
+    {"t": "note", "text": "свой ⇄ его/её/их: «свой» luôn chỉ về CHỦ NGỮ của câu. Обратите внимание: Это мой друг (1). Мой друг (1) очень интересный человек. Мне нравится мой друг (1). Моего друга (4) зовут Иван. — NHƯNG: Я люблю своего (4) друга. (Khi chủ ngữ là «я» và sở hữu cũng là «tôi» ở vị trí bổ ngữ → dùng свой.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s012",
+   "type": "exercise",
+   "title": "Упр. 3 — «Паспортный контроль» (свой/мой)",
+   "num": 3,
+   "blocks": [
+    {"t": "instruction", "text": "Прослушайте диалог, объясните ситуацию. Что сделала жена и почему? (Nghe hội thoại, giải thích tình huống: người vợ đã làm gì và vì sao?)"},
+    {"t": "vocab", "ru": "ошиба́ться I — ошиби́ться (ошибся, ошиблась)", "vi": "nhầm lẫn — Не ошибайся! / Не ошибайтесь! (Đừng nhầm!)", "g": null},
+    {"t": "para", "text": "Паспортный контроль (Kiểm tra hộ chiếu)\nПограничник: — Возьмите свой паспорт. (Nhân viên biên phòng: — Mời ông cầm lấy hộ chiếu của mình.)\nМуж: — Но это не мой паспорт, это её паспорт. (Chồng: — Nhưng đây không phải hộ chiếu của tôi, đây là hộ chiếu của cô ấy.)\nЖена: — Я уже взяла свой паспорт. (Vợ: — Em đã cầm hộ chiếu của em rồi.)\nМуж: — Значит, ты взяла не свой, а мой паспорт. Посмотри, пожалуйста, где мой паспорт? (Chồng: — Vậy là em cầm không phải hộ chiếu của em mà là của anh. Em xem hộ, hộ chiếu của anh đâu?)\nЖена: — Сейчас, минуточку. Я уже положила его в свою сумку. Да, вот он. Конечно, это твой паспорт, я ошиблась. (Vợ: — Chờ chút. Em để nó vào túi của em rồi. Đây rồi. Đúng là hộ chiếu của anh, em nhầm.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s013",
+   "type": "exercise",
+   "title": "Упр. 4 — Chọn phương án đúng (мою/свою, его/свою, её/свой)",
+   "num": 4,
+   "blocks": [
+    {"t": "instruction", "text": "Выберите правильный вариант. Объясните, чем отличаются ситуации. (Chọn phương án đúng. Giải thích các tình huống khác nhau thế nào.)"},
+    {"t": "para", "text": "1. (1. мою́ / 2. свою́)\nа) Дайте, пожалуйста, ... сумку! Я забыла её здесь. Я положу документы в ... сумку. (Làm ơn đưa cho tôi túi xách ... ! Tôi để quên nó ở đây. Tôi sẽ để giấy tờ vào túi ...)\nб) Помогите мне, пожалуйста. Возьмите ... сумку. Она очень тяжёлая. (Làm ơn giúp tôi. Hãy cầm hộ chiếc túi ... Nó nặng lắm.)"},
+    {"t": "para", "text": "2. (1. его́ / 2. свою́)\n— Виктор, ты не знаешь, где фотография Антона? Он дал мне ... фотографию на память. (— Viktor, cậu biết ảnh của Anton đâu không? Cậu ấy tặng tớ tấm ảnh ... làm kỷ niệm.)\n— Нет, я не видел ... фотографию. Посмотри на столе, Антон положил ... фотографию туда. (— Không, tớ không thấy tấm ảnh ... Xem trên bàn ấy, Anton để tấm ảnh ... ở đó.)"},
+    {"t": "para", "text": "3. (1. её / 2. свой)\nАнтон и Маша приехали в Петербург. Антон взял ... сумку и ... чемодан. Когда они вышли из вагона, Маша вспомнила, что забыла в поезде ... журнал. Антон сказал, что он положил ... журнал в ... сумку. (Anton và Masha đến Peterburg. Anton cầm túi ... và vali ... Khi họ ra khỏi toa, Masha nhớ ra đã quên trên tàu cuốn tạp chí ... Anton nói rằng anh đã để cuốn tạp chí ... vào túi ...)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s014",
+   "type": "exercise",
+   "title": "Упр. 5 — Từ mới trước bài đọc «Что я люблю»",
+   "num": 5,
+   "blocks": [
+    {"t": "instruction", "text": "В тексте, который вы будете читать, вы встретите новые слова. Познакомьтесь с ними. (Làm quen với từ mới trước khi đọc bài.)"},
+    {"t": "vocab", "ru": "стать + что де́лать? (= нача́ть)", "vi": "bắt đầu (làm gì): стал работать, стала учиться, стали заниматься = начал...", "g": null},
+    {"t": "example", "text": "Мы вошли в зал и стали слушать музыку. (Chúng tôi vào phòng hoà nhạc và bắt đầu nghe nhạc.) · Они пришли на дискотеку и стали танцевать. (Họ đến vũ trường và bắt đầu nhảy.)"},
+    {"t": "vocab", "ru": "смея́ться I (я смею́сь, ты смеёшься) — засмея́ться I", "vi": "cười — bật cười", "g": null},
+    {"t": "example", "text": "Вечером студенты смотрели весёлый фильм по телевизору и смеялись. (Buổi tối sinh viên xem phim hài trên TV và cười.) · Он прочитал шутку и засмеялся. (Anh ấy đọc câu đùa và bật cười.)"},
+    {"t": "vocab", "ru": "устава́ть I (я устаю́) — уста́ть I (я уста́ну)", "vi": "mệt, thấm mệt", "g": null},
+    {"t": "example", "text": "Он много работал и устал. (Anh ấy làm việc nhiều và đã mệt.) · Если вы устали, вы должны отдохнуть. (Nếu bạn mệt, bạn cần nghỉ ngơi.)"},
+    {"t": "vocab", "ru": "хвали́ть II — похвали́ть II (кого? что? (4))", "vi": "khen, khen ngợi (ai, cái gì)", "g": null},
+    {"t": "example", "text": "Иван написал интересный рассказ. Преподаватель похвалил его рассказ. (Ivan viết một truyện ngắn hay. Thầy giáo khen truyện của anh.) · «Мартин, ты очень хорошо сдал экзамены. Молодец!» — похвалил преподаватель студента. (— Martin, em thi rất tốt. Giỏi lắm! — thầy khen sinh viên.) · Все люди любят, когда их хвалят. (Ai cũng thích được khen.)"},
+    {"t": "vocab", "ru": "красне́ть I — покрасне́ть I", "vi": "đỏ mặt", "g": null},
+    {"t": "example", "text": "Антон покраснел. = Его лицо стало красным. (Anton đỏ mặt = mặt cậu ấy trở nên đỏ.) · Пётр сказал Марине: «Я люблю вас...», — и покраснел. (Pyotr nói với Marina: «Tôi yêu cô...» — và đỏ mặt.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s015",
+   "type": "exercise",
+   "title": "Упр. 6 — Bài đọc «Что я люблю» (Tôi yêu thích gì)",
+   "num": 6,
+   "blocks": [
+    {"t": "instruction", "text": "а) Прочитайте текст. Скажите, почему Борис Сергеевич похвалил Дениса и не похвалил Мишку? (Đọc bài. Vì sao Boris Sergeevich khen Denis mà không khen Mishka? — theo truyện của V. Dragunsky)"},
+    {"t": "para", "text": "У меня есть друг Мишка. Мы с ним учимся в одной школе и вместе занимаемся музыкой. Однажды мы с Мишкой вошли в класс, где у нас бывают уроки музыки. Наш преподаватель Борис Сергеевич играл на пианино. Мы тихо сели и стали слушать, как он играет. Борис Сергеевич играл, а мы слушали прекрасную музыку. Когда он кончил играть, я спросил:\n— Что это вы играли, Борис Сергеевич?\nОн ответил:\n— Это Шопен. Шопен — великий композитор. Он сочинял чудесную музыку. А я люблю музыку больше всего на свете.\n(Tôi có cậu bạn Mishka. Chúng tôi học cùng trường và cùng học nhạc. Một lần hai đứa bước vào lớp học nhạc. Thầy Boris Sergeevich đang chơi piano. Chúng tôi lặng lẽ ngồi xuống và bắt đầu nghe thầy chơi. Thầy chơi đàn, còn chúng tôi nghe thứ âm nhạc tuyệt diệu. Khi thầy chơi xong, tôi hỏi:\n— Thầy vừa chơi bản gì vậy ạ?\nThầy đáp:\n— Đó là Chopin. Chopin là nhà soạn nhạc vĩ đại. Ông sáng tác thứ âm nhạc kỳ diệu. Còn thầy thì yêu âm nhạc hơn tất cả mọi thứ trên đời.)"},
+    {"t": "para", "text": "Потом он спросил:\n— А ты, Денис, что ты любишь больше всего на свете?\n— Я многое люблю.\nИ я рассказал, что я очень люблю играть в шахматы, читать сказки, смотреть телевизор; люблю петь песни, играть с собакой, звонить по телефону; люблю плавать, гулять, ходить в зоопарк; очень люблю дарить подарки, люблю смеяться... Я многое люблю.\nБорис Сергеевич слушал меня внимательно, а потом сказал:\n— Удивительно! А я и не знал. Ты ещё маленький, а любишь так много! Целый мир!\n(Rồi thầy hỏi:\n— Thế còn em, Denis, em yêu thích gì nhất trên đời?\n— Em thích nhiều thứ lắm.\nVà tôi kể rằng tôi rất thích chơi cờ vua, đọc truyện cổ tích, xem TV; thích hát, chơi với chó, gọi điện thoại; thích bơi, đi dạo, đi sở thú; rất thích tặng quà, thích cười... Tôi thích nhiều thứ lắm.\nThầy chăm chú nghe tôi nói, rồi bảo:\n— Thật đáng ngạc nhiên! Thầy không ngờ đấy. Em còn nhỏ mà yêu thích nhiều đến thế! Cả một thế giới!)"},
+    {"t": "para", "text": "Мишка тоже очень хотел рассказать, что он любит, поэтому он не мог больше молчать:\n— А я тоже многое люблю. Я тоже хочу рассказать вам, что я люблю.\nБорис Сергеевич засмеялся и сказал:\n— Очень интересно! Ну, расскажи, что ты любишь?\nМишка подумал немного и начал:\n— Я люблю сладкий кекс, шоколадный торт, белый хлеб и чёрный хлеб. Очень люблю жареную картошку, варёную картошку тоже люблю. Люблю красную икру и чёрную икру. Очень сильно люблю варёную колбасу. А больше всего люблю копчёную колбасу! Могу съесть целый килограмм! И всей душой люблю мороженое, особенно люблю шоколадное мороженое, фруктовое мороженое, ванильное мороженое... Ещё я люблю томатный сок, виноградный сок, яблочный сок, апельсиновый сок... Могу выпить целый литр! И минеральную воду я тоже люблю. Люблю суп, сыр, колбасу... Ой, колбасу я уже говорил...\n(Mishka cũng rất muốn kể cậu thích gì, nên không thể im lặng thêm:\n— Em cũng thích nhiều thứ lắm. Em cũng muốn kể cho thầy nghe em thích gì.\nThầy Boris Sergeevich bật cười và nói:\n— Thú vị lắm! Nào, kể đi, em thích gì?\nMishka nghĩ một chút rồi bắt đầu:\n— Em thích bánh ngọt, bánh ga tô sô cô la, bánh mì trắng và bánh mì đen. Rất thích khoai tây rán, khoai tây luộc cũng thích. Thích trứng cá đỏ và trứng cá đen. Thích xúc xích luộc kinh khủng. Mà thích nhất là xúc xích hun khói! Em có thể ăn hết cả ký! Và yêu kem bằng cả tâm hồn, đặc biệt là kem sô cô la, kem hoa quả, kem vani... Em còn thích nước ép cà chua, nước nho, nước táo, nước cam... Có thể uống hết cả lít! Cả nước khoáng em cũng thích. Thích súp, pho mát, xúc xích... Ôi, xúc xích em nói rồi...)"},
+    {"t": "para", "text": "Мишка говорил быстро и очень устал. Он ждал, что Борис Сергеевич похвалит его, но Борис Сергеевич внимательно смотрел на Мишку и молчал. Потом он сказал:\n— Да... Я вижу, ты любишь продукты, целый продуктовый магазин. И только... А люди? Кого ты любишь?\nТут Мишка покраснел и сказал:\n— Ой! Я совсем забыл! Я люблю свою бабушку! И там вкусно готовит!\n(Mishka nói nhanh và mệt lử. Cậu chờ thầy khen, nhưng thầy chỉ chăm chú nhìn Mishka và im lặng. Rồi thầy nói:\n— Ừ... Thầy thấy em yêu thực phẩm, yêu cả một cửa hàng thực phẩm. Chỉ thế thôi... Thế còn con người? Em yêu ai?\nMishka đỏ mặt và nói:\n— Ôi! Em quên khuấy mất! Em yêu bà của em! Bà nấu ăn ngon lắm!) (cần soát lại câu cuối — bản scan hơi mờ)"},
+    {"t": "instruction", "text": "б) Ответьте на вопросы: (Trả lời câu hỏi:)\n1. Что больше всего любит Борис Сергеевич? (Boris Sergeevich yêu gì nhất?)\n2. Что любит Денис? (Denis thích gì?)\n3. Что любит Мишка? Почему он любит свою бабушку? (Mishka thích gì? Vì sao cậu yêu bà mình?)\n4. Какой герой рассказа вам понравился и почему? (Bạn thích nhân vật nào? Vì sao?)\n5. Какой герой рассказа вам не понравился и почему? (Bạn không thích nhân vật nào? Vì sao?)\n6. Что вы очень любите и что вы совсем не любите? (Bạn rất thích gì và hoàn toàn không thích gì?)"},
+    {"t": "instruction", "text": "в) Как эту историю расскажет Борис Сергеевич? (Thầy Boris Sergeevich sẽ kể lại câu chuyện này thế nào?)"},
+    {"t": "instruction", "text": "г) Напишите рассказ о себе (что вы любите больше всего). (Viết đoạn văn về bản thân: bạn yêu thích gì nhất.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s016",
+   "type": "exercise",
+   "title": "Упр. 7 — Báo «Московские новости»",
+   "num": 7,
+   "blocks": [
+    {"t": "instruction", "text": "а) Прочитайте статьи из газеты «Московские новости» и ответьте на вопросы. (Đọc các mẩu tin của báo «Tin tức Moskva» và trả lời câu hỏi.)"},
+    {"t": "para", "text": "1. Тренер поздравил нового олимпийского чемпиона, которому вручили золотую медаль. (HLV chúc mừng nhà vô địch Olympic mới vừa được trao huy chương vàng.)\n→ Какого спортсмена поздравил тренер? (HLV chúc mừng VĐV nào?)"},
+    {"t": "para", "text": "2. В московском аэропорту «Шереметьево» журналисты встретили знаменитую певицу. Она дала небольшое интервью, в котором рассказала о себе и о своей звёздной карьере. (Tại sân bay Sheremetyevo các nhà báo đón nữ ca sĩ lừng danh. Cô trả lời phỏng vấn ngắn, kể về bản thân và sự nghiệp ngôi sao của mình.)\n→ Какую певицу встретили журналисты в московском аэропорту «Шереметьево»? (Các nhà báo đón nữ ca sĩ nào?)"},
+    {"t": "para", "text": "3. В прошлом году Малый театр пригласил известного французского актёра Пьера Ришара в Москву. Он участвовал в новом спектакле, который состоялся в декабре. (Năm ngoái Nhà hát Maly mời nam diễn viên Pháp nổi tiếng Pierre Richard đến Moskva. Ông tham gia vở diễn mới, công diễn vào tháng Mười Hai.)\n→ Какого актёра пригласил Малый театр в прошлом году? (Nhà hát Maly mời diễn viên nào?)"},
+    {"t": "para", "text": "4. На фотографии вы видите самую юную студентку МГУ Юлию Шевцову. Ей только 14 лет, но она уже окончила среднюю школу и поступила на математический факультет МГУ. (Trong ảnh là nữ sinh viên trẻ nhất của MGU — Yulia Shevtsova. Em mới 14 tuổi nhưng đã tốt nghiệp phổ thông và đỗ vào khoa toán MGU.)\n→ Какую студентку вы видите на фотографии? (Bạn thấy nữ sinh viên nào trong ảnh?)"},
+    {"t": "instruction", "text": "б) Задайте дополнительные вопросы по этим статьям, чтобы уточнить, правильно ли вы поняли эту информацию. (Đặt thêm câu hỏi làm rõ.) в) Скажите, что вы узнали о каждом человеке. (Kể lại bạn biết gì về mỗi người.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s017",
+   "type": "exercise",
+   "title": "Упр. 8 — Объявления (Tin rao vặt) + отдавать/отдать",
+   "num": 8,
+   "blocks": [
+    {"t": "instruction", "text": "Прочитайте объявления. Скажите, что вы узнали из этих объявлений. Какое объявление вас заинтересовало и почему? (Đọc các mẩu rao. Bạn biết được gì? Mẩu rao nào khiến bạn quan tâm, vì sao?)"},
+    {"t": "table", "rows": [["отдава́ть I", "отда́ть (что? (4) кому? (3))"], ["я отдаю́, ты отдаёшь, он отдаёт", "я отда́м, ты отда́шь, он отда́ст"], ["мы отдаём, вы отдаёте, они отдаю́т", "мы отдади́м, вы отдади́те, они отдаду́т"], ["отдава́л (-а, -и) · Отдава́й(те)!", "о́тдал (-а, -и) · Отда́й(те)!"]]},
+    {"t": "para", "text": "1) Отдам умную добрую собаку в хорошие руки. Позвоните по телефону 125-58-12. (Cho con chó thông minh, hiền lành vào tay người tốt. Hãy gọi số 125-58-12.)\n2) Медицинская фирма приглашает на работу опытного врача-хирурга и медсестру. Справки по телефону 772-14-51. (Hãng y tế tuyển bác sĩ phẫu thuật giàu kinh nghiệm và y tá. Hỏi qua điện thoại 772-14-51.)\n3) ЦМО приглашает на работу опытного преподавателя русского языка... (Trung tâm đào tạo quốc tế tuyển giáo viên tiếng Nga giàu kinh nghiệm...)\n4) Завтра в 10.00 начнёт работу новый московский магазин на Кутузовском проспекте. Магазин ждёт своего первого покупателя. Коллектив магазина поздравит его и вручит ему необычный подарок. Спешите! Первый — это Вы! (Ngày mai lúc 10.00 cửa hàng mới ở đại lộ Kutuzov khai trương. Cửa hàng chờ vị khách đầu tiên của mình. Tập thể cửa hàng sẽ chúc mừng và trao món quà đặc biệt. Hãy nhanh chân! Người đầu tiên chính là Bạn!)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s018",
+   "type": "grammar",
+   "title": "Гр 2 · Винительный падеж (4): похож на кого? / на что?",
+   "num": null,
+   "blocks": [
+    {"t": "para", "text": "похо́ж / похо́жа / похо́жи + на кого? на что? (4) — giống ai, giống cái gì."},
+    {"t": "example", "text": "Сын похож на своего отца. (Con trai giống bố mình.) · Дочь похожа на свою мать. (Con gái giống mẹ mình.) · Братья похожи друг на друга. (Hai anh em giống nhau.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s019",
+   "type": "exercise",
+   "title": "Упр. 9 — Наташа и её брат похожи?",
+   "num": 9,
+   "blocks": [
+    {"t": "instruction", "text": "а) Прослушайте диалог. Скажите, Наташа и её брат похожи друг на друга? (Nghe hội thoại. Natasha và anh/em trai có giống nhau không?)"},
+    {"t": "para", "text": "— Наташа, интересно, на кого ты похожа?\n— Я очень похожа на своего отца, у него тоже светлые волосы и большие голубые глаза.\n— А твой брат тоже похож на него?\n— Нет, он похож на маму. У брата очень симпатичное лицо. У него высокий лоб, прямой нос, тёмные волосы и карие глаза.\n— Значит, вы совсем не похожи друг на друга.\n(— Natasha, hay nhỉ, cậu giống ai?\n— Tớ rất giống bố tớ, bố cũng có tóc sáng màu và mắt xanh to.\n— Thế anh trai cậu cũng giống bố à?\n— Không, anh ấy giống mẹ. Anh tớ có khuôn mặt rất ưa nhìn: trán cao, mũi thẳng, tóc sẫm và mắt nâu.\n— Vậy là hai anh em chẳng giống nhau chút nào.)"},
+    {"t": "instruction", "text": "б) Опишите портрет Наташи и её брата; отца и матери Наташи. (Tả chân dung Natasha và anh trai; bố và mẹ của Natasha.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s020",
+   "type": "exercise",
+   "title": "Упр. 10 — Nhìn ảnh: ai giống ai?",
+   "num": 10,
+   "blocks": [
+    {"t": "instruction", "text": "а) Посмотрите на фотографии. Почему можно сказать, что сын похож на отца, дочь похожа на мать; братья похожи друг на друга? (Какие у них глаза, волосы, нос?) (Nhìn ảnh trong sách: vì sao có thể nói con trai giống bố, con gái giống mẹ, hai anh em giống nhau? Mắt, tóc, mũi của họ thế nào?)\nб) Узнайте у своих друзей, на кого они похожи. (Hỏi bạn bè xem họ giống ai.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s021",
+   "type": "exercise",
+   "title": "Упр. 11 — Tả người (từ vựng ngoại hình, tính cách)",
+   "num": 11,
+   "blocks": [
+    {"t": "instruction", "text": "Посмотрите на рисунки. Опишите этих людей (данные слова помогут вам). (Nhìn tranh trong sách, tả những người này — các từ dưới đây sẽ giúp bạn.)"},
+    {"t": "vocab", "ru": "во́лосы: дли́нные / коро́ткие; тёмные / све́тлые", "vi": "tóc: dài / ngắn; sẫm màu / sáng màu", "g": null},
+    {"t": "vocab", "ru": "глаза́: чёрные, ка́рие, голубы́е, живы́е, до́брые / злы́е", "vi": "mắt: đen, nâu, xanh da trời, linh hoạt, hiền / dữ", "g": null},
+    {"t": "vocab", "ru": "лицо́: до́брое / зло́е; краси́вое / некраси́вое; симпати́чное, откры́тое", "vi": "khuôn mặt: hiền / dữ; đẹp / không đẹp; ưa nhìn, cởi mở", "g": null},
+    {"t": "vocab", "ru": "нос: прямо́й, курно́сый", "vi": "mũi: thẳng, hếch", "g": null},
+    {"t": "vocab", "ru": "хара́ктер: си́льный / сла́бый; лёгкий / тру́дный; весёлый / споко́йный", "vi": "tính cách: mạnh mẽ / yếu đuối; dễ chịu / khó tính; vui vẻ / điềm tĩnh", "g": null}
+   ]
+  },
+  {
+   "id": "doroga2-02-s022",
+   "type": "exercise",
+   "title": "Упр. 12 — Tả nghệ sĩ Евгений Миронов",
+   "num": 12,
+   "blocks": [
+    {"t": "instruction", "text": "Прослушайте диалог. Опишите артиста Евгения Миронова. (Nghe hội thoại. Tả nghệ sĩ Evgeny Mironov.)"},
+    {"t": "para", "text": "— Олег, ты видел популярного московского артиста Евгения Миронова?\n— Видел. Очень приятный молодой человек.\n— А какой он?\n— Высокий, спортивный. У него открытое живое лицо и весёлые глаза.\n(— Oleg, cậu gặp nghệ sĩ Moskva nổi tiếng Evgeny Mironov chưa?\n— Gặp rồi. Một chàng trai rất dễ mến.\n— Anh ấy trông thế nào?\n— Cao, dáng thể thao. Khuôn mặt cởi mở, linh hoạt và đôi mắt vui vẻ.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s023",
+   "type": "exercise",
+   "title": "Упр. 13 — Vì sao Saša chơi thân với Anton?",
+   "num": 13,
+   "blocks": [
+    {"t": "instruction", "text": "а) Прочитайте текст и объясните, почему Саша дружит с Антоном? (Đọc và giải thích vì sao Sasha thân với Anton.)"},
+    {"t": "para", "text": "Почему я дружу с Антоном? Потому что мы похожи. У нас общие интересы. Мы любим большой теннис, современную музыку, любим шутить, даже любим одну девушку — Наташу. Она учится с нами на одном курсе, она наша однокурсница. Мне нравится Антон, потому что он любит юмор, у него хороший, лёгкий характер. А ещё Антон очень надёжный человек. Он всегда готов помочь другу.\n(Vì sao tôi thân với Anton? Vì chúng tôi giống nhau. Chúng tôi có những sở thích chung: thích quần vợt, nhạc hiện đại, thích đùa, thậm chí cùng thích một cô gái — Natasha. Cô ấy học cùng khoá, là bạn đồng khoá của chúng tôi. Tôi quý Anton vì cậu ấy thích hài hước, tính tình tốt, dễ chịu. Hơn nữa Anton là người rất đáng tin cậy, luôn sẵn sàng giúp đỡ bạn bè.)"},
+    {"t": "instruction", "text": "б) Прочитайте текст и скажите, какой характер у этой девушки. (Đọc và nói xem cô gái này có tính cách thế nào.)"},
+    {"t": "para", "text": "У моей сестры есть подруга. Говорят, что она не очень общительная. Но я знаю, что она очень добрый, серьёзный человек. Просто она любит быть одна, она любит природу, классическую музыку, её лучший друг — книга.\n(Chị tôi có một cô bạn. Người ta bảo cô ấy không cởi mở lắm. Nhưng tôi biết cô ấy là người rất tốt bụng, nghiêm túc. Đơn giản là cô ấy thích ở một mình, yêu thiên nhiên, nhạc cổ điển, người bạn tốt nhất của cô — là sách.)"},
+    {"t": "instruction", "text": "в) Опишите своего друга, подругу, любимого артиста (артистку), спортсмена (спортсменку). (Tả người bạn, nghệ sĩ hoặc VĐV yêu thích của bạn.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s024",
+   "type": "exercise",
+   "title": "Упр. 14 — Давайте поиграем: cái gì giống cái gì?",
+   "num": 14,
+   "blocks": [
+    {"t": "instruction", "text": "Посмотрите на вещи вокруг себя и скажите, что на что похоже (или что на что не похоже)? Давайте поиграем! (Nhìn đồ vật xung quanh và nói cái gì giống/không giống cái gì. Cùng chơi nào!)"},
+    {"t": "model", "text": "Карандаш похож на ручку. (Bút chì giống bút mực.) · Журнал похож на книгу. (Tạp chí giống quyển sách.) · Стол не похож на стул. (Bàn không giống ghế.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s025",
+   "type": "exercise",
+   "title": "Упр. 15 — Từ mới trước bài «Внук Юрия Гагарина»",
+   "num": 15,
+   "blocks": [
+    {"t": "instruction", "text": "В тексте, который вы будете читать, вы встретите новые слова и выражения. Прочитайте их, проверьте в словаре, правильно ли вы их поняли. (Làm quen từ mới trước khi đọc bài.)"},
+    {"t": "vocab", "ru": "узнава́ть I (я узнаю́, ты узнаёшь) — узна́ть I (я узна́ю) (кого? что? (4))", "vi": "nhận ra (ai, cái gì)", "g": null},
+    {"t": "example", "text": "Через 10 лет он не узнал свой город, так сильно он изменился. (Sau 10 năm anh không nhận ra thành phố của mình — nó thay đổi quá nhiều.) · Я давно не видел своего знакомого, и я долго смотрел на него и не узнавал. (Lâu rồi tôi không gặp người quen, tôi nhìn anh ấy mãi mà không nhận ra.)"},
+    {"t": "vocab", "ru": "Когда? до / во вре́мя / по́сле + чего? (2)", "vi": "trước / trong khi / sau (+ cách 2): до урока, во время полёта, после встречи", "g": null},
+    {"t": "example", "text": "До полёта Гагарин учился в лётной школе. (Trước chuyến bay Gagarin học ở trường phi công.) · Во время полёта Гагарин разговаривал с Землёй. (Trong chuyến bay Gagarin trò chuyện với Trái Đất.) · После полёта Гагарин ездил в разные страны. (Sau chuyến bay Gagarin đi nhiều nước.)"},
+    {"t": "vocab", "ru": "Заче́м? — что́бы + что (с)де́лать?", "vi": "để làm gì? — чтобы + động từ nguyên thể (mục đích)", "g": null},
+    {"t": "example", "text": "Зачем вы приехали в Россию? — Я приехал в Россию, чтобы изучать русский язык. (Anh đến Nga để làm gì? — Tôi đến Nga để học tiếng Nga.) · Зачем вы изучаете русский язык? — Я изучаю русский язык, чтобы поступить в Московский университет. (— Tôi học tiếng Nga để thi vào Đại học Moskva.) · Зачем люди летают в космос? — Люди летают в космос, чтобы изучать другие планеты. (Con người bay vào vũ trụ để nghiên cứu các hành tinh khác.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s026",
+   "type": "exercise",
+   "title": "Упр. 16 — Bài đọc «Внук Юрия Гагарина» (Cháu trai của Yuri Gagarin)",
+   "num": 16,
+   "blocks": [
+    {"t": "instruction", "text": "а) Прочитайте текст. Скажите, что думает Юра о характере космонавта? (Đọc bài. Yura nghĩ gì về tính cách của nhà du hành vũ trụ?)"},
+    {"t": "para", "text": "Посмотрите на эти фотографии. Слева вы видите известную фотографию Юрия Алексеевича Гагарина (1934–1968). Эту фотографию вы, конечно, узнали. А кто на второй фотографии — справа? Посмотрите на этого мальчика, этот мальчик удивительно похож на первого российского космонавта! У него тоже открытое русское лицо, живые глаза. И, самое главное, улыбка мальчика похожа на добрую и приветливую гагаринскую улыбку, которую знает весь мир.\n(Hãy nhìn hai bức ảnh. Bên trái là bức ảnh nổi tiếng của Yuri Alekseevich Gagarin (1934–1968). Bức ảnh này hẳn bạn nhận ra ngay. Còn ai ở bức thứ hai — bên phải? Hãy nhìn cậu bé: cậu giống nhà du hành vũ trụ đầu tiên của nước Nga đến kỳ lạ! Cậu cũng có khuôn mặt Nga cởi mở, đôi mắt linh hoạt. Và quan trọng nhất, nụ cười của cậu giống nụ cười Gagarin hiền hậu, thân thiện mà cả thế giới đều biết.)"},
+    {"t": "para", "text": "Этот симпатичный мальчик — внук Юрия Гагарина, и зовут внука Юрия Гагарина тоже Юрий, или Юра. Он родился в 1990 году, через 29 лет после полёта Гагарина. Он учится в обычной московской школе, каждую неделю занимается теннисом, играет в футбол, танцует, любит читать фантастику. Его мать — дочь Юрия Гагарина — преподаёт экономику в московском институте. Его отец — детский врач, работает в детской больнице. Юра тоже мечтает о профессии врача. Он хочет стать детским врачом, как его отец.\n(Cậu bé dễ mến này là cháu ngoại của Yuri Gagarin, và cũng tên là Yuri, hay Yura. Cậu sinh năm 1990, 29 năm sau chuyến bay của Gagarin. Cậu học ở một trường phổ thông bình thường tại Moskva, mỗi tuần chơi quần vợt, đá bóng, khiêu vũ, thích đọc truyện viễn tưởng. Mẹ cậu — con gái Yuri Gagarin — dạy kinh tế ở một học viện Moskva. Bố cậu là bác sĩ nhi, làm việc ở bệnh viện nhi. Yura cũng mơ về nghề bác sĩ. Cậu muốn trở thành bác sĩ nhi như bố.)"},
+    {"t": "para", "text": "Юра никогда не видел своего знаменитого дедушку, потому что он погиб ещё за 22 года до рождения внука, в 1968 году. Но мама часто рассказывала Юре о дедушке, поэтому он много знает о нём. «В 1961 году 12 апреля мой дедушка полетел в космос, — говорит Юра. — Он был там недолго, только 108 минут. Но он был первым человеком в этом огромном космосе». В комнате мальчика есть фотографии Гагарина. Есть там и модель самолёта «МИГ», на котором летал первый космонавт. Юра уверен, что человек должен летать в космос, чтобы изучать другие планеты. Юра считает, что только очень умный, целеустремлённый, сильный и смелый человек может стать космонавтом. У его деда был именно такой характер. Это Юра знает точно. «Мы бы с ним подружились!» — говорит он.\n(Yura chưa bao giờ gặp người ông nổi tiếng của mình, vì ông đã hy sinh từ trước khi cháu ra đời, năm 1968. Nhưng mẹ thường kể cho Yura về ông, nên cậu biết nhiều về ông. «Ngày 12 tháng Tư năm 1961 ông tôi bay vào vũ trụ, — Yura kể. — Ông ở đó không lâu, chỉ 108 phút. Nhưng ông là người ĐẦU TIÊN trong vũ trụ bao la ấy». Trong phòng cậu bé có những bức ảnh Gagarin, có cả mô hình máy bay «MIG» mà nhà du hành đầu tiên từng lái. Yura tin rằng con người cần bay vào vũ trụ để nghiên cứu các hành tinh khác. Yura cho rằng chỉ người rất thông minh, có ý chí, mạnh mẽ và dũng cảm mới có thể trở thành nhà du hành vũ trụ. Ông cậu đúng là người có tính cách như thế. Điều đó Yura biết chắc. «Ông cháu mình hẳn sẽ kết bạn với nhau!» — cậu nói.) (số năm «за 22 года» — cần soát lại, bản scan mờ)"},
+    {"t": "instruction", "text": "б) Ответьте на вопросы: (Trả lời câu hỏi:)\n1. Кто такой Юрий Алексеевич Гагарин? Что вы знали о нём раньше? Что вы узнали нового об этом человеке? (Yuri Gagarin là ai? Trước đây bạn biết gì về ông? Bạn biết thêm điều gì mới?)\n2. Почему мальчик на фотографии похож на Ю.А. Гагарина? (Vì sao cậu bé trong ảnh giống Gagarin?)\n3. Кто такой Юра Гагарин? Сколько ему лет? Кто его родители? Кем он хочет стать? (Yura Gagarin là ai? Cậu bao nhiêu tuổi? Bố mẹ cậu là ai? Cậu muốn trở thành ai?)\n4. Почему Юра никогда не видел своего дедушку? (Vì sao Yura chưa bao giờ gặp ông mình?)\n5. Почему можно сказать, что внук знает и помнит своего дедушку? (Vì sao có thể nói người cháu biết và nhớ về ông mình?)"},
+    {"t": "instruction", "text": "в) Как вы думаете, зачем человек летает в космос? Какой характер должен быть у космонавта? (Theo bạn, con người bay vào vũ trụ để làm gì? Nhà du hành vũ trụ cần tính cách thế nào?)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s027",
+   "type": "grammar",
+   "title": "Гр 3 · Винительный падеж (4). Время (Thời gian) + Таблица 2",
+   "num": null,
+   "blocks": [
+    {"t": "instruction", "text": "Посмотрите таблицу 2. Дайте свои предложения с этими конструкциями (как часто? и когда?). (Xem bảng 2, đặt câu với các cấu trúc 'bao lâu một lần' và 'khi nào'.)"},
+    {"t": "table", "rows": [["как часто? (4)", "когда? (4) — quá khứ", "когда? (4) — tương lai"], ["каждый год / месяц / день (mỗi năm/tháng/ngày), каждую неделю (mỗi tuần)", "год / месяц / неделю / 5 дней назад (cách đây một năm/tháng/tuần/5 ngày)", "через год / месяц / неделю / день (sau một năm/tháng/tuần/ngày nữa)"], ["работаю, отдыхаю, учусь (hiện tại)", "работал, отдыхал, учился (quá khứ)", "буду работать, буду отдыхать, буду учиться (tương lai)"]]},
+    {"t": "note", "text": "назад đi sau cụm thời gian (год назад — một năm trước); через đứng trước cụm thời gian (через год — một năm nữa)."}
+   ]
+  },
+  {
+   "id": "doroga2-02-s028",
+   "type": "exercise",
+   "title": "Упр. 17 — Hội thoại: Виктор và Иван",
+   "num": 17,
+   "blocks": [
+    {"t": "instruction", "text": "Прослушайте диалоги и ответьте на вопросы. (Nghe hội thoại và trả lời câu hỏi.)"},
+    {"t": "subhead", "text": "а) Почему Виктор не звонит? (Vì sao Viktor không gọi điện?)"},
+    {"t": "para", "text": "— Виктор, я не видел тебя уже целую неделю! Почему не звонишь?\n— Мне некогда. Я занят каждый день. Каждый понедельник я занимаюсь в библиотеке, каждую среду плаваю в бассейне, а каждую пятницу играю в теннис.\n(— Viktor, cả tuần nay tớ không gặp cậu! Sao không gọi điện?\n— Tớ không có thời gian. Ngày nào cũng bận. Thứ Hai nào tớ cũng học ở thư viện, thứ Tư nào cũng bơi ở bể bơi, còn thứ Sáu nào cũng chơi quần vợt.)"},
+    {"t": "subhead", "text": "б) Когда Иван поедет в отпуск? (Khi nào Ivan đi nghỉ phép?)"},
+    {"t": "para", "text": "— Иван, какие у тебя планы на лето?\n— Через две недели поеду в Крым, я уже купил билеты.\n— А в каком месте ты будешь отдыхать?\n— В Коктебеле.\n— Хорошее место, я был там год назад.\n(— Ivan, hè này cậu có kế hoạch gì?\n— Hai tuần nữa tớ đi Krym, tớ mua vé rồi.\n— Cậu sẽ nghỉ ở chỗ nào?\n— Ở Koktebel.\n— Chỗ đẹp đấy, tớ ở đó một năm trước.)"},
+    {"t": "instruction", "text": "в) Что вы узнали о Викторе и об Иване? (Bạn biết gì về Viktor và Ivan?) г) Составьте аналогичные диалоги (используйте таблицу 2). (Lập hội thoại tương tự theo bảng 2.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s029",
+   "type": "exercise",
+   "title": "Упр. 18 — назад / через: khôi phục thông báo",
+   "num": 18,
+   "blocks": [
+    {"t": "instruction", "text": "Восстановите сообщения (выберите правильный вариант и запишите его). (Khôi phục các thông báo — chọn phương án đúng: назад hay через.)"},
+    {"t": "para", "text": "1. (месяц назад / через месяц) Анна получила посылку из дома ... · Марк ездил домой ... · Том хочет поехать домой ... (Anna nhận bưu kiện từ nhà ...; Mark đã về nhà ...; Tom muốn về nhà ...)\n2. (год назад / через год) Джон начал изучать русский язык ... · Он окончит курсы русского языка ... · ... он будет поступать в университет. (John bắt đầu học tiếng Nga ...; Anh sẽ học xong khoá tiếng Nga ...; ... anh sẽ thi vào đại học.)\n3. (час назад / через час) Урок русского языка начался ... · Урок кончится ... · Перерыв на обед будет ... (Giờ tiếng Nga đã bắt đầu ...; Giờ học sẽ kết thúc ...; Giờ nghỉ ăn trưa sẽ ...)\n4. (15 минут назад / через 15 минут) Библиотека откроется ... · Студенты могут взять книги ... · Они пришли в библиотеку ... (Thư viện sẽ mở cửa ...; Sinh viên có thể mượn sách ...; Họ đã đến thư viện ...)\n5. (5 лет назад / через 5 лет) В этом городе метро будет ... · ... в этом городе не было метро. · Люди не могли ездить на метро ... (Thành phố này sẽ có metro ...; ... thành phố này chưa có metro; Người dân đã không thể đi metro ...)\n6. (каждый год / через год / год назад) Летом моя семья ... отдыхает на море. · ... мы были в горах. · ... мы хотим поехать на Байкал. · 20 000 (тысяч) москвичей ... отдыхают на Чёрном море. · ... в городе Сочи построили новые гостиницы и туристические базы. (Mùa hè gia đình tôi ... nghỉ ở biển; ... chúng tôi đã ở vùng núi; ... chúng tôi muốn đi hồ Baikal; 20 nghìn người Moskva ... nghỉ ở Biển Đen; ... ở Sochi đã xây các khách sạn và khu du lịch mới.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s030",
+   "type": "exercise",
+   "title": "Упр. 19 — 12 câu hỏi когда? / как часто?",
+   "num": 19,
+   "blocks": [
+    {"t": "instruction", "text": "а) Попросите ваших друзей ответить на эти вопросы. Расскажите, что вы узнали. (Nhờ bạn bè trả lời các câu hỏi, kể lại điều bạn biết được.)"},
+    {"t": "para", "text": "1. Когда вы окончили школу? (Bạn tốt nghiệp phổ thông khi nào?)\n2. Когда вы приехали в Россию? (Bạn đến Nga khi nào?)\n3. Когда вы начали изучать русский язык? (Bạn bắt đầu học tiếng Nga khi nào?)\n4. Когда у вас будут каникулы? (Khi nào bạn được nghỉ?)\n5. Когда вы поедете домой на каникулы? (Khi nào bạn về nhà nghỉ?)\n6. Как часто вы пишете письма домой? (Bao lâu bạn viết thư về nhà một lần?)\n7. Как часто вы звоните домой? (Bao lâu bạn gọi điện về nhà một lần?)\n8. Как часто вы занимаетесь спортом? (Bạn chơi thể thao thường xuyên thế nào?)\n9. Как часто вы ходите в театр? (Bạn đi nhà hát thường xuyên thế nào?)\n10. Как часто вы смотрите телевизор и слушаете музыку? (Bạn xem TV, nghe nhạc thường xuyên thế nào?)\n11. Когда вы начнёте учиться в университете? (Khi nào bạn bắt đầu học đại học?)\n12. Когда вы поедете на экскурсию в Петербург? (Khi nào bạn đi tham quan Peterburg?)"},
+    {"t": "instruction", "text": "б) Ответьте сами на эти вопросы. (Tự trả lời các câu hỏi trên.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s031",
+   "type": "grammar",
+   "title": "Гр · Глаголы движения: пойти / поехать / прийти / приехать / уйти / уехать",
+   "num": null,
+   "blocks": [
+    {"t": "table", "rows": [["пойти́ I (СВ) — đi (bộ, bắt đầu đi)", "пое́хать I (СВ) — đi (bằng xe)"], ["я пойду́, ты пойдёшь, они пойду́т", "я пое́ду, ты пое́дешь, они пое́дут"], ["пошёл, пошла́, пошли́", "пое́хал, пое́хала, пое́хали"], ["куда? (4) · откуда? (2) · к кому? (3)", "куда? (4) · откуда? (2) · к кому? (3)"]]},
+    {"t": "example", "text": "Через неделю Владимир Владимирович пойдёт в театр, он уже купил билеты. (Một tuần nữa ông Vladimir Vladimirovich sẽ đi nhà hát, ông đã mua vé.) · Через месяц Анна поедет отдыхать на море. (Một tháng nữa Anna sẽ đi nghỉ biển.)"},
+    {"t": "table", "rows": [["прийти́ I (СВ) — đến (bộ)", "прие́хать I (СВ) — đến (bằng xe)"], ["я приду́, ты придёшь, они приду́т", "я прие́ду, ты прие́дешь, они прие́дут"], ["пришёл, пришла́, пришли́", "прие́хал, прие́хала, прие́хали"]]},
+    {"t": "example", "text": "Сейчас Антон в университете. Он придёт домой поздно. (Bây giờ Anton ở trường. Cậu sẽ về nhà muộn.) · Сейчас Анна отдыхает на море, а осенью она приедет в Москву. (Bây giờ Anna nghỉ ở biển, mùa thu cô sẽ đến Moskva.)"},
+    {"t": "table", "rows": [["уйти́ I (СВ) — rời đi (bộ)", "уе́хать I (СВ) — rời đi (bằng xe)"], ["я уйду́, ты уйдёшь, они уйду́т", "я уе́ду, ты уе́дешь, они уе́дут"], ["ушёл, ушла́, ушли́", "уе́хал, уе́хала, уе́хали"]]},
+    {"t": "example", "text": "Вечером Антона не будет дома. Он уйдёт на футбол. / Сейчас Антона нет дома. Он ушёл на футбол. (Tối nay Anton sẽ không ở nhà — cậu sẽ đi xem bóng đá. / Bây giờ Anton không có nhà — cậu đã đi xem bóng đá.) · Летом театр не будет работать. Артисты уедут на гастроли. / Сейчас театр не работает. Артисты уехали на гастроли. (Mùa hè nhà hát sẽ nghỉ — các nghệ sĩ sẽ đi lưu diễn. / Bây giờ nhà hát không hoạt động — các nghệ sĩ đã đi lưu diễn.)"},
+    {"t": "note", "text": "пришёл — Он здесь, дома. (Đã đến — giờ đang ở đây.) ≠ ушёл — Был здесь, но сейчас его нет. (Đã đi — từng ở đây nhưng giờ không còn.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s032",
+   "type": "exercise",
+   "title": "Упр. 19* — Hội thoại với động từ chuyển động (sách in trùng số 19)",
+   "num": 19,
+   "blocks": [
+    {"t": "note", "text": "Trong sách, bài tập này cũng in số 19 (sau phần ngữ pháp) — sách đánh số trùng; giữ nguyên số như bản in."},
+    {"t": "instruction", "text": "Прослушайте диалоги. (Nghe các hội thoại.)"},
+    {"t": "subhead", "text": "а) Скажите, куда пойдёт Джон и куда поедет Наташа? (John sẽ đi đâu, Natasha sẽ đi đâu?)"},
+    {"t": "para", "text": "— Джон, ты уже ходил в цирк?\n— Ещё нет, я пойду туда в следующую субботу, через неделю.\n(— John, cậu đi xem xiếc chưa?\n— Chưa, tớ sẽ đi vào thứ Bảy tới, một tuần nữa.)\n— Наташа, куда ты поедешь в каникулы?\n— В зимние каникулы я поеду на экскурсию в Петербург, а летом я поеду домой в Киев.\n(— Natasha, kỳ nghỉ cậu sẽ đi đâu?\n— Nghỉ đông tớ đi tham quan Peterburg, còn mùa hè tớ về nhà ở Kiev.)"},
+    {"t": "subhead", "text": "б) Скажите, когда приедет сестра Марии, когда приедет друг Виктора? (Khi nào chị của Maria đến, khi nào bạn của Viktor đến?)"},
+    {"t": "para", "text": "— Мария, твоя сестра уже приехала?\n— Нет, она приедет только через 2 месяца.\n(— Maria, chị cậu đến chưa?\n— Chưa, hai tháng nữa chị ấy mới đến.)\n— Виктор, ты куда, домой?\n— Нет, сейчас я поеду на вокзал встречать друга. Он приедет в 3 часа.\n(— Viktor, cậu đi đâu, về nhà à?\n— Không, tớ ra ga đón bạn. Cậu ấy sẽ đến lúc 3 giờ.)"},
+    {"t": "subhead", "text": "в) Скажите, почему Андрея и Лены нет дома? (Vì sao Andrey và Lena không có nhà?)"},
+    {"t": "para", "text": "— Добрый день, позовите, пожалуйста, Андрея.\n— Его нет. Он ушёл в университет. У него сегодня экзамены.\n(— Chào anh, làm ơn gọi Andrey.\n— Cậu ấy không có nhà. Cậu ấy đi đến trường rồi. Hôm nay cậu ấy thi.)\n— Здравствуйте, позовите, пожалуйста, Лену.\n— А Лены нет, она только что ушла.\n— Извините, а вы не знаете, куда?\n— В спортзал. У неё сегодня волейбол.\n(— Xin chào, làm ơn gọi Lena.\n— Lena không có nhà, cô ấy vừa đi rồi.\n— Xin lỗi, bác có biết cô ấy đi đâu không?\n— Đến phòng tập. Hôm nay cô ấy có buổi bóng chuyền.)"},
+    {"t": "subhead", "text": "г) Скажите, где находятся эти люди? Почему вы так думаете? (Những người này đang ở đâu? Vì sao bạn nghĩ vậy?)"},
+    {"t": "para", "text": "— Скажите, пожалуйста, могу я поговорить с директором?\n— Боюсь, что сейчас это невозможно. Он уехал в министерство.\n(— Xin hỏi, tôi có thể nói chuyện với giám đốc không?\n— E rằng bây giờ không được. Ông ấy đã đi đến bộ rồi.)\n— А где Том и Майкл? Я не вижу их в аудитории.\n— Они уехали на экскурсию в Петербург.\n(— Tom và Michael đâu? Tôi không thấy họ trong giảng đường.\n— Họ đi tham quan Peterburg rồi.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s033",
+   "type": "exercise",
+   "title": "Упр. 20 — прийти / уйти: khôi phục câu",
+   "num": 20,
+   "blocks": [
+    {"t": "instruction", "text": "Восстановите предложения, используя глаголы прийти / уйти в нужной форме. (Khôi phục câu với động từ прийти/уйти ở dạng đúng.)"},
+    {"t": "model", "text": "Они ... и сделают задание. → Они придут домой и сделают домашнее задание. (Họ sẽ về nhà và làm bài tập.) · Вечером Лены не будет дома. Она ... в театр. → Она уйдёт в театр. (Tối nay Lena không có nhà. Cô ấy sẽ đi nhà hát.)"},
+    {"t": "para", "text": "1. Мы ... и посмотрим новый фильм. (Chúng tôi sẽ ... và xem bộ phim mới.)\n2. Он ... и приготовит ужин. (Anh ấy sẽ ... và nấu bữa tối.)\n3. Ты ... и отдохнёшь. (Cậu sẽ ... và nghỉ ngơi.)\n4. Она ... и позвонит подруге. (Cô ấy sẽ ... và gọi điện cho bạn gái.)\n5. Вы ... и мы поужинаем вместе. (Anh chị sẽ ... và chúng ta cùng ăn tối.)\n6. Я ... и лягу спать. (Tôi sẽ ... và đi ngủ.)\n7. Они ... и будут играть в шахматы. (Họ sẽ ... và chơi cờ.)\n8. Не звоните мне вечером, я ... в клуб. (Tối đừng gọi cho tôi, tôi sẽ ... đến câu lạc bộ.)\n9. Директора в 3 часа не будет, он ... на собрание. (3 giờ giám đốc sẽ không có mặt, ông ấy sẽ ... đi họp.)\n10. В 5 часов вы ещё будете на работе или уже ...? (5 giờ anh vẫn còn ở cơ quan hay đã ...?)\n11. Мы не сможем встретиться с ними, потому что в это время они уже ... домой. (Chúng tôi sẽ không gặp được họ, vì lúc đó họ đã ... về nhà.)\n12. Летом я не увижу своего друга, он ... на Кипр. (Mùa hè tôi sẽ không gặp bạn mình, cậu ấy sẽ ... đi đảo Síp.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s034",
+   "type": "exercise",
+   "title": "Упр. 21 — Sự kiện trong tương lai",
+   "num": 21,
+   "blocks": [
+    {"t": "instruction", "text": "Восстановите предложения. Как вы скажете, если эти события произойдут в будущем? (Khôi phục câu — diễn đạt các sự kiện ở thì tương lai.)"},
+    {"t": "para", "text": "1. Когда мы (приехать) в Петербург, мы обязательно (посмотреть) Эрмитаж. (Khi chúng tôi đến Peterburg, nhất định chúng tôi sẽ xem Hermitage.)\n2. Когда я (приехать) на родину, я обязательно (позвонить) подруге и (рассказать) ей о Москве. (Khi tôi về nước, nhất định tôi sẽ gọi cho bạn và kể về Moskva.)\n3. Когда он (приехать) на море, он (купаться, загорать). (Khi anh ấy ra biển, anh sẽ tắm biển, tắm nắng.)\n4. Когда они (приехать) в горы, они (кататься) на лыжах. (Khi họ lên núi, họ sẽ trượt tuyết.)\n5. Когда ты (приехать) к бабушке в деревню, ты (увидеть) настоящую русскую природу. (Khi cậu về quê thăm bà, cậu sẽ thấy thiên nhiên Nga đích thực.)\n6. Когда вы (приехать) в Москву, вы (изучать) русский язык. (Khi các bạn đến Moskva, các bạn sẽ học tiếng Nga.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s035",
+   "type": "exercise",
+   "title": "Упр. 22 — Куда вы пойдёте / поедете?",
+   "num": 22,
+   "blocks": [
+    {"t": "instruction", "text": "а) Ответьте на вопросы: (Trả lời câu hỏi:)\n1. Куда вы пойдёте после урока (в субботу / в воскресенье)? (Sau giờ học / thứ Bảy / Chủ nhật bạn sẽ đi đâu?)\n2. Когда вы пойдёте в театр (в бассейн / в библиотеку / в цирк / в кино)? (Khi nào bạn đi nhà hát / bể bơi / thư viện / xiếc / xem phim?)\n3. Куда вы поедете в зимние каникулы (в летние каникулы / на Новый год)? (Kỳ nghỉ đông / hè / năm mới bạn sẽ đi đâu?)\n4. Когда вы поедете домой на родину (на экскурсию / отдыхать / путешествовать)? (Khi nào bạn về nước / đi tham quan / đi nghỉ / đi du lịch?)"},
+    {"t": "instruction", "text": "б) Узнайте у ваших друзей, куда и когда они пойдут / поедут. (Hỏi bạn bè xem họ sẽ đi đâu và khi nào.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s036",
+   "type": "grammar",
+   "title": "Гр · Глаголы движения: идти / ходить, ехать / ездить",
+   "num": null,
+   "blocks": [
+    {"t": "table", "rows": [["идти́ I (НСВ) — đang đi (một hướng)", "ходи́ть II (НСВ) — đi (nhiều lần, khứ hồi)"], ["я иду́, ты идёшь, они иду́т", "я хожу́ (д/ж), ты хо́дишь, они хо́дят"], ["шёл, шла, шли", "ходи́л (-а, -и)"], ["куда? (4) · откуда? (2) · к кому? (3)", "куда? (4) · откуда? (2) · к кому? (3)"]]},
+    {"t": "example", "text": "Сейчас Иван идёт на работу. (Bây giờ Ivan đang đi làm.) · Он каждый день ходит / ходил на работу. (Ngày nào anh ấy cũng đi làm / đã đi làm.) · Утром, когда Иван шёл на работу, он встретил своего друга. (Buổi sáng, khi Ivan đang đi làm, anh gặp bạn mình.)"},
+    {"t": "table", "rows": [["е́хать I (НСВ) — đang đi xe (một hướng)", "е́здить II (НСВ) — đi xe (nhiều lần, khứ hồi)"], ["я е́ду, ты е́дешь, они е́дут", "я е́зжу, ты е́здишь, они е́здят"], ["е́хал (-а, -и)", "е́здил (-а, -и)"]]},
+    {"t": "example", "text": "Сейчас друзья едут за город. (Bây giờ các bạn đang đi ra ngoại ô.) · Они каждое воскресенье ездят / ездили за город. (Chủ nhật nào họ cũng đi ngoại ô.) · Когда они ехали за город, пошёл сильный дождь. (Khi họ đang trên đường ra ngoại ô thì trời đổ mưa to.)"},
+    {"t": "note", "text": "ходить / ездить thường đi cùng: каждый год, месяц, день; каждую неделю; всегда, иногда, часто, редко. (Lưu ý: trong sách, số bài tập nhảy từ 22 sang 24 — không có упр. 23 ở phần này; đề mục ДЗ vẫn nhắc № 23 — lỗi đánh số của sách in.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s037",
+   "type": "exercise",
+   "title": "Упр. 24 — Điền идти/ходить, ехать/ездить",
+   "num": 24,
+   "blocks": [
+    {"t": "instruction", "text": "а) Восстановите диалоги (вставьте глаголы идти / ходить, ехать / ездить). Скажите, что вы узнали из этих диалогов? (Khôi phục hội thoại — điền động từ chuyển động đúng dạng.)"},
+    {"t": "para", "text": "— Привет, Антон! Ты куда ...?\n— Я ... в бассейн.\n— Ты каждый день ... в бассейн?\n— Нет, что ты, я ... в бассейн только 2 раза в неделю.\n(— Chào Anton! Cậu đi đâu đấy?\n— Tớ đi bể bơi.\n— Ngày nào cậu cũng đi bể bơi à?\n— Đâu có, tớ chỉ đi bể bơi 2 lần một tuần thôi.)"},
+    {"t": "para", "text": "— Что вы делаете сегодня вечером?\n— Мы ... в театр на мюзикл.\n— Вы часто ... в театр?\n— К сожалению, нет. Мы ... в театр раз в месяц.\n(— Tối nay anh chị làm gì?\n— Chúng tôi đi nhà hát xem nhạc kịch.\n— Anh chị có hay đi nhà hát không?\n— Tiếc là không. Chúng tôi đi nhà hát mỗi tháng một lần.)"},
+    {"t": "para", "text": "— Вы ... в Волгоград первый раз?\n— Да, мы очень рады. Мы ... туда на экскурсию. А вы уже были в Волгограде?\n— Да. Я часто ... к дочери в Волгоград. Моя дочь живёт в Волгограде, а я в Москве. И мы ... в гости друг к другу.\n(— Anh chị đi Volgograd lần đầu à?\n— Vâng, chúng tôi rất vui. Chúng tôi đi tham quan ở đó. Còn bác đã đến Volgograd chưa?\n— Rồi. Tôi thường đi thăm con gái ở Volgograd. Con gái tôi sống ở Volgograd, còn tôi ở Moskva. Chúng tôi đi thăm nhau.)"},
+    {"t": "para", "text": "— Что вы делали в субботу?\n— ... на машине в Плёс.\n— Как поездка?\n— Прекрасно. Когда мы ..., мы видели красивые живописные места.\n(— Thứ Bảy anh chị làm gì?\n— Đi ô tô đến Plyos.\n— Chuyến đi thế nào?\n— Tuyệt vời. Trên đường đi chúng tôi thấy những vùng phong cảnh rất đẹp.)"},
+    {"t": "instruction", "text": "б) Скажите, куда вы ходите / ездите каждый день (каждую неделю, часто, иногда, редко). (Nói xem bạn đi đâu mỗi ngày, mỗi tuần, thường xuyên, đôi khi, hiếm khi.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s038",
+   "type": "grammar",
+   "title": "Гр · Прямая / косвенная речь (Câu trực tiếp / gián tiếp)",
+   "num": null,
+   "blocks": [
+    {"t": "example", "text": "1. Антон: — Том, куда ты идёшь? Том: — Я иду в столовую. → Антон спросил Тома, куда он идёт. Том ответил, что он идёт в столовую. (Anton hỏi Tom đi đâu. Tom trả lời rằng anh đi đến nhà ăn.)"},
+    {"t": "example", "text": "2. Олег: — Ира, с кем вы были в театре? Ира: — Я ходила с братом. → Олег спросил Иру, с кем она была в театре. Ира ответила, что она ходила в театр с братом. (Oleg hỏi Ira đi nhà hát với ai. Ira trả lời rằng cô đi với anh trai.)"},
+    {"t": "example", "text": "3. Экскурсовод: — Скажите, пожалуйста, в какой гостинице вы живёте? Турист: — Я живу в гостинице «Космос». → Экскурсовод спросил туриста, в какой гостинице он живёт. Он сказал, что он живёт в гостинице «Космос». (Hướng dẫn viên hỏi du khách ở khách sạn nào. Anh nói rằng anh ở khách sạn «Kosmos».)"},
+    {"t": "example", "text": "4. Студенты: — Скажите, пожалуйста, когда будет следующий урок? Преподаватель: — Следующий урок будет завтра. → Студенты спросили преподавателя, когда будет следующий урок. Преподаватель ответил, что следующий урок будет завтра. (Sinh viên hỏi thầy khi nào có buổi học tiếp theo. Thầy trả lời rằng buổi học tiếp theo sẽ vào ngày mai.)"},
+    {"t": "table", "rows": [["Антон спросил Тома: (Anton hỏi Tom:)", "Том сказал (ответил) Антону, что: (Tom trả lời Anton rằng:)"], ["кто это? (đây là ai?)", "это его друг (đây là bạn của anh ấy)"], ["где он живёт? (anh ấy sống ở đâu?)", "он живёт в Москве (anh ấy sống ở Moskva)"], ["откуда он приехал? (anh ấy từ đâu đến?)", "он приехал из Англии (anh ấy đến từ Anh)"], ["куда он поедет летом? (mùa hè anh ấy đi đâu?)", "летом он поедет домой (mùa hè anh ấy sẽ về nhà)"], ["когда у него день рождения? (sinh nhật anh ấy khi nào?)", "день рождения у него в сентябре (sinh nhật vào tháng Chín)"], ["чем он любит заниматься? (anh ấy thích làm gì?)", "он любит играть в теннис (anh ấy thích chơi quần vợt)"], ["как зовут его сестру? (em gái anh ấy tên gì?)", "его сестру зовут Джейн (em gái tên là Jane)"], ["почему он хочет стать врачом? (vì sao muốn làm bác sĩ?)", "он хочет стать врачом, как его отец (muốn làm bác sĩ như bố mình)"]]},
+    {"t": "note", "text": "Khi chuyển câu hỏi có từ để hỏi sang gián tiếp: giữ nguyên từ để hỏi, đổi ngôi (ты → он/она). Khi chuyển câu trả lời: dùng liên từ что (rằng)."}
+   ]
+  },
+  {
+   "id": "doroga2-02-s039",
+   "type": "exercise",
+   "title": "Упр. 25 — Chuyển hội thoại sang câu gián tiếp",
+   "num": 25,
+   "blocks": [
+    {"t": "instruction", "text": "Прочитайте диалоги. Переведите их в косвенную речь. (Đọc các hội thoại, chuyển sang câu gián tiếp.)"},
+    {"t": "model", "text": "Антон: — Виктор, я давно хочу послушать свою любимую певицу Алсу. Где она сейчас выступает? Виктор: — Я не знаю, Антон, спроси мою сестру. Она интересуется музыкой и тоже любит эту певицу. → Антон сказал Виктору, что он давно хочет послушать свою любимую певицу Алсу, и спросил, где она сейчас выступает. Виктор сказал, что он не знает. Он посоветовал Виктору спросить его сестру, потому что она интересуется музыкой и тоже любит эту певицу. (Anton nói với Viktor rằng anh muốn nghe nữ ca sĩ yêu thích Alsou từ lâu và hỏi cô ấy đang biểu diễn ở đâu. Viktor nói rằng anh không biết và khuyên hỏi chị anh, vì chị quan tâm âm nhạc và cũng thích ca sĩ này.)"},
+    {"t": "para", "text": "1. Олег: — Как зовут новую студентку?\nИра: — Я не знаю, потому что меня вчера не было на уроке. Спроси нашего преподавателя, он должен знать.\n(— Nữ sinh viên mới tên gì? — Tớ không biết, vì hôm qua tớ nghỉ học. Hỏi thầy của chúng ta ấy, thầy chắc biết.)"},
+    {"t": "para", "text": "2. Игорь: — Вчера я видел по телевизору известного теннисиста Марата Сафина.\nНаташа: — А у меня есть его автограф.\nИгорь: — Где ты взяла такой редкий автограф?\nНаташа: — На стадионе «Дружба» в Москве.\n(— Hôm qua tớ thấy tay vợt nổi tiếng Marat Safin trên TV. — Tớ có chữ ký của anh ấy đấy. — Cậu lấy chữ ký hiếm thế ở đâu? — Ở sân vận động «Druzhba» Moskva.)"},
+    {"t": "para", "text": "3. Андрей: — Что ты любишь читать?\nНиколай: — Обычно я читаю детективы. Я люблю читать книги Бориса Акунина.\nАндрей: — Какой последний роман Бориса Акунина ты читал?\nНиколай: — Недавно я прочитал его роман «Внеклассное чтение».\n(— Cậu thích đọc gì? — Tớ thường đọc truyện trinh thám, thích sách của Boris Akunin. — Cuốn gần nhất của Akunin cậu đọc là gì? — Gần đây tớ đọc xong tiểu thuyết «Ngoại khoá» của ông.)"},
+    {"t": "para", "text": "4. Джон: — Кого ты ждёшь здесь?\nТом: — Своего старшего брата.\nДжон: — Куда вы идёте?\nТом: — Мы идём покупать новую машину. Мой брат согласился помочь мне.\n(— Cậu chờ ai ở đây? — Anh trai tớ. — Hai người đi đâu? — Bọn tớ đi mua xe mới. Anh tớ nhận lời giúp tớ.)"},
+    {"t": "para", "text": "5. Мария: — Скажите, пожалуйста, в каком году Ломоносов основал Московский университет?\nОльга: — Я забыла. Спроси нашего преподавателя, он всё знает.\n(— Cho hỏi, Lomonosov sáng lập Đại học Moskva năm nào? — Tớ quên rồi. Hỏi thầy ấy, thầy biết hết.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s040",
+   "type": "exercise",
+   "title": "Упр. 26 — Bạn muốn hỏi gì những người này?",
+   "num": 26,
+   "blocks": [
+    {"t": "instruction", "text": "О чём вы хотите спросить этих людей? Задайте как можно больше вопросов. Дайте возможные варианты ответов. (Bạn muốn hỏi những người này điều gì? Đặt càng nhiều câu hỏi càng tốt, kèm phương án trả lời.)"},
+    {"t": "model", "text": "известный артист → Я хочу спросить этого известного артиста, в каком спектакле он сейчас играет. (Tôi muốn hỏi nghệ sĩ nổi tiếng này hiện đang diễn trong vở nào.)"},
+    {"t": "para", "text": "известный спортсмен (VĐV nổi tiếng) · знаменитый писатель (nhà văn lừng danh) · молодой учёный (nhà khoa học trẻ) · новый знакомый (người quen mới) · российский президент (tổng thống Nga) · русская спортсменка (nữ VĐV Nga) · любимая певица (nữ ca sĩ yêu thích) · новая знакомая (cô bạn mới quen) · популярная артистка (nữ nghệ sĩ nổi tiếng)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s041",
+   "type": "exercise",
+   "title": "Упр. 27 — Khôi phục hội thoại từ câu gián tiếp",
+   "num": 27,
+   "blocks": [
+    {"t": "instruction", "text": "Прочитайте микротексты. Восстановите диалоги между этими людьми. (Đọc các đoạn văn, khôi phục hội thoại trực tiếp giữa các nhân vật.)"},
+    {"t": "para", "text": "1. Молодой человек спросил продавца, где он может выбрать мужской костюм. Продавец ответил, что мужские костюмы можно купить в этом магазине на втором этаже. (Chàng trai hỏi người bán hàng có thể chọn com lê nam ở đâu. Người bán trả lời rằng com lê nam có thể mua ở tầng hai cửa hàng này.)\n2. Студенты спросили преподавателя, сколько стоит проездной билет на все виды транспорта. Преподаватель ответил, что он не знает точно, сколько стоит проездной билет на все виды транспорта. (Sinh viên hỏi thầy vé tháng đi mọi phương tiện giá bao nhiêu. Thầy trả lời rằng thầy không biết chính xác.)\n3. Преподаватель спросил студента, почему он не читает текст. Студент ответил, что он забыл свой учебник дома. (Thầy hỏi sinh viên vì sao không đọc bài. Sinh viên trả lời rằng đã quên sách giáo khoa ở nhà.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s042",
+   "type": "grammar",
+   "title": "Гр · Сложное предложение со словом «который» в винительном падеже (4)",
+   "num": null,
+   "blocks": [
+    {"t": "instruction", "text": "Прочитайте предложения. Объясните, почему меняется форма слова который, от чего это зависит? (Vì sao dạng của который thay đổi, phụ thuộc vào điều gì?)"},
+    {"t": "example", "text": "Это русский писатель. Этого писателя я очень люблю. → Это русский писатель, которого я очень люблю. (Đây là nhà văn Nga mà tôi rất yêu thích.) — какой? (1) → кого? (4, động vật)"},
+    {"t": "example", "text": "Мне понравился роман. Этот роман я прочитал летом. → Мне понравился роман, который я прочитал летом. (Tôi thích cuốn tiểu thuyết mà tôi đã đọc mùa hè.) — что? (4, bất động vật giống đực = cách 1)"},
+    {"t": "example", "text": "В этом магазине есть книга. Эту книгу я хочу купить. → В этом магазине есть книга, которую я хочу купить. (Trong cửa hàng này có cuốn sách mà tôi muốn mua.) — какая? (1) → какую? (4, giống cái)"},
+    {"t": "note", "text": "Dạng của который phụ thuộc: (1) giống/số của danh từ ở mệnh đề chính mà nó thay thế; (2) chức năng của nó TRONG mệnh đề phụ (chủ ngữ → cách 1; bổ ngữ trực tiếp → cách 4: которого — động vật giống đực, который — bất động vật giống đực, которую — giống cái, которое — giống trung)."}
+   ]
+  },
+  {
+   "id": "doroga2-02-s043",
+   "type": "exercise",
+   "title": "Упр. 28 — Ghép 2 câu thành 1 câu với который",
+   "num": 28,
+   "blocks": [
+    {"t": "instruction", "text": "б) Сделайте сообщение короче. Из двух предложений составьте одно предложение. (Используйте слова который, которое, которого, которую.) (Rút gọn: ghép hai câu thành một câu với который ở dạng đúng.)"},
+    {"t": "para", "text": "1. На выставке я купил картину. Эту картину нарисовал молодой художник. (Tại triển lãm tôi mua bức tranh. Bức tranh này do hoạ sĩ trẻ vẽ.)\n2. В центре города находится старое здание. Это здание построил известный архитектор. (Ở trung tâm thành phố có toà nhà cổ. Toà nhà này do kiến trúc sư nổi tiếng xây.)\n3. Официант предложил мне блюдо. Это блюдо я ещё не пробовал. (Người phục vụ mời tôi một món ăn. Món này tôi chưa từng thử.)\n4. В аудиторию вошёл преподаватель. Этого преподавателя мы все любим. (Thầy giáo bước vào giảng đường. Thầy này chúng tôi đều quý mến.)\n5. Я встретил школьную подругу. Эту девушку я давно не видел. (Tôi gặp cô bạn học cũ. Cô gái này lâu rồi tôi không gặp.)\n6. Антон ездит на автомобиле. Этот автомобиль ему подарили родители. (Anton đi ô tô. Chiếc xe này bố mẹ tặng anh.)\n7. В газете я прочитала статью известного писателя. Этого писателя мы пригласили на вечер. (Trên báo tôi đọc bài của nhà văn nổi tiếng. Nhà văn này chúng tôi đã mời đến dạ hội.)\n8. Я купил книгу. Эту книгу я долго искал. (Tôi mua cuốn sách. Cuốn này tôi tìm đã lâu.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s044",
+   "type": "exercise",
+   "title": "Упр. 29 — Điền который ở dạng đúng",
+   "num": 29,
+   "blocks": [
+    {"t": "instruction", "text": "Восстановите предложения. (Используйте слово который в нужной форме: который, которое, которого, которую.) (Điền который ở dạng đúng.)"},
+    {"t": "para", "text": "1. Я в первый раз видел артиста, ... играл в этом фильме. (Lần đầu tôi thấy nghệ sĩ ... đã đóng trong phim này.)\n2. Мне очень нравится артист, ... я видел в новом фильме. (Tôi rất thích nghệ sĩ ... tôi đã thấy trong phim mới.)\n3. Я услышала песню, ... мама пела мне в детстве. (Tôi nghe thấy bài hát ... mẹ từng hát cho tôi thuở nhỏ.)\n4. Мой друг купил фруктовое мороженое, ... я очень люблю. (Bạn tôi mua kem hoa quả ... tôi rất thích.)\n5. У меня есть старинная картина, ... подарил мне дедушка. (Tôi có bức tranh cổ ... ông tặng tôi.)\n6. Мне понравился фильм, ... я посмотрел на фестивале. (Tôi thích bộ phim ... tôi xem ở liên hoan.)\n7. Ты знаешь артиста, ... мы встретили на фестивале? (Cậu biết nghệ sĩ ... chúng ta gặp ở liên hoan không?)\n8. Я познакомился с сестрой Антона, ... раньше никогда не видел. (Tôi làm quen với em gái Anton, ... trước đây chưa từng gặp.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s045",
+   "type": "exercise",
+   "title": "Упр. 30 — Từ mới trước bài đọc «Завтрак»",
+   "num": 30,
+   "blocks": [
+    {"t": "instruction", "text": "В тексте, который вы будете читать, вы встретите новые слова и выражения. Познакомьтесь с ними. 1. Прочитайте объяснения. (Làm quen từ mới và thành ngữ trước khi đọc.)"},
+    {"t": "vocab", "ru": "зараба́тывать — зарабо́тать де́ньги (4)", "vi": "kiếm tiền (= получить деньги за работу — nhận tiền công)", "g": null},
+    {"t": "example", "text": "Молодой писатель зарабатывал немного. (Nhà văn trẻ kiếm được ít tiền.)"},
+    {"t": "vocab", "ru": "с трудо́м своди́ть концы́ с конца́ми", "vi": "chật vật chạy ăn từng bữa, sống rất nghèo (thành ngữ: 'khó nhọc nối hai đầu mối')", "g": null},
+    {"t": "example", "text": "Молодой писатель зарабатывал немного и с трудом сводил концы с концами. (Nhà văn trẻ kiếm được ít và sống rất chật vật.)"},
+    {"t": "vocab", "ru": "представля́ть — предста́вить себе́ (кого? что? (4))", "vi": "hình dung, tưởng tượng", "g": null},
+    {"t": "example", "text": "Он представлял себе молодую и красивую женщину. = Он не знал её, но думал, что она молодая и красивая. (Anh hình dung một phụ nữ trẻ đẹp — anh chưa biết bà ta nhưng nghĩ rằng bà trẻ và đẹp.) · Каждый человек может представить себе свой родной дом. (Ai cũng có thể hình dung ngôi nhà quê hương mình.)"},
+    {"t": "vocab", "ru": "брать приме́р (с кого? (2))", "vi": "noi gương (ai): Берите пример с меня = làm như tôi", "g": null},
+    {"t": "example", "text": "Всю жизнь он брал пример с отца. = Он хотел всё делать так, как делал его отец. (Cả đời anh noi gương bố — muốn làm mọi việc như bố đã làm.)"},
+    {"t": "instruction", "text": "2. Прочитайте предложения, постарайтесь понять значение выделенных (новых) слов. Проверьте их в словаре. (Đọc các câu, đoán nghĩa từ mới, tra từ điển kiểm tra.)"},
+    {"t": "vocab", "ru": "обраща́ть — обрати́ть внима́ние (на кого? на что? (4))", "vi": "chú ý đến (ai, cái gì)", "g": null},
+    {"t": "example", "text": "Посмотрите налево. Обратите внимание на это старое здание. (Nhìn sang trái. Hãy chú ý toà nhà cổ này.) · Все обратили внимание на новую студентку, которая вошла в аудиторию. (Mọi người đều chú ý đến nữ sinh viên mới bước vào giảng đường.)"},
+    {"t": "vocab", "ru": "у кого́? кому́? не хвата́ло — не хвата́ет — не хва́тит (чего? (2))", "vi": "thiếu, không đủ (tiền, kiến thức, thời gian): денег, знаний, времени", "g": null},
+    {"t": "example", "text": "Он не купил дорогой костюм, потому что у него не хватило денег. (Anh không mua bộ com lê đắt vì không đủ tiền.) · Она хотела сделать эту работу, но не сделала, потому что у неё не хватило времени. (Cô muốn làm việc đó nhưng không làm được vì thiếu thời gian.)"},
+    {"t": "vocab", "ru": "предлага́ть — предложи́ть (кому? (3) что? (4), что (с)де́лать?)", "vi": "mời, đề nghị, gợi ý", "g": null},
+    {"t": "example", "text": "Официант предложил нам свежий салат и рыбу. (Người phục vụ mời chúng tôi salad tươi và cá.) · Преподаватель предложил студенту поехать на экскурсию. (Thầy giáo đề nghị sinh viên đi tham quan.)"},
+    {"t": "instruction", "text": "3. а) Прочитайте слова. Поставьте вопросы к каждому слову, найдите общую часть родственных слов (корень). (Đặt câu hỏi cho từng từ, tìm phần chung — gốc từ.)"},
+    {"t": "para", "text": "читать — чтение — читатель — читательница (đọc — việc đọc — độc giả nam — độc giả nữ)\nшутить — шутка — шутник (đùa — câu đùa — người hay đùa)\nболтать — болтливый (ba hoa — lắm lời)\nполезный — полезно ≠ бесполезный — бесполезно (có ích ≠ vô ích)"},
+    {"t": "instruction", "text": "б) Составьте словосочетания или предложения с выделенными словами. (Đặt cụm từ hoặc câu với các từ trên.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s046",
+   "type": "exercise",
+   "title": "Упр. 31 — Bài đọc «Завтрак» (Bữa sáng)",
+   "num": 31,
+   "blocks": [
+    {"t": "instruction", "text": "Прочитайте текст и ответьте на вопрос, как изменилась жизнь писателя Александра Орлова. (Đọc bài và trả lời: cuộc sống của nhà văn Aleksandr Orlov thay đổi thế nào? — phỏng theo truyện «The Luncheon» của S. Maugham, bản Nga hoá.)"},
+    {"t": "para", "text": "Молодой писатель Александр Орлов жил в прекрасном старом русском городе Ростове, снимал недорогую маленькую квартиру и писал книги. Он зарабатывал немного и с трудом сводил концы с концами. Однажды он получил интересное письмо. Это письмо написала читательница, которая прочитала его новую книгу. Александр ответил ей и скоро получил ещё одно письмо, в котором она писала, что приедет на три дня в Ростов, хочет встретиться с ним в одном известном дорогом ресторане и поговорить. У неё будет только один свободный день — воскресенье, потому что в пятницу она пойдёт в Ростовский Кремль, а в субботу — на интересную выставку и в музей.\n(Nhà văn trẻ Aleksandr Orlov sống ở Rostov — một thành phố Nga cổ kính tuyệt đẹp, thuê căn hộ nhỏ rẻ tiền và viết sách. Anh kiếm được ít tiền và sống rất chật vật. Một hôm anh nhận được lá thư thú vị. Thư do một nữ độc giả đã đọc cuốn sách mới của anh viết. Aleksandr trả lời và chẳng bao lâu nhận được lá thư nữa, trong đó bà viết rằng bà sẽ đến Rostov ba ngày, muốn gặp anh ở một nhà hàng sang trọng nổi tiếng để trò chuyện. Bà chỉ rảnh đúng một ngày — Chủ nhật, vì thứ Sáu bà đi thăm Kremli Rostov, còn thứ Bảy — đi xem triển lãm và bảo tàng.)"},
+    {"t": "para", "text": "Александр был очень рад, что эта женщина обратила внимание на его новую книгу и хочет поговорить с ним. Правда, у него не было денег, чтобы пойти в дорогой ресторан, но всё-таки он хотел встретиться с ней. Молодой человек решил, что не будет покупать дорогую еду и дорогие сигареты. Тогда, может быть, у него хватит денег на дорогой ресторан. В своём письме он ответил, что будет ждать её в следующее воскресенье в 11 часов утра около ресторана.\n(Aleksandr rất mừng vì người phụ nữ này chú ý đến cuốn sách mới của anh và muốn trò chuyện với anh. Quả thật anh không có tiền đi nhà hàng đắt đỏ, nhưng anh vẫn muốn gặp bà. Chàng trai quyết định sẽ không mua đồ ăn đắt và thuốc lá đắt nữa — khi đó có lẽ anh sẽ đủ tiền cho nhà hàng sang. Trong thư anh trả lời rằng sẽ chờ bà vào Chủ nhật tới lúc 11 giờ sáng cạnh nhà hàng.)"},
+    {"t": "para", "text": "В воскресенье утром Александр стоял около ресторана и ждал свою прекрасную незнакомку. Он представлял себе молодую красивую женщину, мечтал, что вечером они вместе будут гулять, и он покажет ей свой родной город, свою любимую улицу, свои любимые места. Когда она пришла, он очень удивился. Она была немолодая и некрасивая. Её звали Клара. Она начала говорить. Она говорила быстро и много. Александр понял, что это очень болтливая женщина. Но она говорила только об Александре и о его новой книге, поэтому он был готов внимательно слушать эту неприятную женщину.\n(Sáng Chủ nhật Aleksandr đứng cạnh nhà hàng chờ người đẹp bí ẩn của mình. Anh hình dung một phụ nữ trẻ đẹp, mơ rằng buổi tối họ sẽ cùng dạo chơi, anh sẽ cho bà xem thành phố quê hương, con phố yêu thích, những nơi anh yêu mến. Khi bà đến, anh vô cùng ngạc nhiên. Bà không còn trẻ và không đẹp. Bà tên là Klara. Bà bắt đầu nói — nói nhanh và nhiều. Aleksandr hiểu rằng đây là một phụ nữ cực kỳ lắm lời. Nhưng bà chỉ nói về Aleksandr và cuốn sách mới của anh, nên anh sẵn lòng chăm chú nghe người phụ nữ khó ưa này.)"},
+    {"t": "para", "text": "Они вошли в ресторан и сели за свободный столик. Когда Александр открыл ресторанное меню, у него потемнело в глазах — цены были огромные. Клара заметила, как он посмотрел на цены, и решила успокоить молодого человека.\n— Я никогда не ем много на завтрак, — сказала она, — только одно блюдо. По-моему, люди в наше время очень много едят. Я возьму свежую морскую рыбу. Интересно, у них есть свежая морская рыба?\nОни позвали молодого внимательного официанта. Официант сказал, что у них в ресторане, конечно, есть свежая морская рыба, потому что они получили её только сегодня утром. Александр заказал эту морскую рыбу. Официант предложил Кларе взять ещё свежей икры.\n(Họ vào nhà hàng, ngồi vào bàn trống. Khi Aleksandr mở thực đơn, mắt anh tối sầm — giá cao khủng khiếp. Klara nhận thấy ánh mắt anh nhìn bảng giá và quyết định trấn an chàng trai:\n— Tôi không bao giờ ăn nhiều vào bữa sáng, — bà nói, — chỉ một món thôi. Theo tôi, người thời nay ăn quá nhiều. Tôi sẽ lấy cá biển tươi. Không biết ở đây có cá biển tươi không nhỉ?\nHọ gọi anh phục vụ trẻ chu đáo. Anh phục vụ nói nhà hàng dĩ nhiên có cá biển tươi, vì mới nhận về sáng nay. Aleksandr gọi món cá biển đó. Anh phục vụ mời Klara lấy thêm trứng cá tươi.)"},
+    {"t": "para", "text": "— Нет, — ответила она, — я никогда не ем много на завтрак. Может быть, у вас есть чёрная икра? Я очень люблю чёрную икру.\nАлександр начал волноваться: он знал, что чёрная икра стоит очень дорого. Но что делать?! Он заказал чёрную икру. Себе молодой человек взял самое дешёвое блюдо — жареное мясо с картошкой.\n— Зачем вы берёте жареное мясо с картошкой? — спросила Клара. — Это тяжёлая еда, потом вы не сможете работать. Берите пример с меня. Я всегда ем немного и чувствую себя прекрасно.\nАлександр молчал. Теперь надо было выбрать вино.\n(— Không, — bà đáp, — tôi không bao giờ ăn nhiều bữa sáng. Nhưng có lẽ ở đây có trứng cá đen? Tôi rất thích trứng cá đen.\nAleksandr bắt đầu lo: anh biết trứng cá đen rất đắt. Nhưng biết làm sao?! Anh gọi trứng cá đen. Còn mình, chàng trai lấy món rẻ nhất — thịt rán với khoai tây.\n— Sao anh lại lấy thịt rán với khoai tây? — Klara hỏi. — Đồ ăn nặng bụng đấy, rồi anh không làm việc được đâu. Hãy noi gương tôi: tôi luôn ăn ít và thấy người rất khoẻ.\nAleksandr im lặng. Giờ phải chọn rượu vang.)"},
+    {"t": "para", "text": "— Я никогда не пью вино утром, — сказала Клара.\n— Я тоже, — быстро сказал Александр.\nНо Клара не слушала молодого человека и продолжала говорить:\n— Утром можно пить только белое вино, оно очень полезное. Мой врач советует мне пить только французское шампанское.\n— А мой врач советует никогда не пить вино.\n— Что же вы будете пить?\n— Воду!\n(— Tôi không bao giờ uống vang buổi sáng, — Klara nói.\n— Tôi cũng vậy, — Aleksandr vội đáp.\nNhưng Klara không nghe chàng trai, tiếp tục:\n— Buổi sáng chỉ nên uống vang trắng, nó rất bổ. Bác sĩ của tôi khuyên tôi chỉ uống sâm panh Pháp.\n— Còn bác sĩ của tôi khuyên không bao giờ uống rượu vang.\n— Vậy anh sẽ uống gì?\n— Nước lọc!)"},
+    {"t": "para", "text": "Клара ела чёрную икру, дорогую рыбу и пила французское шампанское, потом заказала овощной салат и фрукты. Она весело болтала об искусстве, о литературе, о музыке. А несчастный писатель сидел, считал, сколько ему надо будет заплатить, и думал, что он будет делать, если денег не хватит.\n— Кофе? — спросил Александр.\n— Да, конечно. Я люблю сладкий чёрный кофе и шоколадное мороженое.\nНаконец официант дал Александру счёт. Молодой человек заплатил. У него больше не было ни копейки.\n(Klara ăn trứng cá đen, cá đắt tiền, uống sâm panh Pháp, rồi gọi salad rau và hoa quả. Bà vui vẻ tán chuyện về nghệ thuật, văn học, âm nhạc. Còn nhà văn khốn khổ ngồi nhẩm tính sẽ phải trả bao nhiêu và nghĩ sẽ làm gì nếu không đủ tiền.\n— Cà phê nhé? — Aleksandr hỏi.\n— Vâng, tất nhiên. Tôi thích cà phê đen ngọt và kem sô cô la.\nCuối cùng người phục vụ đưa hoá đơn. Chàng trai thanh toán. Anh không còn một xu dính túi.)"},
+    {"t": "para", "text": "— Берите пример с меня, — весело сказала Клара, — никогда не ешьте много на завтрак.\n— Я сделаю ещё лучше, — ответил писатель, — я сегодня не буду обедать и ужинать.\n— Вы шутите?! Конечно, вы шутите.\nАлександр понял, что больше никогда не хочет видеть эту женщину.\n(— Hãy noi gương tôi, — Klara vui vẻ nói, — đừng bao giờ ăn nhiều vào bữa sáng.\n— Tôi sẽ làm tốt hơn thế, — nhà văn đáp, — hôm nay tôi sẽ không ăn trưa và không ăn tối.\n— Anh đùa đấy à?! Chắc chắn anh đùa rồi.\nAleksandr hiểu rằng anh không bao giờ muốn nhìn thấy người phụ nữ này nữa.)"},
+    {"t": "para", "text": "Прошло 20 лет. Однажды в театре Клара увидела известного, популярного писателя. Она поняла, что знает этого человека. Это был Александр Орлов. Она поздоровалась с ним. Он тоже поздоровался, но удивился, потому что не понял, кто это. Перед ним стояла пожилая, очень полная женщина. Он не узнал свою старую знакомую. Но когда он услышал её имя, он сразу вспомнил её.\n— Сколько лет, сколько зим! — улыбнулась она. — Как летит время! Вы помните нашу первую встречу? Вы пригласили меня позавтракать.\nКонечно, он помнил этот завтрак и эту встречу. Ведь в то время он с трудом сводил концы с концами. А сейчас, когда он стал известным писателем и богатым человеком, он мог пригласить её в любой ресторан. Но теперь ему было совсем не интересно, что она думает о его книгах.\n(20 năm trôi qua. Một lần ở nhà hát Klara trông thấy một nhà văn nổi tiếng, được yêu mến. Bà nhận ra mình biết người này. Đó là Aleksandr Orlov. Bà chào anh. Anh cũng chào lại nhưng ngạc nhiên vì không hiểu đó là ai. Trước mặt anh là một phụ nữ luống tuổi, rất béo. Anh không nhận ra người quen cũ. Nhưng khi nghe tên bà, anh lập tức nhớ ra.\n— Bao nhiêu năm rồi mới gặp! — bà mỉm cười. — Thời gian bay nhanh quá! Anh có nhớ buổi gặp đầu tiên của chúng ta không? Anh đã mời tôi ăn sáng đấy.\nDĩ nhiên anh nhớ bữa sáng ấy và buổi gặp ấy. Bởi hồi đó anh sống chật vật chạy ăn từng bữa. Còn bây giờ, khi đã thành nhà văn nổi tiếng và giàu có, anh có thể mời bà vào bất cứ nhà hàng nào. Nhưng giờ đây anh hoàn toàn không quan tâm bà nghĩ gì về sách của anh nữa.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s047",
+   "type": "exercise",
+   "title": "Упр. 32 — Câu hỏi theo bài «Завтрак»",
+   "num": 32,
+   "blocks": [
+    {"t": "instruction", "text": "Ответьте на вопросы: (Trả lời câu hỏi:)"},
+    {"t": "para", "text": "1. Кто такой Александр Орлов? (Aleksandr Orlov là ai?)\n2. Почему Александр Орлов был очень рад, когда получил письмо от своей читательницы? (Vì sao Orlov rất mừng khi nhận thư của nữ độc giả?)\n3. О чём написала ему читательница в своём письме? (Nữ độc giả viết gì trong thư?)\n4. Почему Александр Орлов согласился встретиться со своей читательницей? (Vì sao Orlov đồng ý gặp?)\n5. Какие проблемы были у молодого писателя? (Nhà văn trẻ gặp vấn đề gì?)\n6. Как Александр Орлов представлял себе эту встречу? О чём он мечтал перед встречей? (Orlov hình dung cuộc gặp thế nào? Anh mơ gì trước cuộc gặp?)\n7. Почему он очень удивился, когда увидел свою читательницу? (Vì sao anh ngạc nhiên khi thấy nữ độc giả?)\n8. Почему у Александра потемнело в глазах, когда он увидел меню в ресторане? (Vì sao Aleksandr tối sầm mắt khi xem thực đơn?)\n9. Что заказали на завтрак Александр и Клара и почему каждый из них выбрал эти блюда? (Hai người gọi món gì và vì sao mỗi người chọn món đó?)\n10. О чём думал Александр, когда Клара болтала об искусстве и литературе? (Aleksandr nghĩ gì khi Klara ba hoa về nghệ thuật, văn học?)\n11. Почему после этой встречи Александр Орлов не хотел больше видеть эту женщину? (Vì sao sau cuộc gặp Orlov không muốn gặp lại người phụ nữ này?)\n12. Когда и где они встретились ещё раз? (Họ gặp lại nhau khi nào và ở đâu?)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s048",
+   "type": "exercise",
+   "title": "Упр. 33 — So sánh hai cuộc gặp",
+   "num": 33,
+   "blocks": [
+    {"t": "instruction", "text": "Сравните первую и последнюю встречу героев. Что изменилось в жизни этих людей? (So sánh cuộc gặp đầu và cuối của các nhân vật. Cuộc sống của họ thay đổi thế nào?)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s049",
+   "type": "exercise",
+   "title": "Упр. 34 — Kể lại theo lời nhân vật",
+   "num": 34,
+   "blocks": [
+    {"t": "instruction", "text": "Как вы думаете, как эту историю расскажет Александр Орлов и как эту историю расскажет Клара? (Theo bạn, Aleksandr Orlov sẽ kể câu chuyện này thế nào, còn Klara sẽ kể thế nào?)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s050",
+   "type": "exercise",
+   "title": "Упр. 35 — Tính cách nhân vật",
+   "num": 35,
+   "blocks": [
+    {"t": "instruction", "text": "Что вы думаете о характере героев — Орлова и Клары? (Bạn nghĩ gì về tính cách của Orlov và Klara?)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s051",
+   "type": "exercise",
+   "title": "Домашнее задание — 1 (прийти/приехать)",
+   "num": 1,
+   "blocks": [
+    {"t": "instruction", "text": "а) Восстановите диалоги. Используйте глаголы прийти, приехать в нужной форме. (BTVN 1а: Khôi phục hội thoại với прийти/приехать ở dạng đúng.)"},
+    {"t": "para", "text": "— Миша, как твои дела, как экзамены?\n— Сдал отлично, и все мои друзья тоже сдали. Можно, мы сейчас ... к вам в гости?\n— Конечно, можно! Когда вы ...?\n— Через полчаса.\n— Хорошо, жду вас, будем пить чай с тортом.\n(— Misha, tình hình thế nào, thi cử ra sao?\n— Cháu thi xuất sắc, các bạn cháu cũng đỗ cả. Chúng cháu ... đến nhà bác chơi bây giờ được không?\n— Tất nhiên là được! Khi nào các cháu ...?\n— Nửa tiếng nữa ạ.\n— Tốt, bác chờ, ta sẽ uống trà với bánh ga tô.)"},
+    {"t": "para", "text": "А: — Алло, это Сергей? Привет, Сергей!\nС: — Привет, Андрей, ты в Москве?!\nА: — Нет, я в Саратове, я здесь в командировке.\nС: — Когда ты ... в Москву? Мне нужно тебя увидеть и поговорить.\nА: — ... через неделю и сразу позвоню.\nС: — Договорились!\n(A: — Alô, Sergey à? Chào Sergey!\nS: — Chào Andrey, cậu đang ở Moskva à?!\nA: — Không, tớ ở Saratov, đi công tác.\nS: — Khi nào cậu ... Moskva? Tớ cần gặp cậu nói chuyện.\nA: — ... sau một tuần nữa, đến nơi tớ gọi ngay.\nS: — Nhất trí!)"},
+    {"t": "instruction", "text": "б) Запишите информацию, которую вы узнали из диалогов. Начните так: (Ghi lại thông tin từ hội thoại, bắt đầu như sau:)"},
+    {"t": "model", "text": "Я узнал(а), что Миша и его друзья отлично сдали экзамены. Миша позвонил другу, и он пригласил их в гости. Друг Миши спросил его, когда они придут. Миша сказал ему, что... (Tôi biết rằng Misha và các bạn thi xuất sắc. Misha gọi điện cho người quen và được mời đến chơi. Người đó hỏi khi nào họ đến. Misha nói rằng...)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s052",
+   "type": "exercise",
+   "title": "Домашнее задание — 2 (косвенная речь)",
+   "num": 2,
+   "blocks": [
+    {"t": "instruction", "text": "Запишите информацию в косвенной речи. (BTVN 2: Ghi lại thông tin bằng câu gián tiếp.)"},
+    {"t": "para", "text": "1) Врач: — Вы очень много курите.\nПациент: — Почему я не должен курить?\nВрач: — Курение делает жизнь короче.\nПациент: — Я так не думаю. Древние греки не курили, но все они умерли.\n(Bác sĩ: — Anh hút thuốc nhiều quá. / Bệnh nhân: — Vì sao tôi không được hút? / Bác sĩ: — Hút thuốc làm cuộc đời ngắn lại. / Bệnh nhân: — Tôi không nghĩ vậy. Người Hy Lạp cổ không hút thuốc mà rồi họ cũng chết cả.)"},
+    {"t": "para", "text": "2) Студент: — Когда вечером я пишу стихи, я всю ночь не могу спать.\nПреподаватель: — Я советую вам читать стихи, которые вы написали.\n(Sinh viên: — Buổi tối khi viết thơ, cả đêm em không ngủ được. / Thầy: — Tôi khuyên anh nên đọc lại những bài thơ anh đã viết.)"},
+    {"t": "para", "text": "3) Два друга возвращаются домой очень поздно.\nИгорь: — Что ты скажешь жене, когда придёшь домой?\nПавел: — Я скажу ей только «Добрый вечер!», а всё остальное она скажет сама.\n(Hai người bạn về nhà rất muộn. Igor: — Về nhà cậu sẽ nói gì với vợ? / Pavel: — Tớ chỉ nói «Chào buổi tối!», còn lại vợ tớ sẽ tự nói hết.)"}
+   ]
+  },
+  {
+   "id": "doroga2-02-s053",
+   "type": "exercise",
+   "title": "Домашнее задание — 3 (Viết các bài tập)",
+   "num": 3,
+   "blocks": [
+    {"t": "instruction", "text": "Напишите упражнения: (BTVN 3: Viết các bài tập sau:) № 1 б), в); № 2; № 4 г); № 5 б), в); № 8; № 12 а), б); № 16 а), б); № 17; № 18 б); № 19 а), б), в), г); № 20, 21; № 23; № 24; № 25, 26; № 27, 28; № 31, 33 а), б). (Ghi chú: sách in nhắc № 23 dù phần bài học không có bài 23 — lỗi đánh số của sách.)"}
+   ]
+  }
+ ]
+}

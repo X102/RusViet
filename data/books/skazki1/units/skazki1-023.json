@@ -1,0 +1,361 @@
+{
+ "id": "skazki1-023",
+ "num": 23,
+ "title": "Медведь, лиса, слепень и мужик — Gấu, cáo, ruồi trâu và bác nông dân",
+ "vi": "Медведь, лиса, слепень и мужик — Gấu, cáo, ruồi trâu và bác nông dân",
+ "ru": "Медведь, лиса, слепень и мужик",
+ "icon": "🪰",
+ "color": "#7c2d12",
+ "sectionPrefix": "skazki1-023-s",
+ "group": "Truyện № 31–60",
+ "sections": [
+  {
+   "id": "skazki1-023-s001",
+   "type": "story",
+   "num": 48,
+   "title": "№ 48 · Медведь, лиса, слепень и мужик — Gấu, cáo, ruồi trâu và bác nông dân",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Truyện loài vật kiểu «bác nông dân tinh ranh trị ba con thú»: bác mượn rìu nung đỏ «nhuộm đốm» con gấu cả tin, phạt cáo gãy chân và cắm cọng rơm vào đít ruồi trâu; ba con ôm hận rủ nhau đi báo oán — bản Afanasyev chép bỏ lửng ngay ở cảnh bác nông dân hoảng sợ. Điểm hài nằm ở trò chơi chữ «пежить / пёстрый» — làm cho lốm đốm."
+    },
+    {
+     "t": "para",
+     "text": "Жил-был мужик, у него была пегая лошадь. (Ngày xưa có một bác nông dân, nhà bác nuôi một con ngựa lông lốm đốm.)"
+    },
+    {
+     "t": "para",
+     "text": "Мужик запряг ее в телегу и поехал в лес за дровами. (Bác thắng ngựa vào xe, đánh xe vào rừng kiếm củi.)"
+    },
+    {
+     "t": "para",
+     "text": "Только приехал в лес, а навстречу ему идет большой медведь. (Vừa tới rừng thì gặp một con gấu to lừng lững đi ngược lại.)"
+    },
+    {
+     "t": "para",
+     "text": "Поздоровался с мужиком и спрашивает: «Скажи, мужичок, кто твою лошадку пежил? Ишь какая рябенькая да славная!» (Gấu chào bác nông dân rồi hỏi: «Bác ơi, ai làm cho con ngựa của bác lốm đốm thế? Trông lấm tấm mà đẹp ghê!»)"
+    },
+    {
+     "t": "para",
+     "text": "«Эх, брат Мишка! — говорит мужик. — Я сам ее выпестрил». («Chà, anh Gấu ơi! — bác nông dân đáp. — Chính tay tôi nhuộm đốm cho nó đấy».)"
+    },
+    {
+     "t": "para",
+     "text": "«Да разве ты умеешь пежить?» («Thế bác biết làm cho lốm đốm thật à?»)"
+    },
+    {
+     "t": "para",
+     "text": "«Кто? Я-то? Да еще какой мастак! Коли хочешь, я, пожалуй, сделаю тебя пестрее моей лошади». («Ai cơ? Tôi á? Tôi là tay thợ cừ là đằng khác! Nếu anh muốn, tôi làm cho anh còn đốm hơn cả con ngựa của tôi ấy chứ».)"
+    },
+    {
+     "t": "para",
+     "text": "Медведь обрадовался: «Сделай милость, пожалуйста! Я тебе за работу целый улей притащу». (Gấu mừng rỡ: «Làm ơn làm phúc đi mà! Tôi sẽ tha cả một tổ ong đến trả công cho bác».)"
+    },
+    {
+     "t": "para",
+     "text": "«Ну что ж! Хорошо. Только надо тебя, старого черта, связать веревками; а то тебе не улежать, как стану пежить». («Thôi được! Được thôi. Nhưng phải trói cái lão quỷ già nhà anh lại bằng dây thừng đã; chứ không thì lúc tôi nhuộm đốm, anh nằm yên sao nổi».)"
+    },
+    {
+     "t": "para",
+     "text": "Медведь согласился. (Gấu bằng lòng.)"
+    },
+    {
+     "t": "para",
+     "text": "«Погоди, — думает мужик, — я тебя спеленаю!» («Cứ đợi đấy, — bác nông dân bụng bảo dạ, — ta sẽ bó chặt mày như bó tã cho xem!»)"
+    },
+    {
+     "t": "para",
+     "text": "Взял вожжи и веревки и так скрутил, опутал медведя, что тот зачал реветь на весь лес. (Bác lấy dây cương cùng dây thừng, trói riết, quấn chặt con gấu đến nỗi nó rống vang cả khu rừng.)"
+    },
+    {
+     "t": "para",
+     "text": "А мужик ему: «Постой, брат Мишка! Не шевелись, пора пежить». (Bác nông dân bảo nó: «Khoan đã, anh Gấu! Đừng cựa quậy, đến lúc nhuộm đốm rồi đây».)"
+    },
+    {
+     "t": "para",
+     "text": "«Развяжи, мужичок! — просится медведь. — Я уже не хочу быть пегим; пожалуйста, отпусти!» («Cởi trói cho tôi với, bác ơi! — gấu van nài. — Tôi chẳng thèm lốm đốm nữa đâu; làm ơn thả tôi ra!»)"
+    },
+    {
+     "t": "para",
+     "text": "«Нет, старый черт! Сам напросился, так тому и быть». («Không đâu, lão quỷ già! Tự mình chuốc lấy thì ráng mà chịu».)"
+    },
+    {
+     "t": "para",
+     "text": "Нарубил мужик дров, наклал целый ворох и развел огонь жарко-жарко. (Bác nông dân bổ củi, chất thành một đống lớn rồi nhóm lửa cháy thật to.)"
+    },
+    {
+     "t": "para",
+     "text": "Да взял топор и положил его прямо на огонь. (Đoạn bác cầm cái rìu, đặt thẳng lên ngọn lửa.)"
+    },
+    {
+     "t": "para",
+     "text": "Как накалился топор докрасна, мужик вытащил его и давай пежить медведя; только заверещало. (Đợi lưỡi rìu nung đỏ rực, bác rút ra rồi cứ thế gí vào «nhuộm đốm» con gấu; chỉ nghe xèo xèo cháy khét.)"
+    },
+    {
+     "t": "para",
+     "text": "Медведь заревел что есть мочи, понатужился, перервал все веревки и вожжи и ударился бежать по́ лесу без оглядки — только лес трещит. (Gấu rống lên hết sức, gồng hết gân cốt, giật đứt tung cả dây thừng lẫn dây cương, rồi cắm đầu cắm cổ chạy thục mạng vào rừng, chẳng dám ngoảnh lại — cây rừng cứ răng rắc gãy theo.)"
+    },
+    {
+     "t": "para",
+     "text": "Рыскал, рыскал медведь по́ лесу, из силы выбился, хочет лечь — нельзя; все брюхо и бока выжжены. (Gấu lồng lộn khắp rừng, kiệt cả sức, muốn nằm xuống mà chẳng được; cả bụng lẫn hai bên sườn bỏng rát.)"
+    },
+    {
+     "t": "para",
+     "text": "Как заревет, заревет! (Nó cứ rống lên, rống mãi không thôi!)"
+    },
+    {
+     "t": "para",
+     "text": "«Ну, только попадись мне мужик в лапы, уж будет меня помнить!» («Hừ, để cái lão nông dân ấy lọt vào chân ta xem, rồi sẽ nhớ đời ta cho mà coi!»)"
+    },
+    {
+     "t": "para",
+     "text": "На другой день мужикова жена пошла в поле рожь жать и взяла с собою краюшку хлеба да кувшин молока. (Hôm sau, vợ bác nông dân ra đồng gặt lúa mạch đen, mang theo một mẩu bánh mì với một bình sữa.)"
+    },
+    {
+     "t": "para",
+     "text": "Пришла на свою полосу, поставила к сторонке кувшин с молоком и стала жать. (Đến thửa ruộng nhà mình, chị đặt bình sữa sang một bên rồi cắm cúi gặt.)"
+    },
+    {
+     "t": "para",
+     "text": "А мужик думает: «Дай проведаю жену». (Còn bác nông dân nghĩ bụng: «Hay là ra thăm vợ một chút».)"
+    },
+    {
+     "t": "para",
+     "text": "Запряг лошадь, подъезжает к своей полосе и видит, что во ржи бродит лиса. (Bác thắng ngựa, đánh xe tới thửa ruộng thì thấy một con cáo đang lẩn quẩn trong ruộng lúa.)"
+    },
+    {
+     "t": "para",
+     "text": "Подобралась плутовка к кувшину с молоком, кое-как всунула в него свою голову, да назад-то уж никак ее и не вытащит. (Con ranh ma mò đến bên bình sữa, cố nhét cái đầu vào trong, nào ngờ rút ra thì chẳng tài nào rút nổi.)"
+    },
+    {
+     "t": "para",
+     "text": "Ходит по жниве да головою мотает и говорит: (Nó cứ đi loanh quanh trên gốc rạ, lắc lắc cái đầu mà rằng:)"
+    },
+    {
+     "t": "para",
+     "text": "«Ну, кувшин, пошутил, да и будет!.. Ну, полно же баловать: отпусти меня!.. Кувшинушко! Голубчик! Полно тебе дурачиться, поиграл, да и довольно!..» («Này bình ơi, đùa thế đủ rồi nhé!.. Thôi nào, đừng nghịch nữa: thả ta ra!.. Bình ơi là bình! Cưng ơi! Đừng giở trò khờ khạo nữa, chơi thế đủ rồi đấy!..»)"
+    },
+    {
+     "t": "para",
+     "text": "А сама все головою мотает. (Mà cái đầu thì vẫn cứ lắc lia lắc lịa.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот покудова лиса уговаривалась с кувшином, мужик достал полено, подошел да как урежет ее по ногам. (Thế rồi đương lúc cáo còn mải năn nỉ cái bình, bác nông dân rút một thanh củi, lại gần phang cho nó một cái trúng chân.)"
+    },
+    {
+     "t": "para",
+     "text": "Лиса бросилась вдруг в сторону, да головой прямо об камень, и кувшин в мелкие черепки разбила. (Cáo giật mình lao vọt sang một bên, đầu đập thẳng vào hòn đá, làm cái bình vỡ tan thành từng mảnh vụn.)"
+    },
+    {
+     "t": "para",
+     "text": "Видит, что за ней гонится мужик с поленом, лиса как прибавит рыси, — даром что на трех ногах, а не догонишь и с собаками, — и скрылась в лесу. (Thấy bác nông dân cầm thanh củi đuổi theo, cáo liền rảo cẳng phóng nước kiệu — tuy chỉ còn ba chân lành mà có thả chó cũng chẳng đuổi kịp — rồi lẩn mất vào rừng.)"
+    },
+    {
+     "t": "para",
+     "text": "Воротился мужик и стал накладывать на телегу снопы. (Bác nông dân quay về, bắt đầu chất những bó lúa lên xe.)"
+    },
+    {
+     "t": "para",
+     "text": "Откуда не́ взялся слепень, сел ему на шею и больно его укусил. (Chẳng biết từ đâu, một con ruồi trâu bay tới, đậu lên cổ bác mà đốt cho một phát thật đau.)"
+    },
+    {
+     "t": "para",
+     "text": "Мужик хватился за шею и поймал слепня. (Bác đưa tay vỗ lên cổ, tóm gọn được con ruồi trâu.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ну, — говорит, — что с тобой мне делать? Да хорошо, постой, будешь и ты меня помнить». («Nào, — bác nói, — biết xử trí với mày thế nào đây? Thôi được, cứ đợi đấy, rồi mày cũng sẽ nhớ đời ta cho mà xem».)"
+    },
+    {
+     "t": "para",
+     "text": "Взял мужик соломину и воткнул ее слепню в зад. (Bác lấy một cọng rơm, cắm tọt vào đít con ruồi trâu.)"
+    },
+    {
+     "t": "para",
+     "text": "«Лети теперь как знаешь!» («Giờ thì liệu mà bay đi đâu thì bay!»)"
+    },
+    {
+     "t": "para",
+     "text": "Бедный слепень полетел и соломину за собой потащил. (Con ruồi trâu tội nghiệp bay đi, kéo lê theo cả cọng rơm.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ну, — думает себе, — попался я в руки! Еще отроду этакой ноши я не таскивал, как теперь!» («Chao ôi, — nó nghĩ thầm, — phen này sa vào tay người ta rồi! Sinh ra đến giờ ta chưa từng phải vác cái của nợ nặng nhường này!»)"
+    },
+    {
+     "t": "para",
+     "text": "Вот летел он, летел, прилетел в лес и совсем уж из сил выбился. (Cứ thế nó bay mãi, bay mãi, bay tới rừng thì đã kiệt hẳn sức.)"
+    },
+    {
+     "t": "para",
+     "text": "Захотел сесть на дерево отдохнуть, думал повыше подняться, а соломина тянет его книзу. (Nó muốn đậu lên cây nghỉ một lát, định bay cao hơn nữa, nhưng cọng rơm cứ trì nó xuống.)"
+    },
+    {
+     "t": "para",
+     "text": "Бился-бился, насилу кое-как присел, запыхался и так тяжело начал дышать, что даже дерево зашаталось. (Vùng vẫy mãi, chật vật lắm mới đậu được, thở hồng hộc, thở nặng nhọc đến mức cả cái cây cũng rung lên.)"
+    },
+    {
+     "t": "para",
+     "text": "А под этим деревом лежал тот самый медведь, которого мужик пестрил. (Mà ngay dưới gốc cây ấy lại đang nằm chính con gấu đã bị bác nông dân «nhuộm đốm» dạo nọ.)"
+    },
+    {
+     "t": "para",
+     "text": "Медведь испугался: отчего так шибко зашаталось дерево? (Gấu hoảng hồn: cớ sao cái cây lại rung dữ dội đến thế?)"
+    },
+    {
+     "t": "para",
+     "text": "Глянул вверх, а на дереве сидит слепень. (Nó ngước nhìn lên, thì ra trên cây có con ruồi trâu đang đậu.)"
+    },
+    {
+     "t": "para",
+     "text": "Он и закричал ему: «Эй, брат! Родня! Слезай, пожалуйста, долой, а то, пожалуй, ведь ты и дерево повалишь». (Gấu liền gọi với lên: «Ê này, anh bạn! Bà con ơi! Làm ơn tụt xuống đi, kẻo có khi anh quật đổ cả cái cây mất».)"
+    },
+    {
+     "t": "para",
+     "text": "Слепень послушался и слетел вниз. (Ruồi trâu nghe lời, sà xuống.)"
+    },
+    {
+     "t": "para",
+     "text": "Медведь посмотрел на него и спрашивает: «Кто, брат, тебе такую соломину в зад забил?» (Gấu nhìn nó rồi hỏi: «Này anh bạn, ai cắm cho anh cái cọng rơm vào đít thế kia?»)"
+    },
+    {
+     "t": "para",
+     "text": "А слепень посмотрел на медведя и сам спрашивает: «А тебя, брат, кто изуродовал? Вишь, у тебя где шерсть, а в другом месте и кости видать». (Ruồi trâu nhìn lại con gấu mà hỏi vặn: «Thế còn anh, ai làm cho anh ra nông nỗi này? Coi kìa, chỗ thì còn lông, chỗ thì lòi cả xương ra».)"
+    },
+    {
+     "t": "para",
+     "text": "«Ну, брат слепень, это меня мужик обработал». («Chà, anh ruồi trâu ạ, ấy là lão nông dân nó xử tôi đấy».)"
+    },
+    {
+     "t": "para",
+     "text": "«Ну, брат медведь, и мне от мужика досталось». («Ừ, anh gấu ạ, tôi cũng nếm đòn của lão nông dân ấy mà ra».)"
+    },
+    {
+     "t": "para",
+     "text": "Смотрят они: лиса на трех ногах скачет. (Chúng đưa mắt nhìn ra: một con cáo đang nhảy lò cò trên ba chân.)"
+    },
+    {
+     "t": "para",
+     "text": "«Кто тебе ногу-то сломал?» — спрашивает медведь. («Ai làm gãy chân chị thế?» — gấu hỏi.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ах, куманек! И сама хорошенько не видала, а некому кроме мужика; он за мной с поленом гнался». («Ôi anh bạn thân ơi! Chính mắt tôi cũng chẳng kịp nhìn rõ, nhưng ngoài lão nông dân ra thì còn ai vào đây; lão cầm củi đuổi riết theo tôi đấy».)"
+    },
+    {
+     "t": "para",
+     "text": "«Братцы, пойдемте все трое губить мужика!» («Anh em ơi, cả ba ta cùng đi trị cho lão nông dân một trận!»)"
+    },
+    {
+     "t": "para",
+     "text": "Тотчас все трое собрались и пошли на́ поле, где мужик убирал снопы. (Lập tức cả ba kéo nhau ra cánh đồng, nơi bác nông dân đang thu dọn những bó lúa.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот стали они подходить; мужик увидал, испугался и не знает, что ему делать... (Chúng vừa kéo đến gần; bác nông dân trông thấy, hoảng sợ chẳng biết phải làm sao nữa...)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "пегий",
+     "vi": "(ngựa) lông lốm đốm, khoang trắng-đen",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "пежить",
+     "vi": "(phương ngữ) làm cho lốm đốm, «nhuộm» đốm lên",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "мастак",
+     "vi": "tay thợ cừ, bậc thầy (khẩu ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "улей",
+     "vi": "tổ ong, đõ ong",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "спеленать",
+     "vi": "quấn/bó chặt như bó tã",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ворох",
+     "vi": "đống lớn (chất bừa)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "докрасна",
+     "vi": "(nung) đến đỏ rực",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "заверещать",
+     "vi": "rít/kêu xèo lên the thé",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "краюшка",
+     "vi": "mẩu bánh mì (đầu ổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "полоса",
+     "vi": "thửa (dải) ruộng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "плутовка",
+     "vi": "con ranh ma, đồ tinh ranh (giống cái)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "покудова",
+     "vi": "(từ cổ) trong khi, đương lúc",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "слепень",
+     "vi": "ruồi trâu, mòng (côn trùng hút máu)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "шибко",
+     "vi": "(phương ngữ) mạnh, dữ, nhanh",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "соломина",
+     "vi": "một cọng rơm",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "жнивьё",
+     "vi": "gốc rạ (ruộng đã gặt)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

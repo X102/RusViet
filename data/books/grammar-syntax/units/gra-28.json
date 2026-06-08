@@ -1,0 +1,244 @@
+{
+ "id": "gra-28",
+ "num": 28,
+ "title": "Câu ghép chính phụ (II): Mệnh đề phụ định ngữ",
+ "vi": "Câu ghép chính phụ (II): Mệnh đề phụ định ngữ",
+ "ru": "Сложноподчинённые предложения: определительная придаточная часть",
+ "icon": "🏷️",
+ "color": "#0f766e",
+ "sectionPrefix": "gra-28-s",
+ "group": "Раздел 3 · Câu phức (Сложное предложение)",
+ "sections": [
+  {
+   "id": "gra-28-s001",
+   "type": "grammar",
+   "title": "Liên kết chính phụ với mệnh đề phụ định ngữ (определительная придаточная часть)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Mệnh đề phụ định ngữ (определительная придаточная часть) với các từ liên kết (союзные слова) кото́рый, како́й, чей, что, где, куда́, отку́да, когда́ hoặc các liên từ сло́вно, как бу́дто (как е́сли бы), как — bổ nghĩa cho một danh từ hoặc đại từ ở mệnh đề chính của câu."
+    },
+    {
+     "t": "para",
+     "text": "Các từ liên kết và liên từ mang ý nghĩa định ngữ:\nа) từ liên kết кото́рый, како́й mang ý nghĩa định ngữ thuần tuý: Собы́тия, кото́рые произошли́ накану́не, нару́шили все на́ши пла́ны (Những sự kiện xảy ra hôm trước đã phá vỡ mọi kế hoạch của chúng tôi); Как зову́т челове́ка, с кото́рым ты разгова́ривал? (Người mà cậu vừa nói chuyện tên là gì?); Не́бо бы́ло тако́го я́ркого голубо́го цве́та, како́й быва́ет то́лько ра́нней весно́й и́ли о́сенью (Bầu trời mang màu xanh tươi rực rỡ, thứ màu chỉ có vào đầu xuân hoặc mùa thu);\nб) từ liên kết чей mang ý nghĩa định ngữ–sở hữu: Я ду́мал о челове́ке, чья власть надо мно́й была́ абсолю́тной (Tôi nghĩ về con người mà quyền lực của ông ta đối với tôi là tuyệt đối); Он был поэ́том, чьи стихи́ ста́ли си́мволом це́лой эпо́хи (Ông là nhà thơ mà những vần thơ đã trở thành biểu tượng của cả một thời đại);\nв) từ liên kết кто, что, когда́, где, куда́, отку́да mang ý nghĩa định ngữ–chủ thể, định ngữ–đối tượng, định ngữ–thời gian hoặc định ngữ–nơi chốn: Печа́лен я: со мно́ю дру́га нет, С кем до́лгую запи́л бы я разлу́ку, Кому́ бы мог пожа́ть от се́рдца ру́ку И пожела́ть весёлых мно́го лет (А. Пу́шкин) (Tôi buồn: bên tôi chẳng có người bạn — người mà tôi có thể cùng nâng chén tiễn cuộc chia ly dài, người mà tôi có thể xiết tay thật lòng và chúc nhiều năm vui vẻ — A. Pushkin); Мы подошли́ к до́му, что расположи́лся на приго́рке под со́снами (Chúng tôi đến gần ngôi nhà nằm trên gò đất dưới rặng thông); Наста́нет год, Росси́и чёрный год, когда́ царе́й коро́на упадёт (М. Ле́рмонтов) (Sẽ đến một năm — năm đen tối của nước Nga — khi vương miện của các sa hoàng rơi xuống — M. Lermontov); Над доли́ной, где мы е́хали, спусти́лись ту́чи (А. Пу́шкин) (Mây đen sà xuống thung lũng nơi chúng tôi đang đi — A. Pushkin); В до́ме, куда́ мы вошли́, бы́ло темно́ и сы́ро (Trong ngôi nhà chúng tôi bước vào tối và ẩm); Ка́ждый год он е́здил в дере́вню, отку́да был ро́дом (Năm nào anh ấy cũng về ngôi làng quê gốc của mình);\nг) liên từ сло́вно, (как) бу́дто: И начала́сь но́вая жизнь, сло́вно ничего́ плохо́го и не́ было (Và cuộc sống mới bắt đầu, như thể chưa từng có chuyện gì tồi tệ); Ко́мната име́ла тако́й вид, (как) бу́дто в ней никто́ не жил (Căn phòng trông như thể chưa từng có ai ở)."
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Danh từ hoặc đại từ ở mệnh đề chính có thể đi kèm các đại từ chỉ định тот (та, то, те) hoặc тако́й (така́я, тако́е, таки́е): Как зову́т того́ челове́ка, с кото́рым ты разгова́ривал? (Người mà cậu vừa nói chuyện ấy tên là gì?)."
+    }
+   ]
+  },
+  {
+   "id": "gra-28-s002",
+   "type": "exercise",
+   "title": "Упражнение 416",
+   "num": 416,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy đọc các câu. Chú ý các liên từ và từ liên kết nối các vế của câu ghép chính phụ mang ý nghĩa định ngữ."
+    },
+    {
+     "t": "para",
+     "text": "Ngữ liệu của bài 416 chính là phần lý thuyết «Liên kết chính phụ với mệnh đề phụ định ngữ» trình bày ở mục ngay trên: các từ liên kết кото́рый, како́й (nhóm а), чей (nhóm б), кто, что, когда́, где, куда́, отку́да (nhóm в) và các liên từ сло́вно, (как) бу́дто (nhóm г) cùng toàn bộ ví dụ minh hoạ và khung chú ý."
+    }
+   ]
+  },
+  {
+   "id": "gra-28-s003",
+   "type": "exercise",
+   "title": "Упражнение 417",
+   "num": 417,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Thay chỗ ba chấm bằng từ liên kết како́й hoặc кото́рый ở dạng thích hợp. Giải thích cách chọn của bạn, nêu các phương án có thể. Chú ý trật tự sắp xếp các vế của câu."
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Câu phức với từ liên kết како́й hợp dạng với danh từ ở mệnh đề chính (Наступи́ла жара́, кака́я ре́дко быва́ет в э́тих места́х — Một đợt nóng ập đến, kiểu nóng hiếm gặp ở vùng này) có thể biến đổi thành hai câu đơn với cùng danh từ đó và đại từ chỉ định тако́й (-а́я, -о́е, -и́е): Наступи́ла жара́. Така́я жара́ ре́дко быва́ет в э́тих места́х.\nChú ý (!): Кото́рый (-ая, -ое, -ые) trong mệnh đề phụ thay thế danh từ và giữ chức năng chủ thể hoặc đối tượng: Вот друг, кото́рый ко мне́ прие́хал. — Вот друг. Он (Э́тот друг) ко мне́ прие́хал; Друг, с кото́рым я познако́мился в про́шлом году́, живёт в Москве́. — Друг живёт в Москве́. С ним я познако́мился в про́шлом году́."
+    },
+    {
+     "t": "para",
+     "text": "1. Мой друг, … произошла́ э́та исто́рия, в то вре́мя рабо́тал на Се́вере (Bạn tôi — người đã xảy ra câu chuyện này — hồi ấy đang làm việc ở phương Bắc); 2. В ко́мнату вошёл мужчи́на, … никто́ из прису́тствующих не знал (Một người đàn ông bước vào phòng, người mà không ai trong số những người có mặt quen biết); 3. У неё был ро́вный, краси́вый по́черк, … пи́шут в архи́вных докуме́нтах и́ли в прика́зах (Chị ấy có nét chữ đều và đẹp, kiểu chữ người ta dùng trong tài liệu lưu trữ hoặc trong các mệnh lệnh); 4. Оши́бка, … произошла́ накану́не, всех огорчи́ла (Sai sót xảy ra hôm trước khiến mọi người buồn phiền); 5. Из до́ма, … находи́лся неподалёку, доноси́лись зву́ки му́зыки (Từ ngôi nhà nằm cách đó không xa vọng lại tiếng nhạc); 6. Он говори́л просты́е, тро́гательные слова́, … обы́чно взро́слые говоря́т оби́женному ребёнку (Anh nói những lời giản dị, cảm động, kiểu lời người lớn thường nói với đứa trẻ đang tủi thân); 7. Лишь немно́гие из мои́х друзе́й, … я знал ещё в институ́те, откли́кнулись на мою́ про́сьбу (Chỉ vài người trong số bạn bè tôi quen từ thời đại học hưởng ứng lời đề nghị của tôi); 8. Стоя́ла тёплая со́лнечная пого́да, … в э́тих места́х быва́ет то́лько в конце́ ма́я (Thời tiết ấm áp đầy nắng, kiểu thời tiết ở vùng này chỉ có vào cuối tháng Năm); 9. В январе́ начали́сь кани́кулы, … все так до́лго мечта́ли (Tháng Giêng kỳ nghỉ bắt đầu — kỳ nghỉ mà mọi người mơ ước bấy lâu); 10. Э́то был пра́здник, … ма́ло (Đó là một ngày hội hiếm có); 11. Челове́к, … не бои́тся тру́дностей, досто́ин уваже́ния (Người không sợ khó khăn đáng được kính trọng); 12. Весь день я провёл в хло́потах, … быва́ют обы́чно перед пра́здниками (Cả ngày tôi tất bật với những lo toan thường có trước các ngày lễ); 13. У́тром мы реши́ли пое́хать на экску́рсию в го́род, … был располо́жен на берегу́ Оки́ (Buổi sáng chúng tôi quyết định đi tham quan thành phố nằm bên bờ sông Oka); 14. Стихотворе́ние посвящено́ челове́ку, … никто́ из нас не знал (Bài thơ dành tặng một người mà không ai trong chúng tôi quen biết); 15. Все докуме́нты, … я нашёл в архи́ве, относи́лись к концу́ семна́дцатого ве́ка (Tất cả tài liệu tôi tìm thấy trong kho lưu trữ đều thuộc cuối thế kỷ XVII); 16. С не́ба на зе́млю на́чали па́дать необы́чно тяжёлые, кру́пные ка́пли, … мо́жно наблюда́ть то́лько ле́том, в жа́ркую пого́ду (Từ trời bắt đầu rơi xuống những hạt mưa to nặng khác thường, kiểu mưa chỉ thấy vào mùa hè, lúc trời nóng); 17. Он держа́лся со все́ми с изя́щной простото́й, … сво́йственна лю́дям, зна́ющим себе́ це́ну (Anh cư xử với mọi người bằng vẻ giản dị thanh lịch vốn có ở những người biết giá trị của mình); 18. Наш разгово́р прерва́л телефо́нный звоно́к, … разда́лся в кабине́те (Cuộc trò chuyện của chúng tôi bị ngắt bởi hồi chuông điện thoại vang lên trong phòng làm việc); 19. В её го́лосе появи́лась уве́ренность, … ра́ньше не́ было (Trong giọng nói của cô xuất hiện vẻ tự tin trước đây chưa từng có); 20. На снегу́ видне́лся нечёткий, изви́листый след, … обы́чно оставля́ет зверь (Trên tuyết hiện rõ vệt chân mờ, ngoằn ngoèo, kiểu dấu vết thú rừng thường để lại); 21. Состоя́ние, … нахо́дится сейча́с больно́й, не опа́сно (Tình trạng người bệnh đang ở hiện nay không nguy hiểm)."
+    }
+   ]
+  },
+  {
+   "id": "gra-28-s004",
+   "type": "exercise",
+   "title": "Упражнение 418",
+   "num": 418,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Thay chỗ ba chấm bằng từ liên kết чей ở dạng thích hợp. Chú ý sự hợp dạng của từ này với danh từ trong mệnh đề phụ."
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Từ liên kết чей (чья, чьё, чьи) hợp giống, số và cách với danh từ chỉ vật/điều mà người được biểu thị bằng danh từ ở mệnh đề chính sở hữu; danh từ ấy nằm trong mệnh đề phụ."
+    },
+    {
+     "t": "para",
+     "text": "1. У Эвели́ны бы́ли знако́мства в са́мых ра́зных круга́х; среди́ тех, … прису́тствие она́ счита́ла необходи́мым в э́тот ве́чер, бы́ли, наприме́р, два велосипе́дных го́нщика и оди́н боксёр сре́днего ве́са (Evelina có quen biết trong đủ mọi giới; trong số những người mà sự hiện diện của họ cô cho là cần thiết tối hôm ấy, có chẳng hạn hai tay đua xe đạp và một võ sĩ quyền Anh hạng trung); 2. Предста́вь себе́, что ты ста́лкиваешься с ке́м-то, кто об э́той систе́ме не име́ет поня́тия, … жизнь была́ постро́ена на соверше́нно други́х при́нципах (Hãy hình dung cậu chạm trán một người không có chút khái niệm gì về hệ thống này — người mà cuộc đời được xây dựng trên những nguyên tắc hoàn toàn khác); 3. Напро́тив же́нщины сиде́л челове́к в ке́пке, ры́жем пиджаке́ и чёрных штана́х; он был еди́нственным из четверы́х, … про́шлое бы́ло легко́ определи́ть по разда́вленному но́су и расплю́щенным уша́м, по тому́, что он был широ́к в плеча́х и его́ движе́ния сохрани́ли до сих по́р, несмотря́ на го́ды, тяжелова́тую то́чность (Đối diện người phụ nữ là một người đội mũ lưỡi trai, mặc áo vest hung đỏ và quần đen; anh ta là người duy nhất trong bốn người mà quá khứ có thể dễ dàng đoán ra qua chiếc mũi bị dập và đôi tai bẹp, qua đôi vai rộng và những cử động đến giờ, dù năm tháng đã qua, vẫn giữ vẻ chuẩn xác nặng nề); 4. Ты́сячи вообража́емых положе́ний и разгово́ров рои́лись у меня́ в голове́, обрыва́ясь и сменя́ясь други́ми; но са́мой прекра́сной мы́слью была́ та, что Клэр, от кото́рой я ушёл зи́мней но́чью, Клэр, … тень заслоня́ет меня́, и когда́ я ду́маю о ней, всё вокру́г меня́ звучи́т ти́ше и заглушённее, — что э́та Клэр бу́дет принадлежа́ть мне (Hàng nghìn tình huống và cuộc trò chuyện tưởng tượng quay cuồng trong đầu tôi, đứt quãng rồi nhường chỗ cho những cái khác; nhưng ý nghĩ đẹp đẽ nhất là: Claire — người tôi đã rời xa trong một đêm đông, Claire — người mà chiếc bóng luôn che phủ tôi, và mỗi khi nghĩ về nàng, mọi thứ quanh tôi như lặng đi, dịu xuống — rằng Claire ấy rồi sẽ thuộc về tôi); 5. Я был убеждён, что на изве́стный пери́од существова́ния Еле́ны Никола́евны легла́ кака́я-то тень, и я хоте́л знать, … глаза́ нашли́ своё неподви́жное отраже́ние в её глаза́х, … хо́лод так глубоко́ прони́к в её те́ло — и, гла́вное, как и почему́ э́то произошло́ (Г. Газда́нов) (Tôi tin chắc rằng một quãng đời nào đó của Elena Nikolaevna đã bị một bóng đen phủ lên, và tôi muốn biết đôi mắt của ai đã in bóng bất động trong mắt nàng, hơi lạnh của ai đã thấm sâu vào cơ thể nàng đến vậy — và quan trọng nhất, điều đó xảy ra như thế nào và vì sao — G. Gazdanov)."
+    }
+   ]
+  },
+  {
+   "id": "gra-28-s005",
+   "type": "exercise",
+   "title": "Упражнение 419",
+   "num": 419,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Dùng từ liên kết чей ở dạng thích hợp, có hoặc không có giới từ, hãy đưa ra phương án đồng nghĩa của các câu."
+    },
+    {
+     "t": "model",
+     "text": "Образец (Mẫu): Я ду́мал о челове́ке, труда́ми кото́рого был со́здан э́тот музе́й. — Я ду́мал о челове́ке, чьи́ми труда́ми был со́здан э́тот музе́й. (Tôi nghĩ về con người mà nhờ công sức của ông, bảo tàng này được lập nên.)"
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Đứng ở mệnh đề chính với vai trò «chủ sở hữu» khái quát có thể là các danh từ chỉ viện, phòng thí nghiệm, tổ chức, cơ quan, đất nước: Природоохра́нные фу́нкции бы́ли пе́реданы ве́домству, чья де́ятельность заключа́ется в разве́дке и эксплуата́ции приро́дных ресу́рсов (Chức năng bảo vệ thiên nhiên được giao cho cơ quan mà hoạt động của nó là thăm dò và khai thác tài nguyên thiên nhiên)."
+    },
+    {
+     "t": "para",
+     "text": "1. Худо́жник, рабо́тами кото́рого все восхища́ются, о́чень тала́нтлив (Hoạ sĩ mà ai cũng ngưỡng mộ các tác phẩm của ông rất tài năng); 2. К сожале́нию, мой оте́ц, сове́ты кото́рого мне бы́ли доро́же всего́, ра́но ушёл из жи́зни (Tiếc thay, cha tôi — người mà những lời khuyên đối với tôi quý hơn tất cả — đã sớm qua đời); 3. Он подошёл к стоя́щей у роя́ля де́вушке, го́лос кото́рой очарова́л всех прису́тствующих (Anh lại gần cô gái đứng cạnh cây đại dương cầm — người có giọng hát làm say lòng mọi người có mặt); 4. Рекламода́тель выбира́ет то́лько тех получа́телей, интере́сы кото́рых совпада́ют с информа́цией, кото́рую он жела́ет предоста́вить (Nhà quảng cáo chỉ chọn những người nhận mà mối quan tâm của họ trùng với thông tin anh ta muốn cung cấp); 5. Я ду́мал о челове́ке, в рука́х кото́рого находи́лась моя́ судьба́ (Tôi nghĩ về con người đang nắm trong tay số phận của tôi); 6. Он рабо́тал то́лько с те́ми людьми́, репута́ция кото́рых безупре́чна (Ông chỉ làm việc với những người có thanh danh không tì vết); 7. Одновре́менно бы́ли подпи́саны соглаше́ния с компа́ниями, проду́кция кото́рых хорошо́ себя́ зарекомендова́ла (Đồng thời, các thoả thuận được ký với những công ty có sản phẩm đã khẳng định được uy tín); 8. Гла́вная герои́ня рома́на, от и́мени кото́рой ведётся повествова́ние, родила́сь в Пари́же (Nữ nhân vật chính của tiểu thuyết — người mà câu chuyện được kể nhân danh cô — sinh ra ở Paris); 9. Телеведу́щий, журнали́ст, писа́тель, с и́менем кото́рого свя́зана це́лая телевизио́нная эпо́ха, отвеча́ет на вопро́сы зри́телей (Người dẫn chương trình, nhà báo, nhà văn — người mà tên tuổi gắn liền với cả một thời đại truyền hình — trả lời câu hỏi của khán giả); 10. За четы́рнадцать лет свое́й де́ятельности наш геро́й, и́мя кото́рого зна́ют не то́лько в Росси́и, но и за рубежо́м, прошёл путь от лабора́нта до веду́щего нау́чного сотру́дника институ́та (Trong mười bốn năm hoạt động, nhân vật của chúng ta — người mà tên tuổi được biết đến không chỉ ở Nga mà cả ở nước ngoài — đã đi từ nhân viên phòng thí nghiệm lên nghiên cứu viên chính của viện); 11. Води́тель, по вине́ кото́рого произошла́ ава́рия, был оштрафо́ван (Người lái xe gây ra vụ tai nạn đã bị phạt); 12. Мы берём интервью́ у знамени́того кутюрье́, в рука́х кото́рого сего́дня нахо́дится бу́дущее высо́кой мо́ды (Chúng tôi phỏng vấn nhà tạo mẫu lừng danh — người hôm nay nắm trong tay tương lai của thời trang cao cấp); 13. Предприя́тие, интере́сы кото́рого представля́ет на́ша компа́ния, занима́ется произво́дством лека́рственных препара́тов (Doanh nghiệp mà công ty chúng tôi đại diện quyền lợi chuyên sản xuất dược phẩm); 14. Покло́нники го́рных лыж, во вла́сти кото́рых до́лгие го́ды находи́лись все мировы́е го́рные тра́ссы, тепе́рь вы́нуждены уступа́ть доро́гу сноуборди́стам (Những người mê trượt tuyết đổ đèo — từng nhiều năm thống trị mọi đường trượt núi trên thế giới — giờ buộc phải nhường đường cho dân trượt ván tuyết); 15. В э́той сту́дии собрали́сь телезри́тели, в жи́зни кото́рых за после́дние не́сколько лет произошли́ серьёзные переме́ны (Trong trường quay này tụ họp những khán giả truyền hình mà cuộc sống của họ mấy năm gần đây có những đổi thay lớn); 16. Суд вы́нес пригово́р рабо́тнику предприя́тия, по вине́ кото́рого произошёл пожа́р (Toà tuyên án nhân viên xí nghiệp đã gây ra vụ hoả hoạn); 17. В то вре́мя молоды́е лю́ди на́чали слу́шать хип-хо́п, стара́ясь быть похо́жими на тех, му́зыке кото́рых отводи́ли гла́вное ме́сто в жи́зни (Thời ấy giới trẻ bắt đầu nghe hip-hop, cố giống những người mà âm nhạc của họ được dành vị trí hàng đầu trong cuộc sống); 18. Граф Стро́ганов в ка́честве архите́ктора предложи́л своего́ бы́вшего крепостно́го Андре́я Ворони́хина, по прое́кту кото́рого и был возведён Каза́нский собо́р (Bá tước Stroganov tiến cử người nông nô cũ của mình là Andrei Voronikhin làm kiến trúc sư — chính theo đồ án của ông, Nhà thờ Kazan đã được dựng lên)."
+    }
+   ]
+  },
+  {
+   "id": "gra-28-s006",
+   "type": "exercise",
+   "title": "Упражнение 420",
+   "num": 420,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Trong các câu, hãy tách ra các mệnh đề phụ định ngữ với từ liên kết кто, что. Chú ý xem chúng tương ứng với những đại từ nào ở mệnh đề chính."
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Mệnh đề phụ định ngữ với từ liên kết кто, что và liên từ что được nối vào mệnh đề chính nhờ các từ все, ка́ждый, вся́кий, любо́й; тот, тако́й: Ка́ждый, кто меня́ слы́шал, поспеши́л на по́мощь (Ai nghe thấy tôi đều vội đến giúp); Моро́з был тако́й, что обжига́л щёки (Trời băng giá đến mức rát bỏng má)."
+    },
+    {
+     "t": "para",
+     "text": "1. Тако́в же был тот не́жный взор, Что я люби́л Судьбе́ в уко́р (М. Ле́рмонтов) (Cũng dịu dàng như thế là ánh mắt mà tôi đã yêu, bất chấp Số phận — M. Lermontov); 2. В э́то ле́то я впервы́е наде́л студе́нческий карту́з и был сча́стлив тем осо́бым сча́стьем нача́ла молодо́й свобо́дной жи́зни, что быва́ет то́лько в э́ту по́ру (И. Бу́нин) (Mùa hè ấy lần đầu tôi đội chiếc mũ sinh viên và hạnh phúc với niềm hạnh phúc đặc biệt của buổi đầu cuộc đời trẻ trung tự do — niềm hạnh phúc chỉ có ở độ tuổi ấy — I. Bunin); 3. Он де́лал то стра́шные, то ла́сковые и одобри́тельные глаза́, шипе́л на тех, кто пел неве́рно, и едва́ заме́тным трепыха́нием протя́нутой ладо́ни сде́рживал увлека́ющихся (А. Купри́н) (Ông khi thì trợn mắt doạ, khi thì đưa ánh mắt trìu mến khích lệ, suỵt những ai hát sai, và bằng cái phẩy khẽ của bàn tay chìa ra kìm bớt những người hát quá đà — A. Kuprin); 4. Быва́ло, кто ни придёт, вся́кий похва́лит, никто́ не осу́дит (А. Пу́шкин) (Thường là hễ ai đến, người nấy đều khen, chẳng ai chê trách — A. Pushkin); 5. Должно́ быть, все те, кто наблюда́л э́ту сце́ну извне́, по́няли её опа́сное значе́ние (А. Купри́н) (Hẳn là tất cả những ai quan sát cảnh ấy từ bên ngoài đều hiểu mức độ nguy hiểm của nó — A. Kuprin); 6. Кто самолю́бием чрез ме́ру поражён, Тот мил себе́ и в том, чем он други́м смешо́н (И. Крыло́в) (Kẻ bị thói tự ái quá mức chi phối thì tự thấy mình đáng yêu ngay cả ở điều khiến người khác chê cười — I. Krylov)."
+    }
+   ]
+  },
+  {
+   "id": "gra-28-s007",
+   "type": "exercise",
+   "title": "Упражнение 421",
+   "num": 421,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Thay chỗ ba chấm bằng đại từ xác định hoặc đại từ chỉ định все, ка́ждый, вся́кий, любо́й; тот, тако́й ở dạng thích hợp. Giải thích cách chọn của bạn, nêu các phương án có thể."
+    },
+    {
+     "t": "para",
+     "text": "1. … , к кому́ он обраща́лся, име́л свою́ то́чку зре́ния на происходя́щее (Mỗi người anh ta hỏi đến đều có quan điểm riêng về việc đang xảy ra); 2. … , кто помо́г мне, предпочёл оста́ться неизве́стным (Người đã giúp tôi muốn được giấu tên); 3. Мы при́мем в свои́ ряды́ … , кто вста́нет на защи́ту свобо́ды сло́ва (Chúng tôi sẽ kết nạp vào hàng ngũ của mình bất kỳ ai đứng lên bảo vệ tự do ngôn luận); 4. Произошло́ … , чего́ я ника́к не ожида́л (Đã xảy ra điều tôi hoàn toàn không ngờ tới); 5. Среди́ арти́стов бале́та я узна́л … , кто танцева́ла Оде́тту в «Лебеди́ном о́зере» (Trong số các nghệ sĩ ballet, tôi nhận ra người đã múa vai Odette trong «Hồ thiên nga»); 6. Э́ту зада́чу мо́жет реши́ть … , кто знако́м с осно́вами матема́тики (Bài toán này bất kỳ ai nắm được cơ sở toán học đều giải được); 7. У́жас был … , что её се́рдце гото́во бы́ло останови́ться (Nỗi kinh hoàng lớn đến mức tim cô như muốn ngừng đập); 8. … , кто лю́бит одино́чество, ли́бо — ди́кий зверь, ли́бо — Госпо́дь Бог (Ф. Бэ́кон) (Kẻ yêu cô độc hoặc là dã thú, hoặc là Chúa Trời — F. Bacon); 9. О́чень тру́дно угада́ть среди́ мно́жества люде́й и́менно … и́ли … , кто действи́тельно явля́ется ва́шей второ́й полови́ной (Rất khó nhận ra giữa muôn người đúng chàng trai hay cô gái thực sự là một nửa của bạn); 10. Для нас о́чень ва́жен ка́ждый клие́нт, поэ́тому мы всегда́ ра́ды и гото́вы помо́чь … , кто к нам обрати́тся (Với chúng tôi, mỗi khách hàng đều rất quan trọng, vì vậy chúng tôi luôn vui lòng và sẵn sàng giúp bất kỳ ai tìm đến); 11. Наш клуб откры́т для … , кто интересу́ется поэ́зией и культу́рой (Câu lạc bộ của chúng tôi mở cửa cho tất cả những ai quan tâm đến thơ ca và văn hoá); 12. … , кто отправля́ется на о́тдых в Испа́нию, необходи́мо познако́миться с исто́рией, культу́рой и национа́льными тради́циями э́той страны́ (Ai đi nghỉ ở Tây Ban Nha cũng cần tìm hiểu lịch sử, văn hoá và truyền thống dân tộc của đất nước này); 13. Пре́жде всего́, на́ши сове́ты бу́дут нужны́ … , кто ду́мает, что всё зна́ет (Trước hết, những lời khuyên của chúng tôi cần cho những ai nghĩ rằng mình đã biết hết); 14. Ме́жду … , что бы́ло на э́том ме́сте, и … , что вы сейча́с ви́дите, — больша́я ра́зница (Giữa cái từng có ở nơi này và cái các bạn đang thấy bây giờ là một khác biệt lớn); 15. Рабо́та у нас уже́ не … , что была́ пре́жде (Công việc ở chỗ chúng tôi đã không còn như trước nữa)."
+    }
+   ]
+  },
+  {
+   "id": "gra-28-s008",
+   "type": "exercise",
+   "title": "Упражнение 422",
+   "num": 422,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Dùng các từ liên kết где, куда́, отку́да, hãy đưa ra phương án đồng nghĩa cho mệnh đề phụ của các câu có từ liên kết кото́рый."
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Các từ liên kết chỉ nơi chốn где, куда́, отку́да tương ứng với động từ trong mệnh đề phụ: На ста́нции (где?), куда́ мы пое́хали (куда́?), рабо́тал мой оте́ц (Ở nhà ga (ở đâu?) mà chúng tôi đến (đến đâu?), cha tôi đã làm việc)."
+    },
+    {
+     "t": "para",
+     "text": "1. Го́род, из кото́рого он прие́хал, располо́жен в центра́льной ча́сти Росси́и (Thành phố nơi anh ấy từ đó đến nằm ở miền trung nước Nga); 2. Э́то был университе́т, в кото́ром учи́лся мой брат (Đó là trường đại học nơi anh trai tôi đã học); 3. Парк, в кото́ром мы гуля́ли в про́шлый раз, закры́т на просу́шку (Công viên nơi lần trước chúng tôi dạo chơi đang đóng cửa để hong khô); 4. Со всех сторо́н к при́стани, с кото́рой переправля́ли маши́ны на друго́й бе́рег реки́, бежа́ли лю́ди (Từ khắp phía, mọi người chạy về bến — nơi xe cộ được chở sang bờ sông bên kia); 5. Чита́й с того́ ме́ста, на кото́ром ты останови́лся (Hãy đọc từ chỗ cậu đã dừng lại); 6. Ста́нция, на кото́рую через де́сять мину́т прибу́дет наш по́езд, называ́ется «Лугова́я» (Nhà ga mà mười phút nữa đoàn tàu của chúng ta sẽ đến mang tên «Lugovaya»); 7. Тонне́ль, в кото́рый мы направля́емся, постро́ен не́сколько лет наза́д (Đường hầm chúng ta đang đi vào được xây cách đây vài năm); 8. Покажи́ мне на ка́рте ме́сто, с кото́рого начала́сь ва́ша экспеди́ция (Hãy chỉ cho tôi trên bản đồ nơi cuộc thám hiểm của các bạn bắt đầu); 9. Недалеко́ от ста́нции располо́жено село́, в кото́ром я роди́лся и вы́рос (Không xa nhà ga là ngôi làng nơi tôi sinh ra và lớn lên); 10. Мы вы́шли на площа́дку, с кото́рой могли́ наблюда́ть за доро́гой (Chúng tôi bước ra khoảng sân, từ đó có thể quan sát con đường); 11. Не́бо, на кото́ром я́рко свети́ли звёзды, дыша́ло тишино́й и поко́ем (Bầu trời lấp lánh ánh sao toả hơi thở tĩnh lặng và bình yên); 12. В ко́мнате бы́ло темно́, потому́ что окно́, из кото́рого мог па́дать свет с у́лицы, бы́ло занаве́шено (Trong phòng tối, vì cửa sổ — nơi ánh sáng ngoài phố có thể lọt vào — đã bị che rèm); 13. Лес, в кото́ром ле́том бы́ло так мно́го грибо́в и я́год, тепе́рь был пуст (Khu rừng mùa hè đầy nấm và quả mọng giờ đây trống trải)."
+    }
+   ]
+  },
+  {
+   "id": "gra-28-s009",
+   "type": "exercise",
+   "title": "Упражнение 423",
+   "num": 423,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Thay chỗ ba chấm bằng từ liên kết когда́ hoặc кото́рый ở dạng thích hợp với giới từ в. Giải thích cách chọn của bạn, nêu các phương án có thể."
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Mệnh đề phụ định ngữ với кото́рый xác định thời gian thông qua sự kiện diễn ra trong khoảng thời gian đó: Мне нра́вится вре́мя, в кото́ром я живу́ (Tôi thích thời đại tôi đang sống). Mệnh đề phụ trong trường hợp này có thể tương ứng với một tính từ: Мне нра́вится настоя́щее вре́мя (в кото́ром я живу́).\nChú ý (!): Mệnh đề phụ định ngữ với когда́ thông báo về sự kiện, trạng thái hoặc vị trí của chủ thể (đối tượng) trong một thời gian xác định: Мне нра́вится вре́мя, когда́ мо́жно ничего́ не де́лать (Tôi thích quãng thời gian có thể không phải làm gì cả). — Мне нра́вится состоя́ние безде́лья (когда́ мо́жно ничего́ не де́лать)."
+    },
+    {
+     "t": "para",
+     "text": "1. Пусть э́тот год, … ты вступа́ешь, счастли́вым го́дом в жизнь твою́ войдёт (Mong rằng năm mới này — năm con đang bước vào — sẽ đi vào cuộc đời con như một năm hạnh phúc); 2. Мно́гие по́мнят 1999 год, … сло́во «Интерне́т» бы́ло ещё не о́чень знако́мо населе́нию (Nhiều người còn nhớ năm 1999, khi từ «Internet» còn chưa mấy quen thuộc với dân chúng); 3. На экра́ны кинотеа́тров вы́шел но́вый фильм «День, … Земля́ останови́лась» с Киа́ну Ри́взом в гла́вной ро́ли (Trên màn ảnh ra mắt bộ phim mới «Ngày Trái Đất ngừng quay» với Keanu Reeves đóng vai chính); 4. Э́то был год, … бы́стро расту́щие це́ны на энергоноси́тели вы́вели Росси́ю на са́мый верх (Đó là năm mà giá năng lượng tăng nhanh đưa nước Nga lên vị trí dẫn đầu); 5. Пра́здник — э́то день, … по тради́ции при́нято ра́достно проводи́ть вре́мя, устра́ивать церемо́нии и засто́лья (Ngày lễ là ngày mà theo truyền thống người ta vui chơi, tổ chức nghi lễ và tiệc tùng); 6. К сожале́нию, вре́мя, … мы мо́лоды и уве́рены в свои́х си́лах, бы́стро прохо́дит (Tiếc rằng quãng thời gian chúng ta trẻ trung và tin vào sức mình trôi qua rất nhanh); 7. Расписа́ние электри́чек специа́льно подстра́ивали под так называ́емые часы́ пик — вре́мя, … прилета́ет и улета́ет наибо́льшее число́ самолётов (Lịch tàu điện ngoại ô được điều chỉnh riêng theo cái gọi là giờ cao điểm — khoảng thời gian có nhiều máy bay đến và đi nhất); 8. Несмотря́ на золоту́ю о́сень, … так прия́тно прогуля́ться по у́лицам го́рода, до́ма всё-таки ую́тнее и тепле́е (Dù đang mùa thu vàng — mùa mà dạo bước trên các con phố thật dễ chịu — ở nhà vẫn ấm cúng và dễ chịu hơn); 9. Вре́мя, … прохо́дит наш съезд, — исключи́тельно отве́тственное (Thời điểm đại hội của chúng ta diễn ra là thời điểm cực kỳ hệ trọng); 10. Поворо́тным для предприя́тия стал 1995 год, … получи́ли разви́тие мно́гие произво́дства (Năm 1995 trở thành bước ngoặt của xí nghiệp — năm nhiều dây chuyền sản xuất được phát triển); 11. В анке́те вы должны́ указа́ть вре́мя, … с ва́ми мо́жно связа́ться (Trong phiếu khai, anh chị phải ghi rõ thời gian có thể liên lạc với mình); 12. Биржево́й день — э́то день, … прово́дится торго́вля на би́рже (Ngày giao dịch là ngày diễn ra hoạt động mua bán trên sàn); 13. Зима́ здесь бо́льше напомина́ет на́ше прохла́дное ле́то, … проливны́е дожди́ сменя́ются нежа́рким со́лнышком (Mùa đông ở đây giống mùa hè mát mẻ của chúng ta hơn, khi những trận mưa rào nối tiếp nắng dịu); 14. На́ша фи́рма гаранти́рует вам са́мую ни́зкую сто́имость прое́зда на ту да́ту и вре́мя, … вы хоти́те лете́ть (Hãng chúng tôi bảo đảm giá vé thấp nhất cho đúng ngày giờ quý khách muốn bay); 15. Приближа́ется ле́то, а вме́сте с ним и вре́мя, … хо́чется отпра́виться на пляж и получи́ть великоле́пный бро́нзовый зага́р (Mùa hè đang đến gần, và cùng với nó là quãng thời gian ai cũng muốn ra bãi biển để có làn da rám nắng tuyệt đẹp); 16. По́сле оформле́ния зака́за с покупа́телем свя́зывается продаве́ц и уточня́ет ме́сто и вре́мя, … сле́дует доста́вить това́р (Sau khi chốt đơn, người bán liên hệ với người mua và xác nhận địa điểm, thời gian cần giao hàng); 17. Вре́мя, … произошло́ э́то собы́тие, неизве́стно (Thời gian xảy ra sự kiện này không rõ)."
+    }
+   ]
+  },
+  {
+   "id": "gra-28-s010",
+   "type": "exercise",
+   "title": "Упражнение 424",
+   "num": 424,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Thay chỗ ba chấm bằng các từ liên kết когда́, где, куда́, отку́да hoặc từ liên kết кото́рый ở dạng thích hợp. Giải thích cách chọn của bạn, nêu các phương án có thể."
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Các từ liên kết где, куда́, отку́да chỉ dùng khi danh từ (ở mệnh đề chính) mang ý nghĩa không gian: ко́мната, зда́ние, го́род…; từ liên kết когда́ — chỉ với danh từ mang ý nghĩa thời gian: час, год, зима́… Trong các trường hợp còn lại, mệnh đề phụ định ngữ dùng từ liên kết кото́рый."
+    },
+    {
+     "t": "para",
+     "text": "1. Пое́здка, … мы отпра́вились, обеща́ла быть интере́сной (Chuyến đi mà chúng tôi lên đường hứa hẹn sẽ thú vị); 2. За́втра у меня́ день рожде́ния, … съе́дутся все мои́ друзья́ и ро́дственники (Mai là sinh nhật tôi — dịp tất cả bạn bè, họ hàng sẽ tụ về); 3. Гости́ница, … мы реши́ли останови́ться, находи́лась в це́нтре го́рода (Khách sạn nơi chúng tôi quyết định nghỉ lại nằm ở trung tâm thành phố); 4. За э́тим после́довали собы́тия, … не предвеща́ли нам ничего́ хоро́шего (Tiếp theo đó là những sự kiện không báo trước điều gì tốt lành cho chúng tôi); 5. Пери́од сниже́ния физи́ческой акти́вности челове́ка прихо́дится на послеобе́денное вре́мя, … мно́гих из нас тя́нет ко сну́ (Giai đoạn giảm hoạt động thể chất của con người rơi vào quãng sau bữa trưa, khi nhiều người trong chúng ta buồn ngủ); 6. В теа́тре дава́ли спекта́кль по пье́се Булга́кова, … прису́тствовали все мои́ друзья́ и знако́мые (Nhà hát diễn vở kịch theo kịch bản của Bulgakov — buổi diễn mà tất cả bạn bè và người quen của tôi đều có mặt); 7. Я сиде́л во второ́м я́русе, … вся сце́на просма́тривалась как на ладо́ни (Tôi ngồi ở tầng hai khán phòng, từ đó toàn bộ sân khấu hiện rõ như trong lòng bàn tay); 8. Орке́стр на́чал выступле́ние с увертю́ры, … всем о́чень понра́вилась (Dàn nhạc mở đầu buổi diễn bằng khúc dạo đầu khiến mọi người rất thích); 9. Столи́чные ба́нки, … начина́ющий инве́стор мо́жет прийти́ за консульта́цией, регуля́рно прово́дят семина́ры по улучше́нию ка́чества обслу́живания (Các ngân hàng thủ đô — nơi nhà đầu tư mới vào nghề có thể đến xin tư vấn — thường xuyên tổ chức hội thảo nâng cao chất lượng phục vụ); 10. И наконе́ц наступи́л день, … мы се́ли в ваго́н и отпра́вились в путеше́ствие (Và cuối cùng đã đến ngày chúng tôi lên toa tàu bắt đầu chuyến du hành); 11. Охо́та, … меня́ пригласи́л мой друг, начала́сь с прове́рки снаряже́ния (Cuộc đi săn mà bạn tôi mời tôi tham gia bắt đầu bằng việc kiểm tra trang bị); 12. Получи́в сообще́ние, я вы́шел из аудито́рии, … проходи́ло собра́ние студе́нтов тре́тьего ку́рса (Nhận được tin nhắn, tôi rời giảng đường nơi đang diễn ra cuộc họp sinh viên năm thứ ba); 13. Их спо́ры, … я никогда́ не принима́л уча́стия, всегда́ зака́нчивались взаи́мными обвине́ниями и оби́дами (Những cuộc tranh cãi của họ — mà tôi không bao giờ tham gia — luôn kết thúc bằng việc buộc tội lẫn nhau và hờn giận)."
+    }
+   ]
+  },
+  {
+   "id": "gra-28-s011",
+   "type": "exercise",
+   "title": "Упражнение 425",
+   "num": 425,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Thay chỗ ba chấm bằng các từ liên kết кто, что, когда́, где, куда́, отку́да. Sau đó, ở những chỗ có thể, hãy thay các từ liên kết кто, что, когда́, где, куда́, отку́да bằng từ liên kết кото́рый ở dạng thích hợp, có hoặc không có giới từ."
+    },
+    {
+     "t": "para",
+     "text": "1. Дере́вня, … ложи́лись спать ра́но, ограни́чивала на́ши прогу́лки и развлече́ния све́тлым вре́менем су́ток (Ngôi làng — nơi người ta đi ngủ sớm — giới hạn các cuộc dạo chơi và giải trí của chúng tôi trong khoảng thời gian trời còn sáng); 2. Не сгова́риваясь, мы напра́вились на ку́хню, … доноси́лись восхити́тельные за́пахи (Không ai bảo ai, chúng tôi tiến về phía bếp, nơi toả ra những mùi thơm tuyệt diệu); 3. Я осо́бенно люблю́ у́тренние часы́, … го́род то́лько начина́ет просыпа́ться с пе́рвыми луча́ми со́лнца (Tôi đặc biệt yêu những giờ sớm mai, khi thành phố mới bắt đầu thức dậy cùng những tia nắng đầu tiên); 4. Мы посмотре́ли вниз на дно глубо́кого уще́лья, … ещё лежа́л тума́н (Chúng tôi nhìn xuống đáy hẻm núi sâu, nơi sương mù còn giăng); 5. В купе́, … мы вошли́ вслед за проводнико́м, сиде́ло не́сколько челове́к (Trong khoang tàu mà chúng tôi bước vào theo sau nhân viên toa có mấy người đang ngồi); 6. Вся ко́мната напо́лнилась со́лнечным све́том, проходи́вшим сквозь ве́тви дере́вьев, … росли́ под о́кнами (Cả căn phòng tràn ngập ánh nắng xuyên qua cành những cái cây mọc dưới cửa sổ); 7. Опа́сность появи́лась с той стороны́, … её никто́ не ждал (Hiểm nguy đến từ phía không ai ngờ tới); 8. Наста́ла пора́, … я по́нял всю глубину́ э́тих слов (Đã đến lúc tôi hiểu hết chiều sâu của những lời ấy); 9. Ка́ждый, … он здесь встре́тил, подходи́л к нему́ со слова́ми ободре́ния (Mỗi người anh gặp ở đây đều đến bên anh với những lời động viên); 10. В це́нтре за́ла, … танцева́ли, я́блоку бы́ло не́где упа́сть (Giữa gian phòng, nơi người ta khiêu vũ, chật như nêm cối); 11. В го́роде, … мы напра́вились на рассве́те, нас уже́ жда́ли (Ở thành phố mà chúng tôi nhằm hướng đi lúc rạng sáng, người ta đã chờ sẵn chúng tôi); 12. С той стороны́ за́ла, … сиде́ли зри́тели, послы́шались аплодисме́нты (Từ phía khán phòng nơi khán giả ngồi vang lên tiếng vỗ tay); 13. Из всех цвето́в, … расту́т у нас в саду́, я предпочита́ю тюльпа́ны (Trong tất cả các loài hoa mọc trong vườn nhà, tôi thích nhất hoa tulip); 14. С верши́ны горы́, … мы подняли́сь, открыва́лся прекра́сный вид (Từ đỉnh núi chúng tôi leo lên mở ra khung cảnh tuyệt đẹp); 15. Я о́чень цени́л те ре́дкие часы́, … вся семья́ собира́лась вме́сте за обе́денным столо́м (Tôi rất quý những giờ hiếm hoi khi cả gia đình quây quần bên bàn ăn); 16. Он был из тех, … никогда́ не сдаётся и не опуска́ет ру́ки (Anh thuộc kiểu người không bao giờ đầu hàng hay buông xuôi); 17. Все посмотре́ли на дверь, … должны́ бы́ли вы́йти хозя́ева (Mọi người nhìn về phía cánh cửa, nơi chủ nhà sẽ bước ra); 18. С рассве́том, … тума́н рассе́ялся, мы дви́нулись в путь (Lúc rạng sáng, khi sương tan, chúng tôi lên đường); 19. Я осо́бенно люблю́ уголки́ ди́кой приро́ды, … нельзя́ встре́тить челове́ка (Tôi đặc biệt yêu những góc thiên nhiên hoang dã, nơi không gặp bóng người); 20. С на́ми бы́ли те, … не побоя́лся рискну́ть (Đi cùng chúng tôi là những người không sợ mạo hiểm); 21. В то вре́мя, … все шли домо́й, я то́лько начина́л рабо́тать (Vào lúc mọi người về nhà, tôi mới bắt đầu làm việc)."
+    }
+   ]
+  },
+  {
+   "id": "gra-28-s012",
+   "type": "exercise",
+   "title": "Упражнение 426",
+   "num": 426,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Thay chỗ ba chấm bằng liên từ сло́вно, как бу́дто. Giải thích cách chọn của bạn, nêu các phương án có thể."
+    },
+    {
+     "t": "note",
+     "text": "Chú ý (!): Các liên từ сло́вно, (как) бу́дто chỉ tình huống mà về biểu hiện bên ngoài giống với tình huống được miêu tả ở mệnh đề chính, nhưng về bản chất lại trái ngược với nó.\nСло́вно thường dùng trong mệnh đề phụ định ngữ khi đối chiếu sự vật hoặc đặc điểm của chúng: Мы уви́дели ро́вный прозра́чный свет, сло́вно луна́ освеща́ла нам доро́гу (Chúng tôi thấy thứ ánh sáng đều và trong, tựa như trăng soi đường cho chúng tôi). Mệnh đề phụ định ngữ trong trường hợp này thường có thể thay bằng ngữ so sánh: Мы уви́дели ро́вный прозра́чный свет, сло́вно свет луны́.\nКак бу́дто dùng khi diễn đạt hành động: Он сде́лал вид, как бу́дто хо́чет убежа́ть (Anh ta làm ra vẻ như muốn bỏ chạy). Trường hợp này không thể thay mệnh đề phụ bằng ngữ so sánh."
+    },
+    {
+     "t": "para",
+     "text": "1. В не́которых места́х открыва́лся тако́й вид, … э́то не Ке́ния, а Центра́льная Росси́я (Ở vài nơi mở ra khung cảnh cứ như đây không phải Kenya mà là miền Trung nước Nga); 2. У меня́ постоя́нное ощуще́ние су́хости глаз, … в них насы́пали песка́ (Tôi luôn có cảm giác khô mắt, như thể bị rắc cát vào mắt); 3. Послы́шался ти́хий шо́рох, … ба́бочка пролете́ла (Nghe có tiếng sột soạt khe khẽ, tựa như một cánh bướm vừa bay qua); 4. Оте́ль стоя́л на берегу́ очарова́тельной бу́хты с живопи́сными островка́ми, ска́лами, рыба́чьими ло́дками — вид волше́бный, … перед ва́ми раскрыва́ется иллюстра́ция к ска́зке (Khách sạn nằm bên vịnh biển mê hồn với những hòn đảo nhỏ, vách đá, thuyền chài đẹp như tranh — khung cảnh huyền ảo, như thể trước mắt bạn mở ra bức tranh minh hoạ truyện cổ tích); 5. У него́ была́ подпры́гивающая похо́дка, … он ступа́л по горя́чим угля́м (Anh ta có dáng đi nhún nhảy, như thể đang giẫm trên than hồng); 6. В её вопро́се прозвуча́ло сомне́ние, … она́ ему́ не доверя́ла (Trong câu hỏi của cô vang lên nỗi ngờ vực, như thể cô không tin anh); 7. До меня́ до́лго ещё доноси́лся зво́нкий смех: … с грома́дной высоты́ па́дала серебри́стая стру́йка воды́ и с весёлым пе́нием разбива́лась о твёрдую скалу́ (Tiếng cười giòn tan còn vọng đến tai tôi rất lâu: tựa như từ độ cao chót vót, một dòng nước bạc rơi xuống và vỡ tan trên vách đá rắn cùng tiếng ca vui); 8. Послы́шалась му́зыка, … кто́-то ря́дом с на́ми ти́хо на́чал игра́ть на фле́йте (Có tiếng nhạc vang lên, như thể ai đó cạnh chúng tôi khe khẽ bắt đầu thổi sáo); 9. На её лице́ отрази́лась ра́дость, … она́ внеза́пно уви́дела иду́щих ей навстре́чу друзе́й (Trên gương mặt cô ánh lên niềm vui, như thể cô chợt thấy bạn bè đang đi về phía mình); 10. Посмотри́те в окно́: на у́лице хо́лод, … дека́брь уже́ наступи́л (Hãy nhìn ra cửa sổ: ngoài trời lạnh, cứ như tháng Chạp đã về); 11. Через мину́ту привы́чный, неизве́стно отку́да беру́щийся шум, … ти́канье мно́гих механи́ческих часо́в, напо́лнило зал (Một phút sau, thứ âm thanh quen thuộc không rõ từ đâu vọng lại — tựa tiếng tích tắc của nhiều chiếc đồng hồ cơ — tràn ngập gian phòng); 12. Он не узна́л своего́ го́лоса, … кто́-то друго́й скома́ндовал ему́ (Anh không nhận ra giọng mình, như thể ai khác vừa hô khẩu lệnh cho anh); 13. На ли́стьях расте́ний ещё сверка́ли ка́пли росы́, … сама́ приро́да разброса́ла по траве́ оско́лки зе́ркала (Trên lá cây còn lấp lánh những giọt sương, tựa như chính thiên nhiên rải lên cỏ những mảnh gương vỡ); 14. В тот миг я по́нял, о чём идёт речь, и почу́вствовал лёгкую дрожь, … по ко́мнате пробежа́ла волна́ холо́дного во́здуха (Khoảnh khắc ấy tôi hiểu chuyện gì đang được nói tới và thấy khẽ rùng mình, như thể một luồng khí lạnh chạy qua căn phòng); 15. Я ощуща́л жар, … я сижу́ у пе́чки с откры́той две́рцей (Tôi cảm thấy hơi nóng, như thể mình đang ngồi cạnh chiếc lò sưởi mở cửa); 16. Ты чу́вствуешь трево́гу, … за тобо́й кто́-то наблюда́ет (Cậu cảm thấy bất an, như thể có ai đó đang theo dõi cậu)."
+    }
+   ]
+  }
+ ]
+}

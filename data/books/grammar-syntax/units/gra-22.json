@@ -1,0 +1,501 @@
+{
+ "id": "gra-22",
+ "num": 22,
+ "title": "Trật tự từ (Порядок слов)",
+ "vi": "Trật tự từ (Порядок слов)",
+ "ru": "Порядок слов (актуальное членение предложения)",
+ "icon": "🔀",
+ "color": "#0891b2",
+ "sectionPrefix": "gra-22-s",
+ "group": "Раздел 2 · Câu đơn (Простое предложение)",
+ "sections": [
+  {
+   "id": "gra-22-s001",
+   "type": "grammar",
+   "title": "Trật tự từ và phân đoạn thực tại của câu (тема — рема)",
+   "num": null,
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Trong tiếng Nga, khác với tiếng Anh chẳng hạn, không có những quy tắc cứng nhắc về vị trí của từ — trật tự các thành phần trong câu được coi là tự do. Tuy nhiên trên thực tế, ta thường gặp những tình huống mà chỉ còn MỘT phương án sắp xếp câu là khả dĩ, do ngữ cảnh và nhiệm vụ giao tiếp của người nói quy định — truyền đạt đến người đọc hay người nghe thông tin mới, thiết thực đối với họ."
+    },
+    {
+     "t": "para",
+     "text": "Trật tự từ trong tiếng Nga là phương tiện hình thức biểu hiện sự PHÂN ĐOẠN THỰC TẠI của câu (актуа́льное члене́ние предложе́ния) thành hai phần: ТЕМА (тема) — biểu thị thông tin người đọc/người nghe đã biết, và РЕМА (рема) — chứa thông tin mới, trước đó chưa biết. Chẳng hạn, trong câu Брат купи́л кни́гу (Anh trai đã mua sách), тема là từ брат, còn рема là thông tin về việc anh ấy đã làm gì: купи́л кни́гу."
+    },
+    {
+     "t": "para",
+     "text": "Tiêu chí hình thức cho phép phân định тема và рема trong câu là CÂU HỎI. Hãy so sánh: Что сде́лал брат? — Брат / купи́л кни́гу (Anh trai đã làm gì? — Anh trai / đã mua sách); Кто купи́л кни́гу? — Кни́гу купи́л / брат (Ai đã mua sách? — Người mua sách là / anh trai); Брат купи́л кни́гу и́ли взял в библиоте́ке? — Брат кни́гу / купи́л (Anh trai mua sách hay mượn ở thư viện? — Cuốn sách thì anh / đã mua)."
+    },
+    {
+     "t": "para",
+     "text": "Câu có cả тема lẫn рема gọi là câu PHÂN ĐOẠN GIAO TIẾP (коммуникати́вно-расчленённые предложе́ния). Câu chỉ gồm рема (đưa vào toàn thông tin mới) gọi là câu KHÔNG PHÂN ĐOẠN GIAO TIẾP (коммуникати́вно-нерасчленённые). Loại câu này thường đứng đầu văn bản hay đoạn văn và trả lời cho câu hỏi chung — Что случи́лось? Что происхо́дит? (Có chuyện gì xảy ra? Điều gì đang diễn ra?): Приезжа́ет брат (Anh trai sắp về); Наступи́ла о́сень (Mùa thu đã đến); Начала́сь гроза́ (Cơn dông đã nổi lên)."
+    },
+    {
+     "t": "note",
+     "text": "Văn viết có những quy tắc đặc biệt nghiêm ngặt về trật tự từ, bởi trong văn viết không thể dùng ngữ điệu để làm nổi bật thông tin mới, quan trọng nhất theo cách nhìn của tác giả."
+    }
+   ]
+  },
+  {
+   "id": "gra-22-s002",
+   "type": "grammar",
+   "title": "Vị trí của chủ ngữ và vị ngữ trong lời nói trung lập về phong cách — Lý thuyết",
+   "num": null,
+   "blocks": [
+    {
+     "t": "subhead",
+     "text": "1. Câu phân đoạn giao tiếp (коммуникативно-расчленённые предложения):"
+    },
+    {
+     "t": "para",
+     "text": "а) trong câu phân đoạn giao tiếp, тема được diễn đạt bằng nhóm chủ ngữ, рема — bằng nhóm vị ngữ;\nб) trong lời nói trung lập về phong cách, ở câu phân đoạn giao tiếp тема đứng trước рема: Студе́нты тре́тьего ку́рса / уе́хали на пра́ктику (Sinh viên năm ba / đã đi thực tập); Жи́тели го́рода / при́няли уча́стие в вы́борах (Cư dân thành phố / đã tham gia bầu cử); Дождь / прекрати́лся (Mưa / đã tạnh)."
+    },
+    {
+     "t": "note",
+     "text": "Trật tự từ trung lập gắn với mức độ phụ thuộc thấp nhất của câu vào những câu đứng cạnh hoặc liên quan với nó về nghĩa."
+    },
+    {
+     "t": "subhead",
+     "text": "2. Câu không phân đoạn giao tiếp (коммуникативно-нерасчленённые предложения):"
+    },
+    {
+     "t": "para",
+     "text": "а) trong câu không phân đoạn giao tiếp chỉ có рема, trong thành phần của рема gồm cả chủ ngữ và vị ngữ;\nб) trong lời nói trung lập về phong cách, ở câu không phân đoạn giao tiếp vị ngữ đứng trước chủ ngữ: Начала́сь гроза́ (Cơn dông đã nổi); Ме́дленно дви́жется парохо́д (Con tàu thuỷ chầm chậm trôi); Ту́скло све́тит поло́ска зари́ (Vệt ráng bình minh hắt ánh sáng mờ nhạt)."
+    },
+    {
+     "t": "subhead",
+     "text": "3. Vị trí của các определитель chung — детерминант trong câu:"
+    },
+    {
+     "t": "note",
+     "text": "ДЕТЕРМИНА́НТ [đọc: дэтэрм’ина́нт] là từ mang ý nghĩa trạng ngữ hoặc chủ thể, có quan hệ với TOÀN BỘ câu. Детерминант trạng ngữ chỉ nơi chốn, thời gian hoặc hoàn cảnh diễn ra sự việc được miêu tả; детерминант chủ thể — được diễn đạt bằng danh từ hoặc đại từ ở cách gián tiếp — chỉ chủ thể của hành động hay người mang trạng thái."
+    },
+    {
+     "t": "para",
+     "text": "а) детерминант thường đứng trước тема và рема, tức là đứng đầu câu phân đoạn giao tiếp hoặc câu không phân đoạn giao tiếp: В середи́не дня уста́лые тури́сты / подошли́ к подно́жью горы́ (Giữa trưa, đoàn du khách mệt mỏi / đã tới chân núi); В университе́те гото́вились к приёму вступи́тельных экза́менов (Ở trường đại học, người ta chuẩn bị cho kỳ thi tuyển sinh); На у́лице бы́стро темне́ло (Ngoài trời tối sập xuống rất nhanh); У него́ мно́го друзе́й (Anh ấy có nhiều bạn); Де́тям ста́ло стра́шно (Bọn trẻ thấy sợ);"
+    },
+    {
+     "t": "para",
+     "text": "б) khi trong câu có cả детерминант trạng ngữ lẫn детерминант chủ thể, vị trí trung lập là детерминант trạng ngữ đứng đầu: С э́той но́чи в нём произошёл душе́вный надло́м (Từ đêm ấy, trong anh diễn ra một sự suy sụp tinh thần); В э́том го́роде у на́ших друзе́й бы́ли ро́дственники (Ở thành phố này, các bạn chúng tôi có họ hàng);"
+    },
+    {
+     "t": "para",
+     "text": "в) khi trong câu có nhiều детерминант trạng ngữ, vị trí trung lập là детерминант mang ý nghĩa thời gian đứng đầu: Через мину́ту и́з-за гор показа́лось со́лнце (Một phút sau, mặt trời ló ra từ sau rặng núi);"
+    },
+    {
+     "t": "para",
+     "text": "г) khi trong câu có hai детерминант nơi chốn hoặc hai детерминант thời gian, từ có ý nghĩa khái quát hơn được đặt lên trước: В сле́дующем году́ в ма́е он око́нчит шко́лу (Sang năm, vào tháng Năm, cậu ấy sẽ tốt nghiệp phổ thông); В на́шем го́роде о́коло ста́нции метро́ «Озерки́» постро́или но́вый торго́во-развлека́тельный центр (Ở thành phố chúng tôi, cạnh ga tàu điện ngầm «Ozerki», người ta đã xây một trung tâm thương mại–giải trí mới)."
+    }
+   ]
+  },
+  {
+   "id": "gra-22-s003",
+   "type": "exercise",
+   "title": "Упражнение 330",
+   "num": 330,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy đọc các câu. Chú ý vị trí của chủ ngữ và vị ngữ trong đó tuỳ thuộc vào phân đoạn thực tại của câu."
+    },
+    {
+     "t": "para",
+     "text": "Ngữ liệu của bài 330 chính là phần lý thuyết «Vị trí của chủ ngữ và vị ngữ trong lời nói trung lập về phong cách» trình bày ở mục ngay trên: các nhóm quy tắc 1–3 cùng toàn bộ ví dụ minh hoạ."
+    }
+   ]
+  },
+  {
+   "id": "gra-22-s004",
+   "type": "exercise",
+   "title": "Упражнение 331",
+   "num": 331,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy đọc các câu và đoạn văn sau. Hãy chỉ ra trong đó nhóm chủ ngữ, nhóm vị ngữ và các детерминант. Xác định đâu là тема, đâu là рема."
+    },
+    {
+     "t": "note",
+     "text": "Từ ngữ cảnh hoặc từ tình huống giao tiếp, người nghe (người đọc) có thể hình dung trước văn bản sẽ nói về điều gì. Trong trường hợp đó, câu đầu tiên sẽ chứa không chỉ thông tin mới (рема) mà cả тема."
+    },
+    {
+     "t": "para",
+     "text": "а) 1. Зако́нчились заня́тия в университе́те. Студе́нты на́чали гото́виться к зачётам и экза́менам. В ию́ле у них начну́тся кани́кулы. (Việc học ở trường đại học đã kết thúc. Sinh viên bắt đầu chuẩn bị cho các kỳ thi học trình và thi học kỳ. Tháng Bảy, kỳ nghỉ của họ sẽ bắt đầu.); 2. В э́том году́ мы реши́ли отдохну́ть в Крыму́. На берегу́ Чёрного мо́ря располо́жено мно́го санато́риев и домо́в о́тдыха. Ка́ждый из них предлага́ет тури́стам ую́тные номера́, интере́сную програ́мму для о́тдыха, тренажёрные за́лы, бассе́йны. (Năm nay chúng tôi quyết định đi nghỉ ở Krym. Trên bờ Biển Đen có nhiều viện điều dưỡng và nhà nghỉ. Mỗi nơi đều dành cho du khách những căn phòng ấm cúng, chương trình nghỉ dưỡng thú vị, phòng tập thể hình, bể bơi.); 3. Всю ночь шёл дождь. Кру́пные тяжёлые ка́пли бараба́нили по кры́ше, меша́ли спать. Наконе́ц к утру́ пого́да проясни́лась. Вы́глянуло со́лнце. Его́ лучи́ освети́ли доро́жки са́да, пе́рвые весе́нние цветы́, листву́ на дере́вьях. (Mưa rơi suốt đêm. Những giọt mưa to nặng gõ lộp độp trên mái nhà, không cho ngủ. Cuối cùng, gần sáng trời quang trở lại. Mặt trời ló ra. Tia nắng chiếu sáng các lối đi trong vườn, những bông hoa xuân đầu tiên, vòm lá trên cây.); 4. Спра́вочная слу́жба аэропо́рта рабо́тает круглосу́точно. В око́шке но́мер три пассажи́ры мо́гут получи́ть информа́цию о вре́мени вы́лета и прибы́тия самолётов, пра́вилах оформле́ния багажа́ и заполне́ния тамо́женных деклара́ций. На́ши сотру́дники отве́тят на все вопро́сы, помо́гут сде́лать ва́ше путеше́ствие прия́тным. (Bộ phận chỉ dẫn của sân bay làm việc suốt ngày đêm. Tại ô cửa số ba, hành khách có thể nhận thông tin về giờ cất cánh và hạ cánh của các chuyến bay, quy định làm thủ tục hành lý và khai tờ khai hải quan. Nhân viên của chúng tôi sẽ giải đáp mọi câu hỏi, giúp chuyến đi của quý khách được dễ chịu.)"
+    },
+    {
+     "t": "para",
+     "text": "б) 1. МАТЕМА́ТИКА — нау́ка о коли́чественных отноше́ниях и простра́нственных фо́рмах действи́тельного ми́ра. Существу́ют соверше́нно ины́е и весьма́ разнообра́зные тракто́вки предме́та матема́тики и её ме́тода. Сло́во «матема́тика» произошло́ от гре́ческого сло́ва, означа́ющего «нау́ка, зна́ние, изуче́ние», и гре́ческого сло́ва, означа́ющего «любо́вь к позна́нию». (TOÁN HỌC là khoa học về các quan hệ số lượng và các hình thức không gian của thế giới hiện thực. Tồn tại những cách hiểu hoàn toàn khác và rất đa dạng về đối tượng của toán học và phương pháp của nó. Từ «математика» bắt nguồn từ một từ Hy Lạp có nghĩa là «khoa học, tri thức, sự học hỏi», và một từ Hy Lạp có nghĩa là «lòng ham hiểu biết».)"
+    },
+    {
+     "t": "para",
+     "text": "2. БИОЛО́ГИЯ — нау́ка о жи́зни, включа́ющая все зна́ния о приро́де, структу́ре, фу́нкциях и поведе́нии живы́х суще́ств. Биоло́гия име́ет де́ло не то́лько с вели́ким мно́жеством форм разли́чных органи́змов, но та́кже с их эволю́цией, разви́тием и с те́ми отноше́ниями, кото́рые скла́дываются ме́жду ни́ми и окружа́ющей средо́й. Биологи́ческие нау́ки мо́жно классифици́ровать ра́зными спо́собами. Е́сли исходи́ть из ти́па изуча́емых органи́змов, то двумя́ гла́вными катего́риями бу́дут бота́ника, изуча́ющая представи́телей ца́рства расте́ний, и зооло́гия, име́ющая де́ло с ца́рством живо́тных. Существу́ют и бо́лее ме́лкие подразделе́ния. Так, наприме́р, ихтиоло́гия изуча́ет рыб, орнитоло́гия — птиц, миколо́гия — грибы́ и т. д. Други́е о́бласти биоло́гии — э́то анато́мия, физиоло́гия и эмбриоло́гия, иссле́дующие, соотве́тственно, структу́ру, функциони́рование и разви́тие це́лого органи́зма и́ли како́й-либо его́ ча́сти. В свою́ о́чередь, в преде́лах э́тих нау́к мо́жно вы́делить специализа́ции, свя́занные с ти́пом изуча́емых органи́змов; приме́ры тому́ — физиоло́гия живо́тных, физиоло́гия расте́ний, физиоло́гия челове́ка и́ли паразитоло́гия, объе́ктом кото́рой слу́жат органи́змы, живу́щие внутри́ други́х органи́змов и испо́льзующие их в ка́честве исто́чника пи́щи. (SINH HỌC là khoa học về sự sống, bao gồm toàn bộ tri thức về bản chất tự nhiên, cấu trúc, chức năng và tập tính của các sinh thể. Sinh học không chỉ làm việc với vô vàn dạng sinh vật khác nhau, mà còn với sự tiến hoá, sự phát triển của chúng và những mối quan hệ hình thành giữa chúng với môi trường xung quanh. Có thể phân loại các khoa học sinh học theo nhiều cách. Nếu xuất phát từ kiểu sinh vật được nghiên cứu, hai phạm trù chính sẽ là thực vật học — nghiên cứu các đại diện của giới thực vật, và động vật học — làm việc với giới động vật. Còn có những phân ngành nhỏ hơn: chẳng hạn, ngư loại học nghiên cứu cá, điểu học — chim, nấm học — nấm, v.v. Các lĩnh vực khác của sinh học là giải phẫu học, sinh lý học và phôi học, nghiên cứu tương ứng cấu trúc, hoạt động chức năng và sự phát triển của cơ thể trọn vẹn hoặc một bộ phận nào đó của nó. Đến lượt mình, trong phạm vi các khoa học này có thể tách ra những chuyên ngành gắn với kiểu sinh vật được nghiên cứu; ví dụ: sinh lý học động vật, sinh lý học thực vật, sinh lý học người, hay ký sinh trùng học — với đối tượng là những sinh vật sống bên trong sinh vật khác và dùng chúng làm nguồn thức ăn.)"
+    },
+    {
+     "t": "para",
+     "text": "3. КОГНИТИ́ВНОЙ ЛИНГВИ́СТИКОЙ называ́ется наибо́лее распространённое (осо́бенно в Евро́пе) направле́ние лингвисти́ческих иссле́дований, сложи́вшееся во второ́й полови́не 1970-х годо́в. В США, где э́то направле́ние зароди́лось, его́ ча́ще называ́ют «когнити́вная грамма́тика», что объясня́ется расшири́тельным понима́нием те́рмина «грамма́тика» в англоязы́чной лингви́стике, тогда́ как в Росси́и нере́дко испо́льзуется те́рмин «когнити́вная сема́нтика», ука́зывающий на оди́н из исто́чников да́нного иссле́довательского начина́ния. Гла́вная отличи́тельная черта́ когнити́вной лингви́стики в её совреме́нном ви́де заключа́ется не в постули́ровании в ра́мках нау́ки о языке́ но́вого предме́та иссле́дования и да́же не во введе́нии в иссле́довательский обихо́д но́вого инструмента́рия и/и́ли процеду́р, а в чи́сто методологи́ческом измене́нии познава́тельных устано́вок (эври́стик). (NGÔN NGỮ HỌC TRI NHẬN là tên gọi của khuynh hướng nghiên cứu ngôn ngữ học phổ biến nhất (nhất là ở châu Âu), hình thành vào nửa sau thập niên 1970. Ở Mỹ, nơi khuynh hướng này ra đời, người ta thường gọi nó là «ngữ pháp tri nhận» — điều này được giải thích bằng cách hiểu mở rộng thuật ngữ «ngữ pháp» trong ngôn ngữ học Anh ngữ; trong khi đó ở Nga, người ta hay dùng thuật ngữ «ngữ nghĩa học tri nhận», chỉ ra một trong những cội nguồn của hướng nghiên cứu này. Nét khác biệt chủ yếu của ngôn ngữ học tri nhận ở dạng hiện nay không nằm ở việc đặt ra trong khoa học về ngôn ngữ một đối tượng nghiên cứu mới, thậm chí cũng không ở việc đưa vào nghiên cứu bộ công cụ và/hoặc các quy trình mới, mà ở sự thay đổi thuần tuý phương pháp luận của các định hướng nhận thức (heuristic).)"
+    },
+    {
+     "t": "para",
+     "text": "4. ЛЕКСИКОЛО́ГИЯ (от lexis — «сло́во, выраже́ние», logos — «уче́ние») — нау́ка о сло́ве; э́то разде́л языкозна́ния, изуча́ющий слова́рный соста́в языка́, и́ли ле́ксику. Лексиколо́гия де́лится на о́бщую и ча́стную. Ча́стная лексиколо́гия изуча́ет лекси́ческий соста́в како́го-либо конкре́тного языка́. В лексиколо́гии рассма́триваются: сло́во и его́ значе́ние; систе́ма взаимоотноше́ний слов; исто́рия формирова́ния совреме́нной ле́ксики; функциона́льно-стилево́е разли́чие слов в ра́зных сфе́рах ре́чи. Объе́ктом изуче́ния явля́ется сло́во. Оно́ изуча́ется та́кже в морфоло́гии и словообразова́нии. Одна́ко е́сли в них слова́ ока́зываются сре́дством для изуче́ния граммати́ческого стро́я и словообразова́тельных моде́лей и пра́вил языка́, то в лексиколо́гии слова́ изуча́ются для позна́ния сами́х слов, а та́кже слова́рного соста́ва языка́ (ле́ксики). Так как ле́ксика явля́ется не про́сто су́ммой слов, а определённой систе́мой взаимосвя́занных фа́ктов, то лексиколо́гия предстаёт как нау́ка не об отде́льных слова́х, а о лекси́ческой систе́ме языка́ в це́лом. (TỪ VỰNG HỌC (từ lexis — «từ, ngữ», logos — «học thuyết») là khoa học về từ; đó là phân ngành ngôn ngữ học nghiên cứu vốn từ của ngôn ngữ, tức từ vựng. Từ vựng học chia thành đại cương và chuyên biệt. Từ vựng học chuyên biệt nghiên cứu thành phần từ vựng của một ngôn ngữ cụ thể nào đó. Từ vựng học xem xét: từ và nghĩa của từ; hệ thống các mối quan hệ giữa các từ; lịch sử hình thành vốn từ hiện đại; sự khác biệt chức năng–phong cách của từ trong các lĩnh vực lời nói khác nhau. Đối tượng nghiên cứu là từ. Từ cũng được nghiên cứu trong hình thái học và cấu tạo từ. Nhưng nếu ở đó từ là phương tiện để nghiên cứu cấu trúc ngữ pháp, các mô hình và quy tắc cấu tạo từ của ngôn ngữ, thì trong từ vựng học, từ được nghiên cứu để nhận thức chính bản thân từ, cũng như vốn từ của ngôn ngữ (từ vựng). Vì từ vựng không đơn thuần là tổng số các từ, mà là một hệ thống nhất định gồm những sự kiện liên hệ lẫn nhau, nên từ vựng học hiện ra như khoa học không phải về các từ riêng lẻ, mà về hệ thống từ vựng của ngôn ngữ trong chỉnh thể.)"
+    }
+   ]
+  },
+  {
+   "id": "gra-22-s005",
+   "type": "exercise",
+   "title": "Упражнение 332",
+   "num": 332,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy bổ sung các câu sau, dùng từ ngữ cho trong ngoặc làm детерминант hoặc làm thành phần phụ của câu. Giải thích lựa chọn của bạn. Sau đó xác định các câu thu được thuộc loại nào — phân đoạn giao tiếp hay không phân đoạn giao tiếp — và các thành phần phụ mà bạn vừa thêm vào thực hiện chức năng gì."
+    },
+    {
+     "t": "note",
+     "text": "Các thành phần phụ của câu (định ngữ, trạng ngữ, bổ ngữ) mở rộng (làm rõ) thông tin được các thành phần khác diễn đạt: Река́ в э́том ме́сте де́лала круто́й поворо́т (Con sông ở chỗ này ngoặt một khúc gấp) (де́лала поворо́т где? — в э́том ме́сте: ngoặt ở đâu? — ở chỗ này). Mục đích chính của người nói là thông báo việc con sông ngoặt gấp; thông tin в э́том ме́сте là thứ yếu."
+    },
+    {
+     "t": "note",
+     "text": "Ngược lại, детерминант truyền đạt thông tin trọng yếu về nguyên tắc. So sánh: В э́том ме́сте река́ де́лала круто́й поворо́т (Ở chỗ này, con sông ngoặt một khúc gấp). Mục đích chính của người nói không chỉ là thông báo việc con sông ngoặt gấp, mà còn lưu ý rằng điều đó diễn ra chính Ở CHỖ NÀY."
+    },
+    {
+     "t": "para",
+     "text": "1. Ему́ сни́лся необы́чный сон. — Сны ча́сто быва́ют разноцве́тными (в де́тстве) (Anh ấy mơ thấy một giấc mơ khác thường. — Những giấc mơ thường có nhiều màu sắc (thuở nhỏ)); 2. Его́ настрое́ние суще́ственно улу́чшилось. — Он при́нял оконча́тельное реше́ние (по́сле разгово́ра по телефо́ну) (Tâm trạng anh ấy khá hẳn lên. — Anh ấy đã đưa ra quyết định cuối cùng (sau cuộc nói chuyện điện thoại)); 3. Учи́ться ему́ помога́ли однокла́ссники. — Он учи́лся на «хорошо́» и «отли́чно» (в шко́ле) (Các bạn cùng lớp giúp cậu ấy học. — Cậu ấy học toàn đạt «khá» và «giỏi» (hồi ở trường phổ thông)); 4. Мы смо́жем встре́титься. — Пого́да заме́тно улу́чшилась (по́сле обе́да) (Chúng ta sẽ có thể gặp nhau. — Thời tiết đã khá lên rõ rệt (sau bữa trưa)); 5. В лесу́ живо́тным и пти́цам прихо́дится тру́дно. — Прогу́лки доставля́ли ему́ осо́бое удово́льствие (зимо́й) (Trong rừng, muông thú và chim chóc sống chật vật. — Những cuộc dạo chơi đem lại cho anh ấy niềm thích thú đặc biệt (vào mùa đông)); 6. Собы́тия после́дних дней предста́ли в своём и́стинном значе́нии. — Мно́гое к э́тому вре́мени проясни́лось (в его́ созна́нии) (Các sự kiện những ngày gần đây hiện ra đúng ý nghĩa thật của chúng. — Đến lúc ấy, nhiều điều đã sáng tỏ (trong nhận thức của anh ấy)); 7. На небольшо́м уча́стке был разби́т сад. — Дере́вья давно́ уже́ пожелте́ли (перед до́мом) (Trên mảnh đất nhỏ, người ta trồng một khu vườn. — Cây cối đã úa vàng từ lâu (trước nhà)); 8. Все о́кна бы́ли откры́ты. — На подоко́ннике лежа́л том собра́ния сочине́ний Пу́шкина (в ко́мнате) (Mọi cửa sổ đều mở. — Trên bậu cửa sổ đặt một tập trong tuyển tập tác phẩm Pushkin (trong phòng)); 9. Здесь не так жа́рко. — На́до испо́льзовать ре́дкие со́лнечные дни (в э́то вре́мя го́да) (Ở đây không nóng đến thế. — Cần tận dụng những ngày nắng hiếm hoi (vào thời gian này trong năm)); 10. В Москве́ ожида́ются ли́вни с гро́зами. — Пра́здник выпускнико́в «А́лые паруса́» начнётся на Дворцо́вой пло́щади (за́втра) (Ở Moskva dự báo có mưa rào kèm dông. — Ngày hội học sinh tốt nghiệp «Cánh buồm đỏ thắm» sẽ khai mạc trên quảng trường Cung điện (ngày mai)); 11. Вдоль пля́жа прогу́ливались одино́кие па́ры. — Ве́тер гнал жёлтые ли́стья (по на́бережной) (Dọc bãi tắm, những cặp đôi lẻ loi tản bộ. — Gió cuốn những chiếc lá vàng (dọc bờ kè)); 12. Обще́ственный тра́нспорт рабо́тает до двена́дцати часо́в но́чи. — Начали́сь беспоря́дки (в го́роде) (Giao thông công cộng hoạt động đến mười hai giờ đêm. — Bạo loạn đã nổ ra (trong thành phố)); 13. Мы хорошо́ отдохну́ли и набрали́сь сил. — Персона́л всегда́ зара́нее гото́вится к приёму отдыха́ющих (в санато́рии) (Chúng tôi đã nghỉ ngơi thoải mái và lấy lại sức. — Đội ngũ nhân viên luôn chuẩn bị từ trước để đón khách nghỉ dưỡng (ở viện điều dưỡng)); 14. Облака́ за́мерли. — Не́ было ни о́блачка (на не́бе) (Những đám mây như ngừng trôi. — Không một gợn mây (trên bầu trời)); 15. С шу́мом и кри́ком бе́гали первокла́ссники. — Звук их шаго́в гу́лко разноси́лся (по коридо́рам шко́лы) (Đám học sinh lớp một chạy nhảy ồn ào, la hét. — Tiếng bước chân các em vang dội (dọc các hành lang trường)); 16. Ава́рия произошла́. — Откры́лось но́вое кафе́ (на пересече́нии Не́вского проспе́кта и у́лицы Восста́ния) (Tai nạn đã xảy ra. — Một quán cà phê mới khai trương (tại giao lộ đại lộ Nevsky và phố Vosstaniya)); 17. Веду́щие выбира́ют актуа́льную те́му из обще́ственно-полити́ческой жи́зни о́бщества и представля́ют её в фо́рме диску́ссии. — В прови́нции Хэйлунцзя́н прошло́ че́ствование восьмеры́х спортсме́нов (в телевизио́нной сту́дии) (Những người dẫn chương trình chọn một đề tài thời sự trong đời sống chính trị–xã hội và trình bày nó dưới hình thức thảo luận. — Tại tỉnh Hắc Long Giang đã diễn ra lễ tôn vinh tám vận động viên (trong trường quay truyền hình))."
+    }
+   ]
+  },
+  {
+   "id": "gra-22-s006",
+   "type": "exercise",
+   "title": "Упражнение 333",
+   "num": 333,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy mở ngoặc, đặt các từ ngữ cho trong ngoặc theo trật tự đúng. Giải thích lựa chọn của bạn."
+    },
+    {
+     "t": "para",
+     "text": "1. Саади́, настоя́щее и́мя Муслихадди́н Абу́ Мухамме́д Абдалла́х (ме́жду 1203 и 1210–1292), перси́дский писа́тель и мысли́тель. (Сло́жные религио́зные, филосо́фские и эти́ческие вопро́сы; поднима́л; в ли́рике, посла́ниях-поуче́ниях, при́тчах; Саади́.) Всеми́рно изве́стны газе́ли Саади́ (в том числе́ любо́вный цикл «Тарджиба́нд»), э́тико-дидакти́ческая поэ́ма «Буста́н» (1256–1257) и сбо́рник притч в про́зе и стиха́х «Гулиста́н» (1258), охва́тывающие разнообра́зные сто́роны действи́тельности и ко́декса мора́ли а́втора и воспева́ющие душе́вную красоту́ челове́ка. (Saadi, tên thật là Muslihaddin Abu Muhammed Abdallah (sinh giữa 1203 và 1210 — mất 1292), nhà văn và nhà tư tưởng Ba Tư. (Cần xếp lại: Trong thơ trữ tình, các thư–giáo huấn và ngụ ngôn, Saadi đã nêu lên những vấn đề tôn giáo, triết học và đạo đức phức tạp.) Nổi tiếng khắp thế giới là những bài ghazal của Saadi (trong đó có chùm thơ tình «Tarjiband»), trường ca đạo đức–giáo huấn «Bustan» (1256–1257) và tập ngụ ngôn bằng văn xuôi và thơ «Gulistan» (1258), bao quát nhiều mặt của hiện thực cùng chuẩn mực đạo đức của tác giả và ngợi ca vẻ đẹp tâm hồn con người.)"
+    },
+    {
+     "t": "para",
+     "text": "2. Белгра́д (серб. Београ́д) — столи́ца Се́рбии с населе́нием в 1 273 651 челове́к (2002). Исто́ки го́рода восхо́дят к эпо́хе ке́льтов, кото́рые основа́ли на ме́сте слия́ния рек Са́ва и Дуна́й своё поселе́ние Сингиду́нум. (Белгра́д; в бу́рном про́шлом; 40 а́рмий; завоёвывало.) 38 раз он был отстро́ен за́ново из пе́пла. Дре́вние сте́ны го́рода повида́ли ке́льтов и ри́млян, го́тов и фра́нков, славя́н и ту́рков. Белгра́д — столи́ца се́рбской культу́ры, образова́ния и нау́ки. (Наибо́льшее число́ учрежде́ний национа́льного значе́ния в о́бласти нау́ки и иску́сства; сконцентри́ровано; в го́роде.) Здесь располо́жены Се́рбская акаде́мия нау́к и иску́сств, осно́ванная в 1886 году́ как Се́рбская короле́вская акаде́мия; Национа́льная библиоте́ка Се́рбии, появи́вшаяся в 1832 году́; Национа́льный музе́й, учреждённый в 1841 году́; Национа́льный теа́тр, осно́ванный в 1869 году́. В го́роде нахо́дится Белгра́дский университе́т, со́зданный в 1808 году́ как Вели́кая шко́ла, и Университе́т. (В Белгра́де; ко́нкурс «Еврови́дение»; прошёл; В 2008 году́.) (Belgrade (tiếng Serbia: Beograd) — thủ đô Serbia với dân số 1 273 651 người (2002). Cội nguồn thành phố bắt nguồn từ thời người Celt — những người đã lập nên khu định cư Singidunum của mình tại nơi hợp lưu hai con sông Sava và Donau. (Cần xếp lại: Trong quá khứ bão tố, 40 đạo quân đã từng chinh phục Belgrade.) 38 lần thành phố được dựng lại từ tro tàn. Những bức tường cổ của thành phố từng chứng kiến người Celt và người La Mã, người Goth và người Frank, người Slav và người Thổ. Belgrade là thủ đô của văn hoá, giáo dục và khoa học Serbia. (Cần xếp lại: Trong thành phố tập trung số lượng lớn nhất các cơ quan tầm quốc gia trong lĩnh vực khoa học và nghệ thuật.) Tại đây có Viện hàn lâm Khoa học và Nghệ thuật Serbia, thành lập năm 1886 với tên gọi Viện hàn lâm Hoàng gia Serbia; Thư viện Quốc gia Serbia, ra đời năm 1832; Bảo tàng Quốc gia, thiết lập năm 1841; Nhà hát Quốc gia, thành lập năm 1869. Trong thành phố có Đại học Belgrade, được lập năm 1808 với tên Trường Lớn, và một trường đại học nữa. (Cần xếp lại: Năm 2008, tại Belgrade đã diễn ra cuộc thi «Eurovision».))"
+    },
+    {
+     "t": "para",
+     "text": "3. Маньери́зм — фо́рма иску́сства, кото́рая предлага́ет восприни́мать мир как соедине́ние зага́дочных и я́сных явле́ний. Она́ объявля́ет относи́тельным противоре́чие ме́жду теле́сным и духо́вным, приро́дой и челове́ком, признаёт сосе́дство нау́ки и оккульти́зма. Маньери́зм появи́лся в эпо́ху по́зднего Возрожде́ния с его́ социа́льной, мора́льной и религио́зной неусто́йчивостью. (Взволно́ванность и боле́зненность чу́вства а́втора и персона́жа; явля́ется; гла́вным элеме́нтом в сти́ле маньери́зма.) (Удлинённость фигу́р, напряжённость поз, необы́чные и́ли причу́дливые эффе́кты, свя́занные с разме́рами, освеще́нием и́ли перспекти́вой, и я́ркие цвета́; для маньери́зма характе́рны.) (Trường phái Kiểu cách (Mannerism) — hình thức nghệ thuật đề nghị cảm nhận thế giới như sự kết hợp của những hiện tượng bí ẩn và sáng rõ. Nó tuyên bố mâu thuẫn giữa thể xác và tinh thần, giữa tự nhiên và con người chỉ là tương đối, thừa nhận sự kề cận giữa khoa học và thuật huyền bí. Mannerism xuất hiện vào thời Hậu Phục hưng với những bất ổn xã hội, đạo đức và tôn giáo của thời đó. (Cần xếp lại: Sự xao động và tính bệnh tật trong cảm xúc của tác giả và nhân vật là yếu tố chính trong phong cách mannerism.) (Cần xếp lại: Đặc trưng của mannerism là những hình thể kéo dài, những tư thế căng thẳng, những hiệu ứng khác thường hay kỳ quặc về kích thước, ánh sáng hoặc phối cảnh, và những màu sắc chói rực.))"
+    }
+   ]
+  },
+  {
+   "id": "gra-22-s007",
+   "type": "exercise",
+   "title": "Упражнение 334",
+   "num": 334,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy mở ngoặc, đặt các từ ngữ cho trong ngoặc theo trật tự đúng. Giải thích lựa chọn của bạn."
+    },
+    {
+     "t": "para",
+     "text": "а) 1. (К ве́черу; В тот день) подня́лся ве́тер (В. Мака́нин) (Hôm ấy, về chiều, gió nổi lên (V. Makanin)); 2. (Ве́чером; В райо́нном клу́бе комсомо́ла) собрали́сь молоды́е учёные, инжене́ры, лётчики, врачи́, педаго́ги, арти́сты и знамени́тые рабо́чие но́вых заво́дов (А. Плато́нов) (Buổi tối, tại câu lạc bộ Komsomol của quận, các nhà khoa học trẻ, kỹ sư, phi công, bác sĩ, nhà giáo, nghệ sĩ và những công nhân nổi tiếng của các nhà máy mới đã tụ họp (A. Platonov)); 3. (За Воло́диной спино́й; На ку́хне) повара́ тя́пками отбива́ли мя́со, вку́сно па́хло жа́реным лу́ком, буфе́тчица на подно́се понесла́ запоте́вшие буты́лки ру́сского «Жигулёвского» пи́ва (Ю. Ге́рман) (Sau lưng Volodya, trong gian bếp, các đầu bếp dùng dao bản to dần thịt, mùi hành phi thơm nức, chị nhân viên quầy bưng trên khay những chai bia Nga «Zhigulyovskoe» lạnh đẫm hơi nước (Yu. German)); 4. (Спозара́нку; В э́то у́тро) вы́нырнуло из мо́крых туч неожи́данно горя́чее для осе́нней поры́ со́лнце, поду́л ро́вный, тёплый, чи́стый ветеро́к (Ю. Ге́рман) (Sáng hôm ấy, từ tinh mơ, mặt trời — nóng đến bất ngờ so với tiết thu — ló ra khỏi những đám mây ướt sũng, một làn gió đều đặn, ấm áp, trong lành thổi lên (Yu. German)); 5. (Сквозь просе́янные вре́менем поселко́вские собы́тия; Через го́д-полтора́; В одно́м из пи́сем отту́да; В вя́лом письме́) к Гео́ргию дошла́ весть и об Ахты́нском (В. Мака́нин) (Một năm — năm rưỡi sau, xuyên qua những sự kiện thị trấn đã được thời gian sàng lọc, trong một bức thư từ nơi ấy — một bức thư uể oải — tin về Akhtynsky cũng đến được với Georgy (V. Makanin))."
+    },
+    {
+     "t": "para",
+     "text": "б) 1. (За доли́ной; В едва́ различи́мой дали́) бугри́лись бурова́тые холмы́, в ры́жих пя́тнах леса́, как в подтёках, а уж за ни́ми, бу́дто возника́я пря́мо из во́здуха, сверка́ли ледяны́ми верши́нами гла́вные Кавка́зские го́ры (Phía bên kia thung lũng, trong khoảng xa mờ khó nhận ra, lô nhô những quả đồi nâu nâu loang lổ những vạt rừng hung đỏ như những vệt ố, còn xa hơn nữa, như hiện thẳng lên từ không trung, dãy núi chính Kavkaz lấp lánh những đỉnh băng); 2. (Впра́во; До горизо́нта; От желе́зной доро́ги) открыва́лась просто́рная в у́тренней ды́мке доли́на в квадра́тах зелёных поле́й с цепо́чками дере́вьев вдоль не ви́димых отсю́да просёлков и бе́лых, вкраплённых в э́ту зе́лень до́миков, а мо́жет, и це́лых селе́ний (А. Приста́вкин) (Về phía phải, từ tuyến đường sắt trải dài đến tận chân trời một thung lũng mênh mông trong màn sương sớm, với những ô vuông đồng ruộng xanh, những hàng cây men theo các con đường làng khuất tầm mắt, và những ngôi nhà nhỏ trắng — mà có khi cả những xóm làng — điểm xuyết trên nền xanh ấy (A. Pristavkin))."
+    },
+    {
+     "t": "para",
+     "text": "в) 1. (В пя́тницу; То есть на друго́й день по́сле прокля́того сеа́нса; У́тром) весь нали́чный соста́в слу́жащих варьете́: бухга́лтер Васи́лий Степа́нович Ла́сточкин, два счетово́да, три машини́стки, о́бе касси́рши, курье́ры, капельди́неры и убо́рщицы, — сло́вом, все, кто был в нали́чности, не находи́лись при де́ле на свои́х места́х, а все сиде́ли на подоко́нниках о́кон, выходя́щих на Садо́вую, и смотре́ли на то, что де́лается под стено́ю варьете́. (В два ряда́; Под э́той стено́й) лепи́лась многоты́сячная о́чередь, хвост кото́рой находи́лся на Ку́дринской пло́щади (Sáng thứ Sáu, tức là hôm sau cái buổi diễn đáng nguyền rủa ấy, toàn bộ nhân viên hiện có của nhà hát tạp kỹ: kế toán trưởng Vasily Stepanovich Lastochkin, hai nhân viên sổ sách, ba cô đánh máy, cả hai cô thủ quỹ, các nhân viên chạy việc, nhân viên soát vé và các chị lao công — tóm lại, tất cả những ai có mặt — đều không ngồi làm việc tại chỗ của mình, mà cùng ngồi cả trên những bậu cửa sổ trông ra phố Sadovaya, nhìn xem chuyện gì đang diễn ra dưới chân tường nhà hát. Dưới bức tường ấy, dòng người xếp hàng hàng nghìn người nép thành hai dãy, mà cái đuôi của nó kéo đến tận quảng trường Kudrinskaya); 2. (Одна́жды весно́ю; На Патриа́рших пруда́х; В час небыва́ло жа́ркого зака́та; В Москве́; На Патриа́рших пруда́х) появи́лись два граждани́на (М. Булга́ков) (Một ngày mùa xuân, vào giờ hoàng hôn nóng bức chưa từng thấy, ở Moskva, trên hồ Patriarshie, xuất hiện hai người (M. Bulgakov))."
+    }
+   ]
+  },
+  {
+   "id": "gra-22-s008",
+   "type": "exercise",
+   "title": "Упражнение 335",
+   "num": 335,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Từ các từ và cụm từ cho trong ngoặc, hãy lập thành câu. Chú ý trật tự từ và vị trí của các детерминант trạng ngữ và chủ thể."
+    },
+    {
+     "t": "note",
+     "text": "Nếu trong câu có hai детерминант nơi chốn hoặc hai детерминант thời gian, từ mang ý nghĩa khái quát hơn được đặt lên vị trí đầu."
+    },
+    {
+     "t": "para",
+     "text": "1. (В го́роде; В нача́ле октября́; Вы́пал пе́рвый снег) (Đầu tháng Mười, trong thành phố đã rơi tuyết đầu mùa); 2. (Пости́гла неуда́ча; Всю на́шу лаборато́рию; На сле́дующий день) (Hôm sau, cả phòng thí nghiệm của chúng tôi gặp thất bại); 3. (В це́нтре го́рода; Установи́ли огро́мную сце́ну; На Дворцо́вой пло́щади) (Ở trung tâm thành phố, trên quảng trường Cung điện, người ta dựng một sân khấu khổng lồ); 4. (Во вре́мя боле́зни; Ему́ сни́лся; Оди́н и тот же сон) (Trong thời gian ốm, anh ấy cứ mơ đi mơ lại cùng một giấc mơ); 5. (Абитурие́нтам приходи́лось реша́ть; На вступи́тельных экза́менах; Сложне́йшие теорети́ческие зада́чи) (Trong kỳ thi tuyển sinh, các thí sinh phải giải những bài toán lý thuyết cực khó); 6. (На́чали собира́ться зри́тели; К пяти́ часа́м; У вхо́да в кинотеа́тр) (Đến năm giờ, khán giả bắt đầu tụ tập trước lối vào rạp chiếu phim); 7. (Первоку́рсники знако́мятся; В тече́ние го́да; С тради́циями уче́бного заведе́ния) (Trong suốt năm học, sinh viên năm thứ nhất làm quen với truyền thống của trường); 8. (В тече́ние ча́са; По́сле обе́да; Со свое́й соба́кой; Он обы́чно прогу́ливался по бульва́ру) (Sau bữa trưa, anh ấy thường dắt con chó của mình dạo chơi trên đại lộ chừng một tiếng đồng hồ); 9. (У меня́; На сле́дующий день; Иде́я, как реши́ть все на́ши пробле́мы; Появи́лась) (Hôm sau, tôi nảy ra ý tưởng giải quyết mọi vấn đề của chúng ta); 10. (Де́ти; У са́мого бе́рега; На песке́; Игра́ли) (Sát mép nước, trên bãi cát, lũ trẻ chơi đùa); 11. (Пого́да установи́лась; В центра́льных райо́нах Росси́и; По́здней о́сенью; На удивле́ние тёплая) (Cuối thu, ở các vùng trung tâm nước Nga, thời tiết trở nên ấm áp đến lạ); 12. (С включёнными авари́йными сигна́лами; На перекрёстке; Стоя́ла легкова́я маши́на; Под са́мым светофо́ром) (Ở ngã tư, ngay dưới cột đèn giao thông, một chiếc xe con đỗ với đèn báo khẩn cấp đang bật); 13. (На пятна́дцатой страни́це; В журна́ле; Статья́ о поэ́зии А́нны Ахма́товой; Была́ напеча́тана) (Trong tạp chí, ở trang mười lăm, có đăng bài viết về thơ Anna Akhmatova); 14. (В семье́; У мое́й праба́бушки; До войны́; Бы́ло че́тверо дете́й) (Trước chiến tranh, gia đình cụ ngoại tôi có bốn người con)."
+    }
+   ]
+  },
+  {
+   "id": "gra-22-s009",
+   "type": "exercise",
+   "title": "Упражнение 336",
+   "num": 336,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy đọc các câu sau. Chú ý trật tự từ biểu cảm (экспрессивный) được dùng trong đó. Hãy dùng trật tự từ trung lập để cải biến các câu hoặc phần được nhấn mạnh của câu. Giải thích trật tự từ biểu cảm có ý nghĩa chức năng gì trong các câu này."
+    },
+    {
+     "t": "para",
+     "text": "1. Ни еди́ного сло́ва не оброни́ла она́ и на моги́ле сы́на (Ф. Абра́мов) (Ngay cả bên mộ con trai, bà cũng không buông một lời nào (F. Abramov)); 2. Ли́чно я в подо́бных ситуа́циях не испы́тывал раздраже́ния (С. Довла́тов) (Riêng tôi, trong những tình huống như vậy, tôi không thấy bực bội (S. Dovlatov)); 3. У Бра́уна мелькну́ло в глаза́х неизве́стное мне соображе́ние (А. Грин) (Trong mắt Brown thoáng qua một suy tính mà tôi không rõ (A. Grin)); 4. Поли́тика занима́ет нас бо́льше всего́, да ра́зве то́лько нас: стои́т зима́ 1942 го́да, и не́мцы подошли́ к Москве́ (Н. Думба́дзе) (Chính trị là điều khiến chúng tôi bận tâm hơn cả — mà nào phải chỉ chúng tôi: đang là mùa đông năm 1942, và quân Đức đã áp sát Moskva (N. Dumbadze)); 5. Нача́ло самостоя́тельной жи́зни молодо́й Воробья́нинов ознаменова́л блестя́ще организо́ванным кутежо́м с пья́ной стрельбо́й по голубя́м и обла́вой на дереве́нских де́вок. Образова́ние своё он счита́л зако́нченным (И. Ильф, Е. Петро́в) (Chàng Vorobyaninov trẻ tuổi đánh dấu buổi đầu cuộc sống tự lập bằng một trận ăn chơi được tổ chức xuất sắc, với màn bắn bồ câu trong cơn say và cuộc săn lùng các cô gái quê. Học vấn của mình, anh ta coi là đã hoàn tất (I. Ilf, E. Petrov)); 6. Всё, что относи́лось к хозя́йству, занима́ло мою́ мать столь же ма́ло, как е́сли бы она́ жила́ в гости́нице (В. Набо́ков) (Mọi thứ thuộc về việc nhà đều khiến mẹ tôi bận tâm ít ỏi, chẳng khác nào bà đang sống trong khách sạn (V. Nabokov)); 7. Еди́нственным челове́ком, кото́рого я мог бы вовле́чь в интересу́ющий меня́ разгово́р, был Бу́тлер (А. Грин) (Người duy nhất tôi có thể lôi kéo vào câu chuyện mình quan tâm là Butler (A. Grin)); 8. Зима́ в э́том году́ вы́далась лю́тая (Н. Думба́дзе) (Mùa đông năm nay khắc nghiệt hiếm thấy (N. Dumbadze)); 9. По свое́й во́ле и охо́те ре́дко мне прихо́дится е́здить на ро́дину. Всё ча́ще зову́т туда́ на по́хороны и поми́нки (В. Аста́фьев) (Hiếm khi tôi được về quê theo ý muốn và sở nguyện của mình. Càng ngày người ta càng hay gọi tôi về đó dự đám tang và lễ giỗ (V. Astafiev)); 10. Я возгоре́лся жела́нием повида́ть бра́тьев и сестёр, да, что скрыва́ть, и па́пу то́же повида́ть хоте́лось. Рабо́тал па́па деся́тником на дровозагото́вках, в пяти́десяти верста́х от Ига́рки (В. Аста́фьев) (Tôi bừng lên niềm khao khát gặp các anh chị em, và — giấu làm gì — cũng muốn gặp cả cha nữa. Cha tôi làm đội trưởng ở khu khai thác củi, cách Igarka năm mươi dặm Nga (V. Astafiev)); 11. Жи́зней у Бахме́тьева К.Н. бы́ло мно́жество, все ра́зные, но су́ммы они́ не соста́вили, е́сли же нет су́ммы — ра́ди чего́ анализи́ровать ча́стности? (С. Залы́гин) (Cuộc đời của Bakhmetev K.N. thì có vô số, cái nào cũng khác nhau, nhưng chúng không hợp thành một tổng thể; mà nếu không có tổng thể — thì phân tích chi tiết để làm gì? (S. Zalygin)); 12. Всю мирову́ю литерату́ру я разделя́ю на два ти́па — литерату́ра до́ма и литерату́ра бездо́мья. Литерату́ра дости́гнутой гармо́нии и литерату́ра тоски́ по гармо́нии (Ф. Исканде́р) (Toàn bộ văn học thế giới, tôi chia làm hai loại — văn học của mái nhà và văn học của cảnh không nhà. Văn học của sự hài hoà đã đạt được và văn học của nỗi khắc khoải hướng về sự hài hoà (F. Iskander)); 13. В петербу́ргском до́ме была́ у отца́ больша́я библиоте́ка (В. Набо́ков) (Trong ngôi nhà ở Peterburg, cha tôi có một thư viện lớn (V. Nabokov)); 14. Есть, коне́чно, и в Аме́рике не́сколько городо́в, име́ющих своё неповтори́мое лицо́ — Сан-Франци́ско, Нью-Йо́рк, Нью-Орлеа́н и́ли Са́нта-Фе́. И́ми мо́жно восхища́ться, их мо́жно полюби́ть и́ли возненави́деть (И. Ильф, Е. Петро́в) (Tất nhiên, ở Mỹ cũng có vài thành phố mang gương mặt riêng không lặp lại — San Francisco, New York, New Orleans hay Santa Fe. Có thể ngưỡng mộ chúng, có thể đem lòng yêu hoặc căm ghét chúng (I. Ilf, E. Petrov)); 15. Вели́к был и стра́шен год по рождестве́ Христо́вом ты́сяча девятьсо́т восемна́дцатый, от нача́ла же револю́ции второ́й. Был он оби́лен ле́том со́лнцем, а зимо́ю сне́гом, и осо́бенно высоко́ в не́бе стоя́ли две звезды́: звезда́ пасту́шеская — вече́рняя Вене́ра и кра́сный, дрожа́щий Марс (М. Булга́ков) (Vĩ đại và khủng khiếp là cái năm một nghìn chín trăm mười tám sau Thiên Chúa giáng sinh — năm thứ hai kể từ buổi đầu cách mạng. Mùa hè năm ấy thừa thãi nắng, mùa đông thừa thãi tuyết, và hai ngôi sao đứng cao khác thường trên bầu trời: ngôi sao mục đồng — sao Hôm Venus, và sao Hoả đỏ rực, run rẩy (M. Bulgakov))."
+    }
+   ]
+  },
+  {
+   "id": "gra-22-s010",
+   "type": "exercise",
+   "title": "Упражнение 337",
+   "num": 337,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy đọc các câu. Chú ý trật tự từ trực tiếp hoặc biểu cảm được dùng trong đó. Hãy dùng một trong các phương án cho dưới đây để viết tiếp các câu. Giải thích lựa chọn của bạn."
+    },
+    {
+     "t": "note",
+     "text": "Trong một văn bản mạch lạc, mỗi câu tiếp theo phát triển ý chính được truyền đạt ở CUỐI câu đứng trước."
+    },
+    {
+     "t": "note",
+     "text": "Với trật tự từ biểu cảm, việc đưa một thành phần câu lên ĐẦU câu cũng nhằm làm nổi bật ý nghĩa của thành phần đó; xét về sức tác động, cách nhấn mạnh này còn vượt cả cách nhấn mạnh ở cuối câu."
+    },
+    {
+     "t": "para",
+     "text": "а) Мо́ре бы́ло пусты́нно... / Пусты́нно бы́ло мо́ре... (Mặt biển vắng lặng... / Vắng lặng làm sao, mặt biển...)\nCác câu tiếp nối: 1. То́лько вдали́ у са́мого горизо́нта, как клочо́к о́блака, беле́л одино́кий па́рус (Chỉ xa xa, sát đường chân trời, một cánh buồm cô đơn trắng mờ như một mẩu mây); 2. Нигде́ на берегу́ не́ было слы́шно ни плеска́нья вёсел, ни кри́ков беспоко́йных ча́ек (Khắp bờ không đâu nghe thấy tiếng mái chèo khua nước hay tiếng kêu của những con hải âu xao xác)."
+    },
+    {
+     "t": "para",
+     "text": "б) Жа́ркие бы́ли дни... / Дни бы́ли жа́ркие... (Nóng nực thay những ngày ấy... / Những ngày ấy thật nóng nực...)\nCác câu tiếp nối: 1. Цветы́ на клу́мбах в саду́ завя́ли, вся зе́лень пожелте́ла (Hoa trên các bồn trong vườn héo rũ, cây cỏ úa vàng cả); 2. Со́лнце свети́ло день напролёт, на пля́же бы́ло полно́ отдыха́ющих (Mặt trời chiếu suốt cả ngày, bãi tắm đông nghịt người nghỉ)."
+    },
+    {
+     "t": "para",
+     "text": "в) Э́то чу́вство не мо́жет пройти́... / Э́то чу́вство пройти́ не мо́жет... / Пройти́ э́то чу́вство не мо́жет... (Cảm xúc này không thể qua đi...)\nCác câu tiếp nối: 1. Потому́ что челове́к, да́же по со́бственной во́ле, не в состоя́нии заста́вить себя́ переста́ть чу́вствовать (Bởi con người, dù tự nguyện, cũng không thể buộc mình ngừng cảm nhận); 2. С года́ми оно́ всё бо́льше и бо́льше ока́зывает влия́ние на на́ши посту́пки и мы́сли (Theo năm tháng, nó ngày càng ảnh hưởng nhiều hơn đến hành động và suy nghĩ của chúng ta); 3. Да́же спустя́ мно́го лет и́ли десятиле́тий (Thậm chí sau nhiều năm hay nhiều chục năm)."
+    },
+    {
+     "t": "para",
+     "text": "г) Для нас начали́сь тяжёлые дни... / Тяжёлые начали́сь для нас дни... / Дни для нас начали́сь тяжёлые... (Những ngày nặng nề bắt đầu đến với chúng tôi...)\nCác câu tiếp nối: 1. С утра́ до ве́чера приходи́лось рабо́тать в по́ле не поклада́я рук (Từ sáng đến tối phải làm việc ngoài đồng không ngơi tay); 2. Зато́ но́чью мо́жно бы́ло рассла́биться и отдохну́ть (Bù lại, ban đêm có thể thư giãn và nghỉ ngơi); 3. Встава́ли в семь часо́в, бы́стро за́втракали и шли рабо́тать до ве́чера (Chúng tôi dậy lúc bảy giờ, ăn sáng vội vàng rồi đi làm đến tối)."
+    }
+   ]
+  },
+  {
+   "id": "gra-22-s011",
+   "type": "grammar",
+   "title": "Vị trí các thành phần phụ của câu trong lời nói trung lập về phong cách — Lý thuyết",
+   "num": null,
+   "blocks": [
+    {
+     "t": "subhead",
+     "text": "ĐỊNH NGỮ (Определение):"
+    },
+    {
+     "t": "para",
+     "text": "а) định ngữ hoà hợp thường đứng TRƯỚC danh từ được xác định: интере́сная рабо́та (công việc thú vị); ле́тние кани́кулы (kỳ nghỉ hè); ре́зкое замеча́ние (lời nhận xét gay gắt); прочи́танная кни́га (cuốn sách đã đọc);"
+    },
+    {
+     "t": "para",
+     "text": "б) định ngữ không hoà hợp, được diễn đạt bằng danh từ có giới từ, thường đứng SAU danh từ được xác định: заключе́ние специали́ста (kết luận của chuyên gia); за́втрак на траве́ (bữa sáng trên bãi cỏ); игра́ в по́кер (ván bài poker); экза́мены в январе́ (kỳ thi vào tháng Giêng); перепи́ска на расстоя́нии (thư từ qua lại từ xa);"
+    },
+    {
+     "t": "para",
+     "text": "в) khi có nhiều định ngữ hoà hợp:\n1) định ngữ là đại từ đứng trước các định ngữ là từ loại khác: мой далёкий друг (người bạn phương xa của tôi); э́тот торже́ственный ве́чер (buổi dạ hội trọng thể này); на́ши дальне́йшие пла́ны (những kế hoạch tiếp theo của chúng ta); все приглашённые го́сти (tất cả các khách mời);\n2) đại từ hạn định (определительные местоимения) đứng trước các định ngữ khác: ка́ждое его́ сло́во (mỗi lời nói của anh ấy); все на́ши пла́ны (mọi kế hoạch của chúng ta);\n3) định ngữ là tính từ chỉ tính chất đứng trước định ngữ là tính từ chỉ quan hệ: но́вый истори́ческий рома́н (cuốn tiểu thuyết lịch sử mới); отремонти́рованное студе́нческое общежи́тие (ký túc xá sinh viên vừa được sửa sang); све́тлый ко́жаный пиджа́к (chiếc áo vest da màu sáng);\n4) các định ngữ là tính từ chỉ tính chất thường xếp theo trật tự: kích thước, tuổi, hình dạng, độ tươi sáng, màu sắc: высо́кое си́нее не́бо (bầu trời xanh cao vời); огро́мная чёрная соба́ка (con chó đen khổng lồ); больши́е кру́глые глаза́ (đôi mắt to tròn); дли́нные золоти́стые во́лосы (mái tóc dài vàng óng). Nếu các định ngữ biểu thị những phẩm chất hay thuộc tính gần nghĩa nhau, định ngữ làm rõ thường đứng sau định ngữ được làm rõ: хоро́шая, тёплая пого́да (thời tiết đẹp, ấm áp); ти́хий, споко́йный го́лос (giọng nói khẽ khàng, điềm tĩnh);"
+    },
+    {
+     "t": "para",
+     "text": "г) định ngữ hoà hợp thường đứng trước định ngữ không hoà hợp: чёрная без еди́ного пя́тнышка ко́шка (con mèo đen tuyền không một đốm trắng); ста́рая с высо́кой спи́нкой крова́ть (chiếc giường cũ có thành cao). Định ngữ không hoà hợp không gắn về nghĩa với định ngữ hoà hợp thường đứng sau danh từ: чёрная ко́шка с пуши́стым хвосто́м (con mèo đen có cái đuôi xù); ста́рая крова́ть со сло́манной но́жкой (chiếc giường cũ gãy một chân)."
+    },
+    {
+     "t": "subhead",
+     "text": "BỔ NGỮ (Дополнение):"
+    },
+    {
+     "t": "para",
+     "text": "а) bổ ngữ thường đứng SAU từ mà nó phụ thuộc: написа́ть письмо́ (viết thư); гото́вый к испыта́ниям (sẵn sàng cho thử thách); луч све́та (tia sáng); встре́ча друзе́й (cuộc gặp gỡ bạn bè);"
+    },
+    {
+     "t": "para",
+     "text": "б) khi có nhiều bổ ngữ:\n1) bổ ngữ trực tiếp (đối cách hoặc sinh cách không giới từ) đứng trước các bổ ngữ khác: написа́ть письмо́ дру́гу (viết thư cho bạn); купи́ть биле́т у конду́ктора (mua vé chỗ người soát vé); заплати́ть де́ньги за прое́зд (trả tiền vé đi đường); взять кни́гу у това́рища (mượn sách của bạn);\n2) bổ ngữ là danh từ hay đại từ ở tặng cách thường đứng trước bổ ngữ trực tiếp: Мать подари́ла ребёнку краси́вую игру́шку (Người mẹ tặng con món đồ chơi xinh xắn); Сообщи́те нам свой а́дрес (Hãy báo cho chúng tôi địa chỉ của anh); Врач спас тяжелобольно́му жизнь (Bác sĩ đã cứu sống người bệnh nặng). Nếu danh từ tặng cách có thể thay bằng kết cấu với giới từ для hoặc bằng giới cách, nó thường đứng sau bổ ngữ trực tiếp: Мы пригото́вили сюрпри́з роди́телям (для роди́телей) (Chúng tôi chuẩn bị món quà bất ngờ cho bố mẹ); Поставщи́к отпра́вил груз заво́ду (на заво́д) (Nhà cung cấp gửi lô hàng cho nhà máy);\n3) bổ ngữ ở sinh cách mang ý nghĩa chủ thể hành động đứng trước bổ ngữ khác: прие́зд специали́ста на заво́д (chuyến đến nhà máy của chuyên gia); запи́ска а́втора для реда́ктора (mẩu thư của tác giả gửi biên tập viên);\n4) bổ ngữ làm rõ tình huống đứng sau bổ ngữ mang nghĩa khái quát hơn: За́втра мы пое́дем за́ город на экску́рсию (Ngày mai chúng tôi đi tham quan ngoại ô); Мы занима́емся в Гла́вном зда́нии университе́та в аудито́рии сто пять (Chúng tôi học ở Toà nhà Chính của trường đại học, tại giảng đường một trăm linh năm)."
+    },
+    {
+     "t": "subhead",
+     "text": "TRẠNG NGỮ (Обстоятельство):"
+    },
+    {
+     "t": "para",
+     "text": "а) trạng ngữ là trạng từ đuôi -о, -е thường đứng TRƯỚC động từ: Доро́га гла́дко блесте́ла (Mặt đường ánh lên nhẵn bóng); Он о́стро чу́вствовал одино́чество (Anh cảm nhận nỗi cô đơn một cách nhói buốt); За стено́й ти́хо разгова́ривали (Sau bức tường có tiếng trò chuyện khe khẽ);"
+    },
+    {
+     "t": "para",
+     "text": "б) trạng ngữ là các trạng từ khác hoặc danh từ đứng SAU động từ-vị ngữ: идти́ ша́гом (đi từng bước); бежа́ть бего́м (chạy thật nhanh); нести́сь сломя́ го́лову (lao đi bạt mạng); расходи́ться во́лнами (lan ra thành từng đợt sóng); дви́гаться коло́нной (di chuyển thành hàng dọc);"
+    },
+    {
+     "t": "para",
+     "text": "в) trạng ngữ mức độ thường đứng trước động từ-vị ngữ hoặc phần danh tính của vị ngữ: Ди́ктор два́жды повтори́л прогно́з пого́ды (Phát thanh viên nhắc lại bản dự báo thời tiết hai lần); Он о́чень стара́лся не опозда́ть (Anh ấy rất cố gắng để không bị muộn); Мы доста́точно порабо́тали (Chúng ta đã làm việc đủ nhiều); Пого́да была́ невыноси́мо жа́ркая (Thời tiết nóng không sao chịu nổi);"
+    },
+    {
+     "t": "para",
+     "text": "г) trạng ngữ thời gian và nơi chốn thường đứng trước động từ-vị ngữ: За у́жином разгова́ривали ма́ло (Trong bữa tối, người ta ít trò chuyện); На фа́брике бы́ло неспоко́йно (Ở nhà máy, không khí không yên ả); Обы́чно ле́том го́род пусте́л (Mùa hè, thành phố thường vắng hẳn đi). Nếu trong câu có cả trạng ngữ thời gian lẫn trạng ngữ nơi chốn, trạng ngữ thời gian đứng trước: По утра́м в тра́нспорте мно́го наро́ду (Buổi sáng, trên các phương tiện giao thông rất đông người);"
+    },
+    {
+     "t": "para",
+     "text": "д) trạng ngữ nguyên nhân và mục đích thường đứng trước vị ngữ: Две де́вушки от стра́ха пла́кали (Hai cô gái khóc vì sợ hãi); Он для сме́ха написа́л э́то письмо́ (Anh ta viết bức thư này cho vui)."
+    }
+   ]
+  },
+  {
+   "id": "gra-22-s012",
+   "type": "exercise",
+   "title": "Упражнение 338",
+   "num": 338,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy đọc các cụm từ và câu. Chú ý vị trí của các thành phần phụ trong câu. Xác định chúng phụ thuộc vào từ nào và trả lời cho câu hỏi nào."
+    },
+    {
+     "t": "para",
+     "text": "Ngữ liệu của bài 338 chính là phần lý thuyết «Vị trí các thành phần phụ của câu trong lời nói trung lập về phong cách» ở mục ngay trên: Định ngữ (а–г), Bổ ngữ (а–б), Trạng ngữ (а–д) cùng toàn bộ ví dụ minh hoạ."
+    }
+   ]
+  },
+  {
+   "id": "gra-22-s013",
+   "type": "exercise",
+   "title": "Упражнение 339",
+   "num": 339,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy mở ngoặc, đặt các định ngữ theo trật tự đúng. Giải thích lựa chọn của bạn, đặt các dấu câu cần thiết."
+    },
+    {
+     "t": "note",
+     "text": "Giữa tính từ chỉ tính chất và tính từ chỉ quan hệ, cũng như giữa các tính từ chỉ tính chất mô tả sự vật từ những phương diện khác nhau, KHÔNG đặt dấu phẩy."
+    },
+    {
+     "t": "para",
+     "text": "1. На ней был костю́м (в то́нкую чёрную поло́ску; све́тлый) (Cô ấy mặc bộ trang phục (kẻ sọc đen mảnh; màu sáng)); 2. Пла́ны бу́дут реализо́ваны в срок (ва́ши; все) (Các kế hoạch sẽ được thực hiện đúng hạn (của các bạn; tất cả)); 3. За угло́м находи́лось зда́ние (кирпи́чное; ста́рое; с бе́лыми коло́ннами) (Sau góc phố là một toà nhà (xây gạch; cũ; có hàng cột trắng)); 4. На ве́чер бы́ли приглашены́ го́сти из ра́зных стран ми́ра (торже́ственный; э́тот) (Khách từ nhiều nước trên thế giới được mời đến buổi dạ hội (trọng thể; này)); 5. В коро́бке лежа́ли кра́ски (разноцве́тные; я́ркие) (Trong hộp là những thỏi màu vẽ (nhiều màu; tươi sáng)); 6. Дверь вела́ на вера́нду (полукру́глая; у́зкая) (Cánh cửa dẫn ra hiên nhà (hình bán nguyệt; hẹp)); 7. Алле́ю освеща́ли фонари́ (жёлтые; кру́глые) (Những ngọn đèn soi sáng lối đi (vàng; tròn)); 8. Мы вдыха́ли во́здух (о́стрый; с при́вкусом боло́тной ти́ны) (Chúng tôi hít thở bầu không khí (hăng nồng; thoảng vị bùn đầm lầy)); 9. За огра́дой находи́лся парк (металли́ческой; высо́кой) (Phía sau hàng rào (kim loại; cao) là công viên); 10. Она́ была́ в пла́тье (с дли́нными рукава́ми; я́рко-кра́сном; ба́рхатном) (Cô ấy mặc chiếc váy (tay dài; đỏ tươi; bằng nhung)); 11. Полови́ну кабине́та занима́л стол (пи́сьменный; из кра́сного де́рева) (Chiếc bàn (bàn viết; bằng gỗ gụ) chiếm nửa phòng làm việc); 12. Письмо́ бы́ло напи́сано по́черком (аккура́тным; чётким) (Bức thư được viết bằng nét chữ (ngay ngắn; rõ ràng)); 13. Издалека́ послы́шались зву́ки (протя́жные; дли́нные) (Từ xa vọng lại những âm thanh (ngân nga; kéo dài)); 14. Через ре́ку был переки́нут мост (горба́тый; со сло́манными пери́лами; ста́рый) (Bắc qua sông là một cây cầu (cong vồng; lan can gãy; cũ)); 15. О́ттепель смени́лась за́морозками (весе́нняя; ра́нняя) (Đợt tan băng nhường chỗ cho những đợt sương giá (mùa xuân; sớm)); 16. В сту́дию бы́ли приглашены́ веду́щие переда́ч (телевизио́нных; популя́рных) (Những người dẫn các chương trình (truyền hình; ăn khách) được mời tới trường quay); 17. Перед на́ми расстила́лось мо́ре (си́нее; безбре́жное) (Trước mắt chúng tôi trải rộng mặt biển (xanh thẳm; vô bờ)); 18. Дере́вья пришло́сь спили́ть (вы́сохшие; ста́рые) (Đành phải cưa bỏ những cái cây (khô héo; già cỗi)); 19. Из-под земли́ бил исто́чник с водо́й (роднико́вой; чи́стой) (Từ dưới lòng đất phun lên một mạch nước (nước nguồn; trong vắt)); 20. Монуме́нт был устано́влен на постаме́нте (грани́тном; высо́ком; с на́дписью «Геро́ям Севасто́поля») (Tượng đài được dựng trên bệ (đá granit; cao; mang dòng chữ «Kính tặng các anh hùng Sevastopol»))."
+    }
+   ]
+  },
+  {
+   "id": "gra-22-s014",
+   "type": "exercise",
+   "title": "Упражнение 340",
+   "num": 340,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy mở ngoặc, đặt các bổ ngữ theo trật tự đúng. Giải thích lựa chọn của bạn."
+    },
+    {
+     "t": "note",
+     "text": "Nếu động từ có hai bổ ngữ đều dùng giới từ, bổ ngữ chỉ NGƯỜI được đặt lên trước: спо́рить с кем? о чём? (tranh luận với ai? về điều gì?); отвеча́ть перед кем? за что? (chịu trách nhiệm trước ai? về việc gì?)."
+    },
+    {
+     "t": "para",
+     "text": "1. Ты до́лжен прове́рить (зре́ние; у хоро́шего специали́ста) (Cậu phải đi kiểm tra (thị lực; ở một chuyên gia giỏi)); 2. В воскресе́нье мы собира́емся (на вы́ставку; в музе́й) (Chủ nhật chúng tôi định đi (xem triển lãm; ở bảo tàng)); 3. Вам на́до ча́ще выбира́ться (на приро́ду; за́ город) (Anh nên năng đi (về với thiên nhiên; ra ngoại ô) hơn); 4. К юбиле́ю мы гото́вим (сюрпри́з; на́шим роди́телям) (Nhân lễ kỷ niệm, chúng tôi chuẩn bị (món quà bất ngờ; cho bố mẹ)); 5. Ка́ждую неде́лю он писа́л (пи́сьма; роди́телям) (Tuần nào anh ấy cũng viết (thư; cho bố mẹ)); 6. Не сто́ит доверя́ть (все свои́ секре́ты; пе́рвому встре́чному) (Không nên thổ lộ (mọi bí mật của mình; cho người vừa mới gặp)); 7. На рабо́те он тре́бовал (от свои́х подчинённых; отве́тственности и дисципли́ны) (Trong công việc, ông đòi hỏi (ở cấp dưới của mình; tinh thần trách nhiệm và kỷ luật)); 8. Она́ уме́ла преврати́ть (любы́е неприя́тные слова́; в шу́тку) (Cô ấy biết cách biến (mọi lời khó nghe; thành chuyện đùa)); 9. Сын подража́л (во всём; отцу́) (Cậu con trai bắt chước (trong mọi việc; cha mình)); 10. Он сра́зу понра́вился (свои́м отноше́нием к де́лу; всем сотру́дникам) (Anh ấy lập tức chiếm được cảm tình (bằng thái độ đối với công việc; của toàn thể đồng nghiệp)); 11. Не сто́ит привлека́ть (к свои́м пробле́мам; внима́ние) (Không nên thu hút (vào những vấn đề của mình; sự chú ý)); 12. За мно́го лет рабо́ты я привы́к называ́ть (свои́ми имена́ми; ве́щи) (Qua nhiều năm làm việc, tôi đã quen gọi (đúng tên của chúng; mọi sự vật)); 13. Официа́льный представи́тель То́кио гото́вится напра́вить (послу́; но́ту проте́ста) (Người phát ngôn chính thức của Tokyo chuẩn bị gửi (cho đại sứ; công hàm phản đối)); 14. Перо́вский суд Москвы́ отказа́лся верну́ть (уголо́вное де́ло; в прокурату́ру) в отноше́нии руководи́телей компа́нии «Софэ́кс» (Toà án quận Perovo của Moskva từ chối trả lại (hồ sơ vụ án hình sự; cho viện kiểm sát) đối với các lãnh đạo công ty «Sofex»); 15. Кли́мат в э́той ме́стности был о́чень благоприя́тный, высо́кие го́ры на се́веро-восто́ке прегражда́ли (холо́дным ветра́м; путь) (Khí hậu vùng này rất thuận hoà: dãy núi cao phía đông bắc chặn (những luồng gió lạnh; đường đi)); 16. В про́шлом ме́сяце Краснода́рский край по́лностью расплати́лся (за у́голь; с поставщика́ми) (Tháng trước, vùng Krasnodar đã thanh toán đầy đủ (tiền than; cho các nhà cung cấp)); 17. Неудиви́тельно, что молоды́е лю́ди предпочита́ют (чте́нию книг; му́зыку и спорт) (Chẳng có gì lạ khi giới trẻ ưa chuộng (hơn việc đọc sách; âm nhạc và thể thao)); 18. Либера́лы расхо́дятся (в коне́чных це́лях; с консерва́торами), в то вре́мя как сре́дства их достиже́ния у тех и у други́х одина́ковые (Phe tự do bất đồng (về các mục tiêu cuối cùng; với phe bảo thủ), trong khi phương tiện để đạt mục tiêu của cả hai bên là như nhau); 19. Тре́нер подсказа́л (реше́ние ша́хматной зада́чи; спортсме́нам) (Huấn luyện viên gợi ý (lời giải bài cờ thế; cho các vận động viên)); 20. Он поприве́тствовал (взма́хом руки́; госте́й) (Anh ấy chào đón (bằng một cái vẫy tay; các vị khách))."
+    }
+   ]
+  },
+  {
+   "id": "gra-22-s015",
+   "type": "exercise",
+   "title": "Упражнение 341",
+   "num": 341,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy mở ngoặc, đặt các bổ ngữ theo trật tự đúng. Giải thích lựa chọn của bạn, nêu các phương án có thể."
+    },
+    {
+     "t": "note",
+     "text": "Nếu động từ có hai bổ ngữ gắn với nhau theo tình huống, đứng đầu là bổ ngữ gắn với động từ về NGHĨA: Пла́вать на ло́дке по о́зеру о́чень прия́тно (Bơi thuyền trên hồ rất dễ chịu), hoặc bổ ngữ mang ý nghĩa bổ sung (làm rõ): Мы жи́ли во фли́геле на Васи́льевском о́строве (Chúng tôi sống ở dãy nhà phụ trên đảo Vasilievsky)."
+    },
+    {
+     "t": "para",
+     "text": "1. В после́дний моме́нт он вскочи́л (на подно́жку; в отъезжа́ющий авто́бус) (Vào khoảnh khắc cuối, anh ấy nhảy (lên bậc cửa; chiếc xe buýt đang chuyển bánh)); 2. В зоопа́рке запреща́ется корми́ть (живо́тных; с рук) (Trong vườn thú, cấm cho (thú vật; ăn trên tay)); 3. Посети́телям больни́цы запреща́ется входи́ть (без сме́нной о́буви; в пала́ты) (Khách thăm bệnh viện không được vào (phòng bệnh; khi chưa thay dép)); 4. Любо́е де́ло тре́бует (вду́мчивого подхо́да; к себе́) (Bất cứ công việc nào cũng đòi hỏi (một cách tiếp cận chín chắn; đối với nó)); 5. Он стал изве́стным актёром, но в мо́лодости ему́ ча́сто приходи́лось выходи́ть (в ро́ли стати́ста; на сце́ну) (Anh đã trở thành diễn viên nổi tiếng, nhưng thời trẻ thường phải bước (lên sân khấu; trong vai diễn viên quần chúng)); 6. Де́тям не рекоменду́ется ката́ться (на ро́ликах; без защи́тной экипиро́вки) (Trẻ em không nên trượt (patin; khi không có đồ bảo hộ)); 7. Биле́тов на самолёт не́ было, и ему́ пришло́сь добира́ться (на по́езде; до ме́ста назначе́ния) (Hết vé máy bay, anh đành phải đi (bằng tàu hoả; đến nơi cần đến)); 8. Де́тство он провёл (на ю́ге Росси́и; в ма́леньком селе́) (Tuổi thơ, anh sống (ở miền nam nước Nga; trong một ngôi làng nhỏ)); 9. Он был оштрафо́ван за то, что прое́хал (на кра́сный свет; через перекрёсток) (Anh ta bị phạt vì đã vượt (đèn đỏ; qua ngã tư)); 10. Е́сли вы недово́льны ка́чеством предоставля́емых услу́г, вы мо́жете обрати́ться (с исковы́м заявле́нием; в суд) (Nếu không hài lòng với chất lượng dịch vụ được cung cấp, quý vị có thể nộp (đơn khởi kiện; lên toà án)); 11. Полу́ченную информа́цию он записа́л (карандашо́м; в свой блокно́т) (Thông tin nhận được, anh ghi lại (bằng bút chì; vào cuốn sổ tay của mình)); 12. Я отношу́сь (к представи́телям друго́й ра́сы и́ли вероиспове́дания; с больши́м уваже́нием) (Tôi đối xử (với những người thuộc chủng tộc hay tôn giáo khác; bằng sự tôn trọng sâu sắc)); 13. Он верну́лся (через два го́да; в дере́вню) (Anh trở về (sau hai năm; làng quê)); 14. В после́дний раз она́ обошла́ (вокру́г са́да; со щемя́щей тоско́й в се́рдце) (Lần cuối cùng, bà đi một vòng (quanh khu vườn; với nỗi buồn se sắt trong tim)); 15. Заня́тия шли (до двух часо́в дня; без переры́ва) (Buổi học kéo dài (đến hai giờ chiều; không nghỉ giải lao)); 16. Мы броди́ли (до са́мого ве́чера; по́ лесу) (Chúng tôi lang thang (đến tận chiều tối; trong rừng))."
+    }
+   ]
+  },
+  {
+   "id": "gra-22-s016",
+   "type": "exercise",
+   "title": "Упражнение 342",
+   "num": 342,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy đọc các câu. Hãy bổ sung cho các vị ngữ (in nghiêng trong sách) trạng ngữ cho trong ngoặc. Giải thích lựa chọn của bạn, nêu các phương án có thể."
+    },
+    {
+     "t": "para",
+     "text": "1. Мы собрали́сь и вы́шли из до́ма (бы́стро) (Chúng tôi sửa soạn rồi ra khỏi nhà (nhanh chóng)); 2. По о́бе сто́роны от доро́ги лес стоя́л (стено́й) (Hai bên đường, rừng đứng (sừng sững như bức tường)); 3. Нельзя́ жить, ра́но и́ли по́здно вам придётся что́-то меня́ть в свое́й жи́зни (по-ста́рому) (Không thể sống (theo lối cũ) mãi, sớm muộn bạn cũng phải thay đổi điều gì đó trong cuộc đời mình); 4. На́до призна́ться, что я успева́ю за ва́ми (е́ле-е́ле) (Phải thú thật rằng tôi theo kịp anh (một cách chật vật)); 5. Он купи́л биле́ты не в тот ваго́н (наро́чно) (Anh ta mua vé nhầm toa (một cách cố ý)); 6. Она́ была́ хороша́: огро́мные си́ние глаза́, дли́нные во́лосы, то́ненькая фигу́ра (необыкнове́нно) (Cô đẹp (lạ thường): đôi mắt xanh to, mái tóc dài, dáng người mảnh mai); 7. Всё на́до де́лать (с умо́м) (Việc gì cũng phải làm (cho có đầu óc)); 8. Он был бле́ден, и мы испуга́лись (смерте́льно) (Mặt anh ấy tái nhợt, và chúng tôi hoảng sợ (chết khiếp)); 9. Она́ прие́хала в два часа́ дня (вчера́) (Cô ấy đến lúc hai giờ chiều (hôm qua)); 10. Говори́л он бы́стро и, мо́жет быть, поэ́тому заика́лся (чуть-чу́ть) (Anh ấy nói nhanh, và có lẽ vì thế mà nói lắp (đôi chút)); 11. Он стоя́л и кури́л (побли́зости) (Anh ta đứng hút thuốc (gần đó)); 12. Нам на́до прийти́, что́бы успе́ть всё сде́лать (ра́ньше) (Chúng ta cần đến (sớm hơn) để kịp làm xong mọi việc); 13. Мы просну́лись и не опозда́ли на по́езд (по́здно, чуть) (Chúng tôi thức dậy (muộn) và (suýt nữa) lỡ chuyến tàu); 14. Его́ но́вое предложе́ние интере́снее ста́рого (гора́здо) (Đề xuất mới của anh ấy thú vị hơn (hơn hẳn) cái cũ); 15. Её оде́жда была́ я́ркой (вызыва́юще) (Trang phục của cô ta sặc sỡ (một cách khiêu khích)); 16. Во́лосы на его́ голове́ стоя́ли (ды́бом) (Tóc trên đầu anh ta (dựng ngược)); 17. В тот день я уста́л и ра́но лёг спать (смерте́льно) (Hôm ấy tôi mệt (lử) và đi ngủ sớm); 18. Ей про́сто бы́ло пойти́ в тот день (не́куда) (Hôm ấy, cô đơn giản là (chẳng có nơi nào) để đi); 19. Па́ры танцу́ющих кружи́лись по за́лу (ме́дленно) (Các cặp khiêu vũ xoay (chầm chậm) khắp gian phòng); 20. По́сле на́шей встре́чи я был сча́стлив (безу́мно) (Sau cuộc gặp của chúng tôi, tôi hạnh phúc (đến điên cuồng)); 21. Они́ перее́хали на другу́ю кварти́ру (давно́) (Họ chuyển sang căn hộ khác (đã lâu)); 22. Ему́ мере́щился обма́н (всю́ду) (Anh ta nhìn (đâu đâu) cũng ngỡ thấy sự lừa dối); 23. Пройди́те в дом, а пото́м поговори́м (снача́ла) ((Trước hết) mời vào nhà đã, rồi ta sẽ nói chuyện); 24. Э́то был любе́зный молодо́й челове́к (исключи́тельно) (Đó là một chàng trai nhã nhặn (hết mực))."
+    }
+   ]
+  },
+  {
+   "id": "gra-22-s017",
+   "type": "exercise",
+   "title": "Упражнение 343",
+   "num": 343,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy đọc các câu. Hãy bổ sung cho các vị ngữ (in nghiêng trong sách) trạng từ cho trong ngoặc; dấu ba chấm (…) đánh dấu những vị trí có thể đặt trạng từ. Giải thích lựa chọn của bạn."
+    },
+    {
+     "t": "note",
+     "text": "Trạng từ đuôi -о, -е có thể biểu thị trạng thái của chủ thể và đóng vai trò предикатив — thành phần chính của câu một thành phần: Мне хо́лодно (Tôi thấy lạnh). Nếu trạng ngữ là trạng từ đuôi -о, -е đứng TRƯỚC động từ mà nó phụ thuộc, thì предикатив khi kết hợp với trợ động từ lại đứng SAU trợ động từ: Мне бы́ло хо́лодно (Lúc ấy tôi thấy lạnh)."
+    },
+    {
+     "t": "para",
+     "text": "1. Неожи́данно ему́ … ста́ло … . Он … себя́ почу́вствовал … и пора́ньше ушёл с рабо́ты (пло́хо) (Đột nhiên anh ấy thấy khó ở. Anh cảm thấy người không khoẻ và rời chỗ làm sớm hơn thường lệ); 2. С ка́ждым его́ сло́вом на душе́ … станови́лось … . Я ду́маю, он … понима́ет … , что на́до де́лать (лу́чше) (Mỗi lời anh ấy nói làm lòng tôi nhẹ nhõm hơn. Tôi nghĩ anh ấy hiểu rõ hơn cần phải làm gì); 3. С тобо́й им … бу́дет … . … смотри́ … на ве́щи, ина́че и до депре́ссии недалеко́ (веселе́е) (Có cậu, bọn họ sẽ vui hơn. Hãy nhìn sự việc vui vẻ hơn, kẻo chẳng mấy mà trầm uất); 4. Где́-то на у́лице … хло́пнула … дверь. Здесь по утра́м … стано́вится … (шу́мно) (Đâu đó ngoài phố, một cánh cửa đóng sầm. Ở đây cứ buổi sáng là trở nên ồn ào); 5. Тепе́рь уже́ … говори́ть … об э́том. … стано́вится … , пора́ возвраща́ться домо́й (по́здно) (Bây giờ nói về chuyện đó thì đã muộn. Trời đã muộn rồi, đến lúc phải về nhà); 6. И хотя́ на у́лице стоя́л моро́з, у ками́на … бы́ло … . … проводи́ть вре́мя … до́ма у ками́на (тепло́ и ую́тно) (Dù ngoài trời băng giá, bên lò sưởi vẫn ấm áp, dễ chịu. Ngồi nhà bên lò sưởi thật ấm cúng); 7. … звуча́ла … му́зыка, сло́вно убаю́кивая всех, кто был в ко́мнате. … бы́ло … , то́лько иногда́ ве́тер доноси́л до нас обры́вки слов (ти́хо) (Tiếng nhạc vang lên khe khẽ, như ru tất cả những ai trong phòng. Xung quanh yên ắng, chỉ thỉnh thoảng gió đưa tới những mẩu lời rời rạc); 8. Вам … должно́ быть … по́сле того́, что вы сде́лали. Ра́зве ты не зна́ешь, что … говори́ть непра́вду … (сты́дно) (Sau những gì các người đã làm, hẳn các người phải thấy xấu hổ. Chẳng lẽ cậu không biết rằng nói dối là điều đáng xấu hổ); 9. Ему́ … бы́ло … , но он молча́л. … ломи́ло спи́ну … , всё те́ло затекло́ (бо́льно) (Anh ấy đau lắm nhưng vẫn im lặng. Lưng nhức nhối, cả người tê dại); 10. Ты и сам зна́ешь, как … вспомина́ть о том вре́мени … . Как бы … ни́ было … , мы продолжа́ли рабо́тать (тру́дно) (Chính cậu cũng biết nhớ lại quãng thời gian ấy khó nhọc thế nào. Dù khó khăn đến đâu, chúng tôi vẫn tiếp tục làm việc); 11. … рассужда́ть … о том, чего́ не зна́ешь. По́сле его́ слов мне … ста́ло … до слёз (смешно́) (Bàn luận về điều mình không biết thật nực cười. Nghe những lời anh ta nói, tôi buồn cười đến chảy nước mắt); 12. Я не люблю́ … встава́ть … . … бы́ло … , поло́ска зари́ ещё то́лько занима́лась на не́бе (ра́но) (Tôi không thích dậy sớm. Trời hãy còn sớm, vệt ráng bình minh mới chỉ ửng lên trên nền trời)."
+    }
+   ]
+  },
+  {
+   "id": "gra-22-s018",
+   "type": "exercise",
+   "title": "Упражнение 344",
+   "num": 344,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy đọc các câu. Chú ý trật tự từ biểu cảm được dùng trong đó. Hãy dùng trật tự từ trực tiếp để cải biến các câu hoặc phần được nhấn mạnh của câu. Xác định sự khác nhau giữa câu gốc và câu thu được."
+    },
+    {
+     "t": "note",
+     "text": "Nếu động từ-vị ngữ có cả bổ ngữ lẫn trạng ngữ được diễn đạt bằng danh từ hoặc trạng từ KHÔNG có đuôi -о, -е, trạng ngữ thường đứng trước vị ngữ, còn bổ ngữ đứng sau vị ngữ: Солда́ты коло́нной дви́гались на юг (Những người lính tiến về phía nam theo đội hình hàng dọc). Trạng ngữ đơn lẻ là trạng từ không có đuôi -о, -е thường đứng sau động từ: Солда́ты дви́гались коло́нной (Những người lính di chuyển thành hàng dọc)."
+    },
+    {
+     "t": "para",
+     "text": "а) 1. До прихо́да почто́вого авто́буса остава́лось часа́ полтора́, не ме́ньше (Ф. Абра́мов) (Còn chừng một tiếng rưỡi, không ít hơn, nữa chuyến xe buýt thư mới đến (F. Abramov)); 2. Ли́вень хлы́нул внеза́пно и заста́л кенту́рии на полдоро́ге на холме́ (М. Булга́ков) (Cơn mưa rào đổ xuống đột ngột, bắt gặp các đội centuria đang giữa đường lên đồi (M. Bulgakov)); 3. За́втраком корми́ли в большо́й су́мрачной ко́мнате на тре́тьем этаже́ (Д. Ру́бина) (Bữa sáng được dọn trong căn phòng rộng, tối mờ trên tầng ba (D. Rubina)); 4. О прие́зде бра́тьев Ли́за узна́ла ещё вечо́р от А́нки (Ф. Абра́мов) (Chuyện các anh về, Liza đã biết từ tối hôm qua, qua Anka (F. Abramov); вечо́р (từ cổ) — tối hôm qua); 5. Уже́ зре́лым челове́ком я прочёл запи́ски Мари́ны Цвета́евой о Пу́шкине (Ф. Исканде́р) (Mãi khi đã là người chín chắn, tôi mới đọc những trang ghi chép của Marina Tsvetaeva về Pushkin (F. Iskander)); 6. Коро́ткими перебе́жками о́ба солда́та добира́ются до вы́рытой наполови́ну транше́и газопрово́да (В. Мака́нин) (Bằng những đợt chạy ngắn, cả hai người lính lần tới được đường hào đặt ống dẫn khí mới đào dở (V. Makanin)); 7. Со щемя́щей тоско́й в се́рдце он ещё раз обошёл дом, потро́гал ладо́нью гла́дкий и живо́й ствол ряби́ны, вздохну́л и пошёл прочь (Ю. Ге́рман) (Với nỗi buồn se sắt trong tim, anh đi quanh ngôi nhà thêm một lần nữa, áp lòng bàn tay lên thân cây thanh lương trà nhẵn nhụi và tràn đầy sức sống, thở dài rồi bỏ đi (Yu. German))."
+    },
+    {
+     "t": "para",
+     "text": "б) Вид боже́ственной красоты́ открыва́лся отсю́да. Далеко́ в мо́ре уходи́л фарва́тер, ме́ченный скрещёнными сва́ями, вби́тыми в дно лагу́ны (Д. Ру́бина) (Từ nơi đây mở ra một quang cảnh đẹp thần tiên. Luồng lạch chạy tít ra khơi xa, được đánh dấu bằng những hàng cọc bắt chéo đóng xuống đáy vụng biển (D. Rubina))."
+    },
+    {
+     "t": "para",
+     "text": "в) Бродя́чий луч далёкого проже́ктора останови́лся случа́йно на огро́мных о́кнах клу́ба. Слы́шно бы́ло в наста́вшей па́узе, как би́ли по шпу́нту и выдува́ли исходя́щий пар паровы́е копры́ на Москве́-реке́ (А. Плато́нов) (Vệt sáng lang thang của ngọn đèn pha xa xôi tình cờ dừng lại trên những ô cửa sổ lớn của câu lạc bộ. Trong khoảng lặng vừa buông xuống, nghe rõ tiếng những chiếc máy đóng cọc hơi nước trên sông Moskva nện vào cọc ván và xả từng luồng hơi (A. Platonov))."
+    },
+    {
+     "t": "note",
+     "text": "So với văn viết, trật tự từ trong khẩu ngữ tự do hơn. Các thành phần câu có liên hệ cú pháp với nhau thường đứng cách xa nhau, đồng thời từ hay cụm từ quan trọng nhất (mang thông tin mới — рема) được đưa lên đầu câu. Những đặc điểm này thường được văn học sử dụng để tạo không khí giao tiếp thân mật, tự nhiên."
+    },
+    {
+     "t": "para",
+     "text": "г) Ва́ня Пра́здников был челове́к серьёзный. Учи́лся он в своём кооперати́вном те́хникуме на «отли́чно» и «хорошо́», враждова́л непрекло́нно, дружи́л до гро́ба, и, кака́я бы ни вы́пала ему́ обще́ственная нагру́зка, будь то хоть сбор средств для о́бщества «Друг дете́й», он нёс её так, как е́сли бы э́то бы́ло гла́вное де́ло жи́зни (В. Пье́цух) (Vanya Prazdnikov là một người nghiêm túc. Anh học ở trường trung cấp hợp tác xã của mình toàn điểm «giỏi» và «khá», đã thù ai thì thù không lay chuyển, đã chơi với ai thì chơi đến trọn đời, và bất kể được giao gánh vác việc công nào — dù chỉ là quyên tiền cho hội «Bạn của trẻ em» — anh đều gánh vác như thể đó là sự nghiệp chính của đời mình (V. Pietsukh))."
+    }
+   ]
+  }
+ ]
+}

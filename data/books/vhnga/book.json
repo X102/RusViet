@@ -1,0 +1,72 @@
+{
+ "id": "vhnga",
+ "title": "Tuyển tập Văn học Nga — Русская классика",
+ "subtitle": "Thơ, ngụ ngôn, truyện ngắn kinh điển (song ngữ) — bổ sung mỗi giờ",
+ "lang": "ru",
+ "uiLang": "vi",
+ "level": "A2–C1",
+ "cover": "🪆",
+ "description": "Tuyển tập các tác phẩm văn học Nga nổi tiếng thuộc phạm vi công cộng (Puskin, Lermontov, Krylov, Tyutchev, Chekhov, Tolstoy…): thơ, ngụ ngôn, truyện ngắn — đọc song ngữ từng câu, nghe và tra từ. Nội dung được biên tập tự động, mỗi giờ thêm một tác phẩm.",
+ "parts": [
+  {
+   "id": "vhnga-001",
+   "num": 1,
+   "title": "«Я вас любил…» — Tôi đã yêu em (Pushkin)",
+   "vi": "«Я вас любил…» — Tôi đã yêu em (Pushkin)",
+   "ru": "Я вас любил…",
+   "icon": "🕊️",
+   "color": "#9333ea",
+   "file": "units/vhnga-001.json",
+   "sectionPrefix": "vhnga-001-s",
+   "group": "Александр Пушкин · Thơ",
+   "sectionCount": 1,
+   "exerciseCount": 0,
+   "grammarCount": 1
+  },
+  {
+   "id": "vhnga-002",
+   "num": 2,
+   "title": "«Ворона и Лисица» — Quạ và Cáo (Krylov)",
+   "vi": "«Ворона и Лисица» — Quạ và Cáo (Krylov)",
+   "ru": "Ворона и Лисица",
+   "icon": "🦊",
+   "color": "#ea580c",
+   "file": "units/vhnga-002.json",
+   "sectionPrefix": "vhnga-002-s",
+   "group": "Иван Крылов · Ngụ ngôn",
+   "sectionCount": 1,
+   "exerciseCount": 0,
+   "grammarCount": 1
+  },
+  {
+   "id": "vhnga-003",
+   "num": 3,
+   "title": "«Silentium!» — Lặng im (Tyutchev)",
+   "vi": "«Silentium!» — Lặng im (Tyutchev)",
+   "ru": "Silentium!",
+   "icon": "🕊️",
+   "color": "#0891b2",
+   "file": "units/vhnga-003.json",
+   "sectionPrefix": "vhnga-003-s",
+   "group": "Фёдор Тютчев · Thơ",
+   "sectionCount": 1,
+   "exerciseCount": 0,
+   "grammarCount": 1
+  },
+  {
+   "id": "vhnga-004",
+   "num": 4,
+   "title": "«Воробей» — Chim sẻ (Turgenev)",
+   "vi": "«Воробей» — Chim sẻ (Turgenev)",
+   "ru": "Воробей",
+   "icon": "📖",
+   "color": "#16a34a",
+   "file": "units/vhnga-004.json",
+   "sectionPrefix": "vhnga-004-s",
+   "group": "Иван Тургенев · Thơ văn xuôi",
+   "sectionCount": 1,
+   "exerciseCount": 0,
+   "grammarCount": 1
+  }
+ ]
+}

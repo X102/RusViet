@@ -1,0 +1,187 @@
+{
+ "id": "skazki1-012",
+ "num": 12,
+ "title": "Овца, лиса и волк — Cừu, cáo và sói",
+ "vi": "Овца, лиса и волк — Cừu, cáo và sói",
+ "ru": "Овца, лиса и волк",
+ "icon": "🐑",
+ "color": "#71717a",
+ "sectionPrefix": "skazki1-012-s",
+ "group": "Truyện № 1–30",
+ "sections": [
+  {
+   "id": "skazki1-012-s001",
+   "type": "story",
+   "num": 28,
+   "title": "№ 28 · Овца, лиса и волк — Cừu, cáo và sói",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Truyện loài vật ngắn theo mô-típ «kẻ yếu bị đổ vạ»: con cừu, con cáo và con sói lẻ đều than rằng hễ có chuyện gì là mình bị bắt làm kẻ chịu lỗi, bèn rủ nhau bỏ đi. Nhưng giữa đường con sói trở mặt đòi «bộ áo lông» trên mình con cừu, và con cáo đã nhanh trí dụ con sói chúi mõm vào cái bẫy kẹp của thợ săn — tiếng cười dân gian luôn đứng về phía kẻ yếu biết dùng mưu."
+    },
+    {
+     "t": "para",
+     "text": "У крестьянина из гурта бежала овца. (Có một con cừu bỏ đàn nhà một bác nông dân mà chạy trốn.)"
+    },
+    {
+     "t": "para",
+     "text": "Навстречу ей попалась лиса и спрашивает: «Куда тебя, кумушка, бог несет?» (Đi ngược chiều, nó gặp một con cáo, con cáo hỏi: «Trời xui đất khiến đưa chị đi đâu thế, chị thân mến?»)"
+    },
+    {
+     "t": "para",
+     "text": "«О-их, кума! Была я у мужика в гурте, да житья мне не стало: где баран сдурит, а все я, овца, виновата! («Ôi dào, chị ơi! Tôi vốn ở trong đàn nhà một bác mu-gích, nhưng chẳng còn sống nổi nữa: hễ con cừu đực nào giở chứng làm bậy, thì lúc nào cũng tại tôi, con cừu cái, có lỗi!)"
+    },
+    {
+     "t": "para",
+     "text": "Вот и вздумала уйти куды глаза глядят». (Thế là tôi đành nghĩ bụng bỏ đi, đi đâu thì đi».)"
+    },
+    {
+     "t": "para",
+     "text": "«И я тоже! — отвечала лиса. — Где муж мой курочку словит, а все я, лиса, виновата. («Tôi cũng vậy! — con cáo đáp. — Hễ chồng tôi tha mất con gà mái nào, thì lúc nào cũng tại tôi, con cáo, có lỗi.)"
+    },
+    {
+     "t": "para",
+     "text": "Побежим-ка вместе». (Ta cùng chạy đi với nhau cho có bạn».)"
+    },
+    {
+     "t": "para",
+     "text": "Чрез несколько времени повстречался им бирюк. (Đi được một lát, chúng gặp một con sói lẻ.)"
+    },
+    {
+     "t": "para",
+     "text": "«Здорово, кума!» — «Здравствуй!» — говорит лиса. («Chào chị nhé!» — «Chào anh!» — con cáo nói.)"
+    },
+    {
+     "t": "para",
+     "text": "«Далече ли бредешь?» Она в ответ: «Куда глаза глядят!» — да как рассказала про свое горе, бирюк молвил: («Lê bước đi xa thế à?» Cáo đáp lại: «Đi đâu thì đi!» — rồi kể lể nỗi khổ của mình, con sói lẻ liền bảo:)"
+    },
+    {
+     "t": "para",
+     "text": "«И я также! Где волчица зарежет ягненка, а все я, бирюк, виноват. Пойдемте-ка вместе». («Tôi cũng thế! Hễ sói cái cắn chết con cừu non nào, thì lúc nào cũng tại tôi, con sói lẻ, có lỗi. Ta cùng đi với nhau đi».)"
+    },
+    {
+     "t": "para",
+     "text": "Пошли. (Thế là cả ba cùng đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Дорогою бирюк и говорит овце: «А что, овца, ведь на тебе тулуп-то мой?» (Dọc đường, con sói lẻ bảo con cừu: «Này cừu kia, cái áo lông trên mình ngươi chẳng phải áo khoác của ta là gì?»)"
+    },
+    {
+     "t": "para",
+     "text": "Лиса услышала и подхватила: «Взаправду, кум, твой?» — «Верно, мой!» (Con cáo nghe vậy liền đế thêm vào: «Quả thật thế à, anh sói, của anh ư?» — «Đúng, của ta đấy!»)"
+    },
+    {
+     "t": "para",
+     "text": "«Побожишься?» — «Побожусь!» — «К присяге пойдешь?» — «Пойду». — «Ну, иди, целуй присягу». («Anh dám thề không?» — «Ta thề!» — «Anh chịu đi tuyên thệ chứ?» — «Đi chứ». — «Vậy thì đi đi, hôn lên vật thề đi».)"
+    },
+    {
+     "t": "para",
+     "text": "Тут лиса сметила, что мужики на тропинке поставили капкан; она привела бирюка к самому капкану и говорит: «Ну, вот здесь целуй!» (Lúc ấy con cáo để ý thấy trên lối mòn mấy bác mu-gích có đặt một cái bẫy kẹp; nó liền dẫn con sói lẻ đến ngay chỗ cái bẫy mà bảo: «Nào, hôn vào đây này!»)"
+    },
+    {
+     "t": "para",
+     "text": "Только что сунулся бирюк сдуру — а капкан щелкнул и ухватил его за морду. (Con sói lẻ vừa ngu ngơ chúi mõm vào — thì «rắc» một cái, cái bẫy sập lại, kẹp chặt lấy mõm nó.)"
+    },
+    {
+     "t": "para",
+     "text": "Лиса с овцой тотчас убежали от него подобру-поздорову. (Con cáo và con cừu lập tức bỏ mặc nó mà chạy biến đi, bình an vô sự.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "гурт",
+     "vi": "đàn gia súc lớn chăn dắt chung",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кума",
+     "vi": "lối xưng hô thân mật (gốc: mẹ/cha đỡ đầu); ở đây ~ «chị / anh»",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "баран",
+     "vi": "cừu đực",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "сдурить",
+     "vi": "giở chứng, làm càn (khẩu ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "куды",
+     "vi": "phương ngữ của «куда» — đi đâu",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "брести (бредёшь)",
+     "vi": "lê bước, lững thững đi",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "молвить",
+     "vi": "nói, thốt lên (từ cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "волчица",
+     "vi": "sói cái",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ягнёнок",
+     "vi": "cừu non",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "тулуп",
+     "vi": "áo khoác bằng da/lông cừu; ở đây chỉ bộ lông con cừu",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "взаправду",
+     "vi": "thật ra, quả thật (khẩu ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "побожиться",
+     "vi": "thề (có Chúa chứng giám)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "присяга",
+     "vi": "lời tuyên thệ; целовать присягу — hôn thánh vật để thề",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "сметить",
+     "vi": "để ý nhận ra (khẩu ngữ cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "подобру-поздорову",
+     "vi": "bình an vô sự, êm thấm mà rút lui (thành ngữ)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

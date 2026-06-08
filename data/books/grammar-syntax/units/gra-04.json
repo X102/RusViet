@@ -1,0 +1,1652 @@
+{
+ "id": "gra-04",
+ "num": 4,
+ "title": "Sự điều khiển của danh từ",
+ "vi": "Sự điều khiển của danh từ",
+ "ru": "Управление существительных",
+ "icon": "🎯",
+ "color": "#f59e0b",
+ "sectionPrefix": "gra-04-s",
+ "sections": [
+  {
+   "id": "gra-04-s001",
+   "type": "grammar",
+   "title": "Sự điều khiển của danh từ",
+   "num": null,
+   "blocks": [
+    {
+     "t": "note",
+     "text": "! (Gợi ý ngữ pháp): Các danh từ được tạo thành từ động từ thường giữ lại các phương án điều khiển của động từ đó."
+    }
+   ]
+  },
+  {
+   "id": "gra-04-s002",
+   "type": "exercise",
+   "title": "Упражнение 14",
+   "num": 14,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Đọc các cụm từ danh từ + danh từ không có giới từ. Chú ý đến ý nghĩa của các từ phụ thuộc."
+    },
+    {
+     "t": "para",
+     "text": "а) Существи́тельное + роди́тельный паде́ж существи́тельного (Danh từ + danh từ Cách 2):"
+    },
+    {
+     "t": "para",
+     "text": "Ты́сяча (дю́жина, ма́сса, мо́ре) вопро́сов (một nghìn (một tá, vô số, biển) câu hỏi); часть (до́ля, че́тверть, полови́на) урожа́я (một phần (một phần, một phần tư, một nửa) vụ mùa); стака́н (глото́к, ло́жка) воды́ (một cốc (một ngụm, một thìa) nước), кусо́к (мешо́к, буха́нка) хле́ба (một miếng (một bao, một ổ) bánh mì), па́чка (паке́т, горсть) со́ли (một gói (một túi, một nắm) muối); толпа́ (ку́ча, гру́ппа) люде́й (một đám đông (một đống/đám, một nhóm) người); ста́я воробьёв (đàn chim sẻ), ста́до коро́в (đàn bò); карти́на худо́жника (bức tranh của họa sĩ), кабине́т отца́ (phòng làm việc của bố), кни́га учи́теля (sách của giáo viên); у́гол ко́мнаты (góc phòng), команди́р отря́да (chỉ huy biệt đội), дипло́м университе́та (bằng tốt nghiệp đại học), уча́стник ми́тинга (người tham gia mít tinh), вре́мя го́да (mùa trong năm), прогно́з пого́ды (dự báo thời tiết)."
+    },
+    {
+     "t": "para",
+     "text": "Жела́ть сча́стья — пожела́ние сча́стья (chúc hạnh phúc — lời chúc hạnh phúc), достига́ть верши́ны — достиже́ние верши́ны (đạt tới đỉnh cao — sự đạt tới đỉnh cao), ждать реше́ния — ожида́ние реше́ния (chờ đợi quyết định — sự chờ đợi quyết định), боя́ться темноты́ — боя́знь темноты́ (sợ bóng tối — sự sợ hãi bóng tối),."
+    },
+    {
+     "t": "para",
+     "text": "б) Существи́тельное + да́тельный паде́ж существи́тельного (Danh từ + danh từ Cách 3):"
+    },
+    {
+     "t": "para",
+     "text": "Сла́ва победи́телям (vinh quang cho những người chiến thắng), па́мять геро́ям (tưởng nhớ các anh hùng), кре́сло президе́нту (ghế cho tổng thống), доро́га молоды́м (đường cho người trẻ), почёт пенсионе́рам (sự tôn trọng đối với người về hưu); счёт дням (sự đếm ngày/tính ngày), письмо́ колле́ге (thư cho đồng nghiệp), пода́рок отцу́ (quà cho bố), проте́ст прави́тельству (sự phản đối chính phủ)."
+    },
+    {
+     "t": "para",
+     "text": "Доверя́ть лю́дям — дове́рие лю́дям (tin tưởng mọi người — sự tin tưởng mọi người); улыбну́ться ребёнку — улы́бка ребёнку (mỉm cười với đứa bé — nụ cười với đứa bé); сочу́вствовать дру́гу (го́рю) — сочу́вствие дру́гу (го́рю) (cảm thông với bạn (với nỗi đau) — sự cảm thông với bạn (với nỗi đau)); меша́ть заня́тиям — поме́ха заня́тиям (làm phiền việc học — sự cản trở việc học); вреди́ть здоро́вью — вред здоро́вью (gây hại cho sức khỏe — sự gây hại cho sức khỏe); сообщи́ть прия́телю — сообще́ние прия́телю (thông báo cho bạn — tin nhắn/thông báo cho bạn)."
+    },
+    {
+     "t": "para",
+     "text": "в) Существи́тельное + вини́тельный паде́ж существи́тельного (Danh từ + danh từ Cách 4):"
+    },
+    {
+     "t": "para",
+     "text": "(Ghi chú ngữ pháp): Đối với sự điều khiển không giới từ của danh từ, các biến thể với từ phụ thuộc ở Cách 4 (Винительный падеж) là không đặc trưng (không được sử dụng). So sánh: чита́ть (cái gì?) рома́н (кни́гу) — чте́ние (của cái gì?) рома́на (кни́ги) (đọc tiểu thuyết/sách — việc đọc tiểu thuyết/sách), изуча́ть (cái gì?) ру́сский язы́к — изуче́ние (của cái gì?) ру́сского языка́ (học tiếng Nga — việc học tiếng Nga)."
+    },
+    {
+     "t": "para",
+     "text": "г) Существи́тельное + твори́тельный паде́ж существи́тельного (Danh từ + danh từ Cách 5):"
+    },
+    {
+     "t": "para",
+     "text": "Увлека́ться (наслажда́ться, восхища́ться) поэ́зией — увлече́ние (наслажде́ние, восхище́ние) поэ́зией (say mê (thưởng thức, ngưỡng mộ) thơ ca — niềm say mê (sự thưởng thức, sự ngưỡng mộ) thơ ca); занима́ться спо́ртом — заня́тие спо́ртом (tập thể thao — việc tập thể thao); руководи́ть людьми́ — руково́дство людьми́ (lãnh đạo con người — sự lãnh đạo con người); заболе́ть гри́ппом — заболева́ние гри́ппом (mắc bệnh cúm — sự mắc bệnh cúm)."
+    },
+    {
+     "t": "para",
+     "text": "д) Существи́тельное + предло́жный паде́ж существи́тельного (Danh từ + danh từ Cách 6):"
+    },
+    {
+     "t": "para",
+     "text": "(Ghi chú ngữ pháp): Danh từ ở Cách 6 (Предложный падеж) chỉ được sử dụng với giới từ."
+    },
+    {
+     "t": "para",
+     "text": "Với mỗi danh từ hãy đặt một vài cụm từ. Biến đổi chúng theo số và cách."
+    }
+   ]
+  },
+  {
+   "id": "gra-04-s003",
+   "type": "exercise",
+   "title": "Упражнение 15",
+   "num": 15,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Sử dụng các ý nghĩa dưới đây, hãy thiết lập sự tương ứng của chúng với các thành phần phụ thuộc trong thành phần cụm danh từ không giới từ ở bài tập 14. Xác định chúng đặc trưng cho những cách nào."
+    },
+    {
+     "t": "para",
+     "text": "Значе́ние информати́вного восполне́ния (Ý nghĩa bổ sung thông tin):"
+    },
+    {
+     "t": "para",
+     "text": "субъе́кт владе́ния (chủ thể sở hữu) -> Đặc trưng cho Cách 2 (Родительный падеж)."
+    },
+    {
+     "t": "para",
+     "text": "Ví dụ từ bài 14: кабине́т отца́ (phòng của bố), кни́га учи́теля (sách của giáo viên)."
+    },
+    {
+     "t": "para",
+     "text": "объе́кт предназначе́ния (đối tượng của sự định hướng/đích đến/dành cho ai) -> Đặc trưng cho Cách 3 (Дательный падеж)."
+    },
+    {
+     "t": "para",
+     "text": "Ví dụ từ bài 14: письмо́ колле́ге (thư cho đồng nghiệp), пода́рок отцу́ (quà cho bố), па́мять геро́ям (tưởng nhớ các anh hùng)."
+    },
+    {
+     "t": "para",
+     "text": "объе́кт ка́чественного представле́ния (đối tượng biểu thị phẩm chất/tính chất) -> Đặc trưng cho Cách 2 (Родительный падеж)."
+    },
+    {
+     "t": "para",
+     "text": "Ví dụ từ bài 14: вре́мя го́да (mùa trong năm - thời gian có tính chất của mùa), ста́я воробьёв (đàn chim sẻ - tập hợp có tính chất là chim sẻ), уча́стник ми́тинга (người tham gia mít tinh)."
+    },
+    {
+     "t": "para",
+     "text": "объе́кт коли́чественного представле́ния (đối tượng biểu thị số lượng) -> Đặc trưng cho Cách 2 (Родительный падеж)."
+    },
+    {
+     "t": "para",
+     "text": "Ví dụ từ bài 14: ты́сяча вопро́сов (ngàn câu hỏi), стака́н воды́ (cốc nước), ку́ча люде́й (đám người)."
+    },
+    {
+     "t": "para",
+     "text": "объе́кт временно́го и́ли простра́нственного представле́ния (đối tượng biểu thị thời gian hoặc không gian) -> Đặc trưng cho Cách 2 (Родительный падеж)."
+    },
+    {
+     "t": "para",
+     "text": "Ví dụ từ bài 14: у́гол ко́мнаты (góc phòng - không gian), вре́мя го́да (thời gian)."
+    },
+    {
+     "t": "para",
+     "text": "объе́кт физи́ческих де́йствий (đối tượng của hành động vật lý) -> Đặc trưng cho Cách 2 (Родительный падеж) (khi chuyển từ động từ + Cách 4 sang danh từ + Cách 2)."
+    },
+    {
+     "t": "para",
+     "text": "Ví dụ từ bài 14: достиже́ние верши́ны (đạt tới đỉnh), чте́ние рома́на (việc đọc tiểu thuyết - lấy từ ghi chú ngữ pháp), изуче́ние языка́ (việc học ngôn ngữ),."
+    },
+    {
+     "t": "para",
+     "text": "объе́кт эмоциона́льного отноше́ния (đối tượng của thái độ cảm xúc) -> Đặc trưng cho:"
+    },
+    {
+     "t": "para",
+     "text": "Cách 2 (Родительный падеж): боя́знь темноты́ (sợ bóng tối), жела́ние сча́стья (mong muốn hạnh phúc)."
+    },
+    {
+     "t": "para",
+     "text": "Cách 3 (Дательный падеж): дове́рие лю́дям (tin tưởng mọi người), сочу́вствие дру́гу (cảm thông với bạn)."
+    },
+    {
+     "t": "para",
+     "text": "Cách 5 (Творительный падеж): увлече́ние поэ́зией (say mê thơ ca), восхище́ние поэ́зией (ngưỡng mộ thơ ca)."
+    },
+    {
+     "t": "note",
+     "text": "! (Gợi ý ngữ pháp): Các danh từ được tạo thành từ động từ thường giữ lại các phương án điều khiển của động từ đó."
+    },
+    {
+     "t": "note",
+     "text": "! (Gợi ý ngữ pháp): Đối với sự điều khiển không giới từ của danh từ, các biến thể với từ phụ thuộc ở Cách 4 (Винительный падеж) là không đặc trưng (không được sử dụng). So sánh: чита́ть (cái gì?) рома́н (кни́гу) — чте́ние (của cái gì?) рома́на (кни́ги) (đọc tiểu thuyết/sách — việc đọc tiểu thuyết/sách), изуча́ть (cái gì?) ру́сский язы́к — изуче́ние (của cái gì?) ру́сского языка́ (học tiếng Nga — việc học tiếng Nga)."
+    },
+    {
+     "t": "note",
+     "text": "! (Gợi ý ngữ pháp): Danh từ ở Cách 6 (Предложный падеж) chỉ được sử dụng với giới từ."
+    }
+   ]
+  },
+  {
+   "id": "gra-04-s004",
+   "type": "exercise",
+   "title": "Упражнение 16",
+   "num": 16,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Hãy tìm trong văn bản các cụm từ danh từ + danh từ (đại từ) không có giới từ. Xác định cách và ý nghĩa của các từ phụ thuộc."
+    },
+    {
+     "t": "subhead",
+     "text": "а)"
+    },
+    {
+     "t": "para",
+     "text": "Э́то стра́нная исто́рия, така́я стра́нная, что и поня́ть её нельзя́ тому́, кто не́ был в ла́гере, кто не зна́ет тёмных глуби́н уголо́вного ми́ра, блатно́го ца́рства."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Đây là một câu chuyện kỳ lạ, kỳ lạ đến mức người chưa từng ở trại cải tạo, người không biết những chiều sâu đen tối của thế giới tội phạm, của vương quốc \"blatnoy\" (giới tội phạm chuyên nghiệp), thì không thể hiểu được."
+    },
+    {
+     "t": "para",
+     "text": "Cụm từ: глуби́н ми́ра (những chiều sâu của thế giới), (глуби́н) ца́рства ((những chiều sâu) của vương quốc)."
+    },
+    {
+     "t": "para",
+     "text": "Phân tích: Danh từ phụ thuộc (ми́ра, ца́рства) ở Cách 2 (Родительный падеж), chỉ quan hệ sở hữu/bộ phận của tổng thể."
+    },
+    {
+     "t": "para",
+     "text": "Ла́герь — э́то дно жи́зни."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Trại cải tạo — đó là đáy của cuộc đời."
+    },
+    {
+     "t": "para",
+     "text": "Cụm từ: дно жи́зни (đáy cuộc đời)."
+    },
+    {
+     "t": "para",
+     "text": "Phân tích: Danh từ phụ thuộc (жи́зни) ở Cách 2, chỉ quan hệ bộ phận/thuộc về."
+    },
+    {
+     "t": "para",
+     "text": "Престу́пный мир — э́то не дно дна."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Thế giới tội phạm — đó không phải là cái đáy của cái đáy."
+    },
+    {
+     "t": "para",
+     "text": "Cụm từ: дно дна (đáy của cái đáy)."
+    },
+    {
+     "t": "para",
+     "text": "Phân tích: Danh từ phụ thuộc (дна) ở Cách 2, chỉ quan hệ bộ phận."
+    },
+    {
+     "t": "para",
+     "text": "Э́то совсе́м, совсе́м друго́е, нечелове́ческое."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Đó là cái hoàn toàn, hoàn toàn khác, phi nhân tính."
+    },
+    {
+     "t": "para",
+     "text": "Есть бана́льная фра́за: исто́рия повторя́ется два́жды — пе́рвый раз как траге́дия, второ́й раз как фарс."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Có một câu nói sáo rỗng: lịch sử lặp lại hai lần — lần đầu như một bi kịch, lần thứ hai như một trò hề."
+    },
+    {
+     "t": "para",
+     "text": "Нет. Есть ещё тре́тье отраже́ние тех же собы́тий, того́ же сюже́та, отраже́ние в во́гнутом зе́ркале подзе́много ми́ра."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Không. Còn có sự phản chiếu lần thứ ba của chính những sự kiện đó, của chính cốt truyện đó, sự phản chiếu trong chiếc gương lõm của thế giới ngầm."
+    },
+    {
+     "t": "para",
+     "text": "Cụm từ: отраже́ние собы́тий (sự phản chiếu các sự kiện), (отраже́ние) сюже́та ((sự phản chiếu) cốt truyện), зе́ркале ми́ра (chiếc gương của thế giới)."
+    },
+    {
+     "t": "para",
+     "text": "Phân tích: Danh từ phụ thuộc (собы́тий, сюже́та, ми́ра) ở Cách 2, chỉ đối tượng của hành động (danh từ hóa từ động từ) hoặc sở hữu."
+    },
+    {
+     "t": "para",
+     "text": "Сюже́т невообрази́м и всё же реа́лен, существу́ет взапра́вду, живёт ря́дом с на́ми."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Cốt truyện không thể tưởng tượng nổi nhưng vẫn có thật, tồn tại thực sự, sống ngay bên cạnh chúng ta."
+    },
+    {
+     "t": "para",
+     "text": "В э́том во́гнутом зе́ркале чувств и посту́пков отража́ются вполне́ реа́льные ви́селицы на при́исковых «прила́вках», «суда́х че́сти» блатаре́й."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Trong chiếc gương lõm của những cảm xúc và hành động này phản chiếu những giá treo cổ hoàn toàn có thật trên các \"quầy\" ở mỏ, trong các \"tòa án danh dự\" của giới tội phạm."
+    },
+    {
+     "t": "para",
+     "text": "Cụm từ: зе́ркале чувств (gương của cảm xúc), (зе́ркале) посту́пков ((gương) của hành động), суда́х че́сти (tòa án danh dự), (суда́х) блатаре́й ((tòa án) của dân anh chị/tội phạm)."
+    },
+    {
+     "t": "para",
+     "text": "Phân tích: Danh từ phụ thuộc (чувств, посту́пков, че́сти, блатаре́й) ở Cách 2, chỉ định ngữ, tính chất hoặc sở hữu."
+    },
+    {
+     "t": "para",
+     "text": "Здесь игра́ют в войну́, повторя́ют спекта́кли войны́ и льётся жива́я кровь (В. Шала́мов)."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Ở đây người ta chơi trò chiến tranh, lặp lại các màn kịch của chiến tranh và máu tươi đang đổ (V. Shalamov)."
+    },
+    {
+     "t": "para",
+     "text": "Cụm từ: спекта́кли войны́ (các màn kịch/vở kịch của chiến tranh)."
+    },
+    {
+     "t": "para",
+     "text": "Phân tích: Danh từ phụ thuộc (войны́) ở Cách 2, chỉ nội dung/đề tài."
+    },
+    {
+     "t": "subhead",
+     "text": "б)"
+    },
+    {
+     "t": "para",
+     "text": "Не то что́бы Ни́ка была́ равноду́шна к удо́бствам — она́ с патологи́ческим постоя́нством ока́зывалась в том са́мом кре́сле, куда́ мне хоте́лось сесть, — но предме́ты существова́ли для неё то́лько пока́ она́ и́ми по́льзовалась, а пото́м исчеза́ли."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Không phải là Nika thờ ơ với sự tiện nghi — cô ấy với sự kiên định bệnh hoạn luôn xuất hiện đúng ở chiếc ghế bành mà tôi muốn ngồi, — nhưng các đồ vật chỉ tồn tại đối với cô ấy khi cô ấy sử dụng chúng, còn sau đó thì biến mất."
+    },
+    {
+     "t": "para",
+     "text": "Наве́рное, поэ́тому у неё не́ было практи́чески ничего́ своего́; я иногда́ ду́мал, что и́менно тако́й тип и пыта́лись вы́вести коммуни́сты дре́вности, не име́я поня́тия, как бу́дет вы́глядеть результа́т их уси́лий."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Có lẽ, vì thế mà cô ấy thực tế không có gì là của riêng mình; đôi khi tôi nghĩ rằng chính kiểu người như vậy mà những người cộng sản thời xưa đã cố gắng tạo ra, mà không có khái niệm kết quả những nỗ lực của họ sẽ trông như thế nào."
+    },
+    {
+     "t": "para",
+     "text": "Cụm từ: коммуни́сты дре́вности (những người cộng sản thời xưa/của cổ đại), результа́т уси́лий (kết quả của những nỗ lực)."
+    },
+    {
+     "t": "para",
+     "text": "Phân tích: Danh từ phụ thuộc (дре́вности, уси́лий) ở Cách 2, chỉ thời gian/thuộc tính và chủ thể của hành động."
+    },
+    {
+     "t": "para",
+     "text": "С чужи́ми чу́вствами она́ не счита́лась, но не и́з-за скве́рного скла́да хара́ктера, а оттого́, что ча́сто не дога́дывалась о существова́нии э́тих чувств."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Cô ấy không tính đến cảm xúc của người khác, nhưng không phải do cấu tạo tính cách tồi tệ, mà do cô ấy thường không đoán được về sự tồn tại của những cảm xúc này."
+    },
+    {
+     "t": "para",
+     "text": "Cụm từ: скла́да хара́ктера (cấu tạo/kho của tính cách), существова́нии чувств (sự tồn tại của những cảm xúc)."
+    },
+    {
+     "t": "para",
+     "text": "Phân tích: Danh từ phụ thuộc (хара́ктера, чувств) ở Cách 2, chỉ cái toàn thể chứa đặc điểm và chủ thể của sự tồn tại."
+    },
+    {
+     "t": "para",
+     "text": "Когда́ она́ случа́йно разби́ла стари́нную са́харницу кузнецо́вского фарфо́ра, стоя́вшую на шкафу́, и я че́рез час по́сле э́того неожи́данно для себя́ дал ей пощёчину, Ни́ка про́сто не поняла́, за что её уда́рили, — она́ вы́скочила вон, и, когда́ я пришёл извиня́ться, мо́лча отверну́лась к стене́."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Khi cô ấy tình cờ làm vỡ chiếc bát đường cổ bằng sứ Kuznetsov để trên tủ, và một giờ sau đó tôi bất ngờ tự tát cô ấy một cái, Nika đơn giản là không hiểu tại sao mình bị đánh, — cô ấy lao ra ngoài, và khi tôi đến xin lỗi, cô ấy lặng lẽ quay mặt vào tường."
+    },
+    {
+     "t": "para",
+     "text": "Cụm từ: са́харницу фарфо́ра (bát đường bằng sứ)."
+    },
+    {
+     "t": "para",
+     "text": "Phân tích: Danh từ phụ thuộc (фарфо́ра) ở Cách 2, chỉ chất liệu (nghĩa: bát đường làm từ sứ)."
+    },
+    {
+     "t": "para",
+     "text": "Для Ни́ки са́харница была́ про́сто усечённым ко́нусом из блестя́щего материа́ла, наби́тым бума́жками; для меня́ — че́м-то вро́де копи́лки, где храни́лись со́бранные за всю жизнь доказа́тельства реа́льности бытия́: страни́чка из давно́ не существу́ющей записно́й кни́жки с телефо́ном, по кото́рому я так и не позвони́л; биле́т в «Иллюзио́н» с неото́рванным контро́лем; ма́ленькая фотогра́фия и не́сколько незапо́лненных апте́чных реце́птов."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Đối với Nika, chiếc bát đường chỉ đơn giản là một hình nón cụt làm bằng vật liệu sáng bóng, nhồi đầy giấy vụn; đối với tôi — nó giống như một con heo đất, nơi lưu giữ những bằng chứng về tính thực tế của sự tồn tại được thu thập trong cả cuộc đời: một trang giấy từ cuốn sổ tay đã không còn tồn tại từ lâu với số điện thoại mà tôi chưa bao giờ gọi; tấm vé vào rạp \"Illuzion\" với phần kiểm soát chưa bị xé; một bức ảnh nhỏ và vài đơn thuốc chưa điền."
+    },
+    {
+     "t": "para",
+     "text": "Cụm từ: доказа́тельства реа́льности (bằng chứng của thực tế), реа́льности бытия́ (thực tế của sự tồn tại/sinh tồn)."
+    },
+    {
+     "t": "para",
+     "text": "Phân tích: Danh từ phụ thuộc (реа́льности, бытия́) ở Cách 2, chỉ nội dung/thuộc tính."
+    },
+    {
+     "t": "para",
+     "text": "Мне бы́ло сты́дно пе́ред Ни́кой, а извиня́ться бы́ло глу́по; я не знал, что де́лать, и оттого́ говори́л витиева́то и пу́тано (В. Пеле́вин)."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Tôi thấy xấu hổ trước Nika, mà xin lỗi thì thật ngốc nghếch; tôi không biết phải làm gì, và vì thế tôi nói chuyện một cách hoa mỹ và rối rắm (V. Pelevin)."
+    }
+   ]
+  },
+  {
+   "id": "gra-04-s005",
+   "type": "exercise",
+   "title": "Упражнение 17",
+   "num": 17,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Mở ngoặc đơn, sử dụng các từ ở đúng cách. Giải thích sự lựa chọn của bạn."
+    },
+    {
+     "t": "model",
+     "text": "Mẫu: Твоё легкомы́сленное поведе́ние нано́сит вред (учёба). — вреди́ть чему́? учёбе; Твоё легкомы́сленное поведе́ние нано́сит вред учёбе. (Hành vi nhẹ dạ của bạn gây hại cho việc học)."
+    },
+    {
+     "t": "para",
+     "text": "Изуче́ние (любо́й язы́к) тре́бует уси́лий и свобо́дного вре́мени;"
+    },
+    {
+     "t": "para",
+     "text": "Đáp án: любо́го языка́."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Danh từ được tạo thành từ động từ (изуче́ние từ изуча́ть + Cách 4 cái gì) đòi hỏi danh từ phụ thuộc ở Cách 2 (Родительный падеж) không giới từ (việc học của cái gì/ngôn ngữ nào)."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Việc học bất kỳ ngôn ngữ nào cũng đòi hỏi nỗ lực và thời gian rảnh."
+    },
+    {
+     "t": "para",
+     "text": "Он сде́лал то, на что никто́ из нас не реши́лся, он вы́разил (сочу́вствие) э́тому челове́ку;"
+    },
+    {
+     "t": "para",
+     "text": "Đáp án: сочу́вствие."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Động từ вы́разил (đã bày tỏ) điều khiển danh từ ở Cách 4 (Винительный падеж) làm bổ ngữ trực tiếp (bày tỏ cái gì? -> sự cảm thông). Bản thân từ сочувствие điều khiển этому человеку (Cách 3), đã cho sẵn trong câu."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Anh ấy đã làm điều mà không ai trong chúng tôi dám làm, anh ấy đã bày tỏ sự cảm thông với người này."
+    },
+    {
+     "t": "para",
+     "text": "Боя́знь (темнота́) — э́то у меня́ с де́тства;"
+    },
+    {
+     "t": "para",
+     "text": "Đáp án: темноты́."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Danh từ боя́знь (sự sợ hãi) xuất phát từ động từ боя́ться, vốn đòi hỏi Cách 2 (sợ cái gì). Do đó, từ phụ thuộc cũng ở Cách 2."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Nỗi sợ bóng tối — điều đó tôi bị từ nhỏ."
+    },
+    {
+     "t": "para",
+     "text": "При заболева́нии (грипп) ре́зко повыша́ется температу́ра;"
+    },
+    {
+     "t": "para",
+     "text": "Đáp án: гри́ппом."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Danh từ заболева́ние (sự mắc bệnh) xuất phát từ động từ заболе́ть, vốn đòi hỏi Cách 5 (Творительный падеж) (mắc bệnh gì). Do đó, từ phụ thuộc ở Cách 5."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Khi mắc bệnh cúm, nhiệt độ tăng đột ngột."
+    },
+    {
+     "t": "para",
+     "text": "Прове́рка (контро́льная рабо́та) показа́ла, что нам есть над чем рабо́тать;"
+    },
+    {
+     "t": "para",
+     "text": "Đáp án: контро́льной рабо́ты."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Danh từ прове́рка (sự kiểm tra) xuất phát từ động từ прове́рить (+ Cách 4). Theo quy tắc, khi chuyển sang danh từ, đối tượng chuyển sang Cách 2 không giới từ."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Việc kiểm tra bài kiểm tra đã cho thấy rằng chúng ta còn nhiều việc phải làm."
+    },
+    {
+     "t": "para",
+     "text": "Руково́дство (лю́ди) — де́ло непросто́е: легко́ отдава́ть прика́зы, но нелегко́ доби́ться того́, что́бы их выполня́ли;"
+    },
+    {
+     "t": "para",
+     "text": "Đáp án: людьми́."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Danh từ руково́дство (sự lãnh đạo) xuất phát từ động từ руководи́ть, vốn đòi hỏi Cách 5 (lãnh đạo ai). Do đó, từ phụ thuộc giữ nguyên Cách 5."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Việc lãnh đạo con người là việc không đơn giản: ra lệnh thì dễ, nhưng để đạt được việc mọi người thực hiện chúng thì không dễ."
+    },
+    {
+     "t": "para",
+     "text": "В любо́м демократи́ческом о́бществе подчине́ние (зако́н), да́же в уще́рб чу́вству справедли́вости, должно́ быть основны́м пра́вилом жи́зни;"
+    },
+    {
+     "t": "para",
+     "text": "Đáp án: зако́ну."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Danh từ подчине́ние (sự tuân tùng/phục tùng) xuất phát từ động từ подчиня́ться, vốn đòi hỏi Cách 3 (Дательный падеж) (phục tùng cái gì/ai). Do đó, từ phụ thuộc ở Cách 3."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Trong bất kỳ xã hội dân chủ nào, sự tuân thủ pháp luật, ngay cả khi làm tổn hại đến cảm giác công bằng, cũng phải là quy tắc sống cơ bản."
+    },
+    {
+     "t": "para",
+     "text": "Не́сколько часо́в мы провели́ на вокза́ле в ожида́нии (по́езд);"
+    },
+    {
+     "t": "para",
+     "text": "Đáp án: по́езда."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Danh từ ожида́ние (sự chờ đợi) xuất phát từ động từ ожида́ть (chờ đợi), thường đi với Cách 2 (chờ cái gì). Do đó, từ phụ thuộc ở Cách 2."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Chúng tôi đã trải qua vài giờ ở nhà ga trong sự chờ đợi tàu."
+    },
+    {
+     "t": "para",
+     "text": "С ка́ждым ча́сом угро́за (наводне́ние) станови́лась всё бо́лее реа́льной;"
+    },
+    {
+     "t": "para",
+     "text": "Đáp án: наводне́ния."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Danh từ угро́за (sự đe dọa/nguy cơ) yêu cầu bổ ngữ ở Cách 2 (nguy cơ của cái gì)."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Từng giờ trôi qua, nguy cơ lũ lụt trở nên ngày càng thực tế hơn."
+    },
+    {
+     "t": "para",
+     "text": "В то вре́мя никто́ из нас не заду́мывался о бу́дущем: увлече́ние (кни́ги) и наслажде́ние (му́зыка) отнима́ли у нас почти́ всё свобо́дное вре́мя."
+    },
+    {
+     "t": "para",
+     "text": "Đáp án: кни́гами, му́зыкой."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Danh từ увлече́ние (sự say mê) từ động từ увлека́ться (+ Cách 5); danh từ наслажде́ние (sự thưởng thức) từ động từ наслажда́ться (+ Cách 5). Cả hai đều giữ lại sự điều khiển Cách 5."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Vào thời đó không ai trong chúng tôi suy nghĩ về tương lai: niềm say mê sách vở và sự thưởng thức âm nhạc đã chiếm gần như toàn bộ thời gian rảnh của chúng tôi."
+    }
+   ]
+  },
+  {
+   "id": "gra-04-s006",
+   "type": "exercise",
+   "title": "Упражнение 18",
+   "num": 18,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Điền các từ trong ngoặc vào chỗ trống ở đúng cách. Giải thích sự lựa chọn của bạn."
+    },
+    {
+     "t": "para",
+     "text": "Он всегда́ о́чень о́стро чу́вствовал свою́ вину́. Чу́вство свое́й вины́ не оставля́ло его́ ни на мину́ту (своя́ вина́);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Anh ấy luôn cảm thấy lỗi lầm của mình rất sâu sắc. Cảm giác về lỗi lầm của mình không rời bỏ anh ấy dù chỉ một phút."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "чу́вствовал (что?) свою́ вину́: Động từ чу́вствовать (cảm thấy) điều khiển danh từ ở Cách 4 (Đối cách - Винительный падеж) làm bổ ngữ trực tiếp."
+    },
+    {
+     "t": "para",
+     "text": "чу́вство (чего?) свое́й вины́: Danh từ чу́вство (cảm giác) điều khiển danh từ phụ thuộc ở Cách 2 (Sinh cách - Родительный падеж)."
+    },
+    {
+     "t": "para",
+     "text": "В э́том году́ мы реши́ли стро́ить дом. Строи́тельство до́ма продолжа́лось шесть ме́сяцев (дом);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Năm nay chúng tôi quyết định xây nhà. Việc xây dựng ngôi nhà đã kéo dài sáu tháng."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "стро́ить (что?) дом: Động từ стро́ить (xây) + Cách 4."
+    },
+    {
+     "t": "para",
+     "text": "строи́тельство (чего?) до́ма: Danh từ строи́тельство (sự xây dựng) + Cách 2."
+    },
+    {
+     "t": "para",
+     "text": "На чте́ние худо́жественной литерату́ры у меня́ обы́чно не остаётся вре́мени. Чита́ть худо́жественную литерату́ру — заня́тие о́чень увлека́тельное (худо́жественная литерату́ра);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Tôi thường không còn thời gian cho việc đọc văn học nghệ thuật. Đọc văn học nghệ thuật là một hoạt động rất lôi cuốn."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "чте́ние (чего?) худо́жественной литерату́ры: Danh từ чте́ние (việc đọc) + Cách 2."
+    },
+    {
+     "t": "para",
+     "text": "чита́ть (что?) худо́жественную литерату́ру: Động từ чита́ть (đọc) + Cách 4."
+    },
+    {
+     "t": "para",
+     "text": "К вы́борам президе́нта все гото́вились зара́нее. В сле́дующем году́ мы бу́дем выбира́ть президе́нта (президе́нт);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Mọi người đều chuẩn bị trước cho cuộc bầu cử tổng thống. Vào năm tới chúng tôi sẽ bầu tổng thống."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "к вы́борам (кого?) президе́нта: Danh từ вы́боры (cuộc bầu cử) + Cách 2."
+    },
+    {
+     "t": "para",
+     "text": "выбира́ть (кого?) президе́нта: Động từ выбира́ть (bầu chọn) + Cách 4 (với danh từ động vật, Cách 4 giống Cách 2)."
+    },
+    {
+     "t": "para",
+     "text": "Нам на́до развива́ть дру́жеские отноше́ния со все́ми стра́нами. Междунаро́дные фестива́ли, спорти́вные соревнова́ния, обме́н о́пытом спосо́бствуют разви́тию дру́жеских отноше́ний ме́жду стра́нами (дру́жеские отноше́ния);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Chúng ta cần phát triển quan hệ hữu nghị với tất cả các nước. Các liên hoan quốc tế, thi đấu thể thao, trao đổi kinh nghiệm góp phần vào sự phát triển quan hệ hữu nghị giữa các nước."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "развива́ть (что?) дру́жеские отноше́ния: Động từ развива́ть (phát triển) + Cách 4."
+    },
+    {
+     "t": "para",
+     "text": "разви́тию (чего?) дру́жеских отноше́ний: Danh từ разви́тие (sự phát triển) + Cách 2."
+    },
+    {
+     "t": "para",
+     "text": "Вы мо́жете жить в гости́нице, но е́сли вы плани́руете оста́ться здесь на дли́тельный срок, лу́чше купи́ть кварти́ру. На поку́пку кварти́ры тре́буется мно́го вре́мени (кварти́ра);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Bạn có thể sống ở khách sạn, nhưng nếu bạn định ở lại đây trong thời gian dài, tốt hơn là mua một căn hộ. Việc mua căn hộ đòi hỏi nhiều thời gian."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "купи́ть (что?) кварти́ру: Động từ купи́ть (mua) + Cách 4."
+    },
+    {
+     "t": "para",
+     "text": "на поку́пку (чего?) кварти́ры: Danh từ поку́пка (việc mua/sự mua sắm) + Cách 2."
+    },
+    {
+     "t": "para",
+     "text": "Е́сли вы соблюда́ете пра́вила доро́жного движе́ния, вы не попадёте в ава́рию. При соблюде́нии пра́вил доро́жного движе́ния ава́рии вам не страшны́ (пра́вила доро́жного движе́ния);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Nếu bạn tuân thủ luật giao thông, bạn sẽ không gặp tai nạn. Khi tuân thủ luật giao thông, tai nạn không đáng sợ đối với bạn."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "соблюда́ете (что?) пра́вила: Động từ соблюда́ть (tuân thủ) + Cách 4."
+    },
+    {
+     "t": "para",
+     "text": "при соблюде́нии (чего?) пра́вил: Danh từ соблюде́ние (sự tuân thủ) + Cách 2."
+    },
+    {
+     "t": "para",
+     "text": "Опиши́те собы́тия, кото́рые произошли́ с ва́ми вчера́ ве́чером. При описа́нии собы́тий стара́йтесь не пропусти́ть ни одно́й дета́ли (собы́тия);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Hãy mô tả những sự kiện đã xảy ra với bạn vào tối hôm qua. Khi mô tả các sự kiện, hãy cố gắng không bỏ sót chi tiết nào."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "опиши́те (что?) собы́тия: Động từ описа́ть (mô tả) + Cách 4."
+    },
+    {
+     "t": "para",
+     "text": "при описа́нии (чего?) собы́тий: Danh từ описа́ние (sự mô tả) + Cách 2."
+    },
+    {
+     "t": "para",
+     "text": "Я на́чал води́ть маши́ну в семна́дцать лет. Во вре́мя вожде́ния маши́ны нельзя́ ни на мину́ту отвлека́ться от доро́ги (маши́на);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Tôi bắt đầu lái xe hơi năm mười bảy tuổi. Trong khi lái xe hơi không được phép xao nhãng khỏi con đường dù chỉ một phút."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "води́ть (что?) маши́ну: Động từ води́ть (lái/dẫn) + Cách 4."
+    },
+    {
+     "t": "para",
+     "text": "вожде́ния (чего?) маши́ны: Danh từ вожде́ние (việc lái xe) + Cách 2."
+    },
+    {
+     "t": "para",
+     "text": "К приглаше́нию госте́й на́до относи́ться о́чень серьёзно: мы соста́вим спи́сок госте́й и разошлём пригласи́тельные биле́ты. В суббо́ту мы хоти́м пригласи́ть госте́й (го́сти)."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Cần phải đối xử rất nghiêm túc với việc mời khách: chúng ta sẽ lập danh sách khách và gửi thiệp mời đi. Vào thứ Bảy chúng tôi muốn mời khách."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "к приглаше́нию (кого?) госте́й: Danh từ приглаше́ние (lời mời/việc mời) + Cách 2."
+    },
+    {
+     "t": "para",
+     "text": "пригласи́ть (кого?) госте́й: Động từ пригласи́ть (mời) + Cách 4 (danh từ động vật)."
+    },
+    {
+     "t": "note",
+     "text": "! (Gợi ý ngữ pháp): Danh từ чу́вство (cảm giác/tình cảm), cũng như các danh từ được tạo thành từ các động từ điều khiển Cách 4 không giới từ (чте́ние -> чита́ть (cái gì?) кни́гу), kết hợp với các từ phụ thuộc ở Cách 2 (Родительный падеж): чу́вство до́лга (tinh thần trách nhiệm/cảm giác về bổn phận), чте́ние кни́ги (việc đọc sách)."
+    }
+   ]
+  },
+  {
+   "id": "gra-04-s007",
+   "type": "exercise",
+   "title": "Упражнение 19",
+   "num": 19,
+   "blocks": [
+    {
+     "t": "para",
+     "text": "Điền từ trong ngoặc vào chỗ trống ở Cách 3 (Tặng cách - Дательный падеж) không giới từ hoặc ở Cách 2 (Sinh cách - Родительный падеж) với giới từ для. Giải thích sự lựa chọn của bạn."
+    },
+    {
+     "t": "model",
+     "text": "Mẫu: Я пе́редал письмо́ отцу́ (tôi đưa thư cho bố - đối tượng nhận hành động). Я пе́редал письмо́ для отца́ своему́ дру́гу (tôi đưa bức thư [dành cho bố] cho bạn tôi - định ngữ chỉ mục đích/đối tượng hướng tới của bức thư)."
+    },
+    {
+     "t": "para",
+     "text": "Врач вы́писал лека́рство больно́му. Э́то лека́рство для больно́го (больно́й);"
+    },
+    {
+     "t": "instruction",
+     "text": "Dịch: Bác sĩ đã kê đơn thuốc cho người bệnh. Đây là thuốc dành cho người bệnh."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "вы́писал (кому?) больно́му: Đối tượng tiếp nhận hành động -> Cách 3."
+    },
+    {
+     "t": "para",
+     "text": "лека́рство (какое? / для кого?) для больно́го: Định ngữ chỉ mục đích/đối tượng sử dụng của thuốc -> для + Cách 2."
+    },
+    {
+     "t": "para",
+     "text": "На моём столе́ лежа́л пода́рок дру́гу. Пода́рок для дру́га я купи́л в пя́тницу ве́чером (друг);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Trên bàn tôi có một món quà [để tặng] cho bạn. Món quà [dành cho] bạn tôi đã mua vào tối thứ Sáu."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "пода́рок (кому?) дру́гу: Hướng tới đối tượng nhận -> Cách 3 (Lưu ý: подарок другу hay подарок для друга đôi khi có thể thay thế nhau, nhưng подарок mang nghĩa \"sự tặng quà\" thiên về hành động thì dùng Cách 3, còn vật thể thì thường dùng для + Cách 2. Tuy nhiên, theo ngữ cảnh bài tập và mẫu câu, câu đầu nhấn mạnh đối tượng nhận, câu sau nhấn mạnh tính chất \"dành cho ai\" của vật đã mua). Sách đáp án có thể chấp nhận cả hai hoặc ưu tiên cấu trúc song song với mẫu."
+    },
+    {
+     "t": "para",
+     "text": "Thực tế: подарок другу (quà tặng bạn), купил подарок для друга (mua quà [để cho] bạn)."
+    },
+    {
+     "t": "para",
+     "text": "Де́тям лу́чшим из того́, что мо́гут им дать роди́тели, явля́ется хоро́шее воспита́ние. Во всех стра́нах при́нято отдава́ть всё лу́чшее де́тям (де́ти);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Đối với trẻ em, điều tốt nhất mà cha mẹ có thể cho chúng là sự giáo dục tốt. Ở tất cả các nước, người ta thường dành tất cả những gì tốt nhất cho trẻ em."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "Де́тям (кому?) … явля́ется: Đối tượng trải nghiệm/hưởng lợi -> Cách 3 (đứng đầu câu làm chủ thể logic). Lưu ý: Cũng có thể dùng Для дете́й (Đối với trẻ em). Tuy nhiên, отдавать (кому?) детям ở vế sau chắc chắn là Cách 3."
+    },
+    {
+     "t": "para",
+     "text": "отдава́ть (кому?) де́тям: Hành động trao cho ai -> Cách 3."
+    },
+    {
+     "t": "para",
+     "text": "Куре́ние нано́сит вред здоро́вью. В по́лдень лу́чше не выходи́ть на пляж, но по́сле трёх часо́в дня вы мо́жете загора́ть без вреда́ для здоро́вья (здоро́вье);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Hút thuốc gây hại cho sức khỏe. Buổi trưa tốt nhất không nên ra bãi biển, nhưng sau ba giờ chiều bạn có thể tắm nắng mà không gây hại cho sức khỏe."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "вред (чему?) здоро́вью: Вредить/наносить вред điều khiển Cách 3."
+    },
+    {
+     "t": "para",
+     "text": "без вреда́ (для чего?) для здоро́вья: Bổ sung ý nghĩa cho danh từ вред (tác hại dành cho cái gì) -> для + Cách 2."
+    },
+    {
+     "t": "para",
+     "text": "По́сле выступле́ния мы подари́ли арти́сту буке́т цвето́в. В углу́ ко́мнаты стоя́л буке́т цвето́в для арти́ста (арти́ст);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Sau buổi biểu diễn chúng tôi đã tặng nghệ sĩ một bó hoa. Trong góc phòng có một bó hoa dành cho nghệ sĩ."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "подари́ли (кому?) арти́сту: Trao tặng cho ai -> Cách 3."
+    },
+    {
+     "t": "para",
+     "text": "буке́т (для кого?) для арти́ста: Bó hoa có mục đích dành cho ai -> для + Cách 2."
+    },
+    {
+     "t": "para",
+     "text": "В расписа́нии для студе́нтов не ука́заны лаборато́рные рабо́ты. На́до сообщи́ть расписа́ние студе́нтам накану́не заня́тий (студе́нты);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Trong thời khóa biểu dành cho sinh viên không ghi các giờ thực hành thí nghiệm. Cần phải thông báo thời khóa biểu cho sinh viên ngay trước buổi học."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "расписа́нии (для кого?) для студе́нтов: Thời khóa biểu thiết kế cho đối tượng nào -> для + Cách 2."
+    },
+    {
+     "t": "para",
+     "text": "сообщи́ть (кому?) студе́нтам: Thông báo cho ai -> Cách 3."
+    },
+    {
+     "t": "para",
+     "text": "Сла́ва геро́ям войны́! Сла́ва для геро́ев — поня́тие абстра́ктное, когда́ соверша́ешь по́двиг, не ду́маешь о награ́дах (геро́и);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Vinh quang cho các anh hùng chiến tranh! Vinh quang đối với các anh hùng là một khái niệm trừu tượng, khi lập chiến công, người ta không nghĩ về phần thưởng."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "Сла́ва (кому?) геро́ям: Câu cảm thán, vinh danh ai -> Cách 3."
+    },
+    {
+     "t": "para",
+     "text": "Сла́ва (для кого?) для геро́ев: Vinh quang (xét về phía/dành cho) các anh hùng -> для + Cách 2."
+    },
+    {
+     "t": "para",
+     "text": "Кни́ги чита́телям в э́тот день в библиоте́ке выдава́ла пожила́я же́нщина. На по́лках библиоте́ки стоя́ли кни́ги для чита́телей (чита́тели);"
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Một người phụ nữ lớn tuổi phát sách cho độc giả tại thư viện vào ngày hôm đó. Trên các kệ của thư viện là những cuốn sách dành cho độc giả."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "выдава́ла (кому?) чита́телям: Hành động đưa cho ai -> Cách 3."
+    },
+    {
+     "t": "para",
+     "text": "кни́ги (для кого?) для чита́телей: Sách dành cho đối tượng nào -> для + Cách 2."
+    },
+    {
+     "t": "para",
+     "text": "Приз победи́телю вручи́л олимпи́йский чемпио́н. В э́том году́ призы́ для победи́телей бы́ли предоста́влены фи́рмой «Ви́та» (победи́тели)."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Nhà vô địch Olympic đã trao giải thưởng cho người chiến thắng. Năm nay, các giải thưởng dành cho những người chiến thắng được cung cấp bởi công ty \"Vita\"."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "Приз (кому?) победи́телю: Giải thưởng (trao cho) người chiến thắng (ngữ cảnh hành động trao/nhận ẩn hoặc hiển hiện) -> Cách 3 (số ít hoặc nhiều tùy ngữ cảnh, ở đây \"vị trí người chiến thắng\" thường dùng số ít đại diện hoặc số nhiều đều được, nhưng theo câu sau là số nhiều). Sửa lại: победи́телям (cho những người chiến thắng)."
+    },
+    {
+     "t": "para",
+     "text": "призы́ (для кого?) для победи́телей: Định ngữ cho danh từ призы -> для + Cách 2."
+    },
+    {
+     "t": "note",
+     "text": "! (Gợi ý ngữ pháp): Nếu từ phụ thuộc đóng vai trò là đối tượng của hành động hoặc trạng thái, nó thường được sử dụng ở Cách 3 (Дательный падеж) không có giới từ. Khi miêu tả đồ vật (hoặc khái niệm) với chức năng định ngữ (dành cho ai/cái gì), theo quy tắc, sử dụng giới từ для + Cách 2."
+    }
+   ]
+  },
+  {
+   "id": "gra-04-s008",
+   "type": "exercise",
+   "title": "Упражнение 20",
+   "num": 20,
+   "blocks": [
+    {
+     "t": "para",
+     "text": "Ở những chỗ có thể, hãy đưa ra các phương án từ đồng nghĩa với giới từ с. Giải thích sự lựa chọn của bạn."
+    },
+    {
+     "t": "para",
+     "text": "Таре́лка су́па (đĩa súp) — таре́лка с су́пом (đĩa có súp);"
+    },
+    {
+     "t": "para",
+     "text": "буты́лка лимона́да (chai nước chanh) — буты́лка с лимона́дом (chai có nước chanh);"
+    },
+    {
+     "t": "para",
+     "text": "коча́н капу́сты (bắp cải) — không thay đổi (đây là đơn vị đo lường/hình thức tự nhiên của rau, không phải vật chứa);"
+    },
+    {
+     "t": "para",
+     "text": "ведро́ воды́ (xô nước) — ведро́ с водо́й (xô có nước);"
+    },
+    {
+     "t": "para",
+     "text": "су́мка проду́ктов (túi thực phẩm) — су́мка с проду́ктами (túi có thực phẩm);"
+    },
+    {
+     "t": "para",
+     "text": "я́щик книг (hòm sách) — я́щик с кни́гами (hòm có sách);"
+    },
+    {
+     "t": "para",
+     "text": "гроздь виногра́да (chùm nho) — không thay đổi (đây là hình thức tự nhiên của quả);"
+    },
+    {
+     "t": "para",
+     "text": "корзи́на я́блок (giỏ táo) — корзи́на с я́блоками (giỏ có táo);"
+    },
+    {
+     "t": "para",
+     "text": "паке́т молока́ (hộp/túi sữa) — паке́т с молоко́м (hộp/túi có sữa);"
+    },
+    {
+     "t": "para",
+     "text": "коро́бка игру́шек (hộp đồ chơi) — коро́бка с игру́шками (hộp có đồ chơi);"
+    },
+    {
+     "t": "para",
+     "text": "стака́н ча́я (cốc trà) — стака́н с ча́ем (cốc có trà);"
+    },
+    {
+     "t": "para",
+     "text": "бока́л шампа́нского (ly sâm panh) — бока́л с шампа́нским (ly có sâm panh);"
+    },
+    {
+     "t": "para",
+     "text": "буха́нка хле́ба (ổ bánh mì) — không thay đổi (đơn vị hình thức của bánh mì);"
+    },
+    {
+     "t": "para",
+     "text": "по́лка книг (kệ sách) — по́лка с кни́гами (kệ có sách);"
+    },
+    {
+     "t": "para",
+     "text": "кастрю́ля су́па (nồi súp) — кастрю́ля с су́пом (nồi có súp);"
+    },
+    {
+     "t": "para",
+     "text": "пли́тка шокола́да (thanh sô cô la) — không thay đổi (đơn vị hình thức);"
+    },
+    {
+     "t": "para",
+     "text": "ба́нка варе́нья (lọ mứt) — ба́нка с варе́ньем (lọ có mứt);"
+    },
+    {
+     "t": "para",
+     "text": "пучо́к морко́ви (bó cà rốt) — không thay đổi (đơn vị bó lại);"
+    },
+    {
+     "t": "para",
+     "text": "мешо́к муки́ (bao bột mì) — мешо́к с муко́й (bao có bột mì);"
+    },
+    {
+     "t": "para",
+     "text": "ва́за конфе́т (lọ/bát kẹo) — ва́за с конфе́тами (lọ/bát có kẹo)."
+    },
+    {
+     "t": "para",
+     "text": "Hãy đặt một vài cụm từ, trong đó Cách 2 của danh từ có thể thay thế bằng Cách 5 với giới từ с."
+    },
+    {
+     "t": "para",
+     "text": "Ví dụ: Ча́шка ко́фе — ча́шка с ко́фе (tách cà phê — tách có cà phê)."
+    },
+    {
+     "t": "note",
+     "text": "! (Gợi ý ngữ pháp): Nếu từ chính chỉ một vật thể thực tế, trong đó có chứa đựng cái gì đó, thì Cách 2 (Sinh cách) có thể được thay thế bằng hình thức giới từ с (ба́нка смета́ны — ба́нка со смета́ной — lọ kem chua); nếu từ chính chỉ hình thức hoặc hệ thống tổ chức của đối tượng (các đối tượng), thì sự thay thế như vậy là không thể (изги́б реки́ — khúc quanh của dòng sông, набо́р карандаше́й — bộ bút chì)."
+    }
+   ]
+  },
+  {
+   "id": "gra-04-s009",
+   "type": "exercise",
+   "title": "Упражнение 21",
+   "num": 21,
+   "blocks": [
+    {
+     "t": "para",
+     "text": "Từ các cụm động từ đã cho hãy tạo thành các cụm danh từ. Hãy ghi nhớ các danh từ đòi hỏi sau mình Cách 3 (Tặng cách) với giới từ к."
+    },
+    {
+     "t": "subhead",
+     "text": "а)"
+    },
+    {
+     "t": "para",
+     "text": "Люби́ть мать (yêu mẹ) — любо́вь к ма́тери (tình yêu đối với mẹ);"
+    },
+    {
+     "t": "para",
+     "text": "уважа́ть ста́рших (tôn trọng người lớn tuổi) — уваже́ние к ста́ршим (sự tôn trọng đối với người lớn tuổi);"
+    },
+    {
+     "t": "para",
+     "text": "ненави́деть врага́ (ghét kẻ thù) — не́нависть к врагу́ (sự căm ghét đối với kẻ thù);"
+    },
+    {
+     "t": "para",
+     "text": "сочу́вствовать бли́зким (cảm thông với người thân) — сочу́вствие к бли́зким (sự cảm thông với người thân);"
+    },
+    {
+     "t": "para",
+     "text": "симпатизи́ровать арти́сту (có thiện cảm với nghệ sĩ) — симпа́тия к арти́сту (thiện cảm đối với nghệ sĩ);"
+    },
+    {
+     "t": "para",
+     "text": "не доверя́ть чужи́м лю́дям (không tin tưởng người lạ) — недове́рие к чужи́м лю́дям (sự không tin tưởng đối với người lạ);"
+    },
+    {
+     "t": "para",
+     "text": "интересова́ться жи́вописью (quan tâm đến hội họa) — интере́с к жи́вописи (sự quan tâm đến hội họa);"
+    },
+    {
+     "t": "para",
+     "text": "зави́довать победи́телю (ghen tị với người chiến thắng) — за́висть к победи́телю (sự ghen tị với người chiến thắng);"
+    },
+    {
+     "t": "para",
+     "text": "доверя́ть врачу́ (tin tưởng bác sĩ) — дове́рие к врачу́ (sự tin cậy đối với bác sĩ);"
+    },
+    {
+     "t": "para",
+     "text": "жале́ть ребёнка (thương hại đứa bé) — жа́лость к ребёнку (lòng thương hại đối với đứa bé)."
+    },
+    {
+     "t": "subhead",
+     "text": "б)"
+    },
+    {
+     "t": "para",
+     "text": "Стыди́ться про́шлого (xấu hổ về quá khứ) — стыд за про́шлое (nỗi xấu hổ về/cho quá khứ);"
+    },
+    {
+     "t": "para",
+     "text": "горди́ться роди́телями (tự hào về bố mẹ) — го́рдость за роди́телей (niềm tự hào về/cho bố mẹ)."
+    }
+   ]
+  },
+  {
+   "id": "gra-04-s010",
+   "type": "exercise",
+   "title": "Упражнение 22",
+   "num": 22,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Từ các cụm động từ đã cho ở bài tập 21, nếu có thể, hãy tạo thành các cụm danh từ với từ phụ thuộc ở dạng Cách 2 không có giới từ. Xác định ý nghĩa của chúng. Trong trường hợp nào không thể tạo thành cụm danh từ với Cách 2?"
+    },
+    {
+     "t": "para",
+     "text": "Giải thích:"
+    },
+    {
+     "t": "para",
+     "text": "Hầu hết các danh từ chỉ tình cảm/thái độ trong bài 21 (любо́вь, уваже́ние, не́нависть, дове́рие v.v.) khi đi với Cách 2 (Sinh cách) không giới từ thường mang ý nghĩa chủ thể (người cảm thấy), chứ không phải đối tượng (người bị tác động)."
+    },
+    {
+     "t": "para",
+     "text": "Ví dụ: Любо́вь ма́тери thường được hiểu là \"tình yêu của người mẹ (dành cho ai đó)\" (Subjective Genitive), chứ không phải \"tình yêu dành cho mẹ\". Để chỉ đối tượng, bắt buộc phải dùng giới từ к: Любо́вь к ма́тери."
+    },
+    {
+     "t": "para",
+     "text": "Tương tự: Уваже́ние ста́рших (sự tôn trọng của người lớn tuổi), недове́рие люде́й (sự không tin tưởng của mọi người)."
+    },
+    {
+     "t": "para",
+     "text": "Tuy nhiên, với một số danh từ, Cách 2 có thể chỉ đối tượng (Objective Genitive), nhưng thường ít phổ biến hơn hoặc mang sắc thái nghĩa khác."
+    },
+    {
+     "t": "para",
+     "text": "Đối với nhóm б): Стыд про́шлого (không dùng, phải là стыд за про́шлое), Го́рдость роди́телей (niềm tự hào của bố mẹ - bố mẹ tự hào, hoặc bố mẹ là niềm tự hào của ai đó - nghĩa này mập mờ, nên dùng го́рдость за роди́телей để chỉ rõ mình tự hào về bố mẹ)."
+    }
+   ]
+  },
+  {
+   "id": "gra-04-s011",
+   "type": "exercise",
+   "title": "Упражнение 23",
+   "num": 23,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Kết hợp các câu, sử dụng các cụm danh từ. Chỉ ra các phương án điều khiển có giới từ và không có giới từ."
+    },
+    {
+     "t": "model",
+     "text": "Mẫu: Уваже́ние явля́ется основны́м при́нципом жи́зни в цивилизо́ванном госуда́рстве. Осо́бенно е́сли де́ло каса́ется зако́нов (уваже́ние чего́? (к чему́?)). — Уваже́ние зако́нов явля́ется основны́м при́нципом жи́зни в цивилизо́ванном госуда́рстве (Уваже́ние к зако́нам явля́ется … ). (Sự tôn trọng là nguyên tắc sống cơ bản trong một nhà nước văn minh. Đặc biệt nếu vấn đề liên quan đến pháp luật (tôn trọng cái gì? (đối với cái gì?)). — Sự tôn trọng pháp luật là nguyên tắc sống cơ bản... (Sự tôn trọng đối với pháp luật là...))."
+    },
+    {
+     "t": "para",
+     "text": "Мы чу́вствовали ра́дость. Мы одержа́ли побе́ду (ра́дость чего́? (от чего́?));"
+    },
+    {
+     "t": "para",
+     "text": "Мы чу́вствовали ра́дость побе́ды (ра́дость от побе́ды)."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Chúng tôi cảm thấy niềm vui chiến thắng (niềm vui từ chiến thắng)."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Ра́дость (niềm vui) có thể đi với Cách 2 (của cái gì) hoặc от + Cách 2 (từ cái gì)."
+    },
+    {
+     "t": "para",
+     "text": "Все испы́тывали го́речь. Пораже́ние бы́ло неожи́данным (го́речь чего́? (от чего́?));"
+    },
+    {
+     "t": "para",
+     "text": "Все испы́тывали го́речь пораже́ния (го́речь от пораже́ния), кото́рое бы́ло неожи́данным."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Tất cả đều nếm trải vị đắng của thất bại (vị đắng từ thất bại), điều mà thật bất ngờ."
+    },
+    {
+     "t": "para",
+     "text": "Он останови́лся и вновь почу́вствовал боль. Он всегда́ мучи́тельно пережива́л поте́рю бли́зкого челове́ка (боль чего́? (от чего́?))."
+    },
+    {
+     "t": "para",
+     "text": "Он останови́лся и вновь почу́вствовал боль поте́ри (боль от поте́ри) бли́зкого челове́ка."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Anh ấy dừng lại và lại cảm thấy nỗi đau mất mát (nỗi đau từ sự mất mát) người thân."
+    },
+    {
+     "t": "para",
+     "text": "Наибо́лее си́льным чу́вством, кото́рое охва́тывает челове́ка в слу́чае опа́сности и ча́сто помога́ет ему́ вы́жить, явля́ется страх. Мы́сли о сме́рти не оставля́ют нас на протяже́нии всей жи́зни (страх чего́? (пе́ред чем?));"
+    },
+    {
+     "t": "para",
+     "text": "Наибо́лее си́льным чу́вством... явля́ется страх сме́рти (страх пе́ред сме́ртью)."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Cảm giác mạnh mẽ nhất... là nỗi sợ cái chết (nỗi sợ trước cái chết)."
+    },
+    {
+     "t": "para",
+     "text": "Он до́лго смотре́л на рабо́ту худо́жника и чу́вствовал, как восхище́ние переполня́ло его́. Карти́на поража́ла высо́ким у́ровнем исполне́ния и эмоциона́льного содержа́ния (восхище́ние чем? (пе́ред чем?))."
+    },
+    {
+     "t": "para",
+     "text": "Он до́лго смотре́л на рабо́ту худо́жника и чу́вствовал, как восхище́ние карти́ной (восхище́ние пе́ред карти́ной) переполня́ло его́."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Anh ấy nhìn rất lâu vào tác phẩm của người họa sĩ và cảm thấy sự ngưỡng mộ bức tranh (sự ngưỡng mộ trước bức tranh) tràn ngập trong lòng."
+    },
+    {
+     "t": "note",
+     "text": "Lưu ý: Động từ восхища́ться điều khiển Cách 5 (cái gì), nên danh từ восхище́ние cũng thường đi với Cách 5, hoặc dùng giới từ пе́ред + Cách 5 để nhấn mạnh sự kính phục/ngợp trước cái gì."
+    },
+    {
+     "t": "para",
+     "text": "Dưới đây là phần dịch và giải thích chi tiết cho các bài tập 24 và 25, tuân thủ đúng yêu cầu của bạn."
+    },
+    {
+     "t": "note",
+     "text": "! (Gợi ý ngữ pháp): Một loạt các danh từ mang ý nghĩa trạng thái cảm xúc có thể gắn với từ phụ thuộc (là danh từ bất động vật) không có giới từ hoặc có giới từ. Giới từ trong trường hợp này được xác định bởi ý nghĩa từ vựng của danh từ."
+    },
+    {
+     "t": "note",
+     "text": "! (Gợi ý ngữ pháp): Với các danh từ причи́на (nguyên nhân), возмо́жность (cơ hội/khả năng), необходи́мость (sự cần thiết), các cấu trúc với giới từ для (dành cho) hoặc в (trong/về) được sử dụng trong các câu có các từ diễn tả sự tồn tại (hiện hữu): есть (có), нет (không có), (не) бы́ло ((đã) không có), (не) бу́дет ((sẽ) không có), существу́ет (tồn tại), поя́вится (sẽ xuất hiện) và các từ khác. So sánh: В чём причи́на отка́за? (Nguyên nhân của sự từ chối là gì?) — Ở đây hỏi về bản chất cụ thể, dùng Cách 2 không giới từ. Нет причи́н для отка́за (Không có lý do gì để từ chối) — Diễn tả sự tồn tại/không tồn tại, dùng для + Cách 2. (Нет) возмо́жности для обсужде́ния ((Không có) cơ hội để thảo luận). (Нет) необходи́мости в его́ прису́тствии ((Không có) sự cần thiết về sự hiện diện của anh ấy)."
+    }
+   ]
+  },
+  {
+   "id": "gra-04-s012",
+   "type": "exercise",
+   "title": "Упражнение 24",
+   "num": 24,
+   "blocks": [
+    {
+     "t": "instruction",
+     "text": "Mở ngoặc đơn, sử dụng các từ ở đúng cách. Giải thích sự lựa chọn của bạn."
+    },
+    {
+     "t": "para",
+     "text": "В тече́ние до́лгого вре́мени врачи́ не в состоя́нии бы́ли установи́ть причи́ну (эпиде́мия), кото́рая порази́ла все се́верные регио́ны страны́;"
+    },
+    {
+     "t": "para",
+     "text": "Đáp án: эпиде́мии."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Trong một thời gian dài, các bác sĩ đã không thể xác định được nguyên nhân của trận dịch bệnh đã tấn công tất cả các vùng phía bắc của đất nước."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Dùng Cách 2 (Sinh cách) không giới từ (причи́ну чего́?) vì đây là câu xác định đối tượng cụ thể (nguyên nhân của cái gì), không phải câu nói về sự tồn tại/không tồn tại."
+    },
+    {
+     "t": "para",
+     "text": "В настоя́щее вре́мя нет необходи́мости (его́ увольне́ние);"
+    },
+    {
+     "t": "para",
+     "text": "Đáp án: в его́ увольне́нии."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Vào lúc này không có sự cần thiết phải sa thải anh ấy (về việc sa thải anh ấy)."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Câu có từ нет (không có - chỉ sự tồn tại), nên danh từ необходи́мость đi với giới từ в + Cách 6 (Giới cách)."
+    },
+    {
+     "t": "para",
+     "text": "Он не ве́рил в возмо́жность (примире́ние), но счита́л свои́м до́лгом сде́лать для э́того всё необходи́мое;"
+    },
+    {
+     "t": "para",
+     "text": "Đáp án: примире́ния."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Anh ấy không tin vào khả năng hòa giải, nhưng coi việc làm tất cả những gì cần thiết cho điều đó là bổn phận của mình."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Dùng Cách 2 không giới từ (возмо́жность чего́?) vì động từ chính là ве́рил (tin), không phải từ chỉ sự tồn tại."
+    },
+    {
+     "t": "para",
+     "text": "Пове́рь мне, у тебя́ нет причи́н (беспоко́йство);"
+    },
+    {
+     "t": "para",
+     "text": "Đáp án: для беспоко́йства."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Tin tôi đi, bạn không có lý do gì để lo lắng."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Câu có từ нет, danh từ причи́на đi với giới từ для + Cách 2."
+    },
+    {
+     "t": "para",
+     "text": "Мне ка́жется, причи́на (его́ ухо́д) с рабо́ты в том, что он разочарова́лся в ней;"
+    },
+    {
+     "t": "para",
+     "text": "Đáp án: его́ ухо́да."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Tôi cảm thấy nguyên nhân của việc anh ấy nghỉ việc là ở chỗ anh ấy đã thất vọng về nó."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Câu định nghĩa/giải thích nguyên nhân cụ thể, dùng Cách 2 không giới từ."
+    },
+    {
+     "t": "para",
+     "text": "У вас ещё бу́дет возмо́жность (диску́ссия) на э́ту те́му;"
+    },
+    {
+     "t": "para",
+     "text": "Đáp án: для диску́ссии."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Các bạn sẽ còn có cơ hội để thảo luận về chủ đề này."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Câu có từ бу́дет (sẽ có), danh từ возмо́жность đi với giới từ для + Cách 2."
+    },
+    {
+     "t": "para",
+     "text": "Не волну́йтесь, причи́н (заде́ржка гру́за) нет и не бу́дет;"
+    },
+    {
+     "t": "para",
+     "text": "Đáp án: для заде́ржки гру́за."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Đừng lo lắng, không có và sẽ không có lý do gì để trì hoãn hàng hóa."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Câu có từ нет và не бу́дет, dùng для + Cách 2."
+    },
+    {
+     "t": "para",
+     "text": "Необходи́мость (измене́ние) програ́мм обуче́ния продикто́вана вре́менем;"
+    },
+    {
+     "t": "para",
+     "text": "Đáp án: измене́ния."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Sự cần thiết của việc thay đổi các chương trình đào tạo là do thời đại quy định."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Dùng Cách 2 không giới từ, đóng vai trò chủ ngữ xác định."
+    },
+    {
+     "t": "para",
+     "text": "Никто́ в тот моме́нт не ду́мал, что причи́на (его́ смерть) свя́зана не с тра́вмами, полу́ченными в результа́те ава́рии, а с больны́м се́рдцем;"
+    },
+    {
+     "t": "para",
+     "text": "Đáp án: его́ сме́рти."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Lúc đó không ai nghĩ rằng nguyên nhân cái chết của anh ấy không liên quan đến các chấn thương do tai nạn, mà là do bệnh tim."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Dùng Cách 2 không giới từ (nguyên nhân của cái gì)."
+    },
+    {
+     "t": "para",
+     "text": "Мы не рассма́тривали возмо́жность (ва́ше прису́тствие) на совеща́нии;"
+    },
+    {
+     "t": "para",
+     "text": "Đáp án: ва́шего прису́тствия."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Chúng tôi đã không xem xét khả năng về sự hiện diện của bạn tại cuộc họp."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Dùng Cách 2 không giới từ, bổ ngữ cho động từ рассма́тривали."
+    },
+    {
+     "t": "para",
+     "text": "У меня́ бы́ло мно́го причи́н (недово́льство), но я ни с кем не обсужда́л э́ти вопро́сы;"
+    },
+    {
+     "t": "para",
+     "text": "Đáp án: для недово́льства."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Tôi đã có nhiều lý do để bất mãn, nhưng tôi đã không thảo luận những vấn đề này với ai."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Câu có бы́ло (đã có), dùng для + Cách 2."
+    },
+    {
+     "t": "para",
+     "text": "Я уве́рен, что необходи́мости (пересмо́тр) де́ла не бу́дет;"
+    },
+    {
+     "t": "para",
+     "text": "Đáp án: в пересмо́тре."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Tôi tin chắc rằng sẽ không cần thiết phải xem xét lại vụ án."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Câu có не бу́дет, danh từ необходи́мость đi với giới từ в + Cách 6."
+    },
+    {
+     "t": "para",
+     "text": "Пре́жде всего́ на́до установи́ть причи́ну (заболева́ние), а уже́ пото́м назнача́ть лече́ние;"
+    },
+    {
+     "t": "para",
+     "text": "Đáp án: заболева́ния."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Trước hết cần xác định nguyên nhân của căn bệnh, rồi sau đó mới chỉ định cách điều trị."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Dùng Cách 2 không giới từ."
+    },
+    {
+     "t": "para",
+     "text": "В чём причи́на (ва́ше разочарова́ние)?"
+    },
+    {
+     "t": "para",
+     "text": "Đáp án: ва́шего разочарова́ния."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Nguyên nhân của sự thất vọng của bạn là gì?"
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Dùng Cách 2 không giới từ."
+    },
+    {
+     "t": "para",
+     "text": "Всё у́тро его́ угнета́ла мысль о необходи́мости (объясне́ние);"
+    },
+    {
+     "t": "para",
+     "text": "Đáp án: объясне́ния."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Cả buổi sáng anh ấy bị đè nặng bởi suy nghĩ về sự cần thiết của việc giải thích."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Dùng Cách 2 không giới từ. Lưu ý: Mặc dù необходи́мость thường đi với в khi nói về sự tồn tại nhu cầu, nhưng khi nó đóng vai trò bổ ngữ gián tiếp như ở đây (мысль о...), Cách 2 (необходи́мость чего́?) phổ biến hơn để chỉ nội dung của sự cần thiết. Tuy nhiên, необходи́мости в объясне́нии cũng có thể chấp nhận được nhưng объясне́ния tự nhiên hơn trong ngữ cảnh danh từ hóa."
+    },
+    {
+     "t": "para",
+     "text": "Нам на́до тща́тельно проанализи́ровать причи́ны (э́та траге́дия), что́бы подо́бное никогда́ не повтори́лось;"
+    },
+    {
+     "t": "para",
+     "text": "Đáp án: э́той траге́дии."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Chúng ta cần phân tích kỹ lưỡng nguyên nhân của thảm kịch này để điều tương tự không bao giờ lặp lại."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Dùng Cách 2 không giới từ."
+    },
+    {
+     "t": "para",
+     "text": "Всегда́ существу́ет возмо́жность (разреше́ние) конфли́кта ми́рным путём;"
+    },
+    {
+     "t": "para",
+     "text": "Đáp án: для разреше́ния (hoặc разреше́ния)."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Luôn tồn tại khả năng (cơ hội) để giải quyết xung đột bằng con đường hòa bình."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Câu có từ существу́ет (tồn tại), theo quy tắc sách đưa ra thì dùng для + Cách 2 (возмо́жность для разреше́ния). Tuy nhiên, trong thực tế возмо́жность разреше́ния (Cách 2 không giới từ) cũng rất phổ biến."
+    },
+    {
+     "t": "para",
+     "text": "В тот моме́нт не существова́ло причи́н (заме́на дви́гателя) у э́той маши́ны, никто́ и поду́мать не мог, что с ним бу́дут пробле́мы;"
+    },
+    {
+     "t": "para",
+     "text": "Đáp án: для заме́ны дви́гателя."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Vào thời điểm đó không tồn tại lý do gì để thay động cơ ở chiếc xe này, không ai có thể nghĩ rằng sẽ có vấn đề với nó."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Câu có từ не существова́ло, dùng для + Cách 2."
+    },
+    {
+     "t": "para",
+     "text": "При рассмотре́нии э́того вопро́са нельзя́ игнори́ровать возмо́жность (оши́бка)."
+    },
+    {
+     "t": "para",
+     "text": "Đáp án: оши́бки."
+    },
+    {
+     "t": "para",
+     "text": "Dịch: Khi xem xét vấn đề này không được bỏ qua khả năng xảy ra sai sót."
+    },
+    {
+     "t": "para",
+     "text": "Giải thích: Dùng Cách 2 không giới từ."
+    },
+    {
+     "t": "para",
+     "text": "Trong các cụm từ với các từ причи́на, возмо́жность, необходи́мость, hãy thay thế các danh từ được tạo thành từ động từ bằng các động từ nguyên thể (nếu có thể)."
+    },
+    {
+     "t": "para",
+     "text": "Ví dụ (Câu 2): нет необходимости увольня́ть его (không cần thiết phải sa thải anh ấy)."
+    },
+    {
+     "t": "para",
+     "text": "Câu 4: нет причин беспоко́иться (không có lý do để lo lắng)."
+    },
+    {
+     "t": "para",
+     "text": "Câu 6: будет возможность дискути́ровать (sẽ có cơ hội thảo luận)."
+    },
+    {
+     "t": "para",
+     "text": "Câu 7: причин заде́рживать груз нет (không có lý do giữ hàng)."
+    },
+    {
+     "t": "para",
+     "text": "Câu 12: необходимости пересма́тривать дело не будет (sẽ không cần xem xét lại vụ án)."
+    },
+    {
+     "t": "para",
+     "text": "Câu 15: мысль о необходимости объясни́ться (suy nghĩ về sự cần thiết phải giải thích)."
+    },
+    {
+     "t": "para",
+     "text": "Câu 17: возможность разреши́ть конфликт (cơ hội giải quyết xung đột)."
+    },
+    {
+     "t": "para",
+     "text": "Câu 18: причин меня́ть дви́гатель (lý do thay động cơ)."
+    },
+    {
+     "t": "para",
+     "text": "Câu 19: возможность ошиби́ться (khả năng mắc sai lầm)."
+    }
+   ]
+  }
+ ]
+}

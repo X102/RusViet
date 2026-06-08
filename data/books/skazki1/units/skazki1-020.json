@@ -1,0 +1,703 @@
+{
+ "id": "skazki1-020",
+ "num": 20,
+ "title": "Кот, петух и лиса — Mèo, gà trống và cáo",
+ "vi": "Кот, петух и лиса — Mèo, gà trống và cáo",
+ "ru": "Кот, петух и лиса",
+ "icon": "🐱",
+ "color": "#9f1239",
+ "sectionPrefix": "skazki1-020-s",
+ "group": "Truyện № 31–60",
+ "sections": [
+  {
+   "id": "skazki1-020-s001",
+   "type": "story",
+   "num": 37,
+   "title": "№ 37 · Кот, петух и лиса — Mèo, gà trống và cáo",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "«Кот, петух и лиса» (ATU 61B) là một trong những truyện loài vật được yêu thích nhất của Nga. Mèo dặn gà trống chớ ngó ra cửa sổ, nhưng cáo cứ dùng bài hát ngọt ngào dụ gà thò đầu ra; hai lần đầu mèo kịp cứu, lần thứ ba mèo đi xa không nghe thấy nên gà trống bị cáo bắt ăn thịt. Dị bản №37 có nhiều bài hát dụ dỗ tăng cấp."
+    },
+    {
+     "t": "para",
+     "text": "Жил-был старик, у него были кот да петух. (Ngày xưa có một ông lão, ông nuôi một con mèo và một con gà trống.)"
+    },
+    {
+     "t": "para",
+     "text": "Старик ушел в лес на работу, кот унес ему есть, а петуха оставили стеречь дом. (Ông lão vào rừng làm việc, mèo mang đồ ăn vào cho ông, còn gà trống thì ở nhà giữ cửa.)"
+    },
+    {
+     "t": "para",
+     "text": "На ту пору пришла лиса. (Vừa lúc ấy, con cáo mò tới.)"
+    },
+    {
+     "t": "para",
+     "text": "Кикереку-петушок, (Ki-ke-rê-ku, chú gà trống ơi,)"
+    },
+    {
+     "t": "para",
+     "text": "Золотой гребешок! (Cái mào vàng óng ánh!)"
+    },
+    {
+     "t": "para",
+     "text": "Выгляни в окошко, (Ngó ra ngoài cửa sổ nào,)"
+    },
+    {
+     "t": "para",
+     "text": "Дам тебе горошку. (Ta cho mày mấy hạt đậu.)"
+    },
+    {
+     "t": "para",
+     "text": "Так лиса пела, сидя под окном. (Cáo ngồi dưới cửa sổ hát như thế.)"
+    },
+    {
+     "t": "para",
+     "text": "Петух выставил окошко, высунул головку и посмотрел: кто тут поет? (Gà trống đẩy cửa sổ ra, thò đầu nhìn xem: ai hát ngoài kia thế?)"
+    },
+    {
+     "t": "para",
+     "text": "Лиса схватила петуха в когти и понесла его в гости. (Cáo chộp lấy gà trống vào móng vuốt rồi tha đi «làm khách».)"
+    },
+    {
+     "t": "para",
+     "text": "Петух закричал: «Понесла меня лиса, понесла петуха за темные леса, в далекие страны, в чужие земли, за тридевять земель, в тридцатое царство, в тридесятое государство. Кот Котонаевич, отыми меня!» (Gà trống kêu toáng lên: «Cáo tha tôi đi rồi, tha con gà trống qua những cánh rừng âm u, đến những xứ xa xôi, những miền đất lạ, qua chín lần chín cõi đất, tới vương quốc thứ ba mươi, tới quốc gia thứ ba mươi. Mèo Kô-tô-na-ê-vích ơi, cứu tôi với!»)"
+    },
+    {
+     "t": "para",
+     "text": "Кот в поле услыхал голос петуха, бросился в погоню, достиг лису, отбил петуха и принес домой. (Mèo đang ngoài đồng nghe tiếng gà trống kêu, liền lao đi đuổi theo, bắt kịp cáo, giành lại gà trống mang về nhà.)"
+    },
+    {
+     "t": "para",
+     "text": "«Мотри ты, Петя-петушок, — говорит ему кот, — не выглядывай в окошко, не верь лисе; она съест тебя и косточек не оставит». («Liệu đấy nhé, Pê-chi gà trống, — mèo dặn nó, — đừng ngó ra cửa sổ, đừng tin con cáo; nó ăn thịt mày, đến cái xương cũng chẳng chừa».)"
+    },
+    {
+     "t": "para",
+     "text": "Старик опять ушел в лес на работу, а кот унес ему есть. (Ông lão lại vào rừng làm việc, còn mèo lại mang đồ ăn vào cho ông.)"
+    },
+    {
+     "t": "para",
+     "text": "Старик, уходя, заказывал петуху беречь дом и не выглядывать в окошко. (Trước khi đi, ông lão dặn gà trống giữ nhà và đừng ngó ra cửa sổ.)"
+    },
+    {
+     "t": "para",
+     "text": "Но лисица стерегла, ей больно хотелось скушать петушка; пришла она к избушке и запела: (Nhưng con cáo cứ rình, nó thèm ăn thịt gà trống ghê lắm; cáo đến bên căn nhà gỗ và cất tiếng hát:)"
+    },
+    {
+     "t": "para",
+     "text": "Кикереку-петушок, (Ki-ke-rê-ku, chú gà trống ơi,)"
+    },
+    {
+     "t": "para",
+     "text": "Золотой гребешок, (Cái mào vàng óng ánh,)"
+    },
+    {
+     "t": "para",
+     "text": "Выгляни в окошко, (Ngó ra ngoài cửa sổ nào,)"
+    },
+    {
+     "t": "para",
+     "text": "Дам тебе горошку, (Ta cho mày mấy hạt đậu,)"
+    },
+    {
+     "t": "para",
+     "text": "Дам и зернышков. (Cho cả mấy hạt thóc nữa.)"
+    },
+    {
+     "t": "para",
+     "text": "Петух ходил по избе да молчал. (Gà trống cứ đi đi lại lại trong nhà mà chẳng nói gì.)"
+    },
+    {
+     "t": "para",
+     "text": "Лиса снова запела песенку и бросила в окно горошку. (Cáo lại cất tiếng hát rồi ném mấy hạt đậu vào cửa sổ.)"
+    },
+    {
+     "t": "para",
+     "text": "Петух съел горошек и говорит: «Нет, лиса, не обманешь меня! Ты хочешь меня съесть и косточек не оставишь». (Gà trống ăn hạt đậu rồi nói: «Không đâu cáo, mày đừng hòng lừa ta! Mày muốn ăn thịt ta, đến cái xương cũng chẳng chừa».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Полно ты, Петя-петушок! Стану ли я есть тебя! Мне хотелось, чтоб ты у меня погостил, моего житья-бытья посмотрел и на мое добро поглядел!» — и снова запела: (— «Thôi đi nào, Pê-chi gà trống! Ta đời nào ăn thịt mày! Ta chỉ muốn mày sang nhà ta chơi, xem ta ăn ở ra sao, ngắm gia tài của ta thôi mà!» — rồi cáo lại cất tiếng hát:)"
+    },
+    {
+     "t": "para",
+     "text": "Кикереку-петушок, (Ki-ke-rê-ku, chú gà trống ơi,)"
+    },
+    {
+     "t": "para",
+     "text": "Золотой гребешок, (Cái mào vàng óng ánh,)"
+    },
+    {
+     "t": "para",
+     "text": "Масляна головка! (Cái đầu bóng mượt như thoa bơ!)"
+    },
+    {
+     "t": "para",
+     "text": "Выгляни в окошко, (Ngó ra ngoài cửa sổ nào,)"
+    },
+    {
+     "t": "para",
+     "text": "Я дала тебе горошку, (Ta đã cho mày hạt đậu,)"
+    },
+    {
+     "t": "para",
+     "text": "Дам и зернышков. (Cho cả mấy hạt thóc nữa.)"
+    },
+    {
+     "t": "para",
+     "text": "Петух лишь выглянул в окошко, как лиса его в когти. (Gà trống vừa ngó ra cửa sổ, cáo đã quắp ngay vào móng vuốt.)"
+    },
+    {
+     "t": "para",
+     "text": "Петух лихим матом закричал: «Понесла меня лиса, понесла петуха за темные леса, за дремучие боры, по крутым бережкам, по высоким горам; хочет лиса меня съести и косточек не оставити!» (Gà trống gào lên thất thanh: «Cáo tha tôi đi rồi, tha con gà trống qua những cánh rừng âm u, qua những rừng thông rậm rạp, theo những bờ dốc cheo leo, qua những ngọn núi cao; cáo muốn ăn thịt tôi, đến cái xương cũng chẳng chừa!»)"
+    },
+    {
+     "t": "para",
+     "text": "Кот в поле услыхал, пустился в догоню, петуха отбил и домой принес: (Mèo ngoài đồng nghe thấy, liền đuổi theo, giành lại gà trống mang về nhà:)"
+    },
+    {
+     "t": "para",
+     "text": "«Не говорил ли я тебе: не открывай окошка, не выглядывай в окошко, съест тебя лиса и косточек не оставит. Мотри, слушай меня! Мы завтра дальше пойдем». («Ta đã chẳng bảo mày rồi sao: đừng mở cửa sổ, đừng ngó ra cửa sổ, cáo ăn thịt mày, đến cái xương cũng chẳng chừa. Liệu đấy, nghe lời ta! Ngày mai chúng ta sẽ đi xa hơn nữa».)"
+    },
+    {
+     "t": "para",
+     "text": "Вот опять старик на работе, а кот ему хлеба унес. (Thế rồi ông lão lại đi làm, còn mèo lại mang bánh mì vào cho ông.)"
+    },
+    {
+     "t": "para",
+     "text": "Лиса подкралась под окошко, ту же песенку запела; три раза пропела, а петух все молчал. (Cáo lẻn đến dưới cửa sổ, lại hát đúng bài hát ấy; hát đến ba lần mà gà trống cứ im thin thít.)"
+    },
+    {
+     "t": "para",
+     "text": "Лиса говорит: «Что это, уж ныне Петя нем стал!» (Cáo nói: «Lạ chưa, bữa nay Pê-chi hóa câm rồi sao!»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Нет, лиса, не обманешь меня, не выгляну в окошко». (— «Không đâu cáo, mày đừng hòng lừa ta, ta chẳng ngó ra cửa sổ đâu».)"
+    },
+    {
+     "t": "para",
+     "text": "Лиса побросала в окошко горошку и пшенички и снова запела: (Cáo ném vào cửa sổ nào đậu nào kê rồi lại cất tiếng hát:)"
+    },
+    {
+     "t": "para",
+     "text": "Кикереку-петушок, (Ki-ke-rê-ku, chú gà trống ơi,)"
+    },
+    {
+     "t": "para",
+     "text": "Золотой гребешок, (Cái mào vàng óng ánh,)"
+    },
+    {
+     "t": "para",
+     "text": "Масляна головка! (Cái đầu bóng mượt như thoa bơ!)"
+    },
+    {
+     "t": "para",
+     "text": "Выгляни в окошко, (Ngó ra ngoài cửa sổ nào,)"
+    },
+    {
+     "t": "para",
+     "text": "У меня-то хоромы большие, (Nhà ta rộng rãi cao sang lắm,)"
+    },
+    {
+     "t": "para",
+     "text": "В каждом углу (Mỗi góc nhà)"
+    },
+    {
+     "t": "para",
+     "text": "Пшенички по мерочке: (Kê chất đầy từng đấu một:)"
+    },
+    {
+     "t": "para",
+     "text": "Ешь — сыт, не хочу! (Ăn no đến chán thì thôi!)"
+    },
+    {
+     "t": "para",
+     "text": "Потом прибавила: «Да посмотрел бы ты, Петя, сколько у меня редкостей! (Rồi cáo nói thêm: «Giá mà mày được thấy, Pê-chi ơi, ta có biết bao của lạ vật quý!)"
+    },
+    {
+     "t": "para",
+     "text": "Да покажись же ты, Петя! (Lộ mặt ra nào, Pê-chi!)"
+    },
+    {
+     "t": "para",
+     "text": "Полно, не верь коту. (Thôi đi, đừng tin lời con mèo.)"
+    },
+    {
+     "t": "para",
+     "text": "Если бы я съести хотела тебя, то давно бы съела; (Nếu ta muốn ăn thịt mày thì đã ăn từ lâu rồi;)"
+    },
+    {
+     "t": "para",
+     "text": "а то, вишь, я тебя люблю, хочу тебе свет показать, уму-разуму тебя наставить и научить, как нужно жить. (đằng này, mày thấy đấy, ta thương mày, muốn cho mày được mở mày mở mặt với đời, dạy mày điều hay lẽ phải và chỉ cho mày biết phải sống ra sao.)"
+    },
+    {
+     "t": "para",
+     "text": "Да покажись же ты, Петя, вот я за угол уйду!» — и к стене ближе притаилась. (Lộ mặt ra nào, Pê-chi, này ta lánh ra sau góc nhà đây!» — rồi cáo nép sát vào tường rình.)"
+    },
+    {
+     "t": "para",
+     "text": "Петух на лавку скочил и смотрел издалека; хотелось ему узнать, ушла ли лиса. (Gà trống nhảy lên chiếc ghế dài, từ xa nhìn ra; nó muốn biết cáo đã đi chưa.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот он высунул головку в окошко, а лиса его в когти и была такова. (Thế là nó thò đầu ra cửa sổ, cáo liền quắp ngay vào móng vuốt rồi biến mất.)"
+    },
+    {
+     "t": "para",
+     "text": "Петух ту же песню запел; но кот его не слыхал. (Gà trống lại cất bài hát ấy; nhưng mèo chẳng nghe thấy.)"
+    },
+    {
+     "t": "para",
+     "text": "Лиса унесла петуха и за ельничком съела, только хвост да перья ветром разнесло. (Cáo tha gà trống đi, ra sau rặng vân sam thì ăn thịt, chỉ còn cái đuôi với mấy chiếc lông bị gió thổi tung.)"
+    },
+    {
+     "t": "para",
+     "text": "Кот со стариком пришли домой и петуха не нашли; (Mèo và ông lão về đến nhà thì chẳng thấy gà trống đâu;)"
+    },
+    {
+     "t": "para",
+     "text": "сколько ни горевали, а после сказали: «Вот каково не слушаться!» (buồn thương mãi không nguôi, rồi sau đành bảo nhau: «Đấy, không chịu nghe lời thì ra nông nỗi ấy!»)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "кикереку",
+     "vi": "tiếng gà gáy (biến thể của «кукареку», kiểu «ò ó o»); mở đầu bài hát dụ dỗ của cáo",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "гребешок (золотой гребешок)",
+     "vi": "cái mào (gà); «золотой гребешок» = mào vàng óng, lời nịnh gà trống",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "масляна головка",
+     "vi": "«cái đầu thoa bơ» — đầu bóng mượt; lời cáo nịnh gà trống (масляный = (như) bôi bơ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "хоромы",
+     "vi": "nhà cửa rộng lớn, dinh thự sang trọng (từ cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "редкость (редкостей)",
+     "vi": "của hiếm, vật quý lạ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "притаиться (притаилась)",
+     "vi": "nép mình ẩn nấp, rình rập lặng lẽ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "была такова (быть такову)",
+     "vi": "(thế là) biến mất tăm, chuồn mất (thành ngữ «и был таков»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "за тридевять земель",
+     "vi": "tận chân trời góc bể; công thức cổ tích «qua chín lần chín cõi đất» (тридевять = 27)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "тридесятое царство",
+     "vi": "«vương quốc thứ ba mươi» — xứ sở thần kỳ xa xôi trong cổ tích Nga (тридесятое = 30)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "мотри (= смотри)",
+     "vi": "coi chừng, liệu đấy (dạng phương ngữ của «смотри»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ельник (за ельничком)",
+     "vi": "rừng vân sam; ельничек = rặng vân sam nhỏ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "уму-разуму наставить",
+     "vi": "dạy bảo điều hay lẽ phải, dạy cho khôn ra (thành ngữ)",
+     "g": null
+    }
+   ]
+  },
+  {
+   "id": "skazki1-020-s002",
+   "type": "story",
+   "num": 38,
+   "title": "№ 38 · Кот, петух и лиса — Mèo, gà trống và cáo",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Dị bản №38: thay con mèo bằng đôi bạn mèo và cừu đực cùng nuôi gà trống. Khác với №37 bi thảm, ở đây hai bạn làm cây đàn gô-xli dây gân cừu, tìm tới tận hang cáo, lừa từng cô con gái cáo ra rồi đánh, cứu được gà trống còn sống — kết có hậu. Tên bảy cô con gái cáo là những câu lệnh việc nhà nghe rất hài."
+    },
+    {
+     "t": "para",
+     "text": "Жил-был кот да баран, у них был петушок. (Ngày xưa có một con mèo và một con cừu đực, chúng nuôi chung một chú gà trống.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот они пошли лыки драть; пришла лиса под окошко к петушку и говорит: (Một hôm mèo và cừu rủ nhau đi bóc vỏ cây gai (lấy bẹ đan giày); con cáo mò đến dưới cửa sổ chỗ gà trống và nói:)"
+    },
+    {
+     "t": "para",
+     "text": "Петушок, петушок, (Gà trống ơi, gà trống,)"
+    },
+    {
+     "t": "para",
+     "text": "Золотой гребешок, (Cái mào vàng óng,)"
+    },
+    {
+     "t": "para",
+     "text": "Масляная головка! (Cái đầu bóng mượt như thoa bơ!)"
+    },
+    {
+     "t": "para",
+     "text": "Вот тебе с семечком лепешка. (Đây, cho mày cái bánh rán rắc hạt.)"
+    },
+    {
+     "t": "para",
+     "text": "У Карпова двора (Trước sân nhà lão Kar-pốp)"
+    },
+    {
+     "t": "para",
+     "text": "Приукатана гора. (Có ngọn đồi tuyết nèn nhẵn lì.)"
+    },
+    {
+     "t": "para",
+     "text": "Стоят санки-самокатки; (Ở đó đậu sẵn chiếc xe trượt tự lăn;)"
+    },
+    {
+     "t": "para",
+     "text": "Они сами катят, (Tự nó trượt đi,)"
+    },
+    {
+     "t": "para",
+     "text": "Сами ехать хотят! (Tự nó đòi chạy!)"
+    },
+    {
+     "t": "para",
+     "text": "Петушок выглянул; она его унесла. (Gà trống ngó ra; cáo liền tha đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Он доро́гой и кричит: «Кот да баран! Меня лиса несет за высокие горы, за темные леса». (Dọc đường nó kêu lên: «Mèo ơi, cừu ơi! Cáo đang tha tôi đi qua những ngọn núi cao, qua những cánh rừng âm u».)"
+    },
+    {
+     "t": "para",
+     "text": "Они услыхали, воротились и отняли петушка. (Hai bạn nghe thấy, quay về giành lại gà trống.)"
+    },
+    {
+     "t": "para",
+     "text": "На другой день говорят ему: «Смотри же, если придет лиса — не выглядывай!» (Hôm sau chúng dặn nó: «Liệu đấy nhé, nếu cáo đến thì đừng ngó ra!»)"
+    },
+    {
+     "t": "para",
+     "text": "Лиса пришла, ту же песнь запела; петушок выглянул, она и унесла его. (Cáo lại đến, cất đúng bài hát ấy; gà trống ngó ra, thế là cáo tha đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Кот да баран опять отняли. (Mèo và cừu lại giành về.)"
+    },
+    {
+     "t": "para",
+     "text": "На третий день говорят ему: «Смотри же, не гляди в окно; мы теперь далеко уйдем, не услышим, как будешь кричать». (Ngày thứ ba chúng dặn nó: «Liệu đấy, đừng nhìn ra cửa sổ; lần này chúng tao đi xa, sẽ chẳng nghe được mày kêu đâu».)"
+    },
+    {
+     "t": "para",
+     "text": "Лиса пришла, таким сладким голосом запела, что петушок не утерпел — выглянул; она его схватила и понесла домой. (Cáo đến, hát bằng giọng ngọt xớt đến nỗi gà trống không nhịn được — ngó ra; cáo chộp lấy rồi tha về nhà.)"
+    },
+    {
+     "t": "para",
+     "text": "Он кричал-кричал доро́гой; нет, не слыхали кот да баран. (Dọc đường nó kêu mãi, kêu mãi; nhưng không, mèo và cừu chẳng nghe thấy.)"
+    },
+    {
+     "t": "para",
+     "text": "Приходят они домой, нет петушка! (Về đến nhà, chẳng thấy gà trống đâu!)"
+    },
+    {
+     "t": "para",
+     "text": "Они сделали гусельцы-барановы струночки и пошли к лисе выручать петушка. (Chúng bèn làm một cây đàn gô-xli, dây căng bằng gân cừu, rồi tìm đến nhà cáo cứu gà trống.)"
+    },
+    {
+     "t": "para",
+     "text": "У лисы было семь дочерей. (Cáo có bảy cô con gái.)"
+    },
+    {
+     "t": "para",
+     "text": "Кот да баран пришли под окошко и начали играть: «Тюк-тюк, гусельцы-барановы струночки! (Mèo và cừu đến dưới cửa sổ rồi dạo đàn: «Tửng tưng, đàn gô-xli ơi, dây gân cừu ơi!)"
+    },
+    {
+     "t": "para",
+     "text": "Жила-была лиса красна во своем золотом гнезде; у нее было семь дочерей: (Ngày xửa ngày xưa có chị cáo xinh đẹp sống trong cái tổ vàng của mình; chị có bảy cô con gái:)"
+    },
+    {
+     "t": "para",
+     "text": "первая дочь Чучелка, другая Подчучелка, третья Подай-челнок, четвертая Мети-шесток, пятая Трубу-закрывай, шестая Огня-вздувай, а седьмая Пеки-пироги!» (cô cả là Bù-Nhìn, cô hai là Bù-Nhèo, cô ba là Đưa-Thoi-Đây, cô tư là Quét-Bệ-Lò, cô năm là Đậy-Ống-Khói, cô sáu là Thổi-Bùng-Lửa, còn cô bảy là Nướng-Bánh-Đi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Лиса говорит: «Поди, Чучелка, посмотри — кто такую хорошую песню поет?» (Cáo bảo: «Bù-Nhìn, ra xem ai hát hay thế kia nào».)"
+    },
+    {
+     "t": "para",
+     "text": "Чучелка вышла, они стук ее в лобок да в коробок. (Bù-Nhìn bước ra, hai bạn nện cho một cú vào trán rồi tống vào bao.)"
+    },
+    {
+     "t": "para",
+     "text": "Так всех лисиных дочерей поодиночке и забрали. (Cứ thế, chúng lần lượt bắt gọn hết các cô con gái của cáo.)"
+    },
+    {
+     "t": "para",
+     "text": "Потом вышла сама лиса. Они и ее стук в лобок да в коробок; (Rồi đích thân cáo bước ra. Chúng cũng nện cho nó một cú vào trán rồi tống vào bao;)"
+    },
+    {
+     "t": "para",
+     "text": "взошли в избушку, взяли петушка еще живого, воротились домой и стали жить да быть. (đoạn bước vào căn nhà gỗ, đem gà trống vẫn còn sống ra, trở về nhà và từ đó sống yên vui bên nhau.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "лыко (лыки драть)",
+     "vi": "bẹ/vỏ libe cây bồ đề; «лыки драть» = bóc bẹ cây để đan giày cỏ (лапти)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "гусли (гусельцы)",
+     "vi": "đàn gô-xli, đàn dây gảy cổ truyền của Nga (đặt ngang lòng mà gảy)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "струна (струночки)",
+     "vi": "dây đàn; ở đây căng bằng gân cừu («барановы струночки»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "лепёшка",
+     "vi": "bánh bột rán dẹt, tròn",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "санки-самокатки",
+     "vi": "chiếc xe trượt tuyết «tự lăn» thần kỳ (mô-típ đồng dao dụ dỗ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "приукатать (приукатана)",
+     "vi": "lăn nèn cho nhẵn lì (mặt dốc để trượt tuyết)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "челнок (подай-челнок)",
+     "vi": "con thoi dệt vải; tên cô con gái thứ ba = «Đưa-thoi-đây»",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "труба (трубу закрывай)",
+     "vi": "ống khói lò sưởi; «трубу закрывай» = đậy ống khói (để giữ hơi ấm)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "лобок (в лобок да в коробок)",
+     "vi": "cái trán (chỉ cú gõ đầu); thành ngữ «стук в лобок да в коробок» = nện vào trán rồi tống vào bao",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "красна (лиса красна)",
+     "vi": "xinh đẹp (dạng ngắn cổ của «красная»); cũng gợi nghĩa «đỏ» hợp màu lông cáo",
+     "g": null
+    }
+   ]
+  },
+  {
+   "id": "skazki1-020-s003",
+   "type": "story",
+   "num": 39,
+   "title": "№ 39 · Кот, петух и лиса — Mèo, gà trống và cáo",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Dị bản №39 (bản «кот да кочеток», phương ngữ Nam Nga gọi gà trống là «кочет/кочеток»). Cốt truyện như №37 — cáo ba lần dùng bài đồng dao dụ gà thò đầu ra — nhưng kết có hậu kiểu №38: lần thứ ba mèo đi xa không cứu kịp, cáo tha gà về định rán thịt; mèo lần theo, gõ đuôi vào cửa sổ hát gọi tên cả nhà cáo (hai con trai Đi-mê-sa, Rê-mê-sa cùng các con gái mang tên việc nhà), lừa từng đứa ra đánh rồi cứu được gà trống."
+    },
+    {
+     "t": "para",
+     "text": "Жил кот с кочетком. (Ngày xưa có một con mèo ở chung với chú gà trống.)"
+    },
+    {
+     "t": "para",
+     "text": "Кот идет за лыками в лес и бает кочетку: «Если лиса придет звать в гости и станет кликать, не высовывай ей головочку, а то унесет тебя». (Mèo vào rừng bóc bẹ cây (để đan giày) và dặn gà trống: «Nếu cáo đến rủ đi làm khách rồi cất tiếng gọi, thì chớ thò đầu ra cho nó, kẻo nó tha mày đi đấy».)"
+    },
+    {
+     "t": "para",
+     "text": "Вот пришла лиса звать в гости, стала кликать: «Кочетунюшка, кочетунюшка! Пойдем на гуменцы золоты яблочки катать». (Thế rồi cáo đến rủ đi làm khách, cất tiếng gọi: «Gà trống cưng ơi, gà trống cưng! Ra sân đập lúa lăn mấy quả táo vàng nào».)"
+    },
+    {
+     "t": "para",
+     "text": "Он глянул, она его и унесла. (Nó vừa ngó ra, cáo liền tha đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот он и стал кликать: «Котинька, котинька! Несет меня лиса за крутые горы, за быстрые воды». (Thế là nó kêu lên: «Mèo ơi, mèo ơi! Cáo tha tôi đi qua những ngọn núi dốc, qua những dòng nước xiết».)"
+    },
+    {
+     "t": "para",
+     "text": "Кот услыхал, пришел, избавил кочетка от лисы. (Mèo nghe thấy, chạy tới, cứu gà trống khỏi tay cáo.)"
+    },
+    {
+     "t": "para",
+     "text": "Кот опять идет за лыками и опять приказывает: «Если лиса придет звать в гости, не высовывай головку, а то опять унесет». (Mèo lại vào rừng bóc bẹ cây và lại dặn dò: «Nếu cáo đến rủ đi làm khách thì đừng thò đầu ra, kẻo nó lại tha đi đấy».)"
+    },
+    {
+     "t": "para",
+     "text": "Вот лиса пришла и по-прежнему стала кликать. (Cáo lại đến và vẫn cất tiếng gọi như trước.)"
+    },
+    {
+     "t": "para",
+     "text": "Кочеток глянул, она его и унесла. (Gà trống vừa ngó ra, cáo liền tha đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот он и стал кричать: «Котунюшка, котунюшка! Несет меня лиса за крутые горы, за быстрые воды!» (Thế là nó kêu toáng lên: «Mèo cưng ơi, mèo cưng! Cáo tha tôi đi qua những ngọn núi dốc, qua những dòng nước xiết!»)"
+    },
+    {
+     "t": "para",
+     "text": "Кот услыхал, прибежал, опять избавил кочетка. (Mèo nghe thấy, chạy đến, lại cứu được gà trống.)"
+    },
+    {
+     "t": "para",
+     "text": "Кот опять скрутился идтить за лыками и говорит: «Ну, теперь я уйду далеко. Если лиса опять придет звать в гости, не высовывай головку, а то унесет, и не услышу, как будешь кричать». (Mèo lại sửa soạn vào rừng bóc bẹ cây và nói: «Nào, lần này ta đi xa đấy. Nếu cáo lại đến rủ đi làm khách thì đừng thò đầu ra, kẻo nó tha đi mà ta không nghe được tiếng mày kêu».)"
+    },
+    {
+     "t": "para",
+     "text": "Кот ушел; лиса опять пришла и стала опять кликать по-прежнему. (Mèo đi rồi; cáo lại đến và lại cất tiếng gọi như cũ.)"
+    },
+    {
+     "t": "para",
+     "text": "Кочеток глянул, лиса опять унесла его. (Gà trống vừa ngó ra, cáo lại tha nó đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Кочеток стал кричать; кричал-кричал — нет, не идет кот. (Gà trống kêu lên; kêu mãi, kêu mãi — nhưng không, mèo chẳng đến.)"
+    },
+    {
+     "t": "para",
+     "text": "Лиса принесла кочетка домой и крутилась уж жарить его. (Cáo tha gà trống về nhà và đã lúi húi sắp đem rán thịt.)"
+    },
+    {
+     "t": "para",
+     "text": "Тут прибежал кот, стал стучать хвостом об окно и кликать: «Лисонька! Живи хорошенько своим подворьем: один сын — Димеша, другой — Ремеша, одна дочь — Чучилка, другая — Пачучилка, третья — Подмети-шесток, четвертая — Подай-челнок!» (Vừa lúc ấy mèo chạy đến, lấy đuôi gõ vào cửa sổ mà cất tiếng gọi: «Cáo cưng ơi! Sống cho yên ấm với cơ nghiệp nhà mày nhé: một con trai — Đi-mê-sa, con trai nữa — Rê-mê-sa, một con gái — Bù-Nhìn, con gái nữa — Bù-Nhèo, con thứ ba — Quét-Bệ-Lò, con thứ tư — Đưa-Thoi-Đây!»)"
+    },
+    {
+     "t": "para",
+     "text": "К коту стали выходить лисонькины дети, один за другим; он их всех поколотил; (Lũ con của cáo lần lượt chạy ra chỗ mèo, đứa này nối đứa kia; mèo nện cho cả lũ một trận;)"
+    },
+    {
+     "t": "para",
+     "text": "после вышла сама лиса, он и ее убил и избавил кочетка от смерти. (sau cùng đích thân cáo bước ra, mèo giết luôn cả nó và cứu gà trống thoát chết.)"
+    },
+    {
+     "t": "para",
+     "text": "Пришли оба домой, стали жить да поживать да денежки наживать. (Cả hai về nhà, từ đó sống yên vui bên nhau, làm ăn dành dụm tiền nong.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "кочеток / кочет",
+     "vi": "con gà trống (phương ngữ Nam Nga, = петух); dạng nhỏ «кочеток»",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "баять (бает)",
+     "vi": "nói, bảo, kể (động từ cổ/phương ngữ, = говорить)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кликать",
+     "vi": "gọi to, réo gọi, cất tiếng gọi",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "гумно (гуменцы)",
+     "vi": "sân đập lúa (nơi đập và phơi lúa); dạng nhỏ «гуменцы»",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "скрутиться (скрутился идтить)",
+     "vi": "sửa soạn, sắp sửa (đi) — phương ngữ, = собраться",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "подворье (своим подворьем)",
+     "vi": "cơ ngơi, nhà cửa sân vườn, gia sản của một nhà",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "наживать (денежки наживать)",
+     "vi": "làm ra, dành dụm, tích cóp (của cải, tiền nong)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "поколотить",
+     "vi": "nện cho một trận, đánh đòn túi bụi",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кочетунюшка (котинька, котунюшка)",
+     "vi": "gà trống cưng / mèo cưng — dạng gọi âu yếm thu nhỏ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "крутые горы (за крутые горы, за быстрые воды)",
+     "vi": "núi dốc đứng; công thức truyện kể «qua núi dốc, qua nước xiết»",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "головочка (не высовывай головочку)",
+     "vi": "cái đầu nhỏ — dạng thu nhỏ âu yếm của «голова/головка»",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

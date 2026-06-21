@@ -1,0 +1,192 @@
+{
+ "id": "vhnga-034",
+ "num": 34,
+ "title": "«Зеркало и Обезьяна» — Tấm gương và ả Khỉ (Krylov)",
+ "vi": "«Зеркало и Обезьяна» — Tấm gương và ả Khỉ (Krylov)",
+ "ru": "Зеркало и Обезьяна",
+ "icon": "🐒",
+ "color": "#9a3412",
+ "sectionPrefix": "vhnga-034-s",
+ "sections": [
+  {
+   "id": "vhnga-034-s001",
+   "type": "story",
+   "num": 1,
+   "title": "«Зеркало и Обезьяна» — “Tấm gương và ả Khỉ” (I. Krylov, 1815, in 1816)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Ngụ ngôn «Зе́ркало и Обезья́на» (Tấm gương và ả Khỉ) của Ivan Krylov (Ива́н Андре́евич Крыло́в, 1769–1844), bậc thầy ngụ ngôn Nga; viết không muộn hơn 1815 (ngày 2-1-1816 tác giả tự đọc tại Thư viện Công cộng Hoàng gia Peterburg), in lần đầu 1816 trên tạp chí «Сын Оте́чества» dưới nhan đề «Марты́шка и Зе́ркало». Cốt truyện: ả Khỉ lần đầu soi gương, không nhận ra mình, bèn huých bác Gấu cùng chê “bản mặt” trong gương nhăn nhó lố lăng, lại kể trong đám “chị em bạn hữu” của ả cũng có dăm sáu đứa làm trò như thế; bác Gấu chỉ nhẹ nhàng: «Чем кумушек считать трудиться, / Не лучше ль на себя, кума, обороти́ться?» (Hơi đâu ngồi đếm các bà bạn — chẳng thà ngoảnh lại nhìn mình) — câu nói đã thành tục ngữ Nga; nhưng lời khuyên ấy “uổng công vô ích”. Đạo lý nằm ở khổ kết: chẳng ai ưa nhận ra chính mình trong văn châm biếm — như lão Klimych “chẳng sạch tay” nghe người ta đọc về tội ăn hối lộ lại lén hất hàm sang Pyotr (dùng cặp tên Nga dân dã Кли́мыч–Пётр — thủ pháp mới mẻ so với ngụ ngôn đương thời). Cùng mạch với câu tục ngữ Gogol lấy làm đề từ cho «Ревизор»: «На зеркало неча пенять, коли рожа крива» (Mặt mình méo, chớ trách gương). Các thành ngữ sinh ra từ bài: «ужи́мки и прыжки́» (điệu bộ màu mè), «Чем кумушек считать трудиться…», «А он украдкою кивает на Петра». Điểm ngữ pháp–từ cổ: уви́дя — trạng động từ cổ (= уви́дев); толк — lối vị ngữ-thán từ sống động (= толкну́ла, huých một cái); кум/кума́ — lối xưng hô thân tình “ông bạn/bà bạn” (nghĩa gốc: bố/mẹ đỡ đầu); перече́сть = пересчита́ть; обороти́ться = оберну́ться; нечи́ст на́ руку — thành ngữ “tay không sạch” (hay tắt mắt, ăn của đút). Tên nhân vật-loài vật viết hoa theo nguyên tác. Dấu câu theo bản phổ thông hiện đại; bản hàn lâm ПСС 1945–46 giữ chính tả cổ («Смотри-ка», говорит: …; «А, ведь,…»; «ни кто»; «на́-руку»; «читают.»)."
+    },
+    {
+     "t": "para",
+     "text": "Марты́шка, в Зе́ркале уви́дя о́браз свой, (Ả Khỉ nhìn vào Gương, thấy bóng hình mình trong đó,)"
+    },
+    {
+     "t": "para",
+     "text": "Тихо́хонько Медве́дя толк ного́й: (Bèn khe khẽ lấy chân huých bác Gấu:)"
+    },
+    {
+     "t": "para",
+     "text": "«Смотри́-ка, — говори́т, — кум ми́лый мой! («Nhìn kìa, — ả bảo, — ông bạn thân mến của tôi!)"
+    },
+    {
+     "t": "para",
+     "text": "Что́ это там за ро́жа? (Cái bản mặt nào trong ấy thế nhỉ?)"
+    },
+    {
+     "t": "para",
+     "text": "Каки́е у неё ужи́мки и прыжки́! (Nó nhăn nhó, nhảy nhót mới lố lăng làm sao!)"
+    },
+    {
+     "t": "para",
+     "text": "Я удави́лась бы с тоски́, (Hẳn tôi thắt cổ chết quách vì sầu não,)"
+    },
+    {
+     "t": "para",
+     "text": "Когда́ бы на неё хоть чуть была́ похо́жа. (Nếu như tôi giống nó dù chỉ chút xíu.)"
+    },
+    {
+     "t": "para",
+     "text": "А ведь, призна́йся, есть (Mà này, thú thật đi nhé, cũng có đấy,)"
+    },
+    {
+     "t": "para",
+     "text": "Из ку́мушек мои́х таки́х кривля́к пять-шесть: (Trong đám chị em bạn hữu của tôi, dăm sáu ả hay làm trò như thế:)"
+    },
+    {
+     "t": "para",
+     "text": "Я да́же их могу́ по па́льцам перече́сть». — (Tôi còn đếm được từng ả trên đầu ngón tay». —)"
+    },
+    {
+     "t": "para",
+     "text": "«Чем ку́мушек счита́ть труди́ться, («Hơi đâu nhọc công ngồi đếm chị em bạn hữu,)"
+    },
+    {
+     "t": "para",
+     "text": "Не лу́чше ль на себя́, кума́, обороти́ться?» — (Chẳng thà ngoảnh lại nhìn mình còn hơn không, bà bạn?» —)"
+    },
+    {
+     "t": "para",
+     "text": "Ей Ми́шка отвеча́л. (Bác Gấu đáp lời ả.)"
+    },
+    {
+     "t": "para",
+     "text": "Но Ми́шенькин сове́т лишь по́пусту пропа́л. (Nhưng lời khuyên của bác Gấu chỉ uổng công vô ích.)"
+    },
+    {
+     "t": "para",
+     "text": "Таки́х приме́ров мно́го в ми́ре: (Những chuyện như thế trên đời nhiều lắm:)"
+    },
+    {
+     "t": "para",
+     "text": "Не лю́бит узнава́ть никто́ себя́ в сати́ре. (Chẳng ai ưa nhận ra chính mình trong văn châm biếm.)"
+    },
+    {
+     "t": "para",
+     "text": "Я да́же ви́дел то вчера́: (Mới hôm qua thôi chính tôi từng thấy:)"
+    },
+    {
+     "t": "para",
+     "text": "Что Кли́мыч на́ руку нечи́ст, все э́то зна́ют; (Lão Klimych vốn chẳng sạch tay, điều ấy ai ai cũng biết;)"
+    },
+    {
+     "t": "para",
+     "text": "Про взя́тки Кли́мычу чита́ют, (Người ta đọc cho Klimych nghe chuyện ăn hối lộ,)"
+    },
+    {
+     "t": "para",
+     "text": "А он укра́дкою кива́ет на Петра́. (Còn lão thì len lén hất hàm sang phía Pyotr.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó"
+    },
+    {
+     "t": "vocab",
+     "ru": "марты́шка",
+     "vi": "khỉ nhỏ đuôi dài; ở đây: ả Khỉ — nhân vật ngụ ngôn",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "тихо́хонько",
+     "vi": "(giảm nhẹ thân mật của ти́хо) khe khẽ, len lén",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ро́жа",
+     "vi": "(thông tục, xách mé) bản mặt, bộ mặt xấu xí",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ужи́мки",
+     "vi": "điệu bộ nhăn nhó màu mè (ужи́мки и прыжки́ — thành ngữ từ bài này)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "прыжо́к",
+     "vi": "cú nhảy (số nhiều: прыжки́)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "удави́ться",
+     "vi": "thắt cổ chết (удави́лась бы с тоски́ — chết quách vì sầu não)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "тоска́",
+     "vi": "nỗi buồn chán, sầu não",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кривля́ка",
+     "vi": "kẻ hay làm bộ làm tịch, õng ẹo (từ кривля́ться — nhăn nhó làm trò)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "перече́сть",
+     "vi": "(cũ, = пересчита́ть) đếm hết, đếm xuể (по па́льцам перече́сть — đếm trên đầu ngón tay)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "обороти́ться",
+     "vi": "(cũ/dân dã, = оберну́ться) ngoảnh lại, quay lại nhìn (на себя́ обороти́ться — tự nhìn lại mình)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "по́пусту",
+     "vi": "uổng công, vô ích",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "сати́ра",
+     "vi": "văn châm biếm, thơ trào phúng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "взя́тка",
+     "vi": "của đút lót, hối lộ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "укра́дкою",
+     "vi": "lén lút, vụng trộm (= укра́дкой)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

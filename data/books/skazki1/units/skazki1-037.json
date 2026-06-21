@@ -1,0 +1,185 @@
+{
+ "id": "skazki1-037",
+ "num": 37,
+ "title": "Смерть петушка — Cái chết của chú gà trống",
+ "vi": "Смерть петушка — Cái chết của chú gà trống",
+ "ru": "Смерть петушка",
+ "icon": "🌾",
+ "color": "#854d0e",
+ "sectionPrefix": "skazki1-037-s",
+ "group": "Truyện № 61–100",
+ "sections": [
+  {
+   "id": "skazki1-037-s001",
+   "type": "story",
+   "num": 69,
+   "title": "№ 69 · Смерть петушка — Cái chết của chú gà trống",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Truyện kể tích luỹ kiểu «dây chuyền» (ATU 2021 «Cái chết của chú gà trống»): chú gà trống hóc phải hạt đậu nằm như chết, gà mái chạy đi xin nước cứu bạn, nhưng mỗi nơi lại đặt thêm một điều kiện, dồn thành chuỗi cứ nối dài mãi rồi mở ngược từ cuối về đầu. Giữ nguyên văn cổ và dấu trọng âm của nguồn (зе́рнятко, спыши́т, в те́ поры, ла́яна)."
+    },
+    {
+     "t": "para",
+     "text": "Ходят курица с петухом на поповом гумне. (Ngày xưa, có con gà mái với con gà trống đi kiếm ăn trên sân đập lúa nhà cha xứ.)"
+    },
+    {
+     "t": "para",
+     "text": "Подавился петушок бобовым зе́рнятком. (Chú gà trống nuốt phải một hạt đậu rồi mắc nghẹn.)"
+    },
+    {
+     "t": "para",
+     "text": "Курочка сжале́лась, пошла к речке просить воды. (Gà mái thương xót, bèn chạy ra dòng suối xin nước.)"
+    },
+    {
+     "t": "para",
+     "text": "Речка говорит: «Поди к липке, проси ли́ста, тогда и дам воды!» (Dòng suối bảo: «Mày đến cây đoạn xin lá đã, rồi ta mới cho nước!»)"
+    },
+    {
+     "t": "para",
+     "text": "«Липка, липка! Дай ли́сту: лист нести к речке, речка даст воды, воду нести к петушку, — подавился петушок бобовым зе́рнятком: ни спыши́т, ни сдыши́т, ровно мертвый лежит!» («Cây đoạn ơi, cây đoạn! Cho tôi cái lá: lá đem ra suối, suối cho nước, nước đem về cho gà trống — gà trống nuốt phải hạt đậu mắc nghẹn, không thở ra cũng chẳng hít vào, nằm cứng đờ như chết rồi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Липка сказала: «Поди к девке, проси нитки: в те́ поры дам ли́ста!» (Cây đoạn nói: «Mày đến cô gái xin sợi chỉ đã, lúc ấy ta mới cho lá!»)"
+    },
+    {
+     "t": "para",
+     "text": "«Девка, девка! Дай нитки, нитки нести к липке, липка даст ли́сту, лист нести к речке, речка даст воды, воду нести к петушку, — подавился петушок бобовым зе́рнятком: ни спыши́т, ни сдыши́т, ровно мертвый лежит!» («Cô gái ơi, cô gái! Cho tôi sợi chỉ: chỉ đem cho cây đoạn, cây đoạn cho lá, lá đem ra suối, suối cho nước, nước đem về cho gà trống — gà trống nuốt phải hạt đậu mắc nghẹn, không thở ra cũng chẳng hít vào, nằm cứng đờ như chết rồi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Девка говорит: «Поди к корове, проси молока; в те́ поры дам нитки». (Cô gái bảo: «Mày đến con bò xin sữa đã; lúc ấy ta mới cho chỉ.»)"
+    },
+    {
+     "t": "para",
+     "text": "Пришла курочка к корове: «Корова, корова! Дай молока, молоко нести к девке, девка даст нитки, нитки нести к липке, липка даст ли́сту, лист нести к речке, речка даст воды, воду нести к петушку, — подавился петушок бобовым зе́рнятком: ни спыши́т, ни сдыши́т, ровно мертвый лежит!» (Gà mái đến chỗ con bò: «Bò ơi, bò! Cho tôi sữa: sữa đem cho cô gái, cô gái cho chỉ, chỉ đem cho cây đoạn, cây đoạn cho lá, lá đem ra suối, suối cho nước, nước đem về cho gà trống — gà trống nuốt phải hạt đậu mắc nghẹn, không thở ra cũng chẳng hít vào, nằm cứng đờ như chết rồi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Корова говорит: «Поди, курочка, к сенокосам, попроси у них сена; в те́ поры дам молока». (Bò nói: «Gà mái ơi, mày đến mấy người cắt cỏ xin ít cỏ khô đã; lúc ấy ta mới cho sữa.»)"
+    },
+    {
+     "t": "para",
+     "text": "Пришла курочка к сенокосам: «Сенокосы, сенокосы! Дайте сена, сено нести к корове, корова даст молока, молоко нести к девке, девка даст нитки, нитки нести к липке, липка даст ли́сту, лист нести к речке, речка даст воды, воду нести к петушку, — подавился петушок бобовым зе́рнятком: ни спыши́т, ни сдыши́т, ровно мертвый лежит!» (Gà mái đến chỗ những người cắt cỏ: «Các bác cắt cỏ ơi! Cho tôi ít cỏ khô: cỏ đem cho con bò, bò cho sữa, sữa đem cho cô gái, cô gái cho chỉ, chỉ đem cho cây đoạn, cây đoạn cho lá, lá đem ra suối, suối cho nước, nước đem về cho gà trống — gà trống nuốt phải hạt đậu mắc nghẹn, không thở ra cũng chẳng hít vào, nằm cứng đờ như chết rồi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Сенокосы говорят: «Поди, курочка, к кузнецам, чтобы сковали косу». (Những người cắt cỏ bảo: «Gà mái ơi, mày đến mấy bác thợ rèn nhờ rèn cho cái lưỡi hái đã.»)"
+    },
+    {
+     "t": "para",
+     "text": "Пришла курочка к кузнецам: «Кузнецы, кузнецы! Скуйте мне косу, косу нести к сенокосам, сенокосы дадут сена, сено нести к корове, корова даст молока, молоко нести к девке, девка даст нитки, нитки нести к липке, липка даст ли́сту, лист нести к речке, речка даст воды, воду нести к петушку, — подавился петушок бобовым зе́рнятком: ни спыши́т, ни сдыши́т, ровно мертвый лежит!» (Gà mái đến chỗ thợ rèn: «Các bác thợ rèn ơi! Rèn cho tôi cái lưỡi hái: lưỡi hái đem cho người cắt cỏ, người cắt cỏ cho cỏ khô, cỏ đem cho con bò, bò cho sữa, sữa đem cho cô gái, cô gái cho chỉ, chỉ đem cho cây đoạn, cây đoạn cho lá, lá đem ra suối, suối cho nước, nước đem về cho gà trống — gà trống nuốt phải hạt đậu mắc nghẹn, không thở ra cũng chẳng hít vào, nằm cứng đờ như chết rồi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Кузнецы сказали: «Иди, курочка, к ла́янам, проси у них уголья; в те́ поры скуем тебе косу». (Thợ rèn nói: «Gà mái ơi, mày đến mấy người hầm than xin ít than đã; lúc ấy chúng ta mới rèn lưỡi hái cho.»)"
+    },
+    {
+     "t": "para",
+     "text": "Пришла курочка к ла́янам: «Ла́яна, ла́яна! Дайте уголья, уголье нести к кузнецам, кузнецы скуют косу, косу нести к сенокосам, сенокосы дадут сена, сено нести к корове, корова даст молока, молоко нести к девке, девка даст нитки, нитки нести к липке, липка даст ли́сту, лист нести к речке, речка даст воды, воду нести к петушку, — подавился петушок бобовым зе́рнятком: ни спыши́т, ни сдыши́т, ровно мертвый лежит!» (Gà mái đến chỗ người hầm than: «Các bác hầm than ơi! Cho tôi ít than: than đem cho thợ rèn, thợ rèn rèn lưỡi hái, lưỡi hái đem cho người cắt cỏ, người cắt cỏ cho cỏ khô, cỏ đem cho con bò, bò cho sữa, sữa đem cho cô gái, cô gái cho chỉ, chỉ đem cho cây đoạn, cây đoạn cho lá, lá đem ra suối, suối cho nước, nước đem về cho gà trống — gà trống nuốt phải hạt đậu mắc nghẹn, không thở ra cũng chẳng hít vào, nằm cứng đờ như chết rồi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Дали ла́яна уголья; снесла курочка уголье к кузнецам, кузнецы сковали косу; снесла косу к сенокосам, сенокосы накосили сена; снесла сено к корове, корова дала молока; (Người hầm than cho than; gà mái đem than đến cho thợ rèn, thợ rèn rèn xong lưỡi hái; đem lưỡi hái cho người cắt cỏ, người cắt cỏ cắt được cỏ khô; đem cỏ cho con bò, bò cho sữa;)"
+    },
+    {
+     "t": "para",
+     "text": "снесла молоко к девке, девка дала нитки; снесла нитки к липке, липка дала ли́сту; снесла лист к речке, речка дала воды; (đem sữa cho cô gái, cô gái cho chỉ; đem chỉ cho cây đoạn, cây đoạn cho lá; đem lá ra suối, suối cho nước;)"
+    },
+    {
+     "t": "para",
+     "text": "снесла воду к петушку: он лежит, ни спыши́т, ни сдыши́т, подавился на поповом гумне бобовым зе́рнятком! (đem nước về cho gà trống: nhưng nó vẫn nằm đó, không thở ra cũng chẳng hít vào — đã hóc phải hạt đậu trên sân đập lúa nhà cha xứ mà chết mất rồi!)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "подави́ться",
+     "vi": "bị hóc, mắc nghẹn (vì thức ăn)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "зе́рнятко",
+     "vi": "hạt nhỏ (từ thân mật/cổ, = зёрнышко); бобовое зе́рнятко = hạt đậu",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "бобо́вый",
+     "vi": "thuộc về đậu, bằng đậu",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "сжа́литься",
+     "vi": "động lòng thương, xót xa (ở đây dạng cổ сжале́лась)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ре́чка",
+     "vi": "dòng suối, con sông nhỏ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ли́па",
+     "vi": "cây đoạn (cây gia, linden); dạng thân mật ли́пка",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "лист",
+     "vi": "chiếc lá",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ни́тки",
+     "vi": "chỉ, sợi chỉ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "де́вка",
+     "vi": "cô gái (cách gọi dân dã/cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "у́голье",
+     "vi": "than (dạng tập hợp cổ của уголь)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ла́яна",
+     "vi": "người hầm than, đốt than (phương ngữ; = углежоги)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "спыши́т, ни сдыши́т",
+     "vi": "không thở ra cũng chẳng hít vào (phương ngữ, từ спышать/сдышать)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ро́вно",
+     "vi": "như, tựa như (phương ngữ = словно, точно)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "скова́ть",
+     "vi": "rèn, đập rèn (kim loại)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

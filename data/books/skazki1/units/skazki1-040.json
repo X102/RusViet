@@ -1,0 +1,153 @@
+{
+ "id": "skazki1-040",
+ "num": 40,
+ "title": "Ворона и рак — Quạ và tôm",
+ "vi": "Ворона и рак — Quạ và tôm",
+ "ru": "Ворона и рак",
+ "icon": "🦞",
+ "color": "#0c4a6e",
+ "sectionPrefix": "skazki1-040-s",
+ "group": "Truyện № 61–100",
+ "sections": [
+  {
+   "id": "skazki1-040-s001",
+   "type": "story",
+   "num": 73,
+   "title": "№ 73 · Ворона и рак — Quạ và tôm",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Truyện loài vật phương Nam trong sưu tập Afanasyev: lời con tôm được chép nguyên bằng tiếng Ukraina, còn lời dẫn chuyện thì bằng tiếng Nga. Mô-típ «con mồi dùng lời nịnh để thoát thân» — đảo ngược truyện «Cáo và Quạ»: lần này chính con mồi (tôm) tán tụng kẻ bắt mình (quạ) cho tới khi quạ khoái chí há mỏ khoe tài mà để tuột mất bữa ăn."
+    },
+    {
+     "t": "para",
+     "text": "Летела ворона по-над морем, смотрит — рак лезет; (Một con quạ bay là là dọc trên mặt biển, chợt nhìn xuống thì thấy một con tôm đang bò lổm ngổm;)"
+    },
+    {
+     "t": "para",
+     "text": "хап его и понесла в лес, чтобы, усевшись где-нибудь на ветке, хорошенько закусить. (nó liền chộp ngay lấy tôm mà tha vào rừng, bụng tính đậu lên một cành cây nào đó rồi đánh chén cho thỏa thuê.)"
+    },
+    {
+     "t": "para",
+     "text": "Видит рак, что приходится пропадать, и говорит вороне: (Con tôm thấy phen này ắt phải bỏ mạng, bèn lên tiếng nói với quạ:)"
+    },
+    {
+     "t": "para",
+     "text": "«Эй, воро́но, воро́но! Знав я твого́ батька и твою матір — славні люди були!» (— Này quạ ơi, quạ à! Ta từng quen cả cha lẫn mẹ nhà ngươi đấy — toàn những người tử tế, đáng kính lắm thay!)"
+    },
+    {
+     "t": "para",
+     "text": "«Угу!» — ответила ворона, не раскрывая рта. (— Hừ-ư! — quạ đáp, mỏ vẫn ngậm chặt chẳng hé ra.)"
+    },
+    {
+     "t": "para",
+     "text": "«І братів і сестер твоїх знав, що́ за добрі люди!» (— Cả anh em, chị em nhà ngươi ta cũng quen, ôi chao toàn những con người mới tốt bụng làm sao!)"
+    },
+    {
+     "t": "para",
+     "text": "«Угу!» (— Hừ-ư!)"
+    },
+    {
+     "t": "para",
+     "text": "«Та вже хоч вони і гарні люди, а тобі не рівня. (— Thế nhưng dẫu họ có tốt đẹp đến mấy, cũng chẳng thể sánh bằng ngươi được.)"
+    },
+    {
+     "t": "para",
+     "text": "Мені здається, що й на світі нема розумнішого над тебе». (Ta thấy trên đời này quả thật chẳng còn ai khôn ngoan hơn ngươi nữa.)"
+    },
+    {
+     "t": "para",
+     "text": "«Эге!» — крякнула ворона во весь рот и упустила рака в море. (— A-ha! — quạ khoái chí kêu toáng lên hết cỡ mỏ, thế là để con tôm tuột khỏi miệng, rơi tõm xuống biển.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "по-над",
+     "vi": "(phương ngữ) men theo bên trên, dọc trên (по-над морем — dọc trên mặt biển)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "хап",
+     "vi": "(thán từ tượng thanh) chộp! — diễn tả động tác quắp/chộp lấy thật nhanh",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "закуси́ть",
+     "vi": "ăn lót dạ, đánh chén một bữa",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "пропада́ть",
+     "vi": "toi mạng, bỏ mạng (приходится пропадать — đành phải bỏ mạng)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кря́кнуть",
+     "vi": "kêu quạc một tiếng, kêu khàn lên (ở đây: quạ kêu toáng)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "во весь рот",
+     "vi": "hết cỡ miệng; ở đây: há mỏ ra hết cỡ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "эге́",
+     "vi": "(thán từ) a-ha!, ồ! — reo lên ra chiều đắc ý",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "знав",
+     "vi": "(укр. = знал) đã từng quen biết, đã biết",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "твого́",
+     "vi": "(укр. = твоего) của ngươi (sở hữu cách, giống đực)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ма́тір",
+     "vi": "(укр. = мать) mẹ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "сла́вні лю́ди",
+     "vi": "(укр. = славные люди) những người đáng kính, vẻ vang",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "га́рні",
+     "vi": "(укр. = хорошие, красивые) tốt, đẹp",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "не рі́вня",
+     "vi": "(укр. = не ровня) không sánh bằng, không ngang hàng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "нема́ розумні́шого над те́бе",
+     "vi": "(укр.) không ai khôn ngoan hơn ngươi",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

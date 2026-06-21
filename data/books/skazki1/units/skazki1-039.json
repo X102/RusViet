@@ -1,0 +1,199 @@
+{
+ "id": "skazki1-039",
+ "num": 39,
+ "title": "Журавль и цапля — Sếu và diệc",
+ "vi": "Журавль и цапля — Sếu và diệc",
+ "ru": "Журавль и цапля",
+ "icon": "🦩",
+ "color": "#0891b2",
+ "sectionPrefix": "skazki1-039-s",
+ "group": "Truyện № 61–100",
+ "sections": [
+  {
+   "id": "skazki1-039-s001",
+   "type": "story",
+   "num": 72,
+   "title": "№ 72 · Журавль и цапля — Sếu và diệc",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "«Журавль и цапля» №72 là truyện loài vật trào lộng kinh điển (kiểu ATU 244*): con sếu và con diệc cứ lần lượt sang nhà nhau hỏi cưới mà chẳng bao giờ thành đôi — một vòng luẩn quẩn bất tận, châm biếm thói sĩ diện và do dự. Truyện mở bằng присказка (lời rao bông đùa về «con cú»): theo lối kể dân gian Nga, присказка chỉ là khúc dạo, còn сказка mới là truyện chính. Giữ nguyên các dạng cổ/phương ngữ: выдь (=выйди), нейду (=не иду), за тя (=за тебя) và dấu trọng âm nguồn (не́ взял)."
+    },
+    {
+     "t": "para",
+     "text": "Летала сова — веселая голова; вот она летала-летала и села, да хвостиком повертела, да по сторонам посмотрела и опять полетела; летала-летала и села, хвостиком повертела, да по сторонам посмотрела... Это присказка, сказка вся впереди. (Có con cú bay — cái đầu nhộn nhạo; nó cứ bay mãi bay mãi rồi đậu xuống, ngoe nguẩy cái đuôi, ngó nghiêng bốn phía rồi lại bay lên; bay mãi bay mãi rồi đậu xuống, ngoe nguẩy cái đuôi, ngó nghiêng bốn phía... Ấy mới chỉ là lời rao đầu, truyện thì hãy còn ở phía trước.)"
+    },
+    {
+     "t": "para",
+     "text": "Жили-были на болоте журавль да цапля, построили себе по концам избушки. (Ngày xưa ở chốn đầm lầy có con sếu và con diệc, mỗi con dựng cho mình một túp lều ở hai đầu đầm.)"
+    },
+    {
+     "t": "para",
+     "text": "Журавлю показалось скучно жить одному, и задумал он жениться. (Con sếu thấy sống một mình buồn tẻ, bèn tính chuyện lấy vợ.)"
+    },
+    {
+     "t": "para",
+     "text": "«Дай пойду посватаюсь на цапле!» («Thôi để ta sang hỏi cô diệc làm vợ!»)"
+    },
+    {
+     "t": "para",
+     "text": "Пошел журавль — тяп, тяп! (Sếu lên đường — lệt sệt, lệt sệt!)"
+    },
+    {
+     "t": "para",
+     "text": "Семь верст болото месил; приходит и говорит: «Дома ли цапля?» — «Дома». (Lội bì bõm suốt bảy dặm đầm lầy; đến nơi, sếu cất tiếng: «Cô diệc có nhà không?» — «Có nhà».)"
+    },
+    {
+     "t": "para",
+     "text": "«Выдь за меня замуж». («Cô lấy tôi làm chồng đi».)"
+    },
+    {
+     "t": "para",
+     "text": "«Нет, журавль, нейду за тя замуж: у тебя ноги долги, платье коротко, сам худо летаешь, и кормить-то меня тебе нечем! Ступай прочь, долговязый!» («Không đâu, anh sếu ạ, tôi chẳng lấy anh: chân anh thì dài, áo lại ngắn cũn, bay thì vụng về, đến nuôi tôi anh cũng chẳng có gì mà nuôi! Xéo đi, đồ cẳng dài lêu nghêu!»)"
+    },
+    {
+     "t": "para",
+     "text": "Журавль как не солоно похлебал, ушел домой. (Sếu đành cụt hứng, ra về tay không.)"
+    },
+    {
+     "t": "para",
+     "text": "Цапля после раздумалась и сказала: «Чем жить одной, лучше пойду замуж за журавля». (Sau đó diệc lại đổi ý, tự nhủ: «Sống một mình làm gì, thà đi lấy anh sếu còn hơn».)"
+    },
+    {
+     "t": "para",
+     "text": "Приходит к журавлю и говорит: «Журавль, возьми меня замуж!» (Diệc tìm đến nhà sếu mà rằng: «Anh sếu ơi, cưới tôi làm vợ đi!»)"
+    },
+    {
+     "t": "para",
+     "text": "«Нет, цапля, мне тебя не надо! Не хочу жениться, не беру тебя замуж. Убирайся!» («Không, cô diệc ạ, tôi chẳng cần cô! Tôi không muốn lấy vợ, chẳng cưới cô đâu. Cút đi cho!»)"
+    },
+    {
+     "t": "para",
+     "text": "Цапля заплакала со стыда и воротилась назад. (Diệc tủi hổ khóc òa rồi quay trở về.)"
+    },
+    {
+     "t": "para",
+     "text": "Журавль раздумался и сказал: «Напрасно не́ взял за себя цаплю; ведь одному-то скучно. Пойду теперь и возьму ее замуж». (Sếu lại nghĩ lại, lẩm bẩm: «Uổng thật, mình chẳng chịu lấy cô diệc; sống một mình buồn quá đi mất. Thôi giờ ta đi cưới cô ấy vậy».)"
+    },
+    {
+     "t": "para",
+     "text": "Приходит и говорит: «Цапля! Я вздумал на тебе жениться; поди за меня». (Sếu đến nơi mà rằng: «Cô diệc ơi! Tôi đã quyết lấy cô làm vợ; cô về với tôi đi».)"
+    },
+    {
+     "t": "para",
+     "text": "«Нет, журавль, нейду за тя замуж!» («Không đâu, anh sếu, tôi chẳng lấy anh làm chồng!»)"
+    },
+    {
+     "t": "para",
+     "text": "Пошел журавль домой. (Sếu lại lủi thủi ra về.)"
+    },
+    {
+     "t": "para",
+     "text": "Тут цапля раздумалась: «Зачем отказала? Что одной-то жить? Лучше за журавля пойду!» (Đến lượt diệc đổi ý: «Sao mình lại từ chối nhỉ? Sống một mình mà làm gì? Thà lấy anh sếu còn hơn!»)"
+    },
+    {
+     "t": "para",
+     "text": "Приходит свататься, а журавль не хочет. (Diệc lại sang ngỏ lời, nhưng sếu lại chẳng ưng.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот так-то и ходят они по сю пору один на другом свататься, да никак не женятся. (Cứ thế mà đến tận bây giờ hai con vẫn lần lượt sang nhà nhau hỏi cưới, mà chẳng khi nào nên đôi nên lứa.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "присказка",
+     "vi": "lời rao đầu truyện, khúc dạo mở đầu (phân biệt với сказка = truyện chính)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "цапля",
+     "vi": "con diệc (chim lội nước chân cao)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "болото",
+     "vi": "đầm lầy, bãi sình",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "посвата́ться",
+     "vi": "đi hỏi vợ, sang dạm/cầu hôn (свататься на ком — hỏi cưới ai)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "верста́",
+     "vi": "dặm Nga (đơn vị độ dài cũ, ≈ 1,06 km)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "болото месить",
+     "vi": "lội bì bõm, lội ì oạp qua đầm lầy (месить — giẫm/khuấy nhão)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "выдь",
+     "vi": "ra đây! ra đi! (dạng cổ của mệnh lệnh выйди)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "нейду́",
+     "vi": "tôi không đi, tôi chẳng lấy (dạng cổ/khẩu ngữ của не иду)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "за тя",
+     "vi": "lấy anh, vì anh (за тя = за тебя, dạng phương ngữ/khẩu ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "долговя́зый",
+     "vi": "lêu nghêu, cao cẳng, cẳng dài lòng khòng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "как не солоно похлеба́л",
+     "vi": "thành ngữ: ra về tay không, cụt hứng, chẳng được gì (lối nói «như húp phải canh nhạt»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "разду́маться",
+     "vi": "đổi ý, nghĩ lại, thay lòng đổi dạ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "со стыда́",
+     "vi": "vì xấu hổ, vì tủi thẹn (стыд — sự hổ thẹn)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "по сю по́ру",
+     "vi": "đến tận bây giờ, cho đến giờ (thành ngữ cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "убира́ться",
+     "vi": "cút đi, xéo đi, biến đi (убирайся! — cút!)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

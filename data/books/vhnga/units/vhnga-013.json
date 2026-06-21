@@ -1,0 +1,161 @@
+{
+ "id": "vhnga-013",
+ "num": 13,
+ "title": "«Сельская песня» — Bài ca đồng quê (Pleshcheyev)",
+ "vi": "«Сельская песня» — Bài ca đồng quê (Pleshcheyev)",
+ "ru": "Сельская песня",
+ "icon": "🐦",
+ "color": "#059669",
+ "sectionPrefix": "vhnga-013-s",
+ "group": "Алексей Плещеев · Thơ",
+ "sections": [
+  {
+   "id": "vhnga-013-s001",
+   "type": "story",
+   "num": 13,
+   "title": "«Сельская песня» — “Bài ca đồng quê” (A. Pleshcheyev, 1858)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "«Сельская песня» (Bài ca đồng quê) — thường được biết đến qua câu mở đầu «Травка зеленеет…» — là bài thơ trữ tình về mùa xuân của A-lếch-xây Plê-sê-ép (Алексей Николаевич Плещеев, 1825–1893), nhà thơ Nga thế kỷ XIX. Sáng tác năm 1858 (phóng tác theo thơ của thi sĩ Ba Lan S. Witwicki), bài thơ được đưa vào sách tập đọc «Родное слово» (Lời quê) của nhà sư phạm Ushinsky và trở thành một trong những bài thơ mùa xuân quen thuộc nhất với bao thế hệ thiếu nhi Nga. Bằng ngôn từ trong trẻo, giản dị, tác giả vẽ nên niềm vui khi xuân về: cỏ non xanh lại, nắng ấm lấp lánh, và cánh én — sứ giả của mùa xuân — bay về bên mái hiên, mang theo khúc ca từ những miền đất xa xôi."
+    },
+    {
+     "t": "para",
+     "text": "Тра́вка зелене́ет, (Cỏ non đang xanh lại,)"
+    },
+    {
+     "t": "para",
+     "text": "Со́лнышко блести́т; (Vầng dương ấm lấp lánh;)"
+    },
+    {
+     "t": "para",
+     "text": "Ла́сточка с весно́ю (Cánh én cùng mùa xuân)"
+    },
+    {
+     "t": "para",
+     "text": "В се́ни к нам лети́т. (Bay về bên mái hiên nhà ta.)"
+    },
+    {
+     "t": "para",
+     "text": "С не́ю со́лнце кра́ше (Có én, vầng dương thêm rạng rỡ,)"
+    },
+    {
+     "t": "para",
+     "text": "И весна́ миле́й… (Và mùa xuân thêm đáng yêu…)"
+    },
+    {
+     "t": "para",
+     "text": "Прощебе́чь с доро́ги (Hãy ríu rít, vừa qua chặng đường xa)"
+    },
+    {
+     "t": "para",
+     "text": "Нам приве́т скоре́й! (Mau gửi đến ta một lời chào!)"
+    },
+    {
+     "t": "para",
+     "text": "Дам тебе́ я зёрен, (Ta sẽ cho én đôi hạt thóc,)"
+    },
+    {
+     "t": "para",
+     "text": "А ты пе́сню спой, (Còn én hãy cất lên khúc ca,)"
+    },
+    {
+     "t": "para",
+     "text": "Что из стран далёких (Khúc ca từ những miền xa thẳm)"
+    },
+    {
+     "t": "para",
+     "text": "Принесла́ с собо́й… (Mà én đã mang theo về…)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó"
+    },
+    {
+     "t": "vocab",
+     "ru": "тра́вка",
+     "vi": "cỏ non (dạng trìu mến của «трава» — cỏ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "зелене́ть",
+     "vi": "xanh lên, ngả màu xanh",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "со́лнышко",
+     "vi": "vầng dương bé nhỏ; mặt trời (dạng trìu mến của «солнце»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "блесте́ть",
+     "vi": "lấp lánh, lóng lánh, chiếu sáng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ла́сточка",
+     "vi": "chim én, chim nhạn",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "се́ни",
+     "vi": "gian ngoài, phòng đệm trước cửa nhà gỗ Nga; ở đây hiểu là mái hiên",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "лете́ть",
+     "vi": "bay",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кра́ше",
+     "vi": "đẹp hơn, rạng rỡ hơn (so sánh của «красивый»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "миле́е",
+     "vi": "đáng yêu hơn, dễ thương hơn (so sánh của «милый»; trong thơ rút gọn thành «милей»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "прощебе́чь",
+     "vi": "hãy hót ríu rít lên (mệnh lệnh của «прощебетать»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "приве́т",
+     "vi": "lời chào, lời thăm hỏi",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "зёрна",
+     "vi": "những hạt thóc, hạt ngũ cốc (số ít «зерно», cách 2 số nhiều «зёрен»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "далёкий",
+     "vi": "xa xôi, xa",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "принести́",
+     "vi": "mang đến, đem về (theo mình)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

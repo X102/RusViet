@@ -1,0 +1,191 @@
+{
+ "id": "skazki1-056",
+ "num": 56,
+ "title": "Старуха-говоруха — Mụ già lắm điều",
+ "vi": "Старуха-говоруха — Mụ già lắm điều",
+ "ru": "Старуха-говоруха",
+ "icon": "👵",
+ "color": "#c2410c",
+ "sectionPrefix": "skazki1-056-s",
+ "group": "Truyện № 61–100",
+ "sections": [
+  {
+   "id": "skazki1-056-s001",
+   "type": "story",
+   "num": 97,
+   "title": "№ 97 · Старуха-говоруха — Mụ già lắm điều",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Dị bản ngắn cùng cụm ATU 480 «con riêng hiền, con cưng dữ» với «Морозко» (№95–96), nhưng kẻ ban thưởng là Thần Rừng (леший) đội lốt thương nhân Novgorod; mở đầu là bức chân dung trào phúng mụ dì ghẻ «lắm điều» và túp lều chân gà «bánh nướng chống vách, bánh kếp lợp mái»."
+    },
+    {
+     "t": "para",
+     "text": "И день и ночь старуха ворчит, как у ней язык не заболит? (Ngày cũng như đêm mụ già cằn nhằn, sao cái lưỡi mụ không biết đau nhỉ?)"
+    },
+    {
+     "t": "para",
+     "text": "А всё на падчерицу: и не умна, и не статна! (Mà toàn trút lên đầu đứa con chồng: nào là chẳng khôn ngoan, nào là chẳng ra dáng ra hình!)"
+    },
+    {
+     "t": "para",
+     "text": "Пойдет и придет, станет и сядет — все не так, невпопад! (Nó đi hay về, đứng hay ngồi — đằng nào cũng sai, cũng trái mắt mụ!)"
+    },
+    {
+     "t": "para",
+     "text": "С утра до вечера как заведенные гусли. (Từ sáng đến tối mụ ra rả như cây đàn gusli lên dây sẵn.)"
+    },
+    {
+     "t": "para",
+     "text": "Надоела мужу, надоела всем, хоть со двора бежи! (Chồng ngán, ai ai cũng ngán, chỉ muốn bỏ nhà mà chạy!)"
+    },
+    {
+     "t": "para",
+     "text": "Запряг старик лошадь, затеял в город просо везть, а старуха кричит: «Бери и падчерицу, вези хоть в темный лес, хоть на путь на дорогу, только с моей шеи долой». (Ông lão thắng ngựa, sửa soạn chở kê lên tỉnh, mụ già liền the thé: «Đem luôn con bé đi, chở nó vào rừng thẳm hay quẳng ngoài đường ngoài sá cũng được, miễn sao tống khỏi cổ tôi».)"
+    },
+    {
+     "t": "para",
+     "text": "Старик повез. (Ông lão đành chở con đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Дорога дальняя, трудная, все бор да болото, где кинуть девку? (Đường xa khó nhọc, toàn rừng thông với đầm lầy, biết bỏ con bé nơi nào?)"
+    },
+    {
+     "t": "para",
+     "text": "Видит: стоит избушка на курьих ножках, пирогом подперта, блином накрыта, стоит — перевертывается. (Chợt thấy một túp lều trên chân gà, bánh nướng chống vách, bánh kếp lợp mái, cứ đứng đó mà xoay tròn.)"
+    },
+    {
+     "t": "para",
+     "text": "«В избушке, — подумал, — лучше оставить дочь», ссадил ее, дал проса на кашу, ударил по лошади и укатил из виду. («Để con lại trong lều còn hơn», ông nghĩ bụng, rồi đỡ con xuống, để lại ít kê nấu cháo, quất ngựa phóng đi mất dạng.)"
+    },
+    {
+     "t": "para",
+     "text": "Осталась девка одна; натолкла проса, наварила каши много, а есть некому. (Cô gái ở lại một mình; giã kê, nấu được bao nhiêu là cháo, mà nào có ai ăn cùng.)"
+    },
+    {
+     "t": "para",
+     "text": "Пришла ночь длинная, жуткая; спать — бока пролежишь, глядеть — глаза проглядишь, сло́ва молвить не с кем, и скучно и страшно! (Đêm xuống, dài dằng dặc, rợn người; nằm ngủ thì ê ẩm cả sườn, thức nhìn thì mòn cả mắt, một lời cũng chẳng có ai mà thốt — vừa buồn vừa sợ!)"
+    },
+    {
+     "t": "para",
+     "text": "Стала она на порог, отворила дверь в лес и зовет: «Кто в лесе, кто в темном — приди ко мне гостевать!» (Cô ra đứng nơi ngưỡng cửa, mở cửa về phía rừng mà cất tiếng gọi: «Ai trong rừng, ai nơi tăm tối — xin đến làm khách cùng tôi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Леший откликнулся, скинулся молодцом, новогородским купцом, прибежал и подарочек принес. (Thần Rừng lên tiếng đáp, hoá thành chàng trai tuấn tú, một thương nhân thành Novgorod, chạy tới còn mang theo quà.)"
+    },
+    {
+     "t": "para",
+     "text": "Нынче придет покалякает, завтра придет — гостинец принесет; увадился, наносил столько, что девать некуда! (Hôm nay đến tán chuyện, mai đến lại mang quà; cứ thế quen hơi lui tới, chở đến bao nhiêu là của, nhiều không biết cất đâu cho hết!)"
+    },
+    {
+     "t": "para",
+     "text": "А старуха-говоруха и скучила без падчерицы, в избе у ней стало тихо, на животе тошно, язык пересох. (Còn mụ già lắm điều bỗng thấy thiếu vắng đứa con chồng: trong nhà vắng tanh, ruột gan cồn cào, cái lưỡi khô rang.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ступай, муж, за падчерицей со дна моря ее достань, из огня выхвати! Я стара, я хила, за мной походить некому». («Ông ơi, đi đón con bé về đi, dưới đáy biển cũng phải mò lên, trong lửa cũng phải giật ra! Tôi già rồi, yếu rồi, chẳng ai đỡ đần chăm nom».)"
+    },
+    {
+     "t": "para",
+     "text": "Послушался муж; приехала падчерица, да как раскрыла сундук да развесила добро на веревочке от избы до ворот, — старуха было разинула рот, хотела по-своему встретить, а как увидела — губки сложила, под святые гостью посадила и стала величать ее да приговаривать: «Чего изволишь, моя сударыня?» (Ông chồng nghe theo; đứa con chồng trở về, vừa mở rương đem của cải treo phơi trên dây từ lều ra tận cổng — mụ già đã há mồm toan đón theo thói cũ, nhưng trông thấy của liền mím môi, mời khách ngồi chỗ trang trọng dưới tượng thánh, rồi một điều kính hai điều thưa: «Thưa cô nương, cô cần chi ạ?»)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "говоруха",
+     "vi": "mụ/người đàn bà lắm lời (dân dã)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "статный",
+     "vi": "ra dáng, vóc dáng cân đối ưa nhìn",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "невпопад",
+     "vi": "không phải lúc, trật chìa",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "гусли",
+     "vi": "đàn gusli — đàn dây cổ của Nga",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "бор",
+     "vi": "rừng thông già",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ссадить",
+     "vi": "đỡ (ai) từ trên xe xuống",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "натолочь",
+     "vi": "giã được (một lượng)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "жуткий",
+     "vi": "rợn người, ghê sợ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "гостевать",
+     "vi": "làm khách, đến chơi nhà (dân dã)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "леший",
+     "vi": "Thần Rừng — linh thể rừng trong tín ngưỡng Slav",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "скинуться (кем)",
+     "vi": "hoá thành, đội lốt (phương ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "покалякать",
+     "vi": "tán gẫu, chuyện phiếm (dân dã)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "увадиться",
+     "vi": "quen mui lui tới luôn (= повадиться, phương ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "хилый",
+     "vi": "ốm yếu, lụ khụ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "под святые (посадить)",
+     "vi": "mời ngồi chỗ danh dự dưới góc tượng thánh",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

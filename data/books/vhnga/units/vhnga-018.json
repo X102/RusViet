@@ -1,0 +1,177 @@
+{
+ "id": "vhnga-018",
+ "num": 18,
+ "title": "«Детство» — Tuổi thơ (Surikov)",
+ "vi": "«Детство» — Tuổi thơ (Surikov)",
+ "ru": "Детство",
+ "icon": "🛷",
+ "color": "#2563eb",
+ "sectionPrefix": "vhnga-018-s",
+ "group": "Ива́н Су́риков · Thơ thiếu nhi",
+ "sections": [
+  {
+   "id": "vhnga-018-s001",
+   "type": "story",
+   "num": 18,
+   "title": "«Де́тство» — “Tuổi thơ” (Surikov, 1866, trích — 4 khổ đầu)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "И.З. Surikov (Ива́н Заха́рович Су́риков, 1841–1880) — nhà thơ Nga xuất thân nông dân, gần như tự học, nổi tiếng với những vần thơ giản dị thấm đẫm hồn quê và đời sống dân thường. «Де́тство» (Tuổi thơ, 1866) là một trong những bài thơ thiếu nhi được yêu thích nhất của ông: người kể chuyện — một người đã trưởng thành — hồi tưởng lại tuổi thơ êm đềm nơi làng quê, với trò trượt tuyết, buổi tối quây quần bên bà và những giấc mơ cổ tích. Đây là TRÍCH ĐOẠN mở đầu (4 khổ đầu trong tổng số 23 khổ), kể cảnh cậu bé trượt xe xuống dốc rồi ngã nhào vào đống tuyết giữa tiếng cười của lũ bạn. Lưu ý cặp từ đồng tự khác nghĩa: горе́ (= gора́/гора́ — ngọn, triền đồi; ở dòng «По горе́ круто́й») và го́ре (nỗi khổ, niềm đau; ở dòng «Мне в сугро́бе го́ре»). Một số dạng khẩu ngữ/dân gian: качу́ся (= качусь — tôi lăn, tôi trượt), ку́барем (lăn lông lốc như con quay)."
+    },
+    {
+     "t": "para",
+     "text": "Вот моя́ дере́вня: (Đây là làng quê tôi:)"
+    },
+    {
+     "t": "para",
+     "text": "Вот мой дом родно́й; (Đây ngôi nhà thân thương ruột thịt;)"
+    },
+    {
+     "t": "para",
+     "text": "Вот качу́сь я в са́нках (Đây, tôi đang lao vun vút trên chiếc xe trượt tuyết)"
+    },
+    {
+     "t": "para",
+     "text": "По горе́ круто́й; (Xuống triền đồi dốc đứng;)"
+    },
+    {
+     "t": "para",
+     "text": "Вот сверну́лись са́нки, (Bỗng chiếc xe trượt lật nghiêng,)"
+    },
+    {
+     "t": "para",
+     "text": "И я на́ бок — хлоп! (Và tôi ngã lăn sang một bên — bịch một cái!)"
+    },
+    {
+     "t": "para",
+     "text": "Ку́барем качу́ся (Lộn nhào lăn lông lốc)"
+    },
+    {
+     "t": "para",
+     "text": "Под го́ру, в сугро́б. (Xuống chân dốc, vùi vào đống tuyết.)"
+    },
+    {
+     "t": "para",
+     "text": "И друзья́-мальчи́шки, (Còn lũ bạn nhóc nghịch ngợm,)"
+    },
+    {
+     "t": "para",
+     "text": "Сто́я надо мно́й, (Đứng xúm quanh tôi,)"
+    },
+    {
+     "t": "para",
+     "text": "Ве́село хохо́чут (Cười phá lên khoái chí)"
+    },
+    {
+     "t": "para",
+     "text": "Над мое́й бедо́й. (Trước cảnh khốn khổ của tôi.)"
+    },
+    {
+     "t": "para",
+     "text": "Всё лицо́ и ру́ки (Cả khuôn mặt lẫn đôi bàn tay)"
+    },
+    {
+     "t": "para",
+     "text": "Залепи́л мне снег… (Tuyết bám đầy, phủ kín…)"
+    },
+    {
+     "t": "para",
+     "text": "Мне в сугро́бе го́ре, (Với tôi, vùi trong tuyết là cả một nỗi khổ,)"
+    },
+    {
+     "t": "para",
+     "text": "А ребя́там смех! (Còn với lũ bạn lại là một trận cười!)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó"
+    },
+    {
+     "t": "vocab",
+     "ru": "дере́вня",
+     "vi": "làng quê, làng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "родно́й",
+     "vi": "thân thương, ruột thịt; (nhà) quê hương",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "са́нки",
+     "vi": "xe trượt tuyết nhỏ (của trẻ con)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кати́ться (качу́сь)",
+     "vi": "trượt, lăn (xuống); качу́ся — dạng khẩu ngữ của качусь",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "гора́ (по горе́)",
+     "vi": "núi, đồi; «по горе́ круто́й» — xuống triền đồi dốc",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "круто́й",
+     "vi": "dốc đứng, dốc",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "сверну́ться",
+     "vi": "lật nghiêng, chệch sang bên; cuộn lại",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ку́барем",
+     "vi": "(lăn) lông lốc, lộn nhào như con quay",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "сугро́б",
+     "vi": "đống tuyết, ụ tuyết (do gió dồn)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "мальчи́шка",
+     "vi": "thằng nhóc, bé trai (мальчи́шки — lũ con trai)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "хохота́ть (хохо́чут)",
+     "vi": "cười phá lên, cười ngặt nghẽo",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "беда́",
+     "vi": "tai họa, nỗi khốn khổ, chuyện chẳng lành",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "залепи́ть",
+     "vi": "bám kín, trát đầy, phủ kín (tuyết bám đầy mặt)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "го́ре",
+     "vi": "nỗi khổ, niềm đau buồn (phân biệt với гора́/горе́ — đồi, núi)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

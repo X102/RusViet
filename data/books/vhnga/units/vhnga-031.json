@@ -1,0 +1,128 @@
+{
+ "id": "vhnga-031",
+ "num": 31,
+ "title": "«Умом Россию не понять…» — Nước Nga không hiểu nổi bằng lý trí (Tyutchev)",
+ "vi": "«Умом Россию не понять…» — Nước Nga không hiểu nổi bằng lý trí (Tyutchev)",
+ "ru": "Умом Россию не понять…",
+ "icon": "🧭",
+ "color": "#0e7490",
+ "sectionPrefix": "vhnga-031-s",
+ "sections": [
+  {
+   "id": "vhnga-031-s001",
+   "type": "story",
+   "num": 1,
+   "title": "«Умом Россию не понять…» — “Nước Nga không hiểu nổi bằng lý trí…” (F. Tyutchev, 1866)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Bài thơ bốn dòng nổi tiếng bậc nhất của Fyodor Tyutchev (Фёдор Ива́нович Тю́тчев, 1803–1873), viết ngày 28-11 (10-12 lịch mới) năm 1866, in lần đầu 1868 — thể loại: thơ triết lý/châm ngôn (четверости́шие — khổ thơ bốn dòng, nhịp iamb bốn chân). Ý nghĩa: nước Nga không thể nhận thức bằng lý trí thuần tuý, không thể đo bằng chuẩn mực chung («арши́н» — thước Nga cổ ≈ 0,71 m), chỉ có thể TIN — chữ «верить» được nhấn (in nghiêng) trong bản hàn lâm. Câu mở đầu đã thành thành ngữ, được trích dẫn và tranh luận suốt hơn 150 năm mỗi khi nói về “tâm hồn Nga”."
+    },
+    {
+     "t": "para",
+     "text": "Умо́м Росси́ю не поня́ть, (Nước Nga — lý trí không hiểu thấu,)"
+    },
+    {
+     "t": "para",
+     "text": "Арши́ном о́бщим не изме́рить: (Thước chung không thể đo lường:)"
+    },
+    {
+     "t": "para",
+     "text": "У ней осо́бенная стать — (Nàng mang một cốt cách riêng —)"
+    },
+    {
+     "t": "para",
+     "text": "В Росси́ю мо́жно то́лько ве́рить. (Với nước Nga, chỉ có thể vững lòng tin.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó"
+    },
+    {
+     "t": "vocab",
+     "ru": "ум",
+     "vi": "trí óc, lý trí (умо́м — công cụ cách: bằng lý trí)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "поня́ть",
+     "vi": "hiểu, hiểu thấu",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "арши́н",
+     "vi": "acsin — thước đo Nga cổ (≈ 0,71 m)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "о́бщий",
+     "vi": "chung, phổ quát",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "изме́рить",
+     "vi": "đo, đo lường (hoàn thành thể của ме́рить)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "у ней",
+     "vi": "= у неё (dạng cổ-khẩu ngữ): ở nàng, nàng có",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "осо́бенный",
+     "vi": "đặc biệt, riêng có",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "стать",
+     "vi": "(giống cái) dáng vóc, cốt cách, khí chất",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "мо́жно",
+     "vi": "có thể",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "то́лько",
+     "vi": "chỉ, duy chỉ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ве́рить",
+     "vi": "tin, tin tưởng (в кого́-что: vào ai/điều gì)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "Росси́я",
+     "vi": "nước Nga",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "умо́м не поня́ть",
+     "vi": "(thành ngữ từ bài này) lý trí không sao hiểu nổi",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "четверости́шие",
+     "vi": "bài thơ / khổ thơ bốn dòng",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,349 @@
+{
+ "id": "vhnga-028",
+ "num": 28,
+ "title": "«Филипок» — Cậu bé Filipok (Tolstoy)",
+ "vi": "«Филипок» — Cậu bé Filipok (Tolstoy)",
+ "ru": "Филипок",
+ "icon": "🎒",
+ "color": "#0e7490",
+ "sectionPrefix": "vhnga-028-s",
+ "group": "Лев Толстой · Truyện ngắn",
+ "sections": [
+  {
+   "id": "vhnga-028-s001",
+   "type": "story",
+   "num": 28,
+   "title": "«Филипок» — “Cậu bé Filipok” (L. Tolstoy, 1875)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Truyện «Филипок» (Cậu bé Filipok) của Lev Nikolaevich Tolstoy (Лев Николаевич Толстой, 1828–1910), thể loại быль — chuyện như có thật, in trong sách học vần «Новая азбука» (1875) mà Tolstoy soạn cho trẻ em nông dân; ông từng mở trường làng ở Yasnaya Polyana và tự viết sách tập đọc. Cậu bé Filipok bị mẹ giữ ở nhà vì còn quá nhỏ, buồn quá bèn đội chiếc mũ cũ của bố lén đến trường — vượt qua lũ chó dữ và nỗi sợ thầy giáo — rồi được thầy cho ngồi học cùng anh. Cảnh đánh vần «хве-и — хви, ле-и — ли, пе-ок — пок» mô phỏng lối đánh vần kiểu cũ và cách phát âm dân dã — âm «Ф» đọc thành «хв» — nét hài hước trìu mến của truyện. Bản dưới đây theo Toàn tập 22 tập, t. 10 — bản ĐẦY ĐỦ, giữ cả đoạn Filipok đọc kinh Đức Mẹ (богородица) sai be bét mà nhiều ấn bản thiếu nhi thường lược bỏ."
+    },
+    {
+     "t": "para",
+     "text": "Был ма́льчик, зва́ли его́ Фили́пп. (Có một cậu bé, tên là Philipp.)"
+    },
+    {
+     "t": "para",
+     "text": "Пошли́ раз все ребя́та в шко́лу. (Một hôm, cả lũ trẻ kéo nhau đi học.)"
+    },
+    {
+     "t": "para",
+     "text": "Фили́пп взял ша́пку и хоте́л то́же идти́. (Philipp cầm lấy mũ, cũng muốn đi theo.)"
+    },
+    {
+     "t": "para",
+     "text": "Но мать сказа́ла ему́: (Nhưng mẹ bảo cậu:)"
+    },
+    {
+     "t": "para",
+     "text": "— Куда́ ты, Филипо́к, собра́лся? (— Filipok, con sửa soạn đi đâu đấy?)"
+    },
+    {
+     "t": "para",
+     "text": "— В шко́лу. (— Con đi học ạ.)"
+    },
+    {
+     "t": "para",
+     "text": "— Ты ещё мал, не ходи́, — и мать оста́вила его́ до́ма. (— Con còn bé lắm, đừng đi, — và mẹ giữ cậu ở nhà.)"
+    },
+    {
+     "t": "para",
+     "text": "Ребя́та ушли́ в шко́лу. (Lũ trẻ đã đến trường cả.)"
+    },
+    {
+     "t": "para",
+     "text": "Оте́ц ещё с утра́ уе́хал в лес, мать ушла́ на подённую рабо́ту. (Bố từ sáng sớm đã vào rừng, mẹ thì đi làm công nhật.)"
+    },
+    {
+     "t": "para",
+     "text": "Оста́лись в избе́ Филипо́к да ба́бушка на пе́чке. (Trong nhà gỗ chỉ còn lại Filipok và bà nằm trên bệ lò sưởi.)"
+    },
+    {
+     "t": "para",
+     "text": "Ста́ло Филипку́ ску́чно одному́, ба́бушка засну́ла, а он стал иска́ть ша́пку. (Filipok ở một mình buồn quá; bà đã ngủ thiếp đi, cậu bèn đi tìm mũ.)"
+    },
+    {
+     "t": "para",
+     "text": "Свое́й не нашёл, взял ста́рую, отцо́вскую и пошёл в шко́лу. (Không tìm thấy mũ của mình, cậu lấy chiếc mũ cũ của bố rồi đi đến trường.)"
+    },
+    {
+     "t": "para",
+     "text": "Шко́ла была́ за село́м у це́ркви. (Trường ở ngoài làng, cạnh nhà thờ.)"
+    },
+    {
+     "t": "para",
+     "text": "Когда́ Филипо́к шёл по свое́й слободе́, соба́ки не тро́гали его́, они́ его́ зна́ли. (Khi Filipok đi trong xóm mình, lũ chó không động đến cậu — chúng đều quen cậu.)"
+    },
+    {
+     "t": "para",
+     "text": "Но когда́ он вы́шел к чужи́м двора́м, вы́скочила Жу́чка, зала́яла, а за Жу́чкой больша́я соба́ка Волчо́к. (Nhưng khi cậu ra tới mấy sân nhà lạ thì con Zhuchka xồ ra sủa ầm lên, theo sau Zhuchka là con chó to Volchok.)"
+    },
+    {
+     "t": "para",
+     "text": "Филипо́к бро́сился бежа́ть, соба́ки за ним. (Filipok cắm đầu chạy, lũ chó đuổi theo.)"
+    },
+    {
+     "t": "para",
+     "text": "Филипо́к стал крича́ть, споткну́лся и упа́л. (Filipok kêu toáng lên, vấp chân ngã nhào.)"
+    },
+    {
+     "t": "para",
+     "text": "Вы́шел мужи́к, отогна́л соба́к и сказа́л: (Một bác nông dân bước ra, xua lũ chó đi và nói:)"
+    },
+    {
+     "t": "para",
+     "text": "— Куда́ ты, пострелёнок, оди́н бежи́шь? (— Thằng nhóc kia, chạy đi đâu một mình thế?)"
+    },
+    {
+     "t": "para",
+     "text": "Филипо́к ничего́ не сказа́л, подобра́л по́лы и пусти́лся бежа́ть во весь дух. (Filipok chẳng nói chẳng rằng, túm vạt áo lên rồi ba chân bốn cẳng chạy miết.)"
+    },
+    {
+     "t": "para",
+     "text": "Прибежа́л он к шко́ле. (Cậu chạy đến trường.)"
+    },
+    {
+     "t": "para",
+     "text": "На крыльце́ никого́ нет, а в шко́ле слы́шно гудя́т голоса́ ребя́т. (Ngoài thềm chẳng có ai, còn trong trường nghe rõ tiếng lũ trẻ râm ran.)"
+    },
+    {
+     "t": "para",
+     "text": "На Филипка́ нашёл страх: что, как учи́тель меня́ прого́нит? (Nỗi sợ ập đến với Filipok: nhỡ thầy giáo đuổi mình thì sao?)"
+    },
+    {
+     "t": "para",
+     "text": "И стал он ду́мать, что ему́ де́лать. (Và cậu bắt đầu nghĩ xem nên làm gì.)"
+    },
+    {
+     "t": "para",
+     "text": "Наза́д идти́ — опя́ть соба́ка зае́ст, в шко́лу идти́ — учи́теля бои́тся. (Quay về thì chó lại cắn, mà vào trường thì sợ thầy.)"
+    },
+    {
+     "t": "para",
+     "text": "Шла ми́мо шко́лы ба́ба с ведро́м и говори́т: (Một bà xách thùng nước đi ngang qua trường, bảo:)"
+    },
+    {
+     "t": "para",
+     "text": "— Все у́чатся, а ты что тут стои́шь? (— Ai nấy đều học cả, sao cháu lại đứng đây?)"
+    },
+    {
+     "t": "para",
+     "text": "Филипо́к и пошёл в шко́лу. (Thế là Filipok đi vào trường.)"
+    },
+    {
+     "t": "para",
+     "text": "В се́нцах снял ша́пку и отвори́л дверь. (Đến phòng đệm ngoài cửa, cậu bỏ mũ ra rồi mở cửa lớp.)"
+    },
+    {
+     "t": "para",
+     "text": "Шко́ла вся была́ полна́ ребя́т. (Cả trường đầy ắp trẻ con.)"
+    },
+    {
+     "t": "para",
+     "text": "Все крича́ли своё, и учи́тель в кра́сном ша́рфе ходи́л посереди́не. (Đứa nào cũng ra rả đọc bài của mình, còn thầy giáo quàng khăn quàng đỏ đi đi lại lại ở giữa.)"
+    },
+    {
+     "t": "para",
+     "text": "— Ты что? — закрича́л он на Филипка́. (— Em làm gì thế? — thầy quát Filipok.)"
+    },
+    {
+     "t": "para",
+     "text": "Филипо́к ухвати́лся за ша́пку и ничего́ не говори́л. (Filipok níu chặt chiếc mũ, chẳng nói gì.)"
+    },
+    {
+     "t": "para",
+     "text": "— Да ты кто? (— Mà em là ai mới được chứ?)"
+    },
+    {
+     "t": "para",
+     "text": "Филипо́к молча́л. (Filipok lặng thinh.)"
+    },
+    {
+     "t": "para",
+     "text": "— И́ли ты немо́й? (— Hay là em câm?)"
+    },
+    {
+     "t": "para",
+     "text": "Филипо́к так напуга́лся, что говори́ть не мог. (Filipok sợ đến nỗi không nói được.)"
+    },
+    {
+     "t": "para",
+     "text": "— Ну так иди́ домо́й, ко́ли говори́ть не хо́чешь. (— Thế thì về nhà đi, nếu em không muốn nói.)"
+    },
+    {
+     "t": "para",
+     "text": "А Филипо́к рад бы что сказа́ть, да в го́рле у него́ от стра́ха пересо́хло. (Mà Filipok cũng muốn nói lắm chứ, nhưng cổ họng cậu sợ đến khô khốc.)"
+    },
+    {
+     "t": "para",
+     "text": "Он посмотре́л на учи́теля и запла́кал. (Cậu nhìn thầy giáo rồi oà khóc.)"
+    },
+    {
+     "t": "para",
+     "text": "Тогда́ учи́телю жа́лко его́ ста́ло. (Thầy giáo thấy thương cậu.)"
+    },
+    {
+     "t": "para",
+     "text": "Он погла́дил его́ по голове́ и спроси́л у ребя́т, кто э́тот ма́льчик. (Thầy xoa đầu cậu và hỏi lũ trẻ xem cậu bé này là ai.)"
+    },
+    {
+     "t": "para",
+     "text": "— Э́то Филипо́к, Костю́шкин брат, он давно́ про́сится в шко́лу, да мать не пуска́ет его́, и он укра́дкой пришёл в шко́лу. (— Đấy là Filipok, em của Kostyushka; nó xin đi học từ lâu mà mẹ không cho, nên nó lén đến trường đấy ạ.)"
+    },
+    {
+     "t": "para",
+     "text": "— Ну, сади́сь на ла́вку во́зле бра́та, а я твою́ мать попрошу́, чтоб пуска́ла тебя́ в шко́лу. (— Thôi được, em ngồi xuống ghế cạnh anh em đi, rồi thầy sẽ xin mẹ cho em đi học.)"
+    },
+    {
+     "t": "para",
+     "text": "Учи́тель стал пока́зывать Филипку́ бу́квы, а Филипо́к их уже́ знал и немно́жко чита́ть уме́л. (Thầy bắt đầu chỉ cho Filipok các chữ cái, nhưng Filipok đã biết cả rồi, lại còn đọc được chút ít.)"
+    },
+    {
+     "t": "para",
+     "text": "— Ну́-ка, сложи́ своё и́мя. (— Nào, thử ghép tên em xem.)"
+    },
+    {
+     "t": "para",
+     "text": "Филипо́к сказа́л: (Filipok đọc:)"
+    },
+    {
+     "t": "para",
+     "text": "— Хве-и — хви, ле-и — ли, пе-ок — пок. (— Khvê-i — khvi, lê-i — li, pê-ôk — pôk.)"
+    },
+    {
+     "t": "para",
+     "text": "Все засмея́лись. (Cả lớp cười ồ.)"
+    },
+    {
+     "t": "para",
+     "text": "— Молоде́ц, — сказа́л учи́тель. — Кто же тебя́ учи́л чита́ть? (— Giỏi lắm, — thầy nói. — Thế ai dạy em đọc?)"
+    },
+    {
+     "t": "para",
+     "text": "Филипо́к осме́лился и сказа́л: (Filipok mạnh dạn hẳn lên, đáp:)"
+    },
+    {
+     "t": "para",
+     "text": "— Костю́шка. Я бедо́вый, я сра́зу всё по́нял. Я страсть како́й ло́вкий! (— Anh Kostyushka ạ. Em sáng dạ lắm, em hiểu ngay hết. Em nhanh trí ghê lắm cơ!)"
+    },
+    {
+     "t": "para",
+     "text": "Учи́тель засмея́лся и сказа́л: (Thầy giáo bật cười, nói:)"
+    },
+    {
+     "t": "para",
+     "text": "— А моли́твы ты зна́ешь? (— Thế em có thuộc kinh cầu nguyện không?)"
+    },
+    {
+     "t": "para",
+     "text": "Филипо́к сказа́л: (Filipok đáp:)"
+    },
+    {
+     "t": "para",
+     "text": "— Зна́ю, — и на́чал говори́ть богоро́дицу; но вся́кое сло́во говори́л не так. (— Thuộc ạ, — rồi cậu bắt đầu đọc kinh Đức Mẹ; nhưng chữ nào cũng đọc sai.)"
+    },
+    {
+     "t": "para",
+     "text": "Учи́тель останови́л его́ и сказа́л: (Thầy giáo ngắt lời cậu và bảo:)"
+    },
+    {
+     "t": "para",
+     "text": "— Ты погоди́ хвали́ться, а поучи́сь. (— Em hẵng khoan khoe, chịu khó học cái đã.)"
+    },
+    {
+     "t": "para",
+     "text": "С тех пор Филипо́к стал ходи́ть с ребя́тами в шко́лу. (Từ đó Filipok ngày ngày cùng lũ trẻ đi học.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó"
+    },
+    {
+     "t": "vocab",
+     "ru": "подённая рабо́та",
+     "vi": "việc làm công nhật — làm thuê trả công theo ngày",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "изба́",
+     "vi": "nhà gỗ của nông dân Nga",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "слобода́",
+     "vi": "xóm, khu dân cư ven làng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "зала́ять",
+     "vi": "cất tiếng sủa, sủa ầm lên",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "споткну́ться",
+     "vi": "vấp chân",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "пострелёнок",
+     "vi": "thằng nhóc tinh nghịch — khẩu ngữ, gọi yêu trẻ con",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "во весь дух",
+     "vi": "ba chân bốn cẳng, hết tốc lực",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "крыльцо́",
+     "vi": "thềm cửa có bậc lên xuống",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "се́нцы",
+     "vi": "phòng đệm ở cửa nhà gỗ Nga — cũng như се́ни",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "отвори́ть",
+     "vi": "mở ra — cửa, cổng; từ hơi cũ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "укра́дкой",
+     "vi": "lén lút, vụng trộm",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "бедо́вый",
+     "vi": "lanh lợi, gan lì — khẩu ngữ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "моли́тва",
+     "vi": "kinh cầu nguyện",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "хвали́ться",
+     "vi": "khoe khoang, tự khoe mình",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

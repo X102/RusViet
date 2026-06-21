@@ -1,0 +1,743 @@
+{
+ "id": "skazki1-080",
+ "num": 80,
+ "title": "Иван Быкович — Ivan Bykovich con bò",
+ "vi": "Иван Быкович — Ivan Bykovich con bò",
+ "ru": "Иван Быкович",
+ "icon": "🐮",
+ "color": "#a16207",
+ "sectionPrefix": "skazki1-080-s",
+ "group": "Truyện № 101–140",
+ "sections": [
+  {
+   "id": "skazki1-080-s001",
+   "type": "story",
+   "num": 137,
+   "title": "№ 137 · Иван Быкович — Ivan Bykovich con bò",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Bản kinh điển nhất của chùm truyện dũng sĩ canh cầu kalina (ATU 300, №133–137), nửa sau nối mạch đoạt cô dâu thần kỳ (ATU 513A): vua hiếm muộn mơ thấy cá pecca gai vây vàng; hoàng hậu, bà bếp và con bò cái cùng ăn món cá — sinh ba chàng Ivan cùng giờ, trong đó Ivan Bykovich con bò là tráng sĩ hơn cả; ba đêm canh sông Smorodina bên cầu kalina diệt quái Chudo-Yudo sáu, chín và mười hai đầu (đêm ba: ngón tay lửa gắn lại đầu, khăn trắng và bát hứng máu làm hiệu); hoá chim sẻ nghe lỏm mưu ba mụ vợ quái (cây táo, giếng nước, giường vàng — chém chữ thập ứa máu), bị mụ phù thuỷ già kéo xuống hầm gặp lão chồng — bố lũ quái (mười hai tráng sĩ nâng mi mắt bằng chĩa sắt), bị sai đi đoạt nữ hoàng Tóc Quăn Vàng; năm ông lão tài phép giúp chàng (Ăn Khoẻ, Uống Khoẻ, lão tắm bania thổi tuyết, lão xem sao, lão bơi như cá pecca gai); kết bằng phép thử thanh đòn mảnh bắc qua hố và đoạn đùa của người kể «Tiệc ấy tôi cũng có dự…». Quy ước tên: Иван Быкович = Ivan Bykovich (gọi thân mật Ванюша = Vanyusha), Иван-царевич = hoàng tử Ivan, Иван кухаркин сын = Ivan con bà bếp, чудо-юдо = quái Chudo-Yudo, баба-яга костяная нога = mụ Baba-Yaga chân xương, царица золотые кудри = nữ hoàng Tóc Quăn Vàng, Объедайло/Опивайло = lão Ăn Khoẻ Obyedailo/lão Uống Khoẻ Opivailo. Nguồn sạch, không vết footnote. Trong các para 48, 59, 71, 116 phần Nga có dấu « mở không đóng do tách giữa lời thoại dài. Trọng âm nguyên bản giữ nguyên (мо́лодца, по́ пояс, на́ небо, на́ реку, за́ полночь, помоча́…)."
+    },
+    {
+     "t": "para",
+     "text": "В некотором царстве, в некотором государстве жил-был царь с царицею; детей у них не было. (Ngày xưa, ở một vương quốc nọ, một xứ sở nọ, có hai vợ chồng vua và hoàng hậu; con cái thì họ chẳng có.)"
+    },
+    {
+     "t": "para",
+     "text": "Стали они бога молить, чтоб создал им детище во младости на поглядение, а под старость на прокормление; помолились, легли спать и уснули крепким сном. (Hai người bèn cầu Trời ban cho một mụn con, để thuở trẻ có con mà ngắm, lúc về già có con phụng dưỡng; cầu khấn xong, họ lên giường nằm và ngủ một giấc thật say.)"
+    },
+    {
+     "t": "para",
+     "text": "Во сне им привиделось, что недалеко от дворца есть тихий пруд, в том пруде златоперый ерш плавает; коли царица его скушает, сейчас может забеременеть. (Trong mơ họ thấy hiện ra rằng cách cung điện không xa có một cái ao lặng, trong ao ấy có con cá pecca gai vây vàng bơi lội; hễ hoàng hậu ăn con cá ấy là có thể thụ thai ngay.)"
+    },
+    {
+     "t": "para",
+     "text": "Просыпались царь с царицею, кликали к себе мамок и нянек, стали им рассказывать свой сон. (Vua và hoàng hậu tỉnh dậy, cho gọi các nhũ mẫu cùng vú nuôi đến, đem giấc mơ kể lại cho họ nghe.)"
+    },
+    {
+     "t": "para",
+     "text": "Мамки и няньки так рассудили: что во сне привиделось, то и наяву может случиться. (Các nhũ mẫu vú nuôi luận rằng: điều gì đã hiện về trong mơ, ngoài đời thực cũng có thể ứng nghiệm.)"
+    },
+    {
+     "t": "para",
+     "text": "Царь призвал рыбаков и строго наказал поймать ерша златоперого. (Vua triệu đám dân chài đến, nghiêm lệnh phải bắt cho được con cá pecca gai vây vàng.)"
+    },
+    {
+     "t": "para",
+     "text": "На заре пришли рыбаки на тихий пруд, закинули сети, и на их счастье с первою ж тонею попался златоперый ерш. (Tờ mờ sáng, dân chài ra ao lặng, buông lưới xuống, và may sao, ngay mẻ lưới đầu tiên con cá pecca gai vây vàng đã mắc lưới.)"
+    },
+    {
+     "t": "para",
+     "text": "Вынули его, принесли во дворец; как увидала царица, не могла на месте усидеть, скоро к рыбакам подбегала, за руки хватала, большой казной награждала; после позвала свою любимую кухарку и отдавала ей ерша златоперого с рук на руки: «На, приготовь к обеду, да смотри, чтобы никто до него не дотронулся». (Người ta gỡ cá ra, đem về cung; hoàng hậu vừa trông thấy thì ngồi yên không nổi, vội chạy lại chỗ dân chài, nắm lấy tay từng người, ban thưởng bạc tiền hậu hĩnh; rồi bà gọi bà bếp cưng của mình đến, tận tay trao con cá pecca gai vây vàng: «Này, làm món cho bữa trưa, mà nhớ trông chừng, đừng để ai động vào nó đấy».)"
+    },
+    {
+     "t": "para",
+     "text": "Кухарка вычистила ерша, вымыла и сварила, помои на двор выставила; по двору ходила корова, те помои выпила; рыбку съела царица, а посуду кухарка подлизала. (Bà bếp đánh vảy moi ruột con cá, rửa sạch rồi đem nấu, nước rửa thì đổ ra sân; có con bò cái đi quanh sân, uống sạch chỗ nước rửa ấy; hoàng hậu xơi con cá, còn bà bếp vét liếm đĩa nồi.)"
+    },
+    {
+     "t": "para",
+     "text": "И вот разом забрюхатели: и царица, и ее любимая кухарка, и корова, и разрешились все в одно время тремя сыновьями: у царицы родился Иван-царевич, у кухарки — Иван кухаркин сын, у коровы Иван Быкович. (Thế là cả ba cùng lúc có mang: hoàng hậu, bà bếp cưng của bà, và con bò cái; rồi cả ba sinh nở cùng một lúc, được ba cậu con trai: hoàng hậu sinh ra hoàng tử Ivan, bà bếp sinh ra Ivan con bà bếp, còn bò cái sinh ra Ivan Bykovich.)"
+    },
+    {
+     "t": "para",
+     "text": "Стали ребятки расти не по дням, а по часам, как хорошее тесто на опаре поднимается, так и они вверх тянутся. (Lũ trẻ lớn lên không phải từng ngày mà từng giờ, như mẻ bột ủ men ngon dậy lên thế nào, chúng cũng vươn cao lên thế ấy.)"
+    },
+    {
+     "t": "para",
+     "text": "Все три мо́лодца на одно лицо удались, и признать нельзя было, кто из них дитя царское, кто — кухаркино и кто от коровы народился. (Cả ba chàng giống nhau như cùng một khuôn mặt, chẳng tài nào nhận ra ai là con vua, ai là con bà bếp, còn ai do bò cái đẻ ra.)"
+    },
+    {
+     "t": "para",
+     "text": "Только по тому и различали их: как воротятся с гулянья, Иван-царевич просит белье переменить, кухаркин сын норовит съесть что-нибудь, а Иван Быкович прямо на отдых ложится. (Người ta chỉ phân biệt được ba chàng ở mỗi điểm này: hễ đi chơi về, hoàng tử Ivan đòi thay áo xống, con bà bếp thì chực kiếm gì ăn, còn Ivan Bykovich lăn ra nghỉ luôn.)"
+    },
+    {
+     "t": "para",
+     "text": "По десятому году пришли они к царю и говорят: «Любезный наш батюшка! Сделай нам железную палку в пятьдесят пудов». (Sang năm lên mười, ba chàng đến gặp vua mà thưa: «Thưa cha yêu quý của chúng con! Xin cha làm cho chúng con một cây gậy sắt nặng năm mươi pud».)"
+    },
+    {
+     "t": "para",
+     "text": "Царь приказал своим кузнецам сковать железную палку в пятьдесят пудов; те принялись за работу и в неделю сделали. (Vua truyền cho thợ rèn của mình rèn cây gậy sắt năm mươi pud; họ bắt tay vào việc, một tuần thì xong.)"
+    },
+    {
+     "t": "para",
+     "text": "Никто палки за один край приподнять не может, а Иван-царевич, да Иван кухаркин сын, да Иван Быкович между пальцами ее повертывают, словно перо гусиное. (Chẳng ai nhấc nổi cây gậy dù chỉ một đầu, vậy mà hoàng tử Ivan, Ivan con bà bếp cùng Ivan Bykovich xoay nó giữa mấy ngón tay nhẹ tựa chiếc lông ngỗng.)"
+    },
+    {
+     "t": "para",
+     "text": "Вышли они на широкий царский двор. (Ba chàng bước ra khoảng sân rộng của cung vua.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ну, братцы, — говорит Иван-царевич, — давайте силу пробовать: кому быть бо́льшим братом». («Nào, các anh em, — hoàng tử Ivan nói, — ta thử sức nhau xem: ai đáng làm anh cả».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Ладно, — отвечал Иван Быкович, — бери палку и бей нас по плечам». (— «Được thôi, — Ivan Bykovich đáp, — cầm gậy lên mà phang vào vai chúng tôi».)"
+    },
+    {
+     "t": "para",
+     "text": "Иван-царевич взял железную палку, ударил Ивана кухаркина сына да Ивана Быковича по плечам и вбил того и другого по колена в землю. (Hoàng tử Ivan cầm cây gậy sắt, phang vào vai Ivan con bà bếp và Ivan Bykovich, đóng cả hai lún xuống đất tới đầu gối.)"
+    },
+    {
+     "t": "para",
+     "text": "Иван кухаркин сын ударил — вбил Ивана-царевича да Ивана Быковича по самую грудь в землю; а Иван Быкович ударил — вбил обоих братьев по самую шею. (Ivan con bà bếp phang — đóng hoàng tử Ivan và Ivan Bykovich lún xuống đất tới tận ngực; còn Ivan Bykovich phang một cái — đóng cả hai anh lún tới tận cổ.)"
+    },
+    {
+     "t": "para",
+     "text": "«Давайте, — говорит царевич, — еще силу попытаем: станем бросать железную палку кверху; кто выше забросит — тот будет больший брат». — «Ну что ж, бросай ты!» («Nào, — hoàng tử nói, — ta thử sức lần nữa: đem cây gậy sắt ném lên trời; ai ném cao hơn — người ấy làm anh cả». — «Thì đành vậy, anh ném trước đi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Иван-царевич бросил — палка через четверть часа назад упала, Иван кухаркин сын бросил — палка через полчаса упала, а Иван Быкович бросил — только через час воротилась. (Hoàng tử Ivan ném — mười lăm phút sau gậy rơi xuống, Ivan con bà bếp ném — nửa giờ sau gậy rơi xuống, còn Ivan Bykovich ném — phải một giờ sau gậy mới quay về.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ну, Иван Быкович! Будь ты большой брат». («Đành vậy, Ivan Bykovich! Chú làm anh cả».)"
+    },
+    {
+     "t": "para",
+     "text": "После того пошли они гулять по́ саду и нашли громадный камень. (Sau đó ba người dạo chơi trong vườn, gặp một tảng đá khổng lồ.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ишь какой камень! Нельзя ль его с места сдвинуть?» — сказал Иван-царевич, уперся в него руками, возился-возился — нет, не берет сила; попробовал Иван кухаркин сын — камень чуть-чуть подвинулся. («Chà, tảng đá gớm chưa! Liệu có xê nó đi được không?» — hoàng tử Ivan nói, hai tay tì vào đá, hì hà hì hục — không, sức chẳng ăn thua; Ivan con bà bếp thử — tảng đá chỉ nhúc nhích chút xíu.)"
+    },
+    {
+     "t": "para",
+     "text": "Говорит им Иван Быкович: «Мелко же вы плаваете! Постойте, я попробую». (Ivan Bykovich bảo hai người: «Các anh bơi nông quá thể! Khoan nào, để tôi thử».)"
+    },
+    {
+     "t": "para",
+     "text": "Подошел к камню да как двинет его ногою — камень ажно загудел, покатился на другую сторону сада и переломал много всяких деревьев. (Chàng bước lại tảng đá, lấy chân hích một cái — tảng đá rền vang, lăn sang tận phía bên kia vườn, đè gãy bao nhiêu là cây cối.)"
+    },
+    {
+     "t": "para",
+     "text": "Под тем камнем подвал открылся, в подвале стоят три коня богатырские, по стенам висит сбруя ратная: есть на чем добрым мо́лодцам разгуляться! (Dưới tảng đá ấy lộ ra một căn hầm, trong hầm có ba con tuấn mã tráng sĩ, trên tường treo yên cương chiến trận: các chàng trai tốt tha hồ mà vẫy vùng!)"
+    },
+    {
+     "t": "para",
+     "text": "Тотчас побежали они к царю и стали проситься: «Государь батюшка! Благослови нас в чужие земли ехать, самим на людей посмотреть, себя в людях показать». (Ba chàng tức tốc chạy đến xin vua: «Tâu phụ vương! Xin cha ban phước cho chúng con sang xứ người, để tự mình xem mặt thiên hạ, và cho thiên hạ thấy mặt mình».)"
+    },
+    {
+     "t": "para",
+     "text": "Царь их благословил, на дорогу казной наградил; они с царем простились, сели на богатырских коней и в путь-дорогу пустились. (Vua ban phước cho họ, cấp tiền bạc đi đường; ba chàng từ biệt vua, lên ngựa tráng sĩ, dấn bước lên đường.)"
+    },
+    {
+     "t": "para",
+     "text": "Ехали по долам, по горам, по зеленым лугам, и приехали в дремучий лес; в том лесу стоит избушка на курячьих ножках, на бараньих рожках, когда надо — повертывается. (Họ đi qua thung qua núi, qua những đồng cỏ xanh, rồi tới một khu rừng rậm rạp; trong rừng ấy có túp lều trên chân gà, trên sừng cừu, hễ cần — lều tự xoay.)"
+    },
+    {
+     "t": "para",
+     "text": "«Избушка, избушка, повернись к нам передо́м, к лесу задо́м; нам в тебя лезти, хлеба-соли ести». Избушка повернулась. («Lều ơi lều, quay mặt lại phía ta, quay lưng về phía rừng; cho ta vào trong, ăn chút bánh chút muối». Túp lều liền xoay lại.)"
+    },
+    {
+     "t": "para",
+     "text": "Добрые молодцы входят в избушку — на печке лежит баба-яга костяная нога, из угла в угол, нос в потолок. (Các chàng trai tốt bước vào lều — trên bếp lò nằm mụ Baba-Yaga chân xương, người dài từ góc này sang góc kia, mũi chọc lên trần.)"
+    },
+    {
+     "t": "para",
+     "text": "«Фу-фу-фу! Прежде русского духу слыхом не слыхано, видом не видано; нынче русский дух на ложку садится, сам в рот кати́тся». («Hừ-hừ-hừ! Trước kia hơi người Nga nghe chẳng từng nghe, thấy chẳng từng thấy; nay hơi người Nga tự sà lên thìa, tự lăn vào miệng».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Эй, старуха, не бранись, слезь-ка с печки да на лавочку садись. Спроси: куда едем мы? Я добренько скажу». (— «Này mụ già, đừng mắng mỏ, xuống khỏi bếp lò mà ngồi lên ghế dài đi. Hỏi xem: chúng ta đi đâu? Ta sẽ tử tế nói cho mà nghe».)"
+    },
+    {
+     "t": "para",
+     "text": "Баба-яга слезла с печки, подходила к Ивану Быковичу близко, кланялась ему низко: «Здравствуй, батюшка Иван Быкович! Куда едешь, куда путь держишь?» (Baba-Yaga tụt khỏi bếp lò, lại gần Ivan Bykovich, cúi chào thật thấp: «Chào chàng, chàng Ivan Bykovich quý hoá! Chàng đi đâu, đường nhắm nơi nao?»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Едем мы, бабушка, на́ реку Смородину, на калиновый мост; слышал я, что там не одно чудо-юдо живет». (— «Bà ơi, chúng tôi ra sông Smorodina, tới cầu kalina; tôi nghe nói nơi ấy có không chỉ một con quái Chudo-Yudo sinh sống».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Ай да Ванюша! За дело хватился; ведь они, злодеи, всех приполонили, всех разорили, ближние царства шаром покатили». (— «Chà chà, Vanyusha! Cậu bắt tay đúng việc rồi; lũ ác ôn ấy đã bắt sạch người, vét sạch của, càn các vương quốc quanh đây trống trơn».)"
+    },
+    {
+     "t": "para",
+     "text": "Братья переночевали у бабы-яги, поутру рано встали и отправились в путь-дорогу. (Ba anh em nghỉ đêm ở chỗ Baba-Yaga, sáng sớm dậy lên đường.)"
+    },
+    {
+     "t": "para",
+     "text": "Приезжают к реке Смородине; по всему берегу лежат кости человеческие, по колено будет навалено! (Họ tới sông Smorodina; suốt dọc bờ la liệt xương người, chất cao ngập tới đầu gối!)"
+    },
+    {
+     "t": "para",
+     "text": "Увидали они избушку, вошли в нее — пустехонька, и вздумали тут остановиться. Пришло дело к вечеру. (Thấy một túp lều, họ bước vào — lều trống trơn trống huếch, bèn tính dừng chân tại đây. Trời sắp sửa tối.)"
+    },
+    {
+     "t": "para",
+     "text": "Говорит Иван Быкович: «Братцы! Мы заехали в чужедальную сторону, надо жить нам с осторожкою; давайте по очереди на дозор ходить». (Ivan Bykovich nói: «Anh em ơi! Ta đã vào miền đất khách xa xôi, phải sống cho cẩn trọng; ta hãy thay phiên nhau đi tuần canh».)"
+    },
+    {
+     "t": "para",
+     "text": "Кинули жеребий — доставалось первую ночь сторожить Ивану-царевичу, другую — Ивану кухаркину сыну, а третью — Ивану Быковичу. (Họ rút thăm — đêm đầu đến lượt hoàng tử Ivan canh gác, đêm thứ hai — Ivan con bà bếp, đêm thứ ba — Ivan Bykovich.)"
+    },
+    {
+     "t": "para",
+     "text": "Отправился Иван-царевич на дозор, залез в кусты и крепко заснул. (Hoàng tử Ivan đi tuần canh, chui vào bụi rậm đánh một giấc say sưa.)"
+    },
+    {
+     "t": "para",
+     "text": "Иван Быкович на него не понадеялся; как пошло время за́ полночь — он тотчас готов был, взял с собой щит и меч, вышел и стал под калиновый мост. (Ivan Bykovich chẳng trông cậy vào anh ta; vừa quá nửa đêm — chàng đã sẵn sàng tức khắc, mang theo khiên và gươm, ra đứng dưới cầu kalina.)"
+    },
+    {
+     "t": "para",
+     "text": "Вдруг на реке воды взволновалися, на дубах орлы закричали — выезжает чудо-юдо шестиглавое; под ним конь споткнулся, черный ворон на плече встрепенулся, позади хорт ощетинился. (Bỗng nước sông cuộn sóng, đại bàng trên những cây sồi kêu vang — quái Chudo-Yudo sáu đầu cưỡi ngựa đi tới; con ngựa dưới mình nó sảy chân vấp, con quạ đen trên vai chợt xao xác, con chó săn theo sau dựng đứng lông.)"
+    },
+    {
+     "t": "para",
+     "text": "Говорит чудо-юдо шестиглавое: «Что ты, собачье мясо, спотыкаешься, ты, воронье перо, трепещешься, а ты, песья шерсть, ощетинилась? Аль вы думаете, что Иван Быкович здесь? (Quái Chudo-Yudo sáu đầu nói: «Sao mày vấp, hỡi đồ thịt chó, sao mày xao xác, hỡi đồ lông quạ, còn mày, đồ lông chó, sao dựng đứng lông lên? Hay chúng mày tưởng Ivan Bykovich đang ở đây?)"
+    },
+    {
+     "t": "para",
+     "text": "Так он, добрый мо́лодец, еще не родился, а коли родился — так на войну не сгодился: я его на одну руку посажу, другой прихлопну — только мокре́нько будет!» (Cái chàng trai tốt ấy còn chưa đẻ ra đời, mà có đẻ ra — cũng chẳng đáng đi đánh trận: ta đặt nó lên một bàn tay, tay kia vỗ xuống — chỉ còn lại một vệt ướt mà thôi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Выскочил Иван Быкович: «Не хвались, нечистая сила! Не поймав ясна сокола, рано перья щипать; не отведав добра мо́лодца, нечего хулить его. А давай лучше силы пробовать: кто одолеет, тот и похвалится». (Ivan Bykovich nhảy vọt ra: «Chớ khoác lác, đồ tà ma! Chưa bắt được chim cắt sáng, vặt lông còn quá sớm; chưa nếm sức chàng trai tốt, chớ vội buông lời chê. Chi bằng ta thử sức nhau: ai thắng, kẻ ấy hẵng khoe».)"
+    },
+    {
+     "t": "para",
+     "text": "Вот сошлись они — поравнялись, так жестоко ударились, что кругом земля простонала. (Thế là hai bên xáp lại — kè sát ngang nhau, quật nhau dữ dội đến nỗi đất quanh đó rền rĩ.)"
+    },
+    {
+     "t": "para",
+     "text": "Чуду-юду не посчастливилось: Иван Быкович с одного размаху сшиб ему три головы. (Quái Chudo-Yudo gặp vận đen: Ivan Bykovich vung một nhát phạt bay ba cái đầu của nó.)"
+    },
+    {
+     "t": "para",
+     "text": "«Стой, Иван Быкович! Дай мне роздыху». — «Что за роздых! У тебя, нечистая сила, три головы, у меня всего одна; вот как будет у тебя одна голова, тогда и отдыхать станем». («Khoan đã, Ivan Bykovich! Cho ta nghỉ lấy hơi». — «Nghỉ với ngơi gì! Nhà ngươi, đồ tà ma, có những ba cái đầu, ta vỏn vẹn một cái; chừng nào ngươi còn một đầu, bấy giờ hẵng nghỉ».)"
+    },
+    {
+     "t": "para",
+     "text": "Снова они сошлись, снова ударились; Иван Быкович отрубил чуду-юду и последние головы, взял туловище — рассек на мелкие части и побросал в реку Смородину, а шесть голов под калиновый мост сложил. Сам в избушку вернулся. (Họ lại xáp vào, lại quật nhau; Ivan Bykovich chém nốt những cái đầu cuối cùng của quái Chudo-Yudo, cầm lấy thân mình nó — xả thành từng mảnh vụn ném xuống sông Smorodina, còn sáu cái đầu thì xếp dưới cầu kalina. Rồi chàng quay về lều.)"
+    },
+    {
+     "t": "para",
+     "text": "Поутру приходит Иван-царевич. «Ну что, не видал ли чего?» — «Нет, братцы, мимо меня и муха не пролетала». (Sáng ra hoàng tử Ivan trở về. «Thế nào, có thấy gì không?» — «Không, anh em ạ, đến con ruồi cũng chẳng bay ngang chỗ tôi».)"
+    },
+    {
+     "t": "para",
+     "text": "На другую ночь отправился на дозор Иван кухаркин сын, забрался в кусты и заснул. (Đêm thứ hai, Ivan con bà bếp đi tuần canh, rúc vào bụi rậm ngủ khì.)"
+    },
+    {
+     "t": "para",
+     "text": "Иван Быкович на него не понадеялся; как пошло время за́ полночь — он тотчас снарядился, взял с собой щит и меч, вышел и стал под калиновый мост. (Ivan Bykovich chẳng trông cậy vào anh ta; vừa quá nửa đêm — chàng lập tức nai nịt gọn gàng, mang theo khiên và gươm, ra đứng dưới cầu kalina.)"
+    },
+    {
+     "t": "para",
+     "text": "Вдруг на реке воды взволновалися, на дубах орлы раскричалися — выезжает чудо-юдо девятиглавое; под ним конь споткнулся, черный ворон на плече встрепенулся, позади хорт ощетинился. (Bỗng nước sông cuộn sóng, đại bàng trên những cây sồi kêu inh ỏi — quái Chudo-Yudo chín đầu cưỡi ngựa đi tới; con ngựa dưới mình nó sảy chân vấp, con quạ đen trên vai chợt xao xác, con chó săn theo sau dựng đứng lông.)"
+    },
+    {
+     "t": "para",
+     "text": "Чудо-юдо коня по бедрам, во́рона по перьям, хорта по ушам: «Что ты, собачье мясо, спотыкаешься, ты, воронье перо, трепещешься, ты, песья шерсть, щетинишься? Аль вы думаете, что Иван Быкович здесь? (Quái Chudo-Yudo quật con ngựa vào đùi, vụt con quạ vào lông, phát con chó săn vào tai: «Sao mày vấp, hỡi đồ thịt chó, sao mày xao xác, hỡi đồ lông quạ, sao mày dựng lông, hỡi đồ lông chó? Hay chúng mày tưởng Ivan Bykovich đang ở đây?)"
+    },
+    {
+     "t": "para",
+     "text": "Так он еще не родился, а коли родился — так на войну не сгодился: я его одним пальцем убью!» (Nó còn chưa đẻ ra đời, mà có đẻ ra — cũng chẳng đáng đi đánh trận: ta giết nó bằng một ngón tay thôi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Выскочил Иван Быкович: «Погоди — не хвались, прежде богу помолись, руки умой да за дело примись! Еще неведомо — чья возьмет!» (Ivan Bykovich nhảy vọt ra: «Khoan đã — chớ khoác lác, trước hết hãy cầu Trời, rửa tay sạch rồi hẵng bắt tay vào việc! Còn chưa biết — phần thắng về tay ai!»)"
+    },
+    {
+     "t": "para",
+     "text": "Как махнет богатырь своим острым мечом раз-два, так и снес у нечистой силы шесть голов; а чудо-юдо ударил — по колена его в сыру землю вогнал. (Chàng tráng sĩ vung thanh gươm sắc một nhát, hai nhát, phạt bay sáu cái đầu của đồ tà ma; còn quái Chudo-Yudo đánh trả một đòn — dộng chàng lún xuống đất ẩm tới đầu gối.)"
+    },
+    {
+     "t": "para",
+     "text": "Иван Быкович захватил горсть земли и бросил своему супротивнику прямо в очи. (Ivan Bykovich vốc một nắm đất, ném thẳng vào mắt kẻ địch thủ.)"
+    },
+    {
+     "t": "para",
+     "text": "Пока чудо-юдо протирал свои глазища, богатырь срубил ему и остальные головы, взял туловище — рассек на мелкие части и побросал в реку Смородину, а девять голов под калиновый мост сложил. (Trong lúc quái Chudo-Yudo dụi đôi mắt thao láo, chàng tráng sĩ chém nốt những cái đầu còn lại, cầm thân mình nó — xả thành từng mảnh vụn ném xuống sông Smorodina, còn chín cái đầu thì xếp dưới cầu kalina.)"
+    },
+    {
+     "t": "para",
+     "text": "Наутро приходит Иван кухаркин сын. «Что, брат, не видал ли за́ ночь чего?» — «Нет, возле меня ни одна муха не пролетала, ни один комар не пищал!» (Sáng hôm sau Ivan con bà bếp trở về. «Thế nào, người anh em, đêm qua có thấy gì không?» — «Không, cạnh chỗ tôi chẳng con ruồi nào bay qua, chẳng con muỗi nào vo ve!»)"
+    },
+    {
+     "t": "para",
+     "text": "Иван Быкович повел братьев под калиновый мост, показал им на мертвые головы и стал стыдить: «Эх вы, сони; где вам воевать? Вам бы дома на печи лежать». (Ivan Bykovich dẫn hai anh xuống dưới cầu kalina, chỉ cho xem những cái đầu chết nằm đó và mắng cho xấu hổ: «Ôi các anh, đồ ngủ ngày; các anh mà đánh chác gì? Các anh chỉ đáng nằm bếp lò ở nhà thôi».)"
+    },
+    {
+     "t": "para",
+     "text": "На третью ночь собирается на дозор идти Иван Быкович; взял белое полотенце, повесил на стенку, а под ним на полу миску поставил и говорит братьям: (Đêm thứ ba, Ivan Bykovich sửa soạn đi tuần canh; chàng lấy chiếc khăn trắng treo lên vách, dưới khăn đặt cái bát trên sàn, rồi dặn các anh:)"
+    },
+    {
+     "t": "para",
+     "text": "«Я на страшный бой иду; а вы, братцы, всю ночь не спите да присматривайтесь, как будет с полотенца кровь течь: если половина миски набежит — ладно дело, если полна миска набежит — все ничего, а если через край польет — тотчас спускайте с цепей моего богатырского коня и сами спешите на помочь мне». («Tôi đi vào trận đánh khủng khiếp; còn các anh, suốt đêm đừng ngủ, hãy để mắt xem máu từ khăn chảy xuống thế nào: nếu máu dâng nửa bát — việc vẫn ổn, nếu đầy cả bát — cũng chưa sao, nhưng nếu tràn qua miệng bát — hãy lập tức tháo xích con ngựa tráng sĩ của tôi, rồi chính các anh mau mau đến cứu tôi».)"
+    },
+    {
+     "t": "para",
+     "text": "Вот стоит Иван Быкович под калиновым мостом; пошло время за́ полночь, на реке воды взволновалися, на дубах орлы раскричалися — выезжает чудо-юдо двенадцатиглавое; конь у него о двенадцати крылах, шерсть у коня серебряная, хвост и грива — золотые. (Ivan Bykovich đứng dưới cầu kalina; quá nửa đêm, nước sông cuộn sóng, đại bàng trên những cây sồi kêu inh ỏi — quái Chudo-Yudo mười hai đầu cưỡi ngựa đi tới; ngựa của nó có mười hai cánh, lông ngựa bằng bạc, đuôi và bờm — bằng vàng.)"
+    },
+    {
+     "t": "para",
+     "text": "Едет чудо-юдо; вдруг под ним конь споткнулся, черный ворон на плече встрепенулся, позади хорт ощетинился. (Quái Chudo-Yudo đang đi; bỗng con ngựa dưới mình nó sảy chân vấp, con quạ đen trên vai chợt xao xác, con chó săn theo sau dựng đứng lông.)"
+    },
+    {
+     "t": "para",
+     "text": "Чудо-юдо коня по бедрам, во́рона по перьям, хорта по ушам: «Что ты, собачье мясо, спотыкаешься, ты, воронье перо, трепещешься, ты, песья шерсть, щетинишься? Аль вы думаете, что Иван Быкович здесь? (Quái Chudo-Yudo quật con ngựa vào đùi, vụt con quạ vào lông, phát con chó săn vào tai: «Sao mày vấp, hỡi đồ thịt chó, sao mày xao xác, hỡi đồ lông quạ, sao mày dựng lông, hỡi đồ lông chó? Hay chúng mày tưởng Ivan Bykovich đang ở đây?)"
+    },
+    {
+     "t": "para",
+     "text": "Так он еще не родился, а коли родился — так на войну не сгодился; я только дуну — его и праху не останется!» (Nó còn chưa đẻ ra đời, mà có đẻ ra — cũng chẳng đáng đi đánh trận; ta chỉ thổi một hơi — đến hạt bụi của nó cũng chẳng còn!»)"
+    },
+    {
+     "t": "para",
+     "text": "Выскочил Иван Быкович: «Погоди — не хвались, прежде богу помолись!» (Ivan Bykovich nhảy vọt ra: «Khoan đã — chớ khoác lác, trước hết hãy cầu Trời!»)"
+    },
+    {
+     "t": "para",
+     "text": "— «А, ты здесь! Зачем пришел?» — «На тебя, нечистая сила, посмотреть, твоей крепости испробовать». — «Куда тебе мою крепость пробовать? Ты муха передо мной!» (— «À, mày ở đây! Đến làm gì?» — «Đến nhìn mặt ngươi, đồ tà ma, thử xem sức ngươi rắn chắc đến đâu». — «Mày mà đòi thử sức ta sao? Trước mặt ta, mày chỉ là con ruồi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Отвечает Иван Быкович: «Я пришел с тобой не сказки рассказывать, а насмерть воевать». (Ivan Bykovich đáp: «Ta đến đây chẳng phải để kể chuyện cổ tích với ngươi, mà để đánh nhau một mất một còn».)"
+    },
+    {
+     "t": "para",
+     "text": "Размахнулся своим острым мечом и срубил чуду-юду три головы. (Chàng vung thanh gươm sắc, chém đứt ba cái đầu của quái Chudo-Yudo.)"
+    },
+    {
+     "t": "para",
+     "text": "Чудо-юдо подхватил эти головы, черкнул по ним своим огненным пальцем — и тотчас все головы приросли, будто и с плеч не падали! (Quái Chudo-Yudo nhặt mấy cái đầu ấy lên, lấy ngón tay lửa của mình quẹt qua — tức thì các đầu liền lại như chưa từng rơi khỏi vai!)"
+    },
+    {
+     "t": "para",
+     "text": "Плохо пришлось Ивану Быковичу; чудо-юдо стал одолевать его, по колена вогнал в сыру землю. (Ivan Bykovich lâm thế nguy; quái Chudo-Yudo bắt đầu áp đảo chàng, dộng chàng lún xuống đất ẩm tới đầu gối.)"
+    },
+    {
+     "t": "para",
+     "text": "«Стой, нечистая сила! Цари-короли сражаются, и те замиренье делают; а мы с тобой ужли будем воевать без роздыху? Дай мне роздыху хоть до трех раз». («Khoan đã, đồ tà ma! Vua chúa đánh nhau còn có lúc giảng hoà; chẳng lẽ ta với ngươi cứ đánh không ngơi nghỉ? Cho ta nghỉ lấy hơi, dẫu chỉ ba bận».)"
+    },
+    {
+     "t": "para",
+     "text": "Чудо-юдо согласился; Иван Быкович снял правую рукавицу и пустил в избушку. (Quái Chudo-Yudo ưng thuận; Ivan Bykovich tháo chiếc găng tay phải, ném bay về túp lều.)"
+    },
+    {
+     "t": "para",
+     "text": "Рукавица все окна побила, а его братья спят, ничего не слышат. (Chiếc găng đập vỡ hết cửa sổ, vậy mà hai anh chàng vẫn ngủ, chẳng nghe thấy gì.)"
+    },
+    {
+     "t": "para",
+     "text": "В другой раз размахнулся Иван Быкович сильней прежнего и срубил чуду-юду шесть голов; чудо-юдо подхватил их, черкнул огненным пальцем — и опять все головы на местах, а Ивана Быковича забил он по́ пояс в сыру землю. (Lần thứ hai Ivan Bykovich vung gươm mạnh hơn trước, chém đứt sáu cái đầu của quái Chudo-Yudo; nó nhặt lên, lấy ngón tay lửa quẹt qua — các đầu lại y nguyên chỗ cũ, còn Ivan Bykovich thì bị nó dộng lún xuống đất ẩm tới thắt lưng.)"
+    },
+    {
+     "t": "para",
+     "text": "Запросил богатырь роздыху, снял левую рукавицу и пустил в избушку. (Chàng tráng sĩ xin nghỉ lấy hơi, tháo chiếc găng tay trái ném về túp lều.)"
+    },
+    {
+     "t": "para",
+     "text": "Рукавица крышу пробила, а братья всё спят, ничего не слышат. (Chiếc găng xuyên thủng mái nhà, vậy mà hai anh vẫn cứ ngủ, chẳng nghe thấy gì.)"
+    },
+    {
+     "t": "para",
+     "text": "В третий раз размахнулся он еще сильнее и срубил чуду-юду девять голов; чудо-юдо подхватил их, черкнул огненным пальцем — головы опять приросли, а Ивана Быковича вогнал он в сыру землю по самые плечи. (Lần thứ ba chàng vung gươm mạnh hơn nữa, chém đứt chín cái đầu của quái Chudo-Yudo; nó nhặt lên, lấy ngón tay lửa quẹt qua — các đầu lại liền như cũ, còn Ivan Bykovich thì bị nó dộng lún xuống đất ẩm tới tận vai.)"
+    },
+    {
+     "t": "para",
+     "text": "Иван Быкович запросил роздыху, снял с себя шляпу и пустил в избушку; от того удара избушка развалилася, вся по бревнам раскатилася. (Ivan Bykovich xin nghỉ lấy hơi, cởi chiếc mũ trên đầu ném về túp lều; cú ném ấy làm túp lều đổ sập, lăn long lóc ra từng súc gỗ.)"
+    },
+    {
+     "t": "para",
+     "text": "Тут только братья проснулись, глянули — кровь из миски через край льется, а богатырский конь громко ржет да с цепей рвется. (Mãi lúc ấy hai anh mới tỉnh giấc, nhìn ra — máu trong bát đã tràn qua miệng, còn con ngựa tráng sĩ hí vang trời, giật tung xích.)"
+    },
+    {
+     "t": "para",
+     "text": "Бросились они на конюшню, спустили коня, а следом за ним и сами на помочь спешат. (Họ lao ra chuồng ngựa, tháo cho ngựa chạy, rồi theo sau nó vội vã đến cứu.)"
+    },
+    {
+     "t": "para",
+     "text": "«А! — говорит чудо-юдо, — ты обманом живешь; у тебя помочь есть». («À! — quái Chudo-Yudo nói, — mày sống bằng trò lừa lọc; mày có người trợ giúp».)"
+    },
+    {
+     "t": "para",
+     "text": "Богатырский конь прибежал, начал бить его копытами; а Иван Быкович тем временем вылез из земли, приловчился и отсек чуду-юду огненный палец. (Con ngựa tráng sĩ phi tới, lấy vó nện nó túi bụi; còn Ivan Bykovich thừa lúc ấy bò lên khỏi mặt đất, lựa thế chặt phăng ngón tay lửa của quái Chudo-Yudo.)"
+    },
+    {
+     "t": "para",
+     "text": "После того давай рубить ему головы, сшиб все до единой, туловище на мелкие части разнял и побросал все в реку Смородину. (Đoạn chàng ra sức chém đầu nó, phạt bay không sót một cái, xả thân mình nó thành từng mảnh vụn, ném tất xuống sông Smorodina.)"
+    },
+    {
+     "t": "para",
+     "text": "Прибегают братья. «Эй вы, сони! — говорит Иван Быкович. — Из-за вашего сна я чуть-чуть головой не поплатился». (Hai anh chạy tới. «Ơi các anh, đồ ngủ ngày! — Ivan Bykovich nói. — Vì giấc ngủ của các anh mà tôi suýt nữa phải trả giá bằng cái đầu».)"
+    },
+    {
+     "t": "para",
+     "text": "Поутру ранешенько вышел Иван Быкович в чистое поле, ударился оземь и сделался воробышком, прилетел к белокаменным палатам и сел у открытого окошечка. (Sáng sớm tinh mơ, Ivan Bykovich ra ngoài đồng quang, đập mình xuống đất hoá thành con chim sẻ, bay tới toà cung điện đá trắng và đậu bên khung cửa sổ để ngỏ.)"
+    },
+    {
+     "t": "para",
+     "text": "Увидала его старая ведьма, посыпала зернышков и стала сказывать: «Воробышек-воробей! Ты прилетел зернышков покушать, моего горя послушать. Насмеялся надо мной Иван Быкович, всех зятьев моих извел». (Mụ phù thuỷ già trông thấy nó, rắc một nắm hạt rồi cất lời: «Sẻ ơi sẻ nhỏ! Mày bay đến mổ hạt, nghe nỗi sầu của tao đây. Thằng Ivan Bykovich nhạo báng tao, hại chết cả các chàng rể của tao rồi».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Не горюй, матушка! Мы ему за все отплатим», — говорят чудо-юдовы жены. (— «Mẹ đừng sầu não! Chúng con sẽ bắt nó đền tất cả», — mấy mụ vợ Chudo-Yudo nói.)"
+    },
+    {
+     "t": "para",
+     "text": "«Вот я, — говорит меньшая, — напущу голод, сама выйду на дорогу да сделаюсь яблоней с золотыми и серебряными яблочками: кто яблочко сорвет — тот сейчас лопнет». («Để con, — mụ út nói, — con sẽ gieo nạn đói, còn mình thì ra đứng bên đường hoá thành cây táo trĩu quả vàng quả bạc: ai hái táo — kẻ ấy nổ tung tức thì».)"
+    },
+    {
+     "t": "para",
+     "text": "— «А я, — говорит середняя, — напущу жажду, сама сделаюсь колодезем; на воде будут две чаши плавать: одна золотая, другая серебряная; кто за чашу возьмется — того я утоплю». (— «Còn con, — mụ giữa nói, — con sẽ gieo cơn khát, tự hoá thành cái giếng; trên mặt nước có hai chiếc chén nổi bồng bềnh: một chén vàng, một chén bạc; ai cầm lấy chén — con dìm chết kẻ ấy».)"
+    },
+    {
+     "t": "para",
+     "text": "— «А я, — говорит старшая, — сон напущу, а сама перекинусь золотой кроваткою; кто на кроватке ляжет — тот огнем сгорит». (— «Còn con, — mụ cả nói, — con sẽ gieo cơn buồn ngủ, còn mình thì biến thành chiếc giường vàng; ai ngả lưng lên giường — kẻ ấy bị lửa thiêu rụi».)"
+    },
+    {
+     "t": "para",
+     "text": "Иван Быкович выслушал эти речи, полетел назад, ударился оземь и стал по-прежнему добрым молодцем. (Ivan Bykovich nghe trọn những lời ấy, bay trở về, đập mình xuống đất lại thành chàng trai tráng như cũ.)"
+    },
+    {
+     "t": "para",
+     "text": "Собрались три брата и поехали домой. Едут они дорогою, голод их сильно мучает, а есть нечего. (Ba anh em thu xếp lên đường về nhà. Đi dọc đường, cơn đói hành hạ họ dữ lắm mà chẳng kiếm đâu ra cái ăn.)"
+    },
+    {
+     "t": "para",
+     "text": "Глядь — стоит яблоня с золотыми и серебряными яблочками; Иван-царевич да Иван кухаркин сын пустились было яблочки рвать, да Иван Быкович наперед заскакал и давай рубить яблоню крест-накрест — только кровь брызжет! (Nhìn kìa — một cây táo trĩu quả vàng quả bạc đứng sờ sờ; hoàng tử Ivan và Ivan con bà bếp đã toan xông vào hái táo, nhưng Ivan Bykovich phóng vượt lên trước, ra sức chém cây táo theo hình chữ thập — chỉ thấy máu phun ròng ròng!)"
+    },
+    {
+     "t": "para",
+     "text": "То же сделал он и с колодезем и с золотою кроваткою. Сгибли чудо-юдовы жены. (Với cái giếng và chiếc giường vàng, chàng cũng làm y như vậy. Thế là mấy mụ vợ Chudo-Yudo chết sạch.)"
+    },
+    {
+     "t": "para",
+     "text": "Как проведала о том старая ведьма, нарядилась нищенкой, выбежала на дорогу и стоит с котомкою. (Mụ phù thuỷ già vừa hay tin ấy, liền cải trang thành mụ ăn mày, te tái chạy ra đường đứng đợi với chiếc tay nải.)"
+    },
+    {
+     "t": "para",
+     "text": "Едет Иван Быкович с братьями; она протянула руку и стала просить милостыни. (Ivan Bykovich cùng hai anh đi ngang; mụ chìa tay ra van xin của bố thí.)"
+    },
+    {
+     "t": "para",
+     "text": "Говорит царевич Ивану Быковичу: «Братец! Разве у нашего батюшки мало золотой казны? Подай этой нищенке святую милостыню». (Hoàng tử nói với Ivan Bykovich: «Em ơi! Kho vàng của phụ vương ta nào có thiếu? Em bố thí làm phước cho mụ ăn mày này đi».)"
+    },
+    {
+     "t": "para",
+     "text": "Иван Быкович вынул червонец и подает старухе; она не берется за деньги, а берет его за руку и вмиг с ним исчезла. (Ivan Bykovich rút một đồng tiền vàng đưa cho mụ già; mụ chẳng cầm tiền mà nắm lấy tay chàng, rồi trong nháy mắt biến mất cùng chàng.)"
+    },
+    {
+     "t": "para",
+     "text": "Братья оглянулись — нет ни старухи, ни Ивана Быковича, и со страху поскакали домой, хвосты поджавши. (Hai anh ngoảnh lại — mụ già chẳng thấy, Ivan Bykovich cũng chẳng thấy đâu, hoảng quá bèn cắm cổ phi ngựa về nhà, cụp đuôi mà chạy.)"
+    },
+    {
+     "t": "para",
+     "text": "А ведьма утащила Ивана Быковича в подземелье и привела к своему мужу — старому старику: «На́ тебе, — говорит, — нашего погубителя!» (Còn mụ phù thuỷ thì lôi tuột Ivan Bykovich xuống hầm sâu dưới đất, dẫn tới trước chồng mụ — một ông lão già lụ khụ: «Này ông, — mụ nói, — kẻ hại cả nhà ta đây!»)"
+    },
+    {
+     "t": "para",
+     "text": "Старик лежит на железной кровати, ничего не видит: длинные ресницы и густые брови совсем глаза закрывают. (Ông lão nằm trên chiếc giường sắt, chẳng nhìn thấy gì: hàng mi dài và cặp mày rậm che kín cả mắt.)"
+    },
+    {
+     "t": "para",
+     "text": "Позвал он двенадцать могучих богатырей и стал им приказывать: «Возьмите-ка вилы железные, подымите мои брови и ресницы черные, я погляжу, что он за птица, что убил моих сыновей?» (Lão gọi mười hai tráng sĩ lực lưỡng tới mà truyền: «Các ngươi lấy chĩa sắt, nâng cặp mày và hàng mi đen của ta lên, để ta coi nó là hạng chim chóc gì mà dám giết các con trai ta?»)"
+    },
+    {
+     "t": "para",
+     "text": "Богатыри подняли ему брови и ресницы вилами; старик взглянул: «Ай да молодец Ванюша! Дак это ты взял смелость с моими детьми управиться! Что ж мне с тобою делать?» (Các tráng sĩ lấy chĩa nâng mày và mi lão lên; ông lão nhìn ra: «Chà chà, khá lắm Vanyusha! Ra là mày cả gan dám xử cả các con ta! Thế ta phải làm gì với mày bây giờ?»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Твоя воля, что хочешь, то и делай; я на все готов». (— «Tuỳ ý lão, muốn làm gì thì làm; tôi sẵn lòng chịu tất».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Ну да что много толковать, ведь детей не поднять; сослужи-ка мне лучше службу: съезди в невиданное царство, в небывалое государство и достань мне царицу золотые кудри; я хочу на ней жениться». (— «Thôi, lắm lời mà chi, các con ta cũng chẳng sống lại được; chi bằng mày gắng giúp ta một việc: hãy tới vương quốc chưa ai từng thấy, xứ sở chưa từng có, đoạt về cho ta nàng nữ hoàng Tóc Quăn Vàng; ta muốn cưới nàng làm vợ».)"
+    },
+    {
+     "t": "para",
+     "text": "Иван Быкович про себя подумал: «Куда тебе, старому черту, жениться, разве мне, мо́лодцу!» (Ivan Bykovich nghĩ bụng: «Cưới xin gì nổi cái ngữ lão, đồ quỷ già, hoạ chăng phải để phần ta, trai tráng thế này!»)"
+    },
+    {
+     "t": "para",
+     "text": "А старуха взбесилась, навязала камень на шею, бултых в воду и утопилась. (Còn mụ già thì nổi cơn điên, buộc đá vào cổ, đùng một cái nhảy ùm xuống nước trầm mình chết.)"
+    },
+    {
+     "t": "para",
+     "text": "«Вот тебе, Ванюша, дубинка, — говорит старик, — ступай ты к такому-то дубу, стукни в него три раза дубинкою и скажи: выйди, корабль! выйди, корабль! выйди, корабль! («Vanyusha, cầm lấy chiếc dùi này, — ông lão nói, — mày tới cây sồi nọ, lấy dùi gõ vào nó ba lần mà hô: thuyền ơi, ra đi! thuyền ơi, ra đi! thuyền ơi, ra đi!)"
+    },
+    {
+     "t": "para",
+     "text": "Как выйдет к тебе корабль, в то самое время отдай дубу трижды приказ, чтобы он затворился; да смотри не забудь! Если этого не сделаешь, причинишь мне обиду великую». (Khi thuyền đã ra với mày, ngay lúc ấy phải truyền lệnh cho cây sồi ba lần để nó đóng lại; liệu hồn chớ quên! Nếu không làm vậy, mày sẽ gây cho ta nỗi phật lòng lớn lắm».)"
+    },
+    {
+     "t": "para",
+     "text": "Иван Быкович пришел к дубу, ударяет в него дубинкою бессчетное число раз и приказывает: «Все, что есть, выходи!» (Ivan Bykovich tới bên cây sồi, lấy dùi gõ vào không biết bao nhiêu lần mà truyền: «Có bao nhiêu thì ra hết!»)"
+    },
+    {
+     "t": "para",
+     "text": "Вышел первый корабль; Иван Быкович сел в него, крикнул: «Все за мной!» — и поехал в путь-дорогу. (Chiếc thuyền đầu tiên tiến ra; Ivan Bykovich xuống thuyền, hô lớn: «Tất cả theo ta!» — rồi giong thuyền lên đường.)"
+    },
+    {
+     "t": "para",
+     "text": "Отъехав немного, оглянулся назад — и видит: сила несметная кораблей и лодок! Все его хвалят, все благодарят. (Đi được một quãng, chàng ngoái nhìn lại — thấy: thuyền lớn thuyền con đông nghịt không kể xiết! Ai nấy đều khen ngợi chàng, đều cảm tạ chàng.)"
+    },
+    {
+     "t": "para",
+     "text": "Подъезжает к нему старичок в лодке: «Батюшка Иван Быкович, много лет тебе здравствовать! Прими меня в товарищи». — «А ты что умеешь?» — «Умею, батюшка, хлеб есть». Иван Быкович сказал: «Фу, про́пасть! Я и сам на это горазд; однако садись на корабль, я добрым товарищам рад». (Một ông lão chèo thuyền con cập tới: «Thưa cậu Ivan Bykovich, chúc cậu sống lâu trăm tuổi! Xin nhận lão làm bạn đồng hành». — «Thế lão biết làm gì?» — «Thưa cậu, lão biết ăn bánh mì». Ivan Bykovich nói: «Hừ, chết nỗi! Khoản ấy thì ta cũng thạo chán; nhưng thôi cứ lên thuyền, ta quý bạn hiền».)"
+    },
+    {
+     "t": "para",
+     "text": "Подъезжает в лодке другой старичок: «Здравствуй, Иван Быкович! Возьми меня с собой». — «А ты что умеешь?» — «Умею, батюшка, вино-пиво пить». — «Нехитрая наука! Ну да полезай на корабль». (Một ông lão khác chèo thuyền cập tới: «Chào Ivan Bykovich! Cho lão theo cùng». — «Thế lão biết làm gì?» — «Thưa cậu, lão biết uống rượu uống bia». — «Tài ấy chẳng có gì cao siêu! Mà thôi, cứ trèo lên thuyền».)"
+    },
+    {
+     "t": "para",
+     "text": "Подъезжает третий старичок: «Здравствуй, Иван Быкович! Возьми и меня». — «Говори: что умеешь?» — «Я, батюшка, умею в бане париться». — «Фу, лихая те побери! Эки, подумаешь, мудрецы!» (Ông lão thứ ba cập thuyền tới: «Chào Ivan Bykovich! Cho cả lão theo nữa». — «Nói xem: lão biết làm gì?» — «Thưa cậu, lão biết tắm hơi trong nhà tắm bania». — «Hừ, quỷ tha ma bắt! Gớm chưa, toàn những bậc kỳ tài!»)"
+    },
+    {
+     "t": "para",
+     "text": "Взял на корабль и этого; а тут еще лодка подъехала; говорит четвертый старичок: «Много лет здравствовать, Иван Быкович! Прими меня в товарищи». — «Да ты кто такой?» — «Я, батюшка, звездочет». — «Ну, уж на это я не горазд; будь моим товарищем». (Chàng nhận cả lão này lên thuyền; lại một chiếc thuyền con nữa cập tới; ông lão thứ tư cất tiếng: «Chúc cậu sống lâu trăm tuổi, Ivan Bykovich! Xin nhận lão làm bạn đồng hành». — «Thế lão là ai?» — «Thưa cậu, lão là người xem sao». — «Ồ, khoản ấy thì ta chịu hẳn; làm bạn với ta nhé».)"
+    },
+    {
+     "t": "para",
+     "text": "Принял четвертого, просится пятый старичок. «Прах вас возьми! Куды мне с вами деваться? Сказывай скорей: что умеешь?» — «Я, батюшка, умею ершом плавать». — «Ну, милости просим!» (Nhận lão thứ tư rồi, ông lão thứ năm lại nài xin. «Tro bụi bắt các lão đi! Ta biết xoay xở với các lão thế nào đây? Mau nói xem: lão biết làm gì?» — «Thưa cậu, lão biết bơi như cá pecca gai». — «Vậy thì xin mời!»)"
+    },
+    {
+     "t": "para",
+     "text": "Вот поехали они за царицей золотые кудри. Приезжают в невиданное царство, небывалое государство; а там уже давно сведали, что Иван Быкович будет, и целые три месяца хлеб пекли, вино курили, пиво варили. (Thế là họ lên đường đi đoạt nàng nữ hoàng Tóc Quăn Vàng. Họ tới vương quốc chưa ai từng thấy, xứ sở chưa từng có; ở đó người ta đã hay tin từ lâu rằng Ivan Bykovich sẽ đến, nên ròng rã ba tháng trời nướng bánh, cất rượu, ủ bia.)"
+    },
+    {
+     "t": "para",
+     "text": "Увидал Иван Быкович несчетное число возов хлеба да столько же бочек вина и пива; удивляется и спрашивает: «Что б это значило?» — «Это все для тебя наготовлено». — «Фу, про́пасть! Да мне столько в целый год не съесть, не выпить». (Ivan Bykovich trông thấy bánh mì chất hàng xe nhiều không đếm xuể, thùng rượu thùng bia cũng nhiều ngần ấy; chàng lấy làm lạ mà hỏi: «Thế này là nghĩa làm sao?» — «Toàn bộ là dọn sẵn cho cậu cả đấy». — «Hừ, chết nỗi! Ngần này thì cả năm ta cũng chẳng ăn hết, uống hết».)"
+    },
+    {
+     "t": "para",
+     "text": "Тут вспомнил Иван Быкович про своих товарищей и стал вызывать: «Эй вы, старички-молодцы! Кто из вас пить-есть разумеет?» Отзываются Объедайло да Опивайло: «Мы, батюшка! Наше дело ребячье». — «А ну, принимайтесь за работу!» (Lúc ấy Ivan Bykovich mới nhớ tới các bạn đồng hành, bèn cất tiếng gọi: «Ơi các ông lão tài ba! Trong các lão ai sành chuyện ăn uống nào?» Lão Ăn Khoẻ Obyedailo và lão Uống Khoẻ Opivailo lên tiếng: «Chúng tôi đây, thưa cậu! Việc ấy với chúng tôi dễ như trò trẻ». — «Nào, bắt tay vào việc thôi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Подбежал один старик, начал хлеб поедать: разом в рот кидает не то что караваями, а целыми возами. Все приел и ну кричать: «Мало хлеба; давайте еще!» (Một ông lão chạy lại, bắt đầu chén bánh mì: ném vào miệng một lượt chẳng phải từng ổ mà nguyên từng xe. Chén sạch nhẵn rồi còn la lớn: «Ít bánh quá; dọn thêm ra đây!»)"
+    },
+    {
+     "t": "para",
+     "text": "Подбежал другой старик, начал пиво-вино пить, всё выпил и бочки проглотил: «Мало! — кричит. — Подавайте еще!» (Ông lão kia chạy lại, bắt đầu tu bia tu rượu, uống cạn tất rồi nuốt luôn cả thùng: «Ít quá! — lão la. — Dọn thêm ra đây!»)"
+    },
+    {
+     "t": "para",
+     "text": "Засуетилась прислуга, бросилась к царице с докладом, что ни хлеба, ни вина недостало. (Đám gia nhân nhốn nháo cả lên, vội chạy tới tâu nữ hoàng rằng bánh chẳng còn mà rượu cũng cạn.)"
+    },
+    {
+     "t": "para",
+     "text": "А царица золотые кудри приказала вести Ивана Быковича в баню париться. Та баня топилась три месяца и так накалена была, что за пять верст нельзя было подойти к ней. (Còn nữ hoàng Tóc Quăn Vàng truyền dẫn Ivan Bykovich vào nhà tắm bania tắm hơi. Nhà tắm ấy đã đốt lò ròng rã ba tháng, nung nóng tới mức cách năm dặm cũng chẳng ai dám lại gần.)"
+    },
+    {
+     "t": "para",
+     "text": "Стали звать Ивана Быковича в баню париться; он увидал, что от бани огнем пышет, и говорит: «Что вы, с ума сошли? Да я сгорю там!» (Người ta gọi Ivan Bykovich vào nhà tắm tắm hơi; chàng thấy nhà tắm hừng hực phả lửa, bèn nói: «Các người điên cả rồi sao? Ta vào đó thì cháy rụi mất!»)"
+    },
+    {
+     "t": "para",
+     "text": "Тут ему опять вспомнилось: «Ведь со мной товарищи есть! Эй вы, старички-молодцы! Кто из вас умеет в бане париться?» Подбежал старик: «Я, батюшка! Мое дело ребячье». (Lúc ấy chàng lại sực nhớ: «Mình còn có các bạn đồng hành kia mà! Ơi các ông lão tài ba! Trong các lão ai biết tắm hơi nào?» Một ông lão chạy lại: «Lão đây, thưa cậu! Việc ấy với lão dễ như trò trẻ».)"
+    },
+    {
+     "t": "para",
+     "text": "Живо вскочил в баню, в угол дунул, в другой плюнул — вся баня остыла, а в углах снег лежит. (Lão nhảy phắt vào nhà tắm, thổi vào góc này, nhổ vào góc kia — cả nhà tắm nguội ngắt, các góc còn đọng cả tuyết.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ох, батюшки, замерз, топите еще три года!» — кричит старик что есть мочи. («Ối các cha ơi, lão rét cóng rồi, đốt lò thêm ba năm nữa đi!» — ông lão gân cổ la hết sức.)"
+    },
+    {
+     "t": "para",
+     "text": "Бросилась прислуга с докладом, что баня совсем замерзла; а Иван Быкович стал требовать, чтоб ему царицу золотые кудри выдали. (Đám gia nhân vội chạy đi tâu rằng nhà tắm đã đóng băng cứng cả; còn Ivan Bykovich thì một mực đòi giao nàng nữ hoàng Tóc Quăn Vàng cho chàng.)"
+    },
+    {
+     "t": "para",
+     "text": "Царица сама к нему вышла, подала свою белую руку, села на корабль и поехала. (Nữ hoàng đích thân bước ra với chàng, chìa bàn tay trắng ngần, xuống thuyền cùng đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот плывут они день и другой; вдруг ей сделалось грустно, тяжко — ударила себя в грудь, оборотилась звездой и улетела на́ небо. (Thuyền đi một ngày, lại một ngày nữa; bỗng nàng thấy buồn bã, nặng trĩu trong dạ — nàng đấm vào ngực mình, hoá thành ngôi sao bay vút lên trời.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ну, — говорит Иван Быкович, — совсем пропала!» Потом вспомнил: «Ах, ведь у меня есть товарищи. Эй, старички-молодцы! Кто из вас звездочет?» («Thôi rồi, — Ivan Bykovich nói, — mất nàng hẳn rồi!» Rồi chàng sực nhớ: «À, mình còn có các bạn đồng hành. Ơi các ông lão tài ba! Trong các lão ai là người xem sao?»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Я, батюшка! Мое дело ребячье», — отвечал старик, ударился оземь, сделался сам звездою, полетел на́ небо и стал считать звезды; одну нашел лишнюю и ну толкать ее! (— «Lão đây, thưa cậu! Việc ấy với lão dễ như trò trẻ», — ông lão đáp, đập mình xuống đất, tự hoá thành ngôi sao, bay lên trời mà đếm sao; tìm ra một ngôi thừa, lão bèn ra sức xô nó!)"
+    },
+    {
+     "t": "para",
+     "text": "Сорвалась звездочка с своего места, быстро покатилась по небу, упала на корабль и обернулась царицею золотые кудри. (Ngôi sao nhỏ bật khỏi chỗ, lăn vèo qua bầu trời, rơi xuống thuyền và hoá lại thành nữ hoàng Tóc Quăn Vàng.)"
+    },
+    {
+     "t": "para",
+     "text": "Опять едут день, едут другой; нашла на царицу грусть-тоска, ударила себя в грудь, оборотилась щукою и поплыла в море. (Lại đi một ngày, rồi một ngày nữa; nỗi sầu muộn ập xuống nữ hoàng, nàng đấm vào ngực mình, hoá thành con cá măng lao xuống biển bơi đi.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ну, теперь пропала!» — думает Иван Быкович, да вспомнил про последнего старичка и стал его спрашивать: «Ты, что ль, горазд ершом плавать?» («Thôi, phen này thì mất thật!» — Ivan Bykovich nghĩ, nhưng chàng nhớ ra ông lão cuối cùng, bèn hỏi: «Lão đấy phải không, người thạo bơi như cá pecca gai?»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Я, батюшка, мое дело ребячье!» — ударился оземь, оборотился ершом, поплыл в море за щукою и давай ее под бока колоть. (— «Lão đây, thưa cậu, việc ấy với lão dễ như trò trẻ!» — lão đập mình xuống đất, hoá thành cá pecca gai, bơi xuống biển đuổi theo cá măng, cứ thế lấy gai chọc lia lịa vào sườn nó.)"
+    },
+    {
+     "t": "para",
+     "text": "Щука выскочила на корабль и опять сделалась царицею золотые кудри. (Cá măng nhảy vọt lên thuyền, hoá lại thành nữ hoàng Tóc Quăn Vàng.)"
+    },
+    {
+     "t": "para",
+     "text": "Тут старички с Иваном Быковичем распростились, по своим домам пустились; а он поехал к чудо-юдову отцу. (Đến đây các ông lão từ biệt Ivan Bykovich, ai về nhà nấy; còn chàng đi tới chỗ lão bố quái Chudo-Yudo.)"
+    },
+    {
+     "t": "para",
+     "text": "Приехал к нему с царицею золотые кудри; тот позвал двенадцать могучих богатырей, велел принести вилы железные и поднять ему брови и ресницы черные. (Chàng đưa nữ hoàng Tóc Quăn Vàng tới trước mặt lão; lão gọi mười hai tráng sĩ lực lưỡng, sai đem chĩa sắt tới nâng cặp mày và hàng mi đen của lão lên.)"
+    },
+    {
+     "t": "para",
+     "text": "Глянул на царицу и говорит: «Ай да Ванюша! Молодец! Теперь я тебя прощу, на белый свет отпущу». — «Нет, погоди, — отвечает Иван Быкович, — не подумавши сказал!» — «А что?» (Lão nhìn nữ hoàng rồi nói: «Chà, Vanyusha! Khá lắm! Giờ ta tha cho mày, thả mày về cõi đời rộng sáng». — «Khoan, hượm đã, — Ivan Bykovich đáp, — lão nói mà chưa kịp nghĩ rồi!» — «Sao thế?»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Да у меня приготовлена яма глубокая, через яму лежит жердочка; кто по жердочке пройдет, тот за себя и царицу возьмет». — «Ладно, Ванюша! Ступай ты наперед». (— «Là vì tôi đã đào sẵn một cái hố sâu, bắc qua hố một thanh đòn mảnh; ai đi qua được thanh đòn ấy, kẻ đó được lấy nữ hoàng». — «Được thôi, Vanyusha! Mày đi trước đi».)"
+    },
+    {
+     "t": "para",
+     "text": "Иван Быкович пошел по жердочке, а царица золотые кудри про себя говорит: «Легче пуху лебединого пройди!» (Ivan Bykovich bước lên thanh đòn, còn nữ hoàng Tóc Quăn Vàng thầm khấn: «Chàng hãy bước qua nhẹ hơn cả lông tơ thiên nga!»)"
+    },
+    {
+     "t": "para",
+     "text": "Иван Быкович прошел — и жердочка не погнулась; а старый старик пошел — только на середину ступил, так и полетел в яму. (Ivan Bykovich đi qua — thanh đòn chẳng hề cong; còn lão già vừa bước tới giữa chừng đã lộn nhào xuống hố.)"
+    },
+    {
+     "t": "para",
+     "text": "Иван Быкович взял царицу золотые кудри и воротился домой; скоро они обвенчались и задали пир на весь мир. (Ivan Bykovich đón nàng nữ hoàng Tóc Quăn Vàng trở về nhà; chẳng bao lâu hai người làm lễ cưới, mở tiệc đãi khắp thiên hạ.)"
+    },
+    {
+     "t": "para",
+     "text": "Иван Быкович сидит за столом да своим братьям похваляется: «Хоть долго я воевал, да молодую жену достал! А вы, братцы, садитесь-ка на печи да гложите кирпичи!» (Ivan Bykovich ngồi bên bàn tiệc khoe với hai anh: «Tôi chinh chiến tuy lâu, mà rước được vợ trẻ về! Còn các anh ơi, thôi thì lên ngồi trên bếp lò mà gặm gạch nhé!»)"
+    },
+    {
+     "t": "para",
+     "text": "На том пиру и я был, мед-вино пил, по усам текло, да в рот не попало; тут меня угощали: отняли лоханку от быка да налили молока; потом дали калача, в ту ж лоханку помоча́. (Tiệc ấy tôi cũng có dự, uống rượu mật ong, rượu chảy ướt ria mà chẳng lọt vào miệng giọt nào; ở đó người ta thết tôi thế này: giật chiếc máng của con bò mộng mà rót sữa vào; rồi cho chiếc bánh kalach, đem chấm vào đúng chiếc máng ấy.)"
+    },
+    {
+     "t": "para",
+     "text": "Я не пил, не ел, вздумал утираться, со мной стали драться; я надел колпак, стали в шею толкать! (Tôi chẳng uống, chẳng ăn, vừa định lau miệng thì người ta xông vào gây sự đánh nhau; tôi vừa đội chiếc mũ chóp lên, người ta đã túm gáy xô tôi ra ngoài!)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "червонец",
+     "vi": "đồng tiền vàng (tiền xưa của Nga)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "тоня",
+     "vi": "mẻ lưới — một lần buông kéo lưới",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "забрюхатеть",
+     "vi": "(dân dã) có mang, có chửa",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "помои",
+     "vi": "nước rửa nồi đĩa, nước vo thừa",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "приполонить",
+     "vi": "(cổ) bắt sạch làm tù binh",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "шаром покатить",
+     "vi": "(thành ngữ) càn quét sạch trơn, vét sạch sành sanh",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "роздых",
+     "vi": "(dân dã) lúc nghỉ lấy hơi giữa trận",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "глазища",
+     "vi": "(tăng nghĩa) đôi mắt to thao láo",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ужли",
+     "vi": "(dân dã) chẳng lẽ, lẽ nào",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "замиренье",
+     "vi": "(cổ) sự giảng hoà",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "мокре́нько",
+     "vi": "(dân dã, giảm nhẹ) chỉ còn vệt ướt (lời doạ đập bẹp kẻ địch)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "пустехонький",
+     "vi": "trống trơn trống huếch",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "жердочка",
+     "vi": "thanh đòn mảnh, thanh sào nhỏ (bắc qua hố làm phép thử)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "лоханка",
+     "vi": "máng gỗ, chậu gỗ (đựng nước, đựng cám cho súc vật)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "колпак",
+     "vi": "mũ chóp mềm kiểu xưa",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

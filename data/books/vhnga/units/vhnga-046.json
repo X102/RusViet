@@ -1,0 +1,196 @@
+{
+ "id": "vhnga-046",
+ "num": 46,
+ "title": "«Свинья под Дубом» — Lợn dưới gốc Sồi (Krylov)",
+ "vi": "«Свинья под Дубом» — Lợn dưới gốc Sồi (Krylov)",
+ "ru": "Свинья под Дубом",
+ "icon": "🐷",
+ "color": "#4d7c0f",
+ "sectionPrefix": "vhnga-046-s",
+ "sections": [
+  {
+   "id": "vhnga-046-s001",
+   "type": "story",
+   "num": 1,
+   "title": "«Свинья под Дубом» — “Lợn dưới gốc Sồi” (I. Krylov, ~1823)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Ngụ ngôn «Свинья́ под Ду́бом» (Lợn dưới gốc Sồi) của Ivan Krylov (Ива́н Андре́евич Крыло́в, 1769–1844), viết khoảng 1823, in lần đầu trên báo «Северная пчела» 1825 (ПСС 1945–46 т.3: Sách Bảy, bài VII, tr.156–157) — bài ngụ ngôn nhà trường kinh điển về thói vô ơn và sự dốt nát. Cốt truyện: ả Lợn chén no căng hạt sồi dưới gốc Sồi cổ thụ, đánh một giấc, rồi dậy lấy mõm ủi bới rễ cây; Quạ trên cành nhắc «rễ mà trơ ra, cây có thể chết khô», Lợn đáp tỉnh queo: mặc nó khô, ta thấy nó chẳng mấy tích sự — miễn còn hạt sồi cho ta béo; cây Sồi đành tự cất lời: «Đồ vô ơn! Giá ngươi ngẩng nổi mõm lên, ngươi sẽ thấy hạt sồi mọc trên chính thân ta». Đạo lý (4 dòng kết, tách khổ riêng): kẻ dốt nát trong cơn mù quáng cũng mắng nhiếc khoa học, sự học và mọi công trình học thuật như thế, mà chẳng hay mình đang nếm chính quả ngọt của chúng — «вкуша́ть плоды́» từ đây thành thành ngữ quen dùng. Môtip có gốc xa từ Aesop («Khách bộ hành và cây tiêu huyền») và Lessing («Cây Sồi và Lợn»), nhưng Krylov dựng thành màn kịch ba nhân vật sống động. Thể vần: iamb tự do (во́льный ямб) đặc trưng Krylov; 21 dòng = 17 dòng truyện + 4 dòng đạo lý. Điểm ngôn ngữ: ПСС in chính tả cổ «жо́лудей до-сы́та, до-отва́ла» — bản hiện đại hoá thành «желуде́й досы́та, до отва́ла»; trọng âm досы́та theo nhịp iamb (từ điển nay cho cả до́сыта); деепричастие cổ đuôi -вши «глаза́ продра́вши» (= продра́в); коль = е́сли (cổ); «Хоть век его́ не будь» — век ở đây = mãi mãi, đời đời; «Лишь бы́ли б» (б = бы) — chỉ cần, miễn sao; tên con vật viết hoa như nhân vật ngụ ngôn (Свинья́, Дуб, Во́рон). Dấu câu lời thoại theo bản phổ thông hiện đại (gạch ngang — nhất quán các bài 002/025/034/042); bản hàn lâm ПСС in kiểu cũ («Ведь это дереву вредит», / Ей с Дубу Ворон говорит:). Dòng đạo lý thứ hai chốt theo ПСС + kartaslov: «Брани́т нау́ки и уче́нье,» — нау́ки SỐ NHIỀU, có phẩy cuối dòng (rustih in «науку» số ít, KHÔNG theo); «так же» viết RỜI theo ПСС (kartaslov in «также» — không theo); chuẩn hoá ё theo quy ước sách: жёлуди, учёные, нём (ПСС in е). Các từ ры́ло, неве́жда, прок, трево́жить đã có trong từ điển sách từ các bài trước (020/042). Nguyên văn đối chiếu CHÉO 3 nguồn: rustih.com (UTF-8, toàn văn) + rvb.ru/18vek/krylov/01text/vol3/01fables/180.htm (ПСС 1945–46 — cp1251 mojibake, giải mã khớp ĐỘ DÀI TỪNG TỪ & dấu câu toàn bài, xác nhận 21 dòng, ngắt khổ trước đạo lý) + kartaslov.ru (UTF-8, theo ấn bản hàn lâm: нау́ки số nhiều, жёлуди/учёные có ё)."
+    },
+    {
+     "t": "para",
+     "text": "Свинья́ под Ду́бом вековы́м (Ả Lợn dưới gốc Sồi cổ thụ)"
+    },
+    {
+     "t": "para",
+     "text": "Нае́лась желуде́й досы́та, до отва́ла; (Chén hạt sồi no nê, đẫy đến tận cổ;)"
+    },
+    {
+     "t": "para",
+     "text": "Нае́вшись, вы́спалась под ним; (Ăn no xong, đánh một giấc đẫy dưới gốc cây;)"
+    },
+    {
+     "t": "para",
+     "text": "Пото́м, глаза́ продра́вши, вста́ла (Rồi dụi mắt tỉnh dậy,)"
+    },
+    {
+     "t": "para",
+     "text": "И ры́лом подрыва́ть у Ду́ба ко́рни ста́ла. (Và lấy mõm ủi bới rễ Sồi.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ведь э́то де́реву вреди́т, — («Làm thế là hại cây đấy, —)"
+    },
+    {
+     "t": "para",
+     "text": "Ей с Ду́бу Во́рон говори́т, — (Quạ từ trên cây Sồi bảo ả, —)"
+    },
+    {
+     "t": "para",
+     "text": "Коль ко́рни обнажи́шь, оно́ засо́хнуть мо́жет». (Rễ mà trơ ra, cây có thể chết khô».)"
+    },
+    {
+     "t": "para",
+     "text": "«Пусть со́хнет, — говори́т Свинья́, — («Mặc cho nó khô, — Lợn đáp, —)"
+    },
+    {
+     "t": "para",
+     "text": "Ничу́ть меня́ то не трево́жит, (Chuyện ấy chẳng làm ta bận lòng mảy may,)"
+    },
+    {
+     "t": "para",
+     "text": "В нём про́ку ма́ло ви́жу я; (Ta thấy nó chẳng được mấy tích sự;)"
+    },
+    {
+     "t": "para",
+     "text": "Хоть век его́ не будь, ничу́ть не пожале́ю; (Nó có vĩnh viễn biến đi, ta cũng chẳng chút tiếc thương;)"
+    },
+    {
+     "t": "para",
+     "text": "Лишь бы́ли б жёлуди: ведь я от них жире́ю». (Miễn sao còn hạt sồi: nhờ chúng ta mới béo ra».)"
+    },
+    {
+     "t": "para",
+     "text": "«Неблагода́рная! — примо́лвил Дуб ей тут, — («Đồ vô ơn! — cây Sồi liền cất lời, —)"
+    },
+    {
+     "t": "para",
+     "text": "Когда́ бы вверх могла́ подня́ть ты ры́ло, (Giá ngươi ngẩng nổi mõm lên cao,)"
+    },
+    {
+     "t": "para",
+     "text": "Тебе́ бы ви́дно бы́ло, (Hẳn ngươi đã thấy rõ,)"
+    },
+    {
+     "t": "para",
+     "text": "Что э́ти жёлуди на мне расту́т». (Rằng những hạt sồi kia mọc trên chính thân ta».)"
+    },
+    {
+     "t": "para",
+     "text": "Неве́жда так же в ослепле́нье (Kẻ dốt nát trong cơn mù quáng cũng vậy,)"
+    },
+    {
+     "t": "para",
+     "text": "Брани́т нау́ки и уче́нье, (Mắng nhiếc khoa học cùng sự học,)"
+    },
+    {
+     "t": "para",
+     "text": "И все учёные труды́, (Cùng hết thảy công trình học thuật,)"
+    },
+    {
+     "t": "para",
+     "text": "Не чу́вствуя, что он вкуша́ет их плоды́. (Mà chẳng hay mình đang nếm quả ngọt từ đó.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó"
+    },
+    {
+     "t": "vocab",
+     "ru": "вековой",
+     "vi": "trăm năm tuổi, cổ thụ (дуб вековы́й — sồi cổ thụ; từ век — thế kỷ, đời)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "жёлудь",
+     "vi": "quả sồi (số nhiều жёлуди; sở hữu cách số nhiều желуде́й — trọng âm dồn đuôi)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "досы́та",
+     "vi": "đến no, no nê (нае́сться досы́та — ăn đến no; từ điển nay cho cả до́сыта)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "до отва́ла",
+     "vi": "(khẩu ngữ) no căng đến tận cổ, đẫy tễ (нае́сться до отва́ла)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "продра́ть",
+     "vi": "(khẩu ngữ) продра́ть глаза́ — mở choàng mắt, dụi mắt tỉnh dậy (ở bài: деепричастие cổ продра́вши)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "подрыва́ть",
+     "vi": "đào bới, ủi bật (gốc rễ); nghĩa bóng: phá ngầm, làm xói mòn (подрыва́ть дове́рие — xói mòn lòng tin)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "обнажи́ть",
+     "vi": "làm trơ ra, phơi trần, để lộ (обнажи́ть ко́рни — làm trơ rễ; обнажи́ть меч — tuốt gươm)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "засо́хнуть",
+     "vi": "chết khô, khô héo (cây cối); со́хнуть — khô dần (Пусть со́хнет! — Mặc nó khô!)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "жире́ть",
+     "vi": "béo ra, phát phì (я от них жире́ю — nhờ chúng tôi béo ra; жир — mỡ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "примо́лвить",
+     "vi": "(cũ) nói thêm vào, cất lời (примо́лвил Дуб ей тут — Sồi liền cất lời với ả)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "неблагода́рный",
+     "vi": "vô ơn, bạc nghĩa (Неблагода́рная! — Đồ vô ơn!; благодари́ть — cảm ơn)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ослепле́ние",
+     "vi": "sự mù quáng; sự loá mắt (в ослепле́нье — dạng cổ -нье; осле́пнуть — mù loà)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "брани́ть",
+     "vi": "mắng nhiếc, xỉ vả, chê bai (брани́т нау́ки и уче́нье — mắng nhiếc khoa học và sự học)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "вкуша́ть",
+     "vi": "(trang trọng/cũ) nếm, hưởng (вкуша́ть плоды́ — hưởng thành quả; thành ngữ bắt nguồn từ bài này)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

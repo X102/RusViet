@@ -1,0 +1,263 @@
+{
+ "id": "skazki1-058",
+ "num": 58,
+ "title": "Кобиляча голова — Đầu ngựa cái",
+ "vi": "Кобиляча голова — Đầu ngựa cái",
+ "ru": "Кобиляча голова",
+ "icon": "🐴",
+ "color": "#854d0e",
+ "sectionPrefix": "skazki1-058-s",
+ "group": "Truyện № 61–100",
+ "sections": [
+  {
+   "id": "skazki1-058-s001",
+   "type": "story",
+   "num": 99,
+   "title": "№ 99 · Кобиляча голова — Đầu ngựa cái",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Bản tiếng Ukraina Afanasyev chép ở vùng Tiểu Nga, cùng kiểu ATU 480 «con riêng hiền, con cưng dữ» với cụm «Морозко» (№95–96): kẻ thử lòng và ban thưởng ở đây là «cái đầu ngựa cái» — hình tượng huyền bí kỳ dị riêng của cổ tích Ukraina; phép lạ «chui vào tai phải, chui ra tai trái» biến cô gái hiền thành người đẹp."
+    },
+    {
+     "t": "para",
+     "text": "Як був дід да баба, да у їх було дві дочки́: одна дідова, а друга бабина. (Ngày xưa có hai ông bà già, có hai cô con gái: một đứa con ông, một đứa con bà.)"
+    },
+    {
+     "t": "para",
+     "text": "У діда була дочка́ така, що всегда рано уставала да усе робила, а бабиній як би нічо́го не робить! (Con gái ông nết na, ngày nào cũng dậy sớm làm lụng đủ việc; còn con gái bà thì chỉ chực sao chẳng phải mó tay vào việc gì!)"
+    },
+    {
+     "t": "para",
+     "text": "Ото раз баба послала їх на попряхи: «Ідіть же, — гово́рить, — да щоб мені багато напряли». (Một bận, bà lão sai hai đứa đi dự buổi kéo sợi đêm: «Đi đi, — mụ bảo, — mà phải kéo cho ta thật nhiều sợi đấy».)"
+    },
+    {
+     "t": "para",
+     "text": "Дідова дочка до світа встала да усе пряла, а бабина з вечора тільки як попряла трошки, да й не пряла більше. (Con ông thức dậy từ trước rạng sáng kéo sợi miệt mài, còn con bà chập tối chỉ kéo qua quýt một tí rồi bỏ đấy, chẳng kéo nữa.)"
+    },
+    {
+     "t": "para",
+     "text": "Уранці, як світ став, пішли вони додому; треба їм було в однім місці через перелаз лізти. (Sáng ra, trời vừa rạng, hai đứa đi về nhà; dọc đường có một chỗ phải trèo qua bậc rào.)"
+    },
+    {
+     "t": "para",
+     "text": "Бабина дочка́ уперед перелізла і гово́рить: «Дай мені, сестрице, твої починки; я подержу, покіль ти перелізеш». (Con bà trèo qua trước rồi bảo: «Chị ơi, đưa em mấy ống sợi của chị; em cầm hộ trong lúc chị trèo qua».)"
+    },
+    {
+     "t": "para",
+     "text": "Та їй оддала; так вона, їх забравши, побігла додому да й каже: «Дивись, мамо, скільки я напряла, а сестра як легла з вечора, дак і не уставала до світа!» (Cô kia đưa thật; thế là nó ôm cả chỗ sợi ba chân bốn cẳng chạy về nhà, khoe: «Mẹ xem này, con kéo được bao nhiêu là sợi, còn chị ấy chập tối đặt lưng là ngủ, đến sáng cũng chẳng buồn dậy!»)"
+    },
+    {
+     "t": "para",
+     "text": "А та, прийшовши, скількі не божилась, що то її починки, дак куда — баба і слухать не хотіла, од того що вона її і попере́ду не любила, да і нав’язалась на діда: «Де хочеш, там і дінь свою дочку́, тільки щоб вона у мене дурно хліба не їла!» (Còn cô chị về đến nơi, thề sống thề chết rằng đó là sợi của mình mà chẳng ăn thua — bà lão không thèm nghe, vì xưa nay vốn đã ghét cô, lại còn nằng nặc bắt ông lão: «Ông muốn đem con gái ông đi đâu thì đem, miễn sao nó đừng ăn không cơm nhà tôi!»)"
+    },
+    {
+     "t": "para",
+     "text": "От дід запріг кобилу да посадив дочку́ на віз, і сам сів, да і поїхали. (Thế là ông lão thắng con ngựa cái vào xe, đặt con gái lên, mình cũng ngồi lên, rồi lên đường.)"
+    },
+    {
+     "t": "para",
+     "text": "Їдуть лісом, аж там стоїть хатка на курячій ніжці. (Hai cha con đi qua rừng, chợt thấy một túp lều con đứng trên chiếc chân gà.)"
+    },
+    {
+     "t": "para",
+     "text": "Дід узяв дочку́ да й повів у хату, а хата була одчи́нена, да й каже: «Оставайся ж, доню, тут, а я піду, дровець нарубаю, щоб було чим кашу зварить». (Ông dắt con gái vào lều — lều vốn để ngỏ — rồi bảo: «Con ở lại đây nhé, con gái, cha đi đốn ít củi về còn có cái mà nấu cháo».)"
+    },
+    {
+     "t": "para",
+     "text": "Да сам пішов з хати да й поїхав, тільки прив’язав до оконниці колодочку. (Nói rồi ông ra khỏi lều đánh xe đi thẳng, chỉ buộc một khúc gỗ con lên cánh cửa sổ.)"
+    },
+    {
+     "t": "para",
+     "text": "Колодочка стукне, а дочка́ і каже: «Се мій батенька дровця рубає!» (Khúc gỗ gõ lạch cạch, cô gái lại nhủ: «Đấy là cha ta đang đốn củi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Коли стукотить, гуркотить кобиляча голова: «Хто в моїй хаті, одчини!» (Bỗng đâu lạch cạch, rầm rầm — cái đầu ngựa cái xồng xộc kéo đến: «Ai trong nhà ta, mở cửa mau!»)"
+    },
+    {
+     "t": "para",
+     "text": "Дівчина встала і одчинила. (Cô gái đứng dậy mở cửa.)"
+    },
+    {
+     "t": "para",
+     "text": "«Дівчино, дівчино! Пересади через поріг». Вона пересадила. («Cô gái ơi, cô gái! Nhấc ta qua ngưỡng cửa». Cô bèn nhấc qua.)"
+    },
+    {
+     "t": "para",
+     "text": "«Дівчино, дівчино! Постели мені постіль». Вона постелила. («Cô gái ơi, cô gái! Trải giường cho ta». Cô trải giường.)"
+    },
+    {
+     "t": "para",
+     "text": "«Дівчино, дівчино! Положи мене на піл». Вона положила. («Cô gái ơi, cô gái! Đặt ta lên sạp ván». Cô đặt lên.)"
+    },
+    {
+     "t": "para",
+     "text": "«Дівчино, дівчино! Укрий мене». Вона і укрила. («Cô gái ơi, cô gái! Đắp cho ta». Cô liền đắp.)"
+    },
+    {
+     "t": "para",
+     "text": "«Дівчино, дівчино! Улізь же мені у праве ухо, а у ліве вилізь». («Cô gái ơi, cô gái! Giờ hãy chui vào tai phải ta, rồi chui ra ở tai trái».)"
+    },
+    {
+     "t": "para",
+     "text": "Вона як вилізла із ушей, дак стала така хоро́ша, що кра́щої немає. (Cô vừa chui ra khỏi tai thì hoá xinh đẹp tuyệt trần, chẳng ai sánh nổi.)"
+    },
+    {
+     "t": "para",
+     "text": "Зараз стали і лакеї, і коні, і коляска; вона сіла у коляску да й поїхала до батька. (Tức thì hiện ra nào gia nhân, nào ngựa, nào cỗ xe; cô lên xe về nhà cha.)"
+    },
+    {
+     "t": "para",
+     "text": "Приходить у хату, а батько її не пізнав; а послі вона їм розказала, що з нею було. (Cô bước vào nhà, cha chẳng nhận ra; mãi sau cô mới kể hết đầu đuôi những chuyện đã qua.)"
+    },
+    {
+     "t": "para",
+     "text": "От баба уп’ять пристала до діда: «Вези і мою дочку́ туда, куда свою возив». (Thế là bà lão lại nằng nặc với ông: «Ông chở con gái tôi đến đúng cái chỗ ông đã chở con ông!»)"
+    },
+    {
+     "t": "para",
+     "text": "Дід і бабину туда ж одвіз і, посадивши у хаті, велів себе ждать, покіль він нарубає дров. (Ông lão chở con bà đến đúng nơi ấy, để nó ngồi trong lều, dặn cứ đợi trong lúc ông đốn củi.)"
+    },
+    {
+     "t": "para",
+     "text": "Тільки та пождала трошки, начала плакать, що сама осталась у лісі: аж оп’ять стукотить, гуркотить кобиляча голова: «Хто в моїй хаті, одчини!» (Nó ngồi đợi mới được một lát đã khóc lóc vì bị bỏ một mình giữa rừng; chợt lại lạch cạch, rầm rầm — cái đầu ngựa cái xồng xộc kéo đến: «Ai trong nhà ta, mở cửa mau!»)"
+    },
+    {
+     "t": "para",
+     "text": "«Не велика пані, і сама одчиниш», — каже дівчина. («Chẳng phải bà lớn gì đâu, tự mở lấy», — con bé đáp.)"
+    },
+    {
+     "t": "para",
+     "text": "«Дівчино, дівчино! Пересади мене через поріг». — «Не велика пані, і сама перелізеш». («Cô gái ơi, cô gái! Nhấc ta qua ngưỡng cửa». — «Chẳng phải bà lớn gì, tự trèo lấy».)"
+    },
+    {
+     "t": "para",
+     "text": "«Дівчино, дівчино! Постели мені постіль». — «Не велика пані, і сама постелиш». («Cô gái ơi, cô gái! Trải giường cho ta». — «Chẳng phải bà lớn gì, tự trải lấy».)"
+    },
+    {
+     "t": "para",
+     "text": "«Дівчино, дівчино! Положи мене на піл». — «Не велика пані, і сама ляжеш». («Cô gái ơi, cô gái! Đặt ta lên sạp ván». — «Chẳng phải bà lớn gì, tự leo lên mà nằm».)"
+    },
+    {
+     "t": "para",
+     "text": "«Дівчино, дівчино! Укрий мене». — «Не велика пані, і сама укриєшся». («Cô gái ơi, cô gái! Đắp cho ta». — «Chẳng phải bà lớn gì, tự đắp lấy».)"
+    },
+    {
+     "t": "para",
+     "text": "Тогді кобиляча голова схватилась и з’їла бабину дочку́, да кісточки в мішочку і повісила, а сама оп’ять ушла. (Bấy giờ cái đầu ngựa cái chồm lên nuốt chửng con gái bà lão, dồn mớ xương con vào chiếc túi nhỏ treo lên, rồi lại bỏ đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Собачка прибіжала до баби да начала брехать: «Гав, гав! Дідова дочка́ як панночка, а бабиної дочки́ у торбинці кісточки!» (Con chó con chạy về nhà sủa với bà lão: «Gâu, gâu! Con gái ông như cô tiểu thư, còn con gái bà — mớ xương trong túi vải!»)"
+    },
+    {
+     "t": "para",
+     "text": "Що прожене баба її, то вона оп’ять і прибіжить. (Bà lão đuổi nó đi, nó lại chạy về sủa y như cũ.)"
+    },
+    {
+     "t": "para",
+     "text": "Тільки баба і гово́рить дідові: «Поїдь да подивись, що там із моєю дочко́ю робиться». (Bà đành bảo ông lão: «Ông đi xem con gái tôi ở đấy ra sao rồi».)"
+    },
+    {
+     "t": "para",
+     "text": "От дід поїхав і привіз у торбинці кісточки, дак баба розсердилась да собачку і убила. (Ông lão đánh xe đi, chở về đúng một túi xương; bà lão nổi giận đập chết con chó con.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "попряхи",
+     "vi": "buổi kéo sợi chung đêm đông của các cô gái (tục cổ Slav)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "починки",
+     "vi": "ống sợi đã kéo xong, quấn trên suốt (укр.)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "перелаз",
+     "vi": "bậc trèo qua hàng rào giữa vườn/ngõ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "хатка на курячій ніжці",
+     "vi": "túp lều con trên chân gà (mô-típ lều Baba Yaga)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "колодочка",
+     "vi": "khúc gỗ con (treo gõ lạch cạch vào cửa sổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "оконниця",
+     "vi": "cánh/khung cửa sổ (укр.)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "доня",
+     "vi": "con gái yêu (укр., cách gọi âu yếm)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "одчинити",
+     "vi": "mở (cửa) (укр.; Nga: отворить)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "поріг",
+     "vi": "ngưỡng cửa (укр.; Nga: порог)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "піл",
+     "vi": "sạp ván để nằm trong nhà nông dân (укр.; Nga: полати)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "торбинка",
+     "vi": "túi vải con (укр.)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кісточки",
+     "vi": "mẩu xương nhỏ (укр.; Nga: косточки)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "панночка",
+     "vi": "cô tiểu thư, con gái nhà quan (укр.)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "дурно",
+     "vi": "không công, vô ích («дурно хліба не їла» — chẳng ăn không cơm) (укр.)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "оп’ять (уп’ять)",
+     "vi": "lại, lần nữa (phương ngữ Ukraina–Nam Nga; Nga: опять)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

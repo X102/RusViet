@@ -1,0 +1,559 @@
+{
+ "id": "skazki1-071",
+ "num": 71,
+ "title": "Иван-царевич и Марфа-царевна — Hoàng tử Ivan và công chúa Marfa",
+ "vi": "Иван-царевич и Марфа-царевна — Hoàng tử Ivan và công chúa Marfa",
+ "ru": "Иван-царевич и Марфа-царевна",
+ "icon": "🐉",
+ "color": "#134e4a",
+ "sectionPrefix": "skazki1-071-s",
+ "group": "Truyện № 101–140",
+ "sections": [
+  {
+   "id": "skazki1-071-s001",
+   "type": "story",
+   "num": 125,
+   "title": "№ 125 · Иван-царевич и Марфа-царевна — Hoàng tử Ivan và công chúa Marfa",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Truyện №125 — dị bản duy nhất của nhóm «Иван-царевич и Марфа-царевна», ghép ATU 502 (người tù thần kỳ «tay sắt, đầu gang, mình đồng» được hoàng tử bé cho uống nước, sau đền ơn bằng ba chén rượu truyền sức + khăn bàn thần) với ATU 300 «Dũng sĩ diệt mãng xà»: ba mãng xà 3–6–9 đầu của Thuỷ Vương đòi công chúa Marfa, gã quý tộc khoác lác cướp công, công chúa nhận mặt ân nhân nhờ vết sẹo tự tay rạch trên má. Ghi chú văn bản: chuẩn hoá 5 vết footnote của nguồn (bỏ khoảng trắng thừa trước dấu câu sau подстоек/стряпок/поддергайко/Будет/на лесу); giữ nguyên dạng dân dã-cổ của nguồn: «друго царство», «ваше царско величество», «взамуж», «письмо за шести/с девяти черными печатями», «у порогу», «Барин-от», «середней», trọng âm «жи́ло», «поднялся́»."
+    },
+    {
+     "t": "para",
+     "text": "У одного царя много лет содержался мужичок руки железны, голова чугунна, сам медный, хитрец был, важный человек. (Ngày xưa, có một ông vua giam giữ suốt bao năm một người đàn ông kỳ lạ: tay sắt, đầu gang, mình đồng — vốn là tay ranh ma, một nhân vật chẳng vừa.)"
+    },
+    {
+     "t": "para",
+     "text": "Сын царю Иван-царевич был маленький, ходил мимо тюрьмы. (Con trai vua là hoàng tử Ivan hồi ấy còn nhỏ, thường đi ngang qua nhà ngục.)"
+    },
+    {
+     "t": "para",
+     "text": "Этот старик подкликал его к себе и взмолился ему: «Дай, пожалуйста, Иван-царевич, напиться!» Иван-царевич еще ничего не знал — был маленький, почерпнул воды и подал ему: старика с этого в тюрьме не стало, ушел. (Lão già ấy vẫy cậu lại gần, van nài: «Hoàng tử Ivan ơi, làm ơn cho lão ngụm nước!» Hoàng tử Ivan còn bé dại chưa biết gì, múc nước đưa cho lão: từ đó trong ngục chẳng còn bóng lão nữa — lão đi mất.)"
+    },
+    {
+     "t": "para",
+     "text": "Дошла эта весть и до царя. (Chuyện đến tai vua.)"
+    },
+    {
+     "t": "para",
+     "text": "Царь приказал Ивана-царевича за это дело выгнать из царства. (Vua hạ lệnh: vì việc ấy mà đuổi hoàng tử Ivan ra khỏi vương quốc.)"
+    },
+    {
+     "t": "para",
+     "text": "Царское слово — закон: Ивана-царевича выгнали из царства; пошел он куда глаза глядят. (Lời vua là phép nước: hoàng tử Ivan bị đuổi khỏi vương quốc; chàng đành cất bước, mắt nhìn về đâu chân đi về đấy.)"
+    },
+    {
+     "t": "para",
+     "text": "Шел долго; наконец приходит в друго царство прямо к царю, просится в службу. (Đi mãi đi mãi; sau cùng chàng tới một vương quốc khác, vào thẳng chỗ vua xin theo hầu.)"
+    },
+    {
+     "t": "para",
+     "text": "Царь его принял, приказал сделать конюхом. (Vua nhận chàng, sai cho làm mã phu.)"
+    },
+    {
+     "t": "para",
+     "text": "Он только спит на конюшне, а за конями не ходит; конюшенный староста не однажды бил его. Иван-царевич все терпел. (Ở chuồng ngựa chàng chỉ ngủ, chẳng buồn chăm ngựa; viên cai chuồng ngựa đánh chàng không phải một bận. Hoàng tử Ivan cứ cắn răng chịu cả.)"
+    },
+    {
+     "t": "para",
+     "text": "Какой-то царь сватал царевну у этого царя и не высватал; за то объявил войну. (Có một ông vua nọ đến dạm hỏi công chúa con vua này mà không dạm được; vì thế gây chiến.)"
+    },
+    {
+     "t": "para",
+     "text": "Этот царь ушел с войсками, а царством осталась править дочь его Марфа-царевна. (Nhà vua đem quân ra trận, để con gái là công chúa Marfa ở lại trị vì vương quốc.)"
+    },
+    {
+     "t": "para",
+     "text": "Она и прежде замечала Ивана-царевича, что он не простого роду; за то и послала его в какое-то место губернатором. (Nàng từ trước đã để ý thấy hoàng tử Ivan chẳng phải con nhà thường dân; bởi vậy phái chàng đến một vùng nọ làm tổng trấn.)"
+    },
+    {
+     "t": "para",
+     "text": "Иван-царевич уехал, живет там, правит делом. (Hoàng tử Ivan lên đường, ở đó sinh sống, cáng đáng việc quan.)"
+    },
+    {
+     "t": "para",
+     "text": "Один раз поехал он на охоту; только выехал за жи́ло — неоткуда взялся мужичок руки железны, голова чугунна, сам медный: «А, здравствуй, Иван-царевич!» Иван-царевич ему поклонился. (Một bận chàng cưỡi ngựa đi săn; vừa ra khỏi nơi dân cư thì chẳng biết từ đâu hiện ra người đàn ông tay sắt, đầu gang, mình đồng: «À, chào hoàng tử Ivan!» Hoàng tử Ivan cúi chào lão.)"
+    },
+    {
+     "t": "para",
+     "text": "Старик зовет его: «Поедем, — говорит, — ко мне в гости». Поехали. (Lão già mời chàng: «Đi nào, — lão nói, — về nhà lão chơi». Hai người cùng đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Старичок ввел его в богатый дом, крикнул малой дочери: «Эй, давай-ка нам пить и есть, да и полуведерную чашу вина!» Закусили; вдруг дочь приносит полуведерную чашу вина и подносит Ивану-царевичу. (Lão dẫn chàng vào một ngôi nhà giàu có, gọi cô con gái út: «Này, dọn đồ ăn thức uống cho ta, thêm cả chén rượu nửa thùng nữa!» Hai người nhắm nháp; chợt cô con gái bưng ra chén rượu nửa thùng dâng mời hoàng tử Ivan.)"
+    },
+    {
+     "t": "para",
+     "text": "Он отказывается, говорит: «Мне не выпить!» Старик велит браться; взял чашу, и откуда у него сила взялася — на один дух так и выпил это вино! (Chàng từ chối, nói: «Tôi uống sao nổi!» Lão già cứ bắt cầm lấy; chàng nâng chén — sức ở đâu bỗng kéo đến — một hơi cạn sạch chỗ rượu ấy!)"
+    },
+    {
+     "t": "para",
+     "text": "Потом старик созвал его разгуляться; дошли до камня в пятьсот пудов. (Rồi lão già rủ chàng ra ngoài dạo chơi; hai người đến bên tảng đá nặng năm trăm pud.)"
+    },
+    {
+     "t": "para",
+     "text": "Старик говорит: «Поднимай этот камень, Иван-царевич!» Он думает себе: «Где мне поднять такой камень! Однако попробую». (Lão bảo: «Nhấc tảng đá này lên xem, hoàng tử Ivan!» Chàng bụng bảo dạ: «Mình thì nhấc sao nổi tảng đá thế này! Nhưng cứ thử xem».)"
+    },
+    {
+     "t": "para",
+     "text": "Взял и легко перекинул; сам опять и думает: «Откуда же у меня берется сила? Небось этот старик в вине ее мне подает». (Chàng cầm lên ném vèo qua nhẹ bẫng; rồi lại nghĩ bụng: «Sức lực ở đâu ra trong người mình thế nhỉ? Hẳn là lão già rót sức cho mình trong rượu đây».)"
+    },
+    {
+     "t": "para",
+     "text": "Походили сколько времени и пошли в дом. (Dạo chơi một hồi, hai người trở vào nhà.)"
+    },
+    {
+     "t": "para",
+     "text": "Приходят: старик середней дочери крикнул ведро вина принести. (Vào đến nơi: lão gọi cô con gái giữa bưng ra một thùng rượu.)"
+    },
+    {
+     "t": "para",
+     "text": "Иван-царевич смело взялся за чашу вина, выпил на один дух. (Hoàng tử Ivan mạnh dạn cầm chén rượu, một hơi uống cạn.)"
+    },
+    {
+     "t": "para",
+     "text": "Опять пошли разгуляться, дошли до камня в тысячу пудов. (Lại ra ngoài dạo chơi, hai người đến bên tảng đá nặng nghìn pud.)"
+    },
+    {
+     "t": "para",
+     "text": "Старик говорит Ивану-царевичу: «Ну-ка, переметни этот камень!» Иван-царевич тотчас схватил камень и бросил, и думает себе: «Эка сила хочет во мне быть!» (Lão bảo hoàng tử Ivan: «Nào, ném tảng đá này qua bên kia xem!» Hoàng tử Ivan tức thì vớ lấy tảng đá ném đi, bụng nghĩ thầm: «Chà, sức lực muốn về ở trong người mình thật rồi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Воротились опять в дом, и опять старик крикнул большой дочери принести полтора ведра чару зелена вина. (Hai người lại quay về nhà, lão lại gọi cô con gái cả bưng ra chén rượu tăm thùng rưỡi.)"
+    },
+    {
+     "t": "para",
+     "text": "Иван-царевич и это выпил на один дух. (Hoàng tử Ivan cũng một hơi uống cạn.)"
+    },
+    {
+     "t": "para",
+     "text": "Пошли со стариком разгуляться. (Rồi lại cùng lão ra ngoài dạo.)"
+    },
+    {
+     "t": "para",
+     "text": "Иван-царевич легонько метнул камень в полторы тысячи пудов. (Hoàng tử Ivan nhẹ tay ném vèo tảng đá nghìn rưởi pud.)"
+    },
+    {
+     "t": "para",
+     "text": "Тогда старик дал ему скатёртку-самовёртку и говорит: «Ну, Иван-царевич, в тебе теперь много силы: лошади не поднять! (Bấy giờ lão già trao cho chàng tấm khăn bàn thần tự bày món và nói: «Này hoàng tử Ivan, trong người con giờ nhiều sức lắm rồi: ngựa chở không nổi con nữa đâu!)"
+    },
+    {
+     "t": "para",
+     "text": "Крыльцо дома вели переделать, тебя оно не станет поднимать; стулья надо другие же; под полы можно наставить чаще подстоек. (Thềm nhà phải sai sửa lại, kẻo nó không đỡ nổi con; ghế ngồi cũng phải đóng bộ khác; dưới sàn nên kê cột chống cho mau thêm.)"
+    },
+    {
+     "t": "para",
+     "text": "Ступай с богом!» Все люди засмеялись, как увидели, что губернатор с охоты идет пешком, а лошадь ведет в поводу. (Thôi, con đi đường lành!» Người ta thấy quan tổng trấn đi săn về mà cuốc bộ, tay dắt cương ngựa, ai nấy cười ầm.)"
+    },
+    {
+     "t": "para",
+     "text": "Он пришел домой; под полы велел наставить стоек, стулья все переделали, стряпок, горничных прогнал, один себе живет, как пустынник. (Chàng về tới nhà; sai kê cột chống dưới sàn, ghế đóng lại hết, đuổi cả chị bếp lẫn con hầu, sống một thân một mình như ẩn sĩ.)"
+    },
+    {
+     "t": "para",
+     "text": "И все дивятся, как живет он голодом; никто ему не стряпает! (Ai nấy lấy làm lạ: chàng sống nhịn đói kiểu gì — nào có ai nấu nướng cho đâu!)"
+    },
+    {
+     "t": "para",
+     "text": "Даром что его питает скатёртка-самовёртка. (Họ đâu hay chính tấm khăn bàn thần tự bày món vẫn nuôi chàng.)"
+    },
+    {
+     "t": "para",
+     "text": "В гости ходить ни к кому он не стал, да и как ходить? (Chàng thôi không đến chơi nhà ai nữa — mà đến làm sao được?)"
+    },
+    {
+     "t": "para",
+     "text": "Ничего его не поднимало в домах. (Trong nhà người ta, chẳng vật gì đỡ nổi thân chàng.)"
+    },
+    {
+     "t": "para",
+     "text": "Царь между тем с походу воротился, узнал, что Иван-царевич живет губернатором, приказал его сменить и сделать опять конюхом. (Trong lúc ấy nhà vua chinh chiến trở về, hay tin hoàng tử Ivan đang làm tổng trấn, liền hạ lệnh cách chức, bắt trở lại làm mã phu.)"
+    },
+    {
+     "t": "para",
+     "text": "Нечего делать — Иван-царевич стал жить конюхом. (Biết làm sao — hoàng tử Ivan lại sống kiếp mã phu.)"
+    },
+    {
+     "t": "para",
+     "text": "Один раз конюшенный староста стал его куда-то наряжать, да и ударил; Иван-царевич не стерпел, как схватил его сам, так голову и отшиб. (Một bận viên cai chuồng ngựa sai phái chàng đi đâu đó, lại còn đánh chàng; hoàng tử Ivan nhịn hết nổi, vừa túm lấy hắn một cái thì đầu hắn đã văng rời.)"
+    },
+    {
+     "t": "para",
+     "text": "Дошло дело это до царя; привели Ивана-царевича. (Việc đến tai vua; người ta điệu hoàng tử Ivan tới.)"
+    },
+    {
+     "t": "para",
+     "text": "«Почто ты ушиб старосту?» — спросил царь. («Cớ sao ngươi đánh chết viên cai?» — vua hỏi.)"
+    },
+    {
+     "t": "para",
+     "text": "«Он сам наперед ударил меня; я не шибко и отплатил ему, да как-то по голове: голова и отпала». («Hắn đánh tôi trước; tôi đáp lại nào có mạnh tay gì, chỉ phải cái nhằm trúng đầu: đầu hắn rụng mất».)"
+    },
+    {
+     "t": "para",
+     "text": "Другие конюхи сказали то же — задел наперед староста, а Иван-царевич ударил его нешибко. (Đám mã phu khác cũng khai vậy — viên cai động thủ trước, còn hoàng tử Ivan đánh hắn chẳng mạnh gì.)"
+    },
+    {
+     "t": "para",
+     "text": "Ничего не сделали с Иваном-царевичем, только сменили из конюхов в солдаты; он и тут начал жить. (Người ta không làm gì hoàng tử Ivan, chỉ chuyển chàng từ mã phu sang làm lính; chàng lại sống ở đó.)"
+    },
+    {
+     "t": "para",
+     "text": "Не чрез долгое времени приходит к царю мужичок сам с ноготь, борода с локоть, и подает письмо за тремя черными печатями от Водяного царя; тут написано: ежели царь в такой-то день и на такой-то остров не привезет дочь свою Марфу-царевну взамуж за сына Водяного царя, то он людей всех прибьет и все царство огнем сожгет; а за Марфой-царевной будет трехглавый змий. (Chẳng bao lâu sau, có người lùn mình bằng móng tay, râu dài bằng khuỷu tay đến chỗ vua, dâng bức thư đóng ba dấu triện đen của Thuỷ Vương; thư viết: nếu đến ngày nọ vua không đưa con gái là công chúa Marfa ra đảo nọ gả cho con trai Thuỷ Vương, thì ngài sẽ giết sạch dân chúng, đốt trụi cả vương quốc; còn kẻ đến đón công chúa Marfa sẽ là con mãng xà ba đầu.)"
+    },
+    {
+     "t": "para",
+     "text": "Царь прочитал это письмо, подал от себя другой ответ к Водяному царю, что дочь отдать согласен; проводил старика и созвал сенаторов и думных дьяков думу думать, как отстоять дочь от трехглавого змия? (Vua đọc thư, viết thư đáp lại Thuỷ Vương rằng thuận gả con gái; tiễn lão lùn đi rồi, vua triệu các quan nguyên lão cùng các quan thư ký hội đồng vào bàn mưu tính kế: làm sao giữ được con gái khỏi con mãng xà ba đầu?)"
+    },
+    {
+     "t": "para",
+     "text": "Ежели не послать ее на остров, то всему царству от Водяного царя будет смерть. (Vì nếu không đưa nàng ra đảo thì cả vương quốc sẽ chết dưới tay Thuỷ Vương.)"
+    },
+    {
+     "t": "para",
+     "text": "Кликнули клич, не выищется ли такой человек, который бы взялся выручать от змия Марфу-царевну? (Bèn rao truyền khắp nơi: liệu có ai dám đứng ra cứu công chúa Marfa khỏi mãng xà chăng?)"
+    },
+    {
+     "t": "para",
+     "text": "За того ее царь и взамуж отдаст. (Ai cứu được, vua sẽ gả nàng cho người ấy.)"
+    },
+    {
+     "t": "para",
+     "text": "Нашелся какой-то поддергайко, взял роту солдат, повез Марфу-царевну; привозит на остров, оставил ее в хижине, а сам остался дожидаться змия на улице. (Có một gã công tử xốc nổi đứng ra nhận, lĩnh một đại đội lính, chở công chúa Marfa đi; đến đảo, gã để nàng trong túp lều, còn mình ở ngoài chờ mãng xà.)"
+    },
+    {
+     "t": "para",
+     "text": "Между тем Иван-царевич узнал, что Марфу-царевну увезли к Водяному царю, собрался и поехал на остров; пришел в хижину, Марфа-царевна плачет. (Trong lúc ấy hoàng tử Ivan hay tin công chúa Marfa bị đưa đến chỗ Thuỷ Vương, liền sửa soạn ra đảo; chàng bước vào lều, công chúa Marfa đang ngồi khóc.)"
+    },
+    {
+     "t": "para",
+     "text": "«Не плачь, царевна! — сказал он ей. — Бог милостив!» Сам лег на лавку, голову положил на колена Марфе-царевне и уснул. («Đừng khóc, công chúa! — chàng bảo nàng. — Trời thương người lành!» Rồi chàng nằm lên ghế dài, gối đầu lên đùi công chúa Marfa mà ngủ thiếp đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Вдруг змий и начал выходить, воды за ним хлынуло на три аршина. (Bỗng mãng xà bắt đầu trồi lên, nước theo nó dâng ào ào cao ba arshin.)"
+    },
+    {
+     "t": "para",
+     "text": "Барин с солдатами стоял тут; как начала вода прибывать, он и скомандовал им: «Марш на лес!» Солдаты все сбились на лес. (Gã quý tộc cùng đám lính đứng đó; nước vừa dâng, gã đã hô: «Tất cả, lên cây!» Lính tráng nháo nhào trèo hết lên cây.)"
+    },
+    {
+     "t": "para",
+     "text": "Змий вышел и идет прямо в хижину. (Mãng xà lên bờ, bò thẳng vào lều.)"
+    },
+    {
+     "t": "para",
+     "text": "Марфа-царевна увидела, что змий идет за ней, начала Ивана-царевича будить; тот соскочил, на один раз отсек все три головы у змия, а сам ушел. (Công chúa Marfa thấy mãng xà đến bắt mình, vội lay hoàng tử Ivan dậy; chàng bật dậy, một nhát phạt đứt cả ba đầu mãng xà, rồi lặng lẽ bỏ đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Барин повез Марфу-царевну домой к отцу. (Gã quý tộc chở công chúa Marfa về nhà với vua cha.)"
+    },
+    {
+     "t": "para",
+     "text": "Не чрез много времени старик сам с ноготь, борода с локоть выходит опять из воды и несет от Водяного царя письмо за шести черными печатями, чтобы царь привез дочь на тот же остров шестиглавому змию; а ежели он не отдаст Марфу-царевну, то Водяной царь грозился все царство потопить. (Chẳng bao lâu, lão lùn mình bằng móng tay, râu dài bằng khuỷu tay lại từ dưới nước hiện lên, mang thư của Thuỷ Vương đóng sáu dấu triện đen: vua phải đưa con gái ra đúng đảo ấy cho con mãng xà sáu đầu; còn nếu không nộp công chúa Marfa, Thuỷ Vương doạ dìm cả vương quốc xuống nước.)"
+    },
+    {
+     "t": "para",
+     "text": "Царь отписал опять, что согласен отдать Марфу-царевну. Маленький старичонко ушел. (Vua lại viết thư đáp rằng thuận nộp công chúa Marfa. Lão già bé choắt đi mất.)"
+    },
+    {
+     "t": "para",
+     "text": "Царь начал кликать клич; послали везде бумаги: не найдется ли такой человек, который бы избавил Марфу-царевну от змия? (Vua lại cho rao truyền, gửi giấy đi khắp chốn: liệu có ai cứu nổi công chúa Marfa khỏi mãng xà chăng?)"
+    },
+    {
+     "t": "para",
+     "text": "Тот же барин опять явился, говорит: «Я, ваше царско величество, избавлю; только дайте роту солдат». (Vẫn gã quý tộc nọ lại trình diện, thưa: «Muôn tâu bệ hạ, thần cứu được; chỉ xin cấp một đại đội lính».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Да больше не надо ли? Теперь змий о шести главах». (— «Thế không cần thêm nữa ư? Lần này là mãng xà sáu đầu đấy».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Будет. Мне и этого много». (— «Đủ rồi ạ. Với thần, ngần ấy còn là nhiều».)"
+    },
+    {
+     "t": "para",
+     "text": "Собрались все, повезли Марфу-царевну; а Иван-царевич узнал, что Марфа-царевна опять в напасти, за добродетель ее, что его сделала губернатором, пошел туда ли, поехал ли; так же застал Марфу-царевну в хижине, входит к ней. (Mọi người sửa soạn, chở công chúa Marfa đi; còn hoàng tử Ivan hay tin công chúa Marfa lại lâm nạn, nhớ ơn nàng từng cho mình làm tổng trấn, chẳng rõ đi bộ hay đi ngựa mà cũng tìm đến nơi; vẫn như lần trước, chàng thấy công chúa Marfa trong túp lều, bèn bước vào.)"
+    },
+    {
+     "t": "para",
+     "text": "Она уж ждет его; только увидела — обрадовалась. Он лег и уснул. (Nàng đã đợi sẵn chàng; vừa thấy bóng đã mừng rỡ. Chàng nằm xuống ngủ thiếp đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Вдруг шестиглавый змий и начал выходить; воды хлынуло на шесть аршин. (Bỗng mãng xà sáu đầu bắt đầu trồi lên; nước dâng ào cao sáu arshin.)"
+    },
+    {
+     "t": "para",
+     "text": "Барин с солдатами еще сперва сидел на лесу. (Gã quý tộc cùng đám lính phen này leo sẵn lên cây ngồi từ trước.)"
+    },
+    {
+     "t": "para",
+     "text": "Змий вошел в хижину, Марфа-царевна разбудила Ивана-царевича; вот они схватились, бились-бились, Иван-царевич отсек змию голову, другу, третью, и все шесть, и сбросал их в воду, а сам будто ни в чем не бывал — пошел. (Mãng xà vào lều, công chúa Marfa đánh thức hoàng tử Ivan; hai bên quần nhau, đánh mãi đánh mãi, hoàng tử Ivan chém đứt một đầu mãng xà, đầu nữa, đầu thứ ba, rồi cả sáu đầu, quẳng hết xuống nước, đoạn thản nhiên như không — bỏ đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Барин с солдатами слез с лесу, поехал домой, доносит царю, что бог помог отстоять Марфу-царевну; и ее, видно, настращал чем-то этот барин: она не смела сказать, что не он отстаивал ее. (Gã quý tộc cùng đám lính tụt xuống khỏi cây, lên đường về, tâu vua rằng nhờ trời phù hộ đã giữ được công chúa Marfa; hẳn gã còn doạ dẫm nàng điều gì đó: nàng không dám nói ra rằng kẻ cứu mình chẳng phải là gã.)"
+    },
+    {
+     "t": "para",
+     "text": "Барин стал приступать, чтобы сделали свадьбу. (Gã quý tộc bắt đầu thúc ép đòi làm đám cưới.)"
+    },
+    {
+     "t": "para",
+     "text": "Марфа-царевна велит подождать. (Công chúa Marfa bảo hãy thư thư.)"
+    },
+    {
+     "t": "para",
+     "text": "«Дайте, — говорит, — мне поправиться со страху; я и то вон как напугалась!» («Xin cho con, — nàng nói, — hoàn hồn lại đã; con sợ đến thế kia mà!»)"
+    },
+    {
+     "t": "para",
+     "text": "Вдруг опять тот же старик сам с ноготь, борода с локоть выходит из воды и несет письмо с девяти черными печатями, чтобы царь немедленно послал Марфу-царевну на такой-то остров и в такой-то день к девятиглавому змию, а ежели не пошлет, то все его царство будет потоплено. (Bỗng vẫn lão lùn mình bằng móng tay, râu dài bằng khuỷu tay ấy lại từ dưới nước lên, mang bức thư đóng chín dấu triện đen: vua phải lập tức đưa công chúa Marfa đến đảo nọ vào ngày nọ cho con mãng xà chín đầu, bằng không cả vương quốc sẽ bị nhấn chìm.)"
+    },
+    {
+     "t": "para",
+     "text": "Царь опять отписал, что согласен; сам начал искать такого человека, какой бы избавил царевну от девятиглавого змия. (Vua lại viết thư nhận lời; rồi tự đi tìm xem ai là người cứu nổi công chúa khỏi mãng xà chín đầu.)"
+    },
+    {
+     "t": "para",
+     "text": "Тот же барин опять выискался и поехал с ротой солдат и с Марфой-царевной. (Vẫn gã quý tộc nọ lại ló ra nhận việc, đem một đại đội lính cùng công chúa Marfa lên đường.)"
+    },
+    {
+     "t": "para",
+     "text": "Иван-царевич услыхал это, собрался и отправился туда же, а Марфа-царевна там ждет уж его. (Hoàng tử Ivan nghe tin, sửa soạn đi đến đó, còn công chúa Marfa ở đảo đã ngóng chàng sẵn.)"
+    },
+    {
+     "t": "para",
+     "text": "Он пришел; она обрадовалась, стала его спрашивать, какого он роду, кто такой, как зовут? (Chàng tới nơi; nàng mừng rỡ, gặng hỏi chàng dòng dõi nhà ai, là người thế nào, tên gọi là gì?)"
+    },
+    {
+     "t": "para",
+     "text": "Он ничего не сказал, лег и уснул. (Chàng chẳng nói chẳng rằng, nằm xuống ngủ thiếp đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот девятиглавый змий и начал выходить, воды поднял на себе на девять аршин. (Kìa mãng xà chín đầu bắt đầu trồi lên, đội theo mình cột nước cao chín arshin.)"
+    },
+    {
+     "t": "para",
+     "text": "Барин опять скомандовал солдатам: «Марш на лес!» Залезли. (Gã quý tộc lại hô lính: «Tất cả, lên cây!» Cả bọn trèo lên.)"
+    },
+    {
+     "t": "para",
+     "text": "Марфа-царевна будит Ивана-царевича, не может разбудить; змий уж близко у порогу! (Công chúa Marfa lay hoàng tử Ivan mà không sao lay dậy nổi; mãng xà đã sắp tới ngưỡng cửa!)"
+    },
+    {
+     "t": "para",
+     "text": "Она слезно заплакала; Ивана-царевича разбудить все не может. (Nàng khóc nức nở; vẫn không tài nào đánh thức được hoàng tử Ivan.)"
+    },
+    {
+     "t": "para",
+     "text": "Змий уж подползает, только схватить Ивана-царевича! Он все спит. (Mãng xà đã bò sát đến nơi, chỉ chực vồ lấy hoàng tử Ivan! Chàng vẫn ngủ say.)"
+    },
+    {
+     "t": "para",
+     "text": "У Марфы-царевны был ножичек перочинный; она им и резнула по щеке Ивана-царевича. (Công chúa Marfa sẵn có con dao díp nhỏ; nàng đưa dao rạch một đường lên má hoàng tử Ivan.)"
+    },
+    {
+     "t": "para",
+     "text": "Он проснулся, соскочил, схватился со змием биться-барахтаться. (Chàng choàng tỉnh, bật dậy, lao vào quần thảo vật lộn với mãng xà.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот змий начал издолять Ивана-царевича. (Rồi mãng xà bắt đầu lấn lướt hoàng tử Ivan.)"
+    },
+    {
+     "t": "para",
+     "text": "Неоткуда взялся мужичок руки железны, голова чугунна, сам медный, схватил змия; отсекли двоймя ему все головы, сбросали в воду и ушли. (Chẳng biết từ đâu, người đàn ông tay sắt, đầu gang, mình đồng hiện ra túm lấy mãng xà; hai người hợp sức chặt phăng hết thảy mấy cái đầu nó, quẳng xuống nước, rồi cùng đi mất.)"
+    },
+    {
+     "t": "para",
+     "text": "Барин пуще того обрадовался; соскакали с лесу, отправились в свое царство, и он неотступно стал просить царя сделать свадьбу. (Gã quý tộc càng mừng tợn; cả bọn nhảy xuống khỏi cây, kéo về vương quốc mình, và gã ráo riết nài vua làm đám cưới.)"
+    },
+    {
+     "t": "para",
+     "text": "Марфа-царевна отказывалась: «Подождите немного да дайте мне оправиться; я и то вон как испугалась!» (Công chúa Marfa thoái thác: «Xin hãy thư thả ít lâu, cho con tĩnh tâm lại đã; con sợ đến thế kia mà!»)"
+    },
+    {
+     "t": "para",
+     "text": "Старичок сам с ноготок, борода с локоток опять принес письмо. Водяной царь требует виноватого. (Lão già mình bằng móng tay, râu dài bằng khuỷu tay lại mang thư đến. Thuỷ Vương đòi nộp kẻ có tội.)"
+    },
+    {
+     "t": "para",
+     "text": "Барину и не хотелось было ехать к Водяному царю, да нечего делать — послали. (Gã quý tộc nào có muốn đến chỗ Thuỷ Vương, nhưng biết làm sao — người ta cứ phái đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Снарядили корабль и отправились (а Иван-царевич тут на флоте служил, как-то попал тут же на корабль); плывут. (Người ta sắm sửa một chiếc tàu rồi lên đường (mà hoàng tử Ivan bấy giờ đang làm lính thuỷ, thế nào lại cũng có chân trên chính chiếc tàu ấy); tàu cứ thế lướt đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Вдруг навстречу им корабль — как птица летит, только и кричат: «Виноватого, виноватого!» — и пробежал мимо. (Bỗng một chiếc tàu lao ngược chiều — băng băng như chim bay, trên tàu chỉ rặt tiếng hô: «Nộp kẻ có tội, nộp kẻ có tội!» — rồi vụt qua.)"
+    },
+    {
+     "t": "para",
+     "text": "Немного отплыли, другой корабль навстречу, и опять кричат: «Виноватого, виноватого!» Иван-царевич указал на барина; уж они его били-били — до полусмерти! Проехали. (Đi thêm một quãng, chiếc tàu khác lại ngược tới, lại hô: «Nộp kẻ có tội, nộp kẻ có tội!» Hoàng tử Ivan chỉ vào gã quý tộc; thế là người ta nện cho gã một trận thừa sống thiếu chết! Rồi tàu lại đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот приезжают они к Водяному царю. (Rồi đoàn người đến chỗ Thuỷ Vương.)"
+    },
+    {
+     "t": "para",
+     "text": "Водяной царь приказал натопить докрасна чугунну ли, железну ли баню и виноватого посадить туда. (Thuỷ Vương sai đốt cho đỏ rực một nhà tắm hơi chẳng rõ bằng gang hay bằng sắt, rồi tống kẻ có tội vào đó.)"
+    },
+    {
+     "t": "para",
+     "text": "Барин перепугался, душа в пятки ушла! Смертонька приходит! (Gã quý tộc sợ rụng rời, hồn vía lên mây! Cái chết đến nơi rồi!)"
+    },
+    {
+     "t": "para",
+     "text": "А у Ивана-царевича остался с тех кораблей какой-то человек, увидел, что Иван-царевич не простого роду, и стал у него служить. (Còn bên hoàng tử Ivan, từ mấy chiếc tàu nọ có một người ở lại; người ấy nhận ra hoàng tử Ivan chẳng phải dòng dõi tầm thường nên xin theo hầu chàng.)"
+    },
+    {
+     "t": "para",
+     "text": "Иван-царевич и послал его: «Ступай, просиди в бане». (Hoàng tử Ivan bèn sai anh ta: «Đi đi, vào ngồi trong nhà tắm ấy».)"
+    },
+    {
+     "t": "para",
+     "text": "Тот сейчас сбегал; ему — дьявол то и есть — ничего там не делается, прибежал обратно невредим. (Anh ta chạy đi tức khắc; với anh ta — vốn đích thị là quỷ — trong đó chẳng hề hấn gì, chạy về vẫn nguyên lành.)"
+    },
+    {
+     "t": "para",
+     "text": "Виноватого опять потребовали, теперь уж к самому Водяному царю; барина увели. (Kẻ có tội lại bị đòi nữa, lần này phải đến trước mặt đích thân Thuỷ Vương; người ta dẫn gã quý tộc đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Уж его ругал-ругал, бил-бил Водяной царь и велел прогнать. Поехали обратно. (Thuỷ Vương chửi cho một trận, nện cho một trận, rồi sai đuổi cổ. Đoàn người quay về.)"
+    },
+    {
+     "t": "para",
+     "text": "Барин дома пуще еще стал гордиться и не отходит от царя, приступает, чтобы сделал свадьбу. (Về đến nhà, gã quý tộc càng vênh váo tợn, bám riết lấy vua, thúc ép đòi cưới cho bằng được.)"
+    },
+    {
+     "t": "para",
+     "text": "Царь просватал; назначили день, когда быть свадьбе. (Vua nhận gả; người ta định ngày làm đám cưới.)"
+    },
+    {
+     "t": "para",
+     "text": "Барин — где поднялся́! Рукой не достанешь! Никто близко не подходи! (Gã quý tộc — chao ôi là lên mặt! Với tay chẳng tới! Chớ ai bén mảng lại gần!)"
+    },
+    {
+     "t": "para",
+     "text": "А царевна говорит отцу: «Батюшка! Вели собрать всех солдат; я хочу смотреть их». Тотчас солдат собрали. (Còn công chúa thưa với cha: «Thưa cha! Xin cha truyền tập hợp hết binh lính; con muốn duyệt xem họ». Tức thì binh lính được tập hợp.)"
+    },
+    {
+     "t": "para",
+     "text": "Марфа-царевна и пошла, всех обошла и доходит до Ивана-царевича, взглянула на щеку и видит рубец, как она ножичком его резнула; берет она Ивана-царевича за руку и ведет к отцу: «Вот, батюшка, кто меня избавил от змиев; я не знала — кто он, а теперь узнала по рубцу на щеке. (Công chúa Marfa bèn đi duyệt, rảo qua khắp lượt, đến trước hoàng tử Ivan, nhìn lên má thấy vết sẹo nơi nàng từng rạch dao; nàng cầm tay hoàng tử Ivan dắt đến trước vua cha: «Thưa cha, đây mới là người cứu con khỏi lũ mãng xà; trước con không biết chàng là ai, nay nhận ra nhờ vết sẹo trên má.)"
+    },
+    {
+     "t": "para",
+     "text": "Барин-от сидел с солдатами на лесу!» Тут же солдат тех спросили: сидели ли они на лесу? (Còn gã quý tộc kia chỉ ngồi tít trên cây với đám lính!» Người ta hỏi ngay đám lính nọ: có phải họ đã ngồi trên cây không?)"
+    },
+    {
+     "t": "para",
+     "text": "Они сказали: «Правда, ваше царско величество! Барин был еле жив, не годен!» Того разу его разжаловали и послали в ссылку; а Иван-царевич обвенчался на Марфе-царевне, стал жить да быть и хлеб жевать. (Họ thưa: «Muôn tâu bệ hạ, đúng vậy! Gã quý tộc sợ chết khiếp, chẳng được tích sự gì!» Lập tức gã bị tước hết phẩm hàm, đày đi biệt xứ; còn hoàng tử Ivan làm lễ cưới công chúa Marfa, từ đấy sống yên vui, có cơm bánh nhai đều.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "жи́ло",
+     "vi": "nơi có người ở, xóm làng (từ cổ; «выехал за жи́ло» — vừa ra khỏi khu dân cư)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "скатёртка-самовёртка",
+     "vi": "khăn bàn thần tự bày món (biến thể của скатерть-самобранка)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "полуведерный",
+     "vi": "(chén, vò) chứa nửa thùng ведро (~6 lít)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "зелено́ вино",
+     "vi": "«rượu xanh» — công thức dân ca chỉ rượu mạnh",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "на один дух",
+     "vi": "một hơi, một mạch (uống cạn)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "подстойка",
+     "vi": "cột chống, trụ kê (đỡ dưới sàn nhà)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "пустынник",
+     "vi": "ẩn sĩ, người tu một mình nơi hoang vắng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "сам с ноготь, борода с локоть",
+     "vi": "«mình bằng móng tay, râu dài bằng khuỷu tay» — công thức tả ông lão tí hon thần kỳ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "думный дьяк",
+     "vi": "quan thư ký hội đồng triều đình (chức quan Nga cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "поддергайко",
+     "vi": "gã xốc nổi, lăng xăng đỏm dáng (từ hiếm, giọng giễu)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "взамуж",
+     "vi": "dạng dân dã của замуж (gả chồng, lấy chồng)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "издоля́ть",
+     "vi": "lấn lướt, thắng thế (phương ngữ, = одолевать)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "двоймя́",
+     "vi": "cả hai cùng một lúc, hai người hợp sức (phương ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "душа в пятки ушла",
+     "vi": "hồn vía lên mây, sợ mất mật (thành ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "разжаловать",
+     "vi": "tước phẩm hàm, giáng chức",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

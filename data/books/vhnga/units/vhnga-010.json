@@ -1,0 +1,177 @@
+{
+ "id": "vhnga-010",
+ "num": 10,
+ "title": "«Я пришёл к тебе с приветом» — Anh đến mang lời chào (Fet)",
+ "vi": "«Я пришёл к тебе с приветом» — Anh đến mang lời chào (Fet)",
+ "ru": "Я пришёл к тебе с приветом",
+ "icon": "🕊️",
+ "color": "#65a30d",
+ "sectionPrefix": "vhnga-010-s",
+ "group": "Афанасий Фет · Thơ",
+ "sections": [
+  {
+   "id": "vhnga-010-s001",
+   "type": "story",
+   "num": 10,
+   "title": "«Я пришёл к тебе с приветом» — “Anh đến bên em mang lời chào” (A. Fet, 1843)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Một trong những bài thơ trữ tình thiên nhiên nổi tiếng nhất của Afanasy Fet (Афанасий Афанасьевич Фет, 1820–1892), viết khoảng năm 1843. Cả bốn khổ thơ đều mở đầu bằng động từ «рассказать» (để kể cho em nghe), dồn dập niềm hân hoan buổi sớm mùa xuân: ánh nắng, khu rừng thức giấc, tình yêu và khúc ca đang trào dâng. Tiêu biểu cho lối thơ «thuần tuý», giàu nhạc tính của Fet."
+    },
+    {
+     "t": "para",
+     "text": "Я пришёл к тебе с приве́том, (Anh đến bên em mang theo lời chào,)"
+    },
+    {
+     "t": "para",
+     "text": "Рассказа́ть, что со́лнце вста́ло, (Để kể rằng vầng dương đã mọc lên,)"
+    },
+    {
+     "t": "para",
+     "text": "Что оно́ горя́чим све́том (Rằng mặt trời với ánh nắng nóng hổi)"
+    },
+    {
+     "t": "para",
+     "text": "По листа́м затрепета́ло; (Đã rung rinh lấp lánh trên từng tán lá;)"
+    },
+    {
+     "t": "para",
+     "text": "Рассказа́ть, что лес просну́лся, (Để kể rằng khu rừng đã bừng tỉnh giấc,)"
+    },
+    {
+     "t": "para",
+     "text": "Весь просну́лся, ве́ткой ка́ждой, (Tỉnh dậy cả rồi, trong từng nhành cây,)"
+    },
+    {
+     "t": "para",
+     "text": "Ка́ждой пти́цей встрепену́лся (Mỗi cánh chim đều rung mình thức dậy,)"
+    },
+    {
+     "t": "para",
+     "text": "И весе́нней по́лон жа́ждой; (Và chứa chan khát khao của mùa xuân;)"
+    },
+    {
+     "t": "para",
+     "text": "Рассказа́ть, что с той же стра́стью, (Để kể rằng vẫn với niềm say đắm ấy,)"
+    },
+    {
+     "t": "para",
+     "text": "Как вчера́, пришёл я сно́ва, (Như hôm qua, anh lại đến bên em,)"
+    },
+    {
+     "t": "para",
+     "text": "Что душа́ всё так же сча́стью (Rằng tâm hồn anh vẫn nguyên như thế, sẵn sàng hiến dâng cho hạnh phúc)"
+    },
+    {
+     "t": "para",
+     "text": "И тебе́ служи́ть гото́ва; (Và sẵn lòng phụng sự riêng em;)"
+    },
+    {
+     "t": "para",
+     "text": "Рассказа́ть, что отовсю́ду (Để kể rằng từ khắp muôn nơi)"
+    },
+    {
+     "t": "para",
+     "text": "На меня́ весе́льем ве́ет, (Niềm vui sướng đang phảng phất thổi về phía anh,)"
+    },
+    {
+     "t": "para",
+     "text": "Что не зна́ю сам, что бу́ду (Rằng chính anh cũng chẳng biết mình sẽ)"
+    },
+    {
+     "t": "para",
+     "text": "Петь — но то́лько пе́сня зре́ет. (Hát điều chi — chỉ biết khúc ca đang dần chín trong lòng.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó"
+    },
+    {
+     "t": "vocab",
+     "ru": "приве́т",
+     "vi": "lời chào, lời thăm hỏi",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "рассказа́ть",
+     "vi": "kể, kể lại",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "горя́чий",
+     "vi": "nóng, nóng hổi",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "затрепета́ть",
+     "vi": "bắt đầu rung rinh, run rẩy lấp lánh",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "просну́ться",
+     "vi": "thức dậy, tỉnh giấc",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "встрепену́ться",
+     "vi": "rùng mình bừng tỉnh, giật mình thức giấc",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "весе́нний",
+     "vi": "(thuộc) mùa xuân",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "жа́жда",
+     "vi": "cơn khát; niềm khát khao",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "страсть",
+     "vi": "niềm say mê, đam mê",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "служи́ть",
+     "vi": "phục vụ, phụng sự",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "отовсю́ду",
+     "vi": "từ khắp mọi nơi",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "весе́лье",
+     "vi": "niềm vui, sự vui sướng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ве́ять",
+     "vi": "thổi nhè nhẹ, phảng phất (gió, hương)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "зреть",
+     "vi": "chín muồi, nảy nở (зре́ет — đang chín)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

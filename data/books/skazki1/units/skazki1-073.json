@@ -1,0 +1,403 @@
+{
+ "id": "skazki1-073",
+ "num": 73,
+ "title": "Купеческая дочь и служанка — Cô con gái phú thương và đứa hầu gái",
+ "vi": "Купеческая дочь и служанка — Cô con gái phú thương và đứa hầu gái",
+ "ru": "Купеческая дочь и служанка",
+ "icon": "👑",
+ "color": "#db2777",
+ "sectionPrefix": "skazki1-073-s",
+ "group": "Truyện № 101–140",
+ "sections": [
+  {
+   "id": "skazki1-073-s001",
+   "type": "story",
+   "num": 127,
+   "title": "№ 127 · Купеческая дочь и служанка — Cô con gái phú thương và đứa hầu gái",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Kiểu truyện «cô dâu bị tráo» (SUS/ATU 533): đứa hầu gái giống chủ như đúc khoét mắt cô dâu thật rồi chiếm ngôi hoàng hậu; mô-típ «mua lại đôi mắt bằng vương miện thêu» và chuỗi hoá thân kỳ ảo (nhà thuỷ tinh → khu vườn hoá đá → chú bé từ quả tim) tố cáo kẻ gian. Giữ nguyên hai vết in của nguồn: thiếu dấu ». đóng sau «моя служанка» ở đoạn kết và thiếu dấu phẩy sau «думает» trong «Верно, — думает — господа гуляли»."
+    },
+    {
+     "t": "para",
+     "text": "Жил купец пребогатый; у него одна дочь была хороша-расхороша! (Ngày xưa có một phú thương giàu nứt đố đổ vách; lão có một cô con gái đẹp ơi là đẹp!)"
+    },
+    {
+     "t": "para",
+     "text": "Развозит этот купец товар по разным губерниям, и приехал он в некое царство к царю, привез красный товар и стал ему отдавать. (Phú thương chở hàng đi bán khắp các tỉnh, một bận tới xứ nọ chầu vua, đem theo hàng tấm vải vóc tơ lụa dâng bán cho vua.)"
+    },
+    {
+     "t": "para",
+     "text": "Изымел с ним царь таково слово: «Что, — говорит, — я по себе невесты не найду?» Вот купец и стал говорить этому царю: «У меня есть дочка хороша; так хороша, что́ человек ни вздумает, то она узнает!» То царь часа часовать не стал, написал письмо и скричал своим господам жандармам: «Ступайте вы к этому купцу и отдайте это письмо купеческой дочери!» — а в письме написано: «Убирайся венчаться». (Vua mở lời với lão: «Sao, — vua nói, — chẳng lẽ ta không kiếm nổi cô dâu xứng với mình?» Phú thương liền thưa: «Tôi có đứa con gái đẹp lắm; đẹp đến nỗi hễ người ta nghĩ gì trong bụng là nó đoán ra ngay!» Vua chẳng chần chừ lấy một giờ, viết ngay bức thư rồi quát gọi các quan hiến binh: «Các ngươi đến nhà phú thương ấy, trao bức thư này cho con gái lão!» — mà trong thư viết: «Sửa soạn mà đi làm lễ cưới».)"
+    },
+    {
+     "t": "para",
+     "text": "Взяла купеческая дочь это письмо на руки, залилась слезами и стала убираться, и служанка с нею; и никто эту служанку не разгадает с купеческой дочерью: потому не разгадает, что обе на одно лицо. (Cô con gái phú thương cầm thư trên tay, nước mắt như mưa, rồi sửa soạn lên đường, đứa hầu gái đi theo; mà chẳng ai phân biệt nổi đứa hầu với cô chủ: không phân biệt nổi là vì hai người giống nhau như đúc.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот убрались они в одинакое платье и едут к царю венчаться. (Hai người vận áo xống giống hệt nhau, lên đường đến chỗ vua làm lễ cưới.)"
+    },
+    {
+     "t": "para",
+     "text": "Досадно стало этой служанке; сейчас и говорит: «Пойдем, по острову погуляем!» Пошли по острову; усыпила служанка купеческую дочь сонным зельем, вырезала у ней глаза и положила в карманчик. (Đứa hầu gái sinh lòng ghen tức; liền rủ: «Ta lên đảo dạo chơi một vòng đi!» Hai người dạo trên đảo; đứa hầu phục thuốc mê cho cô chủ ngủ thiếp đi, khoét lấy đôi mắt bỏ vào túi áo.)"
+    },
+    {
+     "t": "para",
+     "text": "Потом приходит к жандармам и говорит: «Господа жандармы! Уходилась на́ море моя служанка». (Rồi nó đến chỗ đám hiến binh thưa: «Thưa các quan hiến binh! Đứa hầu của tôi đã bỏ mạng ngoài biển rồi».)"
+    },
+    {
+     "t": "para",
+     "text": "А они в ответ: «Нам лишь бы ты была жива, а эта крестьянка вовсе не нужна!» Приехали к царю; сейчас стали венчаться и начали жить. (Họ đáp: «Miễn cô còn sống là được, chứ con bé nhà quê ấy cần gì tới!» Về đến chỗ vua; làm lễ cưới ngay rồi ăn ở với nhau.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот царь сам себе думает: «Должно быть, купец меня обманул! Это не купеческая дочь. (Vua bụng bảo dạ: «Hẳn là lão phú thương đã lừa ta! Đây đâu phải con gái phú thương.)"
+    },
+    {
+     "t": "para",
+     "text": "Отчего она так нехороша умом-разумом? Вовсе ничего не умеет делать!» (Sao đầu óc nó tối tăm vụng dại thế? Chẳng biết làm một việc gì ra hồn!»)"
+    },
+    {
+     "t": "para",
+     "text": "Живет он с нею; а эта купеческая дочь опомнилась от болезни, что ей служанка-то причинила: ничего она не видит, а только слышит. (Vua cứ thế chung sống với nó; còn cô con gái phú thương thì hồi tỉnh sau cơn đau mà đứa hầu gây ra: mắt chẳng nhìn thấy gì nữa, chỉ còn nghe được.)"
+    },
+    {
+     "t": "para",
+     "text": "И слышит она, что стерегет старичок скотину; стала ему говорить: «Где ты, дедушка, находишься?» — «Я живу в избушке». — «Прими и меня с собою». (Nàng nghe thấy có ông lão đang chăn giữ đàn gia súc; bèn cất tiếng hỏi: «Ông ơi, ông ở nơi nào thế?» — «Lão sống trong một túp lều nhỏ». — «Xin ông cho cháu nương nhờ với».)"
+    },
+    {
+     "t": "para",
+     "text": "Старичок принял ее. Она и говорит: «Дедушка, отгони скотину-то!» Он ее послушал — отогнал скотину. (Ông lão nhận nàng về. Nàng nói: «Ông ơi, ông lùa đàn gia súc đi chỗ khác đi!» Ông lão nghe lời nàng — lùa đàn gia súc đi.)"
+    },
+    {
+     "t": "para",
+     "text": "И посылает она этого старика в лавку: «Возьми ты бархату и шелку в долг». Старик пошел. (Rồi nàng nhờ ông lão ra cửa hàng: «Ông mua chịu cho cháu ít nhung với lụa». Ông lão đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Из богатых никто не дал в долг, а дали ему из бедной лавки. Принес он слепенькой бархату и шелку. (Hàng giàu chẳng ai chịu bán chịu, chỉ có một hàng nghèo bán cho. Ông đem nhung lụa về cho cô gái mù.)"
+    },
+    {
+     "t": "para",
+     "text": "Она ему говорит: «Дедушка, ложись спать и ухом не веди; а мне что день, что ночь — все равно!» И стала из бархату и шелку царскую корону шить; вышила такую хорошую корону, что глядеть — не наглядишься. (Nàng bảo: «Ông cứ đi ngủ, đừng bận tâm chi hết; chứ với cháu thì ngày hay đêm cũng thế cả thôi!» Rồi nàng lấy nhung lụa khâu một chiếc vương miện; thêu xong chiếc vương miện đẹp đến nỗi ngắm hoài không chán mắt.)"
+    },
+    {
+     "t": "para",
+     "text": "Поутру рано будит слепенькая старика и говорит: «Поди, отнеси к царю; ничего не проси, а проси только глаз; и что над тобой ни будут там делать, — ничего не бойся!» Вот он пришел во дворец, принес корону. (Sáng sớm tinh mơ, cô gái mù đánh thức ông lão dậy dặn: «Ông đem dâng vua; đừng xin gì hết, chỉ xin một con mắt thôi; mà ở đó người ta có làm gì ông, — cũng đừng sợ chi cả!» Thế là ông lão vào cung, đem theo vương miện.)"
+    },
+    {
+     "t": "para",
+     "text": "Тут все над этой короной сдивовались и стали у него торговать; а старичок стал у них просить глаз. (Ở đó ai nấy đều kinh ngạc trước chiếc vương miện, xúm vào trả giá; còn ông lão chỉ một mực xin con mắt.)"
+    },
+    {
+     "t": "para",
+     "text": "Сейчас донесли царю, что он глаз просит. (Người ta tâu ngay lên vua rằng ông lão đòi xin con mắt.)"
+    },
+    {
+     "t": "para",
+     "text": "Царь вышел, обрадовался короне и начал торговать ее, а тот и с него глаз просит. (Vua bước ra, mừng rỡ vì chiếc vương miện, ngỏ ý mua, nhưng với vua ông lão cũng chỉ xin con mắt.)"
+    },
+    {
+     "t": "para",
+     "text": "Ну, царь заругался и хотел уж его в острог сажать. (Vua nổi giận mắng nhiếc, đã toan tống ông lão vào ngục.)"
+    },
+    {
+     "t": "para",
+     "text": "Только что́ царь ни говорит, а он свое дело правит. (Nhưng vua nói gì mặc lòng, ông lão cứ khăng khăng giữ ý mình.)"
+    },
+    {
+     "t": "para",
+     "text": "Царь скричал своим жандармам: «Подите, у пленного солдата вырежьте глаз!» А жена его, царица, сейчас выскочила, вынимает глаз и дает его царю. (Vua quát đám hiến binh: «Đi, khoét lấy một con mắt của tên lính tù binh!» Nhưng vợ vua, tức hoàng hậu, vội chạy ra, móc ngay một con mắt đưa cho vua.)"
+    },
+    {
+     "t": "para",
+     "text": "Царь очень обрадовался: «Ах, как ты меня выручила, царевнушка!» — и отдал старику этот глаз. (Vua mừng lắm: «Chà, nàng gỡ cho ta một việc khó quá, hoàng hậu bé bỏng của ta!» — rồi trao con mắt ấy cho ông lão.)"
+    },
+    {
+     "t": "para",
+     "text": "Старик взял и пошел со дворца; пришел в свою избушку. (Ông lão cầm lấy rời khỏi cung; trở về túp lều của mình.)"
+    },
+    {
+     "t": "para",
+     "text": "Слепая спрашивает: «Взял ли ты, дедушка, мой глазок?» Он говорит: «Взял». (Cô gái mù hỏi: «Ông ơi, ông có lấy được con mắt của cháu không?» Ông đáp: «Lấy được rồi».)"
+    },
+    {
+     "t": "para",
+     "text": "Вот она приняла у него, вышла на зорю, поплевала на глазок, приставила — и стала видеть. (Nàng đỡ lấy, bước ra ngoài lúc rạng đông, nhổ nước bọt lên con mắt, áp vào hốc mắt — thế là nhìn thấy được.)"
+    },
+    {
+     "t": "para",
+     "text": "Посылает она старичка опять в лавки, дала ему денег, велела долг отдать за шелк и за бархат и еще приказала взять бархату и золота. (Nàng lại nhờ ông lão ra hàng, đưa tiền, dặn trả món nợ nhung lụa hôm trước, lại dặn mua thêm nhung và chỉ vàng.)"
+    },
+    {
+     "t": "para",
+     "text": "Взял он у бедного купца и принес купеческой дочери и бархату и золота. (Ông lão mua ở hàng người lái buôn nghèo, đem về cho cô con gái phú thương đủ cả nhung lẫn chỉ vàng.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот она села шить другую корону, сшила и посылает старичка к этому же царю, а сама приказывает: «Ничего не бери, только глаз проси; а станут тебя спрашивать, где ты взял, — скажи: мне бог дал!» (Nàng ngồi khâu chiếc vương miện thứ hai, khâu xong lại nhờ ông lão đem đến đúng ông vua nọ, và dặn đi dặn lại: «Đừng nhận gì hết, chỉ xin con mắt thôi; mà người ta có hỏi ông lấy đâu ra, — thì cứ nói: Trời ban cho lão!»)"
+    },
+    {
+     "t": "para",
+     "text": "Пришел старик во дворец; там все сдивовались; первая корона была хороша, а эта еще лучше. (Ông lão vào cung; ai nấy lại kinh ngạc; chiếc vương miện trước đã đẹp, chiếc này còn đẹp hơn.)"
+    },
+    {
+     "t": "para",
+     "text": "И говорит царь: «Что ни давать, а купить надо!» — «Дай мне глаз», — просит старик. (Vua phán: «Giá nào cũng phải mua cho bằng được!» — «Xin cho lão một con mắt», — ông lão nài.)"
+    },
+    {
+     "t": "para",
+     "text": "Царь сейчас посылает вырезать глаз у пленного, а супруга царева тут же и вынимает другой глазок. (Vua liền sai đi khoét mắt tên tù binh, nhưng vợ vua đã móc ngay con mắt thứ hai ra đưa.)"
+    },
+    {
+     "t": "para",
+     "text": "Царь очень обрадовался, благодарит ее: «Ах, как ты меня, матушка, выручила этим глазком!» Спрашивает царь старичка: «Где ты, старичок, берешь эти короны?» — «Мне бог дал!» — сказал ему старик и пошел со дворца. (Vua mừng lắm, cảm tạ nàng: «Chà, ái khanh, nàng lại gỡ cho ta nhờ con mắt này!» Vua hỏi ông lão: «Này lão, lão lấy đâu ra những chiếc vương miện này?» — «Trời ban cho lão!» — ông lão đáp rồi rời khỏi cung.)"
+    },
+    {
+     "t": "para",
+     "text": "Приходит в избушку, отдает глазок слепенькой. (Về đến lều, ông trao con mắt cho cô gái mù.)"
+    },
+    {
+     "t": "para",
+     "text": "Она вышла опять на зорю, поплевала глазок, приставила его — и стала видеть обоими глазами. (Nàng lại bước ra lúc rạng đông, nhổ nước bọt lên con mắt, áp vào — thế là nhìn được cả hai mắt.)"
+    },
+    {
+     "t": "para",
+     "text": "Ночь спала в избушке, а то вдруг очутилась в стеклянном дому, и завела она гулянья. (Đêm nàng ngủ trong túp lều, thế mà bỗng thấy mình ở trong một toà nhà thuỷ tinh, nàng bèn mở hội hè yến tiệc.)"
+    },
+    {
+     "t": "para",
+     "text": "Едет царь посмотреть, что такое за диво, кто такой построил эти хоромы? (Vua đánh xe đến xem điềm lạ gì đây, ai mà dựng nổi toà lâu đài này?)"
+    },
+    {
+     "t": "para",
+     "text": "Въехал во двор, и так она ему рада, сейчас его принимает и за столик сажает. (Vua vào sân, nàng mừng đón vồn vã, tiếp rước ngay và mời ngồi vào bàn tiệc.)"
+    },
+    {
+     "t": "para",
+     "text": "Попировал там, уезжает и зовет ее к себе в гости. (Yến ẩm ở đó xong, vua ra về và mời nàng đến chơi nhà mình.)"
+    },
+    {
+     "t": "para",
+     "text": "Вернулся к себе в дом и сказывает своей царице: «Ах, матушка, какой в этом месте дом и какая в нем девица! (Về đến cung, vua kể với hoàng hậu: «Chà, ái khanh, ở chốn ấy có toà nhà lạ lùng làm sao, trong nhà lại có một trang thiếu nữ!)"
+    },
+    {
+     "t": "para",
+     "text": "Кто что ни вздумает, то она узнает!» Царица догадалась и говорит сама себе: «Это, верно, она, которой я глаза вырезала!» (Ai nghĩ gì trong bụng là nàng ấy đoán ra hết!» Hoàng hậu chột dạ, tự nhủ: «Đích thị là con bé bị ta khoét mắt rồi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Вот царь опять едет к ней в гости, а царице очень досадно. (Vua lại đánh xe đến chơi nhà nàng, hoàng hậu tức lộn ruột.)"
+    },
+    {
+     "t": "para",
+     "text": "Приехал царь, попировал и зовет ее в гости. (Vua đến, yến ẩm xong lại mời nàng sang chơi.)"
+    },
+    {
+     "t": "para",
+     "text": "Она стала убираться и говорит старичку: «Прощай! Вот тебе сундук денег: до дна его не добирай — всегда будет полон. (Nàng sửa soạn lên đường, nói với ông lão: «Vĩnh biệt ông! Đây, cháu biếu ông hòm tiền này: ông đừng lấy đến tận đáy — nó sẽ đầy mãi không vơi.)"
+    },
+    {
+     "t": "para",
+     "text": "Ляжешь ты спать в этом стеклянном дому, а встанешь в избушке своей. (Đêm nay ông ngủ trong nhà thuỷ tinh này, nhưng sáng dậy ông sẽ thấy mình trong túp lều cũ của ông.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот я в гости поеду; меня вживе не будет — убьют и в мелкие части изрубят; ты встань поутру, сделай гробок, собери мои кусочки и похорони». (Cháu đi chuyến này; sẽ chẳng còn sống mà về — người ta sẽ giết cháu, băm thành trăm mảnh nhỏ; sáng mai ông dậy, đóng cho cháu cỗ quan tài nhỏ, nhặt các mảnh thân cháu mà chôn cất».)"
+    },
+    {
+     "t": "para",
+     "text": "Старичок заплакал об ней. (Ông lão khóc thương nàng.)"
+    },
+    {
+     "t": "para",
+     "text": "Тем же часом жандармы приехали, посадили ее и повезли. (Vừa lúc ấy hiến binh đánh xe đến, đưa nàng lên xe chở đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Привозят ее в гости, а царица на нее и не смотрит — сейчас застрелила бы ее. (Họ đưa nàng đến làm khách, nhưng hoàng hậu chẳng thèm nhìn mặt — chỉ hận không bắn chết nàng ngay được.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот и вышла царица на двор и говорит жандармам: «Как вы эту девку домой повезете, так тут же иссеките ее в мясные части и выньте у ней сердце да привезите ко мне!» Повезли они купеческу дочь домой и разговаривают с ней быстро; а она уж знает, что они хочут делать, и говорит им: «Секите ж меня скорее!» Они иссекли ее, вынули у ней сердце, а самою в назём закопали и приехали во дворец. (Hoàng hậu ra sân dặn đám hiến binh: «Khi các ngươi chở con bé ấy về, thì lập tức băm nó ra từng khúc thịt, moi lấy quả tim đem về cho ta!» Đám hiến binh chở cô con gái phú thương về, dọc đường nói năng xẵng xớm với nàng; nhưng nàng đã biết tỏng họ định làm gì, bèn bảo: «Thì các người chém ta nhanh lên!» Họ băm nàng ra, moi quả tim, còn thân xác thì vùi xuống đống phân chuồng, rồi quay về cung.)"
+    },
+    {
+     "t": "para",
+     "text": "Царица вышла, взяла сердце, скатала его в яйцо и положила в карман. (Hoàng hậu bước ra, cầm quả tim, vê tròn thành một quả trứng rồi bỏ vào túi.)"
+    },
+    {
+     "t": "para",
+     "text": "Старичок спал в стеклянном дому, а встал в избушке и залился слезами. (Ông lão ngủ trong nhà thuỷ tinh, sáng dậy thấy mình trong túp lều, nước mắt ròng ròng.)"
+    },
+    {
+     "t": "para",
+     "text": "Плакал-плакал, а дело надо исполнить. (Khóc mãi khóc mãi, nhưng việc đã dặn vẫn phải làm.)"
+    },
+    {
+     "t": "para",
+     "text": "Сделал гроб и пошел искать ее; нашел в навозе, разрыл, собрал все части, положил их в гроб и похоронил у себя. (Ông đóng cỗ quan tài rồi đi tìm nàng; tìm thấy trong đống phân, bới lên, nhặt đủ các mảnh thân, đặt vào quan tài đem về chôn bên lều mình.)"
+    },
+    {
+     "t": "para",
+     "text": "А царь не знает никакого дела, едет к купеческой дочери в гости. (Còn vua chẳng hay biết chuyện gì, đánh xe đến chơi nhà cô con gái phú thương.)"
+    },
+    {
+     "t": "para",
+     "text": "Приехал на то место — нет ни дома, нет ни девицы, а только где она схоронена, там над ней сад вырос. (Đến nơi — nhà chẳng còn, người cũng chẳng thấy, chỉ nơi nàng yên nghỉ mọc lên một khu vườn.)"
+    },
+    {
+     "t": "para",
+     "text": "Вернулся во дворец и стал царице рассказывать: «Ездил-ездил, не нашел ни дома, ни девицы, а только один сад!» Вот царица услыхала об этом; вышла на двор и говорит жандармам: «Ступайте вы, посеките на том месте сад!» Приехали они к саду и стали его сечь, а он весь окаменел. (Vua về cung kể với hoàng hậu: «Ta đi mãi đi mãi, chẳng thấy nhà, chẳng thấy người, chỉ thấy mỗi một khu vườn!» Hoàng hậu nghe vậy; ra sân bảo hiến binh: «Các ngươi đi, chặt phăng khu vườn chỗ ấy cho ta!» Họ kéo đến chặt vườn, nhưng cả khu vườn đã hoá đá.)"
+    },
+    {
+     "t": "para",
+     "text": "Не терпится царю — хочется сад посмотреть; вот и едет глядеть его. (Vua nóng lòng không nhịn được — muốn xem khu vườn; bèn đánh xe đi xem.)"
+    },
+    {
+     "t": "para",
+     "text": "Приехал в сад и увидал в нем мальчика — и какой хорошенький мальчик! (Vào vườn, vua thấy một chú bé — chú bé mới kháu khỉnh làm sao!)"
+    },
+    {
+     "t": "para",
+     "text": "«Верно, — думает — господа гуляли да потеряли». («Hẳn là, — vua nghĩ — nhà quyền quý nào đi dạo rồi bỏ quên con đây».)"
+    },
+    {
+     "t": "para",
+     "text": "Взял его во дворец, привез в свои палаты и говорит царице: «Смотри, матушка, не расквили его». (Vua đem chú bé về cung, đưa vào điện của mình rồi dặn hoàng hậu: «Này ái khanh, liệu mà đừng làm nó khóc đấy».)"
+    },
+    {
+     "t": "para",
+     "text": "А мальчик на то время так раскричался, что ничем его и не забавят: и так и сяк, а он знай кричит! (Nhưng chú bé lúc ấy đã khóc ré lên, dỗ kiểu gì cũng không nín: dỗ xuôi dỗ ngược, nó cứ một mực gào khóc!)"
+    },
+    {
+     "t": "para",
+     "text": "Царица вынула из карманчика яичко, скатанное из сердца, и дала ему; он и перестал кричать, зачал бегать по комнатам. (Hoàng hậu móc từ túi áo quả trứng vê từ quả tim đưa cho nó; chú bé nín bặt, bắt đầu chạy tung tăng khắp các phòng.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ах, матушка, — говорит царь царице, — как ты его утешила!» («Chà, ái khanh, — vua nói với hoàng hậu, — nàng dỗ nó tài thật!»)"
+    },
+    {
+     "t": "para",
+     "text": "Мальчик побег на двор, а царь за ним; он на улицу — и царь на улицу, он в поля — и царь в поля, он в сад — и царь в сад. (Chú bé chạy vụt ra sân, vua đuổi theo; nó ra phố — vua ra phố, nó ra đồng — vua ra đồng, nó vào vườn — vua vào vườn.)"
+    },
+    {
+     "t": "para",
+     "text": "Увидал там этот царь девицу и очень обрадовался. (Trong vườn vua thấy người thiếu nữ, mừng rỡ vô cùng.)"
+    },
+    {
+     "t": "para",
+     "text": "Девица и говорит ему: «Я твоя невеста, купеческая дочь, а царица твоя — моя служанка» Вот и приехали они во дворец. (Thiếu nữ nói với vua: «Thiếp mới là vợ chưa cưới của chàng, con gái phú thương, còn hoàng hậu của chàng — chính là đứa hầu của thiếp» Thế rồi cả hai cùng về cung.)"
+    },
+    {
+     "t": "para",
+     "text": "Царица упала ей в ноги: «Прости меня!» — «А ты меня не прощала: один раз глаза вырезала, а в другой велела в мелкие части рассечь!» Царь и говорит: «Жандармы! Вырежьте же теперь и царице глаза и пустите ее в поля». (Hoàng hậu sụp xuống chân nàng: «Xin tha cho tôi!» — «Thế ngươi có tha cho ta đâu: một lần khoét mắt ta, lần nữa lại sai băm ta thành trăm mảnh!» Vua bèn phán: «Hiến binh đâu! Giờ thì khoét mắt cả mụ hoàng hậu này, thả mụ ra ngoài đồng».)"
+    },
+    {
+     "t": "para",
+     "text": "Вырезали ей глаза, привязали к коням и пустили в поля. Размыкали ее кони по чистому полю. (Người ta khoét mắt mụ, trói mụ vào mình ngựa rồi thả ra đồng. Bầy ngựa xé tan xác mụ khắp cánh đồng quang.)"
+    },
+    {
+     "t": "para",
+     "text": "А царь с младой царицею стали жить да поживать, добра наживать. Царь ею завсегда любовался и в золоте водил. (Còn vua với hoàng hậu trẻ từ đấy sống yên vui, ăn nên làm ra. Vua lúc nào cũng say ngắm nàng, cho nàng ăn vận toàn vàng ngọc.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "красный товар",
+     "vi": "hàng tấm: vải vóc, tơ lụa (nghĩa cổ của «красный» = đẹp, quý)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "изыметь",
+     "vi": "(từ cổ) có, cất (изымел слово — cất lời, ngỏ lời)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "часа часовать не стал",
+     "vi": "chẳng chần chừ lấy một giờ (quán ngữ dân gian)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "скричать",
+     "vi": "quát gọi, lớn tiếng gọi (dạng dân dã của крикнуть)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "жандарм",
+     "vi": "hiến binh",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "одинакий",
+     "vi": "giống hệt nhau (dạng cổ của одинаковый)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "сонное зелье",
+     "vi": "thuốc mê (зелье: nước thuốc, thường có phép)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "уходиться",
+     "vi": "(nghĩa cổ ở đây) bỏ mạng, chết",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "венчаться",
+     "vi": "làm lễ cưới (lễ đội miện trong nhà thờ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "вживе",
+     "vi": "còn sống (từ cổ; меня вживе не будет — tôi sẽ không còn sống)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "назём",
+     "vi": "phân chuồng (= навоз)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "расквилить",
+     "vi": "làm cho khóc oà lên (từ hiếm, phương ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "знай",
+     "vi": "(tiểu từ dân dã) cứ một mực (знай кричит — cứ gào khóc mãi)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "побечь",
+     "vi": "chạy đi (dạng cổ của побежать; побег = побежал)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "размыкать",
+     "vi": "xé tan, kéo banh xác (hình phạt cổ: ngựa kéo xé xác khắp đồng)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

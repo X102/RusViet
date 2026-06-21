@@ -1,0 +1,160 @@
+{
+ "id": "vhnga-035",
+ "num": 35,
+ "title": "«Птичка» — Cánh chim non (Zhukovsky)",
+ "vi": "«Птичка» — Cánh chim non (Zhukovsky)",
+ "ru": "Птичка",
+ "icon": "🐤",
+ "color": "#15803d",
+ "sectionPrefix": "vhnga-035-s",
+ "sections": [
+  {
+   "id": "vhnga-035-s001",
+   "type": "story",
+   "num": 1,
+   "title": "«Птичка» — “Cánh chim non” (V. Zhukovsky, 1851)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Bài thơ «Пти́чка» (Cánh chim non) của Vasily Zhukovsky (Васи́лий Андре́евич Жуко́вский, 1783–1852) — người khai sáng chủ nghĩa lãng mạn Nga, dịch giả bậc thầy («Лесно́й царь» của Goethe, «Одиссе́я» của Homer), thầy và bạn vong niên của Pushkin (sau khi nghe «Руслан и Людмила», ông tặng trò bức chân dung đề dòng chữ nổi tiếng «Победи́телю-ученику́ от побеждённого учи́теля» — “Tặng người trò chiến thắng, từ người thầy chiến bại”, 1820), và là thầy dạy của hoàng thái tử — sau này là Sa hoàng Aleksandr II. «Птичка» viết năm 1851, thuộc chùm thơ cuối đời ông làm cho hai con nhỏ Pavel và Aleksandra (cùng «Ко́тик и ко́злик», «Жа́воронок»), một năm trước khi nhà thơ qua đời; nay là bài thơ nhập môn kinh điển của trẻ em Nga. Mười hai câu thơ ngắn 4–6 âm tiết, nhịp như đồng dao, điệp từ пти́чка/пти́чки năm lần: khổ đầu ba động từ thì HIỆN TẠI (лета́ет — игра́ет — поёт: đang bay, đang giỡn, đang hót) đột ngột đổ sang thì QUÁ KHỨ (лета́ла — игра́ла) rồi vỡ oà «Пти́чки уж нет!» — chim không còn nữa; khổ sau là tiếng gọi tha thiết (Где же ты?) và lời tự an ủi: chim đang ở miền xa, kết chiếc tổ nhỏ, hót khúc ca của riêng mình. Giản dị mà man mác — điều đẹp đẽ rồi bay đi, chỉ còn trong hoài niệm. Điểm ngữ pháp đáng học: cặp thì hiện tại/quá khứ song song (лета́ет/лета́ла); SỞ HỮU CÁCH PHỦ ĐỊNH với нет («пти́чки уж нет» — không còn chim); вьёшь/поёшь — ngôi 2 số ít; chuỗi từ giảm nhẹ-âu yếm đặc trưng tiếng Nga: пти́чка (← пти́ца), певи́чка (← певи́ца), гнёздышко (← гнездо́); лета́ть — động từ chuyển động ĐA HƯỚNG (bay lượn quanh quẩn), đối lập лете́ть (bay một hướng). Nguyên văn theo Собрание сочинений в 4 т. (ГИХЛ, 1959, т. 1); chuẩn hoá ё: поёт, гнёздышко, вьёшь, поёшь."
+    },
+    {
+     "t": "para",
+     "text": "Пти́чка лета́ет, (Chim non bay lượn,)"
+    },
+    {
+     "t": "para",
+     "text": "Пти́чка игра́ет, (Chim non nô giỡn,)"
+    },
+    {
+     "t": "para",
+     "text": "Пти́чка поёт; (Chim non ca hót;)"
+    },
+    {
+     "t": "para",
+     "text": "Пти́чка лета́ла, (Chim non từng bay lượn,)"
+    },
+    {
+     "t": "para",
+     "text": "Пти́чка игра́ла, (Chim non từng nô giỡn,)"
+    },
+    {
+     "t": "para",
+     "text": "Пти́чки уж нет! (Chim non nay đã không còn!)"
+    },
+    {
+     "t": "para",
+     "text": "Где же ты, пти́чка? (Em ở đâu rồi, chim nhỏ?)"
+    },
+    {
+     "t": "para",
+     "text": "Где ты, певи́чка? (Em ở đâu, nàng ca sĩ bé bỏng?)"
+    },
+    {
+     "t": "para",
+     "text": "В да́льнем краю́ (Nơi miền xa thẳm)"
+    },
+    {
+     "t": "para",
+     "text": "Гнёздышко вьёшь ты; (Em đang kết chiếc tổ xinh;)"
+    },
+    {
+     "t": "para",
+     "text": "Там и поёшь ты (Và chính nơi ấy em cất tiếng hót)"
+    },
+    {
+     "t": "para",
+     "text": "Пе́сню свою́. (Khúc ca của riêng mình.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó"
+    },
+    {
+     "t": "vocab",
+     "ru": "пти́чка",
+     "vi": "(giảm nhẹ, âu yếm của пти́ца — chim) chim nhỏ, cánh chim non",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "лета́ть",
+     "vi": "bay, bay lượn (động từ chuyển động ĐA HƯỚNG; đối lập лете́ть — bay một hướng)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "игра́ть",
+     "vi": "chơi, nô đùa, nô giỡn",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "петь",
+     "vi": "hót; hát (поёт — nó hót; поёшь — em hót)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "уж",
+     "vi": "(tiểu từ khẩu ngữ, = уже́) đã, rồi («пти́чки уж нет» — chim đã không còn)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "нет (кого́/чего́)",
+     "vi": "không có, không còn (+ sở hữu cách phủ định: пти́чки нет — không còn chim)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "где же",
+     "vi": "đâu rồi, ở đâu mới được chứ (же — tiểu từ nhấn mạnh, tỏ ý sốt ruột, tha thiết)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "певи́чка",
+     "vi": "(giảm nhẹ, âu yếm của певи́ца — nữ ca sĩ) “nàng ca sĩ” bé bỏng — gọi yêu chú chim hót",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "да́льний",
+     "vi": "xa, xa xôi (в да́льнем краю́ — nơi miền xa)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "край",
+     "vi": "miền, xứ sở, phương trời (nghĩa khác: rìa, mép, bờ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "гнёздышко",
+     "vi": "(giảm nhẹ của гнездо́ — tổ) chiếc tổ nhỏ xinh",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "вить",
+     "vi": "bện, kết, đan (вить гнездо́ — xây tổ; вьёшь — em đang kết)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "там",
+     "vi": "ở đó, nơi ấy",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "пе́сня",
+     "vi": "bài ca, khúc hát (пе́сню свою́ — khúc ca của riêng mình)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

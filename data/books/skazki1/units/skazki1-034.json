@@ -1,0 +1,193 @@
+{
+ "id": "skazki1-034",
+ "num": 34,
+ "title": "Медведь и петух — Con gấu và con gà trống",
+ "vi": "Медведь и петух — Con gấu và con gà trống",
+ "ru": "Медведь и петух",
+ "icon": "🐔",
+ "color": "#b91c1c",
+ "sectionPrefix": "skazki1-034-s",
+ "group": "Truyện № 61–100",
+ "sections": [
+  {
+   "id": "skazki1-034-s001",
+   "type": "story",
+   "num": 65,
+   "title": "№ 65 · Медведь и петух — Con gấu và con gà trống",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Truyện loài vật ngắn, pha mô-típ «nhà trú đông của muông thú» (ATU 130, vừa gặp ở các unit trước) với mô-típ «thú dữ khiếp con vật trốn nhà». Một thằng con ngốc đòi cha cưới vợ, doạ đập lò sưởi; mỗi lần cha định bán một con vật (bò đực → cừu đực → gà trống) để lấy tiền cưới thì con vật ấy nghe lỏm được liền trốn tót vào rừng. Ba con chung nhau dựng một căn nhà gỗ; gấu mò đến định ăn thịt thì bị tiếng quát nạt hùng hổ của gà trống doạ cho khiếp vía, bỏ chạy đến chết. Cuối cùng thằng ngốc lột da gấu đem bán, lấy tiền cưới vợ — kết cục hài hước, gọn lỏn rất đặc trưng lối kể dân dã. Tiếng gà trống «Куда-куда-куда!» vừa là tiếng gà cục tác, vừa chơi chữ với «куда» (đi đâu / cho đây)."
+    },
+    {
+     "t": "para",
+     "text": "Был у старика сын дурак. (Ngày xưa có một ông lão sinh được đứa con trai ngốc nghếch.)"
+    },
+    {
+     "t": "para",
+     "text": "Просит дурак, чтобы отец его женил: «А если не женишь — всю печку разломаю!» (Thằng ngốc nằng nặc đòi cha cưới vợ cho mình: «Cha mà không cưới vợ cho con — con đập tan cả cái lò sưởi cho mà xem!»)"
+    },
+    {
+     "t": "para",
+     "text": "«Как я тебя женю? У нас денег нету». («Cha lấy gì mà cưới vợ cho con? Nhà ta làm gì có tiền.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Денег нету, да есть вол; продай его на бойню». («Không có tiền thì có con bò đực đấy; cha đem bán nó cho lò mổ đi.»)"
+    },
+    {
+     "t": "para",
+     "text": "Вол услыхал, в лес убежал. (Con bò nghe lỏm được, liền chạy tót vào rừng.)"
+    },
+    {
+     "t": "para",
+     "text": "Дурак опять пристает к отцу: «Жени меня, не то всю печку разломаю!» (Thằng ngốc lại bám riết lấy cha vòi vĩnh: «Cưới vợ cho con đi, không thì con đập tan cả lò sưởi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Отец говорит: «Рад бы женить, да денег нету». (Người cha bảo: «Cha cũng muốn cưới vợ cho con lắm chứ, nhưng làm gì có tiền.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Денег нету, да есть баран; продай его на бойню». («Không có tiền thì có con cừu đực đấy; cha đem bán nó cho lò mổ đi.»)"
+    },
+    {
+     "t": "para",
+     "text": "Баран услыхал, в лес убежал. (Con cừu nghe lỏm được, cũng chạy tót vào rừng.)"
+    },
+    {
+     "t": "para",
+     "text": "Дурак от отца не отходит: «жени меня», да и только. (Thằng ngốc cứ bám riết không rời cha, chỉ một mực: «cưới vợ cho con», thế thôi.)"
+    },
+    {
+     "t": "para",
+     "text": "«Я же тебе говорю, что денег нет!» («Cha đã bảo con là không có tiền rồi mà!»)"
+    },
+    {
+     "t": "para",
+     "text": "«Денег нету, да есть петух; заколи его, испеки пирог и продай». («Không có tiền thì có con gà trống đấy; cha chọc tiết nó, nướng bánh rồi đem bán đi.»)"
+    },
+    {
+     "t": "para",
+     "text": "Петух услыхал, в лес улетал. (Con gà trống nghe lỏm được, liền bay vào rừng.)"
+    },
+    {
+     "t": "para",
+     "text": "Вол, баран и петух сошлись все вместе и выстроили себе в лесу избушку. (Bò đực, cừu đực và gà trống gặp nhau, tụ lại một chỗ rồi cùng dựng cho mình một căn nhà gỗ nhỏ trong rừng.)"
+    },
+    {
+     "t": "para",
+     "text": "Медведь узнал про то, захотел их съесть и пришел к избушке. (Con gấu hay được chuyện ấy, thèm xơi thịt chúng, bèn mò đến căn nhà gỗ.)"
+    },
+    {
+     "t": "para",
+     "text": "Петух увидал его и запрыгал по насести; машет крыльями и кричит: (Gà trống trông thấy nó, liền nhảy loi choi trên sào đậu; vỗ cánh phành phạch mà quang quác:)"
+    },
+    {
+     "t": "para",
+     "text": "«Куда-куда-куда! Да подайте мне его сюда; я ногами стопчу, топором срублю! И ножишко здесь, и гужишко здесь, и зарежем здесь, и повесим здесь!» («Cục-ta-cục-tác! Mau lôi nó lại đây cho ta nào; ta sẽ giẫm nát nó dưới chân, bổ chết nó bằng rìu! Dao đã sẵn đây, thừng đã sẵn đây, cắt tiết nó ngay đây, treo cổ nó ngay đây!»)"
+    },
+    {
+     "t": "para",
+     "text": "Медведь испугался и пустился назад, бежал-бежал, от страху упал и умер. (Con gấu hoảng hồn, ba chân bốn cẳng quay đầu bỏ chạy, chạy mãi chạy mãi, vì khiếp sợ quá mà ngã lăn ra chết.)"
+    },
+    {
+     "t": "para",
+     "text": "Дурак пошел в лес, нашел медведя, снял с него шкуру и продал; на эти деньги и женили дурака. (Thằng ngốc vào rừng, tìm thấy xác gấu, lột lấy bộ da đem bán; nhờ món tiền ấy mà người ta cưới được vợ cho thằng ngốc.)"
+    },
+    {
+     "t": "para",
+     "text": "Вол, баран и петух из лесу домой пришли. (Còn bò đực, cừu đực và gà trống thì từ rừng kéo nhau trở về nhà.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "дурак",
+     "vi": "thằng ngốc, kẻ khờ (nhân vật «con ngốc» quen thuộc trong cổ tích Nga)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "женить",
+     "vi": "cưới vợ cho, dựng vợ cho (con trai)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "печка",
+     "vi": "lò sưởi kiêm bếp lò xây trong nhà gỗ Nga (= печь)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "разломать",
+     "vi": "đập vỡ tan, phá tung ra từng mảnh",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "вол",
+     "vi": "bò đực (thường đã thiến) dùng để kéo cày, kéo xe",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "бойня (на бойню)",
+     "vi": "lò mổ; «продать на бойню» = bán cho lò mổ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "услыхать",
+     "vi": "nghe thấy, nghe lỏm (khẩu ngữ/cổ = услышать)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "приставать (пристаёт)",
+     "vi": "bám riết, nằng nặc vòi vĩnh, quấy rầy đòi cho bằng được",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "заколоть",
+     "vi": "chọc tiết, giết (bằng cách đâm)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "пирог",
+     "vi": "bánh nướng có nhân (mặn hoặc ngọt) của Nga",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "насест (по насести)",
+     "vi": "sào/cây đậu cho gà ngủ đêm",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ножишко",
+     "vi": "con dao (dạng nhỏ - khinh của нож, hậu tố -ишко)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "гужишко",
+     "vi": "sợi dây da/thừng buộc ách (dạng nhỏ của гуж; ở đây ngụ ý dây để trói, treo)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "снять шкуру",
+     "vi": "lột da (thú); шкура = bộ da, tấm da thú",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

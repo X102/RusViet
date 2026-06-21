@@ -1,0 +1,403 @@
+{
+ "id": "skazki1-046",
+ "num": 46,
+ "title": "Терем мухи — Tòa lầu của ruồi",
+ "vi": "Терем мухи — Tòa lầu của ruồi",
+ "ru": "Терем мухи",
+ "icon": "🏚️",
+ "color": "#65a30d",
+ "sectionPrefix": "skazki1-046-s",
+ "group": "Truyện № 61–100",
+ "sections": [
+  {
+   "id": "skazki1-046-s001",
+   "type": "story",
+   "num": 82,
+   "title": "№ 82 · Терем мухи — Tòa lầu của ruồi",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "«Терем мухи» (Tòa lầu của ruồi) là một trong những truyện kể tích luỹ (cumulative tale) được trẻ em Nga yêu thích nhất — họ hàng gần của «Теремок». Các con vật lần lượt kéo đến xin ở trong «tòa lầu» do con ruồi dựng nên, mỗi lần lại đọc to cả dây chuyền tên những kẻ đã vào trước, nên câu chuyện cứ dài thêm cho tới khi con gấu vụng về đến sau cùng đè bẹp tất cả. Sức hấp dẫn nằm ở những biệt danh gieo vần nghịch ngợm (муха-горюха, вошь-поползуха, блоха-попрядуха…), bản dịch cố giữ lối chơi chữ ấy. Đây là dị bản thứ nhất (№82): tòa lầu là một ngôi nhà thật, kẻ phá đám cuối cùng tự xưng «тяпыш-ляпыш, всем подгнётыш» (Đè-bẹp Nghiến-nát)."
+    },
+    {
+     "t": "para",
+     "text": "Построила муха терем; пришла вошь-поползуха: «Кто, кто, кто в терему? Кто, кто, кто в высоко́м?» — «Муха-горюха; а ты кто?» — «Я вошь-поползуха». (Ruồi dựng nên một tòa lầu; rận-bò-lê bò tới: «Ai, ai, ai trong lầu? Ai, ai, ai trên gác cao?» — «Ruồi-sầu-muộn đây; còn ngươi là ai?» — «Ta là rận-bò-lê.»)"
+    },
+    {
+     "t": "para",
+     "text": "Пришла блоха-попрядуха: «Кто, кто, кто в терему? Кто, кто, кто в высоко́м?» — «Я, муха-горюха, да вошь-поползуха». (Bọ-chét-nhảy-tách nhảy tới: «Ai, ai, ai trong lầu? Ai, ai, ai trên gác cao?» — «Có ta ruồi-sầu-muộn với rận-bò-lê.»)"
+    },
+    {
+     "t": "para",
+     "text": "Пришел комар долгоногий: «Кто, кто, кто в терему? Кто, кто, кто в высоко́м?» — «Я, муха-горюха, я, вошь-поползуха, я, блоха-попрядуха». (Muỗi cẳng-dài bay tới: «Ai, ai, ai trong lầu? Ai, ai, ai trên gác cao?» — «Có ta ruồi-sầu-muộn, ta rận-bò-lê, ta bọ-chét-nhảy-tách.»)"
+    },
+    {
+     "t": "para",
+     "text": "Пришла мышечка-тютюрю́шечка: «Кто, кто, кто в терему? Кто, кто, кто в высоко́м?» — «Я, муха-горюха, я, вошь-поползуха, я, блоха-попрядуха, я комар долгоногий». (Chuột-nhắt-rúc-rích chạy tới: «Ai, ai, ai trong lầu? Ai, ai, ai trên gác cao?» — «Có ta ruồi-sầu-muộn, ta rận-bò-lê, ta bọ-chét-nhảy-tách, ta muỗi cẳng-dài.»)"
+    },
+    {
+     "t": "para",
+     "text": "Пришла ящерка-шероше́рочка: «Кто, кто, кто в терему? Кто, кто, кто в высоко́м?» — «Я, муха-горюха, я, вошь-поползуха, я, блоха-попрядуха, я, комар долгоногий, я, мышечка-тютюрю́шечка». (Thằn-lằn-loạt-soạt bò tới: «Ai, ai, ai trong lầu? Ai, ai, ai trên gác cao?» — «Có ta ruồi-sầu-muộn, ta rận-bò-lê, ta bọ-chét-nhảy-tách, ta muỗi cẳng-dài, ta chuột-nhắt-rúc-rích.»)"
+    },
+    {
+     "t": "para",
+     "text": "Пришла лиса Патрикеевна: «Кто, кто, кто в терему? Кто, кто, кто в высоко́м?» — «Я, муха-горюха, я, вошь-поползуха, я, блоха-попрядуха, я, комар долгоногий, я, мышечка-тютюрю́шечка, я, ящерка-шероше́рочка». (Cáo Patrikeevna đến: «Ai, ai, ai trong lầu? Ai, ai, ai trên gác cao?» — «Có ta ruồi-sầu-muộn, ta rận-bò-lê, ta bọ-chét-nhảy-tách, ta muỗi cẳng-dài, ta chuột-nhắt-rúc-rích, ta thằn-lằn-loạt-soạt.»)"
+    },
+    {
+     "t": "para",
+     "text": "Пришел заюшко из-под ку́стышка: «Кто, кто, кто в терему? Кто, кто, кто в высоко́м?» — «Я, муха-горюха, я, вошь-поползуха, я, блоха-попрядуха, я, комар долгоногий, я, мышечка-тютюрю́шечка, я, ящерка-шероше́рочка, я, лиса Патрикеевна». (Thỏ-con-nấp-bụi tới: «Ai, ai, ai trong lầu? Ai, ai, ai trên gác cao?» — «Có ta ruồi-sầu-muộn, ta rận-bò-lê, ta bọ-chét-nhảy-tách, ta muỗi cẳng-dài, ta chuột-nhắt-rúc-rích, ta thằn-lằn-loạt-soạt, ta cáo Patrikeevna.»)"
+    },
+    {
+     "t": "para",
+     "text": "Пришел волчище серое хвостище: «Кто, кто, кто в терему? Кто, кто, кто в высоко́м?» — «Я, муха-горюха, я, вошь-поползуха, я, блоха-попрядуха, я, комар долгоногий, я, мышечка-тютюрю́шечка, я, ящерка-шероше́рочка, я, лиса Патрикеевна, я, заюшко из-под ку́стышка». (Sói-bự đuôi-xám-to đến: «Ai, ai, ai trong lầu? Ai, ai, ai trên gác cao?» — «Có ta ruồi-sầu-muộn, ta rận-bò-lê, ta bọ-chét-nhảy-tách, ta muỗi cẳng-dài, ta chuột-nhắt-rúc-rích, ta thằn-lằn-loạt-soạt, ta cáo Patrikeevna, ta thỏ-con-nấp-bụi.»)"
+    },
+    {
+     "t": "para",
+     "text": "Пришел медведь толстоногий: «Кто, кто, кто в терему? Кто, кто, кто в высоко́м?» — «Я, муха-горюха, я, вошь-поползуха, я, блоха-попрядуха, я, комар долгоногий, я, мышечка-тютюрю́шечка, я, ящерка-шероше́рочка, я, лиса Патрикеевна, я, заюшка из-под ку́стышка, я, волчище серое хвостище». (Gấu chân-mập tới: «Ai, ai, ai trong lầu? Ai, ai, ai trên gác cao?» — «Có ta ruồi-sầu-muộn, ta rận-bò-lê, ta bọ-chét-nhảy-tách, ta muỗi cẳng-dài, ta chuột-nhắt-rúc-rích, ta thằn-lằn-loạt-soạt, ta cáo Patrikeevna, ta thỏ-con-nấp-bụi, ta sói-bự đuôi-xám-to.»)"
+    },
+    {
+     "t": "para",
+     "text": "Все из терема: «А ты кто?» — «Я тяпыш-ляпыш, всем подгнётыш!» — сказал медведь, спустил лапой по терему и разбил его. (Cả nhà trong lầu nhao nhao: «Thế còn ngươi là ai?» — «Ta là Đè-bẹp Nghiến-nát, đè chết tất tần tật!» — gấu nói, giáng một bàn chân xuống tòa lầu, đập tan tành.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "терем",
+     "vi": "(cổ) tòa lầu, dinh thự gỗ cao đẹp",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "горюха",
+     "vi": "(đặt đùa) kẻ sầu khổ, ← горе (nỗi buồn); муха-горюха = ruồi-sầu-muộn",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "поползуха",
+     "vi": "(đặt đùa) kẻ bò lê, ← ползать (bò); вошь-поползуха = rận-bò-lê",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "попрядуха",
+     "vi": "(đặt đùa) kẻ cứ nhảy chồm, ← прядать (nhảy bật); блоха-попрядуха",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "долгоногий",
+     "vi": "chân dài, cẳng dài",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "тютюрюшечка",
+     "vi": "từ láy vô nghĩa gọi đùa con chuột (chỉ cốt gieo vần)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "шерошерочка",
+     "vi": "từ láy vô nghĩa gọi đùa con thằn lằn (loạt soạt)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "Патрикеевна",
+     "vi": "tên đệm truyền thống gán cho con cáo trong cổ tích Nga (→ cáo ranh ma)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "заюшко",
+     "vi": "(thân mật/cổ) chú thỏ con, ← заяц",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кустышек",
+     "vi": "(chỉ nhỏ) bụi cây con, ← куст",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "толстоногий",
+     "vi": "chân to, chân mập",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "подгнётыш",
+     "vi": "(đặt đùa) kẻ đè bẹp nghiến nát, ← гнести/гнёт (đè nén); tự xưng của con gấu",
+     "g": null
+    }
+   ]
+  },
+  {
+   "id": "skazki1-046-s002",
+   "type": "story",
+   "num": 83,
+   "title": "№ 83 · Терем мухи — Tòa lầu của ruồi (bản cái vò)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Dị bản thứ hai (№83): «tòa lầu» bây giờ là một cái vò gốm mà bác nông dân đánh rơi bên đường. Mỗi con vật tự giới thiệu bằng một biệt danh đố chữ (муха-шумиха «ruồi ồn ào», из-за угла хмыстень «kẻ lẻn sau góc», на воде балагта «kẻ bì bõm dưới nước»…) thay cho tên thường; kết cục vẫn là con gấu — tự xưng «лесной гнёт» (Sức-đè-rừng-xanh) — ngồi đè bẹp cả lũ."
+    },
+    {
+     "t": "para",
+     "text": "Ехал мужик с горшками, потерял большой кувшин. (Có bác nông dân chở nồi niêu đi đường, đánh rơi mất một cái vò lớn.)"
+    },
+    {
+     "t": "para",
+     "text": "Залетела в кувшин муха и стала в нем жить-поживать. (Một con ruồi bay vào trong vò, rồi sống yên sống lành ở trong đó.)"
+    },
+    {
+     "t": "para",
+     "text": "День живет, другой живет. (Sống được một ngày, rồi lại một ngày nữa.)"
+    },
+    {
+     "t": "para",
+     "text": "Прилетел комар и стучится: «Кто в хоромах, кто в высоких?» — «Я, муха-шумиха; а ты кто?» — «А я комар-пискун». — «Иди ко мне жить». (Muỗi bay đến gõ cửa: «Ai trong dinh, ai trên gác cao?» — «Ta, ruồi-vo-ve; còn ngươi là ai?» — «Còn ta là muỗi-rít.» — «Vào đây ở với ta.»)"
+    },
+    {
+     "t": "para",
+     "text": "Вот и стали вдвоем жить. (Thế là hai đứa sống chung với nhau.)"
+    },
+    {
+     "t": "para",
+     "text": "Прибежала к ним мышь и стучится: «Кто в хоромах, кто в высоких?» — «Я, муха-шумиха, да комар-пискун; а ты кто?» — «Я из-за угла хмыстень». — «Иди к нам жить». (Chuột chạy đến gõ cửa: «Ai trong dinh, ai trên gác cao?» — «Có ta ruồi-vo-ve với muỗi-rít; còn ngươi là ai?» — «Ta là kẻ-luồn-góc.» — «Vào ở với bọn ta.»)"
+    },
+    {
+     "t": "para",
+     "text": "И стало их трое. (Thế là thành ba đứa.)"
+    },
+    {
+     "t": "para",
+     "text": "Прискакала лягушка и стучится: «Кто в хоромах, кто в высоких?» — «Я, муха-шумиха, да комар-пискун, да из-за угла хмыстень; а ты кто?» — «Я на воде балагта». — «Иди к нам жить». (Ếch nhảy đến gõ cửa: «Ai trong dinh, ai trên gác cao?» — «Có ta ruồi-vo-ve, muỗi-rít với kẻ-luồn-góc; còn ngươi là ai?» — «Ta là kẻ-bì-bõm-dưới-nước.» — «Vào ở với bọn ta.»)"
+    },
+    {
+     "t": "para",
+     "text": "Вот и стало их четверо. (Thế là thành bốn đứa.)"
+    },
+    {
+     "t": "para",
+     "text": "Пришел заяц и стучится: «Кто в хоромах, кто в высоких?» — «Я, муха-шумиха, да комар-пискун, из-за угла хмыстень, на воде балагта; а ты кто?» — «Я на поле свертень». — «Иди к нам». (Thỏ đến gõ cửa: «Ai trong dinh, ai trên gác cao?» — «Có ta ruồi-vo-ve, muỗi-rít, kẻ-luồn-góc với kẻ-bì-bõm-dưới-nước; còn ngươi là ai?» — «Ta là kẻ-lủi-ngoài-đồng.» — «Vào với bọn ta.»)"
+    },
+    {
+     "t": "para",
+     "text": "Стало их теперь пятеро. (Giờ thành năm đứa.)"
+    },
+    {
+     "t": "para",
+     "text": "Пришла ещё лисица и стучится: «Кто в хоромах, кто в высоких?» — «Я, муха-шумиха, да комар-пискун, из-за угла хмыстень, на воде балагта, на поле свертень; а ты кто?» — «Я на поле краса». — «Ступай к нам». (Cáo cũng đến gõ cửa: «Ai trong dinh, ai trên gác cao?» — «Có ta ruồi-vo-ve, muỗi-rít, kẻ-luồn-góc, kẻ-bì-bõm-dưới-nước với kẻ-lủi-ngoài-đồng; còn ngươi là ai?» — «Ta là người-đẹp-ngoài-đồng.» — «Lại đây với bọn ta.»)"
+    },
+    {
+     "t": "para",
+     "text": "Прибрела собака и стучится: «Кто в хоромах, кто в высоких?» — «Я, муха-шумиха, да комар-пискун, из-за угла хмыстень, на воде балагта, на поле свертень, да на поле краса; а ты кто?» — «А я гам-гам!» — «Иди к нам жить». (Chó lò dò đến gõ cửa: «Ai trong dinh, ai trên gác cao?» — «Có ta ruồi-vo-ve, muỗi-rít, kẻ-luồn-góc, kẻ-bì-bõm-dưới-nước, kẻ-lủi-ngoài-đồng với người-đẹp-ngoài-đồng; còn ngươi là ai?» — «Còn ta là gâu-gâu!» — «Vào ở với bọn ta.»)"
+    },
+    {
+     "t": "para",
+     "text": "Собака влезла. (Chó chui vào.)"
+    },
+    {
+     "t": "para",
+     "text": "Прибежал еще волк и стучится: «Кто в хоромах, кто в высоких?» — «Я, муха-шумиха, да комар-пискун, из-за угла хмыстень, на воде балагта, на поле свертень, на поле краса, да гам-гам; а ты кто?» — «Я из-за кустов хап». — «Иди к нам жить». (Sói cũng chạy đến gõ cửa: «Ai trong dinh, ai trên gác cao?» — «Có ta ruồi-vo-ve, muỗi-rít, kẻ-luồn-góc, kẻ-bì-bõm-dưới-nước, kẻ-lủi-ngoài-đồng, người-đẹp-ngoài-đồng với gâu-gâu; còn ngươi là ai?» — «Ta là kẻ-đớp-sau-bụi.» — «Vào ở với bọn ta.»)"
+    },
+    {
+     "t": "para",
+     "text": "Вот живут себе все вместе. (Thế là cả lũ sống chung với nhau.)"
+    },
+    {
+     "t": "para",
+     "text": "Спознал про эти хоромы медведь, приходит и стучится — чуть хоромы живы: «Кто в хоромах, кто в высоких?» — «Я, муха-шумиха, да комар-пискун, из-за угла хмыстень, на воде балагта, на поле свертень, на поле краса, гам-гам, да из-за кустов хам: а ты кто?» — «А я лесной гнёт!» Сел на кувшин и всех раздавил. (Gấu nghe phong thanh về tòa dinh ấy, mò đến gõ cửa — tòa dinh suýt sập: «Ai trong dinh, ai trên gác cao?» — «Có ta ruồi-vo-ve, muỗi-rít, kẻ-luồn-góc, kẻ-bì-bõm-dưới-nước, kẻ-lủi-ngoài-đồng, người-đẹp-ngoài-đồng, gâu-gâu với kẻ-đớp-sau-bụi; còn ngươi là ai?» — «Còn ta là Sức-đè-rừng-xanh!» Gấu ngồi phịch lên cái vò, đè bẹp tất cả.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "жить-поживать",
+     "vi": "(thành ngữ kể chuyện) sống yên sống lành, sống thong dong",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "шумиха",
+     "vi": "(đặt đùa) kẻ ồn ào, ← шум (tiếng ồn); муха-шумиха = ruồi-vo-ve",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "пискун",
+     "vi": "kẻ kêu chít chít, ← писк (tiếng rít); комар-пискун = muỗi-rít",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "хмыстень",
+     "vi": "(phương ngữ) kẻ lẻn thó từ sau góc, ← хмыстать (lén lút vơ lấy)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "балагта",
+     "vi": "(từ đặt đùa) kẻ bì bõm dưới nước (chỉ con ếch)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "свертень",
+     "vi": "(từ đặt đùa) kẻ lủi/ngoặt ngoài đồng, ← свернуть (rẽ, lủi); chỉ con thỏ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "краса",
+     "vi": "(cổ) sắc đẹp, người đẹp; на поле краса = người-đẹp-ngoài-đồng (chỉ con cáo)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "гам-гам",
+     "vi": "(tượng thanh) gâu-gâu, tiếng chó; ở đây là biệt danh con chó",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "лесной гнёт",
+     "vi": "\"sức đè của rừng xanh\" — biệt danh con gấu; гнёт = vật nặng dằn/đè",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "спознать",
+     "vi": "(cổ/phương ngữ) biết được, dò ra, ← узнать",
+     "g": null
+    }
+   ]
+  },
+  {
+   "id": "skazki1-046-s003",
+   "type": "story",
+   "num": 84,
+   "title": "№ 84 · Терем мухи — Tòa lầu của ruồi (bản đầu ngựa)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Dị bản thứ ba (№84) chính là «Теремок» quen thuộc nhất với độc giả Việt Nam: «tòa lầu» là một cái đầu ngựa nằm giữa đồng. Câu gọi cửa đổi thành điệp khúc «Терем-теремок! Кто в тереме живет?» (Lầu ơi lầu hỡi! Ai sống trong lầu nào?). Dây chuyền ngắn gọn hơn — chuột, ếch, thỏ, cáo, sói — rồi con gấu đến đè chết cả nhà."
+    },
+    {
+     "t": "para",
+     "text": "Лежит в поле лошадиная голова. (Giữa cánh đồng có một cái đầu ngựa nằm chỏng chơ.)"
+    },
+    {
+     "t": "para",
+     "text": "Прибежала мышка-норышка и спрашивает: «Терем-теремок! Кто в тереме живет?» Никто не отзывается. (Chuột-nhắt-đào-hang chạy đến hỏi: «Lầu ơi lầu hỡi! Ai sống trong lầu nào?» Chẳng ai lên tiếng.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот она вошла и стала жить в лошадиной голове. (Thế là nó chui vào, sống luôn trong cái đầu ngựa.)"
+    },
+    {
+     "t": "para",
+     "text": "Пришла лягушка-квакушка: «Терем-теремок! Кто в тереме живет?» — «Я, мышка-норышка; а ты кто?» — «А я лягушка-квакушка». — «Ступай ко мне жить». (Ếch-uôm-uôm đến: «Lầu ơi lầu hỡi! Ai sống trong lầu nào?» — «Ta, chuột-nhắt-đào-hang; còn ngươi là ai?» — «Còn ta là ếch-uôm-uôm.» — «Vào đây ở với ta.»)"
+    },
+    {
+     "t": "para",
+     "text": "Вошла лягушка, и стали себе вдвоем жить. (Ếch chui vào, hai đứa sống chung với nhau.)"
+    },
+    {
+     "t": "para",
+     "text": "Прибежал заяц: «Терем-теремок! Кто в тереме живет?» — «Я, мышка-норышка, да лягушка-квакушка; а ты кто?» — «А я на горе увертыш». — «Ступай к нам». (Thỏ chạy đến: «Lầu ơi lầu hỡi! Ai sống trong lầu nào?» — «Có ta chuột-nhắt-đào-hang với ếch-uôm-uôm; còn ngươi là ai?» — «Còn ta là kẻ-lẩn-trên-đồi.» — «Lại đây với bọn ta.»)"
+    },
+    {
+     "t": "para",
+     "text": "Стали они втроем жить. (Thế là ba đứa sống chung.)"
+    },
+    {
+     "t": "para",
+     "text": "Прибежала лисица: «Терем-теремок! Кто в тереме живет?» — «Мышка-норышка, лягушка-квакушка, на горе увертыш; а ты кто?» — «А я везде поскокиш». — «Иди к нам». (Cáo chạy đến: «Lầu ơi lầu hỡi! Ai sống trong lầu nào?» — «Chuột-nhắt-đào-hang, ếch-uôm-uôm với kẻ-lẩn-trên-đồi; còn ngươi là ai?» — «Còn ta là kẻ-nhảy-khắp-chốn.» — «Vào với bọn ta.»)"
+    },
+    {
+     "t": "para",
+     "text": "Стали четверо жить. (Thế là bốn đứa sống chung.)"
+    },
+    {
+     "t": "para",
+     "text": "Пришел волк: «Терем-теремок! Кто в тереме живет?» — «Мышка-норышка, лягушка-квакушка, на горе увертыш, везде поскокиш; а ты кто?» — «А я из-за кустов хватыш». — «Иди к нам». (Sói đến: «Lầu ơi lầu hỡi! Ai sống trong lầu nào?» — «Chuột-nhắt-đào-hang, ếch-uôm-uôm, kẻ-lẩn-trên-đồi với kẻ-nhảy-khắp-chốn; còn ngươi là ai?» — «Còn ta là kẻ-vồ-sau-bụi.» — «Vào với bọn ta.»)"
+    },
+    {
+     "t": "para",
+     "text": "Стали пятеро жить. (Thế là năm đứa sống chung.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот приходит к ним медведь: «Терем-теремок! Кто в тереме живет?» — «Мышка-норышка, лягушка-квакушка, на горе увертыш, везде поскокиш, из-за кустов хватыш». — «А я всех вас давишь!» — сел на голову и раздавил всех. (Rồi gấu mò đến: «Lầu ơi lầu hỡi! Ai sống trong lầu nào?» — «Chuột-nhắt-đào-hang, ếch-uôm-uôm, kẻ-lẩn-trên-đồi, kẻ-nhảy-khắp-chốn với kẻ-vồ-sau-bụi.» — «Còn ta thì đè bẹp tất tật lũ chúng bay!» — gấu ngồi phịch lên cái đầu ngựa, đè chết hết cả.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "теремок",
+     "vi": "(chỉ nhỏ thân mật) cái lầu nhỏ, ← терем",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "норышка",
+     "vi": "(đặt đùa) kẻ đào hang, ← нора (hang); мышка-норышка",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "квакушка",
+     "vi": "(đặt đùa) kẻ kêu uôm uôm, ← квакать (kêu ộp ộp); лягушка-квакушка",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "увертыш",
+     "vi": "kẻ né tránh, kẻ lẩn, ← увернуться (né, lách); на горе увертыш = chỉ con thỏ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "поскокиш",
+     "vi": "(đặt đùa) kẻ nhảy nhót khắp nơi, ← скакать (nhảy)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "хватыш",
+     "vi": "(đặt đùa) kẻ chộp vồ, ← хватать (chộp); из-за кустов хватыш = chỉ con sói",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "отзываться",
+     "vi": "lên tiếng đáp lại, trả lời",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "лошадиная голова",
+     "vi": "đầu ngựa (ở đây dùng làm \"tòa lầu\")",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "давить",
+     "vi": "đè bẹp, đè nát, nghiến",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

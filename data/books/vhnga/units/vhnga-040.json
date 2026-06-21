@@ -1,0 +1,137 @@
+{
+ "id": "vhnga-040",
+ "num": 40,
+ "title": "«Два богача» — Hai người giàu (Turgenev)",
+ "vi": "«Два богача» — Hai người giàu (Turgenev)",
+ "ru": "Два богача",
+ "icon": "💰",
+ "color": "#ca8a04",
+ "sectionPrefix": "vhnga-040-s",
+ "group": "Иван Тургенев · Thơ văn xuôi",
+ "sections": [
+  {
+   "id": "vhnga-040-s001",
+   "type": "story",
+   "num": 40,
+   "title": "«Два богача» — “Hai người giàu” (I. Turgenev, 1878)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "«Два богача» (Hai người giàu) — bài thơ văn xuôi (стихотворение в прозе) của I.X. Tuốc-ghê-nhép (Иван Сергеевич Тургенев, 1818–1883), viết tháng 7 năm 1878, thuộc tập «Senilia. Стихотворения в прозе» (đăng lần đầu trên «Вестник Европы», 1882). Hai “người giàu” được đặt cạnh nhau: nam tước Rothschild — chủ nhà băng giàu bậc nhất châu Âu — trích từ lợi tức kếch xù hàng nghìn đồng làm từ thiện; và đôi vợ chồng nông dân khánh kiệt nhận đứa cháu gái mồ côi về nuôi, chấp nhận húp canh không muối — nghĩa là cho đi đến đồng xu cuối cùng. Câu kết «Далеко́ Ротши́льду до э́того мужика́!» đã thành châm ngôn về sự giàu có của tấm lòng. Lưu ý chính tả: bản hàn lâm (ПСС 30 т., «Наука», 1982, т. 10, тр. 153) in е không dấu hai chấm («Возьмем, нее, соленую, разоренный, похлебку») — sách chuẩn hoá thành ё: Возьмём, неё, солёную, разорённый, похлёбку."
+    },
+    {
+     "t": "para",
+     "text": "Когда́ при мне превозно́сят богача́ Ротши́льда, кото́рый из грома́дных свои́х дохо́дов уделя́ет це́лые ты́сячи на воспита́ние дете́й, на лече́ние больны́х, на призре́ние ста́рых — я хвалю́ и умиля́юсь. (Mỗi khi trước mặt tôi người ta tán tụng nhà giàu Rothschild — người trích từ những khoản lợi tức kếch xù của mình cả nghìn đồng cho việc nuôi dạy trẻ em, chữa chạy người ốm, cưu mang người già — tôi đều khen ngợi và xúc động.)"
+    },
+    {
+     "t": "para",
+     "text": "Но, и хваля́ и умиля́ясь, не могу́ я не вспо́мнить об одно́м убо́гом крестья́нском семе́йстве, приня́вшем сироту́-племя́нницу в свой разорённый доми́шко. (Nhưng, vừa khen vừa xúc động, tôi lại không thể không nhớ tới một gia đình nông dân bần hàn đã nhận đứa cháu gái mồ côi về căn nhà nhỏ khánh kiệt của mình.)"
+    },
+    {
+     "t": "para",
+     "text": "— Возьмём мы Ка́тьку, — говори́ла ба́ба, — после́дние на́ши гроши́ на неё пойду́т, — не́ на что бу́дет со́ли добы́ть, похлёбку посоли́ть… (— Mình mà đem con Katka về, — người vợ nói, — thì những đồng xu cuối cùng của nhà ta sẽ dồn cả vào nó, — chẳng còn lấy gì kiếm muối mà nêm nồi canh…)"
+    },
+    {
+     "t": "para",
+     "text": "— А мы её… и не солёную, — отве́тил мужи́к, её муж. (— Thì mình húp… canh không muối cũng được, — bác mu-gích, chồng chị, đáp.)"
+    },
+    {
+     "t": "para",
+     "text": "Далеко́ Ротши́льду до э́того мужика́! (Rothschild còn xa mới sánh được người mu-gích ấy!)"
+    },
+    {
+     "t": "para",
+     "text": "Ию́ль, 1878 (Tháng Bảy, 1878.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó"
+    },
+    {
+     "t": "vocab",
+     "ru": "превозноси́ть",
+     "vi": "tán tụng, hết lời ca ngợi (превозно́сят — ngôi 3 số nhiều)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "грома́дный",
+     "vi": "kếch xù, khổng lồ, đồ sộ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "дохо́д",
+     "vi": "thu nhập, lợi tức",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "уделя́ть",
+     "vi": "trích ra, dành ra (уделя́ть что на что — dành gì cho việc gì)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "воспита́ние",
+     "vi": "sự nuôi dạy, giáo dưỡng (на воспита́ние дете́й — cho việc nuôi dạy trẻ em)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "призре́ние",
+     "vi": "sự cưu mang, cứu tế (từ cũ; chớ nhầm với презре́ние — sự khinh miệt!)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "умиля́ться",
+     "vi": "xúc động, cảm động trìu mến (умиля́ясь — trạng động từ: vừa cảm động)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "убо́гий",
+     "vi": "bần hàn, nghèo nàn, xơ xác",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "семе́йство",
+     "vi": "gia đình (sắc thái cổ/trang trọng của семья́)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "племя́нница",
+     "vi": "cháu gái (con của anh/chị/em; сирота́-племя́нница — đứa cháu gái mồ côi)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "разорённый",
+     "vi": "khánh kiệt, sa sút, xơ xác (động tính từ của разори́ть — làm khánh kiệt)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "грош",
+     "vi": "đồng xu nhỏ, trinh (после́дние гроши́ — những đồng xu cuối cùng)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "похлёбка",
+     "vi": "canh loãng, cháo loãng (món ăn dân dã của nhà nghèo)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "добы́ть",
+     "vi": "kiếm được, lo liệu được (не́ на что со́ли добы́ть — chẳng còn gì để kiếm muối)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

@@ -21,7 +21,11 @@
         const span=el('span',{class:'zh'}, tok.text);
         span.addEventListener('click',e=>{e.stopPropagation();RG.dict.showFor(tok.text,span);});
         frag.appendChild(span);
-      } else frag.appendChild(document.createTextNode(tok.text));
+      } else {
+        tok.text.split(/(\([^)]*\))/).forEach(pt=>{ if(!pt) return;
+          if(pt.charAt(0)==='(') frag.appendChild(el('span',{class:'gloss'}, pt));
+          else frag.appendChild(document.createTextNode(pt)); });
+      }
     });
     return frag;
   }

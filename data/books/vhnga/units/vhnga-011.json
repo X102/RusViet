@@ -1,0 +1,161 @@
+{
+ "id": "vhnga-011",
+ "num": 11,
+ "title": "«Тучи» — Những áng mây (Lermontov)",
+ "vi": "«Тучи» — Những áng mây (Lermontov)",
+ "ru": "Тучи",
+ "icon": "🕊️",
+ "color": "#4f46e5",
+ "sectionPrefix": "vhnga-011-s",
+ "group": "Михаил Лермонтов · Thơ",
+ "sections": [
+  {
+   "id": "vhnga-011-s001",
+   "type": "story",
+   "num": 11,
+   "title": "«Тучи» — “Những áng mây” (M. Lermontov, 1840)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "«Тучи» (Những áng mây) là một trong những bài thơ trữ tình nổi tiếng nhất của Mikhail Lermontov (Михаил Юрьевич Лермонтов, 1814–1841), viết năm 1840 ngay trước khi ông bị đày lần thứ hai xuống vùng Kavkaz. Nhà thơ tự ví mình với những đám mây trôi dạt «từ phương Bắc thân yêu về miền Nam» xa lạ — rồi nhận ra một khác biệt cay đắng: mây thì lạnh lùng, tự do và vô cảm, không quê hương nên cũng chẳng biết thế nào là lưu đày; còn con người thì mang nặng nỗi đau ly hương. Bài gồm ba khổ thơ, là bản song hành với «Парус» về chủ đề cô đơn và lưu lạc."
+    },
+    {
+     "t": "para",
+     "text": "Ту́чки небе́сные, ве́чные стра́нники! (Hỡi những áng mây trời, những lữ khách thiên thu!)"
+    },
+    {
+     "t": "para",
+     "text": "Сте́пью лазу́рною, це́пью жемчу́жною (Băng qua thảo nguyên xanh biếc, kết thành chuỗi ngọc trai,)"
+    },
+    {
+     "t": "para",
+     "text": "Мчи́тесь вы, бу́дто как я же, изгна́нники, (Các ngươi bay vùn vụt, như chính ta đây — những kẻ lưu đày,)"
+    },
+    {
+     "t": "para",
+     "text": "С ми́лого се́вера в сто́рону ю́жную. (Rời phương Bắc thân thương về miền Nam xa thẳm.)"
+    },
+    {
+     "t": "para",
+     "text": "Кто же вас го́нит: судьбы́ ли реше́ние? (Ai xua đuổi các ngươi: phải chăng phán quyết của số phận?)"
+    },
+    {
+     "t": "para",
+     "text": "За́висть ли та́йная? зло́ба ль откры́тая? (Hay lòng ghen tị giấu kín? Hay niềm hằn học công khai?)"
+    },
+    {
+     "t": "para",
+     "text": "Или на вас тяготи́т преступле́ние? (Hay một tội lỗi nào đang đè nặng trên vai?)"
+    },
+    {
+     "t": "para",
+     "text": "Или друзе́й клевета́ ядови́тая? (Hay lời gièm pha độc địa của những người bạn?)"
+    },
+    {
+     "t": "para",
+     "text": "Нет, вам наску́чили ни́вы беспло́дные… (Không, các ngươi đã chán những cánh đồng cằn cỗi…)"
+    },
+    {
+     "t": "para",
+     "text": "Чу́жды вам стра́сти и чу́жды страда́ния; (Đam mê chẳng hề vương, khổ đau cũng chẳng vấn vương;)"
+    },
+    {
+     "t": "para",
+     "text": "Ве́чно холо́дные, ве́чно свобо́дные, (Mãi mãi lạnh lùng, mãi mãi tự do,)"
+    },
+    {
+     "t": "para",
+     "text": "Нет у вас ро́дины, нет вам изгна́ния. (Các ngươi không có quê hương, nên cũng chẳng có cảnh lưu đày.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó"
+    },
+    {
+     "t": "vocab",
+     "ru": "ту́чка",
+     "vi": "áng mây (nhỏ); mây giông (ту́ча)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "небе́сный",
+     "vi": "(thuộc) bầu trời, trên trời",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "стра́нник",
+     "vi": "kẻ lang thang, lữ khách",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "лазу́рный",
+     "vi": "xanh biếc, xanh da trời",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "жемчу́жный",
+     "vi": "(bằng) ngọc trai, óng ánh ngọc",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "мча́ться",
+     "vi": "lao đi, bay vùn vụt",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "изгна́нник",
+     "vi": "kẻ bị lưu đày, người tha hương",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "судьба́",
+     "vi": "số phận, định mệnh",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "за́висть",
+     "vi": "lòng ghen tị, sự đố kỵ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "зло́ба",
+     "vi": "niềm hằn học, ác ý",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "тяготи́ть",
+     "vi": "đè nặng (lên ai), làm nặng lòng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "клевета́",
+     "vi": "lời vu khống, gièm pha",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ядови́тый",
+     "vi": "độc, độc địa",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "беспло́дный",
+     "vi": "cằn cỗi, không kết trái",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

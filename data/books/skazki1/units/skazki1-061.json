@@ -1,0 +1,559 @@
+{
+ "id": "skazki1-061",
+ "num": 61,
+ "title": "Баба-яга — Mụ Baba-Yaga",
+ "vi": "Баба-яга — Mụ Baba-Yaga",
+ "ru": "Баба-яга",
+ "icon": "🧹",
+ "color": "#6d28d9",
+ "sectionPrefix": "skazki1-061-s",
+ "group": "Truyện № 101–140",
+ "sections": [
+  {
+   "id": "skazki1-061-s001",
+   "type": "story",
+   "num": 102,
+   "title": "№ 102 · Баба-яга — Mụ Baba-Yaga",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Dị bản ATU 480 «con riêng, con cưng» với kẻ thử lòng là mụ Baba-Yaga: lũ chuột nhắt được cho cháo bày kế giúp cô con riêng, còn con chó nhỏ sủa câu báo điềm như trong cụm «Морозко» (№95–98)."
+    },
+    {
+     "t": "para",
+     "text": "Жили-были муж с женой и прижили дочку; жена-то и помри. (Ngày xưa có hai vợ chồng sinh được một cô con gái; ai ngờ người vợ qua đời.)"
+    },
+    {
+     "t": "para",
+     "text": "Мужик женился на другой, и от этой прижил дочь. (Người chồng lấy vợ khác, với người này cũng sinh được một đứa con gái.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот жена и невзлюбила падчерицу; нет житья сироте. (Mụ vợ đâm ghét bỏ đứa con riêng của chồng; đứa bé mồ côi hết đường sống.)"
+    },
+    {
+     "t": "para",
+     "text": "Думал, думал наш мужик и повез свою дочь в лес. (Bác nông dân nghĩ tới nghĩ lui, rồi đành chở con gái mình vào rừng.)"
+    },
+    {
+     "t": "para",
+     "text": "Едет лесом — глядит: стоит избушка на курьих ножках. (Đi qua rừng, bác chợt thấy một túp lều con đứng trên chân gà.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот и говорит мужик: «Избушка, избушка! Стань к лесу задом, а ко мне передом». (Bác bèn nói: «Lều ơi, lều! Quay lưng về rừng, quay mặt về phía ta».)"
+    },
+    {
+     "t": "para",
+     "text": "Избушка и поворотилась. (Túp lều liền xoay mình lại.)"
+    },
+    {
+     "t": "para",
+     "text": "Идет мужик в избушку, а в ней баба-яга: впереди голова, в одном углу нога, в другом — другая. (Bác bước vào lều, trong lều là mụ Baba-Yaga: đầu chềnh ềnh phía trước, một chân gác góc này, chân kia gác góc nọ.)"
+    },
+    {
+     "t": "para",
+     "text": "«Русским духом пахнет!» — говорит яга. («Sặc mùi người Nga!» — mụ Yaga nói.)"
+    },
+    {
+     "t": "para",
+     "text": "Мужик кланяется: «Баба-яга костяная нога! Я тебе дочку привез в услуженье». (Bác nông dân cúi chào: «Mụ Baba-Yaga chân xương ơi! Tôi đem con gái đến hầu hạ mụ đây».)"
+    },
+    {
+     "t": "para",
+     "text": "«Ну, хорошо! Служи, служи мне, — говорит яга девушке, — я тебя за это награжу». («Ờ, được! Hầu đi, hầu ta cho khéo, — mụ Yaga bảo cô gái, — rồi ta sẽ thưởng công cho».)"
+    },
+    {
+     "t": "para",
+     "text": "Отец простился и поехал домой. (Người cha từ biệt con rồi đánh xe về nhà.)"
+    },
+    {
+     "t": "para",
+     "text": "А баба-яга задала девушке пряжи с короб, печку истопить, всего припасти, а сама ушла. (Còn mụ Baba-Yaga giao cho cô gái kéo sợi đầy cả thúng, nhóm lò, lo liệu sẵn đủ mọi việc, rồi mụ bỏ đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот девушка хлопочет у печи, а сама горько плачет. (Cô gái tất bật bên bếp lò, vừa làm vừa khóc nức nở.)"
+    },
+    {
+     "t": "para",
+     "text": "Выбежали мышки и говорят ей: «Девица, девица, что ты плачешь? Дай кашки; мы тебе добренько скажем». (Lũ chuột nhắt chạy ra bảo cô: «Cô ơi, cô ơi, sao cô khóc? Cho chúng tôi tí cháo; chúng tôi sẽ mách điều hay cho».)"
+    },
+    {
+     "t": "para",
+     "text": "Она дала им кашки. (Cô cho chúng cháo.)"
+    },
+    {
+     "t": "para",
+     "text": "«А вот, — говорят, — ты на всякое веретёнце по ниточке напряди». («Thế này nhé, — chúng bảo, — mỗi con suốt cô cứ kéo lên một sợi chỉ là được».)"
+    },
+    {
+     "t": "para",
+     "text": "Пришла баба-яга: «Ну что, — говорит, — все ли ты припасла?» (Mụ Baba-Yaga về tới: «Sao, — mụ hỏi, — mọi thứ lo xong cả chưa?»)"
+    },
+    {
+     "t": "para",
+     "text": "А у девушки все готово. (Mà cô gái thì đã xong đâu vào đấy.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ну, теперь поди — вымой меня в бане». («Ờ, giờ thì đi — tắm rửa kỳ cọ cho ta trong nhà tắm».)"
+    },
+    {
+     "t": "para",
+     "text": "Похвалила яга девушку и надавала ей разной сряды. (Mụ Yaga khen cô gái và cho cô bao nhiêu là áo xống đủ loại.)"
+    },
+    {
+     "t": "para",
+     "text": "Опять яга ушла и еще труднее задала задачу. (Mụ Yaga lại bỏ đi, lần này giao việc còn khó hơn nữa.)"
+    },
+    {
+     "t": "para",
+     "text": "Девушка опять плачет. (Cô gái lại khóc.)"
+    },
+    {
+     "t": "para",
+     "text": "Выбегают мышки: «Что ты, — говорят, — девица красная, плачешь? Дай кашки; мы тебе добренько скажем». (Lũ chuột nhắt chạy ra: «Cô gái xinh ơi, — chúng nói, — sao cô khóc? Cho tí cháo; chúng tôi sẽ mách điều hay cho».)"
+    },
+    {
+     "t": "para",
+     "text": "Она дала им кашки, а они опять научили ее, что и как сделать. (Cô cho chúng cháo, chúng lại bày cho cô phải làm gì, làm thế nào.)"
+    },
+    {
+     "t": "para",
+     "text": "Баба-яга опять, пришедши, ее похвалила и еще больше дала сряды… (Mụ Baba-Yaga trở về lại khen cô, lại thưởng thêm bao nhiêu áo xống…)"
+    },
+    {
+     "t": "para",
+     "text": "А мачеха посылает мужа проведать, жива ли его дочь? (Còn mụ dì ghẻ thì sai chồng đi xem thử con gái lão còn sống hay không.)"
+    },
+    {
+     "t": "para",
+     "text": "Поехал мужик; приезжает и видит, что дочь богатая-пребогатая стала. (Bác nông dân lên đường; đến nơi thấy con gái đã trở nên giàu ơi là giàu.)"
+    },
+    {
+     "t": "para",
+     "text": "Яги не было дома, он и взял ее с собой. (Mụ Yaga không có nhà, bác liền đón con đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Подъезжают они к своей деревне, а дома собачка так и рвется: «Хам, хам, хам! Барыню везут, барыню везут!» (Hai cha con về gần đến làng thì con chó nhỏ ở nhà cứ chồm lên sủa: «Gâu, gâu, gâu! Người ta chở bà lớn về, chở bà lớn về!»)"
+    },
+    {
+     "t": "para",
+     "text": "Мачеха выбежала да скалкой собачку. «Врешь, — говорит, — скажи: в коробе косточки гремят!» (Mụ dì ghẻ chạy bổ ra, vớ cây cán bột nện con chó: «Láo, — mụ quát, — phải sủa là: trong thúng xương kêu lốc cốc!»)"
+    },
+    {
+     "t": "para",
+     "text": "А собачка все свое. (Nhưng con chó vẫn sủa nguyên như cũ.)"
+    },
+    {
+     "t": "para",
+     "text": "Приехали. Мачеха так и гонит мужа — и ее дочь туда же отвезти. (Hai cha con về tới nhà. Mụ dì ghẻ liền giục chồng — phải chở cả con gái mụ đến đúng chỗ ấy.)"
+    },
+    {
+     "t": "para",
+     "text": "Отвез мужик. (Bác nông dân chở đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот баба-яга задала ей работы, а сама ушла. (Mụ Baba-Yaga giao việc cho cô ả rồi bỏ đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Девка так и рвется с досады и плачет. (Cô ả tức tối giãy đành đạch mà khóc.)"
+    },
+    {
+     "t": "para",
+     "text": "Выбегают мыши. «Девица, девица! О чем ты, — говорят, — плачешь?» (Lũ chuột chạy ra: «Cô ơi, cô ơi! Cô khóc vì chuyện gì thế?»)"
+    },
+    {
+     "t": "para",
+     "text": "А она не дала им выговорить, то тоё скалкой, то другую; с ними и провозилась, а дела-то не приделала. (Nhưng ả chẳng để chúng nói hết câu, vớ cán bột phang con này, nện con kia; mải hành lũ chuột mà việc thì chẳng xong việc nào.)"
+    },
+    {
+     "t": "para",
+     "text": "Яга пришла, рассердилась. (Mụ Yaga về, nổi giận.)"
+    },
+    {
+     "t": "para",
+     "text": "В другой раз опять то же; яга изломала ее, да косточки в короб и склала. (Lần sau lại y như thế; mụ Yaga bẻ vụn ả ra, xếp nắm xương vào thúng.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот мать посылает мужа за дочерью. (Rồi mụ mẹ sai chồng đi đón con gái.)"
+    },
+    {
+     "t": "para",
+     "text": "Приехал отец и повез одни косточки. (Ông bố đến nơi, chỉ còn chở về rặt một thúng xương.)"
+    },
+    {
+     "t": "para",
+     "text": "Подъезжает к деревне, а собачка опять лает на крылечке: «Хам, хам, хам! В коробе косточки везут!» (Về gần đến làng, con chó nhỏ trên thềm lại sủa: «Gâu, gâu, gâu! Người ta chở thúng xương về!»)"
+    },
+    {
+     "t": "para",
+     "text": "Мачеха бежит со скалкой: «Врешь, — говорит, — скажи: барыню везут!» (Mụ dì ghẻ cầm cán bột chạy ra: «Láo, — mụ quát, — phải sủa là: người ta chở bà lớn về!»)"
+    },
+    {
+     "t": "para",
+     "text": "А собачка все свое: «Хам, хам, хам! В коробе косточки гремят!» (Nhưng con chó vẫn sủa nguyên như cũ: «Gâu, gâu, gâu! Trong thúng xương kêu lốc cốc!»)"
+    },
+    {
+     "t": "para",
+     "text": "Приехал муж; тут-то жена взвыла! (Người chồng về tới; bấy giờ mụ vợ mới tru lên gào khóc!)"
+    },
+    {
+     "t": "para",
+     "text": "Вот тебе сказка, а мне кринка масла. (Chuyện kể hầu bạn vậy là hết, còn phần tôi xin vò bơ làm công.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "прижить",
+     "vi": "sinh được (con) — từ cũ: прижить дочку",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "невзлюбить",
+     "vi": "đâm ra ghét bỏ, không ưa",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "услуженье",
+     "vi": "sự hầu hạ (в услуженье — đến ở hầu)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "пряжа",
+     "vi": "sợi kéo (len, lanh); đồ để kéo sợi",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "истопить",
+     "vi": "nhóm, đốt cho nóng (lò sưởi, nhà tắm)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "припасти",
+     "vi": "lo liệu sẵn, sắm sửa sẵn",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "веретёнце",
+     "vi": "con suốt nhỏ (веретено — suốt kéo sợi)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "сряда",
+     "vi": "áo xống, trang phục (phương ngữ = наряд)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "скалка",
+     "vi": "cây cán bột",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "взвыть",
+     "vi": "tru lên, rú lên (khóc gào)",
+     "g": null
+    }
+   ]
+  },
+  {
+   "id": "skazki1-061-s002",
+   "type": "story",
+   "num": 103,
+   "title": "№ 103 · Баба-яга — Mụ Baba-Yaga",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Dị bản Baba-Yaga nổi tiếng nhất (ATU 480/313): cô bé tử tế với mèo, chó, cánh cổng, cây bạch dương và chị người ở nên được cứu; mô-típ «ném khăn thành sông, ném lược thành rừng» kinh điển của truyện thần kỳ Nga."
+    },
+    {
+     "t": "para",
+     "text": "Жили себе дед да баба; дед овдовел и женился на другой жене, а от первой жены осталась у него девочка. (Ngày xưa có hai ông bà; ông goá vợ rồi tục huyền với người khác, người vợ đầu để lại cho ông một bé gái.)"
+    },
+    {
+     "t": "para",
+     "text": "Злая мачеха ее не полюбила, била ее и думала, как бы вовсе извести. (Mụ dì ghẻ độc ác chẳng thương yêu gì cô bé, đánh đập em và chỉ rắp tâm tìm cách hại em cho chết hẳn.)"
+    },
+    {
+     "t": "para",
+     "text": "Раз отец уехал куда-то, мачеха и говорит девочке: «Поди к своей тетке, моей сестре, попроси у нее иголочку и ниточку — тебе рубашку сшить». (Một bận người cha đi vắng, mụ dì ghẻ bảo cô bé: «Mày sang nhà dì mày, chị em với tao, xin cây kim với sợi chỉ — về may áo cho mày».)"
+    },
+    {
+     "t": "para",
+     "text": "А тетка эта была баба-яга костяная нога. (Mà bà dì ấy chính là mụ Baba-Yaga chân xương.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот девочка не была глупа, да зашла прежде к своей родной тетке. (Cô bé vốn chẳng dại, bèn ghé trước nhà bà dì ruột của mình.)"
+    },
+    {
+     "t": "para",
+     "text": "«Здравствуй, тетушка!» — «Здравствуй, родимая! Зачем пришла?» («Cháu chào dì ạ!» — «Chào cháu yêu! Cháu đến có việc gì?»)"
+    },
+    {
+     "t": "para",
+     "text": "«Матушка послала к своей сестре попросить иголочку и ниточку — мне рубашку сшить». («Mẹ sai cháu sang nhà chị em của mẹ xin cây kim sợi chỉ — để may áo cho cháu».)"
+    },
+    {
+     "t": "para",
+     "text": "Та ее и научает: «Там тебя, племянушка, будет березка в глаза стегать — ты ее ленточкой перевяжи; там тебе ворота будут скрипеть и хлопать — ты подлей им под пяточки маслица; (Bà dì bèn dặn dò: «Đến đấy, cháu ơi, cây bạch dương sẽ quất vào mắt cháu — cháu lấy dải lụa buộc nó lại; cánh cổng sẽ kẽo kẹt sập đập — cháu rót chút dầu vào cối cổng;)"
+    },
+    {
+     "t": "para",
+     "text": "там тебя собаки будут рвать — ты им хлебца брось; там тебе кот будет глаза драть — ты ему ветчины дай». (lũ chó sẽ xông vào cắn xé — cháu ném cho chúng mẩu bánh mì; con mèo sẽ cào mắt cháu — cháu cho nó miếng giăm bông».)"
+    },
+    {
+     "t": "para",
+     "text": "Пошла девочка; вот идет, идет и пришла. (Cô bé lên đường; đi mãi, đi mãi rồi cũng đến nơi.)"
+    },
+    {
+     "t": "para",
+     "text": "Стоит хатка, а в ней сидит баба-яга костяная нога и ткет. (Một túp lều nhỏ đứng đó, trong lều mụ Baba-Yaga chân xương đang ngồi dệt vải.)"
+    },
+    {
+     "t": "para",
+     "text": "«Здравствуй, тетушка!» — «Здравствуй, родимая!» («Cháu chào dì ạ!» — «Chào cháu!»)"
+    },
+    {
+     "t": "para",
+     "text": "«Меня матушка послала попросить у тебя иголочку и ниточку — мне рубашку сшить». («Mẹ sai cháu đến xin dì cây kim sợi chỉ — để may áo cho cháu».)"
+    },
+    {
+     "t": "para",
+     "text": "«Хорошо; садись покуда ткать». («Được; trong lúc chờ thì ngồi vào dệt đi».)"
+    },
+    {
+     "t": "para",
+     "text": "Вот девочка села за кросна, а баба-яга вышла и говорит своей работнице: «Ступай, истопи баню да вымой племянницу, да смотри, хорошенько; я хочу ею позавтракать». (Cô bé ngồi vào khung cửi, còn mụ Baba-Yaga bước ra ngoài dặn đứa ở: «Đi nhóm nhà tắm rồi kỳ cọ cho con cháu ta, mà liệu hồn làm cho kỹ; ta muốn lấy nó làm bữa sáng».)"
+    },
+    {
+     "t": "para",
+     "text": "Девочка сидит ни жива, ни мертва, вся перепуганная, и просит она работницу: «Родимая моя! Ты не столько дрова поджигай, сколько водой заливай, решетом воду носи», — и дала ей платочек. (Cô bé ngồi đó sống dở chết dở, sợ hết hồn, năn nỉ chị người ở: «Chị thân mến ơi! Chị đừng chăm chất củi, cứ lấy nước mà dội, lấy giần mà xách nước nhé», — rồi tặng chị chiếc khăn tay.)"
+    },
+    {
+     "t": "para",
+     "text": "Баба-яга дожидается; подошла она к окну и спрашивает: «Ткешь ли, племянушка, ткешь ли, милая?» (Mụ Baba-Yaga chờ đợi; mụ lại bên cửa sổ hỏi vọng vào: «Cháu đang dệt đấy chứ, cháu yêu, đang dệt đấy chứ?»)"
+    },
+    {
+     "t": "para",
+     "text": "«Тку, тетушка, тку, милая!» («Cháu đang dệt, dì ơi, cháu đang dệt đây ạ!»)"
+    },
+    {
+     "t": "para",
+     "text": "Баба-яга и отошла, а девочка дала коту ветчинки и спрашивает: «Нельзя ли как-нибудь уйти отсюдова?» (Mụ Baba-Yaga vừa quay đi, cô bé liền cho con mèo miếng giăm bông và hỏi: «Có cách nào trốn khỏi đây không?»)"
+    },
+    {
+     "t": "para",
+     "text": "«Вот тебе гребешок и полотенце, — говорит кот, — возьми их и убежи; за тобою будет гнаться баба-яга, ты приклони ухо к земле и как заслышишь, что она близко, брось сперва полотенце — сделается широкая-широкая река; («Đây, em cầm lấy chiếc lược với chiếc khăn này, — mèo nói, — mà chạy trốn; mụ Baba-Yaga sẽ đuổi theo em, em hãy áp tai xuống đất, hễ nghe mụ đến gần thì trước hết ném chiếc khăn — sẽ hiện ra một dòng sông rộng ơi là rộng;)"
+    },
+    {
+     "t": "para",
+     "text": "если ж баба-яга перейдет через реку и станет догонять тебя, ты опять приклони ухо к земле и как услышишь, что она близко, брось гребешок — сделается дремучий-дремучий лес; сквозь него она уже не проберется!» (còn nếu mụ vượt được sông mà đuổi tiếp, em lại áp tai xuống đất, hễ nghe mụ đến gần thì ném chiếc lược — sẽ mọc lên khu rừng rậm ơi là rậm; mụ chẳng tài nào len qua nổi đâu!»)"
+    },
+    {
+     "t": "para",
+     "text": "Девочка взяла полотенце и гребешок и побежала; собаки хотели ее рвать — она бросила им хлебца, и они ее пропустили; (Cô bé cầm khăn và lược chạy trốn; lũ chó toan xông vào cắn xé — em ném cho chúng mẩu bánh, chúng để em qua;)"
+    },
+    {
+     "t": "para",
+     "text": "ворота хотели захлопнуться — она подлила им под пяточки маслица, и они ее пропустили; березка хотела ей глаза выстегать — она ее ленточкой перевязала, и та ее пропустила. (cánh cổng toan sập lại — em rót dầu vào cối cổng, cổng để em qua; cây bạch dương toan quất vào mắt — em buộc dải lụa cho cây, cây cũng để em qua.)"
+    },
+    {
+     "t": "para",
+     "text": "А кот сел за кросна и ткет: не столько наткал, сколько напутал. (Còn con mèo ngồi vào khung cửi mà dệt: dệt thì ít, làm rối thì nhiều.)"
+    },
+    {
+     "t": "para",
+     "text": "Баба-яга подошла к окну и спрашивает: «Ткешь ли, племянушка, ткешь ли, милая?» — «Тку, тетка, тку, милая!» — отвечает грубо кот. (Mụ Baba-Yaga lại bên cửa sổ hỏi: «Cháu đang dệt đấy chứ, cháu yêu, đang dệt đấy chứ?» — «Dệt đây, dì ạ, dệt đây!» — con mèo đáp giọng ồm ồm.)"
+    },
+    {
+     "t": "para",
+     "text": "Баба-яга бросилась в хатку, увидела, что девочка ушла, и давай бить кота и ругать, зачем не выцарапал девочке глаза. (Mụ Baba-Yaga lao vào lều, thấy cô bé đã trốn mất, liền xông vào vừa nện vừa chửi con mèo sao không cào mắt con bé.)"
+    },
+    {
+     "t": "para",
+     "text": "«Я тебе сколько служу, — говорит кот, — ты мне косточки не дала, а она мне ветчинки дала». («Tôi hầu hạ bà bấy nhiêu lâu, — mèo nói, — bà chưa cho tôi nổi khúc xương, còn cô ấy cho tôi giăm bông».)"
+    },
+    {
+     "t": "para",
+     "text": "Баба-яга накинулась на собак, на ворота, на березку и на работницу, давай всех ругать и колотить. (Mụ Baba-Yaga quay sang lũ chó, cánh cổng, cây bạch dương và chị người ở, chửi bới nện cho hết lượt.)"
+    },
+    {
+     "t": "para",
+     "text": "Собаки говорят ей: «Мы тебе сколько служим, ты нам горелой корочки не бросила, а она нам хлебца дала». (Lũ chó nói: «Chúng tôi hầu bà bấy nhiêu lâu, bà chưa ném cho mẩu vỏ bánh cháy, còn cô ấy cho chúng tôi bánh mì».)"
+    },
+    {
+     "t": "para",
+     "text": "Ворота говорят: «Мы тебе сколько служим, ты нам водицы под пяточки не подлила, а она нам маслица подлила». (Cánh cổng nói: «Chúng tôi hầu bà bấy nhiêu lâu, bà chưa rót cho giọt nước vào cối, còn cô ấy rót cho cả dầu».)"
+    },
+    {
+     "t": "para",
+     "text": "Березка говорит: «Я тебе сколько служу, ты меня ниточкой не перевязала, она меня ленточкой перевязала». (Cây bạch dương nói: «Tôi hầu bà bấy nhiêu lâu, bà chưa buộc cho tôi nổi sợi chỉ, còn cô ấy buộc cho tôi cả dải lụa».)"
+    },
+    {
+     "t": "para",
+     "text": "Работница говорит: «Я тебе сколько служу, ты мне тряпочки не подарила, а она мне платочек подарила». (Chị người ở nói: «Tôi hầu bà bấy nhiêu lâu, bà chưa cho tôi nổi mảnh giẻ, còn cô ấy tặng tôi cả chiếc khăn tay».)"
+    },
+    {
+     "t": "para",
+     "text": "Баба-яга костяная нога поскорей села на ступу, толкачом погоняет, помелом след заметает и пустилась в погоню за девочкой. (Mụ Baba-Yaga chân xương vội leo lên cối đá, lấy chày thúc cối, lấy chổi quét lò xoá vết, phóng đuổi theo cô bé.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот девочка приклонила ухо к земле и слышит, что баба-яга гонится, и уж близко, взяла да и бросила полотенце: сделалась река такая широкая-широкая! (Cô bé áp tai xuống đất, nghe tiếng mụ Baba-Yaga đang đuổi, đã gần lắm rồi, bèn ném chiếc khăn ra: một dòng sông hiện lên rộng ơi là rộng!)"
+    },
+    {
+     "t": "para",
+     "text": "Баба-яга приехала к реке и от злости зубами заскрипела; воротилась домой, взяла своих быков и пригнала к реке; быки выпили всю реку дочиста. (Mụ Baba-Yaga phóng tới bờ sông, tức tối nghiến răng ken két; mụ quay về nhà, lùa đàn bò mộng ra sông; lũ bò uống cạn sạch cả dòng sông.)"
+    },
+    {
+     "t": "para",
+     "text": "Баба-яга пустилась опять в погоню. (Mụ Baba-Yaga lại phóng đuổi tiếp.)"
+    },
+    {
+     "t": "para",
+     "text": "Девочка приклонила ухо к земле и слышит, что баба-яга близко, бросила гребешок: сделался лес такой дремучий да страшный! (Cô bé áp tai xuống đất, nghe mụ đã đến gần, liền ném chiếc lược: một khu rừng mọc lên rậm rịt và dễ sợ!)"
+    },
+    {
+     "t": "para",
+     "text": "Баба-яга стала его грызть, но сколь ни старалась — не могла прогрызть и воротилась назад. (Mụ Baba-Yaga xông vào gặm rừng, nhưng cố mấy cũng chẳng gặm thủng nổi, đành quay về.)"
+    },
+    {
+     "t": "para",
+     "text": "А дед уже приехал домой и спрашивает: «Где же моя дочка?» — «Она пошла к тетушке», — говорит мачеха. (Còn ông lão đã về tới nhà, hỏi: «Con gái tôi đâu rồi?» — «Nó sang nhà dì nó», — mụ dì ghẻ đáp.)"
+    },
+    {
+     "t": "para",
+     "text": "Немного погодя и девочка прибежала домой. (Lát sau cô bé cũng chạy về đến nhà.)"
+    },
+    {
+     "t": "para",
+     "text": "«Где ты была?» — спрашивает отец. («Con đã ở đâu thế?» — người cha hỏi.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ах, батюшка! — говорит она. — Так и так — меня матушка посылала к тетке попросить иголочку с ниточкой — мне рубашку сшить, а тетка, баба-яга, меня съесть хотела». («Ôi cha ơi! — cô bé nói. — Chuyện là thế này — mẹ sai con đến nhà dì xin cây kim sợi chỉ về may áo, mà bà dì ấy, mụ Baba-Yaga, định ăn thịt con».)"
+    },
+    {
+     "t": "para",
+     "text": "«Как же ты ушла, дочка?» — Так и так — рассказывает девочка. («Thế con trốn ra sao, con gái?» — Cô bé kể lại đầu đuôi ngọn ngành.)"
+    },
+    {
+     "t": "para",
+     "text": "Дед как узнал все это, рассердился на жену и расстрелил ее; а сам с дочкою стал жить да поживать да добра наживать, и я там был, мед-пиво пил: по усам текло, в рот не попало. (Ông lão biết rõ mọi chuyện, nổi giận đem mụ vợ ra bắn chết; rồi hai cha con sống yên vui, làm ăn khấm khá; tôi cũng có mặt ở đó, uống rượu mật uống bia: rượu chảy ướt cả ria mà chẳng giọt nào lọt vào miệng.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "овдоветь",
+     "vi": "goá vợ (goá bụa)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "извести",
+     "vi": "hãm hại cho chết, trừ khử",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "стегать",
+     "vi": "quất, vụt (bằng roi, cành cây)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ветчина",
+     "vi": "giăm bông, thịt lợn muối hun khói",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кросна",
+     "vi": "khung cửi (phương ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "работница",
+     "vi": "người ở gái, người làm thuê",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ни жива ни мертва",
+     "vi": "sống dở chết dở, sợ chết khiếp (thành ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "решето",
+     "vi": "cái giần, cái sàng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "гребешок",
+     "vi": "chiếc lược nhỏ (гребень — cái lược)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ступа",
+     "vi": "cối giã lớn (mụ Baba-Yaga cưỡi cối bay)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "толкач",
+     "vi": "chày giã cối (= пест)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "помело",
+     "vi": "chổi quét lò (mụ Yaga dùng xoá vết chân)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "погоня",
+     "vi": "cuộc truy đuổi",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "дочиста",
+     "vi": "sạch nhẵn, cạn sạch",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "прогрызть",
+     "vi": "gặm thủng, cắn xuyên qua",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

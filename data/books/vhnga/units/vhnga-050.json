@@ -1,0 +1,513 @@
+{
+ "id": "vhnga-050",
+ "num": 50,
+ "title": "«Лошадиная фамилия» — Cái họ nhà ngựa (Chekhov)",
+ "vi": "«Лошадиная фамилия» — Cái họ nhà ngựa (Chekhov)",
+ "ru": "Лошадиная фамилия",
+ "icon": "🐴",
+ "color": "#b45309",
+ "sectionPrefix": "vhnga-050-s",
+ "group": "Антон Чехов · Truyện ngắn",
+ "sections": [
+  {
+   "id": "vhnga-050-s001",
+   "type": "story",
+   "num": 50,
+   "title": "«Лошадиная фамилия» — “Cái họ nhà ngựa” (A. Chekhov, 1885)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "«Лошадиная фамилия» (Cái họ nhà ngựa) — truyện ngắn trào phúng của An-tôn Sê-khốp (Антон Павлович Чехов, 1860–1904), đăng lần đầu trên «Петербургская газета» số 183, ngày 7-7-1885, ký bút danh А. Чехонте, phụ đề «Сценка» (Hoạt cảnh); đây là TRỌN VẸN tác phẩm theo ấn bản kinh điển (ПСС 30 tập, Сочинения т. 4, «Наука», 1984). Cốt truyện: thiếu tướng hồi hưu Buldeev đau răng dữ dội; viên quản lý Ivan Evseich mách có «thầy» chữa mẹo bằng niệm chú qua điện tín — viên chức thuế rượu cũ Yakov Vasilich — nhưng lão quên béng cái họ, chỉ nhớ «hình như họ nhà ngựa». Cả trang viên nhốn nháo suốt ngày đêm bịa ra gần bốn chục cái họ từ đủ mọi gốc «ngựa»: кобы́ла (ngựa cái), жеребе́ц (ngựa giống), конь/ло́шадь (ngựa), ме́рин (ngựa thiến), тро́йка (xe tam mã), узде́чка (dây cương), копы́то (móng guốc), табу́н (đàn ngựa), гнедо́й (hồng mã), була́ный (vàng nhạt), рысь (nước kiệu), пристяжна́я/коренна́я (ngựa kéo bên/giữa), чересседе́льник, супо́нь (đai thắng ngựa)… Sáng hôm sau bác sĩ đến nhổ phăng chiếc răng; trên đường về ông hỏi mua yến mạch (овёс) — viên quản lý sực nhớ: Ovsov (Овсо́в)! Nhưng phép màu đã thành đồ thừa: quan lớn chỉ dứ hai «quả thị» (ку́киш) — «На́-кося!». Truyện gần như thuần đối thoại, kiểu truyện-giai thoại (рассказ-анекдот); nhan đề đã thành thành ngữ Nga chỉ cái tên/chữ «treo đầu lưỡi» — nhớ mài mại mà không bật ra được (các nhà tâm lý gọi đùa hiện tượng tip-of-the-tongue là «феномен лошадиной фамилии»). Nét tinh tế: cái họ thật chẳng phải «ngựa» mà là thứ... ngựa ăn — trí nhớ lão quản lý chỉ giữ lại mối liên tưởng, đúng cơ chế tâm lý có thật. Khẩu ngữ dân dã giữ nguyên theo nguyên tác: увольни́ли (= уво́лили), не́што, да́дена, по́льзовать/вы́пользовать, Позво́льте-с (tiểu từ kính «-с» — xem bài 030/043). Chính tả: chuẩn hoá ё theo quy ước sách (щёку, поварёнок, тёщи, Алёша, чёрт, пошлёшь, овёс…); NGUYÊN VĂN đối chiếu chéo rushist.com (UTF-8, khớp toàn văn) và ilibrary.ru/text/988 (ПСС 1984)."
+    },
+    {
+     "t": "para",
+     "text": "У отставно́го генера́л-майо́ра Булде́ева разболе́лись зу́бы. (Quan thiếu tướng hồi hưu Buldeev bỗng đau răng dữ dội.)"
+    },
+    {
+     "t": "para",
+     "text": "Он полоска́л рот во́дкой, коньяко́м, прикла́дывал к больно́му зу́бу таба́чную ко́поть, о́пий, скипида́р, кероси́н, ма́зал щёку йо́дом, в уша́х у него́ была́ ва́та, смо́ченная в спирту́, но всё э́то и́ли не помога́ло, и́ли вызыва́ло тошноту́. (Ông súc miệng bằng rượu vốt-ca, rượu cô-nhắc, đắp lên chiếc răng đau nào bồ hóng thuốc lá, nào thuốc phiện, nhựa thông, dầu hoả, bôi i-ốt lên má, nhét vào tai nhúm bông tẩm cồn — nhưng ngần ấy thứ hoặc chẳng ăn thua, hoặc chỉ tổ buồn nôn.)"
+    },
+    {
+     "t": "para",
+     "text": "Приезжа́л до́ктор. (Bác sĩ đã đến nhà.)"
+    },
+    {
+     "t": "para",
+     "text": "Он поковыря́л в зу́бе, прописа́л хи́ну, но и э́то не помогло́. (Ông ta nạy nạy chiếc răng, kê cho ít ký ninh, nhưng cũng chẳng ích gì.)"
+    },
+    {
+     "t": "para",
+     "text": "На предложе́ние вы́рвать больно́й зуб генера́л отве́тил отка́зом. (Nghe đề nghị nhổ phăng chiếc răng đau, quan lớn một mực khước từ.)"
+    },
+    {
+     "t": "para",
+     "text": "Все дома́шние — жена́, де́ти, прислу́га, да́же поварёнок Пе́тька предлага́ли ка́ждый своё сре́дство. (Cả nhà — vợ, con, kẻ ăn người ở, đến cả thằng phụ bếp Pet-ka — ai cũng hiến một phương thuốc riêng.)"
+    },
+    {
+     "t": "para",
+     "text": "Ме́жду про́чим, и прика́зчик Булде́ева Ива́н Евсе́ич пришёл к нему́ и посове́товал полечи́ться за́говором. (Nhân thể, viên quản lý của Buldeev là Ivan Evseich cũng đến gặp ông, khuyên thử chữa bằng phép niệm chú.)"
+    },
+    {
+     "t": "para",
+     "text": "— Тут, в на́шем уе́зде, ва́ше превосходи́тельство, — сказа́л он, — лет де́сять наза́д служи́л акци́зный Я́ков Васи́льич. (— Thưa quan lớn, ngay trong huyện ta đây, — lão nói, — chừng mươi năm trước có viên chức thuế rượu Yakov Vasilich làm việc.)"
+    },
+    {
+     "t": "para",
+     "text": "Загова́ривал зу́бы — пе́рвый сорт. (Niệm chú chữa răng thì vào hạng nhất.)"
+    },
+    {
+     "t": "para",
+     "text": "Быва́ло, отвернётся к око́шку, поше́пчет, поплюёт — и как руко́й! (Cứ quay mặt vào cửa sổ, lầm rầm một hồi, nhổ toẹt mấy bãi — là khỏi như có phép tiên!)"
+    },
+    {
+     "t": "para",
+     "text": "Си́ла ему́ така́я да́дена... (Trời phú cho lão cái phép ấy...)"
+    },
+    {
+     "t": "para",
+     "text": "— Где же он тепе́рь? (— Thế bây giờ lão ta ở đâu?)"
+    },
+    {
+     "t": "para",
+     "text": "— А по́сле того́, как его́ из акци́зных увольни́ли, в Сара́тове у тёщи живёт. (— Dạ, từ ngày bị thải khỏi sở thuế rượu, lão về Saratov ở nhà mẹ vợ.)"
+    },
+    {
+     "t": "para",
+     "text": "Тепе́рь то́лько зуба́ми и ко́рмится. (Bây giờ lão chỉ sống nhờ vào răng thiên hạ.)"
+    },
+    {
+     "t": "para",
+     "text": "Е́жели у кото́рого челове́ка заболи́т зуб, то и иду́т к нему́, помога́ет... (Hễ ai đau răng là cứ tìm đến lão, lão chữa khỏi...)"
+    },
+    {
+     "t": "para",
+     "text": "Та́мошних сара́товских на дому́ у себя́ по́льзует, а е́жели кото́рые из други́х городо́в, то по телегра́фу. (Người Saratov bản xứ thì lão chữa tại nhà, còn ai ở tỉnh khác thì lão chữa qua điện tín.)"
+    },
+    {
+     "t": "para",
+     "text": "Пошли́те ему́, ва́ше превосходи́тельство, депе́шу, что так, мол, вот и так... у раба́ бо́жьего Алекси́я зу́бы боля́т, прошу́ вы́пользовать. (Quan lớn cứ đánh cho lão một bức điện, rằng thưa thế này thế nọ... con chiên của Chúa là Aleksiy bị đau răng, xin ngài ra tay chữa giúp.)"
+    },
+    {
+     "t": "para",
+     "text": "А де́ньги за лече́ние по́чтой пошлёте. (Còn tiền công chữa, quan lớn gửi qua bưu điện sau.)"
+    },
+    {
+     "t": "para",
+     "text": "— Ерунда́! Шарлата́нство! (— Nhảm nhí! Đồ bịp bợm!)"
+    },
+    {
+     "t": "para",
+     "text": "— А вы попыта́йте, ва́ше превосходи́тельство. (— Thì quan lớn cứ thử một phen xem.)"
+    },
+    {
+     "t": "para",
+     "text": "До во́дки о́чень охо́тник, живёт не с жено́й, а с не́мкой, руга́тель, но, мо́жно сказа́ть, чудоде́йственный господи́н! (Lão mê vốt-ca thật, không sống với vợ mà sống với một ả người Đức, mồm miệng hay chửi rủa — nhưng phải nói: một bậc thần thông!)"
+    },
+    {
+     "t": "para",
+     "text": "— Пошли́, Алёша! — взмоли́лась генера́льша. (— Gửi đi anh, Alyosha! — phu nhân van nài.)"
+    },
+    {
+     "t": "para",
+     "text": "— Ты вот не ве́ришь в за́говоры, а я на себе́ испыта́ла. (— Anh thì chẳng tin phép niệm chú, chứ em đã nghiệm thấy trên chính mình rồi.)"
+    },
+    {
+     "t": "para",
+     "text": "Хотя́ ты и не ве́ришь, но отчего́ не посла́ть? (Dù anh không tin, thì gửi một bức có mất gì đâu?)"
+    },
+    {
+     "t": "para",
+     "text": "Ру́ки ведь не отва́лятся от э́того. (Có rụng mất tay đâu mà sợ.)"
+    },
+    {
+     "t": "para",
+     "text": "— Ну, ла́дно, — согласи́лся Булде́ев. — Тут не то́лько что к акци́зному, но и к чёрту депе́шу пошлёшь... (— Thôi được, — Buldeev ưng thuận. — Cơn này thì đừng nói viên thuế rượu, đánh điện cho cả quỷ sứ tôi cũng đánh...)"
+    },
+    {
+     "t": "para",
+     "text": "Ох! Мо́чи нет! (Ối! Chịu hết nổi rồi!)"
+    },
+    {
+     "t": "para",
+     "text": "Ну, где твой акци́зный живёт? Как к нему́ писа́ть? (Nào, tay thuế rượu của anh sống ở đâu? Viết cho hắn thế nào?)"
+    },
+    {
+     "t": "para",
+     "text": "Генера́л сел за стол и взял перо́ в ру́ки. (Quan lớn ngồi vào bàn, cầm lấy quản bút.)"
+    },
+    {
+     "t": "para",
+     "text": "— Его́ в Сара́тове ка́ждая соба́ка зна́ет, — сказа́л прика́зчик. — Изво́льте писа́ть, ва́ше превосходи́тельство, в го́род Сара́тов, ста́ло быть... (— Ở Saratov thì đến con chó cũng biết lão, — viên quản lý thưa. — Xin quan lớn cứ đề: gửi thành phố Saratov, nghĩa là vậy...)"
+    },
+    {
+     "t": "para",
+     "text": "Его́ благоро́дию господи́ну Я́кову Васи́льичу... Васи́льичу... (Kính gửi quý ông Yakov Vasilich... Vasilich...)"
+    },
+    {
+     "t": "para",
+     "text": "— Ну? (— Sao nữa?)"
+    },
+    {
+     "t": "para",
+     "text": "— Васи́льичу... Я́кову Васи́льичу... а по фами́лии... А фами́лию вот и забы́л!.. (— Vasilich... Yakov Vasilich... còn họ là... Chết thật, cái họ thì quên béng mất rồi!..)"
+    },
+    {
+     "t": "para",
+     "text": "Васи́льичу... Чёрт... Как же его́ фами́лия? (Vasilich... Quỷ thật... Họ lão là gì ấy nhỉ?)"
+    },
+    {
+     "t": "para",
+     "text": "Да́веча, как сюда́ шёл, по́мнил... Позво́льте-с... (Lúc nãy trên đường tới đây hãy còn nhớ... Xin quan lớn cho một lát ạ...)"
+    },
+    {
+     "t": "para",
+     "text": "Ива́н Евсе́ич по́днял глаза́ к потолку́ и зашевели́л губа́ми. (Ivan Evseich ngước mắt lên trần nhà, mấp máy môi.)"
+    },
+    {
+     "t": "para",
+     "text": "Булде́ев и генера́льша ожида́ли нетерпели́во. (Buldeev và phu nhân sốt ruột chờ.)"
+    },
+    {
+     "t": "para",
+     "text": "— Ну, что же? Скоре́й ду́май! (— Thế nào rồi? Nghĩ mau lên!)"
+    },
+    {
+     "t": "para",
+     "text": "— Сейча́с... Васи́льичу... Я́кову Васи́льичу... Забы́л! (— Dạ ngay đây... Vasilich... Yakov Vasilich... Quên mất rồi!)"
+    },
+    {
+     "t": "para",
+     "text": "Така́я ещё проста́я фами́лия... сло́вно как бы лошади́ная... (Cái họ giản dị thế cơ mà... cứ như là họ nhà ngựa ấy...)"
+    },
+    {
+     "t": "para",
+     "text": "Кобы́лий? Нет, не Кобы́лий. (Kobyly (gốc кобы́ла — ngựa cái) chăng? Không, không phải Kobyly.)"
+    },
+    {
+     "t": "para",
+     "text": "Посто́йте... Жеребцо́в не́што? Нет, и не Жеребцо́в. (Khoan đã... Hay là Zherebtsov (gốc жеребе́ц — ngựa giống)? Không, Zherebtsov cũng không phải.)"
+    },
+    {
+     "t": "para",
+     "text": "По́мню, фами́лия лошади́ная, а кака́я — из головы́ вы́шибло... (Con nhớ rành rành là họ nhà ngựa, mà họ gì thì — bay biến khỏi đầu mất rồi...)"
+    },
+    {
+     "t": "para",
+     "text": "— Жеребя́тников? (— Hay Zherebyatnikov (ngựa non)?)"
+    },
+    {
+     "t": "para",
+     "text": "— Ника́к нет. Посто́йте... Кобыли́цын... Кобыля́тников... Кобеле́в... (— Dạ thưa không phải. Khoan đã... Kobylitsyn... Kobylyatnikov... Kobelev...)"
+    },
+    {
+     "t": "para",
+     "text": "— Э́то уж соба́чья, а не лошади́ная. Жере́бчиков? (— Họ ấy là họ nhà chó rồi (кобе́ль — chó đực), đâu phải nhà ngựa. Hay Zherebchikov?)"
+    },
+    {
+     "t": "para",
+     "text": "— Нет, и не Жере́бчиков... Лошади́нин... Лошако́в... Жере́бкин... Всё не то! (— Dạ không, Zherebchikov cũng chẳng phải... Loshadinin... Loshakov (лоша́к — con la ngựa)... Zherebkin... Toàn trật cả!)"
+    },
+    {
+     "t": "para",
+     "text": "— Ну, так как же я бу́ду ему́ писа́ть? Ты поду́май! (— Thế thì ta biết đề thư cho hắn ra sao đây? Nghĩ cho ra xem nào!)"
+    },
+    {
+     "t": "para",
+     "text": "— Сейча́с. Лоша́дкин... Кобы́лкин... Коренно́й... (— Dạ ngay đây. Loshadkin... Kobylkin... Korennoy (ngựa càng giữa)...)"
+    },
+    {
+     "t": "para",
+     "text": "— Коренни́ков? — спроси́ла генера́льша. (— Korennikov chăng? — phu nhân hỏi.)"
+    },
+    {
+     "t": "para",
+     "text": "— Ника́к нет. Пристяжки́н... Нет, не то! Забы́л! (— Dạ thưa không. Pristyazhkin (ngựa kéo bên)... Không, không phải! Quên mất rồi!)"
+    },
+    {
+     "t": "para",
+     "text": "— Так заче́м же, чёрт тебя́ возьми́, с сове́тами ле́зешь, е́жели забы́л? — рассерди́лся генера́л. — Ступа́й отсю́да вон! (— Đã quên thì còn vác xác đến hiến kế làm gì, quỷ tha ma bắt nhà anh! — quan lớn nổi trận lôi đình. — Cút ngay cho khuất mắt!)"
+    },
+    {
+     "t": "para",
+     "text": "Ива́н Евсе́ич ме́дленно вы́шел, а генера́л схвати́л себя́ за щёку и заходи́л по ко́мнатам. (Ivan Evseich lủi thủi lui ra, còn quan lớn ôm lấy má, đi đi lại lại khắp các phòng.)"
+    },
+    {
+     "t": "para",
+     "text": "— Ой, ба́тюшки! — вопи́л он. — Ой, ма́тушки! Ох, све́та бе́лого не ви́жу! (— Ôi cha mẹ ơi! — ông rống lên. — Ôi trời đất ơi! Ôi, tối tăm cả mặt mũi rồi!)"
+    },
+    {
+     "t": "para",
+     "text": "Прика́зчик вы́шел в сад и, подня́в к не́бу глаза́, стал припомина́ть фами́лию акци́зного: (Viên quản lý ra vườn, ngước mắt lên trời, cố nhớ lại cái họ của viên thuế rượu:)"
+    },
+    {
+     "t": "para",
+     "text": "— Жере́бчиков... Жеребко́вский... Жеребе́нко... Нет, не то! (— Zherebchikov... Zherebkovsky... Zherebenko... Không, không phải!)"
+    },
+    {
+     "t": "para",
+     "text": "Лошади́нский... Лошаде́вич... Жеребко́вич... Кобыля́нский... (Loshadinsky... Loshadevich... Zherebkovich... Kobylyansky...)"
+    },
+    {
+     "t": "para",
+     "text": "Немно́го погодя́ его́ позва́ли к господа́м. (Lát sau, người ta gọi lão lên hầu chủ.)"
+    },
+    {
+     "t": "para",
+     "text": "— Вспо́мнил? — спроси́л генера́л. (— Nhớ ra chưa? — quan lớn hỏi.)"
+    },
+    {
+     "t": "para",
+     "text": "— Ника́к нет, ва́ше превосходи́тельство. (— Dạ thưa quan lớn, chưa ạ.)"
+    },
+    {
+     "t": "para",
+     "text": "— Мо́жет быть, Коня́вский? Лоша́дников? Нет? (— Hay là Konyavsky? Loshadnikov? Cũng không à?)"
+    },
+    {
+     "t": "para",
+     "text": "И в до́ме все напереры́в ста́ли изобрета́ть фами́лии. (Thế là trong nhà, mọi người tranh nhau bịa ra đủ thứ họ.)"
+    },
+    {
+     "t": "para",
+     "text": "Перебра́ли все во́зрасты, по́лы и поро́ды лошаде́й, вспо́мнили гри́ву, копы́та, сбру́ю... (Người ta lục hết mọi lứa tuổi, giống đực cái và nòi ngựa, nhớ ra cả bờm, móng guốc lẫn bộ yên cương...)"
+    },
+    {
+     "t": "para",
+     "text": "В до́ме, в саду́, в людско́й и ку́хне лю́ди ходи́ли из угла́ в у́гол и, почёсывая лбы, иска́ли фами́лию. (Trong nhà, ngoài vườn, dưới buồng gia nhân và trong bếp, người người đi từ góc này sang góc kia, vừa gãi trán vừa lùng cái họ.)"
+    },
+    {
+     "t": "para",
+     "text": "Прика́зчика то и де́ло тре́бовали в дом. (Chốc chốc viên quản lý lại bị đòi lên nhà trên.)"
+    },
+    {
+     "t": "para",
+     "text": "— Табуно́в? — спра́шивали у него́. — Копы́тин? Жеребо́вский? (— Tabunov (đàn ngựa)? — người ta hỏi dồn lão. — Kopytin (móng guốc)? Zherebovsky?)"
+    },
+    {
+     "t": "para",
+     "text": "— Ника́к нет, — отвеча́л Ива́н Евсе́ич и, подня́в вверх глаза́, продолжа́л ду́мать вслух: (— Dạ thưa không phải, — Ivan Evseich đáp, rồi ngước mắt lên, tiếp tục nghĩ thành tiếng:)"
+    },
+    {
+     "t": "para",
+     "text": "— Коне́нко... Конче́нко... Жеребе́ев... Кобыле́ев... (— Konenko... Konchenko... Zherebeev... Kobyleev...)"
+    },
+    {
+     "t": "para",
+     "text": "— Па́па! — крича́ли из де́тской. — Тро́йкин! Узде́чкин! (— Ba ơi! — từ phòng trẻ vọng ra. — Troykin (xe tam mã)! Uzdechkin (dây cương)!)"
+    },
+    {
+     "t": "para",
+     "text": "Взбудора́жилась вся уса́дьба. (Cả trang viên nhốn nháo.)"
+    },
+    {
+     "t": "para",
+     "text": "Нетерпели́вый, заму́ченный генера́л пообеща́л дать пять рубле́й тому́, кто вспо́мнит настоя́щую фами́лию, и за Ива́ном Евсе́ичем ста́ли ходи́ть це́лыми то́лпами... (Quan lớn sốt ruột, bị cơn đau hành đến rạc người, hứa thưởng năm rúp cho ai nhớ ra đúng cái họ — thế là người ta lũ lượt kéo từng đoàn theo chân Ivan Evseich...)"
+    },
+    {
+     "t": "para",
+     "text": "— Гнедо́в! — говори́ли ему́. — Рыси́стый! Лошади́цкий! (— Gnedov (hồng mã)! — người ta xướng với lão. — Rysisty (nước kiệu)! Loshaditsky!)"
+    },
+    {
+     "t": "para",
+     "text": "Но наступи́л ве́чер, а фами́лия всё ещё не была́ на́йдена. (Nhưng chiều tối đã buông mà cái họ vẫn chưa tìm ra.)"
+    },
+    {
+     "t": "para",
+     "text": "Так и спать легли́, не посла́в телегра́ммы. (Rốt cuộc cả nhà đi ngủ, bức điện vẫn không gửi được.)"
+    },
+    {
+     "t": "para",
+     "text": "Генера́л не спал всю ночь, ходи́л из угла́ в у́гол и стона́л... (Quan lớn thức trắng đêm, đi từ góc này sang góc kia mà rên rỉ...)"
+    },
+    {
+     "t": "para",
+     "text": "В тре́тьем часу́ утра́ он вы́шел из до́му и постуча́лся в окно́ к прика́зчику. (Quá hai giờ sáng, ông ra khỏi nhà, gõ vào cửa sổ buồng viên quản lý.)"
+    },
+    {
+     "t": "para",
+     "text": "— Не Ме́ринов ли? — спроси́л он пла́чущим го́лосом. (— Hay là Merinov (ме́рин — ngựa thiến)? — ông hỏi, giọng mếu máo.)"
+    },
+    {
+     "t": "para",
+     "text": "— Нет, не Ме́ринов, ва́ше превосходи́тельство, — отве́тил Ива́н Евсе́ич и винова́то вздохну́л. (— Dạ thưa quan lớn, không phải Merinov, — Ivan Evseich đáp và thở dài đầy hối lỗi.)"
+    },
+    {
+     "t": "para",
+     "text": "— Да мо́жет быть, фами́лия не лошади́ная, а кака́я-нибудь друга́я! (— Mà biết đâu cái họ ấy chẳng phải nhà ngựa, lại là họ gì khác!)"
+    },
+    {
+     "t": "para",
+     "text": "— И́стинно сло́во, ва́ше превосходи́тельство, лошади́ная... Э́то о́чень да́же отли́чно по́мню. (— Dạ thưa quan lớn, lời thật như đếm, đúng là họ nhà ngựa... Điều ấy con nhớ rõ mồn một.)"
+    },
+    {
+     "t": "para",
+     "text": "— Э́кий ты како́й, бра́тец, беспа́мятный... (— Chú mày thật là kẻ đoảng trí hết chỗ nói, anh bạn ạ...)"
+    },
+    {
+     "t": "para",
+     "text": "Для меня́ тепе́рь э́та фами́лия доро́же, ка́жется, всего́ на све́те. Заму́чился! (Bây giờ với ta, cái họ ấy tưởng như quý hơn mọi thứ trên đời. Ta khổ sở hết chỗ nói rồi!)"
+    },
+    {
+     "t": "para",
+     "text": "У́тром генера́л опя́ть посла́л за до́ктором. (Sáng ra, quan lớn lại cho mời bác sĩ.)"
+    },
+    {
+     "t": "para",
+     "text": "— Пуска́й рвёт! — реши́л он. — Нет бо́льше сил терпе́ть... (— Cứ để ông ấy nhổ phắt đi! — ông quyết. — Không còn sức đâu mà chịu nữa...)"
+    },
+    {
+     "t": "para",
+     "text": "Прие́хал до́ктор и вы́рвал больно́й зуб. (Bác sĩ đến và nhổ chiếc răng đau.)"
+    },
+    {
+     "t": "para",
+     "text": "Боль ути́хла то́тчас же, и генера́л успоко́ился. (Cơn đau dịu ngay tức khắc, quan lớn thấy nhẹ cả người.)"
+    },
+    {
+     "t": "para",
+     "text": "Сде́лав своё де́ло и получи́в, что сле́дует, за труд, до́ктор сел в свою́ бри́чку и пое́хал домо́й. (Xong việc, nhận đủ tiền công, bác sĩ leo lên chiếc xe brichka của mình đánh về nhà.)"
+    },
+    {
+     "t": "para",
+     "text": "За воро́тами в по́ле он встре́тил Ива́на Евсе́ича... (Vừa ra khỏi cổng, giữa cánh đồng, ông gặp Ivan Evseich...)"
+    },
+    {
+     "t": "para",
+     "text": "Прика́зчик стоя́л на краю́ доро́ги и, гля́дя сосредото́ченно себе́ под но́ги, о чём-то ду́мал. (Viên quản lý đứng bên vệ đường, mắt dán đăm đăm xuống chân, đang nghĩ ngợi điều gì.)"
+    },
+    {
+     "t": "para",
+     "text": "Су́дя по морщи́нам, борозди́вшим его́ лоб, и по выраже́нию глаз, ду́мы его́ бы́ли напряжённы, мучи́тельны... (Cứ nhìn những nếp nhăn cày trên trán và ánh mắt lão thì biết: lão đang nghĩ căng thẳng, khổ sở lắm...)"
+    },
+    {
+     "t": "para",
+     "text": "— Була́нов... Чересседе́льников... — бормота́л он. — Засупо́нин... Лоша́дский... (— Bulanov (ngựa vàng nhạt)... Chereseddelnikov (đai qua yên ngựa)... — lão lẩm bẩm. — Zasuponin (dây thắng cổ ngựa)... Loshadsky...)"
+    },
+    {
+     "t": "para",
+     "text": "— Ива́н Евсе́ич! — обрати́лся к нему́ до́ктор. — Не могу́ ли я, голу́бчик, купи́ть у вас четверте́й пять овса́? (— Bác Ivan Evseich này! — bác sĩ cất tiếng gọi. — Bác thân mến, tôi mua của các bác chừng dăm đấu yến mạch có được không?)"
+    },
+    {
+     "t": "para",
+     "text": "Мне продаю́т на́ши мужички́ овёс, да уж бо́льно плохо́й... (Cánh nhà quê chỗ tôi cũng bán yến mạch đấy, nhưng xấu quá thể...)"
+    },
+    {
+     "t": "para",
+     "text": "Ива́н Евсе́ич ту́по погляде́л на до́ктора, ка́к-то ди́ко улыбну́лся и, не сказа́в в отве́т ни одного́ сло́ва, всплесну́в рука́ми, побежа́л к уса́дьбе с тако́й быстрото́й, то́чно за ним гнала́сь бе́шеная соба́ка. (Ivan Evseich ngây ra nhìn bác sĩ, nhoẻn một nụ cười ngơ ngẩn, rồi chẳng đáp lấy nửa lời, chỉ đập hai tay vào nhau, ba chân bốn cẳng chạy về trang viên, nhanh như thể bị chó dại đuổi sát sau lưng.)"
+    },
+    {
+     "t": "para",
+     "text": "— Наду́мал, ва́ше превосходи́тельство! — закрича́л он ра́достно, не свои́м го́лосом, влета́я в кабине́т к генера́лу. (— Nghĩ ra rồi, thưa quan lớn! — lão mừng cuống thét lên lạc cả giọng, lao bổ vào thư phòng quan lớn.)"
+    },
+    {
+     "t": "para",
+     "text": "— Наду́мал, дай бог здоро́вья до́ктору! Овсо́в! (— Nghĩ ra rồi, cầu trời ban phước lành cho ông bác sĩ! Ovsov (овёс — yến mạch)!)"
+    },
+    {
+     "t": "para",
+     "text": "Овсо́в фами́лия акци́зного! Овсо́в, ва́ше превосходи́тельство! (Họ viên thuế rượu là Ovsov! Ovsov, thưa quan lớn!)"
+    },
+    {
+     "t": "para",
+     "text": "Посыла́йте депе́шу Овсо́ву! (Quan lớn đánh điện ngay cho Ovsov đi ạ!)"
+    },
+    {
+     "t": "para",
+     "text": "— На́-кося! — сказа́л генера́л с презре́нием и поднёс к лицу́ его́ два ку́киша. (— Xơi này! — quan lớn khinh khỉnh nói, dí sát mặt lão hai cái «kukish» (nắm đấm chìa ngón cái qua kẽ tay — «đừng hòng!»).)"
+    },
+    {
+     "t": "para",
+     "text": "— Не ну́жно мне тепе́рь твое́й лошади́ной фами́лии! На́-кося! (— Bây giờ thì ta thèm vào cái họ nhà ngựa của anh nữa! Xơi này!)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó"
+    },
+    {
+     "t": "vocab",
+     "ru": "отставно́й",
+     "vi": "(quân nhân) đã về hưu, hồi hưu (отставно́й генера́л-майо́р — thiếu tướng hồi hưu; отста́вка — sự về hưu, giải ngũ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "прика́зчик",
+     "vi": "viên quản lý điền trang; người làm công trông coi việc nhà, cửa hàng (thời Nga cũ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "акци́зный",
+     "vi": "viên chức sở thuế rượu (tính từ danh hoá; акци́з — thuế tiêu thụ đặc biệt)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "загова́ривать",
+     "vi": "niệm chú chữa (bệnh, răng); nghĩa bóng загова́ривать зу́бы — nói lảng, đánh trống lảng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "депе́ша",
+     "vi": "bức điện tín (từ cũ; nay nói телегра́мма); посла́ть депе́шу — đánh điện",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "по́льзовать",
+     "vi": "(cũ) chữa bệnh cho ai (≠ по́льзоваться — sử dụng); вы́пользовать — chữa cho khỏi hẳn",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "не́што",
+     "vi": "(dân dã) hay là, chẳng lẽ (= ра́зве); «Жеребцо́в не́што?» — hay là Zherebtsov chăng?",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "вы́шибить",
+     "vi": "đánh bật ra; из головы́ вы́шибло — quên bẵng, bay biến khỏi đầu (câu vô nhân xưng)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кобы́ла",
+     "vi": "ngựa cái (кобыли́ца — ngựa cái giống; gốc loạt họ bịa Кобы́лкин, Кобыля́тников…)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "жеребе́ц",
+     "vi": "ngựa đực giống (жеребёнок — ngựa con; gốc loạt họ Жеребцо́в, Жере́бчиков…)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ме́рин",
+     "vi": "ngựa thiến (gốc họ Ме́ринов); thành ngữ врёт как си́вый ме́рин — nói dối như cuội",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "сбру́я",
+     "vi": "bộ yên cương ngựa (gồm узде́чка — dây cương, седло́ — yên…; gốc họ Узде́чкин)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "овёс",
+     "vi": "yến mạch (thức ăn chính của ngựa; gốc họ Овсо́в — chìa khoá của cả truyện)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ку́киш",
+     "vi": "«quả thị» — nắm tay chìa ngón cái qua kẽ ngón trỏ–giữa, cử chỉ chế giễu khước từ; поднести́ ку́киш — dứ «đừng hòng!»",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

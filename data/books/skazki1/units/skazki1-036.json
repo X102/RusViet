@@ -1,0 +1,191 @@
+{
+ "id": "skazki1-036",
+ "num": 36,
+ "title": "Кочет и курица — Gà trống và gà mái",
+ "vi": "Кочет и курица — Gà trống và gà mái",
+ "ru": "Кочет и курица",
+ "icon": "🐓",
+ "color": "#c2410c",
+ "sectionPrefix": "skazki1-036-s",
+ "group": "Truyện № 61–100",
+ "sections": [
+  {
+   "id": "skazki1-036-s001",
+   "type": "story",
+   "num": 68,
+   "title": "№ 68 · Кочет и курица — Gà trống và gà mái",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Truyện kể tích luỹ kiểu «dây chuyền đổ lỗi» (họ hàng với «Курочка ряба»): gà mái bị thương mắt, rồi từng nhân vật chối tội và đổ cho mắt xích kế tiếp — cây phỉ, đàn dê, người chăn, bà chủ, con lợn — chuỗi cứ dài thêm cho tới con sói buông một câu trơ tráo «Chúa sai tôi làm vậy». Từ кочет là tiếng địa phương miền nam nước Nga, nghĩa là петух (gà trống)."
+    },
+    {
+     "t": "para",
+     "text": "Жили курочка с кочетком, и пошли они в лес по орехи. (Ngày xưa có một cô gà mái và một chú gà trống sống với nhau; một hôm chúng rủ nhau vào rừng hái hạt phỉ.)"
+    },
+    {
+     "t": "para",
+     "text": "Пришли к орешне; кочеток залез на орешню рвать орехи, а курочку оставил на земле подбирать орехи. (Đến bên cây phỉ, gà trống trèo lên cây hái hạt, còn gà mái thì để ở dưới đất nhặt hạt.)"
+    },
+    {
+     "t": "para",
+     "text": "Кочеток кидает, а курочка подбирает. (Gà trống ở trên ném hạt xuống, gà mái ở dưới nhặt hạt lên.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот кинул кочеток орешек, и попал курочке в глазок, и вышиб глазок. (Một lần gà trống ném một hạt phỉ, hạt rơi trúng mắt gà mái, làm văng mất một con mắt.)"
+    },
+    {
+     "t": "para",
+     "text": "Курочка пошла — плачет. (Gà mái lủi thủi bước đi, vừa đi vừa khóc.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот едут бояре и спрашивают: «Курочка, курочка! Что ты плачешь?» (Có mấy ông quý tộc cưỡi ngựa đi qua, hỏi: «Gà mái ơi gà mái! Sao mà khóc thế?»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Мне кочеток вышиб глазок». (— «Gà trống làm văng mất con mắt của tôi rồi».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Кочеток, кочеток! На что ты курочке вышиб глазок?» (— «Gà trống ơi gà trống! Cớ sao lại làm văng mất mắt gà mái?»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Мне орешня портки раздрала». (— «Tại cây phỉ làm rách toạc quần của tôi».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Орешня, орешня! На что ты кочетку портки раздрала?» (— «Cây phỉ ơi cây phỉ! Cớ sao lại làm rách quần gà trống?»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Меня козы подглодали». (— «Tại lũ dê gặm trụi cả tôi».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Козы, козы! На что вы орешню подглодали?» (— «Dê ơi dê! Cớ sao lại gặm trụi cây phỉ?»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Нас пастухи не берегут». (— «Tại bọn chăn dê chẳng trông nom chúng tôi».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Пастухи, пастухи! Что вы коз не берегете?» (— «Người chăn ơi người chăn! Sao không trông nom đàn dê?»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Нас хозяйка блинами не кормит». (— «Tại bà chủ chẳng cho chúng tôi ăn bánh blin».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Хозяйка, хозяйка! Что ты пастухов блинами не кормишь?» (— «Bà chủ ơi bà chủ! Sao không cho người chăn ăn bánh blin?»)"
+    },
+    {
+     "t": "para",
+     "text": "— «У меня свинья опару пролила». (— «Tại con lợn làm đổ hết men bột nhào của tôi».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Свинья, свинья! На что ты у хозяйки опару пролила?» (— «Lợn ơi lợn! Cớ sao lại làm đổ men bột nhào của bà chủ?»)"
+    },
+    {
+     "t": "para",
+     "text": "— «У меня волк поросенчика унес». (— «Tại con sói tha mất chú lợn con của tôi».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Волк, волк! На что ты у свиньи поросенчика унес?» (— «Sói ơi sói! Cớ sao lại tha mất lợn con của lợn mẹ?»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Я есть захотел, мне бог повелел». (— «Tôi đói bụng, Chúa Trời sai tôi làm vậy».)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "глазок",
+     "vi": "con mắt (dạng thân mật của глаз)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "орешек",
+     "vi": "hạt phỉ, hạt dẻ nhỏ (dạng nhỏ của орех)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "боярин",
+     "vi": "quý tộc Nga thời cổ (boyar); số nhiều бояре",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "портки",
+     "vi": "quần (loại quần vải thô của dân quê, từ cũ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "раздрать",
+     "vi": "xé toạc, làm rách (раздрала)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "подглодать",
+     "vi": "gặm trụi, gặm nham nhở (подглодали)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "пастух",
+     "vi": "người chăn gia súc, mục đồng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "беречь",
+     "vi": "giữ gìn, trông nom (берегут, берегёте)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "опара",
+     "vi": "men bột nhào (bột đã ủ men để làm bánh)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "пролить",
+     "vi": "làm đổ, làm tràn (пролила)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "поросёнок",
+     "vi": "lợn con (поросёнчик là dạng thân mật)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "унести",
+     "vi": "tha đi, mang đi (унёс)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "повелеть",
+     "vi": "ra lệnh, sai khiến (повелел)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,240 @@
+{
+ "id": "vhnga-041",
+ "num": 41,
+ "title": "«Зимний вечер» — Chiều đông (Pushkin)",
+ "vi": "«Зимний вечер» — Chiều đông (Pushkin)",
+ "ru": "Зимний вечер",
+ "icon": "🌨️",
+ "color": "#1e40af",
+ "sectionPrefix": "vhnga-041-s",
+ "sections": [
+  {
+   "id": "vhnga-041-s001",
+   "type": "story",
+   "num": 1,
+   "title": "«Зимний вечер» — “Chiều đông” (A. Pushkin, 1825)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Bài thơ «Зимний вечер» (Chiều đông) của Aleksandr Pushkin (Алекса́ндр Серге́евич Пу́шкин, 1799–1837) — cùng tác giả với «Я вас любил…» (bài 1), «Зимнее утро» (bài 8), «Узник» (bài 19), «Я помню чудное мгновенье…» (bài 24), «Пророк» (bài 29) — viết mùa đông năm 1825 tại điền trang Михайловское, nơi nhà thơ bị quản thúc (1824–1826) sau cuộc lưu đày phương Nam; in lần đầu trong niên giám «Се́верные цветы́» năm 1830. Mùa đông ấy cả gia đình đã dọn lên Moskva, Pushkin ở lại gần như đơn độc giữa đồng tuyết; người bầu bạn duy nhất là nhũ mẫu già Ари́на Родио́новна (1758–1828) — chính là «моя́ стару́шка» (bà lão của tôi) và «до́брая подру́жка бе́дной ю́ности мое́й» (người bạn hiền của tuổi xuân nghèo khó) trong bài thơ; chú giải ấn bản hàn lâm xác nhận: bài tả cảnh sống của Pushkin trong cảnh quản thúc, «моя старушка» là nhũ mẫu Arina Rodionovna. Bốn khổ tám dòng, хорей bốn chân, vần chéo; câu mở đầu «Бу́ря мгло́ю не́бо кро́ет» là câu thơ thuộc lòng kinh điển của mọi thế hệ học trò Nga. Khổ 1: bão tuyết được nhân cách hoá qua chuỗi điệp «то…, то…» — lúc gào như thú dữ, lúc khóc như trẻ nhỏ, lúc lay lớp rạ trên mái cũ nát, lúc gõ cửa sổ như người lữ khách muộn đường. Khổ 2: trong túp lều tối và buồn, nhà thơ hỏi bà lão sao lặng thinh bên cửa sổ — mệt vì tiếng bão gào, hay thiu thiu theo tiếng vo vo của con suốt quay sợi. Khổ 3: lời mời ấm áp «Вы́пьем, до́брая подру́жка…» và xin bà hát hai làn điệu dân ca — về chim sẻ ngô «sống lặng lẽ bên kia biển» (dân ca «За́ морем сини́чка не пы́шно жила́…») và về cô gái «sớm mai ra bến nước» (dân ca «По у́лице мостово́й…»). Khổ 4 ghép bốn dòng đầu khổ 1 với bốn dòng đầu khổ 3 — kết cấu vòng tròn: bão vẫn gào ngoài kia, nhưng con người chống chọi bằng hơi ấm tình thân, chén rượu và câu hát. Bạn cùng khoá Lyceum của Pushkin — Михаи́л Я́ковлев — đã phổ nhạc bài thơ thành romance nổi tiếng. Điểm ngữ pháp đáng chú ý: dạng ngắn tính từ «печа́льна и темна́», «утомлена́»; trạng động từ «крутя́» (vừa cuộn xoáy); trọng âm dời lên giới từ «за́ морем»; chuỗi hậu tố giảm nhẹ-âu yếm -ушк-/-ужк-/-ошк- (стару́шка, подру́жка, лачу́жка, око́шко, кру́жка) tạo giọng ấm áp thân mật đối lập với cơn bão; cặp cùng gốc кро́ет (крыть — phủ) và кро́вля (mái lợp). NGUYÊN VĂN đối chiếu CHÉO: culture.ru/poems/5364 (UTF-8, khớp toàn văn; riêng dòng 31 bản này in «с го́ря: где же кру́жка?» hai chấm) + rvb.ru (Собр. соч. в 10 т., ГИХЛ 1959–62, т.2, стр.113 — cp1251 mojibake nhưng giải mã khớp độ dài từng từ và dấu câu toàn bài: xác nhận «го́ря;» chấm phẩy ở CẢ khổ 3 lẫn khổ 4 — CHỌN theo bản hàn lâm; «И печа́льна и темна́.» không có phẩy giữa hai vế)."
+    },
+    {
+     "t": "para",
+     "text": "Бу́ря мгло́ю не́бо кро́ет, (Bão tuyết phủ kín trời trong màn mù xám,)"
+    },
+    {
+     "t": "para",
+     "text": "Ви́хри сне́жные крутя́; (Cuộn xoáy từng cơn lốc tuyết quay cuồng;)"
+    },
+    {
+     "t": "para",
+     "text": "То, как зверь, она́ заво́ет, (Lúc nó gào rú như thú dữ,)"
+    },
+    {
+     "t": "para",
+     "text": "То запла́чет, как дитя́, (Lúc lại nức nở như trẻ nhỏ,)"
+    },
+    {
+     "t": "para",
+     "text": "То по кро́вле обветша́лой (Lúc trên mái nhà cũ nát)"
+    },
+    {
+     "t": "para",
+     "text": "Вдруг соло́мой зашуми́т, (Bỗng lay lớp rạ kêu xào xạc,)"
+    },
+    {
+     "t": "para",
+     "text": "То, как пу́тник запозда́лый, (Lúc như người lữ khách muộn đường,)"
+    },
+    {
+     "t": "para",
+     "text": "К нам в око́шко застучи́т. (Gõ cồm cộp vào ô cửa sổ nhà ta.)"
+    },
+    {
+     "t": "para",
+     "text": "На́ша ве́тхая лачу́жка (Túp lều ọp ẹp của chúng ta)"
+    },
+    {
+     "t": "para",
+     "text": "И печа́льна и темна́. (Vừa buồn bã vừa tối tăm.)"
+    },
+    {
+     "t": "para",
+     "text": "Что же ты, моя́ стару́шка, (Sao thế, bà lão thân thương của tôi,)"
+    },
+    {
+     "t": "para",
+     "text": "Приумо́лкла у окна́? (Bà lặng thinh bên cửa sổ?)"
+    },
+    {
+     "t": "para",
+     "text": "И́ли бу́ри завыва́ньем (Phải chăng tiếng bão tuyết gào rú)"
+    },
+    {
+     "t": "para",
+     "text": "Ты, мой друг, утомлена́, (Đã làm bà — người bạn của tôi — mỏi mệt,)"
+    },
+    {
+     "t": "para",
+     "text": "И́ли дре́млешь под жужжа́ньем (Hay bà thiu thiu theo tiếng vo vo)"
+    },
+    {
+     "t": "para",
+     "text": "Своего́ веретена́? (Của con suốt quay sợi trong tay?)"
+    },
+    {
+     "t": "para",
+     "text": "Вы́пьем, до́брая подру́жка (Nào cạn chén, người bạn hiền)"
+    },
+    {
+     "t": "para",
+     "text": "Бе́дной ю́ности мое́й, (Của tuổi xuân nghèo khó đời tôi,)"
+    },
+    {
+     "t": "para",
+     "text": "Вы́пьем с го́ря; где же кру́жка? (Uống cho khuây nỗi buồn; chiếc ca đâu rồi?)"
+    },
+    {
+     "t": "para",
+     "text": "Се́рдцу бу́дет веселе́й. (Cho lòng ta vui lên đôi chút.)"
+    },
+    {
+     "t": "para",
+     "text": "Спой мне пе́сню, как сини́ца (Hát tôi nghe khúc hát về chim sẻ ngô)"
+    },
+    {
+     "t": "para",
+     "text": "Ти́хо за́ морем жила́; (Sống lặng lẽ bên kia biển cả;)"
+    },
+    {
+     "t": "para",
+     "text": "Спой мне пе́сню, как деви́ца (Hát tôi nghe khúc hát về cô thôn nữ)"
+    },
+    {
+     "t": "para",
+     "text": "За водо́й поутру́ шла. (Sớm mai ra bến lấy nước.)"
+    },
+    {
+     "t": "para",
+     "text": "Бу́ря мгло́ю не́бо кро́ет, (Bão tuyết phủ kín trời trong màn mù xám,)"
+    },
+    {
+     "t": "para",
+     "text": "Ви́хри сне́жные крутя́; (Cuộn xoáy từng cơn lốc tuyết quay cuồng;)"
+    },
+    {
+     "t": "para",
+     "text": "То, как зверь, она́ заво́ет, (Lúc nó gào rú như thú dữ,)"
+    },
+    {
+     "t": "para",
+     "text": "То запла́чет, как дитя́. (Lúc lại nức nở như trẻ nhỏ.)"
+    },
+    {
+     "t": "para",
+     "text": "Вы́пьем, до́брая подру́жка (Nào cạn chén, người bạn hiền)"
+    },
+    {
+     "t": "para",
+     "text": "Бе́дной ю́ности мое́й, (Của tuổi xuân nghèo khó đời tôi,)"
+    },
+    {
+     "t": "para",
+     "text": "Вы́пьем с го́ря; где же кру́жка? (Uống cho khuây nỗi buồn; chiếc ca đâu rồi?)"
+    },
+    {
+     "t": "para",
+     "text": "Се́рдцу бу́дет веселе́й. (Cho lòng ta vui lên đôi chút.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó"
+    },
+    {
+     "t": "vocab",
+     "ru": "вихрь",
+     "vi": "cơn lốc, gió xoáy (ви́хри сне́жные крутя́ — cuộn xoáy từng cơn lốc tuyết)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "крути́ть",
+     "vi": "quay, xoáy, cuộn (крутя́ — trạng động từ: vừa cuộn xoáy; bão vừa phủ trời vừa cuộn lốc tuyết)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "завы́ть",
+     "vi": "cất tiếng hú, gào rú lên (выть — hú; за- chỉ sự bắt đầu; завыва́нье — tiếng gào rú kéo dài, gặp ở khổ 2)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кро́вля",
+     "vi": "mái nhà, nóc lợp (cùng gốc với крыть — lợp, phủ — chính là кро́ет ở dòng đầu bài!)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "обветша́лый",
+     "vi": "cũ nát, xơ xác vì năm tháng (cùng họ với ве́тхий; mái rạ cũ nát gió lùa kêu xào xạc)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ве́тхий",
+     "vi": "cũ kỹ, ọp ẹp, tàn tạ (ве́тхая лачу́жка — túp lều ọp ẹp; Ве́тхий Заве́т — Cựu Ước)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "соло́ма",
+     "vi": "rơm, rạ (mái nhà nghèo nước Nga xưa lợp bằng rơm rạ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "пу́тник",
+     "vi": "người lữ khách, khách bộ hành (путь — con đường; пу́тник запозда́лый gõ cửa giữa đêm bão)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "запозда́лый",
+     "vi": "muộn màng, đến trễ (запозда́ть — đến muộn; cùng gốc по́здно — muộn)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "око́шко",
+     "vi": "ô cửa sổ nhỏ (dạng giảm nhẹ-âu yếm của окно́; nhà gỗ Nga trổ cửa sổ bé để chống rét)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "лачу́жка",
+     "vi": "túp lều nhỏ tồi tàn (giảm nhẹ của лачу́га — lều nát; ở đây chỉ ngôi nhà nhỏ ở Mikhailovskoye)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "приумо́лкнуть",
+     "vi": "lặng thinh đi, im bặt (умо́лкнуть — im tiếng; при- thêm sắc thái dịu nhẹ, dần dần)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "веретено́",
+     "vi": "con suốt, cọc quay sợi (dụng cụ kéo sợi của các bà lão Nga; sở hữu cách веретена́ — trọng âm dồn đuôi)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кру́жка",
+     "vi": "chiếc ca, cốc vại có quai (вы́пьем — где же кру́жка? — cạn chén thôi, ca đâu rồi?)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

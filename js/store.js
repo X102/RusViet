@@ -2,7 +2,7 @@
 (function(RG){
   const KEY='rusviet.v1';
   const def={
-    settings:{theme:'light',ttsRate:.9,voiceURI:'',fontSize:17,showStress:true,autoplay:false,readVi:true,autoOnline:true},
+    settings:{theme:'light',ttsRate:.9,voiceURI:'',fontSize:17,showStress:true,autoplay:false,readVi:true,autoOnline:true,onlineTTS:true},
     progress:{}, highlights:{}, notes:{}, srs:{}, recent:[], lastSeen:{}
   };
   let state;

@@ -1,0 +1,209 @@
+{
+ "id": "vhnga-024",
+ "num": 24,
+ "title": "«Я помню чудное мгновенье…» — Anh nhớ mãi phút giây huyền diệu (Pushkin)",
+ "vi": "«Я помню чудное мгновенье…» — Anh nhớ mãi phút giây huyền diệu (Pushkin)",
+ "ru": "К*** (Я помню чудное мгновенье…)",
+ "icon": "✨",
+ "color": "#db2777",
+ "sectionPrefix": "vhnga-024-s",
+ "group": "Александр Пушкин · Thơ",
+ "sections": [
+  {
+   "id": "vhnga-024-s001",
+   "type": "story",
+   "num": 1,
+   "title": "«К***» — “Gửi K***” (A. Pushkin, 1825)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Bài thơ tình nổi tiếng bậc nhất của A.X. Puskin (Александр Сергеевич Пушкин, 1799–1837), viết năm 1825 tại Mikhailovskoye, tặng Anna Petrovna Kern — «К***» là cách giấu tên nàng. Sáu năm sau lần gặp đầu tiên ở Peterburg (1819), nhà thơ đang chịu quản thúc thì gặp lại Kern ở điền trang láng giềng Trigorskoye — và «phút giây kỳ diệu» sống dậy. Hình tượng «гений чистой красоты» (hiện thân của cái đẹp thanh khiết) mượn từ thơ V. Zhukovsky. Năm 1840, M. Glinka phổ nhạc thành bản romance kinh điển. Bố cục 6 khổ thơ 4 dòng: gặp gỡ — chia xa — lãng quên — tăm tối — thức tỉnh — hồi sinh."
+    },
+    {
+     "t": "para",
+     "text": "Я по́мню чу́дное мгнове́нье: (Anh nhớ mãi phút giây huyền diệu:)"
+    },
+    {
+     "t": "para",
+     "text": "Передо мно́й яви́лась ты, (Trước mắt anh em bỗng hiện ra,)"
+    },
+    {
+     "t": "para",
+     "text": "Как мимолётное виде́нье, (Như ảo ảnh thoáng qua vụt biến,)"
+    },
+    {
+     "t": "para",
+     "text": "Как ге́ний чи́стой красоты́. (Như hiện thân của cái đẹp tinh khôi.)"
+    },
+    {
+     "t": "para",
+     "text": "В томле́ньях гру́сти безнаде́жной, (Giữa giày vò của nỗi buồn vô vọng,)"
+    },
+    {
+     "t": "para",
+     "text": "В трево́гах шу́мной суеты́, (Giữa xốn xang đời huyên náo phù hoa,)"
+    },
+    {
+     "t": "para",
+     "text": "Звуча́л мне до́лго го́лос не́жный (Giọng nói dịu dàng bên anh vẳng mãi)"
+    },
+    {
+     "t": "para",
+     "text": "И сни́лись ми́лые черты́. (Và bóng hình yêu dấu hiện về trong mơ.)"
+    },
+    {
+     "t": "para",
+     "text": "Шли го́ды. Бурь поры́в мяте́жный (Năm tháng trôi. Cơn bão đời cuồng nộ)"
+    },
+    {
+     "t": "para",
+     "text": "Рассе́ял пре́жние мечты́, (Xua tan đi bao mộng ước ngày xưa,)"
+    },
+    {
+     "t": "para",
+     "text": "И я забы́л твой го́лос не́жный, (Và anh đã quên giọng em êm dịu,)"
+    },
+    {
+     "t": "para",
+     "text": "Твои́ небе́сные черты́. (Quên gương mặt em tựa dáng thiên thần.)"
+    },
+    {
+     "t": "para",
+     "text": "В глуши́, во мра́ке заточе́нья (Nơi hẻo lánh, trong giam cầm tăm tối)"
+    },
+    {
+     "t": "para",
+     "text": "Тяну́лись ти́хо дни мои́ (Ngày tháng đời anh lặng lẽ lê dài)"
+    },
+    {
+     "t": "para",
+     "text": "Без божества́, без вдохнове́нья, (Không thần thánh, không nguồn cảm hứng,)"
+    },
+    {
+     "t": "para",
+     "text": "Без слёз, без жи́зни, без любви́. (Không nước mắt, không sự sống, không tình yêu.)"
+    },
+    {
+     "t": "para",
+     "text": "Душе́ наста́ло пробужде́нье: (Rồi hồn anh chợt bừng tỉnh giấc:)"
+    },
+    {
+     "t": "para",
+     "text": "И вот опя́ть яви́лась ты, (Và em lại hiện ra trước mắt,)"
+    },
+    {
+     "t": "para",
+     "text": "Как мимолётное виде́нье, (Như ảo ảnh thoáng qua vụt biến,)"
+    },
+    {
+     "t": "para",
+     "text": "Как ге́ний чи́стой красоты́. (Như hiện thân của cái đẹp tinh khôi.)"
+    },
+    {
+     "t": "para",
+     "text": "И се́рдце бьётся в упое́нье, (Và con tim đập rộn ràng ngây ngất,)"
+    },
+    {
+     "t": "para",
+     "text": "И для него́ воскре́сли вновь (Và trong tim sống dậy vẹn nguyên)"
+    },
+    {
+     "t": "para",
+     "text": "И божество́, и вдохнове́нье, (Cả thần thánh, cả nguồn cảm hứng,)"
+    },
+    {
+     "t": "para",
+     "text": "И жизнь, и слёзы, и любо́вь. (Cả cuộc đời, cả nước mắt, cả tình yêu.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó"
+    },
+    {
+     "t": "vocab",
+     "ru": "мгнове́нье",
+     "vi": "khoảnh khắc, phút giây (dạng thơ của «мгновение»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "яви́ться",
+     "vi": "hiện ra, xuất hiện",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "мимолётный",
+     "vi": "thoáng qua, vụt thoáng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "виде́нье",
+     "vi": "ảo ảnh, bóng hình hư ảo (dạng thơ của «видение»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ге́ний",
+     "vi": "thiên tài; (nghĩa cổ trong thơ) thần linh, hiện thân",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "томле́нье",
+     "vi": "nỗi khắc khoải, niềm giày vò",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "сни́ться",
+     "vi": "hiện về trong giấc mơ (мне сни́тся — tôi mơ thấy)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "рассе́ять",
+     "vi": "xua tan, làm tan tác",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "глушь",
+     "vi": "chốn hẻo lánh, thâm sơn cùng cốc",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "заточе́нье",
+     "vi": "cảnh giam cầm, tù hãm",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "божество́",
+     "vi": "thần thánh, đấng thiêng liêng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "вдохнове́нье",
+     "vi": "nguồn cảm hứng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "упое́нье",
+     "vi": "niềm ngây ngất, say đắm",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "воскре́снуть",
+     "vi": "sống lại, hồi sinh",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

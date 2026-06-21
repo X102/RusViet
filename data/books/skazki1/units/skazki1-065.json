@@ -1,0 +1,1349 @@
+{
+ "id": "skazki1-065",
+ "num": 65,
+ "title": "Ивашко и ведьма — Ivashko và mụ phù thuỷ",
+ "vi": "Ивашко и ведьма — Ivashko và mụ phù thuỷ",
+ "ru": "Ивашко и ведьма",
+ "icon": "🛶",
+ "color": "#0f766e",
+ "sectionPrefix": "skazki1-065-s",
+ "group": "Truyện № 101–140",
+ "sections": [
+  {
+   "id": "skazki1-065-s001",
+   "type": "story",
+   "num": 108,
+   "title": "№ 108 · Ивашко и ведьма — Ivashko và mụ phù thuỷ",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Dị bản đầu (1/4) của kiểu truyện ATU 327C/F «Ивашко и ведьма» — anh em với «Баба-яга и жихарь» (unit 064), nhưng nhân vật là cậu bé đánh cá: phù thuỷ nhờ thợ rèn rèn giọng mảnh giả tiếng mẹ để bắt cóc; đủ các mô-típ kinh điển — nướng ngược con gái mụ (ATU 1121), gặm cây sồi bằng răng sắt, đàn ngỗng trời–thiên nga cứu về. Văn bản pha màu Ukraina (чо́вник, матинька, нема, щось таке́)."
+    },
+    {
+     "t": "para",
+     "text": "Жил себе дед да баба, у них был один сыночек Ивашечко; они его так-то уж любили, что и сказать нельзя! (Ngày xưa có hai ông bà lão, sinh được mỗi một cậu con trai tên là Ivashechko; ông bà cưng cậu đến mức không lời nào tả xiết!)"
+    },
+    {
+     "t": "para",
+     "text": "Вот просит Ивашечко у отца и матери: «Пустите меня, я поеду рыбку ловить». (Một hôm Ivashechko xin cha mẹ: «Cha mẹ cho con đi, con chèo thuyền đi câu cá nhé».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Куда тебе! Ты еще мал, пожалуй, утонешь, чего доброго!» (— «Con đi sao được! Con còn bé lắm, nhỡ chết đuối thì khốn!»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Нет, не утону; я буду вам рыбку ловить: пустите!» (— «Không, con không chết đuối đâu; con sẽ câu cá về cho cha mẹ: cho con đi đi mà!»)"
+    },
+    {
+     "t": "para",
+     "text": "Баба надела на него белую рубашечку, красным поясом подпоясала и отпустила Ивашечка. (Bà lão mặc cho cậu chiếc áo cánh trắng, thắt cho dải thắt lưng đỏ rồi để Ivashechko đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот он сел в лодку и говорит: (Cậu xuống ngồi vào thuyền và cất tiếng:)"
+    },
+    {
+     "t": "para",
+     "text": "Чо́вник, чо́вник, плыви дальшенько! (Thuyền con ơi, thuyền con, bơi ra xa xa nữa!)"
+    },
+    {
+     "t": "para",
+     "text": "Чо́вник, чо́вник, плыви дальшенько! (Thuyền con ơi, thuyền con, bơi ra xa xa nữa!)"
+    },
+    {
+     "t": "para",
+     "text": "Челнок поплыл далеко-далеко, а Ивашко стал ловить рыбку. (Chiếc thuyền con trôi ra xa thật xa, còn Ivashko bắt đầu câu cá.)"
+    },
+    {
+     "t": "para",
+     "text": "Прошло мало ли, много ли времени, притащилась баба на́ берег и зовет своего сынка: (Chẳng biết qua ít lâu hay nhiều lâu, bà lão lặn lội ra bờ sông gọi con trai:)"
+    },
+    {
+     "t": "para",
+     "text": "Ивашечко, Ивашечко, мой сыночек! (Ivashechko, Ivashechko, con trai bé bỏng của mẹ!)"
+    },
+    {
+     "t": "para",
+     "text": "Приплынь, приплынь на бережочек; (Bơi vào, bơi vào bờ với mẹ;)"
+    },
+    {
+     "t": "para",
+     "text": "Я тебе есть и пить принесла. (Mẹ mang đồ ăn thức uống cho con đây.)"
+    },
+    {
+     "t": "para",
+     "text": "А Ивашко говорит: (Ivashko liền nói:)"
+    },
+    {
+     "t": "para",
+     "text": "Чо́вник, чо́вник, плыви к бережку: (Thuyền con ơi, thuyền con, bơi vào bờ thôi:)"
+    },
+    {
+     "t": "para",
+     "text": "То меня матинька зовет. (Ấy là mẹ yêu đang gọi ta đó.)"
+    },
+    {
+     "t": "para",
+     "text": "Челнок приплыл к бережку; баба забрала рыбу, накормила-напоила своего сына, переменила ему рубашечку и поясок и отпустила опять ловить рыбку. (Thuyền cập bờ; bà lão nhận cá, cho con ăn uống no nê, thay cho cậu chiếc áo và dải thắt lưng mới, rồi lại để con đi câu.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот он сел в лодочку и говорит: (Cậu lại ngồi vào chiếc thuyền nhỏ và cất tiếng:)"
+    },
+    {
+     "t": "para",
+     "text": "Чо́вник, чо́вник, плыви дальшенько! (Thuyền con ơi, thuyền con, bơi ra xa xa nữa!)"
+    },
+    {
+     "t": "para",
+     "text": "Чо́вник, чо́вник, плыви дальшенько! (Thuyền con ơi, thuyền con, bơi ra xa xa nữa!)"
+    },
+    {
+     "t": "para",
+     "text": "Челнок поплыл далеко-далеко, а Ивашко стал ловить рыбку. (Thuyền con lại trôi ra xa thật xa, còn Ivashko bắt đầu câu cá.)"
+    },
+    {
+     "t": "para",
+     "text": "Прошло мало ли, много ли времени, притащился дед на́ берег и зовет своего сынка: (Chẳng biết qua ít lâu hay nhiều lâu, ông lão lặn lội ra bờ sông gọi con trai:)"
+    },
+    {
+     "t": "para",
+     "text": "Ивашечко, Ивашечко, мой сыночек! (Ivashechko, Ivashechko, con trai bé bỏng của cha!)"
+    },
+    {
+     "t": "para",
+     "text": "Приплынь, приплынь на бережочек; (Bơi vào, bơi vào bờ với cha;)"
+    },
+    {
+     "t": "para",
+     "text": "Я тебе есть и пить принес. (Cha mang đồ ăn thức uống cho con đây.)"
+    },
+    {
+     "t": "para",
+     "text": "А Ивашко: (Ivashko liền đáp:)"
+    },
+    {
+     "t": "para",
+     "text": "Чо́вник, чо́вник, плыви к бережку: (Thuyền con ơi, thuyền con, bơi vào bờ thôi:)"
+    },
+    {
+     "t": "para",
+     "text": "То меня батинька зовет. (Ấy là cha yêu đang gọi ta đó.)"
+    },
+    {
+     "t": "para",
+     "text": "Челнок приплыл к бережку; дед забрал рыбу, накормил-напоил сынка, переменил ему рубашечку и поясок и отпустил опять ловить рыбку. (Thuyền cập bờ; ông lão nhận cá, cho con ăn uống no nê, thay áo thay thắt lưng cho con, rồi lại để con đi câu.)"
+    },
+    {
+     "t": "para",
+     "text": "Ведьма слышала, как дед и баба призывали Ивашку, и захотелось ей овладать мальчиком. (Mụ phù thuỷ nghe lỏm được cách hai ông bà gọi Ivashka, và mụ nảy lòng muốn chiếm đoạt cậu bé.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот приходит она на́ берег и кричит хриплым голосом: (Thế là mụ mò ra bờ sông, cất giọng khàn khàn mà gào:)"
+    },
+    {
+     "t": "para",
+     "text": "Ивашечко, Ивашечко, мой сыночек! (Ivashechko, Ivashechko, con trai bé bỏng của mẹ!)"
+    },
+    {
+     "t": "para",
+     "text": "Приплынь, приплынь на бережочек; (Bơi vào, bơi vào bờ với mẹ;)"
+    },
+    {
+     "t": "para",
+     "text": "Я тебе есть и пить принесла. (Mẹ mang đồ ăn thức uống cho con đây.)"
+    },
+    {
+     "t": "para",
+     "text": "Ивашко слышит, что это голос не его матери, а голос ведьмы, и поет: (Ivashko nghe ra đó không phải giọng mẹ mình mà là giọng mụ phù thuỷ, bèn hát:)"
+    },
+    {
+     "t": "para",
+     "text": "Чо́вник, чо́вник, плыви дальшенько, (Thuyền con ơi, thuyền con, bơi ra xa xa nữa,)"
+    },
+    {
+     "t": "para",
+     "text": "Чо́вник, чо́вник, плыви дальшенько: (Thuyền con ơi, thuyền con, bơi ra xa xa nữa:)"
+    },
+    {
+     "t": "para",
+     "text": "То меня не мать зовет, то меня ведьма зовет. (Chẳng phải mẹ ta gọi đâu, là mụ phù thuỷ gọi ta đấy.)"
+    },
+    {
+     "t": "para",
+     "text": "Ведьма увидела, что надобно звать Ивашку тем же голосом, каким его мать зовет, побежала к кузнецу и просит его: «Ковалику, ковалику! Скуй мне такой тонесенький голосок, как у Ивашкиной матери; а то я тебя съем!» (Mụ phù thuỷ hiểu ra rằng phải gọi Ivashka bằng đúng cái giọng mẹ cậu vẫn gọi, bèn chạy đến bác thợ rèn mà nài: «Bác thợ rèn ơi, bác thợ rèn! Rèn cho ta giọng nói thật thanh thật mảnh như giọng mẹ thằng Ivashka; không thì ta ăn thịt nhà ngươi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Коваль сковал ей такой голосок, как у Ивашкиной матери. (Bác thợ rèn rèn cho mụ giọng nói y hệt giọng mẹ Ivashka.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот ведьма пришла ночью на бережок и поет: (Đêm đến, mụ phù thuỷ ra bờ sông và hát:)"
+    },
+    {
+     "t": "para",
+     "text": "Ивашечко, Ивашечко, мой сыночек! (Ivashechko, Ivashechko, con trai bé bỏng của mẹ!)"
+    },
+    {
+     "t": "para",
+     "text": "Приплынь, приплынь на бережочек; (Bơi vào, bơi vào bờ với mẹ;)"
+    },
+    {
+     "t": "para",
+     "text": "Я тебе есть и пить принесла. (Mẹ mang đồ ăn thức uống cho con đây.)"
+    },
+    {
+     "t": "para",
+     "text": "Ивашко приплыл; она рыбу забрала, его самого схватила и унесла к себе. (Ivashko bơi vào; mụ lấy chỗ cá, tóm luôn cậu bé tha về nhà mụ.)"
+    },
+    {
+     "t": "para",
+     "text": "Пришла домой и заставляет свою дочь Аленку: «Истопи печь пожарче да сжарь хорошенько Ивашку, а я пойду соберу гостей — моих приятелей». (Về đến nhà, mụ sai con gái là Alenka: «Đốt lò cho thật nóng rồi nướng thằng Ivashka cho chín kỹ, còn tao đi gom khách khứa — toàn bạn bè thân thiết của tao».)"
+    },
+    {
+     "t": "para",
+     "text": "Вот Аленка истопила печь жарко-жарко и говорит Ивашке: «Ступай, садись на лопату!» (Alenka đốt lò nóng rừng rực rồi bảo Ivashka: «Nào, leo lên cái xẻng nướng bánh mà ngồi!»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Я еще мал и глуп, — отвечает Ивашко, — я ничего еще не умею — не разумею; поучи меня, как надо сесть на лопату». (— «Em còn bé dại lắm, — Ivashko đáp, — em chưa biết chưa hiểu gì sất; chị dạy em xem phải ngồi lên xẻng thế nào».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Хорошо, — говорит Аленка, — поучить недолго!» — и только села она на лопату, Ивашко так и барахнул ее в печь и закрыл заслонкой, а сам вышел из хаты, запер двери и влез на высокий-высокий дуб. (— «Được thôi, — Alenka nói, — dạy thì mấy hồi!» — ả vừa ngồi lên xẻng, Ivashko liền tống luôn ả vào lò, đậy tấm chắn lò lại, rồi ra khỏi nhà, cài chặt cửa và trèo lên một cây sồi cao chót vót.)"
+    },
+    {
+     "t": "para",
+     "text": "Ведьма приходит с гостями и стучится в хату; никто не отворяет ей дверей. (Mụ phù thuỷ dẫn khách về, gõ cửa nhà; chẳng ai ra mở.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ах, проклятая Аленка! Верно, ушла куда-нибудь играть». («Chà, con Alenka chết tiệt! Chắc lại bỏ đi chơi đâu rồi».)"
+    },
+    {
+     "t": "para",
+     "text": "Влезла ведьма в окно, отворила двери и впустила гостей; все уселись за стол, а ведьма открыла заслонку, достала жареную Аленку — и на стол: ели-ели, пили-пили и вышли на двор и стали валяться на траве. (Mụ chui qua cửa sổ, mở cửa đón khách vào; cả bọn ngồi vào bàn, mụ mở tấm chắn lò, lôi món Alenka nướng ra — dọn lên bàn: chén tì tì, uống tì tì, rồi cả lũ kéo nhau ra sân lăn lê trên cỏ.)"
+    },
+    {
+     "t": "para",
+     "text": "«Покатюся, повалюся, Ивашкина мясца наевшись! — кричит ведьма. — Покатюся, повалюся, Ивашкина мясца наевшись!» («Ta lăn này, ta lê này, chén đẫy thịt thằng Ivashka rồi! — mụ phù thuỷ gào. — Ta lăn này, ta lê này, chén đẫy thịt thằng Ivashka rồi!»)"
+    },
+    {
+     "t": "para",
+     "text": "А Ивашко переговаривает ее с верху дуба: «Покатайся, поваляйся, Аленкина мясца наевшись!» (Còn Ivashko từ ngọn sồi nhại lại mụ: «Cứ lăn đi, cứ lê đi, chén đẫy thịt con Alenka rồi đấy!»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Мне что-то послышалось», — говорит ведьма. (— «Hình như tao vừa nghe thấy gì đó», — mụ phù thuỷ nói.)"
+    },
+    {
+     "t": "para",
+     "text": "«Это листья шумят!» («Lá cây xào xạc đấy thôi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Опять ведьма говорит: «Покатюся, повалюся, Ивашкина мясца наевшись!», а Ивашко свое: «Покатися, повалися, Аленкина мясца наевшись!» (Mụ lại gào: «Ta lăn này, ta lê này, chén đẫy thịt thằng Ivashka rồi!», còn Ivashko vẫn lời cũ: «Cứ lăn đi, cứ lê đi, chén đẫy thịt con Alenka rồi đấy!»)"
+    },
+    {
+     "t": "para",
+     "text": "Ведьма посмотрела вверх и увидела Ивашку; бросилась она грызть дуб — тот самый, где сидел Ивашко, грызла, грызла, грызла — два передних зуба выломала и побежала в кузню. (Mụ ngước lên thì thấy Ivashka; mụ lao vào gặm cây sồi — đúng cái cây Ivashko đang ngồi, gặm mãi, gặm mãi, gặm mãi — gãy luôn hai cái răng cửa, đành chạy tới lò rèn.)"
+    },
+    {
+     "t": "para",
+     "text": "Прибежала и говорит: «Ковалику, ковалику! Скуй мне железные зубы, а не то я тебя съем!» (Chạy đến nơi, mụ nói: «Bác thợ rèn ơi, bác thợ rèn! Rèn cho ta bộ răng sắt, không thì ta ăn thịt nhà ngươi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Коваль сковал ей два железных зуба. (Bác thợ rèn rèn cho mụ hai chiếc răng sắt.)"
+    },
+    {
+     "t": "para",
+     "text": "Воротилась ведьма и стала опять грызть дуб; грызла, грызла, и только что перегрызла, как Ивашко взял да и перескочил на другой, соседний дуб, а тот, что ведьма перегрызла, рухнул наземь. (Mụ quay lại gặm tiếp cây sồi; gặm mãi gặm mãi, vừa gặm đứt thì Ivashko đã nhảy phắt sang cây sồi khác ngay bên cạnh, còn cái cây mụ gặm đứt thì đổ rầm xuống đất.)"
+    },
+    {
+     "t": "para",
+     "text": "Ведьма видит, что Ивашко сидит уже на другом дубе, заскрипела от злости зубами и принялась снова грызть дерево; грызла, грызла, грызла — два нижних зуба выломала и побежала в кузню. (Mụ thấy Ivashko đã ngồi vắt vẻo trên cây sồi khác, tức tối nghiến răng ken két, lại xông vào gặm cây; gặm mãi, gặm mãi, gặm mãi — gãy thêm hai chiếc răng hàm dưới, lại ba chân bốn cẳng chạy tới lò rèn.)"
+    },
+    {
+     "t": "para",
+     "text": "Прибежала и говорит: «Ковалику, ковалику! Скуй мне железные зубы, а не то я тебя съем!» (Chạy đến nơi, mụ nói: «Bác thợ rèn ơi, bác thợ rèn! Rèn cho ta bộ răng sắt, không thì ta ăn thịt nhà ngươi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Коваль сковал ей еще два железных зуба. (Bác thợ rèn rèn cho mụ thêm hai chiếc răng sắt nữa.)"
+    },
+    {
+     "t": "para",
+     "text": "Воротилась ведьма и стала опять грызть дуб. (Mụ quay lại và lại gặm cây sồi.)"
+    },
+    {
+     "t": "para",
+     "text": "Ивашко не знает, что ему и делать теперь; смотрит: летят гуси-лебеди; он и просит их: (Ivashko chẳng còn biết phải làm sao nữa; chợt nhìn: một đàn ngỗng trời–thiên nga bay qua; cậu bèn cất lời xin:)"
+    },
+    {
+     "t": "para",
+     "text": "Гуси мои, лебедята, (Ngỗng trời ơi, thiên nga bé ơi,)"
+    },
+    {
+     "t": "para",
+     "text": "Возьмите меня на крылята, (Cho tôi nương nhờ đôi cánh nhỏ,)"
+    },
+    {
+     "t": "para",
+     "text": "Понесите меня до батиньки, до матиньки; (Mang tôi về với cha yêu, mẹ quý;)"
+    },
+    {
+     "t": "para",
+     "text": "У батиньки, у матиньки (Ở nhà cha, ở nhà mẹ)"
+    },
+    {
+     "t": "para",
+     "text": "Пити-ести, хорошо ходити! (Có ăn có uống, áo quần tươm tất!)"
+    },
+    {
+     "t": "para",
+     "text": "«Пущай тебе середине во́зьмут», — говорят птицы. («Cứ để đàn bay giữa rước mày», — bầy chim đáp.)"
+    },
+    {
+     "t": "para",
+     "text": "Ивашко ждет; летит другое стадо, он опять просит: (Ivashko chờ; đàn thứ hai bay tới, cậu lại xin:)"
+    },
+    {
+     "t": "para",
+     "text": "Гуси мои, лебедята, (Ngỗng trời ơi, thiên nga bé ơi,)"
+    },
+    {
+     "t": "para",
+     "text": "Возьмите меня на крылята, (Cho tôi nương nhờ đôi cánh nhỏ,)"
+    },
+    {
+     "t": "para",
+     "text": "Понесите меня до батиньки, до матиньки; (Mang tôi về với cha yêu, mẹ quý;)"
+    },
+    {
+     "t": "para",
+     "text": "У батиньки, у матиньки (Ở nhà cha, ở nhà mẹ)"
+    },
+    {
+     "t": "para",
+     "text": "Пити-ести, хорошо ходити! (Có ăn có uống, áo quần tươm tất!)"
+    },
+    {
+     "t": "para",
+     "text": "«Пущай тебя задние во́зьмуть». («Cứ để đàn bay sau cùng rước mày».)"
+    },
+    {
+     "t": "para",
+     "text": "Ивашко опять ждет; летит третье стадо, он просит: (Ivashko lại chờ; đàn thứ ba bay tới, cậu xin:)"
+    },
+    {
+     "t": "para",
+     "text": "Гуси мои, лебедята, (Ngỗng trời ơi, thiên nga bé ơi,)"
+    },
+    {
+     "t": "para",
+     "text": "Возьмите меня на крылята, (Cho tôi nương nhờ đôi cánh nhỏ,)"
+    },
+    {
+     "t": "para",
+     "text": "Понесите меня до батиньки, до матиньки; (Mang tôi về với cha yêu, mẹ quý;)"
+    },
+    {
+     "t": "para",
+     "text": "У батиньки, у матиньки (Ở nhà cha, ở nhà mẹ)"
+    },
+    {
+     "t": "para",
+     "text": "Пити-ести, хорошо ходити! (Có ăn có uống, áo quần tươm tất!)"
+    },
+    {
+     "t": "para",
+     "text": "Гуси-лебеди подхватили его и понесли домой, прилетели к хате и посадили Ивашку на чердак. (Đàn ngỗng trời–thiên nga xốc cậu lên, mang cậu về nhà, bay tới túp nhà và đặt Ivashka lên gác xép.)"
+    },
+    {
+     "t": "para",
+     "text": "Рано поутру баба собралась печь блины, печет, а сама вспоминает сынка: «Где-то мой Ивашечко? Хоть бы во сне его увидать!» (Sáng sớm hôm sau, bà lão sửa soạn rán bánh blin, vừa rán vừa nhớ con: «Ivashechko của mẹ giờ nơi đâu? Ước gì thấy con trong mơ cũng được!»)"
+    },
+    {
+     "t": "para",
+     "text": "А дед говорит: «Мне снилось, будто гуси-лебеди принесли нашего Ивашку на своих крыльях». (Ông lão nói: «Tôi nằm mơ thấy hình như đàn ngỗng trời–thiên nga cõng thằng Ivashka nhà ta về trên cánh».)"
+    },
+    {
+     "t": "para",
+     "text": "Напекла баба блинов и говорит: «Ну, старик, давай делить блины: это — тебе, дед, это — мне; это — тебе, дед, это — мне...» (Bà rán xong chồng bánh rồi bảo: «Nào ông, ta chia bánh nhé: cái này — phần ông, cái này — phần tôi; cái này — phần ông, cái này — phần tôi…»)"
+    },
+    {
+     "t": "para",
+     "text": "— «А мне нема!» — отзывается Ивашко. (— «Thế phần con không có à!» — tiếng Ivashko vọng xuống.)"
+    },
+    {
+     "t": "para",
+     "text": "«Это — тебе, дед, это — мне...» — «А мне нема!» («Cái này — phần ông, cái này — phần tôi…» — «Thế phần con không có à!»)"
+    },
+    {
+     "t": "para",
+     "text": "— «А ну, старик, — говорит баба, — посмотри, щось там таке́?» (— «Ông ơi, — bà lão bảo, — lên xem trên ấy có cái chi thế?»)"
+    },
+    {
+     "t": "para",
+     "text": "Дед полез на чердак и достал оттуда Ивашку. (Ông lão trèo lên gác xép và lôi từ trên đó ra thằng Ivashka.)"
+    },
+    {
+     "t": "para",
+     "text": "Дед и баба обрадовались, расспросили сына обо всем, обо всем и стали вместе жить да поживать да добра наживать. (Hai ông bà mừng rỡ, gặng hỏi con đầu đuôi mọi chuyện, rồi cả nhà lại cùng nhau sống yên vui làm ăn khấm khá.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "чо́вник",
+     "vi": "chiếc thuyền con, thuyền độc mộc nhỏ (tiếng Ukraina)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "дальшенько",
+     "vi": "xa xa nữa (dạng âu yếm phương ngữ của дальше)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "приплынь",
+     "vi": "bơi vào đây (mệnh lệnh phương ngữ của приплыть)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "матинька",
+     "vi": "mẹ yêu (phương ngữ âu yếm, Nam Nga/Ukraina)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "батинька",
+     "vi": "cha yêu (phương ngữ âu yếm, Nam Nga/Ukraina)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "овладать",
+     "vi": "chiếm đoạt, đoạt lấy (dạng cổ của овладеть)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "коваль",
+     "vi": "bác thợ rèn (phương ngữ Nam Nga/Ukraina; vocative ковалику)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "тонесенький",
+     "vi": "thanh ơi là thanh, mảnh ơi là mảnh (hậu tố âu yếm)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "барахнуть",
+     "vi": "tống mạnh, quẳng đánh rầm (phương ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "заслонка",
+     "vi": "tấm chắn cửa lò (lò Nga)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кузня",
+     "vi": "lò rèn (phương ngữ của кузница)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "переговаривать",
+     "vi": "nhại lại, nói chặn lời (nghĩa dân dã)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "чердак",
+     "vi": "gác xép, gác mái",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "нема",
+     "vi": "không có (tiếng Ukraina/Nam Nga)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "стадо",
+     "vi": "đàn, bầy (chim, gia súc)",
+     "g": null
+    }
+   ]
+  },
+  {
+   "id": "skazki1-065-s002",
+   "type": "story",
+   "num": 109,
+   "title": "№ 109 · Ивашко и ведьма — Ivashko và mụ phù thuỷ (dị bản Belarus)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Dị bản thứ hai (2/4), kể bằng phương ngữ Belarus đậm đặc: mở đầu ghép mô-típ «đứa con từ khúc gỗ» — hai ông bà hiếm muộn ru khúc gỗ (тельпушок) thành con; cậu bé có thuyền bạc mái chèo vàng; mụ phù thuỷ chặt cây phong (явар) bằng hai xe rìu, con ngỗng đực bay sau rốt cứu cậu; kết bằng công thức «мед-вино пив, в роте не было, а па бараде тякло»."
+    },
+    {
+     "t": "para",
+     "text": "Быв сабе дед да баба, да у их не было детей. (Ngày xưa có hai ông bà lão, mà chẳng có lấy một mụn con.)"
+    },
+    {
+     "t": "para",
+     "text": "Во баба и ка́жа деду: «Иди, деду, у лес, да вырубай тельпушок, да зраби калисочку, я буду таго тельпушка калыхать, чи не будя чаго?» (Một hôm bà bảo ông: «Ông ơi, ông vào rừng đẽo lấy một khúc gỗ, đóng cho cái nôi nhỏ, tôi sẽ ru khúc gỗ ấy, biết đâu chẳng được chuyện gì chăng?»)"
+    },
+    {
+     "t": "para",
+     "text": "Дед зрабив так, як казала баба. (Ông lão làm đúng như lời bà.)"
+    },
+    {
+     "t": "para",
+     "text": "Во баба калыша тельпушок да й припевая: (Bà lão đưa nôi ru khúc gỗ, miệng hát ơi à:)"
+    },
+    {
+     "t": "para",
+     "text": "Люли, люли, тельпешику. (À ơi, à ơi, khúc gỗ nhỏ ơi.)"
+    },
+    {
+     "t": "para",
+     "text": "Зварю тебе кулешику — (Mẹ nấu cho con nồi cháo loãng —)"
+    },
+    {
+     "t": "para",
+     "text": "И ячнага, и смачнага, (Cháo lúa mạch thơm ngon béo ngậy,)"
+    },
+    {
+     "t": "para",
+     "text": "Явсянага, прасянага. (Cháo yến mạch, cháo hạt kê.)"
+    },
+    {
+     "t": "para",
+     "text": "Глядить баба, аж у тельпушка ноги ёсть; баба зрадовалась да давай изнова петь, и спева́ до тых пор, покуль из таго тельпушка зрабилось дитя. (Bà nhìn xem, lạ chưa — khúc gỗ đã mọc ra đôi chân; bà mừng quýnh hát tiếp, hát mãi hát hoài cho tới khi khúc gỗ hoá thành một đứa trẻ.)"
+    },
+    {
+     "t": "para",
+     "text": "Рады были баба и дед, што дав им бог радасть на старасть, и не знали, што рабить свайму дитяти. (Hai ông bà mừng vui khôn xiết vì trời ban niềm vui lúc tuổi già, nâng niu con chẳng biết chiều chuộng thế nào cho vừa.)"
+    },
+    {
+     "t": "para",
+     "text": "Расте той сын да расте; уже начав рыбку лавить и памагать батьку. (Cậu con cứ thế lớn dần lớn dần; chẳng mấy đã biết câu cá đỡ đần cha.)"
+    },
+    {
+     "t": "para",
+     "text": "Во и кажа: «Тату! Зраби мини серебный чавнок да залате веселе́чко». (Một hôm cậu thưa: «Cha ơi! Cha làm cho con chiếc thuyền bạc với mái chèo vàng nhé».)"
+    },
+    {
+     "t": "para",
+     "text": "Батько зрабив; сын начав лавить рыбу и як паедя, так целый день ловя. (Người cha làm cho; cậu con bắt đầu đánh cá, hễ chèo ra là câu suốt cả ngày.)"
+    },
+    {
+     "t": "para",
+     "text": "Во матка принясе яму абедать або вечерять да и кличе: (Người mẹ mang cơm trưa hay cơm chiều ra cho cậu và cất tiếng gọi:)"
+    },
+    {
+     "t": "para",
+     "text": "Иванька-сынок, (Ivanka con ơi,)"
+    },
+    {
+     "t": "para",
+     "text": "Серебный чавнок, (Thuyền bạc của con,)"
+    },
+    {
+     "t": "para",
+     "text": "Залате веселечко, (Mái chèo vàng óng,)"
+    },
+    {
+     "t": "para",
+     "text": "Едь ко мне, мое сердечко! (Chèo về với mẹ, hỡi trái tim bé bỏng!)"
+    },
+    {
+     "t": "para",
+     "text": "Пачувши маткин голас, сын приезжая к берягу, бяре яду́, аддае матке рыбу, а сам изнова едя. (Nghe tiếng mẹ, cậu con chèo vào bờ, nhận lấy thức ăn, đưa cá cho mẹ, rồi lại chèo đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Ти мала, ти багата ета так было — ведьма, што жила в саседнем селе и знакома была с Иванькиными радитилями, пазавидавала и задумала загубить бабинага сына: пригатовила абедать ти вечерять да и пашла на ряку и давай гукать так, як Иванькина матка гукала яго. (Chẳng biết chuyện cứ thế ngắn dài bao lâu — mụ phù thuỷ sống ở làng bên, vốn quen biết cha mẹ Ivanka, sinh lòng ganh ghét và rắp tâm hại cậu con của bà lão: mụ sửa soạn bữa trưa hay bữa chiều gì đó, mò ra sông và gân cổ gọi y như cách mẹ Ivanka vẫn gọi cậu.)"
+    },
+    {
+     "t": "para",
+     "text": "Иванька, пачувши яе голас, бо быв грубый, а у матки яго тоненький, да и кажа: «Ета не матка мяне заве, а ведьма!» (Ivanka nghe giọng mụ — giọng thì ồm ồm, còn giọng mẹ cậu thanh mảnh — bèn nói: «Đây chẳng phải mẹ gọi ta, mà là mụ phù thuỷ!»)"
+    },
+    {
+     "t": "para",
+     "text": "Ведьма рассярдилась, пашла да каваля да и загадала зрабить такий язычек, як у Иванькиной матки; приходя знова на ряку да и давай звать яго. (Mụ phù thuỷ nổi giận, tìm đến bác thợ rèn, sai rèn cho cái lưỡi giọng y hệt mẹ Ivanka; rồi lại ra sông cất tiếng gọi cậu.)"
+    },
+    {
+     "t": "para",
+     "text": "Ён думав, што то матка, приплыв к берягу. (Cậu tưởng là mẹ, chèo vào bờ.)"
+    },
+    {
+     "t": "para",
+     "text": "Яна яго ухватила да и панясла дамов; а ён не разглядав, як падъезжав, бо было тёмна. (Mụ tóm lấy cậu tha về nhà; lúc chèo vào cậu chẳng kịp nhìn ra, vì trời tối.)"
+    },
+    {
+     "t": "para",
+     "text": "Ведьма принясла Иваньку дамов да и кажа сваей дацце́ Алёнце: «Дачушечка мая! Вазьми сяго хлопчика, абмый да, вытапивши печь, укинь, и як ён зжарицца, пареж и пастав на стале, а я пайду да пазаву ку́мачек сваих; придем да и будем гулять». (Mụ tha Ivanka về nhà, dặn con gái Alyonka: «Con gái cưng của mẹ! Con đem thằng bé này tắm rửa, đốt lò xong thì quẳng nó vào, nó chín thì xẻ thịt bày lên bàn, còn mẹ đi mời các bà bạn thân của mẹ; về rồi mẹ con mình mở tiệc».)"
+    },
+    {
+     "t": "para",
+     "text": "Иванька ета все чув. (Ivanka nghe thấy hết cả.)"
+    },
+    {
+     "t": "para",
+     "text": "Ведьма пашла. (Mụ phù thuỷ đi khỏi.)"
+    },
+    {
+     "t": "para",
+     "text": "Дачка́ зраби, як казала матка, да, взятши лапату, што хлеб сажають, и кажа: «Ивашка, ляж на лапату, я тябе пакалышу». (Cô con gái làm như lời mẹ, rồi cầm cái xẻng gỗ vẫn dùng đưa bánh mì vào lò, bảo: «Ivashka, nằm lên xẻng đi, chị đưa võng cho nào».)"
+    },
+    {
+     "t": "para",
+     "text": "Иванька лег, да паперёк; Алёнка хатела укинуть яго у печ, да, бача, што ён лег не так, кажа: «Сядь удовж!» (Ivanka nằm lên, nhưng nằm ngang; Alyonka định tống cậu vào lò, thấy cậu nằm sai kiểu, bèn bảo: «Nằm dọc vào!»)"
+    },
+    {
+     "t": "para",
+     "text": "Ён кажа: «Пакажи мне, я не знаю, як треба лечь». (Cậu nói: «Chị làm mẫu cho em xem, em chẳng biết phải nằm thế nào».)"
+    },
+    {
+     "t": "para",
+     "text": "Алёнка здура да и лягла, а Ивашка бурхеть яе у печь! Во яна там и апреглась. (Alyonka dại dột nằm lên thật, thế là Ivashka tống luôn ả vào lò! Ả bị nướng chín ngay trong đó.)"
+    },
+    {
+     "t": "para",
+     "text": "Ивашка, выняв яе, зрабив так, як матка вялела зрабить з им, а сам пашов за горад, да и сев на явар, да и сядить. (Ivashka lôi ả ra, làm đúng những gì mụ mẹ dặn làm với cậu, rồi đi ra ngoài rào, trèo lên cây phong явар mà ngồi.)"
+    },
+    {
+     "t": "para",
+     "text": "Ведьма, сабравши сваих ку́мак, пришла да и давай пить да гулять да тым мясам закусывать. (Mụ phù thuỷ gom đủ các bà bạn kéo về, cả bọn đánh chén say sưa, lấy ngay chỗ thịt ấy làm đồ nhắm.)"
+    },
+    {
+     "t": "para",
+     "text": "Яна и не думала, штоб ета была Алёнина; яна думала, што дачка́ пригатовила кушания да пашла гулять да падружак. (Mụ nào có ngờ đó là thịt Alyonka; mụ đinh ninh con gái nấu nướng xong rồi sang nhà bạn chơi.)"
+    },
+    {
+     "t": "para",
+     "text": "Паеда́вши харашенька таго мяса и правадивши ку́мачек сваих, ведьма пашла на тоя места, где стаяв явар, што сядев Иванька, да давай качацца да пригаваривать: «Пакачуся, павалюся, Иванькинага мяса наевшись!» (Đánh chén no nê chỗ thịt và tiễn các bà bạn xong, mụ ra chỗ cây phong nơi Ivanka đang ngồi, lăn lê trên cỏ mà nghêu ngao: «Ta lăn này, ta lê này, chén đẫy thịt thằng Ivanka rồi!»)"
+    },
+    {
+     "t": "para",
+     "text": "А ён и кажа: «А трясцы — Алёнкинага!» (Cậu liền nói vọng xuống: «Còn khuya nhé — thịt con Alyonka thì có!»)"
+    },
+    {
+     "t": "para",
+     "text": "Яна, як пабачила яго, дагадалась, пабегла дамов, взяла тапор, да, прибегши, давай рубать явар; тапор переламився. (Mụ vừa trông thấy cậu là hiểu ra cơ sự, ba chân bốn cẳng chạy về nhà vác rìu, chạy lại ra sức chặt cây phong; chiếc rìu gãy đôi.)"
+    },
+    {
+     "t": "para",
+     "text": "Во яна пабегла да каваля да и приказала зрабить два возы тапаров; ён зрабив. (Mụ bèn chạy đến bác thợ rèn, lệnh rèn cho hai xe rìu; bác rèn xong.)"
+    },
+    {
+     "t": "para",
+     "text": "Яна привезла их туда да давай рубить явар; рубая да рубая, а тапары все ламаюцца, бо явар быв грубый; аднак явар начав шатацца на корне и як не упаде. (Mụ chở rìu tới và hùng hục chặt; chặt mãi chặt mãi, rìu cứ gãy liên hồi, vì cây phong to sụ; thế nhưng cây cũng đã lung lay tận gốc, chỉ chực đổ.)"
+    },
+    {
+     "t": "para",
+     "text": "Глядить Иванька, аж лятить ста́да гусей; во ён и начав прасить их: (Ivanka nhìn lên, kìa một đàn ngỗng đang bay tới; cậu bèn cất lời xin:)"
+    },
+    {
+     "t": "para",
+     "text": "Гуси, гуси, лебедята! (Ngỗng ơi, ngỗng ơi, thiên nga bé!)"
+    },
+    {
+     "t": "para",
+     "text": "Вазьмить мяне на крылята, (Cho tôi nương nhờ đôi cánh nhỏ,)"
+    },
+    {
+     "t": "para",
+     "text": "Панесить мяне к аццу, к матке; (Mang tôi về với cha, với mẹ;)"
+    },
+    {
+     "t": "para",
+     "text": "Будя вам ести и пити (Rồi các bạn sẽ có ăn có uống)"
+    },
+    {
+     "t": "para",
+     "text": "И харашо хадити! (Lại được áo quần tươm tất!)"
+    },
+    {
+     "t": "para",
+     "text": "Во тые гуси и гаворют: «Нехай тябе другии во́зьмут!» (Đàn ngỗng ấy đáp: «Để đàn sau rước mày!»)"
+    },
+    {
+     "t": "para",
+     "text": "Лятять другии, ён начав прасить; яны сказали, штоб яго третьи взяли. (Đàn thứ hai bay tới, cậu lại cất lời xin; chúng bảo để đàn thứ ba đón.)"
+    },
+    {
+     "t": "para",
+     "text": "Лятять и третьи; тые сказали, што яго гусак узяв, што лятить адзаду. (Đàn thứ ba bay tới; chúng bảo sẽ có con ngỗng đực bay sau rốt đón cậu.)"
+    },
+    {
+     "t": "para",
+     "text": "Лятить той гусак, ён начав прасить; той гусак ухватив и панес яго. (Con ngỗng đực ấy bay tới, cậu cất lời xin; ngỗng đực xốc lấy cậu mang đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Явар упав, а ведьма ад злосци, што не папала в сваи руки Иваньку, стала рвацца, метацца, плакать, да асталась с та́ким. (Cây phong đổ ầm xuống, còn mụ phù thuỷ tức điên vì không vồ được Ivanka, giãy giụa, lồng lộn, gào khóc, rốt cuộc đành trắng tay.)"
+    },
+    {
+     "t": "para",
+     "text": "А гусак панес Иваньку в тоя сяло, где радитили; принесши, сев з им на крышу. (Ngỗng đực mang Ivanka về đúng cái làng cha mẹ cậu ở; tới nơi, nó đậu cùng cậu trên mái nhà.)"
+    },
+    {
+     "t": "para",
+     "text": "Во Иванька и став прислухацца у комен, што у хати делаецца. (Ivanka ghé tai vào ống khói nghe ngóng xem trong nhà đang có chuyện gì.)"
+    },
+    {
+     "t": "para",
+     "text": "В ета время Ивашкины радитили абедали и плакали по ём; во ён и кажа: «Не плачьте, батюшка и матушка! Я тут». (Đúng lúc ấy cha mẹ Ivashka đang ăn trưa mà khóc thương con; cậu liền nói: «Cha ơi mẹ ơi, đừng khóc nữa! Con đây».)"
+    },
+    {
+     "t": "para",
+     "text": "Яны, пачувши голас яго, выбягли на двор, зняли с крыши и вельми были рады, што нашли сына свайго. (Nghe tiếng con, hai ông bà chạy ùa ra sân, đỡ cậu từ mái nhà xuống, mừng khôn xiết vì tìm lại được con.)"
+    },
+    {
+     "t": "para",
+     "text": "Ён разказав им все, што было. (Cậu kể cho cha mẹ nghe hết đầu đuôi mọi chuyện.)"
+    },
+    {
+     "t": "para",
+     "text": "Гусака таго яны стали харашо кармить и паить; стали жить да паживать да добры мысли мать. (Con ngỗng đực ấy được hai ông bà nuôi nấng cho ăn cho uống chu đáo; cả nhà từ đó sống yên vui, lòng dạ thảnh thơi.)"
+    },
+    {
+     "t": "para",
+     "text": "Ти мала, ти багата паживши, радитили Иванькины памерли, а он и тяперь живе да хлеб жуе, рыбку ловя да добрых людей кормя; и гусак тей з ним. (Sống được ít lâu hay nhiều lâu chẳng rõ, cha mẹ Ivanka qua đời, còn cậu đến giờ vẫn sống đó, vẫn nhai bánh ăn cơm, câu cá nuôi người lành; và con ngỗng đực vẫn ở bên cậu.)"
+    },
+    {
+     "t": "para",
+     "text": "Я сам у Ивашки — надовесь ён свадьбу гуляв — а на той свадьбе скакав, мед-вино пив, в роте не было, а па бараде тякло. (Chính tôi từng đến nhà Ivashka — mới đây cậu ấy mở tiệc cưới — tôi nhảy múa trong tiệc, uống rượu mật ong, miệng chẳng được giọt nào mà râu thì ướt đẫm.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "тельпушок",
+     "vi": "khúc gỗ ngắn, súc gỗ nhỏ (tiếng Belarus)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "калисочка",
+     "vi": "cái nôi nhỏ (tiếng Belarus: калыска — nôi)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "калыхать",
+     "vi": "ru, đưa nôi (tiếng Belarus/phương ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кулешик",
+     "vi": "cháo loãng nấu kê (món кулеш, dạng âu yếm)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ка́жа",
+     "vi": "nói, bảo (tiếng Belarus/Ukraina: каже)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "веселе́чко",
+     "vi": "mái chèo nhỏ (tiếng Belarus/Ukraina: весло — mái chèo)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "гукать",
+     "vi": "gọi to, hú gọi (phương ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "хлопчик",
+     "vi": "cậu bé, thằng bé (tiếng Belarus/Ukraina)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "явар",
+     "vi": "cây phong trắng, cây tiêu huyền (tiếng Belarus/Ukraina: jawor)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "трясца",
+     "vi": "bệnh sốt rét; tiếng rủa «quỷ tha ma bắt» (phương ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "комен",
+     "vi": "ống khói lò (phương ngữ Tây Nam)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "надовесь",
+     "vi": "mới đây, vừa rồi (phương ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "вельми",
+     "vi": "rất, lắm (từ cổ/tiếng Belarus)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "паперёк",
+     "vi": "nằm ngang, theo chiều ngang (phương ngữ: поперёк)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "удовж",
+     "vi": "theo chiều dọc (tiếng Belarus/Ukraina: вдоль)",
+     "g": null
+    }
+   ]
+  },
+  {
+   "id": "skazki1-065-s003",
+   "type": "story",
+   "num": 110,
+   "title": "№ 110 · Ивашко и ведьма — Ivashko và mụ phù thuỷ (dị bản Ukraina)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Dị bản thứ ba (3/4) của nhóm «Ивашко и ведьма», kể trọn bằng tiếng Ukraina: cậu bé Ivashko có chiếc thuyền con trên hồ, mẹ gọi con bằng bài hát; mụ phù thuỷ nhờ thợ rèn «rèn giọng» mảnh để giả tiếng mẹ và bắt được cậu; con gái mụ là Marusya bị cậu lừa nướng ngược (ATU 1121); mụ gặm cây bằng răng sắt, ba đàn ngỗng trời lần lượt bay qua, đàn sau cùng cứu cậu về; kết bằng cảnh chia bánh «А мені? — Thế phần con đâu?»."
+    },
+    {
+     "t": "para",
+     "text": "Як був собі дід да баба, а у їх мале́нький синок Івашко. (Ngày xưa có hai ông bà lão, có cậu con trai nhỏ tên là Ivashko.)"
+    },
+    {
+     "t": "para",
+     "text": "Довго просив Івашко батька, щоб він зробив йому човничок да пустив плавать по озеру; да все Івашко був малий, його боялись пустить одного. (Ivashko nài cha mãi, xin đóng cho chiếc thuyền con để được chèo chơi trên hồ; nhưng Ivashko hãy còn bé, ông bà sợ chẳng dám thả con đi một mình.)"
+    },
+    {
+     "t": "para",
+     "text": "А як Івашко підріс, уже минув йому десятий год, тоді батько зробив човничок, а мати пішла з Івашком до озера, опустила його на воду і обіщалась навідувать всякий тиждень. (Đến khi Ivashko lớn lên, qua tuổi thứ mười, cha mới đóng cho chiếc thuyền con, mẹ dắt Ivashko ra hồ, thả thuyền xuống nước và hứa tuần nào cũng ra thăm.)"
+    },
+    {
+     "t": "para",
+     "text": "Бувало, як наступить п’ятінка, мати прийде к берегу і заспіває: «Івашечку, Івашечку! Приплинь, приплинь до бережка; бо я тобі принесла їсти-пити і сороченьку біле́нькую». (Cứ đến ngày thứ sáu, mẹ lại ra bờ hồ cất tiếng hát: «Ivashechka, Ivashechka ơi! Bơi vào, bơi vào bờ đi; mẹ mang cho con cái ăn cái uống và chiếc áo trắng tinh đây».)"
+    },
+    {
+     "t": "para",
+     "text": "Івашко скаже човничку: «Пливи, пливи, човничку, до бережка; це моя мати!» (Ivashko liền bảo thuyền: «Trôi đi, trôi đi thuyền ơi, trôi vào bờ; mẹ ta đấy!»)"
+    },
+    {
+     "t": "para",
+     "text": "Човничок припливе, мати дасть синку їсти-пити, надіне на його біле́ньку сорочку і оп’ять одпустить човничок в воду. (Thuyền con cập bờ, mẹ cho con ăn uống, mặc cho con chiếc áo trắng tinh rồi lại thả thuyền ra nước.)"
+    },
+    {
+     "t": "para",
+     "text": "Так вона навіщала Івашка, а відьма усе чула, ховавшись у кустах біля того міста, куди припливав човничок. (Bà cứ thế ra thăm Ivashko, nào ngờ mụ phù thuỷ nghe được cả, vì mụ nấp trong bụi rậm ngay cạnh chỗ thuyền con vẫn cập vào.)"
+    },
+    {
+     "t": "para",
+     "text": "Відьма хотіла з’їсти Івашка, і на другу п’ятницю прийшла раньше матери Івашкиної і заспівала: «Івашечку, Івашечку! Приплинь, приплинь до бережка; бо я тобі принесла їсти-пити і сороченьку біле́нькую». (Mụ phù thuỷ muốn ăn thịt Ivashko, nên thứ sáu tuần sau mụ ra sớm hơn mẹ Ivashko mà cất tiếng hát: «Ivashechka, Ivashechka ơi! Bơi vào, bơi vào bờ đi; mẹ mang cho con cái ăn cái uống và chiếc áo trắng tinh đây».)"
+    },
+    {
+     "t": "para",
+     "text": "Да заспівала грубим голосом, так що Івашко узнав не материнський голос і каже човничку: «Пливи, пливи од бережка, бо це прийшла не моя мати». (Nhưng mụ hát giọng ồm ồm, Ivashko nhận ra không phải giọng mẹ, bèn bảo thuyền: «Trôi đi, trôi ra xa bờ, vì người đến chẳng phải mẹ ta».)"
+    },
+    {
+     "t": "para",
+     "text": "Човничок одплив. (Thuyền con liền trôi ra xa.)"
+    },
+    {
+     "t": "para",
+     "text": "Тоді відьма побігла до коваля і просить його: «Ковалю, ковалю! Зроби мені такий голос, як у Івашкиної матери». (Mụ phù thuỷ bèn chạy đến bác thợ rèn mà xin: «Bác thợ rèn, bác thợ rèn ơi! Rèn cho tôi giọng nói giống hệt giọng mẹ thằng Ivashko».)"
+    },
+    {
+     "t": "para",
+     "text": "Коваль зробив їй такий голос, і вона на другу п’ятницю оп’ять пішла раненько до бережка і заспівала тоне́ньким голоском: «Івашечку, Івашечку! Приплинь, приплинь до бережка; бо я тобі принесла їсти-пити і сороченьку біле́нькую». (Bác thợ rèn rèn cho mụ giọng như thế thật; thứ sáu tuần sau mụ lại ra bờ hồ từ sớm tinh mơ, cất giọng thanh thanh mà hát: «Ivashechka, Ivashechka ơi! Bơi vào, bơi vào bờ đi; mẹ mang cho con cái ăn cái uống và chiếc áo trắng tinh đây».)"
+    },
+    {
+     "t": "para",
+     "text": "Івашко не узнав уже, що це була не його мати, і сказав човничку, щоб він приплив до бережка. (Lần này Ivashko không nhận ra được đó chẳng phải mẹ mình nữa, bèn bảo thuyền cập vào bờ.)"
+    },
+    {
+     "t": "para",
+     "text": "Відьма схапала його і потащила до себе, приказала Марусі, дочці, зжарить Івашка, а сама побігла скликать гостей. (Mụ phù thuỷ chộp lấy cậu lôi về nhà, sai con gái là Marusya nướng thịt Ivashko, còn mình chạy đi mời khách.)"
+    },
+    {
+     "t": "para",
+     "text": "Маруся узяла лопату, що в пічку хліб сажають, і каже: «Сядь, Івашку, на лопату». (Marusya cầm chiếc xẻng gỗ vẫn dùng đưa bánh mì vào lò, bảo: «Ivashko, ngồi lên xẻng đi».)"
+    },
+    {
+     "t": "para",
+     "text": "Івашко сів, да не так, як вона хоче. (Ivashko ngồi lên, nhưng cứ ngồi trật, chẳng đúng ý ả.)"
+    },
+    {
+     "t": "para",
+     "text": "Маруся толкує, як треба сісти, а він усе як будто не понімає і просить Марусю: «Сядь сама, — каже, — покажи мені». (Marusya giảng giải phải ngồi thế nào, cậu cứ vờ như chẳng hiểu, nài Marusya: «Chị ngồi thử xem, — cậu nói, — chỉ cho em với».)"
+    },
+    {
+     "t": "para",
+     "text": "Маруся сіла, а він її в пічку, — вона і зжарилась. (Marusya vừa ngồi lên, cậu liền tống ả vào lò, — thế là ả bị nướng chín.)"
+    },
+    {
+     "t": "para",
+     "text": "Сам вибіг із хати, взліз на дерево да й сидить. (Còn cậu chạy vụt ra khỏi nhà, trèo lên cây mà ngồi.)"
+    },
+    {
+     "t": "para",
+     "text": "Прийшла відьма з гостями, стукає в двері і кричить: «Марусю, Марусю! Одчини двері». (Mụ phù thuỷ dẫn khách về, đập cửa kêu ầm: «Marusya, Marusya! Mở cửa ra».)"
+    },
+    {
+     "t": "para",
+     "text": "А Маруся не чує. (Mà Marusya nào có nghe thấy.)"
+    },
+    {
+     "t": "para",
+     "text": "«Видно, суча дочка пішла на досвітки — гулять з дівчатами да з парубками, ілі до подруг пішла — косу у ленти заплітать». («Chắc con ranh chó má lại đi hội đêm — chơi bời với đám gái trai làng, hay sang nhà bạn — tết ruy băng vào bím tóc rồi».)"
+    },
+    {
+     "t": "para",
+     "text": "Стукала-стукала і у двері і у окна да й виладила окно, пролізла в хату, одчинила двері і ввела гостей. (Mụ gõ mãi gõ mãi, cả cửa lẫn cửa sổ, rồi cạy bung cửa sổ, chui vào nhà, mở cửa dẫn khách vào.)"
+    },
+    {
+     "t": "para",
+     "text": "Дивиться — в печі жарена Маруся, подала на стол гостям і просить їсти. (Mụ ngó vào lò — trong lò là Marusya đã nướng chín; mụ dọn lên bàn cho khách, mời ăn.)"
+    },
+    {
+     "t": "para",
+     "text": "От і гості і сама відьма, наївшись того м’ясця, вийшли із хати на траву покататься, легли і кричать: «Покатимся, повалимся, Івашкиного м’ясця наївшись!» (Thế là cả khách lẫn mụ phù thuỷ, chén no thứ thịt ấy xong, kéo nhau ra bãi cỏ ngoài nhà lăn lộn chơi, nằm xuống mà gào: «Ta lăn nào, ta lộn nào, no nê thịt thằng Ivashko!»)"
+    },
+    {
+     "t": "para",
+     "text": "А Івашко з дерева: «Покатитесь, повалитесь, Марусиного м’ясця наївшись!» (Còn Ivashko từ trên cây vọng xuống: «Lăn đi, lộn đi, no nê thịt con Marusya!»)"
+    },
+    {
+     "t": "para",
+     "text": "Відьма чує голос, да не бачить — відкіль він? (Mụ phù thuỷ nghe tiếng mà chẳng thấy người — tiếng từ đâu ra?)"
+    },
+    {
+     "t": "para",
+     "text": "Оп’ять: «Покатимся, повалимся, Івашкиного м’ясця наївшись!» (Mụ lại gào: «Ta lăn nào, ta lộn nào, no nê thịt thằng Ivashko!»)"
+    },
+    {
+     "t": "para",
+     "text": "А Івашко: «Покатитесь, повалитесь, Марусиного м’ясця наївшись!» (Ivashko lại đáp: «Lăn đi, lộn đi, no nê thịt con Marusya!»)"
+    },
+    {
+     "t": "para",
+     "text": "Відьма побачила Івашка і давай гризти дерево під Івашком; гризла-гризла, переламала усі зуби і побігла к ковалю, щоб він зробив їй железні зуби; прийшла назад і оп’ять начала гризти. (Mụ phù thuỷ trông thấy Ivashko, liền xông vào gặm gốc cây dưới chân cậu; gặm mãi gặm mãi, gãy sạch cả răng, mụ chạy đến bác thợ rèn nhờ rèn cho hàm răng sắt; rồi quay lại gặm tiếp.)"
+    },
+    {
+     "t": "para",
+     "text": "Догризла до середини; в то врем’я гуси летять. (Mụ gặm được đến nửa thân cây; vừa lúc ấy có đàn ngỗng trời bay qua.)"
+    },
+    {
+     "t": "para",
+     "text": "Івашко заголосив: «Гуси мої, гусенята, візьміть мене на крилята, однесіть мене до батеньки; у його єсть много добра, єсть що їсти і пити». (Ivashko cất tiếng than: «Ngỗng ơi, ngỗng con của ta ơi, cho ta lên cánh với, mang ta về với cha ta; nhà cha ta lắm của, có cái ăn cái uống».)"
+    },
+    {
+     "t": "para",
+     "text": "А гуси йому: «Нехай тебе задні візьмуть!» (Đàn ngỗng đáp: «Để lũ bay sau đem mày đi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Прилетілі і ті; він і їх просить, но і вони сказали: «Нехай тебе візьмуть ті, що сзади летять». (Đàn nữa bay tới; cậu lại van xin, nhưng chúng cũng bảo: «Để lũ bay đằng sau đem mày đi».)"
+    },
+    {
+     "t": "para",
+     "text": "Прилетіли і задні, взяли Івашка і однесли к батькові і матері, посадили на кришу хати, а самі тут же сіли. (Đàn sau cùng bay đến, nhấc Ivashko mang về với cha mẹ, đặt cậu trên mái nhà, còn chúng đậu xuống ngay bên.)"
+    },
+    {
+     "t": "para",
+     "text": "Тоді баба напекла пирогов і ділить: «Цей тобі, діду, цей мені!» (Bấy giờ bà lão vừa nướng mẻ bánh, đang chia phần: «Cái này phần ông, cái này phần tôi!»)"
+    },
+    {
+     "t": "para",
+     "text": "А Івашко з криши: «А мені?» (Ivashko trên mái vọng xuống: «Thế phần con đâu?»)"
+    },
+    {
+     "t": "para",
+     "text": "Баба дивиться, дивиться — нічого не бачить. (Bà lão nhìn quanh nhìn quẩn — chẳng thấy gì.)"
+    },
+    {
+     "t": "para",
+     "text": "Оп’ять: «Цей тобі, діду, а цей мені!» (Bà lại chia: «Cái này phần ông, còn cái này phần tôi!»)"
+    },
+    {
+     "t": "para",
+     "text": "А Івашко з криши: «А мені?» (Ivashko trên mái lại hỏi: «Thế phần con đâu?»)"
+    },
+    {
+     "t": "para",
+     "text": "Вийшла баба із хати, глядь — а Івашко сидить на криші; вот його зараз зняли з криши, а гусей накормили овсом, пшеницею, напоїли і пустили летіть дальше. (Bà lão bước ra khỏi nhà, ngẩng lên — kìa, Ivashko ngồi trên mái; hai ông bà vội đỡ ngay con xuống, còn đàn ngỗng được cho ăn yến mạch, lúa mì, cho uống nước rồi thả bay đi tiếp.)"
+    },
+    {
+     "t": "para",
+     "text": "Івашко остався дома і тепер живе, хліб жує і добром гусей вспоминає. (Ivashko ở lại nhà, đến giờ vẫn sống, nhai bánh mì và nhớ ơn đàn ngỗng.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "човничок",
+     "vi": "chiếc thuyền con (tiếng Ukraina, dạng âu yếm; Nga: чёлн, лодочка)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "тиждень",
+     "vi": "tuần lễ (tiếng Ukraina; Nga: неделя)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "п’ятінка",
+     "vi": "ngày thứ sáu (tiếng Ukraina, dạng thân mật của п’ятниця)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "навідувать",
+     "vi": "thăm nom, lui tới thăm (tiếng Ukraina; Nga: навещать)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "відьма",
+     "vi": "mụ phù thuỷ (tiếng Ukraina; Nga: ведьма)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "заспівати",
+     "vi": "cất tiếng hát (tiếng Ukraina; Nga: запеть)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "глядь",
+     "vi": "kìa, ngoảnh nhìn thì thấy (thán từ khẩu ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "зжарити",
+     "vi": "nướng chín, rán chín (tiếng Ukraina; Nga: изжарить)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "досвітки",
+     "vi": "«hội đêm» — tục trai gái làng Ukraina tụ họp vui chơi, làm việc tới gần sáng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "парубок",
+     "vi": "chàng trai, trai làng (tiếng Ukraina)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "виладити",
+     "vi": "cạy bung, phá mở (phương ngữ; ở đây: cạy cửa sổ chui vào)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "м’ясце",
+     "vi": "miếng thịt, món thịt (tiếng Ukraina, dạng âu yếm của м’ясо)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "гризти",
+     "vi": "gặm, cắn (tiếng Ukraina; Nga: грызть)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "крилята",
+     "vi": "đôi cánh nhỏ (tiếng Ukraina, dạng âu yếm của крила «cánh»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "криша",
+     "vi": "mái nhà (= tiếng Nga крыша; văn bản Ukraina pha giọng Nga)",
+     "g": null
+    }
+   ]
+  },
+  {
+   "id": "skazki1-065-s004",
+   "type": "story",
+   "num": 111,
+   "title": "№ 111 · Ивашко и ведьма — Ivashko và mụ phù thuỷ (dị bản Lutonka)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Dị bản thứ tư (4/4), khép lại nhóm truyện: mở đầu trùng №109 với mô-típ «đứa con từ khúc gỗ» — ông lão đẵn cây đoan non (лутошка), ba ngày sau từ gầm lò vang tiếng «Thầy ơi! U ơi!»; kẻ bắt cóc gọi là «ягая-баба» (dạng đảo của баба-яга), tự mài lưỡi trên đá mài thay vì nhờ thợ rèn; ba cô con gái mụ lần lượt bị nướng (ATU 1121); kết bằng đôi cánh kết từ lông ngỗng trời–thiên nga (mô-típ «Гуси-лебеди» đảo chiều) đưa cậu về với cha mẹ."
+    },
+    {
+     "t": "para",
+     "text": "В некоторой деревне жил старик со старухой; детей у них не было. (Ở một làng nọ có hai ông bà lão; họ chẳng có mụn con nào.)"
+    },
+    {
+     "t": "para",
+     "text": "Однажды старик поехал в лес за дровами; это было зимою. (Một hôm ông lão vào rừng đốn củi; bấy giờ đang mùa đông.)"
+    },
+    {
+     "t": "para",
+     "text": "Старик нарубил дров, сколько нужно было, да срубил еще лутошку. (Ông đốn đủ số củi cần dùng, lại đẵn thêm một cây đoan non.)"
+    },
+    {
+     "t": "para",
+     "text": "Приехал домой, дрова на дворе оставил, а лутошку в избу принес и положил в подпечек. (Về đến nhà, ông để củi ngoài sân, còn khúc đoan non thì mang vào nhà, đặt vào hốc dưới gầm lò.)"
+    },
+    {
+     "t": "para",
+     "text": "На третий день что-то в подпечке зашумело, а потом кричит: «Тятя! Мама! Выньте меня». (Sang ngày thứ ba, dưới gầm lò có tiếng lục đục, rồi có tiếng kêu: «Thầy ơi! U ơi! Bế con ra với».)"
+    },
+    {
+     "t": "para",
+     "text": "Старик со старухой испугались; да слышат и в другой раз тот же голос: «Тятя! Мама! Выньте меня»; старик поглядел в подпечек и увидел там небольшого мальчика. (Hai ông bà hoảng sợ; nhưng lại nghe tiếng ấy lần nữa: «Thầy ơi! U ơi! Bế con ra với»; ông lão ngó vào gầm lò thì thấy một cậu bé nhỏ xíu.)"
+    },
+    {
+     "t": "para",
+     "text": "Вынул его оттуда, показал старухе, и назвали его Лутонькою, стали его и кормить и поить. (Ông bế cậu ra, đưa bà xem, rồi đặt tên là Lutonka, từ đấy nuôi cho ăn cho uống.)"
+    },
+    {
+     "t": "para",
+     "text": "Пришло лето, стал мальчик промышлять рыбною ловлею и тем промыслом кормил старика со старухою. (Hè đến, cậu bé đi đánh cá kiếm sống, lấy nghề ấy nuôi hai ông bà.)"
+    },
+    {
+     "t": "para",
+     "text": "Старуха, бывало, придет к нему на ловлю и кричит его: «Лутонь, Лутонь, Лутонюшка! Пригрянь, пригрянь ко бережку, а я тебе дам пирожка с начинкою». (Bà lão thường ra chỗ con đánh cá mà gọi: «Lutonh, Lutonh, Lutonyushka ơi! Ghé vào, ghé vào bờ với u, u cho con chiếc bánh có nhân».)"
+    },
+    {
+     "t": "para",
+     "text": "Лутоня как заслышит голос матери — и подъезжает в берегу; от матери берет кусок пирога, а ей дает рыбу. (Lutonya hễ nghe tiếng mẹ là chèo vào bờ; nhận của mẹ miếng bánh, đưa lại cho mẹ mớ cá.)"
+    },
+    {
+     "t": "para",
+     "text": "Однажды подглядела это ягая-баба, пришла к тому месту и начала его манить к себе такими же словами, как и мать кликала; Лутонюшка услыхал толстый голос ягой-бабы и сказал ей в ответ: «Нет, не матушкин голос: очень толст! Поди, язык поточи!» (Một hôm mụ yagaya-baba rình thấy, mò đến chỗ ấy, đem đúng những lời mẹ vẫn gọi mà nhử cậu; Lutonyushka nghe giọng ồm ồm của mụ liền đáp: «Không phải, chẳng phải giọng u ta: ồm quá! Đi mà mài lưỡi đi!»)"
+    },
+    {
+     "t": "para",
+     "text": "С тем ягая-баба и отправилась. (Mụ yagaya-baba đành thế mà bỏ đi.)"
+    },
+    {
+     "t": "para",
+     "text": "После того приходит туда же старуха, его мать названая, и начала манить: «Лутонь, Лутонь, Лутонюшка! Пригрянь, пригрянь ко бережку, а я тебе дам пирожка с начинкою». (Sau đó bà lão — mẹ nuôi của cậu — lại ra đúng chỗ ấy mà gọi: «Lutonh, Lutonh, Lutonyushka ơi! Ghé vào, ghé vào bờ với u, u cho con chiếc bánh có nhân».)"
+    },
+    {
+     "t": "para",
+     "text": "Лутонька услыхал материн голос, подъехал к берегу, взял у нее пирог, а ей рыбу отдал. (Lutonka nghe giọng mẹ, chèo vào bờ, nhận bánh và trao cá cho mẹ.)"
+    },
+    {
+     "t": "para",
+     "text": "Старуха ушла, а ягая-баба выточила свой язык на точиле и немного погодя прибежала на берег и стала манить Лутонюшку. (Bà lão về rồi, mụ yagaya-baba đem lưỡi mài trên đá mài, lát sau chạy ra bờ nước mà nhử Lutonyushka.)"
+    },
+    {
+     "t": "para",
+     "text": "Лутонька не узнал ее голоса, подумал, что мать его зовет, подъехал к берегу; ягая-баба схватила его и утащила в свою избу. (Lutonka không nhận ra giọng mụ nữa, ngỡ mẹ gọi, chèo vào bờ; mụ chộp lấy cậu tha về lều mình.)"
+    },
+    {
+     "t": "para",
+     "text": "У ягой-бабы было три дочери. (Mụ yagaya-baba có ba cô con gái.)"
+    },
+    {
+     "t": "para",
+     "text": "Она приказала большей дочери истопить избу жарко-жарко, Лутоньку ожарить, а сама ушла в поле гулять. (Mụ sai con gái cả đốt lò cho nhà nóng rực rực, nướng chín Lutonka, còn mình bỏ ra đồng chơi.)"
+    },
+    {
+     "t": "para",
+     "text": "Бо́льшая дочь истопила избу, привела Лутоньку и велела ему садиться на лопату. (Cô con gái cả đốt lò xong, dắt Lutonka đến, bảo cậu ngồi lên xẻng.)"
+    },
+    {
+     "t": "para",
+     "text": "Лутонька был не плох, начал отговариваться, что не знает, не ведает, как сесть на лопату: «Покажи, — просит, — как надо садиться?» (Lutonka chẳng phải tay vừa, cứ thoái thác rằng chẳng biết chẳng hay ngồi lên xẻng thế nào: «Chị làm mẫu xem, — cậu nài, — phải ngồi ra sao?»)"
+    },
+    {
+     "t": "para",
+     "text": "Дочка ягой-бабы села на лопату, а Лутонька взял лопату за черен и сунул ее в печь, а сам залез на полдовку. (Con gái mụ vừa ngồi lên xẻng, Lutonka liền nắm cán xẻng tống ả vào lò, còn mình trèo lên gác xép.)"
+    },
+    {
+     "t": "para",
+     "text": "Приходит ягая-баба и спрашивает Лутоньку; дочери вынули из печи свою сестру и подали матери: она ее и скушала. (Mụ yagaya-baba về, hỏi món Lutonka; mấy cô con lấy từ trong lò ra chính chị mình mà dọn cho mẹ: mụ chén sạch.)"
+    },
+    {
+     "t": "para",
+     "text": "Вышла на двор и говорит: «Покатаюсь, поваляюсь на Лутонькиных косточках!» (Ăn xong mụ ra sân nói: «Ta lăn nào, ta lộn nào trên đống xương thằng Lutonka!»)"
+    },
+    {
+     "t": "para",
+     "text": "А Лутонька сидит на полдовке да себе говорит: «Покатайся, поваляйся на дочерних косточках!» (Còn Lutonka ngồi trên gác xép nói một mình: «Lăn đi, lộn đi trên đống xương con gái mụ!»)"
+    },
+    {
+     "t": "para",
+     "text": "Ягая-баба увидела Лутоньку и закричала: «Как ни встану, а достану тебя, Лутонька!» (Mụ yagaya-baba trông thấy Lutonka, thét lên: «Kiểu gì tao cũng tóm được mày, Lutonka!»)"
+    },
+    {
+     "t": "para",
+     "text": "Достала Лутоньку и отдала дочерям, приказала его ожарить, а сама опять ушла. (Mụ tóm được Lutonka thật, giao cho các con gái, dặn nướng chín cậu, rồi lại bỏ đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Дочери истопили избу; середняя хотела посадить Лутоньку на лопату, но он обманул ее и сунул самоё в печь. (Hai cô con đốt lò; cô thứ định đặt Lutonka lên xẻng, nhưng cậu lừa ả, tống chính ả vào lò.)"
+    },
+    {
+     "t": "para",
+     "text": "То же сделал он и с младшею. (Với cô út cậu cũng làm y như thế.)"
+    },
+    {
+     "t": "para",
+     "text": "Ягая-баба пришла домой, стала звать дочерей; нет никого. (Mụ yagaya-baba về nhà, gọi các con; chẳng còn ai.)"
+    },
+    {
+     "t": "para",
+     "text": "Вынула сама жареное и съела, потом вышла на двор и говорит: «Покатаюсь, поваляюсь на Лутонькиных косточках!» (Mụ tự tay lấy món nướng ra mà chén, rồi ra sân nói: «Ta lăn nào, ta lộn nào trên đống xương thằng Lutonka!»)"
+    },
+    {
+     "t": "para",
+     "text": "А Лутонька с полдовки отвечает: «Покатайся, поваляйся, дура, на дочерних косточках!» (Lutonka từ gác xép đáp xuống: «Lăn đi, lộn đi, đồ ngu, trên đống xương con gái mụ!»)"
+    },
+    {
+     "t": "para",
+     "text": "Ягая-баба увидела его, осердилась и хотела достать. (Mụ yagaya-baba trông thấy cậu, nổi giận đùng đùng, định trèo lên bắt.)"
+    },
+    {
+     "t": "para",
+     "text": "Лутонька закричал жалобным голосом: «Ах вы, гуси, ах вы, лебеди! Прилетите ко мне, вырвите по перышку». (Lutonka kêu lên giọng thảm thiết: «Hỡi ngỗng trời, hỡi thiên nga! Bay đến với ta, mỗi bạn nhổ cho một chiếc lông».)"
+    },
+    {
+     "t": "para",
+     "text": "Гуси-лебеди прилетели, вырвали у себя по перышку, сделали два крылышка и дали Лутонюшке; Лутонька взял и улетел от ягой-бабы к отцу, к матери и стал вместе с ними жить-поживать да рыбку из воды таскать. (Đàn ngỗng trời–thiên nga bay đến, mỗi con tự nhổ một chiếc lông, kết thành đôi cánh nhỏ trao cho Lutonyushka; Lutonka nhận lấy, bay thoát khỏi mụ yagaya-baba về với thầy u, từ đấy cùng cha mẹ sống vui sống khoẻ, ngày ngày kéo cá dưới nước lên.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "лутошка",
+     "vi": "cây đoan non đã tước vỏ; khúc gỗ đoan (phương ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "подпечек",
+     "vi": "hốc dưới gầm lò sưởi Nga",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "тятя",
+     "vi": "thầy, cha (khẩu ngữ dân dã)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "промышлять",
+     "vi": "kiếm sống bằng nghề gì đó (nghĩa cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "пригрянуть",
+     "vi": "ghé vào, tấp vào bờ (phương ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ягая-баба",
+     "vi": "mụ phù thuỷ (dạng đảo của баба-яга)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "начинка",
+     "vi": "nhân bánh",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "точило",
+     "vi": "đá mài, bàn mài",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "поточить",
+     "vi": "mài (cho sắc, cho mỏng)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "полдовка",
+     "vi": "gác xép trên trần nhà (phương ngữ; như полати, чердак)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "черен",
+     "vi": "cán, chuôi (dạng cổ của черенок)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "названый",
+     "vi": "(mẹ, cha) nuôi; названая мать = mẹ nuôi",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "жалобный",
+     "vi": "thảm thiết, ai oán",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "перышко",
+     "vi": "chiếc lông vũ nhỏ (dạng âu yếm của перо)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "скушать",
+     "vi": "ăn, xơi (khẩu ngữ)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

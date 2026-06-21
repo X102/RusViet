@@ -216,6 +216,39 @@ mark.hl.reading,.reading{outline:2px solid var(--brand);outline-offset:2px}
 /* nguồn từ điển trong popover */
 .popover .dsrc{font-size:11.5px;color:var(--text-faint);margin-top:8px;font-style:italic}
 
+/* khối tra online tự động */
 .popover .donline{margin-top:10px;padding-top:8px;border-top:1px dashed var(--border)}
 
 .popover .dref{font-size:13px;margin-top:8px;color:var(--text-soft)}
+
+/* ===================== POLISH v2 (giao diện đẹp hơn) ===================== */
+/* phần dịch tiếng Việt trong ngoặc -> mờ, phân biệt với câu gốc */
+.sec-body .gloss{color:var(--text-soft);font-size:.94em}
+[data-theme=dark] .sec-body .gloss{color:var(--text-faint)}
+/* câu gốc (Nga/Trung) nổi bật hơn chút trong bài đọc */
+.sec-body .b-para .ru,.sec-body .b-para .zh,.sec-body .line .ru,.sec-body .line .zh{font-weight:600}
+.b-para,.b-example{line-height:1.85}
+/* dòng đang nghe: nền + viền mềm, dễ theo dõi */
+.reading{background:var(--brand-soft)!important;outline:none!important;box-shadow:-10px 0 0 var(--brand-soft),10px 0 0 var(--brand-soft);border-radius:8px}
+
+/* thẻ sách ở Trang chủ */
+.card.book{display:flex;flex-direction:column;min-height:150px}
+.card.book .cover{font-size:38px;width:64px;height:64px;border-radius:18px;display:grid;place-items:center;
+  background:linear-gradient(135deg,var(--brand-soft),var(--surface-2));box-shadow:var(--shadow-1);margin-bottom:4px}
+.card.book h3{font-size:16.5px;line-height:1.3}
+.card.book .tag{align-self:flex-start;margin-top:6px}
+.card.unit .emoji{font-size:26px}
+
+/* tiêu đề nhóm chương trong Tổng quan sách */
+.group-head{margin:22px 0 10px;font-size:13px;font-weight:800;letter-spacing:.5px;text-transform:uppercase;
+  color:var(--brand);display:flex;align-items:center;gap:10px}
+.group-head:before,.group-head:after{content:'';flex:1;height:1px;background:var(--border)}
+
+/* lưới thẻ thoáng hơn */
+.grid.cols{gap:18px}
+.card{transition:transform .16s ease,box-shadow .16s ease}
+.sec{margin-top:34px;font-size:18px;letter-spacing:-.2px}
+
+/* reader header gọn gàng */
+.reader-head .page-title{line-height:1.25}
+.b-instruction{box-shadow:var(--shadow-1)}

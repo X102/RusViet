@@ -1,0 +1,233 @@
+{
+ "id": "vhnga-029",
+ "num": 29,
+ "title": "«Пророк» — Nhà tiên tri (Pushkin)",
+ "vi": "«Пророк» — Nhà tiên tri (Pushkin)",
+ "ru": "Пророк",
+ "icon": "🔥",
+ "color": "#b91c1c",
+ "sectionPrefix": "vhnga-029-s",
+ "group": "Александр Пушкин · Thơ",
+ "sections": [
+  {
+   "id": "vhnga-029-s001",
+   "type": "story",
+   "num": 29,
+   "title": "«Проро́к» — “Nhà tiên tri” (A. Pushkin, 1826)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "А.С. Pushkin (Алекса́ндр Серге́евич Пу́шкин, 1799–1837). «Проро́к» (Nhà tiên tri, 1826) — một trong những bài thơ triết lý quan trọng nhất của Puskin về SỨ MỆNH THI SĨ, viết ở Mikhailovskoye mùa thu 1826, ít lâu sau khi năm người bạn Tháng Chạp của ông bị hành quyết; đăng lần đầu trên «Московский вестник» (1828). Cốt hình tượng lấy từ sách tiên tri Isaia (chương 6) trong Kinh Thánh: thiên thần sáu cánh Seraphim thanh tẩy nhà tiên tri bằng hòn than rực lửa. Qua sáu bước «phẫu thuật» thần thánh — mở mắt, mở tai, thay lưỡi, thay tim — con người yếu đuối được tái sinh thành nhà tiên tri, và tiếng Chúa truyền sứ mệnh: «Глаго́лом жги сердца́ люде́й» (Lấy Lời đốt cháy trái tim người) — câu thơ đã thành châm ngôn về thiên chức của nghệ thuật. Bài thơ dùng dày đặc từ Slavon Giáo hội cổ tạo giọng Kinh Thánh trang nghiêm: виждь = смотри́ (hãy nhìn), вне́мли = слу́шай (hãy nghe; trọng âm вне́мли để hiệp vần với зе́мли), зени́цы (con ngươi), уста́ (môi miệng), персты́ (ngón tay), десни́ца (tay phải), глас (tiếng nói), отве́рзлись (mở ra), му́дрыя = му́дрой (sở hữu cách cổ), заме́ршие (trọng âm cổ theo luật thơ; chuẩn nay за́мершие). Đối chiếu nguyên văn: Собрание сочинений в 10 т. (М., 1959–1962, т. 2) — culture.ru & rvb.ru."
+    },
+    {
+     "t": "para",
+     "text": "Духо́вной жа́ждою томи́м, (Bị cơn khát tâm linh giày vò,)"
+    },
+    {
+     "t": "para",
+     "text": "В пусты́не мра́чной я влачи́лся, — (Tôi lê bước giữa hoang mạc âm u, —)"
+    },
+    {
+     "t": "para",
+     "text": "И шестикры́лый серафи́м (Và vị thiên thần Seraphim sáu cánh)"
+    },
+    {
+     "t": "para",
+     "text": "На перепу́тье мне яви́лся. (Đã hiện ra với tôi nơi ngã ba đường.)"
+    },
+    {
+     "t": "para",
+     "text": "Перста́ми лёгкими как сон (Với những ngón tay nhẹ tựa giấc mơ)"
+    },
+    {
+     "t": "para",
+     "text": "Мои́х зени́ц косну́лся он. (Người chạm vào đôi con ngươi tôi.)"
+    },
+    {
+     "t": "para",
+     "text": "Отве́рзлись ве́щие зени́цы, (Đôi con ngươi tiên tri liền mở rộng,)"
+    },
+    {
+     "t": "para",
+     "text": "Как у испу́ганной орли́цы. (Như mắt đại bàng mái lúc kinh hoàng.)"
+    },
+    {
+     "t": "para",
+     "text": "Мои́х уше́й косну́лся он, — (Người chạm vào đôi tai tôi, —)"
+    },
+    {
+     "t": "para",
+     "text": "И их напо́лнил шум и звон: (Và chúng tràn ngập âm vang cùng tiếng động:)"
+    },
+    {
+     "t": "para",
+     "text": "И внял я не́ба содрога́нье, (Tôi nghe thấu cả trời cao rung chuyển,)"
+    },
+    {
+     "t": "para",
+     "text": "И го́рний а́нгелов полёт, (Cả đường bay thiên thần chốn thượng giới,)"
+    },
+    {
+     "t": "para",
+     "text": "И гад морски́х подво́дный ход, (Cả bầy thuỷ tộc lượn dưới biển sâu,)"
+    },
+    {
+     "t": "para",
+     "text": "И до́льней лозы́ прозяба́нье. (Cả nhành nho dưới thung lũng nảy mầm.)"
+    },
+    {
+     "t": "para",
+     "text": "И он к уста́м мои́м прини́к, (Người ghé sát xuống môi tôi,)"
+    },
+    {
+     "t": "para",
+     "text": "И вы́рвал гре́шный мой язы́к, (Rứt đi chiếc lưỡi tội lỗi của tôi,)"
+    },
+    {
+     "t": "para",
+     "text": "И праздносло́вный и лука́вый, (Chiếc lưỡi ba hoa và gian dối,)"
+    },
+    {
+     "t": "para",
+     "text": "И жа́ло му́дрыя змеи́ (Và nọc con rắn khôn ngoan)"
+    },
+    {
+     "t": "para",
+     "text": "В уста́ заме́ршие мои́ (Vào đôi môi tôi đã lặng cứng)"
+    },
+    {
+     "t": "para",
+     "text": "Вложи́л десни́цею крова́вой. (Người đặt vào bằng bàn tay phải đẫm máu.)"
+    },
+    {
+     "t": "para",
+     "text": "И он мне грудь рассе́к мечо́м, (Người lấy gươm rạch phanh lồng ngực tôi,)"
+    },
+    {
+     "t": "para",
+     "text": "И се́рдце тре́петное вы́нул, (Moi ra trái tim đang run rẩy,)"
+    },
+    {
+     "t": "para",
+     "text": "И угль, пыла́ющий огнём, (Và hòn than rừng rực lửa)"
+    },
+    {
+     "t": "para",
+     "text": "Во грудь отве́рстую водви́нул. (Người đặt vào lồng ngực mở toang.)"
+    },
+    {
+     "t": "para",
+     "text": "Как труп в пусты́не я лежа́л, (Như xác chết tôi nằm giữa hoang mạc,)"
+    },
+    {
+     "t": "para",
+     "text": "И бо́га глас ко мне воззва́л: (Và tiếng Đức Chúa Trời vọng gọi tôi:)"
+    },
+    {
+     "t": "para",
+     "text": "«Восста́нь, проро́к, и виждь, и вне́мли, («Hãy đứng dậy, hỡi nhà tiên tri, hãy nhìn, hãy nghe thấu,)"
+    },
+    {
+     "t": "para",
+     "text": "Испо́лнись во́лею мое́й, (Hãy để ý chí Ta tràn ngập trong ngươi,)"
+    },
+    {
+     "t": "para",
+     "text": "И, обходя́ моря́ и зе́мли, (Và, đi khắp biển cả cùng đất liền,)"
+    },
+    {
+     "t": "para",
+     "text": "Глаго́лом жги сердца́ люде́й». (Hãy lấy Lời đốt cháy trái tim người».)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó"
+    },
+    {
+     "t": "vocab",
+     "ru": "проро́к",
+     "vi": "nhà tiên tri, đấng tiên tri",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "томи́ть (томи́м)",
+     "vi": "giày vò, day dứt; жаждою томи́м — bị cơn khát giày vò",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "влачи́ться",
+     "vi": "lê bước, lết đi (từ cổ/văn chương)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "серафи́м",
+     "vi": "Seraphim — thiên thần thượng đẳng sáu cánh (Kinh Thánh)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "перепу́тье",
+     "vi": "ngã ba đường, nơi các ngả đường gặp nhau (nghĩa bóng: lúc phân vân chọn hướng)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "перст (перста́ми)",
+     "vi": "ngón tay (từ Slavon cổ; nay = па́лец)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "зени́ца (зени́цы)",
+     "vi": "con ngươi (từ cổ; còn trong thành ngữ бере́чь как зени́цу о́ка — giữ như con ngươi của mắt)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "отве́рзться (отве́рзлись)",
+     "vi": "mở ra, hé mở (từ Slavon cổ; nay = откры́ться)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ве́щий",
+     "vi": "tiên tri, thấu thị, biết trước (ве́щие зени́цы — đôi mắt tiên tri)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "внять (внял)",
+     "vi": "nghe thấu, lĩnh hội (từ cổ; mệnh lệnh thức вне́мли — hãy nghe)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "го́рний",
+     "vi": "thuộc trời cao, thượng giới (từ Slavon cổ; đối với до́льний — thuộc hạ giới)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "прозяба́нье",
+     "vi": "sự nảy mầm, sinh trưởng (của cây cỏ — nghĩa cổ của прозяба́ть)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "уста́",
+     "vi": "môi, miệng (từ Slavon cổ; nay = гу́бы, рот)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "десни́ца",
+     "vi": "bàn tay phải (từ Slavon cổ; biểu tượng quyền năng)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,225 @@
+{
+ "id": "skazki1-045",
+ "num": 45,
+ "title": "Байка о щуке зубастой — Truyện con cá chó nhe nanh",
+ "vi": "Байка о щуке зубастой — Truyện con cá chó nhe nanh",
+ "ru": "Байка о щуке зубастой",
+ "icon": "🐟",
+ "color": "#115e59",
+ "sectionPrefix": "skazki1-045-s",
+ "group": "Truyện № 61–100",
+ "sections": [
+  {
+   "id": "skazki1-045-s001",
+   "type": "story",
+   "num": 81,
+   "title": "№ 81 · Байка о щуке зубастой — Truyện con cá chó nhe nanh",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "«Байка о щуке зубастой» là một truyện tầm phào (байка) vui theo lối ngụ ngôn loài cá, lấy bối cảnh con sông Sheksna có thật ở vùng Vologda. Truyện giễu cợt thói «cá lớn nuốt cá bé» bằng giọng khoa trương dân gian — con cá chó mới sinh đã làm dậy sóng cả khúc sông — rồi khép lại bằng bài học nhân quả (kẻ phàm ăn cuối cùng cũng mắc câu) và công thức kết truyện cổ tích Nga quen thuộc «по усу текло, в рот не попало» (chảy ròng theo ria mà chẳng lọt vào mồm)."
+    },
+    {
+     "t": "para",
+     "text": "В ночь на Иванов день родилась щука в Шексне, да такая зубастая, что боже упаси! (Vào đêm trước ngày lễ thánh Ivan, ở sông Sheksna có một con cá chó ra đời, mà nhe nanh đến mức lạy Chúa tôi!)"
+    },
+    {
+     "t": "para",
+     "text": "Лещи, окуни, ерши — все собрались глазеть на нее и дивовались такому чуду. (Cá vền, cá rô, cá gai — tất thảy xúm lại trố mắt nhìn nó mà kinh ngạc trước điều kỳ lạ ấy.)"
+    },
+    {
+     "t": "para",
+     "text": "Вода той порой в Шексне всколыхалася; шел паром через реку, да чуть не затопился. (Nước sông Sheksna lúc ấy cuộn sóng dậy lên; chiếc phà đang qua sông suýt nữa thì chìm nghỉm.)"
+    },
+    {
+     "t": "para",
+     "text": "А красные девки гуляли по берегу, да все порассыпались. (Còn mấy cô gái xinh đẹp đang dạo chơi trên bờ thì chạy tán loạn cả.)"
+    },
+    {
+     "t": "para",
+     "text": "Экая щука родилась зубастая! (Chao ôi, con cá chó sinh ra mới nhe nanh làm sao!)"
+    },
+    {
+     "t": "para",
+     "text": "И стала она расти не по дням, а по часам: что день, то на вершок прибавится. (Rồi nó lớn nhanh không phải tính từng ngày mà từng giờ: cứ mỗi ngày lại dài thêm một vершок.)"
+    },
+    {
+     "t": "para",
+     "text": "И стала щука зубастая в Шексне похаживать да лещей, окуней полавливать. (Con cá chó nhe nanh bắt đầu lượn lờ khắp sông Sheksna mà rình bắt cá vền, cá rô.)"
+    },
+    {
+     "t": "para",
+     "text": "Издали увидит леща, да и хвать его зубами — леща как не бывало, только косточки хрустят на зубах у щуки зубастой. (Từ xa thấy con cá vền là đớp ngay bằng hàm răng — thế là con cá vền biến mất tăm, chỉ còn nghe xương kêu rau ráu trong miệng con cá chó nhe nanh.)"
+    },
+    {
+     "t": "para",
+     "text": "Экая оказия случилась в Шексне! (Chao ôi, sông Sheksna gặp phải tai vạ mới gớm làm sao!)"
+    },
+    {
+     "t": "para",
+     "text": "Что делать лещам да окуням? (Cá vền với cá rô biết làm sao bây giờ?)"
+    },
+    {
+     "t": "para",
+     "text": "Тошно приходит: щука всех приест, прикорнает. (Khốn khổ đến nơi rồi: con cá chó sẽ xơi tái hết thảy, ngốn sạch chẳng chừa.)"
+    },
+    {
+     "t": "para",
+     "text": "Собралась вся мелкая рыбица, и стали думу думать, как перевести щуку зубастую да такую торовастую. (Cả lũ cá nhỏ kéo nhau tụ họp, ngồi bàn mưu tính kế làm sao trừ khử con cá chó nhe nanh phàm ăn ấy.)"
+    },
+    {
+     "t": "para",
+     "text": "На совет пришел и Ерш Ершович и так наскоро взголцыл: (Đến dự hội nghị có cả lão Cá Gai Ershovich, lão vội vàng cất tiếng oang oang:)"
+    },
+    {
+     "t": "para",
+     "text": "«Полноте думу думать да голову ломать, полноте мозг портить; а вот послушайте, что я буду баять. («Thôi đừng bàn tính nát óc nữa, đừng nặn óc hại đầu làm chi; các vị hãy nghe tôi nói đây.)"
+    },
+    {
+     "t": "para",
+     "text": "Тошно нам всем тепере в Шексне; щука зубастая проходу не дает, всякую рыбу на зуб берет! (Giờ ở sông Sheksna chúng ta khốn khổ cả lũ; con cá chó nhe nanh chẳng cho ai lối thoát, gặp con cá nào cũng cắn xé!)"
+    },
+    {
+     "t": "para",
+     "text": "Не житье нам в Шексне, переберемтесь-ка лучше в мелкие речки жить — в Сизму, Коному да Славенку; (Sống ở Sheksna thế này thì còn ra gì, chi bằng ta dọn sang mấy con suối nhỏ mà ở — sang suối Sizma, Konoma với Slavenka;)"
+    },
+    {
+     "t": "para",
+     "text": "там нас никто не тронет, и будем жить припеваючи да деток наживаючи». (ở đó chẳng ai động đến ta, ta sẽ sống ung dung sung sướng mà sinh con đẻ cái».)"
+    },
+    {
+     "t": "para",
+     "text": "И поднялись все ерши, лещи, окуни из Шексны в мелкие речки Сизму, Коному да Славенку. (Thế là cả lũ cá gai, cá vền, cá rô rủ nhau rời sông Sheksna kéo sang mấy con suối nhỏ Sizma, Konoma với Slavenka.)"
+    },
+    {
+     "t": "para",
+     "text": "По дороге, как шли, хитрый рыбарь многих из ихней братьи изловил на удочку и сварил забубенную ушицу, да тем, кажись, и заговелся. (Dọc đường đi, một bác ngư phủ ranh mãnh đã câu được khối kẻ trong đám họ hàng nhà cá, nấu một nồi canh cá ngon ra trò, xem chừng còn được bữa no nê.)"
+    },
+    {
+     "t": "para",
+     "text": "С тех пор в Шексне совсем мало стало мелкой рыбицы. (Từ bấy giờ sông Sheksna còn lại rất ít cá nhỏ.)"
+    },
+    {
+     "t": "para",
+     "text": "Закинет рыбарь удочку в воду, да ничего не вытащит; когда-некогда попадется стерлядка, да тем и ловле шабаш! (Bác ngư phủ quăng cần xuống nước mà chẳng kéo được gì; hoạ hoằn lắm mới mắc được một con cá tầm nhỏ, thế là xong buổi câu!)"
+    },
+    {
+     "t": "para",
+     "text": "Вот вам и вся байка о щуке зубастой да такой торовастой. (Thế đấy, cả câu chuyện tầm phào về con cá chó nhe nanh phàm ăn là vậy đó.)"
+    },
+    {
+     "t": "para",
+     "text": "Много наделала плутовка хлопот в Шексне, да после и сама несдобровала; как не стало мелкой рыбицы, пошла хватать червячков и попалась сама на крючок. (Con ranh ma ấy gây bao phiền nhiễu ở sông Sheksna, nhưng rốt cuộc chính nó cũng chẳng được yên thân; khi chẳng còn cá nhỏ để ăn, nó đành đi đớp giun mồi rồi tự mình mắc phải lưỡi câu.)"
+    },
+    {
+     "t": "para",
+     "text": "Рыбарь сварил уху, хлебал да хвалил: такая была жирная! (Bác ngư phủ đem nấu canh cá, vừa húp vừa tấm tắc khen: béo ngậy chưa kìa!)"
+    },
+    {
+     "t": "para",
+     "text": "Я там был, вместе уху хлебал, по усу текло, в рот не попало. (Tôi cũng có mặt ở đó, cùng húp canh cá với họ, canh chảy ròng ròng theo ria mép mà chẳng giọt nào lọt vào mồm.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "байка",
+     "vi": "truyện kể tầm phào, ngụ ngôn vui (kiểu chuyện khoác dân gian)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "Иванов день",
+     "vi": "ngày lễ thánh Ivan (đêm Ivan Kupala — lễ hạ chí dân gian Nga, đêm 23–24/6)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "зубастый",
+     "vi": "nhe nanh, lắm răng nhọn; sắc sảo, dữ dằn",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "дивоваться",
+     "vi": "(cổ/phương ngữ) kinh ngạc, trố mắt thán phục (= дивиться)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "всколыхаться",
+     "vi": "dậy sóng, cuộn lên, chao đảo",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "паром",
+     "vi": "chiếc phà (đưa người/xe qua sông)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "вершок",
+     "vi": "đơn vị đo chiều dài cổ Nga ≈ 4,4 cm (bằng bề ngang một đốt ngón tay)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "торовастый",
+     "vi": "(phương ngữ) phàm ăn, ngốn khoẻ; (vốn: hào phóng, dư dật) — ở đây láy vần với зубастый",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "прикорнать",
+     "vi": "(phương ngữ) ngốn sạch, đợp hết (cùng nghĩa приесть = ăn dần cho kỳ hết)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "взголцыть",
+     "vi": "(phương ngữ, взголчить) cất tiếng ồn ào, hô oang oang",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "рыбарь",
+     "vi": "(cổ) ngư phủ, người đánh cá (= рыбак)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "забубённый",
+     "vi": "phóng khoáng, làm tới bến; забубённая ушица = nồi canh cá nấu ra trò",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "уха",
+     "vi": "canh cá — món xúp cá nước trong truyền thống Nga (ушица = dạng thân mật)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "заговеться",
+     "vi": "ăn no thỏa thuê (vốn: ăn bữa cuối cùng trước khi vào kỳ ăn chay)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "стерлядь",
+     "vi": "cá tầm nhỏ (sterlet, Acipenser ruthenus); стерлядка = dạng nhỏ thân mật",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "шабаш",
+     "vi": "(khẩu ngữ) xong, hết, nghỉ tay, chấm dứt",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

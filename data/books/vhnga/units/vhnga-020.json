@@ -1,0 +1,237 @@
+{
+ "id": "vhnga-020",
+ "num": 20,
+ "title": "«Хамелеон» — Con tắc kè hoa (Chekhov, trích)",
+ "vi": "«Хамелеон» — Con tắc kè hoa (Chekhov, trích)",
+ "ru": "Хамелеон",
+ "icon": "🦎",
+ "color": "#16a34a",
+ "sectionPrefix": "vhnga-020-s",
+ "group": "Антон Чехов · Truyện ngắn",
+ "sections": [
+  {
+   "id": "vhnga-020-s001",
+   "type": "story",
+   "num": 1,
+   "title": "«Хамелеон» — “Con tắc kè hoa” (A. Chekhov, 1884) — trích đoạn mở đầu",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "A.P. Sê-khốp (Анто́н Па́влович Че́хов, 1860–1904) — bậc thầy truyện ngắn của văn học Nga. «Хамелеон» (Con tắc kè hoa — bản dịch quen thuộc còn gọi «Con kỳ nhông», 1884) đăng lần đầu trên tuần báo trào phúng «Осколки». Đây là TRÍCH ĐOẠN MỞ ĐẦU: trên quảng trường chợ vắng, viên giám thị cảnh sát Ochumelov đứng ra phân xử vụ chú chó con cắn ngón tay gã thợ kim hoàn Khryukin. Đang hùng hổ đòi «trừ khử» con chó và phạt nặng chủ nó, vừa thoáng nghe nói hình như chó của quan tướng Zhigalov, giọng điệu Ochumelov lập tức đổi chiều — như tắc kè hoa đổi màu. Ở phần sau của truyện, «lai lịch» con chó còn lật đi lật lại đến sáu lần, mỗi lần Ochumelov lại đổi giọng theo; chi tiết đắt giá là chiếc áo ca-pốt hết cởi ra («nóng quá») lại khoác vào («thấy ớn lạnh») theo từng cú «đổi màu». Kết truyện: đầu bếp nhà quan xác nhận chó của em trai quan tướng; Ochumelov nịnh nọt con chó, đám đông cười nhạo Khryukin. Từ đó «хамелеон» thành danh từ chung chỉ thói xu nịnh quyền thế, lá mặt lá trái."
+    },
+    {
+     "t": "para",
+     "text": "Через база́рную пло́щадь идёт полице́йский надзира́тель Очуме́лов в но́вой шине́ли и с узелко́м в руке́. (Viên giám thị cảnh sát Ochumelov mặc áo ca-pốt mới, tay xách một gói nhỏ, đi qua quảng trường chợ.)"
+    },
+    {
+     "t": "para",
+     "text": "За ним шага́ет ры́жий городово́й с решето́м, до́верху напо́лненным конфиско́ванным крыжо́вником. (Theo sau là một viên cảnh sát tóc hung, bưng chiếc giần đựng đầy ắp quả lý gai vừa tịch thu được.)"
+    },
+    {
+     "t": "para",
+     "text": "Круго́м тишина́... На пло́щади ни души́... (Bốn bề im ắng... Trên quảng trường không một bóng người...)"
+    },
+    {
+     "t": "para",
+     "text": "Откры́тые две́ри ла́вок и кабако́в глядя́т на свет бо́жий уны́ло, как голо́дные па́сти; о́коло них нет да́же ни́щих. (Những cánh cửa mở toang của hàng quán, tửu điếm nhìn ra cõi đời một cách rầu rĩ, như những cái mõm đói; quanh đấy đến một người ăn mày cũng chẳng có.)"
+    },
+    {
+     "t": "para",
+     "text": "— Так ты куса́ться, окая́нная? — слы́шит вдруг Очуме́лов. — Ребя́та, не пуща́й её! Ны́нче не ве́лено куса́ться! Держи́! А... а! (— À, mày dám cắn hả, đồ trời đánh? — bỗng Ochumelov nghe thấy. — Anh em ơi, đừng cho nó chạy! Thời buổi này cấm cắn càn! Giữ lấy! A... a!)"
+    },
+    {
+     "t": "para",
+     "text": "Слы́шен соба́чий визг. (Có tiếng chó ăng ẳng.)"
+    },
+    {
+     "t": "para",
+     "text": "Очуме́лов гляди́т в сто́рону и ви́дит: из дровяно́го скла́да купца́ Пичу́гина, пры́гая на трёх нога́х и огля́дываясь, бежи́т соба́ка. (Ochumelov ngoảnh nhìn và thấy: từ bãi củi của lái buôn Pichugin, một con chó vừa nhảy lò cò trên ba chân vừa ngoái lại, đang chạy ra.)"
+    },
+    {
+     "t": "para",
+     "text": "За ней го́нится челове́к в си́тцевой крахма́льной руба́хе и расстёгнутой жиле́тке. (Đuổi theo nó là một gã đàn ông mặc sơ-mi vải hoa hồ cứng, ngoài khoác gi-lê phanh khuy.)"
+    },
+    {
+     "t": "para",
+     "text": "Он бежи́т за ней и, пода́вшись ту́ловищем вперёд, па́дает на зе́млю и хвата́ет соба́ку за за́дние ла́пы. (Gã lao theo con chó, chúi cả người về phía trước, ngã sóng soài xuống đất và túm được hai chân sau của nó.)"
+    },
+    {
+     "t": "para",
+     "text": "Слы́шен втори́чно соба́чий визг и крик: «Не пуща́й!» (Lại nghe tiếng chó ăng ẳng lần nữa và tiếng quát: «Đừng cho nó chạy!»)"
+    },
+    {
+     "t": "para",
+     "text": "Из ла́вок высо́вываются со́нные физионо́мии, и ско́ро о́коло дровяно́го скла́да, сло́вно из земли́ вы́росши, собира́ется толпа́. (Từ các cửa hàng, những bộ mặt ngái ngủ thò ra, và chẳng mấy chốc quanh bãi củi, như từ dưới đất mọc lên, đã tụ lại một đám đông.)"
+    },
+    {
+     "t": "para",
+     "text": "— Ника́к беспоря́док, ва́ше благоро́дие!.. — говори́т городово́й. (— Hình như có chuyện lộn xộn, bẩm quan lớn!.. — viên cảnh sát tóc hung nói.)"
+    },
+    {
+     "t": "para",
+     "text": "Очуме́лов де́лает полуоборо́т нале́во и шага́ет к сбо́рищу. (Ochumelov quay nửa vòng sang trái, rảo bước về phía đám đông.)"
+    },
+    {
+     "t": "para",
+     "text": "О́коло са́мых воро́т скла́да, ви́дит он, стои́т вышепи́санный челове́к в расстёгнутой жиле́тке и, подня́в вверх пра́вую ру́ку, пока́зывает толпе́ окрова́вленный па́лец. (Ngay sát cổng bãi củi, ông ta thấy gã đàn ông mặc gi-lê phanh khuy nói trên đang đứng đó, giơ cao bàn tay phải, chìa ngón tay đẫm máu cho đám đông xem.)"
+    },
+    {
+     "t": "para",
+     "text": "На полупья́ном лице́ его́ как бы напи́сано: «Ужо́ я сорву́ с тебя́, ше́льма!», да и са́мый па́лец име́ет вид зна́мения побе́ды. (Trên bộ mặt ngà ngà say của gã như viết sẵn dòng chữ: «Rồi tao sẽ lột da mày, đồ chó má!», mà chính ngón tay kia trông cũng hệt một lá cờ chiến thắng.)"
+    },
+    {
+     "t": "para",
+     "text": "В э́том челове́ке Очуме́лов узнаёт золоты́х дел ма́стера Хрю́кина. (Ochumelov nhận ra gã: đó là Khryukin, thợ kim hoàn.)"
+    },
+    {
+     "t": "para",
+     "text": "В це́нтре толпы́, растопы́рив пере́дние но́ги и дрожа́ всем те́лом, сиди́т на земле́ сам вино́вник сканда́ла — бе́лый борзо́й щено́к с о́строй мо́рдой и жёлтым пятно́м на спине́. (Giữa đám đông, hai chân trước dạng ra, toàn thân run rẩy, thủ phạm của vụ tai tiếng đang ngồi bệt trên đất — một chú chó săn borzoi con lông trắng, mõm nhọn, lưng có đốm vàng.)"
+    },
+    {
+     "t": "para",
+     "text": "В слезя́щихся глаза́х его́ выраже́ние тоски́ и у́жаса. (Trong đôi mắt ướt nhoèn của nó là vẻ sầu não và kinh hãi.)"
+    },
+    {
+     "t": "para",
+     "text": "— По како́му э́то слу́чаю тут? — спра́шивает Очуме́лов, вре́зываясь в толпу́. — Почему́ тут? Э́то ты заче́м па́лец?.. Кто крича́л? (— Nhân dịp gì mà tụ tập ở đây thế này? — Ochumelov vừa hỏi vừa rẽ đám đông xông vào. — Sao lại ở đây? Còn anh kia, giơ ngón tay làm gì?.. Ai vừa kêu đấy?)"
+    },
+    {
+     "t": "para",
+     "text": "— Иду́ я, ва́ше благоро́дие, никого́ не тро́гаю... — начина́ет Хрю́кин, ка́шляя в кула́к. — Насчёт дров с Ми́трий Ми́тричем, — и вдруг э́та по́длая ни с того́ ни с сего́ за па́лец... (— Bẩm quan lớn, con đang đi, chẳng động đến ai... — Khryukin mở lời, ho vào nắm tay. — Con đang bàn chuyện củi nứa với ông Mitry Mitrich, thì đùng một cái, con ranh đê tiện này chẳng đâu vào đâu đớp luôn vào ngón tay con...)"
+    },
+    {
+     "t": "para",
+     "text": "Вы меня́ извини́те, я челове́к, кото́рый рабо́тающий... Рабо́та у меня́ ме́лкая. (Xin quan lớn thứ lỗi, con là người làm ăn lao động... Mà công việc của con lại là việc tỉ mỉ.)"
+    },
+    {
+     "t": "para",
+     "text": "Пуща́й мне запла́тят, потому́ — я э́тим па́льцем, мо́жет, неде́лю не пошевельну́... (Cứ bắt người ta bồi thường cho con, vì cái ngón tay này có khi cả tuần con chẳng nhúc nhích nổi...)"
+    },
+    {
+     "t": "para",
+     "text": "Э́того, ва́ше благоро́дие, и в зако́не нет, чтоб от тва́ри терпе́ть... Е́жели ка́ждый бу́дет куса́ться, то лу́чше и не жить на све́те... (Bẩm quan lớn, luật pháp cũng chẳng có khoản nào bắt người ta phải chịu đựng giống súc sinh... Nếu con nào cũng cắn càn thế này thì thà đừng sống trên đời còn hơn...)"
+    },
+    {
+     "t": "para",
+     "text": "— Гм!.. Хорошо́... — говори́т Очуме́лов стро́го, ка́шляя и шевеля́ бровя́ми. — Хорошо́... Чья соба́ка? Я э́того так не оста́влю. (— Hừm!.. Được... — Ochumelov nghiêm giọng nói, ho và nhíu đôi lông mày. — Được lắm... Chó của ai? Việc này ta không bỏ qua đâu.)"
+    },
+    {
+     "t": "para",
+     "text": "Я покажу́ вам, как соба́к распуска́ть! Пора́ обрати́ть внима́ние на подо́бных госпо́д, не жела́ющих подчиня́ться постановле́ниям! (Ta sẽ cho các người biết thế nào là thả chó chạy rông! Đã đến lúc phải để mắt tới những ông chủ không chịu tuân theo lệnh trên!)"
+    },
+    {
+     "t": "para",
+     "text": "Как оштрафу́ют его́, мерза́вца, так он узна́ет у меня́, что зна́чит соба́ка и про́чий бродя́чий скот! Я ему́ покажу́ ку́зькину мать!.. (Cứ phạt cho thằng cha đểu giả ấy một trận, hắn sẽ biết tay ta — biết thế nào là chó má với lại súc vật chạy rông! Ta sẽ cho hắn biết thế nào là lễ độ!..)"
+    },
+    {
+     "t": "para",
+     "text": "— Елды́рин, — обраща́ется надзира́тель к городово́му, — узна́й, чья э́то соба́ка, и составля́й протоко́л! А соба́ку истреби́ть на́до. Не ме́для! Она́ наве́рное бе́шеная... Чья э́то соба́ка, спра́шиваю? (— Eldyrin, — viên giám thị quay sang người cảnh sát, — đi hỏi xem chó của ai, rồi lập biên bản! Còn con chó thì phải trừ khử. Không được chậm trễ! Khéo nó dại rồi cũng nên... Ta hỏi: chó của ai đây?)"
+    },
+    {
+     "t": "para",
+     "text": "— Э́то, ка́жись, генера́ла Жига́лова! — говори́т кто́-то из толпы́. (— Hình như là chó của cụ lớn — tướng Zhigalov đấy ạ! — ai đó trong đám đông nói.)"
+    },
+    {
+     "t": "para",
+     "text": "— Генера́ла Жига́лова? Гм!.. Сними́-ка, Елды́рин, с меня́ пальто́... У́жас, как жа́рко! Должно́ полага́ть, пе́ред дождём... (— Của tướng Zhigalov à? Hừm!.. Eldyrin, cởi hộ ta cái áo khoác... Khiếp, sao mà nóng thế! Hẳn là trời sắp mưa đây...)"
+    },
+    {
+     "t": "para",
+     "text": "Одного́ то́лько я не понима́ю: как она́ могла́ тебя́ укуси́ть? — обраща́ется Очуме́лов к Хрю́кину. — Не́што она́ доста́нет до па́льца? Она́ ма́ленькая, а ты ведь вон како́й здорови́ла! (Chỉ có một điều ta không sao hiểu nổi: làm thế nào nó cắn được anh? — Ochumelov quay sang Khryukin. — Chả lẽ nó với được tới ngón tay? Nó thì bé tí tẹo, còn anh thì hộ pháp nhường kia!)"
+    },
+    {
+     "t": "para",
+     "text": "Ты, должно́ быть, расковыря́л па́лец гво́здиком, а пото́м и пришла́ в твою́ го́лову иде́я, чтоб сорва́ть. Ты ведь... изве́стный наро́д! Зна́ю вас, черте́й! (Anh khéo lấy đinh cạy toạc ngón tay ra, rồi mới nảy ra cái ý ăn vạ bắt đền chứ gì. Cái ngữ các anh thì... ai còn lạ! Ta biết tỏng lũ quỷ các anh rồi!)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó"
+    },
+    {
+     "t": "vocab",
+     "ru": "хамелео́н",
+     "vi": "con tắc kè hoa; (nghĩa bóng) kẻ xu thời, gió chiều nào che chiều ấy",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "надзира́тель",
+     "vi": "viên giám thị; полице́йский надзира́тель — giám thị cảnh sát (chức danh thời Nga hoàng)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "шине́ль",
+     "vi": "áo ca-pốt (áo khoác dạ kiểu nhà binh)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "городово́й",
+     "vi": "cảnh sát viên (thời Nga hoàng)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "конфискова́ть",
+     "vi": "tịch thu; конфиско́ванный — bị tịch thu",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "крыжо́вник",
+     "vi": "quả lý gai",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ва́ше благоро́дие",
+     "vi": "bẩm quan lớn (lối xưng hô với quan chức thời Nga hoàng)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "толпа́",
+     "vi": "đám đông",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "окрова́вленный",
+     "vi": "đẫm máu, vấy máu",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "щено́к",
+     "vi": "chó con",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "куса́ться",
+     "vi": "hay cắn, cắn càn; укуси́ть — cắn (một phát)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "бе́шеный",
+     "vi": "(chó) dại; điên cuồng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "протоко́л",
+     "vi": "biên bản",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "оштрафова́ть",
+     "vi": "phạt tiền",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

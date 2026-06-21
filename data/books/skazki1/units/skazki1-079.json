@@ -1,0 +1,923 @@
+{
+ "id": "skazki1-079",
+ "num": 79,
+ "title": "Буря-богатырь Иван коровий сын — Tráng sĩ Bão Táp Ivan con bò",
+ "vi": "Буря-богатырь Иван коровий сын — Tráng sĩ Bão Táp Ivan con bò",
+ "ru": "Буря-богатырь Иван коровий сын",
+ "icon": "🐂",
+ "color": "#b45309",
+ "sectionPrefix": "skazki1-079-s",
+ "group": "Truyện № 101–140",
+ "sections": [
+  {
+   "id": "skazki1-079-s001",
+   "type": "story",
+   "num": 136,
+   "title": "№ 136 · Буря-богатырь Иван коровий сын — Tráng sĩ Bão Táp Ivan con bò",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Bản trau chuốt nhất trong chùm truyện dũng sĩ diệt mãng xà (ATU 300) №133–136, nối thêm mạch «ba nàng dâu xà báo thù» và môtип cô dâu phù thuỷ bị thuần phục: ba chàng cùng sinh nhờ con cá măng cánh vàng — hoàng tử, con cô hầu và Bão Táp con bò; ba đêm canh cầu kalina diệt mãng xà 6–9–12 đầu; nghe lỏm mẹ con xà bày mưu — giếng nước, vườn táo, túp lều đều là yêu hoá, chém vào ứa máu; con lợn khổng lồ nuốt hai anh em, bị kẹp lưỡi bằng kìm nung trong lò rèn; đoạn sau cầu hôn công chúa Marya con vua Ấn Độ: nồi cháo suông với chiếc muôi quét sạch đạo quân, ba sợi tóc của ông lão dưới biển, cô dâu hoá bồ câu và ba chiếc roi sắt–đồng–thiếc đêm tân hôn. Công thức «Сивка-бурка, вещая каурка» xuất hiện lần đầu trong sách. QUY ƯỚC: Буря-богатырь Иван коровий сын = tráng sĩ Bão Táp Ivan con bò; Иван-царевич = hoàng tử Ivan; Иван девкин сын = Ivan con cô hầu; чудо-юда мосальская губа = quái Chudo-Yuda mõm Mosal; калиновый мост = cầu kalina; меч-кладенец = kiếm báu kladenets; индейский король = vua Ấn Độ; сильномогучие богатыри = tráng sĩ thần lực. Giữ nguyên chính tả và trọng âm in gốc (снилося, тож, бояры, окромя, али, полну́, по́ мосту, на́ море, за́ уши, в те́ поры…); vết in: «Здравствуйте, братцы» thiếu dấu câu, một chỗ thiếu » đóng trước «Кинули», «великими клятвавами» (= клятвами); đã chuẩn hoá 2 vết footnote («чернети :», «аредом .»)."
+    },
+    {
+     "t": "para",
+     "text": "В некотором царстве, в некотором государстве жил-был король со своей королевою; не имели они детей, а жили вместе годов до десяти, так что король послал по всем царям, по всем городам, по всем народам — по чернети: кто бы мог полечить, чтоб королева забеременела? (Ở một vương quốc nọ, một xứ sở nọ, có một đức vua sống cùng hoàng hậu; hai người ăn ở với nhau ngót mười năm trời mà chẳng có mụn con nào, vua bèn sai sứ đi khắp các vua chúa, khắp các thành thị, khắp muôn dân — xuống tận đám dân đen: ai có thể chữa sao cho hoàng hậu mang thai được chăng?)"
+    },
+    {
+     "t": "para",
+     "text": "Съехались князья и бояры, богатые купцы и крестьяне; король накормил их досыта, напоил всех допьяна и начал выспрашивать. (Các công hầu, đại thần, phú thương cùng nông dân kéo nhau tới; vua thết cho ăn no, chuốc cho say khướt rồi bắt đầu gạn hỏi.)"
+    },
+    {
+     "t": "para",
+     "text": "Никто не знает, не ведает, никто не берется сказать, от чего б королева могла плод понести; только взялся крестьянский сын. (Chẳng ai biết, chẳng ai hay, chẳng ai dám nhận nói xem nhờ đâu hoàng hậu có thể đậu thai; duy có anh con trai nhà nông đứng ra nhận.)"
+    },
+    {
+     "t": "para",
+     "text": "Король вынимает и дает ему полну́ горсть червонцев и назначает сроку три дня. (Vua bèn móc ra thưởng cho anh ta cả một vốc đầy tiền vàng và hẹn cho ba ngày.)"
+    },
+    {
+     "t": "para",
+     "text": "Ну, крестьянский сын взяться взялся, а что сказать — того ему и во сне не снилося; вышел он из города и задумался крепко. (Khốn nỗi anh con trai nhà nông nhận thì nhận đấy, chứ biết nói gì — điều ấy nằm mơ anh cũng chẳng thấy; anh ra khỏi thành, nghĩ ngợi lung lắm.)"
+    },
+    {
+     "t": "para",
+     "text": "Попадается ему навстречу старушка: «Скажи мне, крестьянский сын, о чем ты задумался?» (Một bà lão đi ngược chiều gặp anh: «Nói cho già nghe, hỡi con trai nhà nông, con đang nghĩ ngợi điều chi?»)"
+    },
+    {
+     "t": "para",
+     "text": "Он ей отвечает: «Молчи, старая хрычовка, не досаждай мне!» (Anh đáp: «Im đi, mụ già lẩm cẩm, đừng quấy rầy tôi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Вот она вперед забежала и говорит: «Скажи мне думу свою крепкую; я человек старый, все знаю». (Bà lão liền chạy vòng lên trước, bảo: «Cứ nói cho già nghe nỗi nghĩ ngợi nặng trĩu của con; già này từng tuổi này rồi, việc gì cũng tỏ».)"
+    },
+    {
+     "t": "para",
+     "text": "Он подумал: «За что я ее избранил? Может быть, что и знает. — Вот, бабушка, взялся я королю сказать, от чего бы королева плод понесла; да сам не знаю». (Anh nghĩ bụng: «Mình mắng bà ấy làm gì? Biết đâu bà ấy biết thật. — Thưa bà, con trót nhận với vua sẽ nói xem nhờ đâu hoàng hậu đậu thai được; mà chính con cũng chẳng biết».)"
+    },
+    {
+     "t": "para",
+     "text": "— «То-то! А я знаю; поди к королю и скажи, чтоб связали три невода шелковые; которое море под окошком — в нем есть щука златокрылая, против самого дворца завсегда гуляет. (— «Đấy thấy chưa! Già thì già biết; con cứ đến tâu vua cho bện ba tấm lưới bằng tơ; ngay ngoài cửa sổ có vùng biển nào — trong ấy có con cá măng cánh vàng, quanh năm bơi lượn ngay trước cung điện.)"
+    },
+    {
+     "t": "para",
+     "text": "Когда поймает ее король да изготовит, а королева покушает, тогда и понесет детище». (Khi nào vua bắt được nó, làm món dâng lên, hoàng hậu xơi vào, bấy giờ ắt mang thai con».)"
+    },
+    {
+     "t": "para",
+     "text": "Крестьянский сын сам поехал ловить на море; закинул три невода шелковые — щука вскочила и порвала все три невода. В другой раз кинул — тож порвала. (Anh con trai nhà nông tự mình ra biển đánh bắt; quăng ba tấm lưới tơ xuống — con cá măng vọt lên xé rách cả ba tấm. Quăng lần nữa — nó lại xé rách.)"
+    },
+    {
+     "t": "para",
+     "text": "Крестьянский сын снял с себя пояс и с шеи шелковый платочек, завязал эти невода, закинул в третий раз — и поймал щуку златокрылую; несказанно обрадовался, взял и понес к королю. (Anh bèn cởi chiếc thắt lưng và tấm khăn lụa quàng cổ, buộc chằng mấy tấm lưới lại, quăng lần thứ ba — thì bắt được con cá măng cánh vàng; mừng khôn xiết kể, đem ngay về dâng vua.)"
+    },
+    {
+     "t": "para",
+     "text": "Король приказал эту щуку вымыть, вычистить, изжарить и подать королеве. (Vua truyền rửa sạch, đánh vảy, rán con cá măng ấy mà dâng hoàng hậu.)"
+    },
+    {
+     "t": "para",
+     "text": "Повара́ щуку чистили да мыли, помои за окошко лили: пришла корова, ополощины выпила. (Đám đầu bếp đánh vảy rửa cá, đem nước rửa hắt qua cửa sổ: một con bò cái đi qua uống sạch chỗ nước ấy.)"
+    },
+    {
+     "t": "para",
+     "text": "Как скоро повара щуку изжарили, прибежала девка-чернавка, положила ее на блюдо, понесла к королеве, да дорогой оторвала крылышко и попробовала. (Đầu bếp vừa rán cá xong, cô hầu gái chạy tới, đặt cá lên đĩa bưng vào cho hoàng hậu, dọc đường lại dứt lấy chiếc cánh nhỏ nếm thử.)"
+    },
+    {
+     "t": "para",
+     "text": "Все три понесли в один день, в один час: корова, девка-чернавка и королева. (Thế là cả ba cùng thụ thai một ngày, một giờ: bò cái, cô hầu gái và hoàng hậu.)"
+    },
+    {
+     "t": "para",
+     "text": "Скоро сказка сказывается, не скоро дело делается. (Truyện kể thì mau, việc đời thì chậm.)"
+    },
+    {
+     "t": "para",
+     "text": "Чрез несколько времени приходит со скотного двора скотница, докладывает королю, что корова родила человека. (Ít lâu sau, bà coi chuồng từ sân nuôi gia súc lên tâu vua rằng con bò cái đẻ ra một con người.)"
+    },
+    {
+     "t": "para",
+     "text": "Король весьма удивился; не успел он принять эти речи, как бегут сказать ему, что девка-чернавка родила мальчика точь-в-точь как коровий сын; а вслед за тем приходят докладывать, что и королева родила сына точь-в-точь как коровий — голос в голос и волос в волос. (Vua kinh ngạc lắm; lời ấy còn chưa kịp nghe trọn thì người ta đã chạy đến báo cô hầu gái sinh được một bé trai giống hệt đứa con của bò; liền sau đó lại có người vào tâu rằng hoàng hậu cũng hạ sinh hoàng tử giống hệt đứa con của bò — giọng in hệt giọng, tóc in hệt tóc.)"
+    },
+    {
+     "t": "para",
+     "text": "Чудные уродились мальчики! Кто растет по годам, а они растут по часам; кто в год — они в час таковы, кто в три года — они в три часа. (Ba đứa bé sinh ra kỳ lạ thay! Người ta lớn theo năm, chúng lớn theo giờ; người ta một năm được chừng nào — chúng một giờ chừng ấy, người ta ba năm — chúng ba giờ.)"
+    },
+    {
+     "t": "para",
+     "text": "Стали они на возрасте, заслышали в себе силу могучую, богатырскую, приходят к отцу-королю и просятся в город погулять, людей посмотреть и себя показать. (Đến tuổi trưởng thành, nghe trong mình sức lực cường tráng của bậc tráng sĩ, ba chàng tới xin vua cha cho ra phố dạo chơi, xem người và cho người xem mình.)"
+    },
+    {
+     "t": "para",
+     "text": "Он им позволил, наказал гулять тихо и смирно и дал денег столько, сколько взять смогли. (Vua ưng thuận, dặn đi đứng cho hiền lành nền nếp, và cho tiền nhiều hết sức mang nổi.)"
+    },
+    {
+     "t": "para",
+     "text": "Пошли добрые мо́лодцы: один назывался Иван-царевич, другой Иван девкин сын, третий Буря-богатырь Иван коровий сын; ходили-ходили, ничего не купили. (Ba chàng trai tuấn tú lên đường: một chàng tên là hoàng tử Ivan, chàng thứ hai là Ivan con cô hầu, chàng thứ ba là tráng sĩ Bão Táp Ivan con bò; đi mãi đi mãi mà chẳng mua gì.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот Иван-царевич завидел стеклянные шарики и говорит братьям: «Давайте, братцы, купим по шарику да станем вверх бросать; кто бросит выше, тот у нас будет старший». (Chợt hoàng tử Ivan trông thấy mấy hòn bi thuỷ tinh, bèn bảo anh em: «Này anh em, ta mua mỗi người một hòn rồi thi ném lên trời; ai ném cao nhất, người ấy làm anh cả».)"
+    },
+    {
+     "t": "para",
+     "text": "Братья согласились; кинули жеребий — кому бросать вперед? Вышло Иван-царевичу. (Hai người kia ưng thuận; họ gieo thăm — xem ai ném trước? Nhằm vào hoàng tử Ivan.)"
+    },
+    {
+     "t": "para",
+     "text": "Он кинул высоко, а Иван девкин сын еще выше, а Буря-богатырь коровий сын так закинул, что из виду пропал, и говорит: «Ну, теперь я над вами старший!» (Chàng ném lên cao, Ivan con cô hầu ném cao hơn nữa, còn tráng sĩ Bão Táp con bò ném mạnh tới mức hòn bi mất hút, rồi nói: «Nào, giờ tôi làm anh cả của các người!»)"
+    },
+    {
+     "t": "para",
+     "text": "Иван-царевич рассердился: «Как так! Коровий сын, а хочет быть старшим!» (Hoàng tử Ivan nổi giận: «Sao lại thế! Đồ con nhà bò, mà đòi làm anh cả!»)"
+    },
+    {
+     "t": "para",
+     "text": "На то Буря-богатырь ему отвечал: «Видно, так богу угодно, чтоб вы меня слушались». (Tráng sĩ Bão Táp đáp lại: «Hẳn là trời muốn vậy, để các người phải nghe lời tôi».)"
+    },
+    {
+     "t": "para",
+     "text": "Пошли они путем-дорогою, приходят к Черному морю, в море клохчет гад. (Ba người lên đường thẳng tiến, tới bờ Hắc Hải, dưới biển lũ thuồng luồng kêu váng.)"
+    },
+    {
+     "t": "para",
+     "text": "Иван-царевич говорит: «Давайте, братцы, кто этот гад уймет, тот из нас будет большой!» Братья согласились. (Hoàng tử Ivan nói: «Này anh em, ai dẹp yên được lũ thuồng luồng kia, người ấy làm anh cả!» Hai người kia ưng thuận.)"
+    },
+    {
+     "t": "para",
+     "text": "Буря-богатырь говорит: «Унимай ты, Иван-царевич! Уймешь — будешь над нами старший». (Tráng sĩ Bão Táp bảo: «Anh dẹp đi, hoàng tử Ivan! Dẹp yên được — anh sẽ làm anh cả của chúng tôi».)"
+    },
+    {
+     "t": "para",
+     "text": "Он начал кричать, унимать, гад пуще разозлился. Потом начал унимать Иван девкин сын — тоже ничего не сделал. (Chàng ra sức quát tháo dẹp yên, lũ thuồng luồng càng lồng lộn dữ. Rồi Ivan con cô hầu ra dẹp — cũng chẳng ăn thua gì.)"
+    },
+    {
+     "t": "para",
+     "text": "А Буря-богатырь закричал да свою тросточку в воду бросил — гаду как не бывало! (Còn tráng sĩ Bão Táp chỉ quát một tiếng, ném chiếc gậy con xuống nước — lũ thuồng luồng biến sạch như chưa từng có!)"
+    },
+    {
+     "t": "para",
+     "text": "И опять говорит: «Я над вами старший!» (Rồi chàng lại nói: «Tôi là anh cả của các người!»)"
+    },
+    {
+     "t": "para",
+     "text": "Иван-царевич рассердился: «Не хотим быть меньшими братьями!» (Hoàng tử Ivan nổi giận: «Chúng tôi không thèm làm em!»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Ну так оставайтесь сами по себе!» — сказал Буря-богатырь и воротился в свое отечество; а те два брата пошли — куда глаза глядят. (— «Vậy thì các người cứ việc tự lo lấy thân!» — tráng sĩ Bão Táp nói rồi quay về quê cha đất tổ; còn hai người kia cứ nhằm hướng mắt nhìn mà đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Король узнал, что Буря-богатырь один пришел, и приказал посадить его в крепость; не дают ему ни пить, ни есть трое суток. (Vua hay tin tráng sĩ Bão Táp về một mình, truyền tống chàng vào ngục thành; ba ngày đêm không cho ăn cho uống.)"
+    },
+    {
+     "t": "para",
+     "text": "Богатырь застучал кулаком в каменную стену и закричал богатырским голосом: «Доложите-ка своему королю, а моему названому отцу, за что про что он меня не кормит? Мне ваши стены — не стены, и решетки — не решетки, захочу — все кулаком расшибу!» (Tráng sĩ đấm nắm tay vào tường đá, gầm lên bằng giọng tráng sĩ: «Về tâu với vua các ngươi, cũng là cha nuôi của ta, cớ chi duyên cớ gì người bỏ đói ta? Tường của các ngươi với ta chẳng là tường, song sắt chẳng là song sắt, ta muốn — một quả đấm là tan hết!»)"
+    },
+    {
+     "t": "para",
+     "text": "Тотчас докладывают все это королю; король приходит к нему сам и говорит: «Что ты, Буря-богатырь, похваляешься?» (Người ta lập tức tâu hết lên vua; vua thân hành xuống gặp, hỏi: «Sao đó, tráng sĩ Bão Táp, ngươi khoe khoang gì vậy?»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Названый мой батюшка! За что про что ты меня не кормишь, трое суток голодною смертью моришь? Я не знаю за собой никакой вины». (— «Thưa cha nuôi của con! Cớ chi duyên cớ gì cha bỏ đói con, ba ngày đêm hành con chết đói chết khát? Con tự xét chẳng thấy mình có tội tình gì».)"
+    },
+    {
+     "t": "para",
+     "text": "— «А куда ты девал моих сыновей, а своих братьев?» (— «Thế ngươi đã làm gì hai con trai ta, hai người anh em của ngươi?»)"
+    },
+    {
+     "t": "para",
+     "text": "Буря-богатырь коровий сын рассказал ему, как и что было: «Братья живы-здоровы, ничем невредимы, а пошли — куда глаза глядят». (Tráng sĩ Bão Táp con bò kể lại đầu đuôi sự tình: «Hai anh em vẫn sống khoẻ mạnh, chẳng sứt mẻ gì, chỉ là cứ nhằm hướng mắt nhìn mà đi».)"
+    },
+    {
+     "t": "para",
+     "text": "Король спрашивает: «Отчего же ты с ними не пошел?» — «Оттого, что Ивану-царевичу хочется быть старшим, а по жеребью мне достается». (Vua hỏi: «Cớ sao ngươi không đi cùng?» — «Bởi hoàng tử Ivan muốn làm anh cả, mà theo thăm gieo thì phần ấy về con».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Ну хорошо! Я пошлю воротить их». (— «Thôi được! Ta sẽ sai người đi gọi chúng về».)"
+    },
+    {
+     "t": "para",
+     "text": "Буря-богатырь говорит: «Никто, окромя меня, не догонит их; они пошли в такие места — в змеиные края, где выезжают из Черного моря три змея шести-, девяти- и двенадцатиглавые». (Tráng sĩ Bão Táp thưa: «Ngoài con ra chẳng ai đuổi kịp họ đâu; họ đã đi vào những chốn ấy — miền mãng xà, nơi từ Hắc Hải hiện lên ba con mãng xà sáu đầu, chín đầu và mười hai đầu».)"
+    },
+    {
+     "t": "para",
+     "text": "Король начал его просить; Буря-богатырь коровий сын собрался во путь во дороженьку, взял палицу боевую и меч-кладенец и пошел. (Vua bèn ngỏ lời cậy nhờ; tráng sĩ Bão Táp con bò sửa soạn lên đường ra đi, mang theo cây chuỳ trận cùng thanh kiếm báu kladenets mà đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Скоро сказка сказывается, да не скоро дело делается; шел-шел и догнал братьев близ Черного моря у калинового моста; у того моста столб стоит, на столбе написано, что тут выезжают три змея. (Truyện kể thì mau, việc đời thì chậm; chàng đi mãi đi mãi, đuổi kịp hai anh em gần Hắc Hải, cạnh cây cầu kalina; bên cầu có cột trụ, trên cột đề rằng nơi đây có ba con mãng xà hiện lên.)"
+    },
+    {
+     "t": "para",
+     "text": "«Здравствуйте, братцы» Они ему обрадовались и отвечают: «Здравствуй, Буря-богатырь, наш старший брат!» — «Что, видно, не вкусно вам — что на столбе написано?» («Chào anh em» Hai người mừng rỡ đáp: «Chào tráng sĩ Bão Táp, anh cả của chúng tôi!» — «Sao, xem chừng anh em nuốt chẳng trôi — những điều đề trên cột kia?»)"
+    },
+    {
+     "t": "para",
+     "text": "Осмотрелся кругом — около моста избушка на курьих ножках, на петуховой головке, к лесу передом, а к ним задом. (Chàng đưa mắt nhìn quanh — cạnh cầu có chiếc lều con trên chân gà, trên đầu gà trống, mặt quay vào rừng, lưng quay về phía họ.)"
+    },
+    {
+     "t": "para",
+     "text": "Буря-богатырь и закричал: «Избушка, избушка! Устойся да улягся к лесу задом, а к нам передом». (Tráng sĩ Bão Táp liền quát: «Lều ơi, lều! Đứng cho vững, xoay lưng vào rừng, quay mặt về phía ta».)"
+    },
+    {
+     "t": "para",
+     "text": "Избушка перевернулась; взошли в нее, а там стол накрыт, на столе всего много — и кушаньев и напитков разных; в углу стоит кровать тесовая, на ней лежит перина пуховая. (Chiếc lều xoay mình; ba người bước vào, trong lều bàn đã dọn sẵn, trên bàn ê hề đủ thứ — nào món ăn nào thức uống; góc lều kê chiếc giường ván bào, trên trải tấm đệm lông tơ.)"
+    },
+    {
+     "t": "para",
+     "text": "Буря-богатырь говорит: «Вот, братцы, если б не я, вам бы ничего этого не было». (Tráng sĩ Bão Táp nói: «Đó, anh em xem, không có tôi thì các thứ này chẳng đến phần đâu».)"
+    },
+    {
+     "t": "para",
+     "text": "Сели, пообедали, потом легли отдохнуть. (Họ ngồi vào ăn bữa, rồi ngả lưng nghỉ.)"
+    },
+    {
+     "t": "para",
+     "text": "Вставши, Буря-богатырь сказывает: «Ну, братцы, сегодняшнюю ночь будет выезжать змей шестиглавый; давайте кидать жеребий, кому караулить? (Dậy rồi, tráng sĩ Bão Táp bảo: «Này anh em, đêm nay con mãng xà sáu đầu sẽ hiện lên; ta gieo thăm xem ai phải canh?)"
+    },
+    {
+     "t": "para",
+     "text": "Кинули — досталось Ивану девкину сыну; Буря-богатырь ему и говорит: «Смотри же, выскочит из моря кувшинчик и станет перед тобою плясать, ты на него не гляди, а возьми наплюй на него, да и разбей». (Gieo xong — nhằm vào Ivan con cô hầu; tráng sĩ Bão Táp dặn: «Nhớ lấy, sẽ có chiếc bình con từ biển nhảy vọt lên múa may trước mặt chú, chớ có nhìn nó, cứ nhổ toẹt vào nó rồi đập vỡ đi».)"
+    },
+    {
+     "t": "para",
+     "text": "Девкин сын как пришел, так и уснул. А Буря-богатырь, зная, что его братья — люди ненадежные, сам пошел; ходит по́ мосту да тросточкой постукивает. (Con cô hầu vừa tới nơi đã lăn ra ngủ. Còn tráng sĩ Bão Táp, biết hai anh em mình là hạng chẳng cậy được, tự mình ra đi; chàng đi đi lại lại trên cầu, gõ gõ chiếc gậy con.)"
+    },
+    {
+     "t": "para",
+     "text": "Вдруг выскочил перед ним кувшинчик, так и пляшет; Буря-богатырь наплевал-нахаркал на него и разбил на мелкие части. (Bỗng chiếc bình con nhảy vọt ra trước mặt, múa may tít mù; tráng sĩ Bão Táp nhổ toẹt khạc toẹt vào nó rồi đập tan thành trăm mảnh.)"
+    },
+    {
+     "t": "para",
+     "text": "Тут утка крякнула, берега звякнули, море взболталось, море всколыхалось — лезет чудо-юда, мосальская гу́ба: змей шестиглавый; свистнул-гаркнул молодецким посвистом, богатырским покриком: «Сивка-бурка, вещая каурка! Стань передо мной, как лист перед травой». (Tức thì vịt kêu quàng quạc, đôi bờ vang rền, biển sủi réo, biển cuộn trào — quái Chudo-Yuda mõm Mosal bò lên: mãng xà sáu đầu; nó huýt vang quát lớn tiếng huýt trai tráng, tiếng quát tráng sĩ: «Sivka-Burka, tuấn mã hung tiên tri! Hãy hiện ra trước mặt ta, như chiếc lá trước ngọn cỏ».)"
+    },
+    {
+     "t": "para",
+     "text": "Конь бежит, только земля дрожит, из-под ног ископыть по сенной копне летит, из ушей и ноздрей дым валит. (Tuấn mã phi tới, mặt đất rung chuyển, dưới vó từng tảng đất hất tung bằng đụn cỏ khô, tai và mũi phun khói cuồn cuộn.)"
+    },
+    {
+     "t": "para",
+     "text": "Чудо-юда сел на него и поехал на калиновый мост; конь под ним спотыкается. (Chudo-Yuda cưỡi lên, tiến ra cầu kalina; con ngựa dưới mình nó bỗng vấp chân.)"
+    },
+    {
+     "t": "para",
+     "text": "«Что ты, воронье мясо, спотыкаешься: друга слышишь али недруга?» Отвечает добрый конь: «Есть нам недруг — Буря-богатырь коровий сын». («Sao mày vấp chân, đồ thịt quạ: nghe hơi bạn hay hơi thù?» Tuấn mã đáp: «Có kẻ thù của ta đây — tráng sĩ Bão Táp con bò».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Врешь, воронье мясо! Его костей сюда ворона в пузыре не занашивала, не только ему самому быть!» — «Ах ты, чудо-юда! — отозвался Буря-богатырь коровий сын, — ворона костей моих не занашивала, я сам здесь погуливаю». (— «Láo, đồ thịt quạ! Xương hắn đến quạ tha trong bong bóng cũng chưa từng mang nổi tới đây, nói gì chính hắn mò đến!» — «Chà, Chudo-Yuda kia! — tráng sĩ Bão Táp con bò lên tiếng, — quạ chẳng tha xương ta tới, ta tự mình dạo chơi ở đây đấy».)"
+    },
+    {
+     "t": "para",
+     "text": "Змей его спрашивает: «Зачем ты приехал? Сватать моих сестер али дочерей?» — «Нет, брат, в поле съезжаться — родней не считаться; давай воевать». (Mãng xà hỏi: «Ngươi đến đây làm gì? Dạm hỏi chị em ta hay con gái ta?» — «Không đâu, người anh em, gặp nhau giữa trận — chẳng kể chi tình thân; đánh nhau thôi».)"
+    },
+    {
+     "t": "para",
+     "text": "Буря-богатырь разошелся, боевой палицей размахнулся — три головы ему снес, в другой раз остальные снес. (Tráng sĩ Bão Táp hăng lên, vung cây chuỳ trận — phạt bay ba đầu, vung lần nữa phạt nốt mấy đầu còn lại.)"
+    },
+    {
+     "t": "para",
+     "text": "Взял туловище рассек да и в море бросил, го́ловы под калиновый мост спрятал, а коня привязал к ногам девкину сыну, меч-кладенец положил ему в головы; сам пошел в избушку и лег спать, как ни в чем не бывал. (Chàng xả đôi thân quái ném xuống biển, giấu mấy chiếc đầu dưới cầu kalina, đem con ngựa buộc vào chân Ivan con cô hầu, đặt thanh kiếm báu phía đầu anh ta nằm; rồi tự mình về lều ngủ, tựa hồ chẳng có chuyện gì.)"
+    },
+    {
+     "t": "para",
+     "text": "Иван девкин сын проснулся, увидел коня и очень обрадовался, сел на него, поехал к избушке и кричит: «Вот Буря-богатырь не велел мне смотреть на кувшинчик, а я посмотрел, так господь и коня мне дал!» Тот отвечает: «Тебе дал, а нам еще посулил!» (Ivan con cô hầu tỉnh dậy, thấy con ngựa thì mừng quýnh, leo lên cưỡi về lều, reo to: «Đấy, tráng sĩ Bão Táp cấm tôi nhìn chiếc bình, thế mà tôi cứ nhìn, trời lại ban ngay cho con ngựa!» Chàng kia đáp: «Chú thì trời ban rồi, còn bọn ta trời mới hứa thôi!»)"
+    },
+    {
+     "t": "para",
+     "text": "На другую ночь доставалось Ивану-царевичу караулить; Буря-богатырь и ему то же сказал об кувшинчике. (Đêm thứ hai đến lượt hoàng tử Ivan canh gác; tráng sĩ Bão Táp cũng dặn chàng y như thế về chiếc bình.)"
+    },
+    {
+     "t": "para",
+     "text": "Царевич стал по мосту похаживать, тросточкой постукивать — выскочил кувшинчик и начал перед ним плясать; он на него засмотрелся и заснул крепким сном. (Hoàng tử đi đi lại lại trên cầu, gõ gõ chiếc gậy con — chiếc bình nhảy vọt ra múa may trước mặt; chàng mải nhìn nó rồi ngủ thiếp đi lúc nào không hay.)"
+    },
+    {
+     "t": "para",
+     "text": "А Буря-богатырь, не надеясь на брата, сам пошел; по́ мосту похаживает, тросточкой постукивает — выскочил кувшинчик, так и пляшет. (Còn tráng sĩ Bão Táp, chẳng trông cậy gì người anh em, tự mình ra cầu; chàng đi đi lại lại, gõ gõ chiếc gậy con — chiếc bình vọt ra, múa may tít mù.)"
+    },
+    {
+     "t": "para",
+     "text": "Буря-богатырь наплевал-нахаркал на него и разбил вдребезги. (Tráng sĩ Bão Táp nhổ toẹt khạc toẹt vào nó rồi đập vỡ tan tành.)"
+    },
+    {
+     "t": "para",
+     "text": "Вдруг утка крякнула, берега звякнули, море взболталось, море всколыхалось — лезет чудо-юда, мосальская гу́ба; свистнул-гаркнул молодецким посвистом, богатырским покриком: «Сивка-бурка, вещая каурка! Стань передо мной, как лист перед травой». (Bỗng vịt kêu quàng quạc, đôi bờ vang rền, biển sủi réo, biển cuộn trào — quái Chudo-Yuda mõm Mosal bò lên; nó huýt vang quát lớn tiếng huýt trai tráng, tiếng quát tráng sĩ: «Sivka-Burka, tuấn mã hung tiên tri! Hãy hiện ra trước mặt ta, như chiếc lá trước ngọn cỏ».)"
+    },
+    {
+     "t": "para",
+     "text": "Конь бежит, только земля дрожит, из ушей и ноздрей дым столбом валит, изо рта огненное пламя пышет; стал перед ним как вкопанный. (Tuấn mã phi tới, mặt đất rung chuyển, tai và mũi phun khói thành cột, miệng phì lửa ngùn ngụt; tới nơi đứng sững như chôn chân.)"
+    },
+    {
+     "t": "para",
+     "text": "Сел на него чудо-юда змей девятиглавый, поехал на калиновый мост; на́ мост въезжает, под ним конь спотыкается. (Chudo-Yuda mãng xà chín đầu cưỡi lên, tiến ra cầu kalina; vừa lên cầu, con ngựa dưới mình nó vấp chân.)"
+    },
+    {
+     "t": "para",
+     "text": "Бьет его чудо-юда по крутым бедрам: «Что, воронье мясо, спотыкаешься — слышишь друга али недруга?» — «Есть нам недруг — Буря-богатырь коровий сын». (Chudo-Yuda quất vào hông ngựa: «Sao, đồ thịt quạ, mày vấp chân — nghe hơi bạn hay hơi thù?» — «Có kẻ thù của ta đây — tráng sĩ Bão Táp con bò».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Врешь ты! Его костей ворона в пузыре не занашивала, не только ему самому быть!» — «Ах ты, чудо-юда, мосальская гу́ба! — отозвался Буря-богатырь, — сам я здесь другой год разгуливаю». (— «Mày láo! Xương hắn đến quạ tha trong bong bóng cũng chưa từng mang nổi tới, nói gì chính hắn mò đến!» — «Chà, Chudo-Yuda mõm Mosal kia! — tráng sĩ Bão Táp lên tiếng, — ta tự mình dạo chơi ở đây đã sang năm thứ hai rồi đấy».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Что же, Буря-богатырь, на сестрах моих али на дочерях сватаешься?» — «В поле съезжаться — родней не считаться; давай воевать!» (— «Sao đó, tráng sĩ Bão Táp, ngươi muốn dạm hỏi chị em ta hay con gái ta?» — «Gặp nhau giữa trận — chẳng kể chi tình thân; đánh nhau thôi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Буря-богатырь разошелся, боевой палицей размахнулся — три головы, как кочки, снес; в другой размахнулся — еще три головы снес; а в третий и остальные срубил. (Tráng sĩ Bão Táp hăng lên, vung cây chuỳ trận — phạt ba đầu bay như phạt mô đất; vung lần nữa — bay thêm ba đầu; vung lần thứ ba phạt nốt những đầu còn lại.)"
+    },
+    {
+     "t": "para",
+     "text": "Взял туловище, рассек да в Черное море бросил, головы под калиновый мост запрятал, коня привязал к ногам Ивана-царевича, а меч-кладенец положил ему в головы; сам пошел в избушку и лег спать, как ни в чем не бывал. (Chàng xả đôi thân quái ném xuống Hắc Hải, giấu kỹ mấy chiếc đầu dưới cầu kalina, đem con ngựa buộc vào chân hoàng tử Ivan, đặt thanh kiếm báu phía đầu nằm; rồi về lều ngủ, tựa hồ chẳng có chuyện gì.)"
+    },
+    {
+     "t": "para",
+     "text": "Утром Иван-царевич проснулся, увидел коня еще лучше первого, обрадовался, едет и кричит: «Эй, Буря-богатырь, не велел ты мне смотреть на кувшинчик, а мне бог коня дал лучше первого». Тот отвечает: «Вам бог дал, а мне только посулил!» (Sáng ra hoàng tử Ivan tỉnh dậy, thấy con ngựa còn đẹp hơn con trước, mừng lắm, cưỡi về reo to: «Này tráng sĩ Bão Táp, anh cấm tôi nhìn chiếc bình, thế mà trời ban cho tôi con ngựa còn đẹp hơn con trước». Chàng đáp: «Các chú thì trời ban rồi, còn ta trời mới hứa thôi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Подходит третья ночь, сбирается Буря-богатырь на караул; поставил стол и свечку, воткнул в стену ножик, повесил на него полотенце, дал братьям колоду карт и говорит: «Играйте, ребята, в карты, да меня не забывайте; как станет свеча догорать, а с этого полотенца будет в тарелке кровь прибывать, то бегите скорей на́ мост, ко мне на подмогу». (Đêm thứ ba tới, tráng sĩ Bão Táp sửa soạn ra canh; chàng kê bàn thắp cây nến, cắm con dao nhỏ vào vách, treo lên đó chiếc khăn, đưa hai anh em cỗ bài rồi dặn: «Anh em cứ đánh bài, nhưng chớ quên tôi; hễ cây nến lụi dần, còn từ chiếc khăn này máu nhỏ xuống đầy dần trong đĩa, thì chạy mau ra cầu tiếp sức cho tôi».)"
+    },
+    {
+     "t": "para",
+     "text": "Буря-богатырь по́ мосту похаживает, тросточкой постукивает — выскочил кувшинчик, так и пляшет; он на него наплевал-нахаркал и разбил на мелкие части. (Tráng sĩ Bão Táp đi đi lại lại trên cầu, gõ gõ chiếc gậy con — chiếc bình vọt ra, múa may tít mù; chàng nhổ toẹt khạc toẹt vào nó rồi đập tan thành trăm mảnh.)"
+    },
+    {
+     "t": "para",
+     "text": "Вдруг утка крякнула, берега звякнули, море взболталось, море всколыхалось — лезет чудо-юда, мосальская гу́ба: змей двенадцатиглавый; свистнул-гаркнул молодецким посвистом, богатырским покриком: «Сивка-бурка, вещая каурка! Стань передо мной, как лист перед травой». (Bỗng vịt kêu quàng quạc, đôi bờ vang rền, biển sủi réo, biển cuộn trào — quái Chudo-Yuda mõm Mosal bò lên: mãng xà mười hai đầu; nó huýt vang quát lớn tiếng huýt trai tráng, tiếng quát tráng sĩ: «Sivka-Burka, tuấn mã hung tiên tri! Hãy hiện ra trước mặt ta, như chiếc lá trước ngọn cỏ».)"
+    },
+    {
+     "t": "para",
+     "text": "Конь бежит, только земля дрожит, из ушей и ноздрей дым столбом валит, изо рта огненное пламя пышет; прибежал и стал перед ним как вкопанный. (Tuấn mã phi tới, mặt đất rung chuyển, tai và mũi phun khói thành cột, miệng phì lửa ngùn ngụt; phi đến nơi đứng sững như chôn chân.)"
+    },
+    {
+     "t": "para",
+     "text": "Чудо-юда сел на него и поехал; въезжает на́ мост, конь под ним спотыкается. (Chudo-Yuda cưỡi lên ra đi; vừa lên cầu, con ngựa dưới mình nó vấp chân.)"
+    },
+    {
+     "t": "para",
+     "text": "«Что ты, воронье мясо, спотыкаешься? Или почуял недруга?» — «Есть нам недруг — Буря-богатырь коровий сын». («Sao mày vấp chân, đồ thịt quạ? Hay đánh hơi thấy kẻ thù?» — «Có kẻ thù của ta đây — tráng sĩ Bão Táp con bò».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Молчи, его костей сюда ворона в пузыре не занашивала!» — «Врешь ты, чудо-юда, мосальская гу́ба! Я сам здесь третий год погуливаю». (— «Câm mồm, xương hắn đến quạ tha trong bong bóng cũng chưa từng mang nổi tới đây!» — «Mày láo, Chudo-Yuda mõm Mosal! Ta tự mình dạo chơi ở đây đã sang năm thứ ba rồi».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Что же, Буря-богатырь, на моих сестрах али дочерях хочешь жениться?» — «В поле съезжаться — родней не считаться; давай воевать». (— «Sao đó, tráng sĩ Bão Táp, ngươi muốn cưới chị em ta hay con gái ta?» — «Gặp nhau giữa trận — chẳng kể chi tình thân; đánh nhau thôi».)"
+    },
+    {
+     "t": "para",
+     "text": "— «А, ты убил моих двух братьев, так думаешь и меня победить!» — «Там что бог даст! Только послушай, чудо-юда, мосальская гу́ба, ты с конем, а я пешком; уговор лучше всего: лежачего не бить». (— «À, ngươi giết hai em ta, lại tưởng thắng nổi cả ta sao!» — «Trời cho sao được vậy! Có điều nghe đây, Chudo-Yuda mõm Mosal, ngươi có ngựa, còn ta đi bộ; giao ước trước là hơn cả: kẻ ngã xuống thì không đánh».)"
+    },
+    {
+     "t": "para",
+     "text": "Буря-богатырь разошелся, боевой палицей размахнулся — и сразу снес три головы; в другой разошелся — змей его сшиб. (Tráng sĩ Bão Táp hăng lên, vung cây chuỳ trận — phạt liền một lúc ba đầu; vừa lấy đà lần nữa — mãng xà quật chàng ngã.)"
+    },
+    {
+     "t": "para",
+     "text": "Богатырь кричит: «Стой, чудо-юда! Уговор был: лежачего не бить». (Tráng sĩ kêu: «Khoan, Chudo-Yuda! Đã giao ước: kẻ ngã xuống thì không đánh».)"
+    },
+    {
+     "t": "para",
+     "text": "Чудо-юда дал ему справиться; тот встал — и сразу три головы полетели, как кочки. (Chudo-Yuda để chàng gượng dậy; chàng vừa đứng lên — ba chiếc đầu nữa bay liền như mấy mô đất.)"
+    },
+    {
+     "t": "para",
+     "text": "Начали они биться, несколько часов возились, оба из сил выбились; у змея еще три головы пропали, у богатыря палица лопнула. (Hai bên quần nhau mấy giờ liền, đều kiệt sức cả; mãng xà mất thêm ba đầu, còn cây chuỳ của tráng sĩ thì vỡ toác.)"
+    },
+    {
+     "t": "para",
+     "text": "Буря-богатырь коровий сын снял с левой ноги сапог, кинул в избушку — половину ее долой снес, а братья его спят, не слышат; снял с правой ноги сапог, бросил — избушка по бревну раскатилася, а братья всё не просыпаются. (Tráng sĩ Bão Táp con bò tháo chiếc ủng chân trái ném vào lều — bay mất nửa lều, mà hai anh em vẫn ngủ, chẳng nghe thấy gì; chàng tháo chiếc ủng chân phải ném tiếp — lều rời tung từng súc gỗ, hai anh em vẫn không tỉnh.)"
+    },
+    {
+     "t": "para",
+     "text": "Буря-богатырь взял обломок палицы, пустил в конюшню, где два жеребца стояли, и выломил из конюшни дверь; жеребцы прибежали на́ мост и вышибли змея из седла вон. (Tráng sĩ Bão Táp cầm khúc chuỳ gãy phang vào chuồng ngựa, nơi hai con tuấn mã đứng, đánh bật cánh cửa chuồng; hai con tuấn mã xông ra cầu, hất văng mãng xà khỏi yên.)"
+    },
+    {
+     "t": "para",
+     "text": "Тут богатырь обрадовался, подбежал к нему и отсек ему остальные три головы; змеиное туловище рассек да в Черное море кинул, а го́ловы под калиновый мост засунул. (Tráng sĩ mừng quá, xông tới phạt nốt ba chiếc đầu còn lại; xả đôi thân mãng xà ném xuống Hắc Hải, còn mấy chiếc đầu nhét xuống dưới cầu kalina.)"
+    },
+    {
+     "t": "para",
+     "text": "После взял трех жеребцов, свел в конюшню, а сам под калиновый мост спрятался, на мосту и кровь не подтер. (Đoạn chàng dắt ba con tuấn mã về chuồng, còn mình nấp xuống dưới gầm cầu kalina, máu trên cầu cũng chẳng buồn lau.)"
+    },
+    {
+     "t": "para",
+     "text": "Братья поутру проснулись, смотрят — избушка вся рассыпалась, тарелка полна́ крови; вошли в конюшню — там три жеребца; удивляются, куда делся старший брат? (Sáng ra hai anh em tỉnh dậy, nhìn quanh — lều đổ tan tành, chiếc đĩa đầy ắp máu; vào chuồng ngựa — thấy ba con tuấn mã; lấy làm lạ, anh cả biến đâu mất?)"
+    },
+    {
+     "t": "para",
+     "text": "Искали его трое суток — не нашли, и говорят промеж себя: «Видно, они убили друг друга, а тела их пропали; поедем теперь домой!» (Tìm chàng suốt ba ngày đêm chẳng thấy, hai người bàn nhau: «Hẳn họ đã giết nhau, xác cũng tiêu tan; giờ ta về nhà thôi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Только что коней оседлали, приготовились было ехать, Буря-богатырь проснулся и выходит из-под моста: «Что же вы, братцы, товарища своего покидаете? Я вас от смерти избавлял, а вы все спали и на по́мочь ко мне не приходили». (Vừa thắng yên ngựa sửa soạn lên đường, thì tráng sĩ Bão Táp tỉnh giấc, từ gầm cầu bước ra: «Sao thế anh em, nỡ bỏ người bạn đường của mình ư? Tôi cứu anh em khỏi chết, mà anh em cứ ngủ khì, chẳng ai ra tiếp sức cho tôi».)"
+    },
+    {
+     "t": "para",
+     "text": "Тут они пали перед ним на колени: «Виноваты, Буря-богатырь, большой наш брат!» — «Бог вас простит!» (Hai người liền quỳ sụp xuống trước chàng: «Chúng tôi biết lỗi rồi, tráng sĩ Bão Táp, anh cả của chúng tôi!» — «Trời sẽ tha cho anh em!»)"
+    },
+    {
+     "t": "para",
+     "text": "Пошептал он над избушкою: «Как прежде была, так и ныне будь!» Избушка явилась по-прежнему — и с кушаньем и с напитками. (Chàng thì thầm mấy lời trên nền lều: «Trước kia thế nào, giờ hãy lại như thế!» Chiếc lều hiện ra như cũ — đủ cả món ăn thức uống.)"
+    },
+    {
+     "t": "para",
+     "text": "«Вот, братцы, пообедайте, а то без меня, чай, замерли; а потом и поедем». («Nào anh em ăn bữa đi, vắng tôi chắc đói lả cả rồi còn gì; rồi ta lên đường».)"
+    },
+    {
+     "t": "para",
+     "text": "Пообедали и поехали в путь в дорожку; отъехавши версты две, говорит Буря-богатырь коровий сын: «Братцы! Я забыл в избушке плеточку; поезжайте шажком, пока я за нею слетаю». (Ăn bữa xong, ba người lên đường; đi chừng hai dặm, tráng sĩ Bão Táp con bò nói: «Anh em ơi! Tôi để quên chiếc roi ngựa trong lều; anh em cứ đi bước một, để tôi phóng về lấy một loáng».)"
+    },
+    {
+     "t": "para",
+     "text": "Приехал он к избушке, слез с своего коня, пустил его в заповедные луга: «Ступай, добрый конь, пока не спрошу тебя». (Về tới lều, chàng xuống ngựa, thả nó vào đồng cỏ cấm: «Đi đi, tuấn mã, chừng nào ta chưa gọi tới thì cứ thong dong».)"
+    },
+    {
+     "t": "para",
+     "text": "Сам оборотился мушкой, полетел в избушку и сел на печку. (Còn mình hoá thành con ruồi, bay vào lều, đậu trên bếp lò.)"
+    },
+    {
+     "t": "para",
+     "text": "Немного погодя пришла туда баба-яга и села в передний угол; приходит к ней молодая невестка: «Ах, матушка, вашего сына, а моего мужа, погубил Буря-богатырь Иван коровий сын. (Lát sau mụ baba-yaga về tới, ngồi vào góc trang trọng; nàng dâu trẻ bước đến thưa: «Mẹ ơi, con trai mẹ, chồng của con, đã bị tráng sĩ Bão Táp Ivan con bò giết hại rồi.)"
+    },
+    {
+     "t": "para",
+     "text": "Да я отсмею ему эту насмешку: забегу вперед и пущу ему день жаркий, а сама сделаюсь зеленым лугом; в этом зеленом лугу оборочусь я колодцем, в этом колодце станет плавать серебряная чарочка; да еще оборочусь я тесовой кроваткою. (Nhưng con sẽ trả miếng cho hắn: con chạy đón đầu, thả xuống một ngày nắng như thiêu, còn mình hoá thành đồng cỏ xanh; giữa đồng cỏ xanh ấy con hoá thành giếng nước, trong giếng có chiếc chén con bằng bạc nổi bồng bềnh; lại hoá thêm chiếc giường ván bào nữa.)"
+    },
+    {
+     "t": "para",
+     "text": "Захотят братья лошадей покормить, сами отдохнуть и воды попить; тут-то и разорвет их по макову зернышку!» (Mấy anh em ắt muốn cho ngựa ăn cỏ, còn mình thì nghỉ ngơi uống nước; bấy giờ cả bọn sẽ bị xé vụn ra như hạt anh túc!»)"
+    },
+    {
+     "t": "para",
+     "text": "Говорит ей матка: «Так их, злодеев, и надобно!» (Mụ mẹ bảo: «Phải trị lũ gian ác ấy như thế mới đáng!»)"
+    },
+    {
+     "t": "para",
+     "text": "Приходит вторая невестка: «Ах, матушка, вашего сына, а моего мужа, погубил Буря-богатырь Иван коровий сын. (Nàng dâu thứ hai bước đến: «Mẹ ơi, con trai mẹ, chồng của con, đã bị tráng sĩ Bão Táp Ivan con bò giết hại rồi.)"
+    },
+    {
+     "t": "para",
+     "text": "Да я отсмею ему эту насмешку: забегу наперед, оборочусь прекрасным садом, через тын будут висеть плоды разные — сочные, пахучие! (Nhưng con sẽ trả miếng cho hắn: con chạy đón đầu, hoá thành khu vườn tuyệt đẹp, bao nhiêu là quả vắt lủng lẳng qua hàng rào — quả nào quả nấy mọng nước, thơm lừng!)"
+    },
+    {
+     "t": "para",
+     "text": "Захотят они сорвать, что кому понравится; тут-то их и разорвет по макову зернышку!» (Cả bọn ắt muốn hái, ai thích quả nào hái quả nấy; bấy giờ chúng sẽ bị xé vụn ra như hạt anh túc!»)"
+    },
+    {
+     "t": "para",
+     "text": "Отвечает ей матка: «И ты хорошо вздумала». (Mụ mẹ đáp: «Con cũng khéo nghĩ lắm».)"
+    },
+    {
+     "t": "para",
+     "text": "Приходит третья, меньшая невестка. «Ах, матушка, погубил Буря-богатырь Иван коровий сын вашего сына, а моего мужа. (Nàng dâu thứ ba, cô dâu út, bước đến. «Mẹ ơi, tráng sĩ Bão Táp Ivan con bò đã giết hại con trai mẹ, chồng của con.)"
+    },
+    {
+     "t": "para",
+     "text": "Да я отсмею ему эту насмешку: оборочусь старой избушкою; захотят они обночевать в ней, только взойдут в избушку — тотчас и разорвет их по макову зернышку!» (Nhưng con sẽ trả miếng cho hắn: con hoá thành túp lều cũ; cả bọn ắt muốn nghỉ đêm trong đó, vừa đặt chân vào lều — tức thì chúng bị xé vụn ra như hạt anh túc!»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Ну, невестки мои любезные, если вы их не сгубите, то завтрашний день сама забегу наперед, оборочусь свиньею и всех троих проглочу». (— «Này các dâu yêu quý của ta, nếu các con không hại nổi chúng, thì mai chính ta sẽ chạy đón đầu, hoá thành con lợn nuốt chửng cả ba đứa».)"
+    },
+    {
+     "t": "para",
+     "text": "Буря-богатырь, сидя на печи, выслушал эти речи, вылетел на улицу, ударился оземь и сделался опять молодцем, свистнул-гаркнул молодецким посвистом, богатырским покриком: «Сивка-бурка, вещая каурка! Стань передо мной, как лист перед травой». (Tráng sĩ Bão Táp đậu trên bếp lò nghe trọn những lời ấy, bay vụt ra ngoài, đập mình xuống đất hoá lại thành chàng trai, rồi huýt vang tiếng huýt trai tráng, quát vang tiếng quát tráng sĩ: «Sivka-Burka, tuấn mã hung tiên tri! Hãy hiện ra trước mặt ta, như chiếc lá trước ngọn cỏ».)"
+    },
+    {
+     "t": "para",
+     "text": "Конь бежит, земля дрожит. Буря-богатырь сел на него и поехал; навязал на палочку мочалочку, догоняет своих товарищей и говорит им: «Вот, братцы, без какой плеточки я жить не могу!» (Ngựa phi tới, mặt đất rung chuyển. Tráng sĩ Bão Táp nhảy lên ngựa đi luôn; chàng buộc túm xơ gỗ vào cái que con, đuổi kịp các bạn đường mà rằng: «Đây anh em xem, chiếc roi tôi sống thiếu nó không nổi đây này!»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Эх, брат, за какою дрянью ворочался! Съехали бы в город, купили бы новую». (— «Chao ôi anh bạn, vì thứ của vứt đi ấy mà cũng quay lại! Vào thành mua chiếc mới có hơn không».)"
+    },
+    {
+     "t": "para",
+     "text": "Вот едут они степями, долинами; день такой жаркий, что терпенья нет, жажда измучила! (Ba người đi qua thảo nguyên, qua thung lũng; trời nóng tới mức không sao chịu nổi, cơn khát hành hạ rã rời!)"
+    },
+    {
+     "t": "para",
+     "text": "Вот и зеленый луг, на лугу трава муравая, на траве кровать тесовая. (Bỗng hiện ra một đồng cỏ xanh, trên đồng cỏ non mơn mởn, giữa cỏ kê chiếc giường ván bào.)"
+    },
+    {
+     "t": "para",
+     "text": "«Брат Буря-богатырь, давай лошадей накормим на этой травке и сами отдохнем на тесовой кроватке; тут и колодезь есть — холодной водицы попьем». («Anh Bão Táp ơi, ta cho ngựa ăn cỏ ở đây, còn mình ngả lưng nghỉ trên giường ván; kia lại có cả giếng — làm ngụm nước lạnh».)"
+    },
+    {
+     "t": "para",
+     "text": "Буря-богатырь говорит своим братьям: «Колодезь стоит в степях и в далях; никто из него воды не берет, не пьет». (Tráng sĩ Bão Táp bảo hai anh em: «Giếng nằm giữa thảo nguyên hoang vắng xa xôi; nào ai múc, ai uống nước giếng ấy bao giờ».)"
+    },
+    {
+     "t": "para",
+     "text": "Соскочил с своего коня доброго, начал этот колодезь сечь и рубить — только кровь брызжет; вдруг сделался день туманный, жара спала, и пить не хочется. (Chàng nhảy phắt khỏi tuấn mã, ra sức chém băm cái giếng — máu phun tung toé; bỗng trời đổ sương mù, cơn nóng dịu hẳn, mà cơn khát cũng tan đâu mất.)"
+    },
+    {
+     "t": "para",
+     "text": "«Вот видите, братцы, какая вода настойчивая, словно кровь». Поехали они дальше. («Anh em thấy chưa, nước giếng gì mà đặc quánh, sánh như máu». Rồi họ lại lên đường.)"
+    },
+    {
+     "t": "para",
+     "text": "Долго ли, коротко ли — едут мимо прекрасного сада. (Đi lâu hay chóng chẳng hay — họ ngang qua một khu vườn tuyệt đẹp.)"
+    },
+    {
+     "t": "para",
+     "text": "Говорит Иван-царевич старшему брату: «Позволь нам сорвать по яблочку». (Hoàng tử Ivan nói với người anh cả: «Cho chúng tôi hái mỗi người một quả táo đi».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Эх, братцы, сад стоит в степях, в далях; может быть, яблоки-то старинные да гнилые; коли съешь — еще хворь нападет. Вот я пойду посмотрю наперед!» (— «Ôi anh em ơi, vườn nằm giữa thảo nguyên hoang vắng xa xôi; táo có khi cũ kỹ thối ruỗng cả rồi; ăn vào e rước bệnh vào người. Để tôi vào xem trước đã!»)"
+    },
+    {
+     "t": "para",
+     "text": "Сошел он в сад и начал сечь и рубить, перерубил все деревья до единого. (Chàng vào vườn ra sức chém băm, đốn trụi không sót một cây nào.)"
+    },
+    {
+     "t": "para",
+     "text": "Братья на него рассердились, что по-ихнему не делает. (Hai anh em nổi giận với chàng, vì chẳng chịu chiều theo ý họ.)"
+    },
+    {
+     "t": "para",
+     "text": "Едут они путем-дорогою, пристигает их темная ночь; подъезжают к одной хижине. (Họ đi đường đi sá, đêm tối ập xuống; vừa hay tới trước một túp lều nhỏ.)"
+    },
+    {
+     "t": "para",
+     "text": "«Брат Буря-богатырь, вишь, дождик заходит, давай обночуем в этой хижинке». («Anh Bão Táp này, kìa trời sắp đổ mưa, ta vào nghỉ đêm trong túp lều này đi».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Эх, братцы, лучше раскинем палатки и в чистом поле обночуем, чем в этой хижине; эта хижина старая, взойдем в нее — она нас задавит; вот я сойду да посмотрю». (— «Ôi anh em ơi, thà căng lều ngủ giữa đồng trống còn hơn vào túp lều ấy; lều cũ nát lắm rồi, bước vào nó sập xuống đè chết cả lũ; để tôi xuống xem đã».)"
+    },
+    {
+     "t": "para",
+     "text": "Сошел он в эту избушку и начал рубить ее — только кровь прыщет! (Chàng tới túp lều, ra tay chém — máu phọt ra ròng ròng!)"
+    },
+    {
+     "t": "para",
+     "text": "«Сами видите, какая эта избушка — совсем гнилая! Поедемте, лучше вперед». («Anh em tự thấy đấy, lều liếc gì thứ này — mục ruỗng hết cả! Ta đi tiếp còn hơn».)"
+    },
+    {
+     "t": "para",
+     "text": "Братья ворчат про себя, а виду не подают, что сердятся. (Hai anh em lầm bầm trong bụng, nhưng không để lộ ra mặt là đang giận.)"
+    },
+    {
+     "t": "para",
+     "text": "Едут дальше; вдруг дорога расходится надвое. (Đi tiếp một quãng, bỗng con đường tẽ làm hai ngả.)"
+    },
+    {
+     "t": "para",
+     "text": "Буря-богатырь говорит: «Братцы, поедемте по левой дороге». (Tráng sĩ Bão Táp bảo: «Anh em ơi, ta đi ngả trái».)"
+    },
+    {
+     "t": "para",
+     "text": "Они говорят: «Поезжай куда хочешь, а мы с тобой не поедем». (Hai người đáp: «Anh muốn đi đâu thì đi, chúng tôi không đi cùng anh nữa».)"
+    },
+    {
+     "t": "para",
+     "text": "И поехали они вправо, а Буря-богатырь влево. (Thế là hai người rẽ phải, còn tráng sĩ Bão Táp rẽ trái.)"
+    },
+    {
+     "t": "para",
+     "text": "Приезжает Буря-богатырь Иван коровий сын в деревню; в этой деревне двенадцать кузнецов работают. (Tráng sĩ Bão Táp Ivan con bò tới một làng nọ; trong làng có mười hai người thợ rèn đang làm việc.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот он крикнул-свистнул молодецким посвистом, богатырским покриком: «Кузнецы, кузнецы! Подите все сюда». (Chàng quát lên huýt lên — tiếng huýt trai tráng, tiếng quát tráng sĩ: «Các bác thợ rèn ơi! Ra đây cả đi».)"
+    },
+    {
+     "t": "para",
+     "text": "Кузнецы услыхали, все двенадцать к нему прибежали: «Что тебе угодно?» (Đám thợ rèn nghe tiếng, cả mười hai người chạy ùa tới: «Chàng cần gì nào?»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Обтягивайте кузницу железным листом». Они кузницу духом обтянули. (— «Hãy bọc kín lò rèn bằng tấm sắt lá». Loáng một cái họ đã bọc xong lò rèn.)"
+    },
+    {
+     "t": "para",
+     "text": "«Куйте, кузнецы, двенадцать прутьев железных да накаливайте клещи докрасна! («Các bác rèn cho mười hai chiếc roi sắt, và nung kìm cho đỏ rực lên!)"
+    },
+    {
+     "t": "para",
+     "text": "Прибежит к вам свинья и скажет: кузнецы, кузнецы, подайте мне виноватого; не подадите мне виноватого, я вас всех и с кузницей проглочу! (Rồi sẽ có con lợn chạy tới mà rằng: thợ rèn, thợ rèn, nộp kẻ có tội cho ta; không nộp kẻ có tội, ta nuốt chửng cả lũ các ngươi lẫn lò rèn!)"
+    },
+    {
+     "t": "para",
+     "text": "А вы скажите: ах, матушка свинья, возьми от нас этого дурака, он давно надоел нам; только высунь язык в кузницу, так мы его на язык тебе посадим». (Còn các bác cứ đáp: ôi lợn mẹ ơi, xin cứ bắt thằng ngốc ấy đi cho, nó làm chúng tôi ngấy lắm rồi; chỉ cần thè lưỡi vào lò rèn, chúng tôi sẽ đặt nó lên lưỡi cho».)"
+    },
+    {
+     "t": "para",
+     "text": "Только успел Буря-богатырь им приказ отдать, вдруг является к ним свинья большущая и громко кричит: «Кузнецы, кузнецы! Подайте мне виноватого». (Tráng sĩ Bão Táp vừa kịp dặn dò xong, bỗng một con lợn to tướng hiện ra, kêu váng: «Thợ rèn, thợ rèn! Nộp kẻ có tội cho ta».)"
+    },
+    {
+     "t": "para",
+     "text": "Кузнецы все враз отвечали: «Матушка свинья, возьми ты от нас этого дурака, он нам давно надоел; только высунь язык в кузницу, мы тебе на язык его и посадим». (Cả đám thợ rèn đồng thanh đáp: «Lợn mẹ ơi, xin cứ bắt thằng ngốc ấy đi cho, nó làm chúng tôi ngấy lắm rồi; chỉ cần thè lưỡi vào lò rèn, chúng tôi sẽ đặt nó lên lưỡi cho».)"
+    },
+    {
+     "t": "para",
+     "text": "Свинья была проста, недогадлива, высунула язык на целую сажень; Буря-богатырь схватил ее за язык горячими клещами и вскричал кузнецам: «Возьмите прутья железные, катайте ее хорошенечко!» (Lợn ta khờ khạo chẳng mảy may nghi ngờ, thè lưỡi dài trọn một sải; tráng sĩ Bão Táp túm ngay lấy lưỡi nó bằng chiếc kìm nung đỏ, quát đám thợ rèn: «Cầm roi sắt lên, quật cho nó một trận ra trò!»)"
+    },
+    {
+     "t": "para",
+     "text": "До тех пор ее колотили, пока ребра оголились. (Họ nện mãi nện mãi, tới khi xương sườn lợn trơ cả ra.)"
+    },
+    {
+     "t": "para",
+     "text": "«А ну, — сказал Буря-богатырь, — возьмите-ка ее подержите: дайте я ее попотчую!» («Nào, — tráng sĩ Bão Táp nói, — các bác giữ nó hộ tôi: để tôi thết nó một chầu!»)"
+    },
+    {
+     "t": "para",
+     "text": "Схватил он железный прут, как ударит ее — так все ребра пополам. (Chàng vớ chiếc roi sắt, vụt một cái — bao nhiêu xương sườn gãy đôi cả.)"
+    },
+    {
+     "t": "para",
+     "text": "Взмолилась ему свинья: «Буря-богатырь, пусти мою душеньку на покаяние». (Lợn van lạy chàng: «Tráng sĩ Bão Táp ơi, xin tha cho linh hồn tôi được sám hối».)"
+    },
+    {
+     "t": "para",
+     "text": "Буря-богатырь говорит: «А зачем моих братьев проглотила?» — «Я твоих братьев сейчас отдам». (Tráng sĩ Bão Táp nói: «Thế sao mày dám nuốt các anh em ta?» — «Tôi xin trả các anh em ngài ngay đây».)"
+    },
+    {
+     "t": "para",
+     "text": "Он схватил ее за́ уши; свинья харкнула — и выскочили оба брата и с лошадьми. (Chàng túm chặt hai tai lợn; lợn khạc một cái — cả hai người anh em cùng ngựa nhảy vọt ra.)"
+    },
+    {
+     "t": "para",
+     "text": "Тогда Буря-богатырь приподнял ее и со всего размаху ударил о сырую землю; свинья рассыпалась аредом. (Bấy giờ tráng sĩ Bão Táp nhấc bổng con lợn, lấy hết đà quật xuống đất ẩm; lợn tan tành ra tro bụi.)"
+    },
+    {
+     "t": "para",
+     "text": "Говорит Буря-богатырь своим братьям: «Видите ли, глупцы, где вы были?» (Tráng sĩ Bão Táp bảo hai anh em: «Thấy chưa, hai chàng khờ, đã biết mình vừa nằm ở đâu chưa?»)"
+    },
+    {
+     "t": "para",
+     "text": "Они пали на колени: «Виноваты, Буря-богатырь коровий сын!» — «Ну, теперь поедемте во путь во дороженьку; помехи нам никакой не будет». (Hai người quỳ sụp xuống: «Chúng tôi biết lỗi rồi, tráng sĩ Bão Táp con bò ơi!» — «Thôi, giờ ta lên đường thẳng tiến; chẳng còn gì ngáng trở nữa đâu».)"
+    },
+    {
+     "t": "para",
+     "text": "Подъезжают они к одному царству — к индейскому королю, и раскинули в его заповедных лугах палатки. (Họ tới một vương quốc nọ — xứ của vua Ấn Độ, và căng lều trên đồng cỏ cấm của nhà vua.)"
+    },
+    {
+     "t": "para",
+     "text": "Король поутру проснулся, поглядел в подзорную трубу, увидал палатки и призывает к себе первого министра: «Поди, братец, возьми с конюшни лошадь, поезжай в заповедные луга и узнай, что там за невежи приехали, без моего позволения палатки раскинули и огни разложили в моих заповедных лугах?» (Sáng ra vua thức giấc, giơ ống viễn kính nhìn, thấy lều trại bèn đòi quan đại thần thứ nhất tới: «Khanh ra chuồng lấy ngựa, phi tới đồng cỏ cấm xem lũ vô lễ nào kéo đến đó, chưa được phép trẫm mà dám căng lều nhóm lửa trên đồng cỏ cấm của trẫm?»)"
+    },
+    {
+     "t": "para",
+     "text": "Приехал министр и спрашивает: «Что вы за́ люди, цари ли царевичи, или короли-королевичи, или сильномогучие богатыри?» (Quan đại thần phi tới hỏi: «Các ngươi là hạng người nào, là sa hoàng hay hoàng tử, là quốc vương hay vương tử, hay là tráng sĩ thần lực?»)"
+    },
+    {
+     "t": "para",
+     "text": "Отвечает Буря-богатырь коровий сын: «Мы сильномогучие богатыри, приехали на королевской дочери свататься; доложи своему королю, чтоб отдавал свою дочь за Ивана-царевича в супружество; а коли не отдаст дочери — чтобы высылал войско». (Tráng sĩ Bão Táp con bò đáp: «Chúng ta là tráng sĩ thần lực, đến cầu hôn công chúa; về tâu vua ngươi gả con gái cho hoàng tử Ivan; bằng không gả — thì cứ phái quân ra».)"
+    },
+    {
+     "t": "para",
+     "text": "Спрашивает король у своей дочери, пойдет ли она за Ивана-царевича? «Нет, батюшка, я за него идти не хочу; высылайте войско». (Vua hỏi công chúa, nàng có thuận lấy hoàng tử Ivan chăng? «Thưa cha, con không muốn lấy hắn đâu; cha cứ phái quân ra».)"
+    },
+    {
+     "t": "para",
+     "text": "Сейчас в трубы затрубили, в тимпаны забили, войско скопилось и отправилось в заповедные луга; столько выпало войска, что Иван-царевич и Иван девкин сын испугались. (Tức thì kèn đồng rúc vang, trống trận nổi dồn, quân lính tụ về kéo ra đồng cỏ cấm; quân đổ ra đông tới mức hoàng tử Ivan và Ivan con cô hầu phát hoảng.)"
+    },
+    {
+     "t": "para",
+     "text": "В то время Буря-богатырь коровий сын варил пустоварку к завтраку и мешал поварешкой эту кашицу; вышел, как махнул поварешкою — так половину войска и положил; вернулся, помешал кашицу, вышел да махнул — и другую половину на месте положил, только оставил одного кривого да другого слепого. (Lúc ấy tráng sĩ Bão Táp con bò đang nấu nồi cháo suông cho bữa sáng, cầm muôi khuấy cháo; chàng bước ra, vung chiếc muôi một cái — nửa đạo quân nằm la liệt; quay vào khuấy cháo, rồi lại bước ra vung muôi — nửa kia cũng gục nốt tại chỗ, chỉ chừa lại một gã chột với một gã mù.)"
+    },
+    {
+     "t": "para",
+     "text": "«Доложите, — говорит, — королю, чтобы выдавал свою дочь Марью-королевну за Ивана-царевича замуж; а не отдаст, так войско бы высылал, да и сам выезжал». («Về tâu với vua, — chàng nói, — gả công chúa Marya cho hoàng tử Ivan; không gả thì cứ phái thêm quân ra, mà tự mình cũng ra luôn thể».)"
+    },
+    {
+     "t": "para",
+     "text": "Кривой и слепой приходят к своему королю и говорят: «Государь! Буря-богатырь приказал тебе доложить, чтобы отдавал свою дочь за Ивана-царевича в замужество; а сам-то он больно сердит был, всех нас поварешкою перебил». (Gã chột và gã mù về ra mắt vua mà tâu: «Muôn tâu bệ hạ! Tráng sĩ Bão Táp truyền chúng tôi về tâu: xin gả công chúa cho hoàng tử Ivan; hắn dữ đòn lắm, lấy chiếc muôi phang chết sạch quân ta».)"
+    },
+    {
+     "t": "para",
+     "text": "Приступал король к своей дочери: «Дочь моя любезная! Ступай за Ивана-царевича замуж». (Vua nài con gái: «Con gái yêu của cha! Thuận lấy hoàng tử Ivan đi con».)"
+    },
+    {
+     "t": "para",
+     "text": "Дочь ему отвечает: «Делать нечего, надо будет идти за него. Прикажи, батюшка, за ним карету послать». (Công chúa đáp: «Biết làm sao được, đành phải lấy vậy. Cha cho cỗ xe ra đón chàng đi».)"
+    },
+    {
+     "t": "para",
+     "text": "Король тотчас карету послал, а сам у ворот стоит-дожидается. (Vua sai cỗ xe đi đón ngay, còn mình ra đứng chực sẵn bên cổng.)"
+    },
+    {
+     "t": "para",
+     "text": "Иван-царевич приехал с обоими братьями; король принял их с музыкой, с барабанным боем, учтиво и ласково, посадил за столы дубовые, за скатерти браные, за яства сахарные, за питья медвяные. (Hoàng tử Ivan tới cùng cả hai anh em; vua đón bằng đàn nhạc, trống đánh rộn ràng, lễ độ ân cần, mời ngồi vào bàn gỗ sồi, khăn bàn dệt hoa, cao lương ngọt lịm, rượu mật ong thơm.)"
+    },
+    {
+     "t": "para",
+     "text": "Тут Буря-богатырь шепнул Ивану-царевичу: «Смотри, Иван-царевич, королевна подойдет и спросится у тебя: позволь мне уйти на один часок! — а ты скажи: ступай хоть на два!» (Tráng sĩ Bão Táp ghé tai hoàng tử Ivan: «Này hoàng tử Ivan, công chúa sẽ lại gần xin phép chàng: cho thiếp lui ra một giờ! — thì cứ đáp: nàng đi hai giờ cũng được!»)"
+    },
+    {
+     "t": "para",
+     "text": "Посидевши несколько времени, подходит королевна к Ивану-царевичу и говорит: «Позволь мне, Иван-царевич, выйти в другую горницу — переодеться». (Ngồi được một lúc, công chúa lại gần hoàng tử Ivan thưa: «Hoàng tử Ivan, cho thiếp sang phòng bên — thay áo».)"
+    },
+    {
+     "t": "para",
+     "text": "Иван-царевич отпустил ее; она вышла из комнат вон, а Буря-богатырь за ней взади тихим шагом идет. (Hoàng tử Ivan để nàng đi; nàng vừa ra khỏi phòng, tráng sĩ Bão Táp đã rón rén bước theo sau.)"
+    },
+    {
+     "t": "para",
+     "text": "Королевна ударилась о крыльцо, оборотилась голубкою и полетела на́ море; Буря-богатырь ударился оземь, оборотился соколом и полетел за ней следом. (Công chúa đập mình xuống thềm, hoá thành chim bồ câu bay ra biển; tráng sĩ Bão Táp đập mình xuống đất, hoá thành chim cắt bay theo sát.)"
+    },
+    {
+     "t": "para",
+     "text": "Королевна прилетела на́ море, ударилась оземь, оборотилась красной девицей и говорит: «Дедушка, дедушка, золотая головушка, серебряная бородушка! Поговорим-ка с тобою». (Công chúa bay tới biển, đập mình xuống đất, hoá lại thành cô gái xinh đẹp mà gọi: «Ông ơi, ông ơi, đầu vàng óng, chòm râu bạc trắng! Lên chuyện trò với cháu nào».)"
+    },
+    {
+     "t": "para",
+     "text": "Дедушка высунулся из синя моря: «Что тебе, внученька, надобно?» (Ông lão nhô lên khỏi làn biển xanh: «Cháu gái cần gì nào?»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Сватается за меня Иван-царевич; не хотелось бы мне за него замуж идти, да все наше войско побито. (— «Hoàng tử Ivan đang hỏi cưới cháu; cháu chẳng muốn lấy hắn đâu, nhưng quân nhà ta bị đánh tan sạch cả rồi.)"
+    },
+    {
+     "t": "para",
+     "text": "Дай мне, дедушка, с твоей головы три волоска; так я покажу Ивану-царевичу: узнай-де, Иван-царевич, с какого корешка эта травка?» (Ông cho cháu xin ba sợi tóc trên đầu ông; cháu sẽ đưa hoàng tử Ivan xem mà đố: hoàng tử Ivan, thử đoán xem ngọn cỏ này mọc từ rễ nào?»)"
+    },
+    {
+     "t": "para",
+     "text": "Дедушка дал ей три волоска; она ударилась оземь, оборотилась голубкой и полетела домой; а Буря-богатырь ударился оземь, оборотился такой же девицей и говорит: «Дедушка, дедушка! Выйди еще, поговори со мною, — позабыла тебе словечко сказать». (Ông lão cho nàng ba sợi tóc; nàng đập mình xuống đất, hoá thành bồ câu bay về nhà; còn tráng sĩ Bão Táp liền đập mình xuống đất, hoá thành một cô gái giống hệt mà gọi: «Ông ơi, ông ơi! Lên lần nữa chuyện trò với cháu, — cháu quên chưa nói với ông một lời».)"
+    },
+    {
+     "t": "para",
+     "text": "Только дедушка высунул из воды свою голову, Буря-богатырь схватил и сорвал ему голову, ударился оземь, оборотился орлом и прилетел во дворец скорей королевны. (Ông lão vừa nhô đầu lên khỏi mặt nước, tráng sĩ Bão Táp đã chộp lấy rứt phăng chiếc đầu, rồi đập mình xuống đất, hoá thành đại bàng bay về cung điện trước cả công chúa.)"
+    },
+    {
+     "t": "para",
+     "text": "Вызывает Ивана-царевича в сени: «На́ тебе, Иван-царевич, эту голову; подойдет к тебе королевна, покажет три волоса: узнай-де, Иван-царевич, с какого корешка эта травка? Ты и покажь ей голову». (Chàng gọi hoàng tử Ivan ra ngoài hiên: «Hoàng tử Ivan, cầm lấy chiếc đầu này; công chúa sẽ lại gần đưa chàng xem ba sợi tóc mà đố: hoàng tử Ivan, thử đoán xem ngọn cỏ này mọc từ rễ nào? Chàng cứ giơ chiếc đầu ra cho nàng xem».)"
+    },
+    {
+     "t": "para",
+     "text": "Вот подходит королевна, показывает Ивану-царевичу три волоса: «Угадай, царевич, с какого корешка эта травка? Если узнаешь, то пойду за тебя замуж, а не узнаешь — не прогневайся!» (Quả nhiên công chúa lại gần, đưa hoàng tử Ivan xem ba sợi tóc: «Hoàng tử đoán xem, ngọn cỏ này mọc từ rễ nào? Đoán trúng thì thiếp lấy chàng, không đoán nổi — xin chớ giận nhé!»)"
+    },
+    {
+     "t": "para",
+     "text": "А Иван-царевич вынул из-под полы голову, ударил об стол: «Вот тебе и корень!» (Hoàng tử Ivan liền rút chiếc đầu giấu dưới vạt áo, dằn xuống bàn: «Rễ nó đây này!»)"
+    },
+    {
+     "t": "para",
+     "text": "Королевна сама про себя подумала: «Хороши молодцы!» Просится: «Позволь, Иван-царевич, пойти переодеться в другой горнице». (Công chúa nhủ thầm trong bụng: «Mấy chàng này cao tay thật!» Rồi nàng lại xin: «Hoàng tử Ivan, cho thiếp sang phòng bên thay áo».)"
+    },
+    {
+     "t": "para",
+     "text": "Иван-царевич ее отпустил; она вышла на крыльцо, ударилась оземь, оборотилась голубкою и опять полетела на́ море. (Hoàng tử Ivan để nàng đi; nàng bước ra thềm, đập mình xuống đất, hoá thành bồ câu lại bay ra biển.)"
+    },
+    {
+     "t": "para",
+     "text": "Буря-богатырь взял у царевича голову, вышел на двор, ударил эту голову об крыльцо и говорит: «Где прежде была, там и будь!» (Tráng sĩ Bão Táp cầm chiếc đầu từ tay hoàng tử, bước ra sân, đập chiếc đầu vào thềm mà nói: «Trước ở đâu, giờ về lại đó!»)"
+    },
+    {
+     "t": "para",
+     "text": "Голова полетела, прежде королевны на место поспела и срослась с туловищем. (Chiếc đầu bay vút đi, về tới chỗ trước cả công chúa, liền lại với thân mình như cũ.)"
+    },
+    {
+     "t": "para",
+     "text": "Королевна остановилась у моря, ударилась оземь, оборотилась красной девицей: «Дедушка, дедушка! Выйди, поговори со мною». (Công chúa dừng bên bờ biển, đập mình xuống đất, hoá lại thành cô gái xinh đẹp: «Ông ơi, ông ơi! Lên chuyện trò với cháu nào».)"
+    },
+    {
+     "t": "para",
+     "text": "Тот вылезает: «Что, внученька, тебе надобно?» (Ông lão trồi lên: «Cháu gái cần gì nào?»)"
+    },
+    {
+     "t": "para",
+     "text": "— «Никак твоя голова там была?» — «Не знаю, внученька! Никак я крепко спал». (— «Có phải chiếc đầu của ông vừa ở đằng ấy không?» — «Ông chẳng biết nữa, cháu ạ! Hình như ông ngủ say lắm».)"
+    },
+    {
+     "t": "para",
+     "text": "— «Нет, дедушка, твоя голова была там». — «Знать, как была ты в последний раз да хотела мне словечко молвить, в те́ поры, видно, мне и сорвали голову». (— «Không mà ông ơi, đầu của ông vừa ở đằng ấy thật». — «Chắc là lần trước cháu quay lại định nói với ông một lời, đúng lúc ấy, hẳn vậy, người ta rứt mất đầu ông».)"
+    },
+    {
+     "t": "para",
+     "text": "Ударилась она оземь, оборотилась голубкою и полетела домой; переоделась в другое платье, пришла и села с Иваном-царевичем рядом. (Nàng đập mình xuống đất, hoá thành bồ câu bay về nhà; thay tấm áo khác xong, nàng trở ra ngồi xuống cạnh hoàng tử Ivan.)"
+    },
+    {
+     "t": "para",
+     "text": "На другой день поехали они к венцу закон принять; как скоро от венца приехали, Буря-богатырь повел Ивана-царевича показывать, где ему спальня приготовлена, подает ему три прута: один железный, другой медный, а третий оловянный, и говорит: «Коли хочешь быть жив, позволь мне лечь с королевною на твое место». (Hôm sau họ tới nhà thờ làm lễ cưới theo phép đạo; vừa từ lễ cưới về, tráng sĩ Bão Táp dẫn hoàng tử Ivan đi xem buồng ngủ dọn sẵn cho chàng, trao cho chàng ba chiếc roi: một sắt, một đồng, một thiếc, rồi dặn: «Muốn sống thì để tôi nằm với công chúa thay chỗ anh».)"
+    },
+    {
+     "t": "para",
+     "text": "Царевич согласился. Повел король молодых в постель укладывать. (Hoàng tử ưng thuận. Vua dẫn đôi tân hôn vào buồng đi ngủ.)"
+    },
+    {
+     "t": "para",
+     "text": "В то время Буря-богатырь коровий сын сменил царевича и как лег, так и захрапел; наложила королевна на него ногу, наложила и другую, потом взгребла подушку и начала его душить. (Lúc ấy tráng sĩ Bão Táp con bò đã tráo chỗ hoàng tử, vừa đặt lưng đã ngáy vang; công chúa gác một chân lên người chàng, gác thêm chân nữa, rồi vơ chiếc gối đè xuống toan bóp ngạt chàng.)"
+    },
+    {
+     "t": "para",
+     "text": "Буря-богатырь выскочил из-под нее, взял железный прут и начал ее бить; до тех пор бил, пока весь прут изломал; потом принялся за медный, и тот весь изломал; после медного начал бить оловянным. (Tráng sĩ Bão Táp vùng thoát ra, cầm chiếc roi sắt quật nàng; quật mãi tới khi gãy vụn cả chiếc roi; rồi chuyển sang roi đồng, cũng quật gãy vụn nốt; hết roi đồng lại quật bằng roi thiếc.)"
+    },
+    {
+     "t": "para",
+     "text": "Замолилась королевна, великими клятвавами заклялась, что не станет этаких дел делать. (Công chúa van lạy, lấy lời thề nặng nhất mà thề rằng từ nay không làm những chuyện như thế nữa.)"
+    },
+    {
+     "t": "para",
+     "text": "Поутру встал Буря-богатырь, пошел к Ивану-царевичу: «Ну, брат, ступай, посмотри, как твоя жена у меня выучена: которые были приготовлены три прута, все об нее изломал. Теперь живите благополучно, любите друг друга и меня не забывайте». (Sáng ra tráng sĩ Bão Táp dậy, sang gặp hoàng tử Ivan: «Nào anh bạn, vào mà xem vợ anh được tôi dạy dỗ ra sao: ba chiếc roi sắm sẵn, tôi quật gãy vụn cả vào người cô ấy rồi. Giờ anh chị cứ sống yên ấm, thương yêu nhau, và đừng quên tôi nhé».)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "чернеть",
+     "vi": "dân đen, thường dân (nghĩa cổ; «по чернети» — xuống tận đám dân đen)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "хрычовка",
+     "vi": "mụ già lẩm cẩm (tiếng mắng)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ополощины",
+     "vi": "nước rửa nồi rửa cá hắt đi",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "девка-чернавка",
+     "vi": "cô hầu gái lo việc nặng nhọc («việc đen»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "понести (плод)",
+     "vi": "thụ thai, mang thai (nghĩa cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "гад",
+     "vi": "loài rắn rết, thuồng luồng (nghĩa cổ: loài bò sát gớm ghiếc)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "окромя",
+     "vi": "ngoài… ra (phương ngữ, = кроме)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ископыть",
+     "vi": "tảng đất vó ngựa hất tung",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "наплевать-нахаркать",
+     "vi": "nhổ toẹt khạc toẹt (vào vật bùa mê)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "чудо-юда",
+     "vi": "quái Chudo-Yuda («мосальская губа» = mõm Mosal, tiếng chửi giễu cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "посвист и покрик",
+     "vi": "tiếng huýt trai tráng, tiếng quát tráng sĩ (công thức «молодецкий посвист, богатырский покрик»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "воронье мясо",
+     "vi": "đồ thịt quạ (tiếng mắng ngựa)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "отсмеять насмешку",
+     "vi": "trả miếng, rửa hận («отсмею ему эту насмешку»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "по макову зернышку",
+     "vi": "(xé) vụn như hạt anh túc — tan thành mảnh vụn («разорвет по макову зернышку»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "рассыпаться аредом",
+     "vi": "tan tành thành tro bụi (аред — con quỷ già trong tín ngưỡng dân gian)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

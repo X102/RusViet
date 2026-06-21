@@ -1,0 +1,439 @@
+{
+ "id": "skazki1-072",
+ "num": 72,
+ "title": "Масенжны дзядок — Ông lão đồng thau",
+ "vi": "Масенжны дзядок — Ông lão đồng thau",
+ "ru": "Масенжны дзядок",
+ "icon": "🧓",
+ "color": "#f59e0b",
+ "sectionPrefix": "skazki1-072-s",
+ "group": "Truyện № 101–140",
+ "sections": [
+  {
+   "id": "skazki1-072-s001",
+   "type": "story",
+   "num": 126,
+   "title": "№ 126 · Масенжны дзядок — Ông lão đồng thau",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Truyện №126 — dị bản duy nhất của nhóm, ghi trọn bằng PHƯƠNG NGỮ BELARUS: «масенжны дзядок» = «ông lão đồng thau» (mượn tiếng Ba Lan mosiężny «bằng đồng thau») — chính là dạng Belarus của kiểu ATU 502 «Медный лоб» (Người tù thần kỳ / Iron John) nối tiếp các truyện №123–125: con chim thần bị vua nhốt hầm kín, hoàng tử bé lén lấy chìa khoá của mẹ thả ra, bị may áo da lợn đuổi đi phiêu bạt; làm phụ bếp xứ ngoài biển, ba lần thắng trận nhờ ông lão, ba quả táo bạc–vàng–rực như mặt trời đổi lấy ba đêm ngủ ở ngưỡng cửa → cạnh giường → trên giường công chúa; vết thương ở tay với khăn quàng + nhẫn vua tặng thành vật nhận mặt. Giữ nguyên chính tả dao động của nguồn (круль/кароль/король, пташка/пташки dạng pha Nga, vết in «прачхнуўся, кралевіч и казаў» — dấu phẩy lạ giữa câu và chữ «и» dạng Nga); 15 vết footnote (khoảng trắng thừa trước dấu câu) đã chuẩn hoá."
+    },
+    {
+     "t": "para",
+     "text": "Быў сабе гаспадар і меў трох сыноў: двох разумных, а трэці дурань. (Ngày xưa có một ông chủ nhà sinh được ba người con trai: hai anh khôn ngoan, còn anh thứ ba thì ngốc nghếch.)"
+    },
+    {
+     "t": "para",
+     "text": "Да таго гаспадара упадзілося нешто ў пшаніцу і што дзень — по моргу з’едало. (Ruộng lúa mì của ông chẳng biết bị con gì lẻn vào phá, mỗi ngày ngốn mất cả một mẫu.)"
+    },
+    {
+     "t": "para",
+     "text": "Паслаў той гаспадар на першую ноч старшага сына вартаваць; ён пашоў, сідзеў, сідзеў, а пад самы дзень заснуў і рана, як устаў, то пшаніцу знашоў нецэлую. (Đêm đầu ông sai con cả đi canh; anh ta ra ngồi mãi ngồi mãi, gần sáng thì ngủ thiếp đi, sớm dậy thấy lúa đã chẳng còn nguyên vẹn.)"
+    },
+    {
+     "t": "para",
+     "text": "На другую ноч пашоў серэдні, і ён таксама заснуў пад дзень — і нешто з’ело пшаніцу. (Đêm thứ hai đến lượt anh thứ, anh này cũng ngủ quên lúc gần sáng — và lúa mì lại bị ăn mất.)"
+    },
+    {
+     "t": "para",
+     "text": "На трэцюю ноч пашоў дурань; ён, як толькі прышоў, так з вечара і лёг спаць, а пад дзень устаў і сядзіць — аж прылятае пташка. (Đêm thứ ba thằng ngốc đi canh; vừa tới nơi, chập tối anh đã lăn ra ngủ, gần sáng dậy ngồi rình — bỗng đâu một con chim nhỏ bay tới.)"
+    },
+    {
+     "t": "para",
+     "text": "Ён падкраўся і злавіў тую пташку і ўсадзіў ў мех, і сам лёг спаць. (Anh rón rén bò lại, chộp được con chim, nhét vào bao tải, rồi lại đặt lưng xuống ngủ.)"
+    },
+    {
+     "t": "para",
+     "text": "На другі дзень рано прыходзяць браты старшые глядзець пшаніцы — аж пшаніца цэлая, а дурань спіць. (Sáng sớm hôm sau hai anh lớn ra xem ruộng — lúa mì còn nguyên vẹn, còn thằng ngốc thì đang ngủ khì.)"
+    },
+    {
+     "t": "para",
+     "text": "Яны пабудзілі дурня і сталі пытаць: «Чаму сягоння цэлая пшаніца?» (Hai anh lay em dậy gặng hỏi: «Sao hôm nay lúa mì lại nguyên lành thế?»)"
+    },
+    {
+     "t": "para",
+     "text": "Ён расказаў братам усе, як было, і паказаў пташку, каторая сідзела ў меху. (Anh kể đầu đuôi cho hai anh nghe, rồi chỉ con chim đang nằm trong bao.)"
+    },
+    {
+     "t": "para",
+     "text": "Яны адабралі ад дурня тую пташку і паняслі бацьку на паказ. (Hai anh giành lấy con chim của thằng ngốc, đem về khoe cha.)"
+    },
+    {
+     "t": "para",
+     "text": "Прышоўшы да бацька, яны сказалі, што дурань спіць і што яны злавілі пташку, каторая сядзела на пшаніцы і ела. (Về đến nơi, họ thưa với cha rằng thằng ngốc chỉ biết ngủ, còn chính họ bắt được con chim vẫn đậu ăn lúa mì.)"
+    },
+    {
+     "t": "para",
+     "text": "Бацька, разглядзеўшы тую пташку, панес её да круля. (Người cha ngắm nghía con chim, rồi đem dâng lên vua.)"
+    },
+    {
+     "t": "para",
+     "text": "Круль узяў пташку, заплаціў за яё мужыку і казаў замкнуць да склепу, а ключ аддаў жонцы. (Vua nhận chim, trả tiền cho bác nông dân, sai khoá nó vào hầm kín, còn chìa khoá giao cho hoàng hậu giữ.)"
+    },
+    {
+     "t": "para",
+     "text": "Сядзела тая пташка, сядзела ў склепе, аж падбег пад дзвері маленкі кралевіч. (Con chim ngồi trong hầm ngày này qua ngày khác, bỗng một hôm chú hoàng tử bé chạy ngang qua cửa.)"
+    },
+    {
+     "t": "para",
+     "text": "Дак тая пташка зачыная прасіць у кралевіча чалавечаскім голасам, каб ён яё выпусціў. (Con chim liền cất tiếng người van xin hoàng tử thả nó ra.)"
+    },
+    {
+     "t": "para",
+     "text": "«Як же я магу выпусціць, калі ключ ад склепу ў маей маткі на шыі?» — сказаў кралевіч. («Tôi thả thế nào được, khi chìa khoá hầm đeo trên cổ mẹ tôi?» — hoàng tử nói.)"
+    },
+    {
+     "t": "para",
+     "text": "«Вазьмі падлащыся да маткі, адкрадзі ключ і мяне выпусці», — сказала пташка. («Cậu cứ đến lân la nũng nịu với mẹ, lén lấy chìa khoá mà thả tôi ra», — con chim bảo.)"
+    },
+    {
+     "t": "para",
+     "text": "Той кралевіч так і зрабіў: прышоў да маткі, зачаў песціцца, адкраў ключ і выпусціў тую пташку; а тая пташка — то быў масенжны дзядок, і ён, выходзячы з склепу, сказаў кралевічу: «Як чаго табе будзе трэба, то толькі выйдзі на двор і скажы: масенжны дзедку, памажы́ мне! — то я за́раз прыстаўлюся, і чаго толькі будзе трэба, то ўсё зраблю». (Hoàng tử làm đúng như vậy: đến bên mẹ nũng nịu, lén lấy chìa khoá rồi thả con chim ra; mà con chim ấy chính là ông lão đồng thau — bước ra khỏi hầm, lão dặn hoàng tử: «Khi nào cậu cần gì, chỉ việc ra sân mà gọi: ông lão đồng thau ơi, giúp cháu với! — ta sẽ hiện ra ngay tức khắc, cần gì ta cũng làm cho.»)"
+    },
+    {
+     "t": "para",
+     "text": "На другі дзень круль паспрашаў гасцей, каб паглядзелі такой дзіўнай пташкі. (Hôm sau vua mời khách khứa đến xem con chim kỳ lạ.)"
+    },
+    {
+     "t": "para",
+     "text": "Паз’ежджаліся госці глядзець пташкі і па абедзе пашлі да склепу; прыходяць туда, адамкнулі склеп; аж пташкі няма! (Khách kéo về đông đủ, ăn tiệc xong cùng xuống hầm; tới nơi, mở khoá ra — chim đã biến mất!)"
+    },
+    {
+     "t": "para",
+     "text": "Кароль за́раз да жонкі, бо ў яё былі ключы. (Vua lập tức hạch hỏi hoàng hậu, vì chìa khoá ở nơi bà.)"
+    },
+    {
+     "t": "para",
+     "text": "Жонка бажылася, прысягалася, што не выпущала пташки, але ёй не верылі і прысудзілі яё страціць. (Hoàng hậu thề sống thề chết rằng mình không thả chim, nhưng chẳng ai tin, người ta luận tội xử tử bà.)"
+    },
+    {
+     "t": "para",
+     "text": "Плакала яна, плакала, а после прыпамінае, што коло яё песціўся сын і пэўно ён адкраў ключы; яна гэта сказала мужу і ўсем гасцям. (Bà khóc mãi khóc mãi, rồi sực nhớ hôm ấy đứa con trai cứ quấn quýt nũng nịu bên mình, hẳn là nó đã lén lấy chìa khoá; bà nói điều đó với chồng và tất cả khách khứa.)"
+    },
+    {
+     "t": "para",
+     "text": "Госці адны казалі, каб сына павесіць, другіе казалі — каб утапіць, а адзін із гасцей кажэ, што пашыць яму свіны кажушок і пусціць ў свет. (Khách người thì bảo nên treo cổ hoàng tử, kẻ thì bảo đem dìm nước, riêng một vị nói: hãy may cho cậu chiếc áo da lợn rồi thả cậu đi phiêu bạt giữa thiên hạ.)"
+    },
+    {
+     "t": "para",
+     "text": "Усе на гэта згадзіліся. (Mọi người đều ưng thuận như thế.)"
+    },
+    {
+     "t": "para",
+     "text": "Матка вельмі плакала, а после, бачучы, што плач не паможэ, казала прынясці той свіны кажушок і панашіва́ла ў яго грошей прынаймней тысяч сто бумажкамі і золотом, і выправадзіла яго. (Hoàng hậu khóc hết nước mắt, rồi thấy khóc cũng chẳng ích gì, bèn sai đem chiếc áo da lợn lại, khâu giấu vào trong áo ngót trăm nghìn tiền giấy lẫn vàng, đoạn tiễn con lên đường.)"
+    },
+    {
+     "t": "para",
+     "text": "Ён узяў кіёк дый пашоў. (Hoàng tử cầm cây gậy nhỏ rồi cất bước ra đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Ідзе ён, плачэ, што яму начаць? (Chàng vừa đi vừa khóc: biết bắt đầu từ đâu bây giờ?)"
+    },
+    {
+     "t": "para",
+     "text": "Аж прыходзіць яму на мысль масенжны дзядок; ён взашоў на гору і сказаў: «Масенжны дзедку! Памажы мне». (Chợt chàng nhớ tới ông lão đồng thau; chàng trèo lên một ngọn đồi mà gọi: «Ông lão đồng thau ơi! Giúp cháu với.»)"
+    },
+    {
+     "t": "para",
+     "text": "Дак зараз той дзядок прышоў да яго і запытаўся: чаго яму трэба? (Tức thì ông lão hiện đến, hỏi chàng cần gì.)"
+    },
+    {
+     "t": "para",
+     "text": "Ён расказаў ўсе, як было, і прасіў, каб яму памог. (Chàng kể hết sự tình, xin ông giúp đỡ.)"
+    },
+    {
+     "t": "para",
+     "text": "Дзядок, падумаўшы, сказаў: «Ідзі ты за моро да караля і прасі яго, каб прыняў цябе за кухціка; як ён цябе прыме, то зараз будзе вайна, і ты папрасіся ў кухара, каб цябе пазволіў пайці паглядзець той вайны, і як ён цябе пазволіць, то выйдзі за варота і пакліч мяне». (Ông lão ngẫm nghĩ rồi bảo: «Cháu hãy vượt biển sang xứ nhà vua nọ, xin vào làm chân phụ bếp; vua vừa nhận cháu thì sẽ có giặc ngay, cháu hãy xin bác đầu bếp cho đi xem trận mạc, hễ bác ấy cho thì cứ ra ngoài cổng mà gọi ta.»)"
+    },
+    {
+     "t": "para",
+     "text": "Той кралевіч паслухаў дзедка і пашоў; прыходзіць ён за моро — аж стаіць палац, і на дваре пахаджая круль. (Hoàng tử nghe lời ông lão, lên đường; vượt biển sang tới nơi — thấy sừng sững một toà cung điện, nhà vua đang dạo bước ngoài sân.)"
+    },
+    {
+     "t": "para",
+     "text": "Кралевіч ў свіным кажушку падышоў да караля і стаў прасіцца каб прыняў яго да сябе за кухціка. (Hoàng tử trong chiếc áo da lợn lại gần vua, xin được nhận vào làm phụ bếp.)"
+    },
+    {
+     "t": "para",
+     "text": "Кароль згадзіўся і казаў ісці да кухні. (Vua ưng thuận, sai xuống nhà bếp.)"
+    },
+    {
+     "t": "para",
+     "text": "Служыў ён у караля год, другі, аж на трэцём гаду́ зрабілася вайна. (Chàng hầu hạ vua được một năm, hai năm, sang năm thứ ba thì nổ ra chiến tranh.)"
+    },
+    {
+     "t": "para",
+     "text": "Круль пазбіраў войско, сам вабраўся і паехаў на вайну. (Vua thu góp binh mã, tự mình nai nịt ra trận.)"
+    },
+    {
+     "t": "para",
+     "text": "Кухцік, даведаўшыся, што кароль паехаў, зачаў прасіцца ў кухара, каб яму пазволіў паглядзець вайны; кухар не хацеў пазволіць, але кралевіч даў кухару пяць рублеў, і ён яму пазволіў. (Chú phụ bếp hay tin vua đã đi, liền nài bác đầu bếp cho ra xem trận mạc; bác không muốn cho, nhưng hoàng tử dúi cho bác năm rúp, thế là bác gật đầu.)"
+    },
+    {
+     "t": "para",
+     "text": "Кралевіч вышаў за браму і зачаў клікаць масенжного дзедка. (Hoàng tử ra khỏi cổng thành, cất tiếng gọi ông lão đồng thau.)"
+    },
+    {
+     "t": "para",
+     "text": "Дзядок зараз прыставіўся, даў яму каня, вабраў ў ахвіцэрскае адзене, даў меч, даў сярэбранае яблыко і сказаў: «Ты на вайне гэтым мечом паб’еш усё непрыяцельскае войско; круль цябе будзе прасіць да свайго палацу, але ты не йдзі; а гэтое яблыко, як вернешся да палацу, то будзеш качаць, і будзе ў цябе прасіць кралеўна гэтаго яблычка, то ты тагды аддай ёй, калі яна пазволіць пераначаваць цябе ў кралеўны пакоі ў парозе». (Ông lão hiện ra ngay, trao cho chàng một con ngựa, mặc cho bộ nhung phục sĩ quan, trao thanh kiếm, trao quả táo bạc, rồi dặn: «Ra trận, con sẽ dùng thanh kiếm này đánh tan cả đạo quân giặc; vua sẽ mời con về cung, nhưng con chớ đi; còn quả táo này, khi về tới cung, con cứ đem ra lăn chơi, công chúa sẽ nài xin quả táo, con chỉ trao cho nàng khi nàng cho phép con ngủ nhờ một đêm ở ngưỡng cửa phòng nàng.»)"
+    },
+    {
+     "t": "para",
+     "text": "Кралевіч так і зрабіў: паехаў на вайну, пабіў ўсё войско; кароль прасіў, каб ён заехаў да палацу, але ён не згадзіўся. (Hoàng tử làm đúng như lời: phi ra trận, đánh tan cả đạo quân; vua nài chàng ghé về cung, nhưng chàng không nhận.)"
+    },
+    {
+     "t": "para",
+     "text": "После, прыехаўшы дадому, переадзеўся ў свой свіны кажушок, прышоў да кухні; там, памыўшы начынё, зачаў качаць срэбнае яблычко — аж уходзіць кралеўна і як убачыла тое яблычко, так і зачала прасіць у яго, каб ён прадаў. (Sau đó, về tới nơi, chàng thay lại chiếc áo da lợn, xuống bếp; rửa xong nồi niêu bát đĩa, chàng đem quả táo bạc ra lăn chơi — vừa lúc công chúa bước vào, thấy quả táo liền nằng nặc đòi mua.)"
+    },
+    {
+     "t": "para",
+     "text": "«Я нічого болей не хачу, толькі — каб кралеўна пазволіла ў сваём пакоі ў парозе пераначаваць». — «Добра!» — сказала кралеўна і ўзяла яблычко. («Tôi chẳng cần gì hơn, chỉ xin công chúa cho ngủ nhờ một đêm ở ngưỡng cửa phòng nàng.» — «Được!» — công chúa nói rồi cầm lấy quả táo.)"
+    },
+    {
+     "t": "para",
+     "text": "Як прышла ноч, кралевіч пашоў да кралеўны пакою, пераначаваў ў парозе і вернуўся да кухні. (Đêm đến, hoàng tử lên phòng công chúa, ngủ ở ngưỡng cửa, rồi lại trở về bếp.)"
+    },
+    {
+     "t": "para",
+     "text": "Церэз гадоў два ізноў зрабілася вайна; кароль таксама пазбіраў войска і паехаў. (Chừng hai năm sau lại có giặc; vua lại thu góp binh mã lên đường.)"
+    },
+    {
+     "t": "para",
+     "text": "Кухцік выпрасіўся ў кухара на вайну, взашоў за браму, крыкнуў на дзедка, і ён зараз прыставіўся; даў кралевічу каня, вабраў ў ахвіцэрскае адзене, даў залатое яблыко і казаў аддаць яго кралеўне, тагды, калі яна пазволіць пераначаваць каля́ свайго ложка. (Chú phụ bếp xin phép bác đầu bếp đi xem trận, ra ngoài cổng thành gọi ông lão, ông hiện ra ngay; trao cho hoàng tử con ngựa, mặc bộ nhung phục sĩ quan, trao quả táo vàng và dặn chỉ trao nó cho công chúa khi nàng cho phép ngủ một đêm bên cạnh giường nàng.)"
+    },
+    {
+     "t": "para",
+     "text": "Кралевіч таксама пабіў непрыяцельскае войско; круль прасіў яго да палацу, але ён не згадзіўся і вернуўся дадому. (Hoàng tử lại đánh tan quân giặc; vua mời chàng về cung, chàng không nhận mà quay về.)"
+    },
+    {
+     "t": "para",
+     "text": "Памыўшы начынё, зачаў качаць і забаўляцца с сваім яблыкам — аж ізноў вайшла кралеўна і зачала прасіць, каб ён прадаў яблычко. (Rửa xong bát đĩa, chàng lại đem quả táo ra lăn chơi đùa nghịch — công chúa lại bước vào, lại nài chàng bán quả táo.)"
+    },
+    {
+     "t": "para",
+     "text": "Ён адказаў, што жаднай платы не хоча, толькі хоча — каб пазволіла яму пераначаваць пры сваём ложку. (Chàng đáp chẳng màng món tiền nào, chỉ xin nàng cho ngủ một đêm cạnh giường nàng.)"
+    },
+    {
+     "t": "para",
+     "text": "Кралеўна пазволіла і ўзяла яблычко. (Công chúa bằng lòng và cầm lấy quả táo.)"
+    },
+    {
+     "t": "para",
+     "text": "Кралевич сабраўся, пашоў ў кралеўны пакой, пераначаваў каля́ кралеўны ложка і назаўтра пашоў да кухні і прыняўся да сваёй работы. (Hoàng tử thu xếp lên phòng công chúa, ngủ cạnh giường nàng, sáng hôm sau lại xuống bếp bắt tay vào việc của mình.)"
+    },
+    {
+     "t": "para",
+     "text": "Церэз тры года ізноў зрабілася вайна. (Ba năm sau giặc lại nổi lên.)"
+    },
+    {
+     "t": "para",
+     "text": "Круль пазбіраў сваё войска і сам паехаў на вайну. (Vua thu góp binh mã, lại tự mình ra trận.)"
+    },
+    {
+     "t": "para",
+     "text": "Кралевіч, выпрасіўшыся ў кухара, пашоў паглядзець нібыто вайны. (Hoàng tử xin phép bác đầu bếp, lấy cớ đi xem trận mạc.)"
+    },
+    {
+     "t": "para",
+     "text": "Вышаўшы за браму, паклікаў масенжного дзедка; ён зараз прыставіўся, даў яму яшчэ лепшаго каня і яблычко такое, як сонцо, і сказаў: «Ты ізноў паб’еш усё непрыяцельскае войско, цябе раняць ў руку, круль будзе прасіць да сабе, але ты не едзь; а гэтое яблыко аддасі кралеўне тагды, калі яна пазволіць пераначаваць цябе на сваём ложку». (Ra khỏi cổng thành, chàng gọi ông lão đồng thau; ông hiện ra ngay, trao con ngựa còn hay hơn trước và quả táo sáng rực như mặt trời, dặn rằng: «Con sẽ lại đánh tan cả đạo quân giặc, con sẽ bị thương vào tay, vua sẽ mời con về, nhưng con chớ đi; còn quả táo này con chỉ trao cho công chúa khi nàng cho phép con ngủ một đêm trên chính giường nàng.»)"
+    },
+    {
+     "t": "para",
+     "text": "Кралевіч, сеўшы на каня, паляцеў на вайну; прыляцеўшы туды, зараз зачаў рубаць непрыяцельскае войска, перарубаў ўсех, але адзін шаблею ударыў кралевіча по руцэ і раніў яго. (Hoàng tử nhảy lên ngựa bay ra trận; vừa tới nơi liền vung kiếm chém quân giặc, chém sạch cả, nhưng một tên kịp vớt một nhát gươm trúng tay, làm chàng bị thương.)"
+    },
+    {
+     "t": "para",
+     "text": "Кароль, убачыўшы, што яго ранілі, падскочыў зараз, зняў с шыі сваю хустку, абверцеў рану і, аддаўшы свой пярсцёнак на па́мятку, прасіў, каб ён заехаў да яго палацу адпачыць; але кралевич не захацеў, ўдарыў каня і схаваўся за гору. (Vua thấy chàng bị thương, vội chạy ngay lại, cởi chiếc khăn quàng trên cổ băng vết thương, lại tháo chiếc nhẫn của mình tặng làm kỷ niệm, mời chàng ghé về cung nghỉ ngơi; nhưng hoàng tử không chịu, thúc ngựa khuất sau ngọn núi.)"
+    },
+    {
+     "t": "para",
+     "text": "Круль вельмі быў рад, што тры вайны кончыў шчасліва і забраў многа другіх краёў. (Vua mừng lắm vì đã kết thúc cả ba cuộc chiến thắng lợi, lại chiếm thêm được nhiều xứ khác.)"
+    },
+    {
+     "t": "para",
+     "text": "Кралевіч пусціў каня, пераадзеўся ў свой свіны кажушок і прышоў да кухні. (Hoàng tử thả ngựa, thay lại chiếc áo da lợn, trở về bếp.)"
+    },
+    {
+     "t": "para",
+     "text": "Там разпытываліся ў яго, што бачыў? (Ở đó người ta xúm lại gặng hỏi: chàng đã thấy những gì?)"
+    },
+    {
+     "t": "para",
+     "text": "І ён расказаў аб усём, як некі пан пабіў непрыяцельскае войска, як круль аддаў сваю хустку і свой пярсцёнак на па́мятку і як прасіў да сабе, але той пан не захацеў. (Chàng kể lại hết: nào một vị quý ông nọ đánh tan quân giặc, nào vua tặng khăn quàng và nhẫn làm kỷ niệm, nào vua mời về cung mà vị ấy không chịu.)"
+    },
+    {
+     "t": "para",
+     "text": "Памыўшы сваім звычаем начынё і гаршкі, стаў сабе забаўляцца з яблыкам, каторае асвеціло цэлую кухню. (Theo lệ thường, rửa xong bát đĩa nồi niêu, chàng lại đem quả táo ra chơi — quả táo soi sáng rực cả gian bếp.)"
+    },
+    {
+     "t": "para",
+     "text": "Як ён забаўляўся з яблыкам, вайшла кралеўна да кухні і, ўбачыўшы такое яблычко, зачала вельмі прасіць, каб ён яго прадаў, і яна яму дасць толькі грошай, колькі ён хоча. (Chàng đang mải chơi với quả táo thì công chúa bước vào bếp, trông thấy quả táo nhường ấy liền van nài chàng bán cho, chàng muốn bao nhiêu tiền nàng cũng trả.)"
+    },
+    {
+     "t": "para",
+     "text": "Кралевіч ў свіным кажушку сказаў, што ён грошай не хоча, толькі хоча — каб кралеўна пазволіла пераначаваць на сваём ложку. (Hoàng tử trong chiếc áo da lợn đáp rằng chàng không cần tiền, chỉ xin công chúa cho ngủ một đêm trên giường nàng.)"
+    },
+    {
+     "t": "para",
+     "text": "Кралеўна згадзілася і казала паслаць кухціку сваю пасцель. (Công chúa ưng thuận, sai đem trải chăn đệm của mình cho chú phụ bếp.)"
+    },
+    {
+     "t": "para",
+     "text": "Як надышла ноч, кухцік пашоў да кралеўны пакою, разабраўся і лёг на яё пасцелі. (Đêm xuống, chú phụ bếp lên phòng công chúa, cởi áo ngoài nằm lên giường nàng.)"
+    },
+    {
+     "t": "para",
+     "text": "Назаўтра кола гадзіны дванаццатой ў поўдзень прачхнуўся, кралевіч и казаў прасіць да сабе круля. (Hôm sau, quãng mười hai giờ trưa hoàng tử mới tỉnh giấc, truyền mời nhà vua đến gặp mình.)"
+    },
+    {
+     "t": "para",
+     "text": "Круль, здівіўшыся, вабраўся ў мундір, сеў ў карэту і прыехаў. (Vua lấy làm lạ, vận quân phục đại lễ, lên xe ngựa mà đến.)"
+    },
+    {
+     "t": "para",
+     "text": "Прыехаўшы пад палац, зараз убачыў стражу незнаёмую, але яна яго ўсюды прапускала, і кароль дашоў да кралевіча пакою. (Đến trước cung, vua thấy ngay một đội thị vệ lạ mặt, nhưng họ đều để vua đi qua khắp nơi, và vua tới được phòng hoàng tử.)"
+    },
+    {
+     "t": "para",
+     "text": "Як толькі адамкнуў дзверы, кралевіч падбег спатыкаць, прывітаўся с каралем і прасіў сядзець. (Cửa vừa mở, hoàng tử chạy ra đón, chào vua và mời ngồi.)"
+    },
+    {
+     "t": "para",
+     "text": "Кароль зараз пазнаў таго, каторы быў тры разы на вайне і ўсе тры разы пабіў непрыяцельскае войска; также пазнаў на кралевіча руцэ сваю хустку і на пальцы пярсцёнак. (Vua nhận ra ngay người đã ba lần ra trận, cả ba lần đánh tan quân giặc; lại nhận ra trên tay chàng chiếc khăn quàng của mình, trên ngón tay chàng chiếc nhẫn.)"
+    },
+    {
+     "t": "para",
+     "text": "Круль зачаў абнімаць кралевіча, што яму памог на вайне, і павёў да сваёй дачкі. (Vua ôm chầm lấy hoàng tử, cảm tạ chàng đã giúp mình nơi trận mạc, rồi dẫn đến gặp con gái.)"
+    },
+    {
+     "t": "para",
+     "text": "А кралеўна даўно яго палюбіла, бо быў вельмі харошы, і зараз з нім заручылася. (Còn công chúa thì đã phải lòng chàng từ lâu, vì chàng khôi ngô tuấn tú lắm, nên đính ước với chàng ngay.)"
+    },
+    {
+     "t": "para",
+     "text": "На заручынах кралевіч расказаў, як яго выгналі з дому, як масенжны дзядок ім апекаваўся, як ён прышоў за моро, як даў яму той дзядок яблыка. (Trong lễ đính hôn, hoàng tử kể chuyện mình bị đuổi khỏi nhà ra sao, ông lão đồng thau che chở mình thế nào, mình vượt biển tới đây ra sao, ông lão cho táo thế nào.)"
+    },
+    {
+     "t": "para",
+     "text": "Па заручынах у тры нядзелі было вяселле вельмі гучное, а па вяселлі паехалі да родзіцаў кралевіча. (Ba tuần sau lễ đính hôn là đám cưới linh đình lắm, cưới xong đôi vợ chồng lên đường về thăm cha mẹ hoàng tử.)"
+    },
+    {
+     "t": "para",
+     "text": "Бацькі іх не пазналі, бо мелі свайго сына за прапаўшаго: вельмі былі рады, што сын знашоўся, а асабліва маці, каторая зачала разпытывацца: якім способам ён зайшоў так далёко? (Cha mẹ chẳng nhận ra con, vì vẫn đinh ninh con mình đã biệt tích: cả nhà mừng khôn xiết khi con tìm về, nhất là người mẹ, cứ gặng hỏi mãi: làm cách nào con lưu lạc xa đến thế?)"
+    },
+    {
+     "t": "para",
+     "text": "Кралевіч зараз аб масенжном дзедку, як ён яго завёў аж за моро, як ён служыў за кухціка, як быў на вайне; разказаў аб яблыках, а после — як адкрыўся крулю і як заручыўся і ажаніўся с кралеўнаю. (Hoàng tử liền kể ngay chuyện ông lão đồng thau, chuyện ông đưa mình sang tận bên kia biển, chuyện đi làm phụ bếp, chuyện ra trận; kể về những quả táo, rồi sau nữa — chuyện ra mắt nhà vua, đính hôn và cưới công chúa thế nào.)"
+    },
+    {
+     "t": "para",
+     "text": "Жылі яны шчаслівы доўга; а после бацькі кралеўны і кралевіча паўміралі і пазапісывалі сваі кралеўства ім. (Hai vợ chồng sống hạnh phúc dài lâu; về sau cha mẹ đôi bên lần lượt qua đời, để lại cả hai vương quốc cho họ.)"
+    },
+    {
+     "t": "para",
+     "text": "А масенжны дзядок быў ў іх аж да смерці і многа ім памагаў ў усём, а асабліва ў вайне. (Còn ông lão đồng thau thì ở với họ đến trọn đời, giúp họ đủ mọi việc, nhất là việc binh đao.)"
+    },
+    {
+     "t": "para",
+     "text": "Часто яны рабілі балы, на каторых і я быў, мёд-віно піў; па барадзе цякло, а ў роце не было. (Họ thường mở yến tiệc, chính tôi cũng từng dự, từng uống rượu mật ong; rượu chảy ròng ròng xuống râu mà chẳng giọt nào lọt vào miệng.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "масенжны",
+     "vi": "bằng đồng thau (phương ngữ Belarus, mượn tiếng Ba Lan mosiężny; Nga: медный, латунный)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "вартаваць",
+     "vi": "canh giữ, canh gác (Nga: сторожить, караулить)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "морг",
+     "vi": "moóc — mẫu đất cổ vùng Ba Lan–Litva (≈ 0,7 héc-ta)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "пташка",
+     "vi": "con chim nhỏ (Nga: птичка)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "склеп",
+     "vi": "hầm kín, hầm chứa dưới nhà (Nga: погреб, подвал)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "падлашчыцца",
+     "vi": "lân la nũng nịu, nịnh nọt làm thân (Nga: подластиться)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "страціць",
+     "vi": "(nghĩa cổ ở đây) hành hình, xử tử (Nga: казнить); nghĩa thường: làm mất",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кажушок",
+     "vi": "áo lông cộc (Nga: полушубок); свіны кажушок — áo khoác da lợn",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кухцік",
+     "vi": "chú phụ bếp, tiểu đồng nhà bếp (Nga: поварёнок)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "брама",
+     "vi": "cổng lớn, cổng thành (Nga: ворота)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "прыставіцца",
+     "vi": "hiện ra, ứng hiện ngay (Nga: явиться)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "начынё",
+     "vi": "nồi niêu bát đĩa (Nga: посуда)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "хустка",
+     "vi": "khăn quàng, khăn vuông lớn (Nga: платок)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "пярсцёнак",
+     "vi": "chiếc nhẫn (Nga: перстень)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "заручыны",
+     "vi": "lễ đính hôn (Nga: обручение, помолвка)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

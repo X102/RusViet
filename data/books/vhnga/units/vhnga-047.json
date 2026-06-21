@@ -1,0 +1,224 @@
+{
+ "id": "vhnga-047",
+ "num": 47,
+ "title": "«Зимняя дорога» — Đường mùa đông (Pushkin)",
+ "vi": "«Зимняя дорога» — Đường mùa đông (Pushkin)",
+ "ru": "Зимняя дорога",
+ "icon": "🌙",
+ "color": "#312e81",
+ "sectionPrefix": "vhnga-047-s",
+ "sections": [
+  {
+   "id": "vhnga-047-s001",
+   "type": "story",
+   "num": 1,
+   "title": "«Зимняя дорога» — “Đường mùa đông” (A. Pushkin, 1826)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Bài thơ «Зи́мняя доро́га» (Đường mùa đông) của Aleksandr Pushkin (Алекса́ндр Серге́евич Пу́шкин, 1799–1837) — bài thứ 7 của Pushkin trong sách (cùng «Я вас любил…» bài 1, «Зимнее утро» bài 8, «Узник» bài 19, «К***» bài 24, «Пророк» bài 29, «Зимний вечер» bài 41) — viết cuối năm 1826, in lần đầu trên tạp chí «Моско́вский ве́стник» năm 1828. Cuối 1826, vừa được vua Nikolai I cho rời nơi quản thúc Mikhailovskoye, Pushkin đi lại nhiều bằng xe trượt giữa Moskva và vùng Pskov — bài thơ ra đời từ những chuyến đi đêm đông dằng dặc ấy. Giới nghiên cứu thường gắn bài thơ với Софья Фёдоровна Пушкина, người họ hàng xa mà nhà thơ cầu hôn (không thành) cuối 1826; «Ни́на» là tên gọi ước lệ thi ca. Bảy khổ thơ × 4 dòng, nhịp хорей (trochee) 4 chân, kết cấu VÒNG TRÒN tinh tế: mở đầu là vầng trăng «len lỏi qua màn sương» — khép lại là «gương mặt trăng phủ mờ sương»; «колоко́льчик однозву́чный… греми́т» (khổ 2) trở lại thành «колоко́льчик однозву́чен» (khổ 7). Khổ 1–4: đêm đông Nga — trăng và sương, cỗ tam mã với quả chuông «một âm điệu reo hoài đến rã rời» (chuông treo dưới vòm дуга́ để báo xe trạm từ xa), khúc ca dài của bác xà ích chứa cặp đối cực của tâm hồn Nga: «то разгу́лье удало́е, то серде́чная тоска́» — lúc phóng khoáng ngang tàng, lúc buồn se sắt; rồi hoang vu không ánh lửa, không mái nhà, chỉ cột verst sơn vằn «đơn độc» lướt qua. Khổ 5–6 bừng lên giấc mơ ấm áp: ngày mai bên «Nina» cạnh lò sưởi, kim đồng hồ điểm vang hoàn tất vòng quay, nửa đêm «xua đám khách quấy rầy» nhưng «chẳng chia lìa đôi ta». Khổ 7 quay về thực tại: xà ích thiu thiu bặt tiếng, trăng mờ sương — con đường mùa đông thành ẩn dụ đường đời: buồn tẻ, cô đơn, le lói hy vọng sum họp. Bài thơ được А. Алябьев phổ nhạc romance nổi tiếng. Điểm ngôn ngữ: «одне́» — dạng giống cái số nhiều CỔ của «одни́» (chính tả cũ «однѣ», vần với «мне»); dạng ngắn «полоса́ты» (= полоса́тые, như «лучеза́рны» bài 44); «бо́рзый» — từ cổ nghĩa «nhanh, lẹ»; деепричастия: «возвратя́сь» (khi đã trở về), «удаля́я» (vừa xua đi), «дре́мля» (vừa thiu thiu — của дрема́ть, bài 41). NGUYÊN VĂN đối chiếu CHÉO: culture.ru/poems/4426 (UTF-8, khớp toàn văn 100%, đề «1826 г.»; bản không in ё: «Льет/черной/версты») + rvb.ru/pushkin/01text/01versus/0423_36/1826/0428.htm (А.С. Пушкин. Собрание сочинений в 10 т. М.: ГИХЛ, 1959–62, т.2, стр.158–159 — cp1251 mojibake, giải mã khớp ĐỘ DÀI TỪNG TỪ và dấu câu toàn bài: «ямщика́:» hai chấm, dòng 18 «За́втра к ми́лой возвратя́сь,» KHÔNG phẩy sau «За́втра», «Гру́стно, Ни́на: путь мой ску́чен,» hai chấm). Chuẩn hoá ё theo quy ước sách: Льёт, чёрной, вёрсты. Từ trùng glossary đã có từ trước (ямщи́к, глушь) không lặp lại trong mục Từ khó mà chỉ nhắc trong chú giải."
+    },
+    {
+     "t": "para",
+     "text": "Сквозь волни́стые тума́ны (Xuyên qua màn sương mù gợn sóng)"
+    },
+    {
+     "t": "para",
+     "text": "Пробира́ется луна́, (Vầng trăng len lỏi lần đường,)"
+    },
+    {
+     "t": "para",
+     "text": "На печа́льные поля́ны (Lên những trảng đồng buồn bã)"
+    },
+    {
+     "t": "para",
+     "text": "Льёт печа́льно свет она́. (Nàng buồn bã rót ánh sáng xuống.)"
+    },
+    {
+     "t": "para",
+     "text": "По доро́ге зи́мней, ску́чной (Trên con đường mùa đông buồn tẻ)"
+    },
+    {
+     "t": "para",
+     "text": "Тро́йка бо́рзая бежи́т, (Cỗ xe tam mã lao vun vút,)"
+    },
+    {
+     "t": "para",
+     "text": "Колоко́льчик однозву́чный (Quả chuông nhỏ một âm điệu)"
+    },
+    {
+     "t": "para",
+     "text": "Утоми́тельно греми́т. (Reo hoài đến rã rời mệt mỏi.)"
+    },
+    {
+     "t": "para",
+     "text": "Что́-то слы́шится родно́е (Nghe đâu đó điều gì thân thuộc lắm)"
+    },
+    {
+     "t": "para",
+     "text": "В до́лгих пе́снях ямщика́: (Trong những khúc ca dài của bác xà ích:)"
+    },
+    {
+     "t": "para",
+     "text": "То разгу́лье удало́е, (Khi là niềm vui phóng khoáng ngang tàng,)"
+    },
+    {
+     "t": "para",
+     "text": "То серде́чная тоска́… (Khi là nỗi buồn se sắt tận đáy lòng…)"
+    },
+    {
+     "t": "para",
+     "text": "Ни огня́, ни чёрной ха́ты, (Không ánh lửa, không bóng mái nhà gỗ sạm đen,)"
+    },
+    {
+     "t": "para",
+     "text": "Глушь и снег… Навстре́чу мне (Hoang vu và tuyết… Đón gặp tôi)"
+    },
+    {
+     "t": "para",
+     "text": "То́лько вёрсты полоса́ты (Chỉ những cột verst sơn vằn)"
+    },
+    {
+     "t": "para",
+     "text": "Попада́ются одне́… (Đơn độc lần lượt hiện ra…)"
+    },
+    {
+     "t": "para",
+     "text": "Ску́чно, гру́стно… За́втра, Ни́на, (Chán ngắt, buồn tênh… Mai nhé, Nina,)"
+    },
+    {
+     "t": "para",
+     "text": "За́втра к ми́лой возвратя́сь, (Mai đây, khi đã về bên người thương,)"
+    },
+    {
+     "t": "para",
+     "text": "Я забу́дусь у ками́на, (Anh sẽ quên hết bên lò sưởi,)"
+    },
+    {
+     "t": "para",
+     "text": "Загляжу́сь не наглядя́сь. (Mải ngắm em không sao chán mắt.)"
+    },
+    {
+     "t": "para",
+     "text": "Зву́чно стре́лка часова́я (Kim đồng hồ vang tiếng ngân)"
+    },
+    {
+     "t": "para",
+     "text": "Ме́рный круг свой соверши́т, (Hoàn tất vòng quay đều đặn của mình,)"
+    },
+    {
+     "t": "para",
+     "text": "И, доку́чных удаля́я, (Và, xua xa những kẻ quấy rầy,)"
+    },
+    {
+     "t": "para",
+     "text": "По́лночь нас не разлучи́т. (Nửa đêm chẳng chia lìa đôi ta.)"
+    },
+    {
+     "t": "para",
+     "text": "Гру́стно, Ни́на: путь мой ску́чен, (Buồn lắm, Nina: đường anh đi tẻ ngắt,)"
+    },
+    {
+     "t": "para",
+     "text": "Дре́мля смо́лкнул мой ямщи́к, (Bác xà ích thiu thiu, bặt tiếng hát,)"
+    },
+    {
+     "t": "para",
+     "text": "Колоко́льчик однозву́чен, (Quả chuông nhỏ vẫn một âm đều đều,)"
+    },
+    {
+     "t": "para",
+     "text": "Отума́нен лу́нный лик. (Gương mặt trăng đã phủ mờ sương.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó"
+    },
+    {
+     "t": "vocab",
+     "ru": "волни́стый",
+     "vi": "gợn sóng, lượn sóng (волна́ — sóng; волни́стые тума́ны — màn sương gợn sóng)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "пробира́ться",
+     "vi": "len lỏi, lần dò tìm đường (пробра́ться; луна́ пробира́ется — vầng trăng len qua màn sương)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "тро́йка",
+     "vi": "cỗ xe tam mã — ba ngựa kéo song hành, biểu tượng nước Nga (три — ba)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "бо́рзый",
+     "vi": "(cổ) nhanh, lẹ làng (cùng gốc борза́я — chó săn xám; тро́йка бо́рзая — cỗ tam mã phóng nhanh)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "однозву́чный",
+     "vi": "một âm điệu, đều đều đơn điệu (оди́н + звук — âm thanh; dạng ngắn однозву́чен)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "разгу́лье",
+     "vi": "niềm vui phóng khoáng, cuộc vui thả cửa (разгуля́ться — vui chơi hết mình)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "удало́й",
+     "vi": "ngang tàng, gan dạ kiêu hùng (у́даль — khí phách táo bạo; разгу́лье удало́е)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "верста́",
+     "vi": "verst — dặm Nga cổ ≈ 1,067 km; trong bài chỉ cột verst ven đường (số nhiều вёрсты)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "полоса́тый",
+     "vi": "vằn, kẻ sọc (полоса́ — vạch, dải; dạng ngắn cổ полоса́ты — sơn vằn đen trắng)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "доку́чный",
+     "vi": "(cổ) phiền nhiễu, quấy rầy (докуча́ть — làm phiền; доку́чные — những kẻ quấy rầy)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "разлучи́ть",
+     "vi": "chia lìa, làm xa cách (разлу́ка — sự ly biệt; по́лночь нас не разлучи́т)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "отума́ненный",
+     "vi": "bị phủ mờ sương (тума́н — sương mù; dạng ngắn отума́нен — отума́нен лу́нный лик)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "смо́лкнуть",
+     "vi": "im bặt, lặng tiếng (cùng gốc умо́лкнуть, молча́ть; дре́мля смо́лкнул — thiu thiu ngủ mà bặt tiếng)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ме́рный",
+     "vi": "đều đặn, nhịp nhàng (ме́ра — mức, nhịp; ме́рный круг — vòng quay đều đặn)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

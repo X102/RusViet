@@ -1,0 +1,233 @@
+{
+ "id": "vhnga-008",
+ "num": 8,
+ "title": "«Зимнее утро» — Buổi sáng mùa đông (Pushkin)",
+ "vi": "«Зимнее утро» — Buổi sáng mùa đông (Pushkin)",
+ "ru": "Зимнее утро",
+ "icon": "🕊️",
+ "color": "#0ea5e9",
+ "sectionPrefix": "vhnga-008-s",
+ "group": "Александр Пушкин · Thơ",
+ "sections": [
+  {
+   "id": "vhnga-008-s001",
+   "type": "story",
+   "num": 8,
+   "title": "«Зимнее утро» — “Buổi sáng mùa đông” (A. Pushkin, 1829)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "«Зимнее утро» (Buổi sáng mùa đông, 1829) — một trong những bài thơ phong cảnh trữ tình tuyệt đẹp nhất của A.X. Puskin (Александр Сергеевич Пушкин, 1799–1837). Bài thơ vẽ nên buổi sáng mùa đông nước Nga rực rỡ nắng và tuyết, kèm lời mời gọi người thương cùng dạo chơi bằng xe trượt — tươi sáng đối lập với cơn bão tuyết u ám đêm trước, ngợi ca vẻ đẹp thiên nhiên và niềm vui sống."
+    },
+    {
+     "t": "para",
+     "text": "Моро́з и со́лнце; день чуде́сный! (Băng giá và nắng vàng; ngày đẹp tuyệt vời!)"
+    },
+    {
+     "t": "para",
+     "text": "Ещё ты дре́млешь, друг преле́стный — (Em vẫn còn mơ màng giấc ngủ, người thương yêu kiều diễm —)"
+    },
+    {
+     "t": "para",
+     "text": "Пора́, краса́вица, просни́сь: (Đến lúc rồi, người đẹp ơi, hãy tỉnh giấc:)"
+    },
+    {
+     "t": "para",
+     "text": "Откро́й сомкну́ты не́гой взо́ры (Hãy mở đôi mắt còn khép hờ trong êm ái)"
+    },
+    {
+     "t": "para",
+     "text": "Навстре́чу се́верной Авро́ры, (Để đón chào nàng Rạng Đông phương Bắc,)"
+    },
+    {
+     "t": "para",
+     "text": "Звездо́ю се́вера яви́сь! (Hãy hiện ra như ngôi sao của phương Bắc!)"
+    },
+    {
+     "t": "para",
+     "text": "Вечо́р, ты по́мнишь, вью́га зли́лась, (Chiều qua, em còn nhớ chăng, bão tuyết gào thét điên cuồng,)"
+    },
+    {
+     "t": "para",
+     "text": "На му́тном не́бе мгла носи́лась; (Trên bầu trời đục mờ, màn sương mù cuộn bay;)"
+    },
+    {
+     "t": "para",
+     "text": "Луна́, как бле́дное пятно́, (Vầng trăng, như một vệt nhợt nhạt,)"
+    },
+    {
+     "t": "para",
+     "text": "Сквозь ту́чи мра́чные желте́ла, (Hắt ánh vàng úa xuyên qua những đám mây u ám,)"
+    },
+    {
+     "t": "para",
+     "text": "И ты печа́льная сиде́ла — (Và em đã ngồi đó, buồn rười rượi —)"
+    },
+    {
+     "t": "para",
+     "text": "А ны́нче... погляди́ в окно́: (Còn bây giờ... em hãy nhìn ra ngoài cửa sổ:)"
+    },
+    {
+     "t": "para",
+     "text": "Под голубы́ми небеса́ми (Dưới bầu trời xanh thẳm)"
+    },
+    {
+     "t": "para",
+     "text": "Великоле́пными ковра́ми, (Như những tấm thảm lộng lẫy huy hoàng,)"
+    },
+    {
+     "t": "para",
+     "text": "Блестя́ на со́лнце, снег лежи́т; (Tuyết phủ trải dài, lấp lánh dưới nắng;)"
+    },
+    {
+     "t": "para",
+     "text": "Прозра́чный лес оди́н черне́ет, (Chỉ riêng cánh rừng trơ trụi thẫm đen,)"
+    },
+    {
+     "t": "para",
+     "text": "И ель сквозь и́ней зелене́ет, (Và cây vân sam xanh rờn qua lớp sương giá,)"
+    },
+    {
+     "t": "para",
+     "text": "И ре́чка подо льдо́м блести́т. (Và dòng sông lấp lánh dưới làn băng.)"
+    },
+    {
+     "t": "para",
+     "text": "Вся ко́мната янта́рным бле́ском (Cả căn phòng trong ánh hổ phách)"
+    },
+    {
+     "t": "para",
+     "text": "Озарена́. Весёлым тре́ском (Bừng sáng lung linh. Với tiếng nổ lách tách vui tươi)"
+    },
+    {
+     "t": "para",
+     "text": "Трещи́т зато́пленная печь. (Lò sưởi vừa nhóm reo lép bép.)"
+    },
+    {
+     "t": "para",
+     "text": "Прия́тно ду́мать у лежа́нки. (Thật dễ chịu khi ngồi mơ mộng bên bệ lò ấm.)"
+    },
+    {
+     "t": "para",
+     "text": "Но зна́ешь: не веле́ть ли в са́нки (Nhưng em biết không: hay ta cho thắng vào xe trượt tuyết)"
+    },
+    {
+     "t": "para",
+     "text": "Кобы́лку бу́рую запре́чь? (Chú ngựa cái lông nâu kia nhỉ?)"
+    },
+    {
+     "t": "para",
+     "text": "Скользя́ по у́треннему сне́гу, (Lướt êm trên lớp tuyết sớm mai,)"
+    },
+    {
+     "t": "para",
+     "text": "Друг ми́лый, предади́мся бе́гу (Em yêu dấu, ta hãy phó mình cho vó phi)"
+    },
+    {
+     "t": "para",
+     "text": "Нетерпели́вого коня́, (Của chú ngựa nóng lòng sốt ruột,)"
+    },
+    {
+     "t": "para",
+     "text": "И навести́м поля́ пусты́е, (Rồi cùng thăm lại những cánh đồng quạnh vắng,)"
+    },
+    {
+     "t": "para",
+     "text": "Леса́, неда́вно столь густы́е, (Những cánh rừng mới đây còn rậm rạp xanh um,)"
+    },
+    {
+     "t": "para",
+     "text": "И бе́рег, ми́лый для меня́. (Và bờ sông, nơi thân thương với lòng tôi.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó"
+    },
+    {
+     "t": "vocab",
+     "ru": "моро́з",
+     "vi": "băng giá, giá rét",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "чуде́сный",
+     "vi": "kỳ diệu, tuyệt đẹp",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "дрема́ть",
+     "vi": "thiu thiu ngủ, mơ màng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "преле́стный",
+     "vi": "kiều diễm, duyên dáng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "взор",
+     "vi": "ánh mắt, cái nhìn (lối thơ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "вью́га",
+     "vi": "bão tuyết",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "мгла",
+     "vi": "màn sương mù mịt, bóng mờ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "мра́чный",
+     "vi": "u ám, tối tăm",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ковёр",
+     "vi": "tấm thảm",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "блесте́ть",
+     "vi": "lấp lánh, lóng lánh",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "и́ней",
+     "vi": "sương giá, sương muối",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "янта́рный",
+     "vi": "(màu) hổ phách",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "озари́ть",
+     "vi": "chiếu sáng, làm bừng sáng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "лежа́нка",
+     "vi": "bệ lò sưởi (để nằm/ngồi sưởi ấm)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

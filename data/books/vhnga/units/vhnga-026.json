@@ -1,0 +1,385 @@
+{
+ "id": "vhnga-026",
+ "num": 26,
+ "title": "«Ванька» — Bé Vanka (Chekhov)",
+ "vi": "«Ванька» — Bé Vanka (Chekhov)",
+ "ru": "Ванька",
+ "icon": "✉️",
+ "color": "#be123c",
+ "sectionPrefix": "vhnga-026-s",
+ "group": "Антон Чехов · Truyện ngắn",
+ "sections": [
+  {
+   "id": "vhnga-026-s001",
+   "type": "story",
+   "num": 1,
+   "title": "«Ванька» — “Bé Vanka” (A. Chekhov, 1886) — trọn tác phẩm",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "A.P. Sê-khốp (Анто́н Па́влович Че́хов, 1860–1904) — bậc thầy truyện ngắn của văn học Nga. «Ванька» (Bé Vanka, 1886) đăng lần đầu trên «Петербургская газета» số Giáng sinh 25-12-1886, ký bút danh А. Чехонте; Lev Tolstoy xếp truyện này vào nhóm hay nhất của Chekhov. Đây là TRỌN VẸN tác phẩm. Đêm trước Giáng sinh, cậu bé mồ côi chín tuổi Vanka Zhukov — đi ở học việc nhà thợ giày tại Mátxcơva — lén viết thư cho ông nội ở quê, kể nỗi tủi cực bị đánh đập, bỏ đói, và van xin ông đón về. Lá thư xen kẽ những hồi ức ấm áp về làng quê: ông gác đêm hóm hỉnh, hai chú chó, đêm tuyết sao, buổi đốn thông Nô-en. Bi kịch nén trong chi tiết hài bất hủ: em đề địa chỉ «На дере́вню де́душке» (Gửi ông nội, ở nhà quê) — lá thư sẽ không bao giờ tới tay ông; câu này đã thành thành ngữ Nga chỉ thư từ gửi đi vô vọng, không địa chỉ. Truyện khép lại bằng giấc mơ êm đềm của em — đỉnh cao thủ pháp «cười ra nước mắt». Đặc sắc ngôn ngữ: lời thư đầy lỗi nhà quê chủ ý của trẻ con: вчера́сь = вчера́ (hôm qua), е́йной = её, и́хний = их, отсе́да = отсю́да, а́ли = и́ли, заме́сто = вме́сто, ка́жное = ка́ждое, сто́ющие = сто́ящие."
+    },
+    {
+     "t": "para",
+     "text": "Ва́нька Жу́ков, девятиле́тний ма́льчик, о́тданный три ме́сяца тому́ наза́д в уче́нье к сапо́жнику Аля́хину, в ночь под Рождество́ не ложи́лся спать. (Vanka Zhukov, cậu bé chín tuổi bị đem gửi học việc ở nhà lão thợ giày Alyakhin từ ba tháng trước, đêm trước lễ Giáng sinh không đi ngủ.)"
+    },
+    {
+     "t": "para",
+     "text": "Дожда́вшись, когда́ хозя́ева и подмасте́рья ушли́ к зау́трене, он доста́л из хозя́йского шка́па пузырёк с черни́лами, ру́чку с заржа́вленным перо́м и, разложи́в пе́ред собо́й измя́тый лист бума́ги, стал писа́ть. (Đợi cho vợ chồng chủ và đám thợ phụ đi lễ sớm cả rồi, em lấy từ trong tủ của chủ ra một lọ mực con, một cây bút cắm ngòi đã han gỉ, trải tờ giấy nhàu nát ra trước mặt và bắt đầu viết.)"
+    },
+    {
+     "t": "para",
+     "text": "Пре́жде чем вы́вести пе́рвую бу́кву, он не́сколько раз пугли́во огляну́лся на две́ри и о́кна, покоси́лся на тёмный о́браз, по о́бе сто́роны кото́рого тяну́лись по́лки с коло́дками, и преры́висто вздохну́л. (Trước khi nắn nót con chữ đầu tiên, em mấy lần sợ sệt ngoái nhìn ra phía cửa lớn cửa sổ, liếc lên tấm tượng thánh tối sẫm có hai dãy kệ chất đầy cốt giày hai bên, rồi thở dài đứt quãng.)"
+    },
+    {
+     "t": "para",
+     "text": "Бума́га лежа́ла на скамье́, а сам он стоя́л пе́ред скамьёй на коле́нях. (Tờ giấy đặt trên ghế dài, còn em thì quỳ trước ghế.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ми́лый де́душка, Константи́н Мака́рыч! — писа́л он. — И пишу́ тебе́ письмо́. («Ông yêu quý của cháu, ông Konstantin Makarych! — em viết. — Và cháu viết thư cho ông đây.)"
+    },
+    {
+     "t": "para",
+     "text": "Поздравля́ю вас с Рождество́м и жела́ю тебе́ всего́ от го́спода бо́га. (Cháu chúc mừng ông lễ Giáng sinh và cầu đức Chúa trời ban cho ông mọi sự lành.)"
+    },
+    {
+     "t": "para",
+     "text": "Не́ту у меня́ ни отца́, ни ма́меньки, то́лько ты у меня́ оди́н оста́лся». (Cháu chẳng còn cha cũng chẳng còn mẹ, cháu chỉ còn lại mỗi mình ông thôi».)"
+    },
+    {
+     "t": "para",
+     "text": "Ва́нька перевёл глаза́ на тёмное окно́, в кото́ром мелька́ло отраже́ние его́ све́чки, и жи́во вообрази́л себе́ своего́ де́да Константи́на Мака́рыча, служа́щего ночны́м сто́рожем у госпо́д Живаре́вых. (Vanka đưa mắt nhìn ô cửa sổ tối om thấp thoáng bóng ngọn nến của mình, và hình dung ra rõ mồn một ông nội Konstantin Makarych, người gác đêm cho nhà chủ Zhivarev.)"
+    },
+    {
+     "t": "para",
+     "text": "Э́то ма́ленький, то́щенький, но необыкнове́нно ю́ркий и подвижно́й старика́шка лет шести́десяти пяти́, с ве́чно смею́щимся лицо́м и пья́ными глаза́ми. (Đó là một ông lão nhỏ thó, gầy guộc, nhưng nhanh nhẹn hoạt bát lạ thường, trạc sáu mươi lăm tuổi, gương mặt lúc nào cũng cười và đôi mắt lờ đờ hơi men.)"
+    },
+    {
+     "t": "para",
+     "text": "Днём он спит в людско́й ку́хне и́ли балагу́рит с куха́рками, но́чью же, оку́танный в просто́рный тулу́п, хо́дит вокру́г уса́дьбы и стучи́т в свою́ колоту́шку. (Ban ngày lão ngủ trong gian bếp của kẻ ăn người ở hoặc tán chuyện vui với mấy chị bếp, còn ban đêm, trùm tấm áo da lông rộng thùng thình, lão đi quanh trang viên gõ chiếc mõ canh của mình.)"
+    },
+    {
+     "t": "para",
+     "text": "За ним, опусти́в го́ловы, шага́ют ста́рая Кашта́нка и кобелёк Вьюн, про́званный так за свой чёрный цвет и те́ло, дли́нное, как у ла́ски. (Lẽo đẽo theo sau, đầu cúi gằm, là con Kashtanka già và chú chó đực nhỏ Vyun — «Lươn» — gọi thế vì bộ lông đen và tấm thân dài ngoẵng như con chồn.)"
+    },
+    {
+     "t": "para",
+     "text": "Э́тот Вьюн необыкнове́нно почти́телен и ла́сков, одина́ково уми́льно смо́трит как на свои́х, так и на чужи́х, но креди́том не по́льзуется. (Chú Vyun này lễ phép và quấn quýt lạ thường, nhìn người nhà cũng như người lạ đều bằng ánh mắt ngọt xớt như nhau, ấy thế mà chẳng được ai tin cậy.)"
+    },
+    {
+     "t": "para",
+     "text": "Под его́ почти́тельностью и смире́нием скрыва́ется са́мое иезуи́тское ехи́дство. (Đằng sau vẻ cung kính và nhu mì ấy ẩn giấu một thói nham hiểm ranh ma nhất hạng.)"
+    },
+    {
+     "t": "para",
+     "text": "Никто́ лу́чше его́ не уме́ет во́время подкра́сться и ца́пнуть за́ ногу, забра́ться в ледни́к и́ли укра́сть у мужика́ ку́рицу. (Chẳng ai bằng được nó cái tài rình đúng lúc lẻn tới đớp trộm vào chân người ta, chui vào hầm ướp đá hay xoáy gà của nhà nông.)"
+    },
+    {
+     "t": "para",
+     "text": "Ему́ уж не раз отбива́ли за́дние но́ги, ра́за два его́ ве́шали, ка́ждую неде́лю поро́ли до полусме́рти, но он всегда́ ожива́л. (Nó đã hơn một lần bị đánh què hai chân sau, đôi lần bị đem treo cổ, tuần nào cũng bị quật cho thừa sống thiếu chết, vậy mà lần nào nó cũng sống lại.)"
+    },
+    {
+     "t": "para",
+     "text": "Тепе́рь, наве́рно, дед стои́т у воро́т, щу́рит глаза́ на я́рко-кра́сные о́кна дереве́нской це́ркви и, прито́пывая ва́ленками, балагу́рит с дворнёй. (Giờ này hẳn ông đang đứng bên cổng, nheo mắt nhìn những ô cửa sổ đỏ rực của ngôi nhà thờ làng, đôi ủng dạ giậm giậm cho ấm, pha trò với đám gia nhân.)"
+    },
+    {
+     "t": "para",
+     "text": "Колоту́шка его́ подвя́зана к по́ясу. Он вспле́скивает рука́ми, пожима́ется от хо́лода и, ста́рчески хихи́кая, щи́плет то го́рничную, то куха́рку. (Chiếc mõ canh buộc bên thắt lưng. Lão vung vẩy hai tay, co ro vì rét, và vừa khúc khích cái cười già nua, vừa véo chị hầu phòng một cái, chị bếp một cái.)"
+    },
+    {
+     "t": "para",
+     "text": "— Табачку́ не́што нам поню́хать? — говори́т он, подставля́я ба́бам свою́ табаке́рку. (— Ta làm tí thuốc hít chăng? — lão nói, chìa hộp thuốc lá hít của mình cho mấy người đàn bà.)"
+    },
+    {
+     "t": "para",
+     "text": "Ба́бы ню́хают и чиха́ют. Дед прихо́дит в неопи́санный восто́рг, залива́ется весёлым сме́хом и кричи́т: (Mấy người đàn bà hít rồi hắt hơi lia lịa. Ông lão khoái chí không bút nào tả xiết, cười vang giòn giã và kêu lên:)"
+    },
+    {
+     "t": "para",
+     "text": "— Отдира́й, примёрзло! (— Gỡ ra đi, dính cứng cả vào rồi kìa!)"
+    },
+    {
+     "t": "para",
+     "text": "Даю́т поню́хать табаку́ и соба́кам. Кашта́нка чиха́ет, кру́тит мо́рдой и, оби́женная, отхо́дит в сто́рону. (Họ cho cả mấy con chó hít thuốc. Kashtanka hắt hơi, ngúc ngoắc mõm, hờn dỗi bỏ ra một góc.)"
+    },
+    {
+     "t": "para",
+     "text": "Вьюн же из почти́тельности не чиха́ет и верти́т хвосто́м. (Còn Vyun thì vì giữ lễ mà nhịn hắt hơi, chỉ ve vẩy đuôi.)"
+    },
+    {
+     "t": "para",
+     "text": "А пого́да великоле́пная. Во́здух тих, прозра́чен и свеж. (Mà trời đêm thì tuyệt đẹp. Không khí lặng tờ, trong vắt và tươi mát.)"
+    },
+    {
+     "t": "para",
+     "text": "Ночь темна́, но ви́дно всю дере́вню с её бе́лыми кры́шами и стру́йками ды́ма, иду́щими из труб, дере́вья, посеребрённые и́неем, сугро́бы. (Đêm tối, nhưng vẫn nhìn thấy cả làng quê với những mái nhà trắng xoá, những sợi khói mảnh bay lên từ ống khói, những hàng cây phủ sương muối ánh bạc, những đụn tuyết.)"
+    },
+    {
+     "t": "para",
+     "text": "Всё не́бо усы́пано ве́село мига́ющими звёздами, и Мле́чный Путь вырисо́вывается так я́сно, как бу́дто его́ пе́ред пра́здником помы́ли и потёрли сне́гом... (Cả bầu trời rắc đầy những vì sao nhấp nháy vui tươi, và dải Ngân Hà hiện ra rõ nét, tựa hồ trước ngày lễ người ta đã đem cọ rửa rồi lấy tuyết chà cho bóng...)"
+    },
+    {
+     "t": "para",
+     "text": "Ва́нька вздохну́л, умакну́л перо́ и продолжа́л писа́ть: (Vanka thở dài, chấm ngòi bút vào mực rồi viết tiếp:)"
+    },
+    {
+     "t": "para",
+     "text": "«А вчера́сь мне была́ вы́волочка. Хозя́ин вы́волок меня́ за воло́сья на двор и отчеса́л шпанды́рем за то, что я кача́л и́хнего ребятёнка в лю́льке и по неча́янности засну́л. («Hôm qua cháu vừa bị một trận đòn. Ông chủ túm tóc cháu lôi xềnh xệch ra sân, lấy dây da quật cho một chặp, tại cháu đưa nôi ru con nhỏ nhà họ mà lỡ ngủ quên mất.)"
+    },
+    {
+     "t": "para",
+     "text": "А на неде́ле хозя́йка веле́ла мне почи́стить селёдку, а я на́чал с хвоста́, а она́ взяла́ селёдку и е́йной мо́рдой начала́ меня́ в ха́рю ты́кать. (Còn hồi đầu tuần, bà chủ sai cháu làm con cá trích, cháu lại làm từ đằng đuôi, thế là bà ấy vớ ngay con cá, cứ lấy cái mõm nó mà dí vào mặt cháu.)"
+    },
+    {
+     "t": "para",
+     "text": "Подмасте́рья на́до мной насмеха́ются, посыла́ют в каба́к за во́дкой и веля́т красть у хозя́ев огурцы́, а хозя́ин бьёт чем попа́дя. (Đám thợ phụ thì giễu cợt cháu, sai cháu chạy ra quán rượu mua vodka, xui cháu ăn cắp dưa chuột của chủ, còn ông chủ vớ được cái gì là nện cháu bằng cái ấy.)"
+    },
+    {
+     "t": "para",
+     "text": "А еды́ не́ту никако́й. У́тром даю́т хле́ба, в обе́д ка́ши и к ве́черу то́же хле́ба, а чтоб ча́ю и́ли щей, то хозя́ева са́ми треска́ют. (Mà ăn uống thì chẳng có gì sất. Sáng cho mẩu bánh mì, trưa được tí cháo đặc, chiều tối lại bánh mì; còn nước trà hay súp bắp cải thì chủ nhà chén sạch cả.)"
+    },
+    {
+     "t": "para",
+     "text": "А спать мне веля́т в сеня́х, а когда́ ребятёнок и́хний пла́чет, я во́все не сплю, а кача́ю лю́льку. (Ngủ thì họ bắt cháu nằm ngoài gian ngoài, mà hễ con nhỏ nhà họ khóc là cháu chẳng được chợp mắt, cứ phải đưa nôi.)"
+    },
+    {
+     "t": "para",
+     "text": "Ми́лый де́душка, сде́лай боже́цкую ми́лость, возьми́ меня́ отсю́да домо́й, на дере́вню, не́ту никако́й мое́й возмо́жности... (Ông ơi, ông yêu quý, ông làm phúc làm đức đón cháu khỏi chốn này về nhà, về làng đi, cháu không còn cách nào sống nổi nữa...)"
+    },
+    {
+     "t": "para",
+     "text": "Кла́няюсь тебе́ в но́жки и бу́ду ве́чно бо́га моли́ть, увези́ меня́ отсю́да, а то помру́...» (Cháu xin lạy ông sát đất, cháu sẽ đời đời cầu Chúa cho ông, ông đem cháu đi khỏi đây, kẻo cháu chết mất...»)"
+    },
+    {
+     "t": "para",
+     "text": "Ва́нька покриви́л рот, потёр свои́м чёрным кулако́м глаза́ и всхли́пнул. (Vanka mếu xệch miệng, đưa nắm tay đen nhẻm lên dụi mắt và nấc lên một tiếng.)"
+    },
+    {
+     "t": "para",
+     "text": "«Я бу́ду тебе́ таба́к тере́ть, — продолжа́л он, — бо́гу моли́ться, а е́сли что, то секи́ меня́ как си́дорову козу́. («Cháu sẽ tán thuốc lá cho ông, — em viết tiếp, — sẽ cầu Chúa, còn nếu cháu hư thì ông cứ quật cháu như người ta quật con dê nhà Sidor.)"
+    },
+    {
+     "t": "para",
+     "text": "А е́жели ду́маешь, до́лжности мне не́ту, то я Христа́ ра́ди попрошу́сь к прика́зчику сапоги́ чи́стить, а́ли заме́сто Фе́дьки в подпа́ски пойду́. (Còn nếu ông nghĩ chẳng có việc gì cho cháu, thì cháu sẽ vì danh Chúa xin chân đánh giày cho ông quản lý, hay thế chỗ thằng Fedka đi phụ chăn cừu cũng được.)"
+    },
+    {
+     "t": "para",
+     "text": "Де́душка ми́лый, не́ту никако́й возмо́жности, про́сто смерть одна́. (Ông ơi ông yêu quý, cháu không tài nào chịu nổi nữa, cứ gọi là chỉ còn nước chết thôi.)"
+    },
+    {
+     "t": "para",
+     "text": "Хоте́л бы́ло пешко́м на дере́вню бежа́ть, да сапого́в не́ту, моро́зу бою́сь. (Cháu đã toan cuốc bộ trốn về làng, nhưng chẳng có ủng, lại sợ rét cóng.)"
+    },
+    {
+     "t": "para",
+     "text": "А когда́ вы́расту большо́й, то за э́то са́мое бу́ду тебя́ корми́ть и в оби́ду никому́ не дам, а помрёшь, ста́ну за упоко́й души́ моли́ть, всё равно́ как за ма́мку Пелаге́ю. (Mai kia lớn khôn, cháu sẽ vì ơn này mà nuôi ông, chẳng để ai bắt nạt ông, còn khi ông trăm tuổi, cháu sẽ cầu cho linh hồn ông yên nghỉ, y như cầu cho mẹ Pelageya vậy.)"
+    },
+    {
+     "t": "para",
+     "text": "А Москва́ го́род большо́й. Дома́ всё госпо́дские и лошаде́й мно́го, а ове́ц не́ту и соба́ки не злы́е. (Còn Mátxcơva là thành phố lớn lắm ông ạ. Nhà toàn dinh thự của các ông lớn, ngựa thì nhiều, nhưng cừu thì chẳng có, mà chó cũng chẳng dữ.)"
+    },
+    {
+     "t": "para",
+     "text": "Со звездо́й тут ребя́та не хо́дят и на кли́рос петь никого́ не пуща́ют, а раз я вида́л в одно́й ла́вке на окне́ крючки́ продаю́тся пря́мо с ле́ской и на вся́кую ры́бу, о́чень сто́ющие, да́же тако́й есть оди́н крючо́к, что пудо́вого сома́ уде́ржит. (Ở đây bọn trẻ không rước sao đi hát mừng Giáng sinh, cũng chẳng ai được cho lên chỗ ca đoàn mà hát; có lần cháu thấy trong tủ kính một hiệu nọ bày bán lưỡi câu có sẵn cả cước, câu được đủ thứ cá, quý lắm, thậm chí có một cái lưỡi câu giữ nổi con cá nheo nặng cả pút.)"
+    },
+    {
+     "t": "para",
+     "text": "И вида́л кото́рые ла́вки, где ру́жья вся́кие на мане́р ба́риновых, так что небо́сь рубле́й сто ка́жное... (Cháu còn thấy mấy hiệu bán đủ loại súng săn giống hệt súng của quan chủ, chắc phải đến trăm rúp một khẩu...)"
+    },
+    {
+     "t": "para",
+     "text": "А в мясны́х ла́вках и тетерева́, и ря́бцы, и за́йцы, а в кото́ром ме́сте их стреля́ют, про то сиде́льцы не ска́зывают. (Còn hàng thịt thì có cả gà gô đen, gà gô rừng, cả thỏ rừng nữa, nhưng bắn được ở chỗ nào thì mấy người bán hàng chẳng chịu nói.)"
+    },
+    {
+     "t": "para",
+     "text": "Ми́лый де́душка, а когда́ у госпо́д бу́дет ёлка с гости́нцами, возьми́ мне золочёный оре́х и в зелёный сундучо́к спрячь. Попроси́ у ба́рышни О́льги Игна́тьевны, скажи́, для Ва́ньки». (Ông yêu quý ơi, đến khi nhà chủ bày cây thông Nô-en treo quà, ông lấy cho cháu quả hạch mạ vàng, cất vào cái hòm con màu xanh nhé. Ông cứ xin cô chủ Olga Ignatyevna, bảo là xin cho thằng Vanka».)"
+    },
+    {
+     "t": "para",
+     "text": "Ва́нька су́дорожно вздохну́л и опя́ть уста́вился на окно́. Он вспо́мнил, что за ёлкой для госпо́д всегда́ ходи́л в лес дед и брал с собо́ю вну́ка. (Vanka thở hắt ra một hơi run rẩy rồi lại đăm đăm nhìn ra cửa sổ. Em nhớ ngày trước bao giờ ông cũng là người vào rừng đốn thông cho nhà chủ, và dắt cháu đi theo.)"
+    },
+    {
+     "t": "para",
+     "text": "Весёлое бы́ло вре́мя! И дед кря́кал, и моро́з кря́кал, а гля́дя на них, и Ва́нька кря́кал. (Ôi cái thuở vui sao là vui! Ông khà một tiếng, trời băng giá cũng kêu răng rắc, mà nhìn hai «ông» ấy, Vanka cũng khà theo.)"
+    },
+    {
+     "t": "para",
+     "text": "Быва́ло, пре́жде чем вы́рубить ёлку, дед выку́ривает тру́бку, до́лго ню́хает таба́к, посме́ивается над озя́бшим Ва́нюшкой... (Thường trước khi hạ cây thông, ông còn hút cho xong tẩu thuốc, hít thuốc lá hồi lâu, cười cợt chú bé Vanyushka đang cóng người vì rét...)"
+    },
+    {
+     "t": "para",
+     "text": "Молоды́е ёлки, оку́танные и́неем, стоя́т неподви́жно и ждут, кото́рой из них помира́ть? (Những cây thông non phủ kín sương muối đứng lặng im, chờ xem cây nào trong bọn mình phải chết?)"
+    },
+    {
+     "t": "para",
+     "text": "Отку́да ни возьми́сь, по сугро́бам лети́т стрело́й за́яц... Дед не мо́жет, чтоб не кри́кнуть: (Chẳng biết từ đâu, một chú thỏ rừng phóng vút như tên qua các đụn tuyết... Ông không sao nhịn nổi, thét lên:)"
+    },
+    {
+     "t": "para",
+     "text": "— Держи́, держи́... держи́! Ах, ку́цый дья́вол! (— Bắt lấy, bắt lấy... bắt lấy nó! A, con quỷ cộc đuôi!)"
+    },
+    {
+     "t": "para",
+     "text": "Сру́бленную ёлку дед тащи́л в госпо́дский дом, а там принима́лись убира́ть её... (Cây thông đốn xong, ông kéo về nhà chủ, ở đó người ta xúm vào trang hoàng...)"
+    },
+    {
+     "t": "para",
+     "text": "Бо́льше всех хлопота́ла ба́рышня О́льга Игна́тьевна, люби́мица Ва́ньки. (Tíu tít hơn cả là cô chủ Olga Ignatyevna, người mà Vanka quý nhất.)"
+    },
+    {
+     "t": "para",
+     "text": "Когда́ ещё была́ жива́ Ва́нькина мать Пелаге́я и служи́ла у госпо́д в го́рничных, О́льга Игна́тьевна корми́ла Ва́ньку леденца́ми и от не́чего де́лать вы́учила его́ чита́ть, писа́ть, счита́ть до ста и да́же танцева́ть кадри́ль. (Hồi mẹ Vanka — chị Pelageya — còn sống và làm hầu phòng cho nhà chủ, cô Olga Ignatyevna thường cho Vanka kẹo, và những lúc rỗi rãi chẳng biết làm gì, cô dạy em đọc, viết, đếm đến một trăm, thậm chí cả nhảy điệu quadrille.)"
+    },
+    {
+     "t": "para",
+     "text": "Когда́ же Пелаге́я умерла́, сироту́ Ва́ньку спрова́дили в людску́ю ку́хню к де́ду, а из ку́хни — в Москву́ к сапо́жнику Аля́хину... (Đến khi chị Pelageya mất, người ta đẩy đứa trẻ mồ côi Vanka xuống gian bếp gia nhân ở với ông, rồi từ gian bếp lại đẩy lên Mátxcơva cho lão thợ giày Alyakhin...)"
+    },
+    {
+     "t": "para",
+     "text": "«Приезжа́й, ми́лый де́душка, — продолжа́л Ва́нька, — Христо́м-бо́гом тебя́ молю́, возьми́ меня́ отсе́да. («Ông lên đây đi, ông yêu quý, — Vanka viết tiếp, — cháu lạy Chúa van ông, ông đem cháu đi khỏi chốn này.)"
+    },
+    {
+     "t": "para",
+     "text": "Пожале́й ты меня́, сироту́ несча́стную, а то меня́ все колотя́т и ку́шать страсть хо́чется, а ску́ка така́я, что и сказа́ть нельзя́, всё пла́чу. (Ông thương lấy cháu, đứa mồ côi khốn khổ này, chứ ở đây ai cũng đánh cháu, cháu thèm ăn ơi là thèm, còn buồn tủi thì không lời nào nói nổi, cháu cứ khóc hoài.)"
+    },
+    {
+     "t": "para",
+     "text": "А наме́дни хозя́ин коло́дкой по голове́ уда́рил, так что упа́л и наси́лу очу́хался. (Bữa nọ ông chủ lấy cốt giày phang vào đầu cháu, cháu ngã lăn quay, mãi mới hoàn hồn.)"
+    },
+    {
+     "t": "para",
+     "text": "Пропа́щая моя́ жизнь, ху́же соба́ки вся́кой... (Đời cháu thế là bỏ đi, khổ hơn cả kiếp chó...)"
+    },
+    {
+     "t": "para",
+     "text": "А ещё кла́няюсь Алёне, криво́му Его́рке и ку́черу, а гармо́нию мою́ никому́ не отдава́й. Остаю́сь твой внук Ива́н Жу́ков, ми́лый де́душка, приезжа́й». (Cháu còn gửi lời thăm chị Alyona, anh Egorka chột mắt và bác đánh xe; còn cây phong cầm của cháu, ông đừng cho ai nhé. Cháu của ông — Ivan Zhukov; ông yêu quý ơi, ông lên nhé».)"
+    },
+    {
+     "t": "para",
+     "text": "Ва́нька сверну́л вче́тверо испи́санный лист и вложи́л его́ в конве́рт, ку́пленный накану́не за копе́йку... Поду́мав немно́го, он умакну́л перо́ и написа́л а́дрес: (Vanka gấp tư tờ giấy đã viết kín và bỏ vào chiếc phong bì mua hôm trước giá một kopeck... Ngẫm nghĩ một lát, em chấm bút và viết địa chỉ:)"
+    },
+    {
+     "t": "para",
+     "text": "На дере́вню де́душке. (Gửi ông nội, ở nhà quê.)"
+    },
+    {
+     "t": "para",
+     "text": "Пото́м почеса́лся, поду́мал и приба́вил: «Константи́ну Мака́рычу». (Rồi em gãi đầu, nghĩ thêm một lát, viết bổ sung: «Kính gửi ông Konstantin Makarych».)"
+    },
+    {
+     "t": "para",
+     "text": "Дово́льный тем, что ему́ не помеша́ли писа́ть, он наде́л ша́пку и, не набра́сывая на себя́ шубе́йки, пря́мо в руба́хе вы́бежал на у́лицу... (Hớn hở vì không ai quấy rầy mình lúc viết thư, em đội mũ, chẳng buồn khoác chiếc áo lông cũn cỡn, cứ phong phanh áo cánh chạy ù ra phố...)"
+    },
+    {
+     "t": "para",
+     "text": "Сиде́льцы из мясно́й ла́вки, кото́рых он расспра́шивал накану́не, сказа́ли ему́, что пи́сьма опуска́ются в почто́вые я́щики, а из я́щиков развозя́тся по всей земле́ на почто́вых тро́йках с пья́ными ямщика́ми и зво́нкими колоко́льцами. (Mấy người bán hàng thịt mà hôm trước em gặng hỏi đã bảo em rằng: thư thì bỏ vào hòm thư, rồi từ hòm thư người ta chở đi khắp mặt đất trên những cỗ xe tam mã trạm, với những bác xà ích say mèm và tiếng lục lạc leng keng.)"
+    },
+    {
+     "t": "para",
+     "text": "Ва́нька добежа́л до пе́рвого почто́вого я́щика и су́нул драгоце́нное письмо́ в щель... (Vanka chạy một mạch tới cái hòm thư đầu tiên, đút lá thư quý giá vào khe...)"
+    },
+    {
+     "t": "para",
+     "text": "Убаю́канный сла́дкими наде́ждами, он час спустя́ кре́пко спал... (Được những hy vọng ngọt ngào ru êm, một giờ sau em đã ngủ say...)"
+    },
+    {
+     "t": "para",
+     "text": "Ему́ сни́лась пе́чка. На печи́ сиди́т дед, све́сив босы́е но́ги, и чита́ет письмо́ куха́ркам... (Em mơ thấy chiếc lò sưởi. Trên lò, ông ngồi buông thõng đôi chân trần, đọc lá thư cho mấy chị bếp nghe...)"
+    },
+    {
+     "t": "para",
+     "text": "О́коло пе́чи хо́дит Вьюн и верти́т хвосто́м... (Quanh lò, chú Vyun đi đi lại lại, ve vẩy đuôi...)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó"
+    },
+    {
+     "t": "vocab",
+     "ru": "сапо́жник",
+     "vi": "thợ đóng giày, thợ giày",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "отда́ть в уче́нье",
+     "vi": "đem gửi (đi ở) học việc; уче́нье — việc học, học nghề",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "подмасте́рье",
+     "vi": "thợ phụ, thợ bạn (người đã qua học việc, làm dưới quyền thợ cả)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "зау́треня",
+     "vi": "lễ sớm (lễ nhà thờ trước rạng sáng; đêm Giáng sinh cả nhà đi lễ này)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ночно́й сто́рож",
+     "vi": "người gác đêm",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "тулу́п",
+     "vi": "áo khoác da lông cừu (áo rét dân dã Nga)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "колоту́шка",
+     "vi": "mõ canh (người gác đêm vừa đi vừa gõ để báo mình đang thức canh)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "табаке́рка",
+     "vi": "hộp thuốc lá hít (ню́хать таба́к — hít thuốc lá bột)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "вы́волочка",
+     "vi": "(khẩu ngữ) trận đòn lôi xềnh xệch (вы́волочь — lôi ra)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "лю́лька",
+     "vi": "cái nôi (кача́ть лю́льку — đưa nôi)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "сирота́",
+     "vi": "trẻ mồ côi",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "почто́вый я́щик",
+     "vi": "hòm thư, thùng thư bưu điện",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ямщи́к",
+     "vi": "xà ích trạm (người đánh xe ngựa chở thư, chở khách đường trạm thời xưa)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ёлка",
+     "vi": "cây vân sam; cây thông Nô-en (ёлка с гости́нцами — cây thông treo quà)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

@@ -96,6 +96,7 @@
     setBook(id){ curBook=id; if(maps[id])curMap=maps[id]; else ensure(id); },
     ready(){ return ensure(curBook); },
     map:()=>curMap, externals, linkRow, open, resolve, online,
+    resetGlobal(){ globalMap=null; allCache=null; initCache=null; },
     dictCount(){ return buildGlobal().size; },
     initials(){ if(initCache) return initCache; const set=new Set();
       for(const e of RG.dict.allEntries()) set.add(RG.dict.initial(e));
@@ -128,9 +129,11 @@
             rf.appendChild(a); pop.appendChild(rf); }
           if(e.src) pop.appendChild(el('div',{class:'dsrc'}, '· '+e.src));
         }
-        pop.appendChild(el('div',{class:'row'},
+        const row=el('div',{class:'row'},
           el('button',{class:'btn sm',onclick:ev=>{ev.stopPropagation();RG.tts.speak(say);}},'🔊 Nghe'),
-          el('button',{class:'btn sm',onclick:ev=>{ev.stopPropagation();RG.store.grade(k,true);RG.util.toast('Đã thêm vào flashcard');}},'➕ Lưu thẻ')));
+          el('button',{class:'btn sm',onclick:ev=>{ev.stopPropagation();RG.store.grade(k,true);RG.util.toast('Đã thêm vào flashcard');}},'➕ Lưu thẻ'));
+        if(RG.hanzi && isZh(word)) row.appendChild(el('button',{class:'btn sm primary',onclick:ev=>{ev.stopPropagation();hide();RG.hanzi.show(word);}},'✍️ Cách viết'));
+        pop.appendChild(row);
         if(!e || e.composed || !e.vi){
           const od=el('div',{class:'donline'}); pop.appendChild(od);
           const run=()=>{ od.innerHTML=''; od.appendChild(el('div',{class:'px'},'🌐 Đang tra online…'));

@@ -1,0 +1,343 @@
+{
+ "id": "skazki1-078",
+ "num": 78,
+ "title": "Иван Попялов — Ivan Tro Bếp",
+ "vi": "Иван Попялов — Ivan Tro Bếp",
+ "ru": "Иван Попялов",
+ "icon": "🌅",
+ "color": "#1e3a8a",
+ "sectionPrefix": "skazki1-078-s",
+ "group": "Truyện № 101–140",
+ "sections": [
+  {
+   "id": "skazki1-078-s001",
+   "type": "story",
+   "num": 135,
+   "title": "№ 135 · Иван Попялов — Ivan Tro Bếp",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Dạng Belarus của kiểu truyện dũng sĩ diệt mãng xà (ATU 300), cùng họ với «Покатигорошек» №133–134: chàng út nằm lì trong tro bếp mười hai năm rồi rũ mình đứng dậy thành tráng sĩ; vương quốc chìm trong đêm vì mãng xà — đập vỡ đầu xà thì «ánh sáng trắng» trở về khắp xứ; ba lần thử chuỳ 5–10–15 pud bằng trán và đầu gối; ba trận dưới gầm sàn với mãng xà 3–6–12 đầu (công thức ngựa vấp – chó tru – chim ưng xao xác); các con gái xà hoá gối lụa, cây táo vàng, mạch nước để báo thù; mụ xà há mõm từ trời xuống đất, bị lừa nuốt ba pud muối; kết ở lò rèn của Kuzma và Demyan — hai vị thánh thợ rèn trong tín ngưỡng dân gian Đông Slav — kẹp lưỡi mụ bằng kìm nung đỏ, nện búa, đốt xác rải tro theo gió. QUY ƯỚC: Иван По́пялов = Ivan Popyalov — chàng Ivan Tro Bếp (по́пял = tro), куцаба́ = cây chuỳ, пад масто́м = dưới gầm sàn ván, Кузьма и Демьян = Kuzma và Demyan. Văn bản phương ngữ Belarus pha Nga (ён, ка́жа, едя, гаво́ря, бицца, яны…), giữ nguyên chính tả và trọng âm in gốc (сына̀, по́пяле, угару́, дамов dao động với дамо́в…); vết in: «конь, спаткну́вся» thừa dấu phẩy sau «конь»; đã chuẩn hoá 6 vết footnote (khoảng trắng thừa quanh dấu câu sau по́пяле/затвеле́в/аддышем»/крыница/праглинуть/убачила)."
+    },
+    {
+     "t": "para",
+     "text": "Жил сабе дед да баба, и было у них три сына̀: два разумных, а третий дурень — по имяни Иван, по прозванию По́пялов. (Ngày xưa có hai ông bà lão sinh được ba người con trai: hai người khôn ngoan, còn người thứ ba ngốc nghếch — tên là Ivan, tục gọi Popyalov, chàng Tro Bếp.)"
+    },
+    {
+     "t": "para",
+     "text": "Ён двенадцать лет ляжав у по́пяле, вопасля́ таго встав из по́пялу и як стряхнувся, дак из яго злятело шесть пудов по́пялу. (Chàng nằm lì trong tro bếp suốt mười hai năm, sau đó mới đứng dậy bước ra khỏi đống tro, và vừa rũ mình một cái thì sáu pud tro rơi lả tả khỏi người.)"
+    },
+    {
+     "t": "para",
+     "text": "В том царстве, где жив Иван, не было дня, а всё ночь; ета зрабив змей. (Ở vương quốc nơi Ivan sống không có ban ngày, chỉ toàn đêm tối; ấy là do con mãng xà gây ra.)"
+    },
+    {
+     "t": "para",
+     "text": "Во Иван и абазва́вся, штоб истра́бить етаго змея, да и ка́жа свайму батьку: «Тату! Зраби мини куцабу́ в пять пудов». (Ivan bèn lên tiếng xin đi diệt con mãng xà ấy, thưa với cha: «Thầy ơi! Rèn cho con cây chuỳ năm pud».)"
+    },
+    {
+     "t": "para",
+     "text": "Узявши тую куцабу́, ён пашо́в на по́ля и кинув яе́ угару́ и пашо́в дамо́в. (Cầm cây chuỳ ấy, chàng ra đồng, tung nó lên trời rồi đi về nhà.)"
+    },
+    {
+     "t": "para",
+     "text": "На дру́гий день пришо́в Иван на по́ля, на то́я ме́ста, где падкинув куцабу́, наста́вив лоб — як лятить тая куцаба́, як уда́ря яго в лоб, да и разбилась надво́я. (Hôm sau Ivan ra đồng, tới đúng chỗ đã tung cây chuỳ, giơ trán ra hứng — cây chuỳ lao xuống, đập vào trán chàng, liền gãy làm đôi.)"
+    },
+    {
+     "t": "para",
+     "text": "Иван пришо́в дамов да и ка́жа свайму батьку: «Тату! Зраби мини другую куцабу́ в десять пудов». (Ivan về nhà thưa với cha: «Thầy ơi! Rèn cho con cây chuỳ khác mười pud».)"
+    },
+    {
+     "t": "para",
+     "text": "Узявши тую куцабу́, Иван пашо́в на по́ля да и кинув яе́ угару́: лятела тая куцаба́ три дни и три ночи. (Cầm cây chuỳ ấy, Ivan ra đồng tung lên trời: cây chuỳ bay suốt ba ngày ba đêm.)"
+    },
+    {
+     "t": "para",
+     "text": "На четвертый день пашо́в Иван на то́я ме́ста — як лятить тая куцаба́; ён наста́вив калено, и тая куцаба́ разбилась на три части. (Ngày thứ tư Ivan ra chỗ cũ — cây chuỳ lao xuống; chàng giơ đầu gối ra đỡ, cây chuỳ gãy làm ba khúc.)"
+    },
+    {
+     "t": "para",
+     "text": "По́пялов, пришо́вши дамо́в, загада́в батьку зрабить третью куцабу́ у пятнадцать пудов. (Popyalov về nhà, bảo cha rèn cây chuỳ thứ ba mười lăm pud.)"
+    },
+    {
+     "t": "para",
+     "text": "Узяв тую куцабу́, пришов на по́ля и падкинув яе́ угару́: лятела тая куцаба́ шесть дней. (Cầm cây chuỳ, chàng ra đồng tung lên trời: cây chuỳ bay suốt sáu ngày.)"
+    },
+    {
+     "t": "para",
+     "text": "На сёмый день Иван пашо́в на то́я ме́ста; лятить тая куцаба́, як уда́рицца аб лоб Иванав, дак аж лоб падався. (Ngày thứ bảy Ivan ra chỗ cũ; cây chuỳ lao xuống, đập vào trán Ivan, trán chỉ hơi lún mà thôi.)"
+    },
+    {
+     "t": "para",
+     "text": "Во ён ка́жа: «Ета куцаба́ издержа змея!» (Chàng bèn nói: «Cây chuỳ này trị được mãng xà!»)"
+    },
+    {
+     "t": "para",
+     "text": "Во, сабравшись, Иван паехав с брата́ми пабивать таго змея. (Thế là Ivan sửa soạn cùng các anh lên đường đi đánh mãng xà.)"
+    },
+    {
+     "t": "para",
+     "text": "Едя ён да едя, аж стаить хатка на куриной ножке, а в той хатце живе́ змей. (Đi mãi đi mãi, chợt thấy một túp lều con đứng trên chân gà, trong lều ấy có con mãng xà ở.)"
+    },
+    {
+     "t": "para",
+     "text": "Яны та́матка астанавились. (Mấy anh em dừng chân tại đó.)"
+    },
+    {
+     "t": "para",
+     "text": "Иван павесив сваи рукавицы да ка́жа брата́м: «Як из маих рукавиц патяче́ кровь, дак прибега́йте ка мне на по́мачь». (Ivan treo đôi găng tay của mình lên rồi dặn các anh: «Hễ thấy máu rỉ ra từ găng tay của em thì chạy ngay đến cứu».)"
+    },
+    {
+     "t": "para",
+     "text": "Сказавши ета, Иван пашо́в у хату и сев пад масто́м — аж едя змей на трёх галава́х: конь, спаткну́вся, сабака завыла, сокол затвеле́в. (Dặn xong, Ivan vào lều, ngồi nấp dưới gầm sàn ván — chợt mãng xà ba đầu cưỡi ngựa tới: con ngựa vấp chân, con chó tru lên, con chim ưng xao xác.)"
+    },
+    {
+     "t": "para",
+     "text": "Змей гаво́ря: «Чаго ты, конь, спаткну́вся, сабака завыла, сокол затвеле́в?» — «Якжа мини не спатыкацца, — ка́жа конь, — кали пад масто́м сядить Иван По́пялов». (Mãng xà hỏi: «Cớ sao ngựa mày vấp chân, chó tru lên, chim ưng xao xác?» — «Tôi làm sao khỏi vấp, — ngựa đáp, — khi dưới sàn ván có Ivan Tro Bếp đang ngồi».)"
+    },
+    {
+     "t": "para",
+     "text": "Во́ змей и ка́жа: «Выхади-ка суда́, Иванушка! Памеряем с табою силы». (Mãng xà bèn gọi: «Ra đây nào, Ivanushka! Ta với ngươi đọ sức một phen».)"
+    },
+    {
+     "t": "para",
+     "text": "Ён выхо́дя, и стали яны бицца. (Chàng bước ra, hai bên liền xông vào đánh nhau.)"
+    },
+    {
+     "t": "para",
+     "text": "Иван пабив таго змея да и сев изно́ва пад мост. (Ivan đánh chết con mãng xà ấy rồi lại xuống ngồi dưới gầm sàn.)"
+    },
+    {
+     "t": "para",
+     "text": "Едя другий змей на шести галавах; ён и таго змея пабив — аж е́дя третий на двенадцати галавах. (Con mãng xà thứ hai sáu đầu cưỡi tới; chàng đánh chết nốt con ấy — lại thấy con thứ ba mười hai đầu kéo đến.)"
+    },
+    {
+     "t": "para",
+     "text": "Ён и с тым став бицца и збив яму девять галов: не стало у змея силы. (Chàng xáp vào đánh con này, phang rụng chín cái đầu: mãng xà kiệt sức.)"
+    },
+    {
+     "t": "para",
+     "text": "Глядять яны — аж лятить во́ран и кричить: «Кровь! Кровь!» (Họ đang nhìn nhau — chợt một con quạ bay tới kêu: «Máu! Máu!»)"
+    },
+    {
+     "t": "para",
+     "text": "Змей и ка́жа таму во́рану: «Ляти да маей жо́нки; яна заесть Ивана По́пялова». (Mãng xà bảo quạ: «Bay đến chỗ vợ ta; mụ sẽ ăn thịt Ivan Tro Bếp».)"
+    },
+    {
+     "t": "para",
+     "text": "А ён ка́жа: «Ляти к маим брата́м; як яны приедуть, мы етаго змея убьем и тябе мяса аставим». (Còn chàng nói: «Bay đến chỗ các anh ta; họ mà tới, bọn ta giết con mãng xà này rồi để phần thịt cho mày».)"
+    },
+    {
+     "t": "para",
+     "text": "Во́ран паслу́хав Ивана, палятев к яго брата́м да и став ка́ркать над их галавами. (Quạ nghe lời Ivan, bay đến chỗ các anh chàng, quang quác kêu trên đầu họ.)"
+    },
+    {
+     "t": "para",
+     "text": "Браты́ праснулись и, пачувши во́ранав крик, пабегли на по́мачь к брату; убили таго змея, взяли зме́еву галаву́, и, пришо́вши к яго хате, яны разламили галаву́ — и став белый свет па всяму царству. (Hai người anh tỉnh dậy, nghe tiếng quạ kêu liền chạy đến cứu em; họ giết chết mãng xà, lấy chiếc đầu xà, về tới lều thì đập vỡ chiếc đầu ấy — và ánh sáng trắng liền toả khắp cả vương quốc.)"
+    },
+    {
+     "t": "para",
+     "text": "Пабивши змея, Иван По́пялов с брата́ми пае́хав дамо́в и забыв взять рукавицы; вяле́в брата́м падаждать яго, а сам вярнувся за рукавицами. (Diệt xong mãng xà, Ivan Tro Bếp cùng các anh lên đường về nhà, nhưng bỏ quên đôi găng tay; chàng bảo các anh đợi, còn mình quay lại lấy găng.)"
+    },
+    {
+     "t": "para",
+     "text": "Як падъехав к ха́те и хатев взять рукавицы, глядить — аж там змеиха и змее́вы дочки́ размавля́ють праме́ж сабою. (Vừa tới gần lều, định lấy đôi găng, chàng nhìn vào — thấy mụ xà cùng các con gái mãng xà đang chuyện trò với nhau.)"
+    },
+    {
+     "t": "para",
+     "text": "Ён зрабився като́м да и став курня́вкать пад дверями. (Chàng hoá thành con mèo, meo meo ngoài cửa.)"
+    },
+    {
+     "t": "para",
+     "text": "Яны пустили яго у хату. (Họ cho chàng vào nhà.)"
+    },
+    {
+     "t": "para",
+     "text": "Ён, выслухавши всё, што яны гаварили, ухватив рукавицы и пабег. (Nghe trộm hết những điều họ bàn, chàng chộp lấy đôi găng rồi bỏ chạy.)"
+    },
+    {
+     "t": "para",
+     "text": "Прибегши к брата́м, сев на каня; во яны и паехали. (Chạy về tới chỗ các anh, chàng nhảy lên ngựa; thế là cả bọn lên đường.)"
+    },
+    {
+     "t": "para",
+     "text": "Едуть яны да едуть; во пред ими зелёный луг, а на том лугу падушки шавко́вые. (Đi mãi đi mãi; trước mặt hiện ra một đồng cỏ xanh, trên đồng cỏ bày những chiếc gối lụa.)"
+    },
+    {
+     "t": "para",
+     "text": "Во братья и кажуть: «Папасём ту́точка каней и сами аддышем». (Các anh bảo: «Ta thả ngựa ăn cỏ ở đây, mình cũng nghỉ lấy hơi».)"
+    },
+    {
+     "t": "para",
+     "text": "Иван ка́жа: «Пасто́йтя, братцы!» — да, узявши куцабу́, ударив па падушкам; из тых падушак патякла кровь. (Ivan nói: «Khoan đã, các anh!» — rồi vung cây chuỳ nện xuống đám gối; máu từ những chiếc gối ấy trào ra.)"
+    },
+    {
+     "t": "para",
+     "text": "Во яны паехали дальше. (Thế là họ đi tiếp.)"
+    },
+    {
+     "t": "para",
+     "text": "Едуть, едуть — аж стаить ябланька, и на той ябланьке залатые и сребряные яблачки. (Đi một quãng — thấy một cây táo nhỏ, trên cây trĩu những quả táo vàng táo bạc.)"
+    },
+    {
+     "t": "para",
+     "text": "Во братья и кажуть: «Давайтя зъедим па яблачку». (Các anh bảo: «Ta hái mỗi người một quả ăn nào».)"
+    },
+    {
+     "t": "para",
+     "text": "Иван гаво́ря: «Пастойтя, братцы! Я папробую», — и, узявши куцабу́, ударив па той яблане; из яе́ патякла кровь. (Ivan nói: «Khoan đã, các anh! Để em thử trước», — rồi vung cây chuỳ nện vào cây táo; máu từ thân cây ứa ra.)"
+    },
+    {
+     "t": "para",
+     "text": "Яны и паехали дальше. (Họ lại đi tiếp.)"
+    },
+    {
+     "t": "para",
+     "text": "Едуть яны да едуть, во пред ими крыница. (Đi mãi đi mãi, trước mặt hiện ra một mạch nước nguồn.)"
+    },
+    {
+     "t": "para",
+     "text": "Братья и кажуть: «Напьёмся вады». (Các anh bảo: «Uống ngụm nước nào».)"
+    },
+    {
+     "t": "para",
+     "text": "А Иван По́пялов и гаво́ря: «Стойте, братцы!» (Nhưng Ivan Tro Bếp nói: «Đứng lại, các anh!»)"
+    },
+    {
+     "t": "para",
+     "text": "Узявши куцабу́, ён ударив па крынице, и из той вады зрабилася кровь. (Chàng vung cây chuỳ nện xuống mạch nước, cả dòng nước liền hoá thành máu.)"
+    },
+    {
+     "t": "para",
+     "text": "Луг, шавко́вые падушки, ябланя и крыница — ета всё были дочки́ зме́евы. (Đồng cỏ, những chiếc gối lụa, cây táo và mạch nước — thảy đều là các con gái mãng xà cả.)"
+    },
+    {
+     "t": "para",
+     "text": "Пабивши зме́евых до́чак, Иван По́пялов паехав с брата́ми дамо́в — аж лятить за ими змеиха, раззявила рот ад неба да земли и хатела Ивана праглинуть, Иван и браты́ яго кинули ей три пуды соли. (Diệt xong lũ con gái mãng xà, Ivan Tro Bếp cùng các anh lên đường về — chợt mụ xà đuổi theo sau, há mõm rộng từ trời xuống tận đất toan nuốt chửng Ivan; Ivan và các anh ném cho mụ ba pud muối.)"
+    },
+    {
+     "t": "para",
+     "text": "Яна праглину́ла тую соль, падумавши, што то Иван По́пялов, а дале як рассмакавала тую соль и убачила, што ета не Иван, пабегла знова вслед. (Mụ nuốt chửng chỗ muối ấy, tưởng đó là Ivan Tro Bếp, nhưng rồi nếm rõ vị muối, biết không phải Ivan, lại đuổi theo lần nữa.)"
+    },
+    {
+     "t": "para",
+     "text": "Во ён бача, што беда, як припустив каня да и схава́вся у кузню к Кузьме и Демьяну за двенадцать дверей. (Thấy nguy đến nơi, chàng ra sức thúc ngựa, chạy vào trốn trong lò rèn của Kuzma và Demyan, sau mười hai lần cửa.)"
+    },
+    {
+     "t": "para",
+     "text": "Змеиха прилятела да и ка́жа Кузьме и Демьяну: «Адда́йтя мини Ивана По́пялова!» (Mụ xà bay tới, bảo Kuzma và Demyan: «Trả Ivan Tro Bếp đây cho ta!»)"
+    },
+    {
+     "t": "para",
+     "text": "А яны кажуть: «Пралижи языком двенадцать дверей да и бери!» (Hai ông đáp: «Lấy lưỡi liếm thủng mười hai lần cửa rồi mà bắt!»)"
+    },
+    {
+     "t": "para",
+     "text": "Змеиха зачала лизать двери; а яны разагрели железные щипцы, и як только яна прасу́нула язык у кузню — яны ухватили яе́ за язык и начали бить малата́ми. (Mụ xà ra sức liếm cửa; còn hai ông nung đỏ chiếc kìm sắt, và mụ vừa thò được lưỡi vào lò rèn — họ liền kẹp chặt lấy lưỡi mụ mà vung búa nện.)"
+    },
+    {
+     "t": "para",
+     "text": "Убивши змеиху, спалили и по́пял па ветру рассыпали, а сами паехали дамо́в; стали жить да паживать, гулять да пиравать, мед да вино папивать. (Đánh chết mụ xà rồi, họ đốt xác, rải tro theo gió, đoạn lên đường về nhà; từ đó sống vui sống mãi, yến ẩm tiệc tùng, nhấm nháp mật ong rượu ngọt.)"
+    },
+    {
+     "t": "para",
+     "text": "И я там быв, вино пив, и в роте не было́, а па бараде только тякло. (Tôi cũng có mặt ở đó, cũng uống rượu, rượu chẳng vào miệng mà chỉ chảy ròng ròng theo râu.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "по́пял",
+     "vi": "tro, tro bếp (= пепел; gốc biệt danh По́пялов)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "куцаба́",
+     "vi": "cây chuỳ, gậy tày (phương ngữ; = дубина)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "абазва́цца",
+     "vi": "lên tiếng nhận việc, xung phong (= отозваться)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "угару́",
+     "vi": "lên cao, lên trời (= кверху, вверх)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "издержа́ть",
+     "vi": "(phương ngữ) trị được, kết liễu («ета куцаба́ издержа змея»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "спаткну́цца",
+     "vi": "vấp chân (= споткнуться)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "затвеле́ць",
+     "vi": "xao xác, hốt hoảng vỗ cánh (về chim; từ hiếm)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "та́матка",
+     "vi": "ở đó (= там, phương ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "мост",
+     "vi": "(phương ngữ trong truyện) sàn ván nhà; nghĩa thường: cây cầu",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "курня́вкать",
+     "vi": "kêu meo meo (= мяукать)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "размавля́ть",
+     "vi": "chuyện trò (= разговаривать)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "крыни́ца",
+     "vi": "mạch nước nguồn, giếng khơi (phương ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "раззя́вить",
+     "vi": "há hoác (mõm, miệng)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "праглину́ть",
+     "vi": "nuốt chửng (= проглотить)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "рассмакава́ть",
+     "vi": "nếm rõ vị, nếm ra (= распробовать)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

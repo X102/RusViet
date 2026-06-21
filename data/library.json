@@ -70,6 +70,36 @@
    "lang": "ru",
    "path": "books/vhnga/book.json",
    "type": "reader"
+  },
+  {
+   "id": "ru5a1",
+   "title": "Русский язык 5 элементов — A1",
+   "subtitle": "5 элементов · A1",
+   "cover": "🟢",
+   "level": "A1",
+   "lang": "ru",
+   "path": "books/ru5a1/book.json",
+   "type": "textbook"
+  },
+  {
+   "id": "ru5a2",
+   "title": "Русский язык 5 элементов — A2",
+   "subtitle": "5 элементов · A2",
+   "cover": "🟡",
+   "level": "A2",
+   "lang": "ru",
+   "path": "books/ru5a2/book.json",
+   "type": "textbook"
+  },
+  {
+   "id": "ru5b1",
+   "title": "Русский язык 5 элементов — B1",
+   "subtitle": "5 элементов · B1",
+   "cover": "🔵",
+   "level": "B1",
+   "lang": "ru",
+   "path": "books/ru5b1/book.json",
+   "type": "textbook"
   }
  ],
  "comingSoon": [

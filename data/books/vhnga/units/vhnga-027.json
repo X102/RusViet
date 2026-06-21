@@ -1,0 +1,253 @@
+{
+ "id": "vhnga-027",
+ "num": 27,
+ "title": "«Бородино» — Borodino (Lermontov, trích)",
+ "vi": "«Бородино» — Borodino (Lermontov, trích)",
+ "ru": "Бородино",
+ "icon": "⚔️",
+ "color": "#b91c1c",
+ "sectionPrefix": "vhnga-027-s",
+ "group": "Михаил Лермонтов · Thơ",
+ "sections": [
+  {
+   "id": "vhnga-027-s001",
+   "type": "story",
+   "num": 1,
+   "title": "«Бородино́» — “Borodino” (Lermontov, 1837 — trích 5 khổ đầu)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "M.Yu. Lermontov (Михаи́л Ю́рьевич Ле́рмонтов, 1814–1841) viết «Бородино́» cuối 1836 – đầu 1837, nhân kỷ niệm 25 năm trận Borodino (7-9-1812) — trận đánh lớn nhất của cuộc Chiến tranh Vệ quốc chống Napoléon. Bài thơ đăng trên «Современник» — tạp chí do Pushkin sáng lập (1837), và là tác phẩm đầu tiên Lermontov tự mang đi in. Nét độc đáo: toàn bài là lời độc thoại của người pháo thủ già kể cho lớp trẻ, bằng giọng lính mộc mạc đầy khẩu ngữ (брат мусью́, у́шки на маку́шке…); Belinsky khen: «trong từng chữ nghe ra tiếng nói người lính — thô mộc chất phác mà cao quý, mạnh mẽ, đầy chất thơ». Điệp khúc «Богатыри́ — не вы!» vừa ngợi ca thế hệ 1812 vừa trách thế hệ đương thời thụ động. Đây là TRÍCH 5 khổ đầu (toàn bài 14 khổ × 7 dòng): câu hỏi của người cháu và đoạn mở đầu lời kể — cuộc rút lui đằng đẵng, tìm ra cánh đồng Borodino, đắp lũy chờ giặc. Phần sau: hai ngày đấu súng lẻ tẻ, đêm trước đại chiến, lời hiệu triệu của viên đại tá («Ребя́та! не Москва́ ль за на́ми?»), ngày huyết chiến «Ну ж был денёк!», quân địch rút lui; khổ kết lặp lại khổ thứ hai, khép vòng hồi ức. Trọng âm chú ý: Бородино́ (про день Бородина́), отдана́, не о́тдали б."
+    },
+    {
+     "t": "para",
+     "text": "— Скажи́-ка, дя́дя, ведь не да́ром (— Bác ơi, kể đi: đâu phải vô cớ)"
+    },
+    {
+     "t": "para",
+     "text": "Москва́, спалённая пожа́ром, (Mà Mátxcơva bị thiêu trụi trong biển lửa,)"
+    },
+    {
+     "t": "para",
+     "text": "Францу́зу отдана́? (Phải bỏ lại cho người Pháp?)"
+    },
+    {
+     "t": "para",
+     "text": "Ведь бы́ли ж схва́тки боевы́е, (Chẳng phải từng có những trận giáp chiến,)"
+    },
+    {
+     "t": "para",
+     "text": "Да, говоря́т, ещё каки́е! (Vâng, nghe kể, còn ác liệt thế nào!)"
+    },
+    {
+     "t": "para",
+     "text": "Неда́ром по́мнит вся Росси́я (Chẳng phải vô cớ mà cả nước Nga ghi nhớ)"
+    },
+    {
+     "t": "para",
+     "text": "Про день Бородина́! (Về ngày Borodino!)"
+    },
+    {
+     "t": "para",
+     "text": "— Да, бы́ли лю́ди в на́ше вре́мя, (— Phải, thời chúng tôi từng có những con người,)"
+    },
+    {
+     "t": "para",
+     "text": "Не то, что ны́нешнее пле́мя: (Đâu như thế hệ bây giờ:)"
+    },
+    {
+     "t": "para",
+     "text": "Богатыри́ — не вы! (Những tráng sĩ thực thụ — chứ đâu như các anh!)"
+    },
+    {
+     "t": "para",
+     "text": "Плоха́я им доста́лась до́ля: (Phận họ nhận về thật cay nghiệt:)"
+    },
+    {
+     "t": "para",
+     "text": "Немно́гие верну́лись с по́ля… (Mấy ai về được từ chiến địa…)"
+    },
+    {
+     "t": "para",
+     "text": "Не будь на то госпо́дня во́ля, (Ví thử chẳng do ý Chúa định,)"
+    },
+    {
+     "t": "para",
+     "text": "Не о́тдали б Москвы́! (Đời nào chịu bỏ Mátxcơva!)"
+    },
+    {
+     "t": "para",
+     "text": "Мы до́лго мо́лча отступа́ли, (Chúng tôi lặng lẽ rút lui đằng đẵng,)"
+    },
+    {
+     "t": "para",
+     "text": "Доса́дно бы́ло, бо́я жда́ли, (Lòng uất nghẹn, chỉ mong được đánh,)"
+    },
+    {
+     "t": "para",
+     "text": "Ворча́ли старики́: (Các cụ lính già càu nhàu:)"
+    },
+    {
+     "t": "para",
+     "text": "«Что ж мы? на зи́мние кварти́ры? («Sao thế này? Rút về trại trú đông ư?)"
+    },
+    {
+     "t": "para",
+     "text": "Не сме́ют, что ли, команди́ры (Hay là các vị chỉ huy không dám)"
+    },
+    {
+     "t": "para",
+     "text": "Чужи́е изорва́ть мунди́ры (Để quân phục ngoại bang bị xé toạc)"
+    },
+    {
+     "t": "para",
+     "text": "О ру́сские штыки́?» (Trên những mũi lê Nga?»)"
+    },
+    {
+     "t": "para",
+     "text": "И вот нашли́ большо́е по́ле: (Thế rồi tìm được cánh đồng rộng lớn:)"
+    },
+    {
+     "t": "para",
+     "text": "Есть разгуля́ться где на во́ле! (Tha hồ mà vùng vẫy thỏa sức!)"
+    },
+    {
+     "t": "para",
+     "text": "Постро́или реду́т. (Chiến lũy đắp xong.)"
+    },
+    {
+     "t": "para",
+     "text": "У на́ших у́шки на маку́шке! (Quân ta vểnh tai nín thở phục sẵn!)"
+    },
+    {
+     "t": "para",
+     "text": "Чуть у́тро освети́ло пу́шки (Ban mai vừa rọi sáng những khẩu pháo)"
+    },
+    {
+     "t": "para",
+     "text": "И леса́ си́ние верху́шки — (Cùng những ngọn rừng xanh thẳm —)"
+    },
+    {
+     "t": "para",
+     "text": "Францу́зы тут как тут. (Quân Pháp đã lù lù ngay trước mặt.)"
+    },
+    {
+     "t": "para",
+     "text": "Заби́л заря́д я в пу́шку ту́го (Tôi nén chặt liều thuốc đạn vào nòng pháo)"
+    },
+    {
+     "t": "para",
+     "text": "И ду́мал: угощу́ я дру́га! (Bụng nhủ thầm: sẽ đãi «ông bạn» một chầu ra trò!)"
+    },
+    {
+     "t": "para",
+     "text": "Посто́й-ка, брат мусью́! (Cứ chờ đấy, ngài «mơ-xừ»!)"
+    },
+    {
+     "t": "para",
+     "text": "Что тут хитри́ть, пожа́луй к бо́ю; (Mưu mẹo mà chi, cứ xáp vào trận;)"
+    },
+    {
+     "t": "para",
+     "text": "Уж мы пойдём ломи́ть стено́ю, (Chúng tôi sẽ xông lên như tường thành sừng sững,)"
+    },
+    {
+     "t": "para",
+     "text": "Уж постои́м мы голово́ю (Sẽ đem cả mạng mình ra trấn giữ)"
+    },
+    {
+     "t": "para",
+     "text": "За ро́дину свою́! (Vì Tổ quốc thân yêu!)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó"
+    },
+    {
+     "t": "vocab",
+     "ru": "спали́ть",
+     "vi": "thiêu trụi, đốt rụi (спалённая пожа́ром — bị thiêu trụi trong hỏa hoạn)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "схва́тка",
+     "vi": "trận giáp chiến, cuộc đụng độ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "богаты́рь",
+     "vi": "tráng sĩ, dũng sĩ (anh hùng sử thi Nga; điệp khúc «Богатыри́ — не вы!»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "до́ля",
+     "vi": "số phận, phần đời (плоха́я до́ля — phận hẩm hiu)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "отступа́ть",
+     "vi": "rút lui, thoái lui",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ворча́ть",
+     "vi": "càu nhàu, lầm bầm",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "мунди́р",
+     "vi": "quân phục (áo nhà binh)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "штык",
+     "vi": "lưỡi lê",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "реду́т",
+     "vi": "chiến lũy, công sự dã chiến đắp bằng đất (redoubt)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "у́шки на маку́шке",
+     "vi": "(thành ngữ) vểnh tai cảnh giác, hết sức đề phòng (nghĩa đen: «đôi tai nhỏ trên đỉnh đầu»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "тут как тут",
+     "vi": "(khẩu ngữ) đã lù lù ngay đó, xuất hiện liền tức khắc",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "заря́д",
+     "vi": "liều thuốc đạn, đạn nạp (vào nòng súng, pháo)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "мусью́",
+     "vi": "«mơ-xừ» (lính Nga nhại tiếng Pháp monsieur — ông, ngài; брат мусью́ — giọng giễu thân mật)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ломи́ть стено́ю",
+     "vi": "xông lên cả khối như bức tường thành (đánh giáp lá cà)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,307 @@
+{
+ "id": "skazki1-052",
+ "num": 52,
+ "title": "Солнце, Месяц и Ворон Воронович — Mặt Trời, Mặt Trăng và Quạ Voronovich",
+ "vi": "Солнце, Месяц и Ворон Воронович — Mặt Trời, Mặt Trăng và Quạ Voronovich",
+ "ru": "Солнце, Месяц и Ворон Воронович",
+ "icon": "☀️",
+ "color": "#eab308",
+ "sectionPrefix": "skazki1-052-s",
+ "group": "Truyện № 61–100",
+ "sections": [
+  {
+   "id": "skazki1-052-s001",
+   "type": "story",
+   "num": 92,
+   "title": "№ 92 · Солнце, Месяц и Ворон Воронович — Mặt Trời, Mặt Trăng và Quạ Voronovich",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Truyện kết hợp hai mô-típ quen thuộc của truyện kể dân gian Nga. Khung truyện là «những chàng rể thần kỳ»: ba cô con gái lần lượt được gả cho Mặt Trời, Mặt Trăng và Quạ Voronovich (kiểu ATU 552 «Các cô gái lấy chồng là thần lực thiên nhiên»). Lồng vào đó là mô-típ hài hước «bắt chước vụng về»: ông lão đi thăm từng chàng rể, thấy mỗi vị có một phép lạ — rán bánh ngay trên thân mình, thắp sáng nhà tắm bằng một ngón tay, ngủ trên sào — về nhà cố làm theo thì đều hỏng bét, và lần cuối còn mất mạng. Lối kể cộc lốc, kết thúc phũ phàng rất đặc trưng của lối kể dân dã Nga."
+    },
+    {
+     "t": "para",
+     "text": "Жил-был старик да старуха, у них было три дочери. (Ngày xưa có một ông lão và một bà lão, nhà sinh được ba cô con gái.)"
+    },
+    {
+     "t": "para",
+     "text": "Старик пошел в амбар крупку брать; взял крупку, понес домой, а на мешке-то была дырка; крупа-то в нее сыплется да сыплется. (Ông lão ra vựa lấy tấm; lấy được tấm rồi vác về nhà, nào ngờ cái bao lại có một lỗ thủng, tấm cứ theo cái lỗ ấy mà rơi vãi ra mãi.)"
+    },
+    {
+     "t": "para",
+     "text": "Пришел домой. (Ông về đến nhà.)"
+    },
+    {
+     "t": "para",
+     "text": "Старуха спрашивает: «Где крупка?» — а крупка вся высыпалась. (Bà lão hỏi: «Tấm đâu rồi?» — mà tấm thì đã vãi sạch ra hết cả.)"
+    },
+    {
+     "t": "para",
+     "text": "Пошел старик собирать и говорит: «Кабы Солнышко обогрело, кабы Месяц осветил, кабы Ворон Воронович пособил мне крупку собрать: за Солнышко бы отдал старшую дочь, за Месяца — среднюю, а за Ворона Вороновича — младшую!» (Ông lão lần ra nhặt lại, miệng than: «Giá mà Mặt Trời sưởi ấm, giá mà Mặt Trăng soi sáng, giá mà Quạ Voronovich giúp ta nhặt lại chỗ tấm này: ta sẽ gả con gái lớn cho Mặt Trời, con gái giữa cho Mặt Trăng, còn con gái út thì gả cho Quạ Voronovich!»)"
+    },
+    {
+     "t": "para",
+     "text": "Стал старик собирать — Солнце обогрело, Месяц осветил, а Ворон Воронович пособил крупку собрать. (Ông lão vừa bắt tay vào nhặt — thì Mặt Trời sưởi ấm, Mặt Trăng soi sáng, còn Quạ Voronovich giúp ông nhặt lại chỗ tấm.)"
+    },
+    {
+     "t": "para",
+     "text": "Пришел старик домой, сказал старшей дочери: «Оденься хорошенько да выйди на крылечко». (Ông lão về nhà, bảo cô con gái lớn: «Con ăn vận cho tươm tất rồi ra ngoài thềm mà đứng.»)"
+    },
+    {
+     "t": "para",
+     "text": "Она оделась, вышла на крылечко; Солнце и утащило ее. (Cô ăn vận xong, bước ra thềm; thế là Mặt Trời cuỗm ngay cô đi mất.)"
+    },
+    {
+     "t": "para",
+     "text": "Средней дочери также велел одеться хорошенько и выйти на крылечко. (Với cô con gái giữa, ông lão cũng dặn ăn vận cho tươm tất rồi ra thềm mà đứng.)"
+    },
+    {
+     "t": "para",
+     "text": "Она оделась и вышла; Месяц схватил и утащил вторую дочь. (Cô ăn vận xong rồi bước ra; Mặt Trăng liền chộp lấy mà mang cô con gái thứ hai đi.)"
+    },
+    {
+     "t": "para",
+     "text": "И меньшой дочери сказал: «Оденься хорошенько да выйди на крылечко». (Đến cô con gái út, ông cũng bảo: «Con ăn vận cho tươm tất rồi ra ngoài thềm mà đứng.»)"
+    },
+    {
+     "t": "para",
+     "text": "Она оделась и вышла на крылечко; Ворон Воронович схватил ее и унес. (Cô ăn vận xong rồi bước ra thềm; Quạ Voronovich chộp lấy cô mà mang đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Старик и говорит: «Идти разве в гости к зятю». (Ông lão bèn nói: «Hay là ta đi thăm các chàng rể một chuyến.»)"
+    },
+    {
+     "t": "para",
+     "text": "Пошел к Солнышку; вот и пришел. (Ông tìm đến nhà Mặt Trời; rồi cũng tới nơi.)"
+    },
+    {
+     "t": "para",
+     "text": "Солнышко говорит: «Чем тебя потчевать?» — «Я ничего не хочу». (Mặt Trời hỏi: «Cha muốn con thết đãi món gì?» — «Ta chẳng muốn gì cả.»)"
+    },
+    {
+     "t": "para",
+     "text": "Солнышко сказало жене, чтоб настряпала оладьев. (Mặt Trời bảo vợ làm ít bánh rán.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот жена настряпала. (Người vợ làm xong một mẻ bánh.)"
+    },
+    {
+     "t": "para",
+     "text": "Солнышко уселось среди полу, жена поставила на него сковороду — и оладьи сжарились. (Mặt Trời ngồi xuống giữa nhà, vợ đặt chiếc chảo lên người chàng — thế là bánh rán chín vàng.)"
+    },
+    {
+     "t": "para",
+     "text": "Накормили старика. (Hai vợ chồng cho ông lão ăn một bữa no nê.)"
+    },
+    {
+     "t": "para",
+     "text": "Пришел старик домой, приказал старухе состряпать оладьев; сам сел на пол и велит ставить на себя сковороду с оладьями. (Ông lão về đến nhà, sai bà lão làm bánh rán; còn mình thì ngồi bệt xuống sàn, bảo bà đặt chảo bánh lên người mình.)"
+    },
+    {
+     "t": "para",
+     "text": "«Чего на тебе испекутся!» — говорит старуха. («Đặt lên ông thì chín thế nào được!» — bà lão càu nhàu.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ничего, — говорит, — ставь, испекутся». («Không sao đâu, — ông bảo, — cứ đặt lên, khắc chín thôi.»)"
+    },
+    {
+     "t": "para",
+     "text": "Она и поставила; сколько оладьи ни стояли, ничего не испеклись, только прокисли. (Bà bèn đặt lên; nhưng bánh để bao lâu cũng chẳng chín tí nào, chỉ tổ thiu chua đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Нечего делать, поставила старуха сковородку в печь, испеклися оладьи, наелся старик. (Chẳng còn cách nào khác, bà lão đành đặt chảo vào lò, bánh mới chín, ông lão được một bữa no.)"
+    },
+    {
+     "t": "para",
+     "text": "На другой день старик пошел в гости к другому зятю, к Месяцу. (Hôm sau, ông lão đi thăm chàng rể thứ hai, là Mặt Trăng.)"
+    },
+    {
+     "t": "para",
+     "text": "Пришел. (Ông tới nơi.)"
+    },
+    {
+     "t": "para",
+     "text": "Месяц говорит: «Чем тебя потчевать?» — «Я, — отвечает старик, — ничего не хочу». (Mặt Trăng hỏi: «Cha muốn con thết đãi món gì?» — «Ta ấy à, — ông lão đáp, — chẳng muốn gì cả.»)"
+    },
+    {
+     "t": "para",
+     "text": "Месяц затопил про него баню. (Mặt Trăng nhóm lò tắm hơi để dành cho ông.)"
+    },
+    {
+     "t": "para",
+     "text": "Старик говорит: «Тёмно, быва́т , в бане-то будет!» (Ông lão bảo: «Trong nhà tắm hơi, có lẽ tối lắm đây!»)"
+    },
+    {
+     "t": "para",
+     "text": "А Месяц ему: «Нет, светло; ступай». (Mặt Trăng đáp lại: «Không đâu, sáng lắm; cha cứ vào đi.»)"
+    },
+    {
+     "t": "para",
+     "text": "Пошел старик в баню, а Месяц запихал перстик свой в дырочку и оттого в бане светло-светло стало. (Ông lão bước vào nhà tắm, còn Mặt Trăng thì thò ngón tay nhỏ của mình vào cái lỗ, thế là trong nhà tắm bừng lên sáng trưng.)"
+    },
+    {
+     "t": "para",
+     "text": "Выпарился старик, пришел домой и велит старухе топить баню ночью. (Tắm hơi xong khoan khoái, ông lão về nhà, sai bà lão nhóm lò tắm vào ban đêm.)"
+    },
+    {
+     "t": "para",
+     "text": "Старуха истопила; он и посылает ее туда париться. (Bà lão nhóm lò xong; ông liền giục bà vào đó mà tắm hơi.)"
+    },
+    {
+     "t": "para",
+     "text": "Старуха говорит: «Тёмно париться-то!» (Bà lão kêu: «Tối thế này thì tắm hơi sao được!»)"
+    },
+    {
+     "t": "para",
+     "text": "«Ступай, светло будет!» («Cứ vào đi, khắc sáng thôi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Пошла старуха, а старик видел-то, как светил ему Месяц, и сам туда ж — взял прорубил дыру в бане и запихал в нее свой перст. (Bà lão vào rồi, còn ông lão nhớ lúc Mặt Trăng soi sáng cho mình nên cũng bắt chước — bèn đục một cái lỗ trên vách nhà tắm rồi thọc ngón tay mình vào đó.)"
+    },
+    {
+     "t": "para",
+     "text": "А в бане свету нисколько нет! (Nhưng trong nhà tắm chẳng có lấy một tia sáng nào!)"
+    },
+    {
+     "t": "para",
+     "text": "Старуха знай кричит ему: «Тёмно!» (Bà lão cứ một mực réo lên với ông: «Tối lắm!»)"
+    },
+    {
+     "t": "para",
+     "text": "Делать нечего, пошла она, принесла лучины с огнем и выпарилась. (Hết cách, bà đành đi lấy bó đóm châm lửa mang vào mà tắm hơi.)"
+    },
+    {
+     "t": "para",
+     "text": "На третий день старик пошел к Ворону Вороновичу. (Sang ngày thứ ba, ông lão tìm đến nhà Quạ Voronovich.)"
+    },
+    {
+     "t": "para",
+     "text": "Пришел. (Ông tới nơi.)"
+    },
+    {
+     "t": "para",
+     "text": "«Чем тебя потчевать-то?» — спрашивает Ворон Воронович. («Cha muốn con thết đãi món gì đây?» — Quạ Voronovich hỏi.)"
+    },
+    {
+     "t": "para",
+     "text": "«Я, — говорит старик, — ничего не хочу». («Ta ấy à, — ông lão đáp, — chẳng muốn gì cả.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Ну, пойдем хоть спать на седала ». («Thôi vậy, cha con ta lên sào mà ngủ đỡ một đêm.»)"
+    },
+    {
+     "t": "para",
+     "text": "Ворон поставил лестницу и полез со стариком. (Quạ bắc thang rồi trèo lên cùng ông lão.)"
+    },
+    {
+     "t": "para",
+     "text": "Ворон Воронович посадил его под крыло. (Quạ Voronovich đặt ông lão nằm gọn dưới cánh mình.)"
+    },
+    {
+     "t": "para",
+     "text": "Как старик заснул, они оба упали и убились. (Vừa lúc ông lão thiếp đi, cả hai cùng rơi xuống mà chết.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "крупка",
+     "vi": "tấm, hạt ngũ cốc giã/xay nhỏ (dạng thân mật của крупа); ở đây là thứ tấm dùng để nấu cháo",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кабы",
+     "vi": "từ cổ / khẩu ngữ = если бы — giá mà, ước gì, giả như",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "обогреть",
+     "vi": "sưởi ấm, làm cho ấm lên",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "крылечко",
+     "vi": "cái thềm / bậc cửa nhỏ trước nhà (dạng nhỏ thân mật của крыльцо)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "утащить",
+     "vi": "lôi đi, tha đi, cuỗm đi (đem đi mất)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "зять",
+     "vi": "con rể; ở đây nói chung là các chàng rể",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "состряпать / настряпать",
+     "vi": "khẩu ngữ = nấu nướng làm sẵn một mẻ món; состряпать = làm xong, настряпать = làm ra cả một lượng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "прокиснуть",
+     "vi": "bị chua / thiu đi (do để lâu, lên men)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "баня",
+     "vi": "nhà tắm hơi kiểu Nga (xông hơi nóng)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "париться",
+     "vi": "tắm hơi, xông hơi trong nhà tắm баня",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "быва́т",
+     "vi": "phương ngữ / khẩu ngữ = бывает, может быть — có lẽ, có khi, chắc là",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "перст / перстик",
+     "vi": "từ cổ = палец — ngón tay; перстик là dạng nhỏ thân mật (ngón tay nhỏ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "лучина",
+     "vi": "thanh đóm / dăm gỗ thông chẻ mỏng dùng để thắp sáng — lối chiếu sáng cổ ở nông thôn Nga",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "седало / седала",
+     "vi": "sào / cây để gà, chim đậu ngủ ban đêm",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "убиться",
+     "vi": "ngã chết, chết vì rơi / va đập mạnh",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

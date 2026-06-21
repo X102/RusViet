@@ -82,25 +82,32 @@
       view.appendChild(g);
     }
 
-    view.appendChild(el('h2',{class:'sec'},'📖 Sách'));
-    const grid=el('div',{class:'grid cols'}); view.appendChild(grid);
     const books=A.lib?A.lib.books:[];
+    const GROUPS=[['grammar','📚 Giáo trình & Ngữ pháp'],['textbook','📚 Giáo trình & Ngữ pháp'],['reader','📖 Truyện & Văn học']];
+    const order=[['grammar','textbook'],['reader'],['__other__']];
+    const labels={g0:'📚 Giáo trình & Ngữ pháp', g1:'📖 Truyện & Văn học', g2:'📦 Khác'};
+    const holders={};
+    order.forEach((types,gi)=>{ const h=el('h2',{class:'sec'}, labels['g'+gi]); const g=el('div',{class:'grid cols'});
+      view.appendChild(h); view.appendChild(g); holders[gi]={h,g,n:0}; });
+    function bucket(t){ if(t==='grammar'||t==='textbook')return 0; if(t==='reader')return 1; return 2; }
     Promise.all(books.map(b=>RG.data.book(b.id).catch(()=>null))).then(loaded=>{
       books.forEach((meta,i)=>{
-        const b=loaded[i];
-        const c=el('div',{class:'card',onclick:()=>go('#/book/'+meta.id)});
-        c.appendChild(el('div',{class:'emoji'}, meta.cover||'📘'));
+        const b=loaded[i]; const bi=bucket(meta.type);
+        const c=el('div',{class:'card book',onclick:()=>go('#/book/'+meta.id)});
+        c.appendChild(el('div',{class:'cover'}, meta.cover||'📘'));
         c.appendChild(el('h3',{}, meta.title));
         c.appendChild(el('p',{}, meta.subtitle||''));
+        if(meta.level||(b&&b.level)) c.appendChild(el('span',{class:'tag'}, meta.level||b.level));
         if(b){
           const total=b.parts.reduce((s,p)=>s+p.sectionCount,0);
           const done=b.parts.reduce((s,p)=>s+RG.store.doneCount(p.sectionPrefix||(String(p.num).padStart(2,'0')+'-s')),0);
           c.appendChild(el('div',{class:'muted',style:'font-size:12.5px;margin-top:8px'},
-            `${b.parts.length} chương · ${total} bài · trình độ ${meta.level||b.level||''}`));
+            `${b.parts.length} chương · ${total} bài`));
           const bar=el('div',{class:'bar'}); bar.appendChild(el('i',{style:`width:${total?Math.round(done/total*100):0}%`})); c.appendChild(bar);
         }
-        grid.appendChild(c);
+        holders[bi].g.appendChild(c); holders[bi].n++;
       });
+      Object.values(holders).forEach(o=>{ if(!o.n){ o.h.remove(); o.g.remove(); } });
     });
 
     if(A.lib&&A.lib.comingSoon){
@@ -125,18 +132,20 @@
       statCard(b.parts.length,'Chương'), statCard(total,'Bài học'),
       statCard(done,'Đã hoàn thành'), statCard(Object.keys(RG.store.srs()).length,'Thẻ ôn')));
     view.appendChild(el('h2',{class:'sec'},'📖 Mục lục'));
-    const grid=el('div',{class:'grid cols'});
+    let lastG=null, grid=null;
     b.parts.forEach(p=>{
+      if((p.group||'')!==lastG){ lastG=p.group||'';
+        if(lastG) view.appendChild(el('div',{class:'group-head'}, lastG));
+        grid=el('div',{class:'grid cols'}); view.appendChild(grid); }
       const pr=partProgress(p);
-      const c=el('div',{class:'card',onclick:()=>go('#/unit/'+bookId+'/'+p.id)});
+      const c=el('div',{class:'card unit',onclick:()=>go('#/unit/'+bookId+'/'+p.id)});
       c.appendChild(el('div',{class:'stripe',style:`background:${p.color}`}));
       c.appendChild(el('div',{class:'emoji'},p.icon));
       c.appendChild(el('h3',{}, p.vi));
-      c.appendChild(el('p',{}, `${p.ru} · ${p.exerciseCount} bài tập`));
+      c.appendChild(el('p',{}, (p.ru||'')+(p.exerciseCount?(' · '+p.exerciseCount+' bài tập'):'')));
       const bar=el('div',{class:'bar'}); bar.appendChild(el('i',{style:`width:${pr.pct}%`})); c.appendChild(bar);
       grid.appendChild(c);
     });
-    view.appendChild(grid);
   }
 
   /* ---------- UNIT (section list) ---------- */
@@ -150,7 +159,7 @@
     view.appendChild(el('h1',{class:'page-title'},`${part.icon} ${part.vi}`));
     view.appendChild(el('p',{class:'page-sub'},`${part.ru} — ${part.sectionCount} mục (${part.exerciseCount} bài tập)`));
     view.appendChild(el('div',{class:'empty'},el('div',{class:'e'},'⏳'),'Đang tải…'));
-    RG.data.unit(unitId).then(u=>{
+    RG.data.unit(unitId,bookId).then(u=>{
       view.querySelector('.empty').remove();
       const list=el('div',{class:'sec-list'}); view.appendChild(list);
       u.sections.forEach(s=>{
@@ -169,7 +178,7 @@
 
   /* ---------- SECTION (reader) ---------- */
   function viewSection(view, bookId, unitId, secId){
-    RG.data.unit(unitId).then(u=>{
+    RG.data.unit(unitId,bookId).then(u=>{
       const part=A.book.parts.find(p=>p.id===unitId);
       const idx=u.sections.findIndex(s=>s.id===secId); const s=u.sections[idx];
       if(!s){ go('#/unit/'+bookId+'/'+unitId); return; }
@@ -289,7 +298,7 @@
     buildTopbar('Đã lưu'); view.innerHTML='';
     view.appendChild(el('h1',{class:'page-title'},'⭐ Đã lưu & Ghi chú'));
     view.appendChild(el('p',{class:'page-sub'},'Trong sách: '+A.book.title));
-    Promise.all(A.book.parts.map(p=>RG.data.unit(p.id))).then(units=>{
+    Promise.all(A.book.parts.map(p=>RG.data.unit(p.id,bookId))).then(units=>{
       const find=id=>{ for(const u of units){ const s=u.sections.find(x=>x.id===id); if(s)return{u,s}; } return null; };
       const ids=Array.from(new Set([...RG.store.bookmarks(),...RG.store.notedSections()]));
       const mine=ids.map(find).filter(Boolean);
@@ -348,6 +357,7 @@
     d.appendChild(toggle('Tự đọc khi lật flashcard','autoplay'));
     d.appendChild(toggle('Đọc cả tiếng Việt khi “Nghe cả bài”','readVi'));
     d.appendChild(toggle('Tự động tra online khi thiếu từ (cần mạng)','autoOnline'));
+    d.appendChild(toggle('Đọc ngoại ngữ bằng giọng online khi máy thiếu giọng','onlineTTS'));
     d.appendChild(el('div',{class:'field'}, el('label',{},'Dữ liệu học tập'),
       el('button',{class:'btn sm',style:'margin-right:8px',onclick:exportData},'⬇️ Xuất tiến độ'),
       el('button',{class:'btn sm',onclick:()=>{ if(confirm('Xoá toàn bộ tiến độ, highlight và ghi chú?')){RG.store.reset();location.reload();} }},'🗑 Đặt lại')));
@@ -399,8 +409,15 @@
     $('#scrim').addEventListener('click',()=>{$('#sidebar').classList.remove('open');$('#scrim').classList.remove('show');});
     window.addEventListener('hashchange',route);
     $('#view').innerHTML='<div class="empty"><div class="e">📚</div>Đang tải…</div>';
-    RG.data.library().then(lib=>{ A.lib=lib; route(); })
-      .catch(err=>{ $('#view').innerHTML='<div class="empty"><div class="e">⚠️</div>Không tải được thư viện.<br><small>'+esc(err.message)+'</small></div>'; });
+    RG.data.library().then(lib=>{ A.lib=lib;
+      // Tự nạp dữ liệu mọi sách liệt kê trong library.json (không cần thẻ <script> riêng cho từng sách/bài)
+      return Promise.all((lib.books||[]).map(b=>Promise.all([
+        RG.data.book(b.id).catch(()=>null),
+        RG.data.glossary(b.id).catch(()=>null),
+        RG.data.answers(b.id).catch(()=>null)
+      ]))).then(()=>{ RG.dict.resetGlobal&&RG.dict.resetGlobal(); });
+    }).then(()=>route())
+      .catch(err=>{ $('#view').innerHTML='<div class="empty"><div class="e">⚠️</div>Không tải được thư viện.<br><small>'+esc(err&&err.message)+'</small></div>'; });
     if(window.speechSynthesis&&window.speechSynthesis.addEventListener)
       window.speechSynthesis.addEventListener('voiceschanged',()=>buildTopbar(curTitle));
   }

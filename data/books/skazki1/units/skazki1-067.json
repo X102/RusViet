@@ -1,0 +1,263 @@
+{
+ "id": "skazki1-067",
+ "num": 67,
+ "title": "Гуси-лебеди — Đàn ngỗng trời – thiên nga",
+ "vi": "Гуси-лебеди — Đàn ngỗng trời – thiên nga",
+ "ru": "Гуси-лебеди",
+ "icon": "🦢",
+ "color": "#075985",
+ "sectionPrefix": "skazki1-067-s",
+ "group": "Truyện № 101–140",
+ "sections": [
+  {
+   "id": "skazki1-067-s001",
+   "type": "story",
+   "num": 113,
+   "title": "№ 113 · Гуси-лебеди — Đàn ngỗng trời – thiên nga",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Truyện thiếu nhi trứ danh bậc nhất của Afanasyev (ATU 480A*): cô chị mải chơi để đàn ngỗng trời – thiên nga tay sai của Baba-Yaga bắt mất em; lượt đi cô chê bánh của lò nướng, táo rừng, kisel sữa nên không ai chỉ đường, lượt về chịu nếm cả ba thì được che chở — bài học lễ độ đối xứng kinh điển."
+    },
+    {
+     "t": "para",
+     "text": "Жили старичок со старушкою; у них была дочка да сынок маленький. (Ngày xưa có hai ông bà lão; nhà có một cô con gái và một cậu con trai còn nhỏ xíu.)"
+    },
+    {
+     "t": "para",
+     "text": "«Дочка, дочка! — говорила мать. — Мы пойдем на работу, принесем тебе булочку, сошьем платьице, купим платочек; будь умна, береги братца, не ходи со двора». («Con gái, con gái ơi! — mẹ dặn. — Cha mẹ đi làm đây, sẽ mang về cho con chiếc bánh mì ngọt, may cho con tấm váy, mua cho con chiếc khăn; con phải ngoan, trông em cho kỹ, chớ ra khỏi sân nhà».)"
+    },
+    {
+     "t": "para",
+     "text": "Старшие ушли, а дочка забыла, что ей приказывали; посадила братца на травке под окошком, а сама побежала на улицу, заигралась, загулялась. (Cha mẹ vừa đi khỏi, cô con gái đã quên lời dặn; đặt em ngồi trên bãi cỏ dưới cửa sổ, còn mình chạy ra ngoài đường, mải chơi mải nhởi quên khuấy cả em.)"
+    },
+    {
+     "t": "para",
+     "text": "Налетели гуси-лебеди, подхватили мальчика, унесли на крылышках. (Đàn ngỗng trời – thiên nga sà xuống, quắp lấy cậu bé, mang đi trên đôi cánh.)"
+    },
+    {
+     "t": "para",
+     "text": "Пришла девочка, глядь — братца нету! (Cô bé quay về, nhìn quanh — em biến đâu mất!)"
+    },
+    {
+     "t": "para",
+     "text": "Ахнула, кинулась туда-сюда — нету. (Cô thất kinh, chạy ngược chạy xuôi — chẳng thấy đâu.)"
+    },
+    {
+     "t": "para",
+     "text": "Кликала, заливалась слезами, причитывала, что худо будет от отца и матери, — братец не откликнулся! (Cô gọi em, khóc như mưa, than rằng phen này cha mẹ về sẽ chẳng để yên — mà em vẫn bặt tăm!)"
+    },
+    {
+     "t": "para",
+     "text": "Выбежала в чистое поле; метнулись вдалеке гуси-лебеди и пропали за темным лесом. (Cô chạy ra cánh đồng rộng; xa xa đàn ngỗng trời – thiên nga vụt qua rồi mất hút sau cánh rừng thẫm.)"
+    },
+    {
+     "t": "para",
+     "text": "Гуси-лебеди давно себе дурную славу нажили, много шкодили и маленьких детей крадывали; девочка угадала, что они унесли ее братца, бросилась их догонять. (Đàn ngỗng trời – thiên nga ấy từ lâu đã mang tiếng xấu, hay phá phách lại hay bắt trộm trẻ nhỏ; cô bé đoán ngay chúng đã tha em mình đi, liền đuổi theo.)"
+    },
+    {
+     "t": "para",
+     "text": "Бежала-бежала, стоит печка. (Chạy mãi chạy mãi, gặp một cái lò nướng.)"
+    },
+    {
+     "t": "para",
+     "text": "«Печка, печка, скажи, куда гуси полетели?» — «Съешь моего ржаного пирожка, скажу». — «О, у моего батюшки пшеничные не едятся!» («Lò ơi, lò ơi, bảo cho tôi biết đàn ngỗng bay đường nào?» — «Ăn chiếc bánh bột mạch đen của ta đã, rồi ta bảo». — «Ôi dào, ở nhà cha tôi bánh bột mì trắng còn chẳng buồn ăn!»)"
+    },
+    {
+     "t": "para",
+     "text": "Печь не сказала. (Lò chẳng nói.)"
+    },
+    {
+     "t": "para",
+     "text": "Побежала дальше, стоит яблонь. (Cô chạy tiếp, gặp một cây táo.)"
+    },
+    {
+     "t": "para",
+     "text": "«Яблонь, яблонь, скажи, куда гуси полетели?» — «Съешь моего лесного яблока, скажу». — «О, у моего батюшки и садовые не едятся!» («Táo ơi, táo ơi, bảo cho tôi biết đàn ngỗng bay đường nào?» — «Ăn quả táo rừng của ta đã, rồi ta bảo». — «Ôi dào, ở nhà cha tôi táo vườn còn chẳng buồn ăn!»)"
+    },
+    {
+     "t": "para",
+     "text": "Побежала дальше, стоит молочная речка, кисельные берега. (Cô chạy tiếp nữa, gặp dòng sông sữa, đôi bờ chè kisel.)"
+    },
+    {
+     "t": "para",
+     "text": "«Молочная речка, кисельные берега, куда гуси полетели?» — «Съешь моего простого киселика с молоком, скажу». — «О, у моего батюшки и сливочки не едятся!» («Sông sữa bờ kisel ơi, đàn ngỗng bay đường nào?» — «Ăn chút kisel nấu sữa mộc mạc của ta đã, rồi ta bảo». — «Ôi dào, ở nhà cha tôi váng kem còn chẳng buồn ăn!»)"
+    },
+    {
+     "t": "para",
+     "text": "И долго бы ей бегать по полям да бродить по́ лесу, да, к счастью, попался еж; хотела она его толкнуть, побоялась наколоться и спрашивает: «Ежик, ежик, не видал ли, куда гуси полетели?» — «Вон туда-то!» — указал. (Cứ thế có lẽ cô còn phải chạy khắp đồng, lang thang trong rừng mãi, may sao gặp một chú nhím; cô toan hất chú sang bên, lại sợ gai đâm, bèn hỏi: «Nhím ơi, nhím ơi, có thấy đàn ngỗng bay đường nào không?» — «Đằng kia kìa!» — nhím chỉ.)"
+    },
+    {
+     "t": "para",
+     "text": "Побежала — стоит избушка на курьих ножках, стоит-поворачивается. (Cô chạy đến — thấy túp lều trên chân gà, vừa đứng vừa xoay.)"
+    },
+    {
+     "t": "para",
+     "text": "В избушке сидит баба-яга, морда жилиная, нога глиняная; сидит и братец на лавочке, играет золотыми яблочками. (Trong lều mụ Baba-Yaga đang ngồi, mặt mũi gân guốc, chân bằng đất sét; em trai cô cũng ngồi đó trên ghế dài, nghịch mấy quả táo vàng.)"
+    },
+    {
+     "t": "para",
+     "text": "Увидела его сестра, подкралась, схватила и унесла; а гуси за нею в погоню летят; нагонят злодеи, куда деваться? (Cô chị trông thấy em, rón rén lại gần, ôm chặt lấy em mà chạy; đàn ngỗng lập tức bay đuổi theo; lũ ác điểu sắp đuổi kịp, biết trốn vào đâu?)"
+    },
+    {
+     "t": "para",
+     "text": "Бежит молочная речка, кисельные берега. (Trước mặt là dòng sông sữa, đôi bờ chè kisel.)"
+    },
+    {
+     "t": "para",
+     "text": "«Речка-матушка, спрячь меня!» — «Съешь моего киселика!» («Sông ơi, sông mẹ ơi, giấu con với!» — «Ăn chút kisel của ta đã!»)"
+    },
+    {
+     "t": "para",
+     "text": "Нечего делать, съела. (Chẳng còn cách nào, cô đành ăn.)"
+    },
+    {
+     "t": "para",
+     "text": "Речка ее посадила под бережок, гуси пролетели. (Sông cho cô nấp dưới chân bờ, đàn ngỗng bay qua mất.)"
+    },
+    {
+     "t": "para",
+     "text": "Вышла она, сказала: «Спасибо!» и опять бежит с братцем; а гуси воротились, летят навстречу. (Cô chui ra, nói: «Cảm ơn sông!» rồi lại ôm em chạy; nhưng đàn ngỗng đã quay lại, bay chặn đầu.)"
+    },
+    {
+     "t": "para",
+     "text": "Что делать? Беда! (Biết làm sao đây? Nguy quá!)"
+    },
+    {
+     "t": "para",
+     "text": "Стоит яблонь. (Kia rồi, cây táo.)"
+    },
+    {
+     "t": "para",
+     "text": "«Яблонь, яблонь-матушка, спрячь меня!» — «Съешь мое лесное яблочко!» («Táo ơi, táo mẹ ơi, giấu con với!» — «Ăn quả táo rừng của ta đã!»)"
+    },
+    {
+     "t": "para",
+     "text": "Поскорей съела. (Cô vội vàng ăn ngay.)"
+    },
+    {
+     "t": "para",
+     "text": "Яблонь ее заслонила веточками, прикрыла листиками; гуси пролетели. (Cây táo xòe cành che cho cô, phủ lá kín mít; đàn ngỗng bay qua mất.)"
+    },
+    {
+     "t": "para",
+     "text": "Вышла и опять бежит с братцем, а гуси увидели — да за ней; совсем налетают, уж крыльями бьют, того и гляди — из рук вырвут! (Cô bước ra lại ôm em chạy, đàn ngỗng trông thấy — đuổi riết; chúng sà sát đầu, đập cả cánh, chỉ chực giật em khỏi tay cô!)"
+    },
+    {
+     "t": "para",
+     "text": "К счастью, на дороге печка. (May sao bên đường có cái lò nướng.)"
+    },
+    {
+     "t": "para",
+     "text": "«Сударыня печка, спрячь меня!» — «Съешь моего ржаного пирожка!» («Thưa bà lò, giấu con với!» — «Ăn chiếc bánh bột mạch đen của ta đã!»)"
+    },
+    {
+     "t": "para",
+     "text": "Девушка поскорей пирожок в рот, а сама в печь, села в устьецо. (Cô bé vội bỏ ngay bánh vào miệng, còn mình chui vào lò, ngồi nép nơi cửa lò.)"
+    },
+    {
+     "t": "para",
+     "text": "Гуси полетали-полетали, покричали-покричали и ни с чем улетели. (Đàn ngỗng lượn qua lượn lại, kêu inh ỏi một hồi rồi đành bay đi tay không.)"
+    },
+    {
+     "t": "para",
+     "text": "А она прибежала домой, да хорошо еще, что успела прибежать, а тут и отец и мать пришли. (Cô ôm em chạy một mạch về nhà — may làm sao về vừa kịp, cha mẹ cũng vừa về tới.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "шкодить",
+     "vi": "phá phách, làm càn (khẩu ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "крадывать",
+     "vi": "hay bắt trộm (dạng lặp nhiều lần của красть)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кисель",
+     "vi": "kisel — món chè bột sánh nấu từ quả hoặc sữa",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кисельные берега",
+     "vi": "đôi bờ bằng kisel («молочные реки, кисельные берега» — sông sữa bờ chè, xứ no đủ trong mơ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "яблонь",
+     "vi": "cây táo (dạng cổ/dân gian của яблоня)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "устьецо",
+     "vi": "cửa lò nhỏ (giảm nhẹ của устье — miệng lò)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "жилиный",
+     "vi": "gân guốc, nổi gân (морда жилиная; từ dân gian hiếm)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "заслонить",
+     "vi": "che chắn, che khuất",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "наколоться",
+     "vi": "bị gai, kim đâm phải",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "метнуться",
+     "vi": "vụt lao qua, vọt qua",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "сударыня",
+     "vi": "thưa bà, lệnh bà (kính ngữ cổ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ржаной",
+     "vi": "(làm) từ bột mạch đen",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ни с чем",
+     "vi": "tay không, công cốc",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "того и гляди",
+     "vi": "chỉ chực, sắp sửa (điều chẳng lành)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "заиграться",
+     "vi": "mải chơi quên hết mọi sự",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

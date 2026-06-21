@@ -1,0 +1,311 @@
+{
+ "id": "skazki1-066",
+ "num": 66,
+ "title": "Терешечка — Chú bé Tereshechka",
+ "vi": "Терешечка — Chú bé Tereshechka",
+ "ru": "Терешечка",
+ "icon": "🎣",
+ "color": "#166534",
+ "sectionPrefix": "skazki1-066-s",
+ "group": "Truyện № 101–140",
+ "sections": [
+  {
+   "id": "skazki1-066-s001",
+   "type": "story",
+   "num": 112,
+   "title": "№ 112 · Терешечка — Chú bé Tereshechka",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Cùng kiểu truyện ATU 327C/F với cụm «Ивашко и ведьма» (№ 108–111): chú bé sinh ra từ khúc gỗ quấn tã, mụ phù thuỷ Чувилиха nhờ kẻ sành nghề luyện giọng giả tiếng mẹ, mưu nướng ngược con gái mụ, và chú ngỗng non trụi lông cứu chú bé về — bản kể trau chuốt, dày đặc từ âu yếm giảm nhẹ."
+    },
+    {
+     "t": "para",
+     "text": "Худое житье было старику со старухою! (Ông lão bà lão ngày ấy sống thật cơ cực!)"
+    },
+    {
+     "t": "para",
+     "text": "Век они прожили, а детей не нажили; смолоду еще перебивались так-сяк; состарились оба, напиться подать некому, и тужат и плачут. (Cả một đời ăn ở với nhau mà chẳng có mụn con nào; thuở trẻ còn lần hồi rau cháo qua ngày, nay già cả cả hai, đến chén nước cũng chẳng ai đưa, chỉ biết than thở khóc than.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот сделали они колодочку, завернули ее в пеленочку, положили в люлечку, стали качать да прибаюкивать — и вместо колодочки стал рость в пеленочках сынок Терешечка, настоящая ягодка! (Thế rồi hai ông bà đẽo một khúc gỗ nhỏ, bọc vào tã, đặt vào nôi, ngày ngày đưa nôi hát ru — và thay cho khúc gỗ, trong bọc tã lớn dần lên một cậu con trai, bé Tereshechka, xinh như quả chín mọng!)"
+    },
+    {
+     "t": "para",
+     "text": "Мальчик рос-подрастал, в разум приходил. (Cậu bé lớn dần lớn dần, ngày một khôn ra.)"
+    },
+    {
+     "t": "para",
+     "text": "Отец ему сделал челночок. (Người cha đóng cho con một chiếc thuyền con.)"
+    },
+    {
+     "t": "para",
+     "text": "Терешечка поехал рыбу ловить; а мать ему и молочко и творожок стала носить. (Tereshechka chèo thuyền đi đánh cá; còn mẹ ngày ngày mang sữa tươi và phô mai tươi ra cho con.)"
+    },
+    {
+     "t": "para",
+     "text": "Придет, бывало, на берег и зовет: «Терешечка, мой сыночек! Плыви, плыви к бережочку; я, мать, пришла, молока принесла». (Cứ mỗi bận ra bờ sông, bà lại gọi: «Tereshechka, con trai bé bỏng của mẹ! Bơi vào, bơi vào bờ đi con; mẹ đây, mẹ đến rồi, mang sữa cho con đây».)"
+    },
+    {
+     "t": "para",
+     "text": "Терешечка далеко услышит ее голосок, подъедет к бережку, высыпет рыбку, напьется-наестся и опять поедет ловить. (Tereshechka từ xa đã nghe ra tiếng mẹ, ghé thuyền vào bờ, trút mớ cá, ăn uống no nê rồi lại chèo đi đánh cá tiếp.)"
+    },
+    {
+     "t": "para",
+     "text": "Один раз мать говорила ему: «Сыночек, милочка! Будь осторожен, тебя караулит ведьма Чувилиха; не попадись ей в когти». (Một hôm mẹ dặn con: «Con yêu của mẹ! Phải cẩn thận đấy, mụ phù thuỷ Chuvilikha đang rình con; chớ để sa vào vuốt mụ».)"
+    },
+    {
+     "t": "para",
+     "text": "Сказала и пошла. (Dặn xong, bà đi.)"
+    },
+    {
+     "t": "para",
+     "text": "А Чувилиха пришла к бережку и зовет страшным голосом: «Терешечка, мой сыночек! Плыви, плыви к бережочку; я, мать, пришла, молока принесла». (Mụ Chuvilikha mò ra bờ sông, cất giọng ồm ồm dễ sợ mà gọi: «Tereshechka, con trai bé bỏng của mẹ! Bơi vào, bơi vào bờ đi con; mẹ đây, mẹ đến rồi, mang sữa cho con đây».)"
+    },
+    {
+     "t": "para",
+     "text": "А Терешечка распознал и говорит: «Дальше, дальше, мой челночок! Это не родимой матушки голосок, а злой ведьмы Чувилихи». (Nhưng Tereshechka nhận ra ngay, bèn nói: «Ra xa, ra xa nữa, thuyền của ta ơi! Đây chẳng phải tiếng mẹ đẻ của ta, mà là tiếng mụ phù thuỷ ác độc Chuvilikha».)"
+    },
+    {
+     "t": "para",
+     "text": "Чувилиха услышала, побежала, доку сыскала и добыла себе голосок, как у Терешечкиной матери. (Chuvilikha nghe thấy thế, liền ba chân bốn cẳng đi tìm một tay sành sỏi, kiếm cho mình giọng nói y hệt giọng mẹ Tereshechka.)"
+    },
+    {
+     "t": "para",
+     "text": "Пришла мать, стала звать сына тоненьким голоском: «Терешечка, мой сыночек, плыви, плыви к бережочку». (Mẹ ra bờ sông, cất giọng thanh thanh gọi con: «Tereshechka, con trai bé bỏng của mẹ, bơi vào, bơi vào bờ đi con».)"
+    },
+    {
+     "t": "para",
+     "text": "Терешечка услышал и говорит: «Ближе, ближе, мой челночок! Это родимой матушки голосок». (Tereshechka nghe thấy, nói: «Vào gần, gần nữa, thuyền của ta ơi! Đây đúng là tiếng mẹ đẻ của ta».)"
+    },
+    {
+     "t": "para",
+     "text": "Мать его накормила, напоила и опять за рыбкой пустила. (Mẹ cho con ăn uống no nê rồi lại để con đi đánh cá.)"
+    },
+    {
+     "t": "para",
+     "text": "Пришла ведьма Чувилиха, запела выученным голоском, точь-в-точь родимая матушка. (Mụ phù thuỷ Chuvilikha lại đến, cất giọng vừa học được mà hát gọi — giống mẹ đẻ như đúc.)"
+    },
+    {
+     "t": "para",
+     "text": "Терешечка обознался, подъехал: она его схватила, да в куль, и помчала. (Tereshechka nhận nhầm, ghé thuyền vào: mụ chộp lấy cậu, tống vào bao tải rồi tha đi một mạch.)"
+    },
+    {
+     "t": "para",
+     "text": "Примчала в избушку на курьих ножках, велела дочери его сжарить; а сама, поднявши лытки, пошла опять на раздобытки. (Mụ tha cậu về túp lều chân gà, sai con gái nướng cậu lên; còn mình thì co cẳng đi lùng mồi tiếp.)"
+    },
+    {
+     "t": "para",
+     "text": "Терешечка был мужичок не дурачок, в обиду девке не дался, вместо себя посадил ее жариться в печь, а сам взобрался на высокий дуб. (Tereshechka vốn chẳng phải tay khờ, không chịu để con bé kia bắt nạt, liền tương chính ả vào lò nướng thay mình, rồi trèo tót lên cây sồi cao.)"
+    },
+    {
+     "t": "para",
+     "text": "Прибежала Чувилиха, вскочила в избу, напилась-наелась, вышла на двор, катается-валяется и приговаривает: «Покатаюсь я, поваляюсь я, Терешечкиного мяса наевшись!» (Chuvilikha chạy về, sộc vào lều, đánh chén no say, ra sân lăn qua lộn lại mà nghêu ngao: «Ta lăn một cái, ta lộn một vòng, no căng thịt thằng Tereshechka!»)"
+    },
+    {
+     "t": "para",
+     "text": "А он ей с дуба кричит: «Покатайся, поваляйся, ведьма, своей дочери мяса наевшись!» (Còn cậu từ trên cây sồi hét xuống: «Lăn nữa đi, lộn nữa đi, mụ phù thuỷ, no căng thịt con gái mụ thì có!»)"
+    },
+    {
+     "t": "para",
+     "text": "Услышала она, подняла голову, раскинула глаза на все стороны — нет никого! (Mụ nghe thấy, ngẩng đầu, giương mắt nhìn quanh bốn phía — chẳng thấy ai!)"
+    },
+    {
+     "t": "para",
+     "text": "Опять затянула: «Покатаюсь я, поваляюсь я, Терешечкиного мяса наевшись!» (Mụ lại nghêu ngao: «Ta lăn một cái, ta lộn một vòng, no căng thịt thằng Tereshechka!»)"
+    },
+    {
+     "t": "para",
+     "text": "А он отвечает: «Покатайся, поваляйся, ведьма, своей дочери мяса наевшись!» (Cậu lại đáp: «Lăn nữa đi, lộn nữa đi, mụ phù thuỷ, no căng thịt con gái mụ thì có!»)"
+    },
+    {
+     "t": "para",
+     "text": "Испугалась она, глянула и увидела его на высоком дубу. (Mụ chột dạ, ngó lên thì thấy cậu trên ngọn sồi cao.)"
+    },
+    {
+     "t": "para",
+     "text": "Вскочила, бросилась к кузнецу: «Кузнец, кузнец! Скуй мне топорок». (Mụ bật dậy, lao đến nhà thợ rèn: «Bác thợ rèn, bác thợ rèn! Rèn cho ta một cái rìu».)"
+    },
+    {
+     "t": "para",
+     "text": "Сковал кузнец топорок и говорит: «Не руби же ты острием, а руби обухом». (Thợ rèn rèn xong cái rìu, dặn: «Mụ chớ chặt bằng lưỡi, cứ bổ bằng sống rìu ấy».)"
+    },
+    {
+     "t": "para",
+     "text": "Послушалась, стучала-стучала, рубила-рубила, ничего не сделала. (Mụ nghe theo, gõ mãi gõ mãi, bổ mãi bổ mãi mà chẳng ăn thua gì.)"
+    },
+    {
+     "t": "para",
+     "text": "Припала к дереву, впилась в него зубами, дерево затрещало. (Mụ bèn áp sát vào thân cây, cắm răng vào mà gặm — cây sồi kêu răng rắc.)"
+    },
+    {
+     "t": "para",
+     "text": "По небу летят гуси-лебеди; Терешечка видит беду, видит гусей-лебедей, взмолился им, стал их упрашивать: (Trên trời, đàn ngỗng trời – thiên nga bay qua; Tereshechka thấy nguy đến nơi, thấy đàn ngỗng, bèn cất lời van xin, khẩn khoản:)"
+    },
+    {
+     "t": "para",
+     "text": "Гуси-лебеди, возьмите меня, (Ngỗng trời – thiên nga ơi, mang tôi với,)"
+    },
+    {
+     "t": "para",
+     "text": "Посадите меня на крылышки, (Đặt tôi lên đôi cánh nhỏ,)"
+    },
+    {
+     "t": "para",
+     "text": "Донесите меня к отцу, к матери; (Đưa tôi về với cha, với mẹ;)"
+    },
+    {
+     "t": "para",
+     "text": "Там вас накормят-напоят. (Về đó các bạn sẽ được cho ăn cho uống no nê.)"
+    },
+    {
+     "t": "para",
+     "text": "А гуси-лебеди отвечают: «Ка-га! Вон летит другое стадо, поголоднее нас, оно тебя возьмет, донесет». (Đàn ngỗng trời – thiên nga đáp: «Cạc-ca! Kìa đàn sau đang bay tới, đói hơn bọn ta, đàn ấy sẽ mang cậu về».)"
+    },
+    {
+     "t": "para",
+     "text": "А ведьма грызет, только щепки летят, а дуб трещит да шатается. (Còn mụ phù thuỷ cứ gặm, dăm gỗ bay tứ tung, cây sồi răng rắc lung lay.)"
+    },
+    {
+     "t": "para",
+     "text": "Летит другое стадо. (Đàn thứ hai bay tới.)"
+    },
+    {
+     "t": "para",
+     "text": "Терешечка опять кричит: «Гуси-лебеди! Возьмите меня, посадите меня на крылышки, донесите меня к отцу, к матери; там вас накормят-напоят», — «Ка-га! — отвечают гуси. — За нами летит защипанный гусенёк, он тебя возьмет, донесет». (Tereshechka lại kêu lên: «Ngỗng trời – thiên nga ơi! Mang tôi với, đặt tôi lên đôi cánh, đưa tôi về với cha với mẹ; về đó các bạn sẽ được cho ăn cho uống», — «Cạc-ca! — đàn ngỗng đáp. — Sau bọn ta còn chú ngỗng non trụi lông bay cuối, chú ấy sẽ mang cậu về».)"
+    },
+    {
+     "t": "para",
+     "text": "Гусенёк не летит, а дерево трещит да шатается. (Ngỗng non mãi chưa thấy bay tới, mà cây thì cứ răng rắc lung lay.)"
+    },
+    {
+     "t": "para",
+     "text": "Ведьма погрызет-погрызет, взглянет на Терешечку — оближется и опять примется за дело; вот-вот к ней свалится! (Mụ phù thuỷ gặm một hồi lại ngước nhìn Tereshechka — liếm mép rồi lại hì hục gặm tiếp; cậu bé chỉ chực rơi xuống miệng mụ!)"
+    },
+    {
+     "t": "para",
+     "text": "По счастью, летит защипанный гусенёк, крылышками махает, а Терешечка-то его просит, ублажает: «Гусь-лебедь ты мой, возьми меня, посади меня на крылышки, донеси меня к отцу, к матери; там тебя накормят-напоят и чистой водицей обмоют». (May sao, chú ngỗng non trụi lông bay tới, đôi cánh nhỏ chấp chới; Tereshechka liền van nài, dỗ ngọt: «Ngỗng trời – thiên nga của tôi ơi, mang tôi với, đặt tôi lên đôi cánh, đưa tôi về với cha với mẹ; về đó bạn sẽ được cho ăn cho uống, lại được tắm nước trong sạch sẽ».)"
+    },
+    {
+     "t": "para",
+     "text": "Сжалился защипанный гусенёк, подставил Терешечке крылышки, встрепенулся и полетел вместе с ним. (Chú ngỗng non trụi lông động lòng thương, ghé đôi cánh cho Tereshechka, rùng mình vỗ cánh rồi mang cậu bay đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Подлетели к окошечку родимого батюшки, сели на травке. (Đôi bạn bay về đến bên cửa sổ nhà cha đẻ, đậu xuống bãi cỏ.)"
+    },
+    {
+     "t": "para",
+     "text": "А старушка напекла блинов, созвала гостей, поминает Терешечку и говорит: «Это тебе, гостёк, это тебе, старичок, а это мне блинок!» (Trong nhà, bà lão nướng bánh blin, mời khách đến làm giỗ Tereshechka, vừa chia bánh vừa nói: «Cái này phần khách, cái này phần ông lão, còn cái này phần tôi!»)"
+    },
+    {
+     "t": "para",
+     "text": "А Терешечка под окном отзывается: «А мне?» — «Погляди-ка, старичок, кто там просит блинок?» (Ngoài cửa sổ, Tereshechka lên tiếng: «Thế phần con đâu?» — «Ông ơi, ra xem ai ngoài kia đang xin bánh kìa?»)"
+    },
+    {
+     "t": "para",
+     "text": "Старик вышел, увидел Терешечку, обхватил его, привел к матери — пошло обниманье! (Ông lão bước ra, thấy Tereshechka, ôm chầm lấy cậu, dắt vào với mẹ — cả nhà ôm nhau mừng mừng tủi tủi!)"
+    },
+    {
+     "t": "para",
+     "text": "А защипанного гусенька откормили, отпоили, на волю пустили, и стал он с тех пор широко крыльями махать, впереди всех летать да Терешечку вспоминать. (Còn chú ngỗng non trụi lông được vỗ cho ăn no uống đủ rồi thả về trời; từ đấy chú sải rộng đôi cánh, bay dẫn đầu cả đàn, và chẳng bao giờ quên Tereshechka.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "перебиваться",
+     "vi": "sống lần hồi, chật vật qua ngày (перебиваться так-сяк)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "прибаюкивать",
+     "vi": "vừa đưa nôi vừa hát ru dỗ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "дока",
+     "vi": "tay thạo nghề, bậc sành sỏi (khẩu ngữ dân gian)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "обознаться",
+     "vi": "nhận nhầm (người, giọng nói)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "лытки",
+     "vi": "cẳng chân (phương ngữ; поднявши лытки — co cẳng chạy)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "раздобытки",
+     "vi": "sự kiếm chác; на раздобытки — đi lùng mồi, đi kiếm ăn",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "остриё",
+     "vi": "lưỡi sắc (của rìu, dao)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "щепка",
+     "vi": "dăm gỗ, mảnh gỗ vụn",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "взмолиться",
+     "vi": "cất lời van xin, kêu cầu",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ублажать",
+     "vi": "dỗ ngọt, chiều nịnh cho vừa lòng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "защипанный",
+     "vi": "bị mổ vặt trụi lông (защипанный гусенёк — chú ngỗng non trụi lông)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "гусенёк",
+     "vi": "chú ngỗng non (từ âu yếm dân gian, = гусёнок)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "встрепенуться",
+     "vi": "rùng mình vỗ cánh, vươn mình chấn động",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "точь-в-точь",
+     "vi": "y hệt, giống như đúc",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ведьма",
+     "vi": "mụ phù thuỷ",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

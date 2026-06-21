@@ -1,0 +1,653 @@
+{
+  "id": "skazki1-055",
+  "num": 55,
+  "title": "Морозко — Lão Băng Giá",
+  "vi": "Морозко — Lão Băng Giá",
+  "ru": "Морозко",
+  "icon": "🧊",
+  "color": "#0284c7",
+  "sectionPrefix": "skazki1-055-s",
+  "group": "Truyện № 61–100",
+  "sections": [
+    {
+      "id": "skazki1-055-s001",
+      "type": "story",
+      "num": 95,
+      "title": "№ 95 · Морозко — Lão Băng Giá",
+      "blocks": [
+        {
+          "t": "note",
+          "text": "Truyện cổ tích thần kỳ nổi tiếng bậc nhất của Nga (kiểu ATU 480 «cô con riêng hiền lành và các cô con cưng hỗn hào»): dì ghẻ bắt chở con chồng vào rừng nộp cho Lão Băng Giá giữa trời rét cắt thịt. Bản №95 giàu phương ngữ Bắc Nga, kết bằng công thức quen thuộc «Tôi dự tiệc cưới, rượu chảy ướt ria mà chẳng lọt vào mồm…»."
+        },
+        {
+          "t": "para",
+          "text": "Жили-были старик да старуха. У старика со старухою было три дочери. (Ngày xưa có một ông lão và một bà lão. Ông bà có ba cô con gái.)"
+        },
+        {
+          "t": "para",
+          "text": "Старшую дочь старуха не любила (она была ей падчерица), почасту ее журила, рано будила и всю работу на нее свалила. (Cô con cả thì bà lão chẳng thương — nó là con riêng của chồng; bà rầy la nó luôn miệng, dựng nó dậy từ tờ mờ sớm, đổ hết mọi việc trong nhà lên đầu nó.)"
+        },
+        {
+          "t": "para",
+          "text": "Девушка скотину поила-кормила, дрова и водицу в избу носила, печку топила, обряды творила, избу мела и все убирала еще до́ свету; но старуха и тут была недовольна и на Марфушу ворчала: «Экая ленивица, экая неряха! И голик-то не у места, и не так-то стоит, и сорно-то в избе». (Cô gái cho gia súc ăn uống, khuân củi gánh nước vào nhà, nhóm lò, lo toan việc vặt, quét tước dọn dẹp xong xuôi từ lúc trời chưa rạng; vậy mà bà lão vẫn không vừa lòng, cứ cằn nhằn Marfusha: «Đồ lười chảy thây, đồ luộm thuộm! Cái chổi cùn thì để không đúng chỗ, dựng không đúng chiều, nhà thì đầy rác».)"
+        },
+        {
+          "t": "para",
+          "text": "Девушка молчала и плакала; она всячески старалась мачехе уноровить и дочерям ее услужить; но сестры, глядя на мать, Марфушу во всем обижали, с нею вздорили и плакать заставляли: то им и любо было! (Cô gái chỉ nín lặng mà khóc; cô gắng đủ cách chiều lòng dì ghẻ, hầu hạ các cô con gái của dì; nhưng hai cô em, theo gương mẹ, bắt nạt Marfusha đủ điều, kiếm chuyện cho cô phải khóc: chúng lấy thế làm khoái!)"
+        },
+        {
+          "t": "para",
+          "text": "Сами они поздно вставали, приготовленной водицей умывались, чистым полотенцем утирались и за работу садились, когда пообедают. (Còn chính chúng thì dậy muộn, rửa mặt bằng nước đã múc sẵn, lau bằng khăn sạch, ăn trưa xong xuôi rồi mới ngồi vào làm việc.)"
+        },
+        {
+          "t": "para",
+          "text": "Вот наши девицы росли да росли, стали большими и сделались невестами. Скоро сказка сказывается, не скоро дело делается. (Các cô gái nhà ta cứ thế lớn dần lớn dần, thành thiếu nữ, đến tuổi lấy chồng. Truyện kể thì mau, việc đời thì chậm.)"
+        },
+        {
+          "t": "para",
+          "text": "Старику жалко было старшей дочери; он любил ее за то, что была послушляная да работящая, никогда не упрямилась, что заставят, то и делала, и ни в чем слова не перекорила; да не знал старик, чем пособить горю. (Ông lão thương cô con cả; ông quý con vì nó ngoan ngoãn chăm làm, chẳng bao giờ bướng bỉnh, sai gì làm nấy, không cãi lại nửa lời; nhưng ông chẳng biết lấy gì đỡ được nỗi khổ cho con.)"
+        },
+        {
+          "t": "para",
+          "text": "Сам был хил, старуха ворчунья, а дочки ее ленивицы и упрямицы. (Bản thân ông thì già yếu, mụ vợ thì lắm điều, còn các cô con gái của mụ thì vừa lười vừa ương ngạnh.)"
+        },
+        {
+          "t": "para",
+          "text": "Вот наши старики стали думу думать: старик — как бы дочерей пристроить, а старуха — как бы старшую с рук сбыть. (Hai ông bà già nhà ta bắt đầu nghĩ ngợi: ông lão lo sao cho các con yên bề gia thất, còn bà lão tính sao tống khứ được cô cả đi cho rảnh tay.)"
+        },
+        {
+          "t": "para",
+          "text": "Однажды старуха и говорит старику: «Ну, старик, отдадим Марфушу замуж». — «Ладно», — сказал старик и побрел себе на печь; а старуха вслед ему: (Một hôm bà lão bảo ông: «Này ông, ta gả quách con Marfusha đi». — «Ừ thì gả», — ông lão đáp rồi lững thững leo lên bệ lò sưởi; bà lão nói với theo:)"
+        },
+        {
+          "t": "para",
+          "text": "«Завтра встань, старик, ты пораньше, запряги кобылу в дровни и поезжай с Марфуткой; а ты, Марфутка, собери свое добро в коробейку да накинь белую исподку: завтра поедешь в гости!» («Mai ông dậy cho sớm, thắng con ngựa cái vào xe trượt rồi đưa con Marfutka đi; còn mày, Marfutka, xếp đồ đạc của mày vào tráp, khoác cái áo lót trắng vào: mai mày được đi làm khách đấy!»)"
+        },
+        {
+          "t": "para",
+          "text": "Добрая Марфуша рада была такому счастью, что увезут ее в гости, и сладко спала всю ночку; поутру рано встала, умылась, богу помолилась, все собрала, чередом уложила, сама нарядилась, и была девка — хоть куды невеста! (Cô Marfusha hiền lành mừng rỡ vì phúc phận được đưa đi làm khách, đánh một giấc ngon lành suốt đêm; sáng sớm dậy, rửa mặt, cầu Chúa, thu xếp mọi thứ đâu vào đấy, rồi tự điểm trang — trông cô lúc ấy thật là một cô dâu chẳng chê vào đâu được!)"
+        },
+        {
+          "t": "para",
+          "text": "А дело-то было зимою, и на дворе стоял трескучий мороз. (Mà chuyện lại nhằm giữa mùa đông, ngoài trời đang rét cắt da cắt thịt.)"
+        },
+        {
+          "t": "para",
+          "text": "Старик наутро, ни свет ни заря, запряг кобылу в дровни, подвел ко крыльцу; сам пришел в избу, сел на коник и сказал: «Ну, я все изладил!» — «Садитесь за стол да жрите!» — сказала старуха. (Sáng hôm sau, trời còn chưa tỏ mặt người, ông lão đã thắng ngựa vào xe trượt, đánh đến trước thềm; rồi vào nhà, ngồi lên chiếc ghế hòm cạnh cửa mà nói: «Đấy, tôi sửa soạn xong xuôi cả rồi!» — «Thì ngồi vào bàn mà tọng đi!» — bà lão đáp.)"
+        },
+        {
+          "t": "para",
+          "text": "Старик сел за стол и дочь с собой посадил; хлебница была на столе, он вынул челпан и нарушал хлеба и себе и дочери. (Ông lão ngồi vào bàn, kéo con gái ngồi bên; trên bàn có thúng đựng bánh, ông lấy ra ổ bánh mì tròn, bẻ chia phần cho mình và cho con.)"
+        },
+        {
+          "t": "para",
+          "text": "А старуха меж тем подала в блюде старых щей и сказала: «Ну, голубка, ешь да убирайся, я вдоволь на тебя нагляделась!» (Bà lão trong lúc ấy bưng ra một đĩa súp bắp cải nguội thiu, nói: «Nào, bồ câu non, ăn rồi xéo đi, tao nhìn mày đã chán chê lắm rồi!»)"
+        },
+        {
+          "t": "para",
+          "text": "«Старик, увези Марфутку к жениху; да мотри, старый хрыч, поезжай прямой дорогой, а там сверни с дороги-то направо, на бор, — знаешь, прямо к той большой сосне, что на пригорке стоит, и тут отдай Марфутку за Морозка». («Còn lão già, chở con Marfutka đến nhà chú rể; mà liệu hồn đấy, lão già khọm, cứ đường thẳng mà đi, rồi rẽ phải khỏi đường cái, vào rừng thông — biết rồi đấy, đến thẳng cây thông to trên gò, ở đó thì gả con Marfutka cho Lão Băng Giá».)"
+        },
+        {
+          "t": "para",
+          "text": "Старик вытаращил глаза, разинул рот и перестал хлебать, а девка завыла. (Ông lão trợn tròn mắt, há hốc mồm, ngừng cả húp canh; còn cô gái thì òa khóc rống lên.)"
+        },
+        {
+          "t": "para",
+          "text": "«Ну, что тут нюни-то распустила! Ведь жених-то красавец и богач! Мотри-ка, сколько у него добра: все елки, мянды и березы в пуху; житье-то завидное, да и сам он богатырь!» («Thôi đi, sụt sa sụt sịt cái gì! Chú rể vừa đẹp trai vừa giàu sụ cơ mà! Coi xem cơ ngơi nhà nó: bao nhiêu vân sam, thông, bạch dương đều phủ tuyết trắng như lông tơ; cảnh sống đáng thèm, mà chính nó lại là tráng sĩ!»)"
+        },
+        {
+          "t": "para",
+          "text": "Старик молча уклал пожитки, велел дочери накинуть шубняк и пустился в дорогу. (Ông lão lặng thinh xếp hành lý, bảo con khoác chiếc áo lông cừu rồi lên đường.)"
+        },
+        {
+          "t": "para",
+          "text": "Долго ли ехал, скоро ли приехал — не ведаю: скоро сказка сказывается, не скоро дело делается. (Đi lâu hay chóng — tôi chẳng tường: truyện kể thì mau, việc đời thì chậm.)"
+        },
+        {
+          "t": "para",
+          "text": "Наконец доехал до бору, своротил с дороги и пустился прямо снегом по насту; забравшись в глушь, остановился и велел дочери слезать, сам поставил под огромной сосной коробейку и сказал: «Сиди и жди жениха, да мотри — принимай ласковее». (Mãi rồi cũng đến rừng thông, ông rẽ khỏi đường cái, cho xe băng thẳng trên mặt tuyết đóng váng cứng; vào tới chốn thâm u, ông dừng lại, bảo con gái xuống xe, tự tay đặt chiếc tráp dưới gốc cây thông khổng lồ mà dặn: «Ngồi đây chờ chú rể, mà nhớ — đón cho dịu dàng vào».)"
+        },
+        {
+          "t": "para",
+          "text": "А после заворотил лошадь — и домой. (Đoạn ông quay đầu ngựa — đánh thẳng về nhà.)"
+        },
+        {
+          "t": "para",
+          "text": "Девушка сидит да дрожит; озноб ее пробрал. (Cô gái ngồi đó run lập cập; cơn rét đã ngấm vào tận xương.)"
+        },
+        {
+          "t": "para",
+          "text": "Хотела она выть, да сил не было: одни зубы только постукивают. (Cô muốn gào khóc mà chẳng còn hơi sức: chỉ hai hàm răng va nhau lập cập.)"
+        },
+        {
+          "t": "para",
+          "text": "Вдруг слышит: невдалеке Морозко на елке потрескивает, с елки на елку поскакивает да пощелкивает. (Bỗng cô nghe: gần đâu đây Lão Băng Giá đang kêu răng rắc trên cây vân sam, nhảy từ cây nọ sang cây kia, búng tanh tách.)"
+        },
+        {
+          "t": "para",
+          "text": "Очутился он и на той сосне, под коёй де́вица сидит, и сверху ей говорит: «Тепло ли те, де́вица?» — «Тепло, тепло, батюшко-Морозушко!» (Thoắt cái lão đã ở ngay trên cây thông nơi cô gái ngồi dưới gốc, từ trên cao cất tiếng: «Có ấm không, cô gái?» — «Ấm ạ, ấm ạ, cha Băng Giá ơi!»)"
+        },
+        {
+          "t": "para",
+          "text": "Морозко стал ниже спускаться, больше потрескивать и пощелкивать. (Lão Băng Giá tụt xuống thấp hơn, tiếng răng rắc tanh tách càng dồn.)"
+        },
+        {
+          "t": "para",
+          "text": "Мороз спросил де́вицу: «Тепло ли те, де́вица? Тепло ли те, красная?» — Де́вица чуть дух переводит, но еще говорит: «Тепло, Морозушко! Тепло, батюшко!» (Băng Giá lại hỏi: «Có ấm không, cô gái? Có ấm không, người đẹp?» — Cô gái thoi thóp thở, vẫn gắng thưa: «Ấm ạ, Băng Giá ơi! Ấm ạ, cha ơi!»)"
+        },
+        {
+          "t": "para",
+          "text": "Мороз пуще затрещал и сильнее защелка́л и де́вице сказал: «Тепло ли те, де́вица? Тепло ли те, красная? Тепло ли те, лапушка?» (Băng Giá càng nghiến răng rắc, búng tanh tách dữ hơn, hỏi cô: «Có ấm không, cô gái? Có ấm không, người đẹp? Có ấm không, cưng của ta?»)"
+        },
+        {
+          "t": "para",
+          "text": "Де́вица окостеневала и чуть слышно сказала: «Ой, тепло, голубчик Морозушко!» (Cô gái người đã cứng đờ, chỉ còn thều thào: «Ôi, ấm lắm, Băng Giá yêu quý ơi!»)"
+        },
+        {
+          "t": "para",
+          "text": "Тут Морозко сжалился, окутал де́вицу шубами и отогрел одеялами. (Nghe vậy Lão Băng Giá động lòng thương, lấy áo lông quấn cho cô, đắp chăn ủ cô ấm lại.)"
+        },
+        {
+          "t": "para",
+          "text": "Старуха наутро мужу говорит: «Поезжай, старый хрыч, да буди молодых!» (Sáng hôm sau bà lão bảo chồng: «Đi đi, lão già khọm, đánh thức cô dâu chú rể dậy!»)"
+        },
+        {
+          "t": "para",
+          "text": "Старик запряг лошадь и поехал. (Ông lão thắng ngựa ra đi.)"
+        },
+        {
+          "t": "para",
+          "text": "Подъехавши к дочери, он нашел ее живую, на ней шубу хорошую, фату дорогую и короб с богатыми подарками. (Đến nơi, ông thấy con gái vẫn sống, mình khoác áo lông đẹp, trùm tấm khăn voan đắt giá, bên cạnh là một hòm đầy quà quý.)"
+        },
+        {
+          "t": "para",
+          "text": "Не говоря ни слова, старик сложил все на́ воз, сел с дочерью и поехал домой. (Chẳng nói chẳng rằng, ông chất hết lên xe, ngồi cùng con gái đánh xe về nhà.)"
+        },
+        {
+          "t": "para",
+          "text": "Приехали домой, и де́вица бух в ноги мачехе. Старуха изумилась, как увидела девку живую, новую шубу и короб белья. «Э, сука, не обманешь меня». (Về tới nhà, cô gái sụp xuống lạy dì ghẻ. Bà lão sửng sốt khi thấy con bé còn sống, lại thêm áo lông mới và cả hòm đồ vải. «Hừ, con chó cái, mày đừng hòng lừa tao».)"
+        },
+        {
+          "t": "para",
+          "text": "Вот спустя немного старуха говорит старику: «Увези-ка и моих-то дочерей к жениху; он их еще не так одарит!» (Ít lâu sau bà lão bảo ông: «Chở nốt các con gái tôi đến chỗ chú rể ấy đi; nó còn thưởng cho chúng nó hậu hơn thế nữa!»)"
+        },
+        {
+          "t": "para",
+          "text": "Не скоро дело делается, скоро сказка сказывается. (Việc đời thì chậm, truyện kể thì mau.)"
+        },
+        {
+          "t": "para",
+          "text": "Вот поутру рано старуха деток своих накормила и как следует под венец нарядила и в путь отпустила. (Sáng sớm hôm sau, bà lão cho các con cưng ăn no, sửa soạn áo xống tươm tất như sắp làm lễ cưới rồi tiễn lên đường.)"
+        },
+        {
+          "t": "para",
+          "text": "Старик тем же путем оставил девок под сосною. (Ông lão theo đúng lối cũ, bỏ hai cô lại dưới gốc thông.)"
+        },
+        {
+          "t": "para",
+          "text": "Наши де́вицы сидят да посмеиваются: «Что это у матушки выдумано — вдруг обеих замуж отдавать? Разве в нашей деревне нет и ребят! Неровен черт приедет, и не знаешь какой!» (Hai cô nhà ta ngồi cười rúc rích: «Mẹ nghĩ ra trò gì thế chẳng biết — tự dưng gả cả hai đứa một lượt? Làng mình thiếu gì trai tráng! Nhỡ quỷ sứ nào mò đến thì biết đằng nào mà lần!»)"
+        },
+        {
+          "t": "para",
+          "text": "Девушки были в шубняках, а тут им стало зябко. (Hai cô tuy mặc áo lông cừu, vậy mà vẫn thấy rét run.)"
+        },
+        {
+          "t": "para",
+          "text": "«Что, Параха? Меня мороз по коже подирает. Ну, как суженый-ряженый не приедет, так мы здесь околеем». («Sao hả, Parakha? Tao rét sởn hết gai ốc rồi đây. Nhỡ chàng trời định không đến thì hai đứa mình chết cóng ở đây mất».)"
+        },
+        {
+          "t": "para",
+          "text": "«Полно, Машка, врать! Коли рано женихи собираются; а теперь есть ли и обед на дворе». («Thôi đi, Mashka, đừng nói nhảm! Chú rể nhà ai lại sửa soạn đi sớm thế; giờ này ở nhà chưa chắc đã đến bữa trưa».)"
+        },
+        {
+          "t": "para",
+          "text": "«А что, Параха, коли приедет один, кого он возьмет?» — «Не тебя ли, дурище?» — «Да, мотри, тебя!» («Này Parakha, nhỡ chỉ một chàng đến thôi thì lấy đứa nào?» — «Chẳng lẽ lại lấy mày chắc, đồ ngốc tướng?» — «Ừ đấy, cứ chờ xem, khéo lấy mày!»)"
+        },
+        {
+          "t": "para",
+          "text": "«Конечно, меня». — «Тебя! Полно́ тебе цыганить да врать!» («Dĩ nhiên là lấy tao». — «Lấy mày cơ đấy! Thôi ngay cái trò tán hươu tán vượn đi!»)"
+        },
+        {
+          "t": "para",
+          "text": "Морозко у девушек руки ознобил, и наши де́вицы сунули руки в пазухи да опять за то же. (Lão Băng Giá làm cóng buốt tay hai cô; hai cô thọc tay vào ngực áo rồi lại đâu vào đấy, cãi nhau tiếp.)"
+        },
+        {
+          "t": "para",
+          "text": "«Ой ты, заспанная рожа, нехорошая тресся, поганое рыло! Прясть ты не умеешь, а перебирать и вовсе не смыслишь». («Ôi cái con mặt ngái ngủ, đồ sốt rét vật vờ, cái mõm gớm ghiếc kia! Kéo sợi mày chẳng biết, mà sắp sợi thì lại càng mù tịt».)"
+        },
+        {
+          "t": "para",
+          "text": "«Ох ты, хвастунья! А ты что знаешь? Только по беседкам ходить да облизываться. Посмотрим, кого скорее возьмет!» («Chao ôi, đồ khoác lác! Thế mày biết cái gì nào? Chỉ giỏi la cà hết đám hội này sang đám hội khác mà liếm mép. Rồi xem nó rước đứa nào trước!»)"
+        },
+        {
+          "t": "para",
+          "text": "Так де́вицы растабаривали и не в шутку озябли; вдруг они в один голос сказали: «Да кой хранци! Что долго нейдет? Вишь ты, посинела!» (Hai cô cứ thế đôi co, và rét cóng thật sự chứ chẳng đùa; bỗng cả hai đồng thanh kêu: «Quỷ tha ma bắt! Sao mãi chẳng thấy đến? Nhìn kìa, mày tím tái cả rồi!»)"
+        },
+        {
+          "t": "para",
+          "text": "Вот вдалеке Морозко начал потрескивать и с елки на елку поскакивать да пощелкивать. (Đằng xa, Lão Băng Giá bắt đầu kêu răng rắc, nhảy từ cây vân sam nọ sang cây kia, búng tanh tách.)"
+        },
+        {
+          "t": "para",
+          "text": "Де́вицам послышалось, что кто-то едет. «Чу, Параха, уж едет, да и с колокольцом». (Hai cô nghe như có người đánh xe đến. «Suỵt, Parakha, đến rồi kìa, lại có cả lục lạc nữa».)"
+        },
+        {
+          "t": "para",
+          "text": "«Поди прочь, сука! Я не слышу, меня мороз обдирает». — «А еще замуж нарохтишься!» («Cút đi, con chó cái! Tao chẳng nghe thấy gì sất, rét đang lột da tao đây này». — «Thế mà cũng đòi chực lấy chồng!»)"
+        },
+        {
+          "t": "para",
+          "text": "И начали пальцы отдувать. (Rồi hai cô chụm môi hà hơi sưởi ngón tay.)"
+        },
+        {
+          "t": "para",
+          "text": "Морозко все ближе да ближе; наконец очутился на сосне, над де́вицами. (Lão Băng Giá mỗi lúc một gần; cuối cùng hiện ra trên cây thông, ngay trên đầu hai cô.)"
+        },
+        {
+          "t": "para",
+          "text": "Он де́вицам говорит: «Тепло ли вам, де́вицы? Тепло ли вам, красные? Тепло ли, мои голубушки?» (Lão hỏi hai cô: «Có ấm không, các cô gái? Có ấm không, các người đẹp? Có ấm không, các bồ câu nhỏ của ta?»)"
+        },
+        {
+          "t": "para",
+          "text": "«Ой, Морозко, больно студёно! Мы замерзли, ждем суженого, а он, окаянный, сгинул». («Ôi Băng Giá ơi, buốt quá thể! Bọn tôi cóng hết cả người, ngồi chờ chàng hứa hôn mà cái đồ trời đánh ấy biệt tăm đâu mất».)"
+        },
+        {
+          "t": "para",
+          "text": "Морозко стал ниже спускаться, пуще потрескивать и чаще пощелкивать. «Тепло ли вам, девицы? Тепло ли вам, красные?» (Lão Băng Giá tụt thấp xuống, răng rắc dữ hơn, tanh tách mau hơn. «Có ấm không, các cô gái? Có ấm không, các người đẹp?»)"
+        },
+        {
+          "t": "para",
+          "text": "«Поди ты к черту! Разве слеп, вишь, у нас руки и ноги отмерзли». («Cút xuống âm ty với quỷ đi! Mù hay sao, không thấy tay chân bọn tao cóng rụng cả rồi à».)"
+        },
+        {
+          "t": "para",
+          "text": "Морозко еще ниже спустился, сильно приударил и сказал: «Тепло ли вам, девицы?» (Lão Băng Giá xuống thấp hơn nữa, quất một đòn rét thật mạnh, vẫn hỏi: «Có ấm không, các cô gái?»)"
+        },
+        {
+          "t": "para",
+          "text": "«Убирайся ко всем чертям в омут, сгинь, окаянный!» — и девушки окостенели. («Xéo xuống vực sâu với cả lũ quỷ nhà mày đi, chết giẫm!» — và hai cô gái cứng đờ ra.)"
+        },
+        {
+          "t": "para",
+          "text": "Наутро старуха мужу говорит: «Запряги-ка ты, старик, пошевёнки; положи охабочку сенца да возьми шубное опахало». (Sáng hôm sau bà lão bảo chồng: «Ông thắng cái xe trượt rộng vào; chất lên một ôm cỏ khô, mang theo tấm da lông đắp chân».)"
+        },
+        {
+          "t": "para",
+          "text": "«Чай девки-то приозябли; на дворе-то страшный мороз! Да мотри, ворове́й, старый хрыч!» («Chắc các con nó cũng hơi bị lạnh rồi; ngoài trời rét khiếp lắm! Mà liệu hồn, nhanh chân lên, lão già khọm!»)"
+        },
+        {
+          "t": "para",
+          "text": "Старик не успел и перекусить, как был уж на дворе и на дороге. (Ông lão chưa kịp lót dạ đã phải ra sân, lên đường.)"
+        },
+        {
+          "t": "para",
+          "text": "Приезжает за дочками и находит их мертвыми. (Đến đón các con thì thấy cả hai đã chết cứng.)"
+        },
+        {
+          "t": "para",
+          "text": "Он в пошевёнки деток свалил, опахалом закутал и рогожкой закрыл. (Ông vần hai cô lên xe, lấy tấm da lông quấn lại, phủ chiếu cói lên trên.)"
+        },
+        {
+          "t": "para",
+          "text": "Старуха, увидя старика издалека, навстречу выбегала и так его вопрошала: «Что детки?» — «В пошевнях». (Bà lão thấy bóng ông từ xa liền chạy ra đón, hỏi dồn: «Các con thế nào rồi?» — «Trên xe ấy».)"
+        },
+        {
+          "t": "para",
+          "text": "Старуха рогожку отвернула, опахало сняла и деток мертвыми нашла. (Bà lão lật chiếu cói, giở tấm da lông, thấy hai đứa con đã chết.)"
+        },
+        {
+          "t": "para",
+          "text": "Тут старуха как гроза разразилась и старика разбранила: «Что ты наделал, старый пес? Уходил ты моих дочек, моих кровных деточек, моих ненаглядных семечек, моих красных ягодок!» (Bà lão nổi cơn như sấm sét, mắng ông té tát: «Mày làm gì thế hả, đồ chó già? Mày hại chết các con gái tao, những đứa con rứt ruột của tao, những hạt mầm yêu dấu, những trái dâu đỏ thắm của tao!»)"
+        },
+        {
+          "t": "para",
+          "text": "«Я тебя ухватом прибью, кочергой зашибу!» («Tao sẽ lấy gọng gắp nồi phang chết mày, lấy que cời lò nện chết mày!»)"
+        },
+        {
+          "t": "para",
+          "text": "«Полно, старая дрянь! Вишь, ты на богатство польстилась, а детки твои упрямицы! Коли я виноват? Ты сама захотела». («Thôi đi, mụ già thối tha! Thấy chưa, tại mụ hám của, mà các con cưng của mụ thì ương ngạnh! Tôi có lỗi gì? Chính mụ muốn thế cơ mà».)"
+        },
+        {
+          "t": "para",
+          "text": "Старуха посердилась, побранилась, да после с падчерицею помирилась, и стали они жить да быть да добра наживать, а лиха не поминать. (Bà lão giận một hồi, chửi một chặp, rồi sau cũng làm lành với con chồng; từ đấy cả nhà yên ổn làm ăn, gây dựng cơ ngơi, chuyện dữ không nhắc lại nữa.)"
+        },
+        {
+          "t": "para",
+          "text": "Присватался сусед, свадебку сыграли, и Марфуша счастливо живет. (Anh láng giềng đến dạm hỏi, đám cưới được mở, và Marfusha sống hạnh phúc.)"
+        },
+        {
+          "t": "para",
+          "text": "Старик внучат Морозком стращал и упрямиться не давал. (Ông lão từ đó lấy Lão Băng Giá ra dọa lũ cháu, chẳng cho đứa nào ương bướng.)"
+        },
+        {
+          "t": "para",
+          "text": "Я на свадьбе был, мед-пиво пил, по усу текло, да в рот не попало. (Tôi cũng có mặt trong đám cưới ấy, uống rượu mật với bia, rượu chảy ướt cả ria mà chẳng giọt nào lọt vào mồm.)"
+        },
+        {
+          "t": "subhead",
+          "text": "Từ khó trong truyện"
+        },
+        {
+          "t": "vocab",
+          "ru": "падчерица",
+          "vi": "con riêng của chồng (đối với dì ghẻ)",
+          "g": null
+        },
+        {
+          "t": "vocab",
+          "ru": "голик",
+          "vi": "chổi cành trụi lá, chổi cùn",
+          "g": null
+        },
+        {
+          "t": "vocab",
+          "ru": "дровни",
+          "vi": "xe trượt tuyết chở củi (không mui, không thành)",
+          "g": null
+        },
+        {
+          "t": "vocab",
+          "ru": "коробейка",
+          "vi": "tráp, hòm con đựng đồ (phương ngữ)",
+          "g": null
+        },
+        {
+          "t": "vocab",
+          "ru": "челпан",
+          "vi": "ổ bánh mì tròn nguyên (phương ngữ Bắc Nga)",
+          "g": null
+        },
+        {
+          "t": "vocab",
+          "ru": "мотри",
+          "vi": "coi chừng, liệu hồn (phương ngữ, = смотри)",
+          "g": null
+        },
+        {
+          "t": "vocab",
+          "ru": "хрыч",
+          "vi": "lão già khọm (tiếng mắng)",
+          "g": null
+        },
+        {
+          "t": "vocab",
+          "ru": "мянда",
+          "vi": "cây thông (phương ngữ Bắc Nga)",
+          "g": null
+        },
+        {
+          "t": "vocab",
+          "ru": "наст",
+          "vi": "lớp váng băng cứng trên mặt tuyết",
+          "g": null
+        },
+        {
+          "t": "vocab",
+          "ru": "шубняк",
+          "vi": "áo khoác lông cừu (phương ngữ)",
+          "g": null
+        },
+        {
+          "t": "vocab",
+          "ru": "суженый-ряженый",
+          "vi": "chàng trời định, người chồng do số phận xe duyên (lối nói dân gian)",
+          "g": null
+        },
+        {
+          "t": "vocab",
+          "ru": "тресся",
+          "vi": "cơn sốt rét; tiếng mắng «đồ run rẩy vật vờ» (phương ngữ)",
+          "g": null
+        },
+        {
+          "t": "vocab",
+          "ru": "кой хранци",
+          "vi": "quỷ tha ma bắt! (tiếng rủa phương ngữ)",
+          "g": null
+        },
+        {
+          "t": "vocab",
+          "ru": "пошевни",
+          "vi": "xe trượt tuyết rộng đan liếp (пошевёнки — cách gọi âu yếm)",
+          "g": null
+        },
+        {
+          "t": "vocab",
+          "ru": "опахало",
+          "vi": "(шубное опахало) tấm da lông phủ chân khi đi xe trượt (phương ngữ)",
+          "g": null
+        }
+      ]
+    },
+    {
+      "id": "skazki1-055-s002",
+      "type": "story",
+      "num": 96,
+      "title": "№ 96 · Морозко — Lão Băng Giá",
+      "blocks": [
+        {
+          "t": "note",
+          "text": "Dị bản thứ hai (№96) của «Lão Băng Giá» — chính là bản nổi tiếng nhất, lời kể gọn và trau chuốt: Băng Giá tự xưng «Мороз красный нос» (Băng Giá mũi đỏ), con chó con dưới gầm bàn sủa câu báo điềm lặp đi lặp lại, và kết cục nghiệt ngã — đứa con cưng hỗn hào của mụ già bị Băng Giá quật chết cóng."
+        },
+        {
+          "t": "para",
+          "text": "У мачехи была падчерица да родная дочка; родная что ни сделает, за все ее гладят по головке да приговаривают: «Умница!» (Mụ dì ghẻ kia có một đứa con chồng và một đứa con gái ruột; đứa con ruột hễ làm gì, cũng được xoa đầu khen: «Con bé khôn quá!»)"
+        },
+        {
+          "t": "para",
+          "text": "А падчерица как ни угождает — ничем не угодит, все не так, все худо; а надо правду сказать, девочка была золото, в хороших руках она бы как сыр в масле купалась, а у мачехи каждый день слезами умывалась. (Còn đứa con chồng thì chiều chuộng cách mấy cũng chẳng vừa lòng mụ — cái gì cũng sai, cái gì cũng hỏng; mà nói cho ngay, cô bé ấy quý như vàng, vào tay người hiền ắt được sung sướng như sống trong nhung lụa, chứ ở với dì ghẻ thì ngày nào cũng rửa mặt bằng nước mắt.)"
+        },
+        {
+          "t": "para",
+          "text": "Что делать? Ветер хоть пошумит да затихнет, а старая баба расходится — не скоро уймется, все будет придумывать да зубы чесать. (Biết làm sao bây giờ? Gió kia gào chán rồi cũng lặng, chứ mụ già đã nổi cơn thì còn lâu mới nguôi, cứ bày hết chuyện này chuyện khác mà chì chiết không thôi.)"
+        },
+        {
+          "t": "para",
+          "text": "И придумала мачеха падчерицу со двора согнать: «Вези, вези, старик, ее куда хочешь, чтобы мои глаза ее не видали, чтобы мои уши об ней не слыхали; да не вози к родным в теплую хату, а во чисто́ поле на трескун-мороз!» (Rồi mụ dì ghẻ nghĩ ra kế đuổi đứa con chồng ra khỏi nhà: «Chở nó đi, ông già, chở đi đâu thì chở, cho mắt tôi khỏi thấy nó, tai tôi khỏi nghe đến nó; nhưng chớ chở đến nhà bà con trong gian nhà ấm, cứ đem ra giữa đồng không mà nộp cho trời rét nứt cây!»)"
+        },
+        {
+          "t": "para",
+          "text": "Старик затужил, заплакал; однако посадил дочку на сани, хотел прикрыть попонкой — и то побоялся; повез бездомную во чисто́ поле, свалил на сугроб, перекрестил, а сам поскорее домой, чтоб глаза не видали дочерниной смерти. (Ông lão sầu não, khóc lóc; nhưng rồi vẫn đặt con gái lên xe trượt, định đắp cho con tấm chăn phủ ngựa — mà cũng chẳng dám; ông chở đứa con không chốn nương thân ra giữa đồng không, đặt xuống đống tuyết, làm dấu thánh cho con, rồi vội vã quay về, cho mắt khỏi phải thấy con mình chết.)"
+        },
+        {
+          "t": "para",
+          "text": "Осталась бедненькая, трясется и тихонько молитву творит. (Cô bé tội nghiệp ở lại một mình, run cầm cập, khe khẽ đọc kinh cầu nguyện.)"
+        },
+        {
+          "t": "para",
+          "text": "Приходит Мороз, попрыгивает-поскакивает, на красную девушку поглядывает: «Девушка, девушка, я Мороз красный нос!» (Lão Băng Giá đi tới, vừa nhảy vừa nhót, ngó nghiêng cô gái má hồng: «Cô gái ơi, cô gái, ta là Băng Giá mũi đỏ đây!»)"
+        },
+        {
+          "t": "para",
+          "text": "— «Добро пожаловать, Мороз; знать, бог тебя принес по мою душу грешную». (— «Chào mừng ông đến, ông Băng Giá; hẳn là Trời đưa ông tới rước linh hồn tội lỗi của con.»)"
+        },
+        {
+          "t": "para",
+          "text": "Мороз хотел ее тукнуть и заморозить; но полюбились ему ее умные речи, жаль стало! Бросил он ей шубу. (Băng Giá toan quật cho cô một đòn chết cóng; nhưng nghe những lời khôn ngoan ấy, lão đâm mến, thấy thương! Lão ném cho cô một tấm áo lông.)"
+        },
+        {
+          "t": "para",
+          "text": "Оделась она в шубу, подожмала ножки, сидит. (Cô khoác áo lông vào, co đôi chân nhỏ lại, ngồi yên.)"
+        },
+        {
+          "t": "para",
+          "text": "Опять пришел Мороз красный нос, попрыгивает-поскакивает, на красную девушку поглядывает: «Девушка, девушка, я Мороз красный нос!» — «Добро пожаловать, Мороз; знать, бог тебя принес по мою душу грешную». (Băng Giá mũi đỏ lại đến, vừa nhảy vừa nhót, ngó nghiêng cô gái má hồng: «Cô gái ơi, cô gái, ta là Băng Giá mũi đỏ đây!» — «Chào mừng ông đến, ông Băng Giá; hẳn là Trời đưa ông tới rước linh hồn tội lỗi của con.»)"
+        },
+        {
+          "t": "para",
+          "text": "Мороз пришел совсем не по душу, он принес красной девушке сундук высокий да тяжелый, полный всякого приданого. (Nhưng Băng Giá đến nào phải để rước hồn — lão mang cho cô gái đẹp một chiếc rương vừa cao vừa nặng, chất đầy đủ thứ của hồi môn.)"
+        },
+        {
+          "t": "para",
+          "text": "Уселась она в шубочке на сундучке, такая веселенькая, такая хорошенькая! (Cô xúng xính trong tấm áo lông, ngồi lên chiếc rương, trông vui tươi làm sao, xinh xắn làm sao!)"
+        },
+        {
+          "t": "para",
+          "text": "Опять пришел Мороз красный нос, попрыгивает-поскакивает, на красную девушку поглядывает. (Băng Giá mũi đỏ lại đến lần nữa, vừa nhảy vừa nhót, ngó nghiêng cô gái má hồng.)"
+        },
+        {
+          "t": "para",
+          "text": "Она его приветила, а он ей подарил платье, шитое и серебром и золотом. (Cô niềm nở đón chào, và lão tặng cô một tấm áo thêu cả chỉ bạc lẫn chỉ vàng.)"
+        },
+        {
+          "t": "para",
+          "text": "Надела она и стала какая красавица, какая нарядница! Сидит и песенки попевает. (Cô mặc vào — ôi chao, thành người đẹp nhường nào, lộng lẫy nhường nào! Cô ngồi đó khe khẽ hát.)"
+        },
+        {
+          "t": "para",
+          "text": "А мачеха по ней поминки справляет; напекла блинов. «Ступай, муж, вези хоронить свою дочь». Старик поехал. (Còn ở nhà, mụ dì ghẻ đã bày cỗ cúng cô; mụ rán cả chồng bánh xèo. «Đi đi, ông nó, đi mà chở xác con gái ông về chôn.» Ông lão đánh xe đi.)"
+        },
+        {
+          "t": "para",
+          "text": "А собачка под столом: «Тяв, тяв! Старикову дочь в злате, в се́ребре везут, а старухину женихи не берут!» (Con chó con dưới gầm bàn sủa: «Gâu, gâu! Con gái ông lão được rước về trong vàng trong bạc, con gái bà già chẳng ai thèm hỏi!»)"
+        },
+        {
+          "t": "para",
+          "text": "— «Молчи, дура! На́ блин, скажи: старухину дочь женихи возьмут, а стариковой одни косточки привезут!» (— «Câm mồm, đồ ngu! Bánh xèo đây, cầm lấy mà sủa rằng: con gái bà già người ta sẽ rước, còn con gái ông lão chỉ chở về nắm xương!»)"
+        },
+        {
+          "t": "para",
+          "text": "Собачка съела блин да опять: «Тяв, тяв! Старикову дочь в злате, в се́ребре везут, а старухину женихи не берут!» (Con chó ăn xong cái bánh lại sủa: «Gâu, gâu! Con gái ông lão được rước về trong vàng trong bạc, con gái bà già chẳng ai thèm hỏi!»)"
+        },
+        {
+          "t": "para",
+          "text": "Старуха и блины давала и била ее, а собачка все свое: «Старикову дочь в злате, в се́ребре везут, а старухину женихи не возьмут!» (Bà già hết cho bánh lại đánh đòn, mà con chó vẫn khăng khăng một mực: «Con gái ông lão được rước về trong vàng trong bạc, con gái bà già chẳng ai thèm hỏi!»)"
+        },
+        {
+          "t": "para",
+          "text": "Скрипнули ворота, растворилися двери, несут сундук высокий, тяжелый, идет падчерица — панья паньей сияет! (Cánh cổng kẹt mở, cửa toang ra: người ta khiêng vào chiếc rương cao và nặng, đứa con chồng bước theo sau — rạng rỡ chẳng khác nào một bà lớn!)"
+        },
+        {
+          "t": "para",
+          "text": "Мачеха глянула — и руки врозь! (Mụ dì ghẻ vừa trông thấy — hai tay buông thõng, sững cả người!)"
+        },
+        {
+          "t": "para",
+          "text": "«Старик, старик, запрягай других лошадей, вези мою дочь поскорей! Посади на то же поле, на то же место». («Ông già, ông già, thắng ngay cỗ ngựa khác, chở con gái tôi đi cho mau! Đặt nó đúng cánh đồng ấy, đúng chỗ ấy.»)"
+        },
+        {
+          "t": "para",
+          "text": "Повез старик на то же поле, посадил на то же место. (Ông lão chở đến đúng cánh đồng ấy, đặt xuống đúng chỗ ấy.)"
+        },
+        {
+          "t": "para",
+          "text": "Пришел и Мороз красный нос, поглядел на свою гостью, попрыгал-поскакал, а хороших речей не дождал; рассердился, хватил ее и убил. (Băng Giá mũi đỏ cũng đến, nhìn cô khách của mình, nhảy nhót một hồi mà chẳng đợi được lấy một lời tử tế; lão nổi giận, quật cho một đòn chết tươi.)"
+        },
+        {
+          "t": "para",
+          "text": "«Старик, ступай, мою дочь привези, лихих коней запряги, да саней не повали, да сундук не оброни!» («Ông già, đi đón con gái tôi về, thắng cỗ ngựa hăng vào, chớ làm lật xe trượt, chớ đánh rơi cái rương!»)"
+        },
+        {
+          "t": "para",
+          "text": "А собачка под столом: «Тяв, тяв! Старикову дочь женихи возьмут, а старухиной в мешке косточки везут!» (Mà con chó con dưới gầm bàn lại sủa: «Gâu, gâu! Con gái ông lão người ta rước, con gái bà già xương gói trong bao chở về!»)"
+        },
+        {
+          "t": "para",
+          "text": "— «Не ври! На́ пирог, скажи: старухину в злате, в се́ребре везут!» (— «Chớ nói láo! Bánh nướng đây, cầm lấy mà sủa rằng: con gái bà già được chở về trong vàng trong bạc!»)"
+        },
+        {
+          "t": "para",
+          "text": "Растворились ворота, старуха выбежала встреть дочь, да вместо ее обняла холодное тело. (Cổng toang mở, bà già chạy ùa ra đón con, nhưng ôm vào lòng chỉ còn một tấm thân lạnh ngắt.)"
+        },
+        {
+          "t": "para",
+          "text": "Заплакала, заголосила, да поздно! (Bà òa khóc, gào than kể lể — nhưng muộn mất rồi!)"
+        },
+        {
+          "t": "subhead",
+          "text": "Từ khó trong truyện"
+        },
+        {
+          "t": "vocab",
+          "ru": "трескун-мороз",
+          "vi": "rét dữ «nứt cây nẻ đá», rét cắt da cắt thịt",
+          "g": null
+        },
+        {
+          "t": "vocab",
+          "ru": "зубы чесать",
+          "vi": "(thành ngữ; trong truyện) lải nhải chì chiết, bới chuyện nói dông dài",
+          "g": null
+        },
+        {
+          "t": "vocab",
+          "ru": "попонка",
+          "vi": "tấm chăn phủ ngựa (попона — dạng gọi nhỏ)",
+          "g": null
+        },
+        {
+          "t": "vocab",
+          "ru": "сугроб",
+          "vi": "đống tuyết, ụ tuyết gió dồn",
+          "g": null
+        },
+        {
+          "t": "vocab",
+          "ru": "тукнуть",
+          "vi": "nện, quật một cái (khẩu ngữ)",
+          "g": null
+        },
+        {
+          "t": "vocab",
+          "ru": "приданое",
+          "vi": "của hồi môn",
+          "g": null
+        },
+        {
+          "t": "vocab",
+          "ru": "поминки",
+          "vi": "cỗ cúng người chết, đám giỗ",
+          "g": null
+        },
+        {
+          "t": "vocab",
+          "ru": "блин",
+          "vi": "bánh xèo Nga (món không thể thiếu trong cỗ cúng người chết)",
+          "g": null
+        },
+        {
+          "t": "vocab",
+          "ru": "жених",
+          "vi": "chàng rể, người đến dạm hỏi",
+          "g": null
+        },
+        {
+          "t": "vocab",
+          "ru": "панья",
+          "vi": "bà lớn, mệnh phụ (mượn từ пани; «панья паньей» — quý phái như bà lớn chính cống)",
+          "g": null
+        },
+        {
+          "t": "vocab",
+          "ru": "нарядница",
+          "vi": "người ăn vận lộng lẫy, người diện đẹp",
+          "g": null
+        },
+        {
+          "t": "vocab",
+          "ru": "приветить",
+          "vi": "niềm nở tiếp đón (dân dã)",
+          "g": null
+        },
+        {
+          "t": "vocab",
+          "ru": "заголосить",
+          "vi": "cất tiếng khóc gào theo lối than khóc dân gian",
+          "g": null
+        },
+        {
+          "t": "vocab",
+          "ru": "обронить",
+          "vi": "đánh rơi",
+          "g": null
+        },
+        {
+          "t": "vocab",
+          "ru": "лихой",
+          "vi": "(ngựa) hăng, dữ; gan liều, bạt mạng",
+          "g": null
+        }
+      ]
+    }
+  ]
+}

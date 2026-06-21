@@ -1,0 +1,161 @@
+{
+ "id": "vhnga-009",
+ "num": 9,
+ "title": "«Лебедь, Щука и Рак» — Thiên Nga, Cá Măng và Tôm (Krylov)",
+ "vi": "«Лебедь, Щука и Рак» — Thiên Nga, Cá Măng và Tôm (Krylov)",
+ "ru": "Лебедь, Щука и Рак",
+ "icon": "🦊",
+ "color": "#b45309",
+ "sectionPrefix": "vhnga-009-s",
+ "group": "Иван Крылов · Ngụ ngôn",
+ "sections": [
+  {
+   "id": "vhnga-009-s001",
+   "type": "story",
+   "num": 9,
+   "title": "«Лебедь, Щука и Рак» — “Thiên Nga, Cá Măng và Tôm” (I. Krylov, 1814)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Ngụ ngôn (басня) trứ danh của Ivan Krylov (Иван Андреевич Крылов, 1769–1844), viết năm 1814. Ba con vật — Thiên Nga, Cá Măng (loài cá dữ «pike») và Tôm càng — cùng buộc ách kéo một chiếc xe hàng, nhưng mỗi con lại ra sức kéo về một hướng: Thiên Nga lao lên trời, Tôm giật lùi về sau, Cá Măng lôi xuống nước. Kết cục chiếc xe «đến giờ vẫn nằm nguyên chỗ cũ». Bài học: khi những người cùng làm việc không đồng lòng, không thống nhất, thì dù gắng sức đến mấy công việc cũng chẳng thể nào trôi chảy."
+    },
+    {
+     "t": "para",
+     "text": "Когда́ в това́рищах согла́сья нет, (Khi giữa những kẻ cùng hội cùng phường chẳng có sự đồng lòng,)"
+    },
+    {
+     "t": "para",
+     "text": "На лад их де́ло не пойдёт, (Thì công việc của họ sẽ chẳng thể xuôi chèo mát mái,)"
+    },
+    {
+     "t": "para",
+     "text": "И вы́йдет из него́ не де́ло, то́лько му́ка. (Và rốt cuộc chẳng nên trò trống gì, chỉ tổ khổ sở mà thôi.)"
+    },
+    {
+     "t": "para",
+     "text": "Одна́жды Ле́бедь, Рак да Щу́ка (Một bận nọ, Thiên Nga, Tôm cùng Cá Măng)"
+    },
+    {
+     "t": "para",
+     "text": "Везти́ с покла́жей воз взяли́сь, (Rủ nhau kéo một chiếc xe chất nặng hàng,)"
+    },
+    {
+     "t": "para",
+     "text": "И вме́сте тро́е все в него́ впрягли́сь; (Cả ba cùng nhau buộc ách vào càng xe;)"
+    },
+    {
+     "t": "para",
+     "text": "Из ко́жи ле́зут вон, а во́зу всё нет хо́ду! (Gắng đến lột cả da, mà chiếc xe vẫn chẳng nhúc nhích!)"
+    },
+    {
+     "t": "para",
+     "text": "Покла́жа бы для них каза́лась и легка́: (Kể ra món hàng với chúng cũng đâu có nặng nề gì cho cam:)"
+    },
+    {
+     "t": "para",
+     "text": "Да Ле́бедь рвётся в облака́, (Nhưng Thiên Nga cứ chực lao vút lên mây,)"
+    },
+    {
+     "t": "para",
+     "text": "Рак пя́тится наза́д, а Щу́ка тя́нет в во́ду. (Tôm thì giật lùi về sau, còn Cá Măng lại lôi tuột xuống nước.)"
+    },
+    {
+     "t": "para",
+     "text": "Кто винова́т из них, кто прав — суди́ть не нам; (Trong chúng ai phải ai trái — chẳng phải việc ta phân xử;)"
+    },
+    {
+     "t": "para",
+     "text": "Да то́лько воз и ны́не там. (Chỉ có điều: chiếc xe đến giờ vẫn nằm nguyên chỗ cũ.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó"
+    },
+    {
+     "t": "vocab",
+     "ru": "согла́сие",
+     "vi": "sự đồng lòng, sự nhất trí (согла́сья — dạng thi ca của согла́сия)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "това́рищ",
+     "vi": "bạn đồng hành, người cùng phe (в това́рищах — trong số những kẻ cùng làm)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "на лад пойти́",
+     "vi": "trôi chảy, xuôi thuận, đâu vào đấy",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "му́ка",
+     "vi": "sự khổ sở, nỗi giày vò (phân biệt мука́ = bột mì)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ле́бедь",
+     "vi": "thiên nga",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "рак",
+     "vi": "con tôm càng (crayfish); cũng nghĩa «con cua» / «bệnh ung thư» tùy ngữ cảnh",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "щу́ка",
+     "vi": "cá măng, cá chó — loài cá nước ngọt ăn thịt (pike)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "покла́жа",
+     "vi": "hàng hóa chất trên xe, đồ chở",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "воз",
+     "vi": "chiếc xe (bò/ngựa) chở hàng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "впря́чься",
+     "vi": "buộc ách vào kéo, vào càng xe (впрягли́сь — đã buộc ách vào)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "из ко́жи лезть вон",
+     "vi": "(thành ngữ) cố hết sức, gắng đến lột da",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "рва́ться",
+     "vi": "chực lao tới, giằng ra (рвётся в облака́ — lao lên mây)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "пя́титься",
+     "vi": "lùi lại, giật lùi",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ны́не",
+     "vi": "bây giờ, đến giờ (từ cổ/trang trọng)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,360 @@
+{
+ "id": "vhnga-043",
+ "num": 43,
+ "title": "«Смерть чиновника» — Cái chết của một viên chức (Chekhov)",
+ "vi": "«Смерть чиновника» — Cái chết của một viên chức (Chekhov)",
+ "ru": "Смерть чиновника",
+ "icon": "🤧",
+ "color": "#7c3aed",
+ "sectionPrefix": "vhnga-043-s",
+ "sections": [
+  {
+   "id": "vhnga-043-s001",
+   "type": "story",
+   "num": 1,
+   "title": "«Смерть чиновника» — “Cái chết của một viên chức” (A. Chekhov, 1883)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Truyện ngắn trào phúng «Смерть чино́вника» (Cái chết của một viên chức) của Anton Chekhov (Анто́н Па́влович Че́хов, 1860–1904), viết ngày 25–26.6.1883, đăng tuần báo trào phúng «Оско́лки» (Mảnh vỡ) ngày 2-7-1883 dưới bút danh А. Чехонте — ở đây đăng TRỌN VẸN tác phẩm. Truyện kinh điển về thói sùng bái quan hàm (чинопочита́ние): viên quản sự Chervyakov hắt hơi trong nhà hát, vô ý bắn vào đầu hói của tướng Brizzhalov; tuy vị tướng chẳng hề bận tâm, Chervyakov cứ xin lỗi đi xin lỗi lại — năm lần! — đến mức tướng nổi giận quát «Пошёл вон!!», và viên chức nhỏ về nhà... lăn ra chết. Khác «Шине́ль» của Gogol (bài 032), “con người nhỏ bé” ở đây không bị ai áp bức — anh ta TỰ NGUYỆN khúm núm: nỗi sợ quan trên đã ngấm thành bản năng (so sánh «То́лстый и то́нкий», bài 030). Tên nhân vật “biết nói”: Червяко́в ← червя́к (con giun); Бризжа́лов gợi бры́згать (bắn nước bọt). «Ва́ше-ство» là dạng nuốt âm của kính ngữ «ва́ше превосходи́тельство» (bẩm quan lớn — dùng với quan bậc 3–4 trong Bảng quan hàm, xem bài 030), cùng kiểu với tiểu từ kính nịnh «-с» (чихну́л-с, знать-с, что-с — словое́рс); милостисда́рь = nói nuốt của «ми́лостивый госуда́рь» (thưa quý ông). Chú ý nét hài kín: Chervyakov kể với vợ «о своём неве́жестве» (về “sự vô học”) trong khi ý anh ta là неве́жливость (sự thất lễ) — lỗi dùng từ Chekhov cài chủ ý. «Корневи́льские колокола́» — vở operetta Pháp ăn khách của R. Planquette; «Арка́дия» — khu vườn giải trí ở Peterburg. Nguyên văn theo ПСС 30 т. (Сочинения, т. 2, М.: «Наука», 1983, с. 164–166; đối chiếu chéo rvb.ru + ilibrary.ru + 2 bản đọc phổ thông): giữ «на верху́ блаже́нства» (viết rời hai từ), «постри́гся» (nhiều bản web in «подстригся»), «бры́знул-с..., а»; riêng «ва́ше-ство» bản hàn lâm in «ваше — ство» — ở đây theo bản đọc phổ thông «ва́ше-ство» cho dễ theo dõi; «Бог зна́ет что!» viết hoa theo các bản đọc hiện đại. Chuẩn hoá ё: отвёл, утёрся, вперёд, подошёл, пошёл, приёмную, приём, смеётесь, Чёрт, Пошёл, шёпотом, поплёлся, лёг, своём."
+    },
+    {
+     "t": "para",
+     "text": "В оди́н прекра́сный ве́чер не ме́нее прекра́сный экзеку́тор, Ива́н Дми́трич Червяко́в, сиде́л во второ́м ряду́ кре́сел и гляде́л в бино́кль на «Корневи́льские колокола́». (Vào một buổi tối đẹp trời, một viên quản sự cũng đẹp đẽ không kém — Ivan Dmitrich Chervyakov — ngồi ở hàng ghế bành thứ hai, giương ống nhòm xem vở «Tiếng chuông Corneville».)"
+    },
+    {
+     "t": "para",
+     "text": "Он гляде́л и чу́вствовал себя́ на верху́ блаже́нства. (Ông ngồi xem, cảm thấy mình đang trên tột đỉnh hạnh phúc.)"
+    },
+    {
+     "t": "para",
+     "text": "Но вдруг... (Thế nhưng bỗng nhiên...)"
+    },
+    {
+     "t": "para",
+     "text": "В расска́зах ча́сто встреча́ется э́то «но вдруг». (Trong các truyện ngắn, cái «thế nhưng bỗng nhiên» này rất hay gặp.)"
+    },
+    {
+     "t": "para",
+     "text": "А́вторы пра́вы: жизнь так полна́ внеза́пностей! (Các tác giả có lý: cuộc đời đầy rẫy những chuyện bất ngờ!)"
+    },
+    {
+     "t": "para",
+     "text": "Но вдруг лицо́ его́ помо́рщилось, глаза́ подкати́лись, дыха́ние останови́лось... он отвёл от глаз бино́кль, нагну́лся и... апчхи́!!! (Thế nhưng bỗng nhiên mặt ông nhăn rúm lại, mắt trợn ngược, hơi thở tắc nghẹn... ông rời ống nhòm khỏi mắt, gập người xuống và... hắt xì!!!)"
+    },
+    {
+     "t": "para",
+     "text": "Чихну́л, как ви́дите. (Ông ta hắt hơi, quý vị thấy đấy.)"
+    },
+    {
+     "t": "para",
+     "text": "Чиха́ть никому́ и нигде́ не возбраня́ется. (Hắt hơi thì chẳng cấm ai và chẳng cấm ở đâu cả.)"
+    },
+    {
+     "t": "para",
+     "text": "Чиха́ют и мужики́, и полицейме́йстеры, и иногда́ да́же и та́йные сове́тники. (Mu-gích hắt hơi, cảnh sát trưởng hắt hơi, đôi khi cả các quan mật nghị đại thần cũng hắt hơi.)"
+    },
+    {
+     "t": "para",
+     "text": "Все чиха́ют. (Ai mà chẳng hắt hơi.)"
+    },
+    {
+     "t": "para",
+     "text": "Червяко́в ниско́лько не сконфу́зился, утёрся плато́чком и, как ве́жливый челове́к, погляде́л вокру́г себя́: не обеспоко́ил ли он кого́-нибудь свои́м чиха́ньем? (Chervyakov chẳng hề bối rối, rút khăn tay ra lau, và như một người lịch thiệp, đưa mắt nhìn quanh: cú hắt hơi của mình có làm phiền ai chăng?)"
+    },
+    {
+     "t": "para",
+     "text": "Но тут уж пришло́сь сконфу́зиться. (Nhưng đến lúc này thì đành phải bối rối thật.)"
+    },
+    {
+     "t": "para",
+     "text": "Он уви́дел, что старичо́к, сиде́вший впереди́ него́, в пе́рвом ряду́ кре́сел, стара́тельно вытира́л свою́ лы́сину и ше́ю перча́ткой и бормота́л что́-то. (Ông thấy ông già nhỏ ngồi phía trước mình, ở hàng ghế bành thứ nhất, đang cần mẫn lấy chiếc găng tay lau cái đầu hói cùng cái cổ, miệng lẩm bẩm điều gì đó.)"
+    },
+    {
+     "t": "para",
+     "text": "В старичке́ Червяко́в узна́л ста́тского генера́ла Бризжа́лова, служа́щего по ве́домству путе́й сообще́ния. (Chervyakov nhận ra ông già ấy chính là vị tướng văn giai Brizzhalov, làm việc bên nha Đường giao thông.)"
+    },
+    {
+     "t": "para",
+     "text": "«Я его́ обры́згал! — поду́мал Червяко́в. — Не мой нача́льник, чужо́й, но всё-таки нело́вко. Извини́ться на́до». («Mình làm bắn cả vào ông ấy rồi! — Chervyakov nghĩ. — Không phải sếp của mình, người nha khác, nhưng dù sao vẫn khó coi. Phải xin lỗi mới được».)"
+    },
+    {
+     "t": "para",
+     "text": "Червяко́в ка́шлянул, пода́лся ту́ловищем вперёд и зашепта́л генера́лу на́ ухо: (Chervyakov đằng hắng, nghiêng người về phía trước và ghé tai vị tướng thì thầm:)"
+    },
+    {
+     "t": "para",
+     "text": "— Извини́те, ва́ше-ство, я вас обры́згал... я неча́янно... (— Xin ngài thứ lỗi, bẩm quan lớn, tôi làm bắn vào ngài... tôi vô ý ạ...)"
+    },
+    {
+     "t": "para",
+     "text": "— Ничего́, ничего́... (— Không sao, không sao...)"
+    },
+    {
+     "t": "para",
+     "text": "— Ра́ди бо́га, извини́те. Я ведь... я не жела́л! (— Vì Chúa, xin ngài thứ lỗi. Tôi nào... tôi nào có muốn thế!)"
+    },
+    {
+     "t": "para",
+     "text": "— Ах, сиди́те, пожа́луйста! Да́йте слу́шать! (— Ôi, ông ngồi xuống cho, làm ơn! Để người ta còn nghe nào!)"
+    },
+    {
+     "t": "para",
+     "text": "Червяко́в сконфу́зился, глу́по улыбну́лся и на́чал гляде́ть на сце́ну. (Chervyakov ngượng chín người, nhoẻn một nụ cười ngớ ngẩn rồi quay lên nhìn sân khấu.)"
+    },
+    {
+     "t": "para",
+     "text": "Гляде́л он, но уж блаже́нства бо́льше не чу́вствовал. (Ông vẫn xem, nhưng cảm giác hạnh phúc tột đỉnh thì chẳng còn nữa.)"
+    },
+    {
+     "t": "para",
+     "text": "Его́ на́чало пому́чивать беспоко́йство. (Nỗi bất an bắt đầu gặm nhấm ông.)"
+    },
+    {
+     "t": "para",
+     "text": "В антра́кте он подошёл к Бризжа́лову, походи́л во́зле него́ и, поборо́вши ро́бость, пробормота́л: (Đến giờ giải lao, ông lại gần Brizzhalov, đi vẩn vơ quanh ông ta một lúc, rồi cố nén rụt rè, lúng búng:)"
+    },
+    {
+     "t": "para",
+     "text": "— Я вас обры́згал, ва́ше-ство... Прости́те... Я ведь... не то что́бы... (— Tôi đã làm bắn vào ngài, bẩm quan lớn... Xin ngài tha thứ... Tôi nào... nào phải cố tình...)"
+    },
+    {
+     "t": "para",
+     "text": "— Ах, по́лноте... Я уж забы́л, а вы всё о том же! — сказа́л генера́л и нетерпели́во шевельну́л ни́жней губо́й. (— Ôi, thôi đủ rồi... Tôi đã quên rồi, mà ông thì cứ mãi chuyện ấy! — vị tướng nói và sốt ruột mấp máy môi dưới.)"
+    },
+    {
+     "t": "para",
+     "text": "«Забы́л, а у самого́ ехи́дство в глаза́х, — поду́мал Червяко́в, подозри́тельно погля́дывая на генера́ла. — И говори́ть не хо́чет. («Bảo là quên, mà trong mắt thì đầy vẻ hằn học, — Chervyakov nghĩ, mắt nghi ngại liếc nhìn vị tướng. — Nói chuyện cũng chẳng buồn nói.)"
+    },
+    {
+     "t": "para",
+     "text": "На́до бы ему́ объясни́ть, что я во́все не жела́л... что э́то зако́н приро́ды, а то поду́мает, что я плю́нуть хоте́л. (Phải giải thích cho ông ấy hiểu rằng mình hoàn toàn không cố ý... rằng đó là quy luật tự nhiên, kẻo ông ấy lại nghĩ mình muốn nhổ vào ông ấy.)"
+    },
+    {
+     "t": "para",
+     "text": "Тепе́рь не поду́мает, так по́сле поду́мает!..» (Bây giờ chưa nghĩ thế, thì rồi sau cũng sẽ nghĩ thế!..»)"
+    },
+    {
+     "t": "para",
+     "text": "Придя́ домо́й, Червяко́в рассказа́л жене́ о своём неве́жестве. (Về đến nhà, Chervyakov kể cho vợ nghe về “sự vô học” của mình.)"
+    },
+    {
+     "t": "para",
+     "text": "Жена́, как показа́лось ему́, сли́шком легкомы́сленно отнесла́сь к происше́дшему; она́ то́лько испуга́лась, а пото́м, когда́ узна́ла, что Бризжа́лов «чужо́й», успоко́илась. (Bà vợ, theo ông cảm thấy, đón nhận chuyện xảy ra quá ư hời hợt: thoạt đầu bà hoảng sợ, nhưng rồi khi biết Brizzhalov là người «nha khác», bà liền yên tâm.)"
+    },
+    {
+     "t": "para",
+     "text": "— А всё-таки ты сходи́, извини́сь, — сказа́ла она́. — Поду́мает, что ты себя́ в пу́блике держа́ть не уме́ешь! (— Nhưng dù sao mình cũng cứ đến xin lỗi đi, — bà nói. — Kẻo ông ấy lại nghĩ mình không biết cách cư xử chốn đông người!)"
+    },
+    {
+     "t": "para",
+     "text": "— То́-то вот и есть! Я извиня́лся, да он ка́к-то стра́нно... (— Thì chính thế đấy! Tôi đã xin lỗi rồi, nhưng ông ta cứ thế nào ấy...)"
+    },
+    {
+     "t": "para",
+     "text": "Ни одного́ сло́ва пу́тного не сказа́л. Да и не́когда бы́ло разгова́ривать. (Chẳng nói được lấy một lời ra hồn. Mà cũng chẳng có lúc nào mà chuyện trò.)"
+    },
+    {
+     "t": "para",
+     "text": "На друго́й день Червяко́в наде́л но́вый вицмунди́р, постри́гся и пошёл к Бризжа́лову объясни́ть... (Hôm sau, Chervyakov mặc bộ lễ phục viên chức mới, cắt tóc tử tế rồi đến nhà Brizzhalov để phân trần...)"
+    },
+    {
+     "t": "para",
+     "text": "Войдя́ в приёмную генера́ла, он уви́дел там мно́го проси́телей, а ме́жду проси́телями и самого́ генера́ла, кото́рый уже́ на́чал приём проше́ний. (Bước vào phòng khách đợi của tướng quân, ông thấy ở đó đông người đến cầu việc, và giữa đám người ấy là chính vị tướng — ngài đã bắt đầu buổi tiếp nhận đơn từ.)"
+    },
+    {
+     "t": "para",
+     "text": "Опроси́в не́сколько проси́телей, генера́л по́днял глаза́ и на Червяко́ва. (Hỏi xong mấy người, vị tướng ngước mắt nhìn cả sang Chervyakov.)"
+    },
+    {
+     "t": "para",
+     "text": "— Вчера́ в «Арка́дии», е́жели припо́мните, ва́ше-ство, — на́чал докла́дывать экзеку́тор, — я чихну́л-с и... неча́янно обры́згал... Изв... (— Bẩm quan lớn, hôm qua ở «Arkadia», nếu ngài còn nhớ, — viên quản sự bắt đầu trình bày, — tôi đã hắt hơi ạ và... vô ý làm bắn... Xin th...)"
+    },
+    {
+     "t": "para",
+     "text": "— Каки́е пустяки́... Бог зна́ет что! Вам что уго́дно? — обрати́лся генера́л к сле́дующему проси́телю. (— Chuyện vặt vãnh gì đâu... Có trời mới biết là chuyện gì! Còn ông cần gì? — vị tướng quay sang người cầu việc tiếp theo.)"
+    },
+    {
+     "t": "para",
+     "text": "«Говори́ть не хо́чет! — поду́мал Червяко́в, бледне́я. — Се́рдится, зна́чит... Нет, э́того нельзя́ так оста́вить... Я ему́ объясню́...» («Không thèm nói chuyện! — Chervyakov tái mặt nghĩ. — Vậy là ngài giận... Không, không thể để thế này được... Mình sẽ giải thích cho ngài...»)"
+    },
+    {
+     "t": "para",
+     "text": "Когда́ генера́л ко́нчил бесе́ду с после́дним проси́телем и напра́вился во вну́тренние апартаме́нты, Червяко́в шагну́л за ним и забормота́л: (Khi vị tướng tiếp xong người cuối cùng và quay vào dãy phòng trong, Chervyakov bước vội theo, lắp bắp:)"
+    },
+    {
+     "t": "para",
+     "text": "— Ва́ше-ство! Е́жели я осме́ливаюсь беспоко́ить ва́ше-ство, то и́менно из чу́вства, могу́ сказа́ть, раска́яния!.. Не наро́чно, са́ми изво́лите знать-с! (— Bẩm quan lớn! Nếu tôi cả gan dám quấy quả quan lớn, thì chính là xuất phát từ một niềm — dám nói vậy — hối hận!.. Nào phải cố tình, chính ngài cũng tự rõ cho ạ!)"
+    },
+    {
+     "t": "para",
+     "text": "Генера́л состро́ил плакси́вое лицо́ и махну́л руко́й. (Vị tướng nhăn nhó mặt mày như mếu, khoát tay.)"
+    },
+    {
+     "t": "para",
+     "text": "— Да вы про́сто смеётесь, милостисда́рь! — сказа́л он, скрыва́ясь за две́рью. (— Ông đúng là giễu cợt tôi rồi, thưa quý ông! — ngài nói rồi khuất sau cánh cửa.)"
+    },
+    {
+     "t": "para",
+     "text": "«Каки́е же тут насме́шки? — поду́мал Червяко́в. — Во́все тут нет никаки́х насме́шек! («Giễu cợt nào ở đây kia chứ? — Chervyakov nghĩ. — Làm gì có chút giễu cợt nào!)"
+    },
+    {
+     "t": "para",
+     "text": "Генера́л, а не мо́жет поня́ть! (Là tướng, mà chẳng hiểu nổi!)"
+    },
+    {
+     "t": "para",
+     "text": "Когда́ так, не ста́ну же я бо́льше извиня́ться пе́ред э́тим фанфаро́ном! Чёрт с ним! (Đã vậy thì ta cũng chẳng thèm xin lỗi cái lão khoác lác ấy nữa! Quỷ tha ma bắt lão đi!)"
+    },
+    {
+     "t": "para",
+     "text": "Напишу́ ему́ письмо́, а ходи́ть не ста́ну! Ей-бо́гу, не ста́ну!» (Ta sẽ viết thư cho lão, chứ đến thì nhất quyết không! Có trời chứng giám, nhất quyết không đến!»)"
+    },
+    {
+     "t": "para",
+     "text": "Так ду́мал Червяко́в, идя́ домо́й. (Chervyakov nghĩ vậy trên đường về nhà.)"
+    },
+    {
+     "t": "para",
+     "text": "Письма́ генера́лу он не написа́л. (Bức thư gửi vị tướng, ông không viết nổi.)"
+    },
+    {
+     "t": "para",
+     "text": "Ду́мал, ду́мал, и ника́к не вы́думал э́того письма́. (Nghĩ tới nghĩ lui, vẫn không nặn ra được bức thư ấy.)"
+    },
+    {
+     "t": "para",
+     "text": "Пришло́сь на друго́й день идти́ самому́ объясня́ть. (Đành hôm sau lại thân hành đến phân trần.)"
+    },
+    {
+     "t": "para",
+     "text": "— Я вчера́ приходи́л беспоко́ить ва́ше-ство, — забормота́л он, когда́ генера́л по́днял на него́ вопроша́ющие глаза́, — не для того́, что́бы смея́ться, как вы изво́лили сказа́ть. (— Hôm qua tôi đã đến quấy quả quan lớn, — ông lắp bắp khi vị tướng ngước cặp mắt dò hỏi nhìn ông, — không phải để giễu cợt, như ngài đã hạ cố phán.)"
+    },
+    {
+     "t": "para",
+     "text": "Я извиня́лся за то, что, чиха́я, бры́знул-с..., а смея́ться я и не ду́мал. (Tôi xin lỗi vì lúc hắt hơi đã làm bắn vào ngài ạ... chứ giễu cợt thì tôi đâu dám nghĩ tới.)"
+    },
+    {
+     "t": "para",
+     "text": "Сме́ю ли я смея́ться? (Tôi mà dám giễu cợt sao?)"
+    },
+    {
+     "t": "para",
+     "text": "Е́жели мы бу́дем смея́ться, так никако́го тогда́, зна́чит, и уваже́ния к персо́нам... не бу́дет... (Nếu chúng tôi mà dám cười cợt, thì hoá ra, đối với các bậc đại nhân... chẳng còn chút tôn kính nào... nữa...)"
+    },
+    {
+     "t": "para",
+     "text": "— Пошёл вон!! — га́ркнул вдруг посине́вший и затря́сшийся генера́л. (— Cút ngay!! — vị tướng tím mặt, run bần bật, đột nhiên quát vang.)"
+    },
+    {
+     "t": "para",
+     "text": "— Что-с? — спроси́л шёпотом Червяко́в, мле́я от у́жаса. (— Dạ... dạ gì ạ? — Chervyakov thì thào hỏi, chết lặng vì kinh hãi.)"
+    },
+    {
+     "t": "para",
+     "text": "— Пошёл вон!! — повтори́л генера́л, зато́пав нога́ми. (— Cút ngay!! — vị tướng giậm chân nhắc lại.)"
+    },
+    {
+     "t": "para",
+     "text": "В животе́ у Червяко́ва что́-то оторвало́сь. (Trong bụng Chervyakov có cái gì đó như đứt phựt.)"
+    },
+    {
+     "t": "para",
+     "text": "Ничего́ не ви́дя, ничего́ не слы́ша, он попя́тился к две́ри, вы́шел на у́лицу и поплёлся... (Chẳng còn nhìn thấy gì, chẳng còn nghe thấy gì, ông lùi dần ra cửa, bước ra phố và lê bước đi...)"
+    },
+    {
+     "t": "para",
+     "text": "Придя́ машина́льно домо́й, не снима́я вицмунди́ра, он лёг на дива́н и... по́мер. (Về đến nhà như một cái máy, không cởi bộ lễ phục, ông nằm vật xuống đi-văng và... lăn ra chết.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó"
+    },
+    {
+     "t": "vocab",
+     "ru": "экзеку́тор",
+     "vi": "viên quản sự — viên chức coi việc hành chính, hậu cần trong công sở Nga xưa",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "чихну́ть",
+     "vi": "hắt hơi (hoàn thành thể; chưa hoàn thành: чиха́ть; чихну́л-с — có tiểu từ kính nịnh «-с»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "обры́згать",
+     "vi": "làm bắn (nước, bọt) tung toé vào ai (я вас обры́згал — tôi làm bắn vào ngài)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "лы́сина",
+     "vi": "chỗ hói, đầu hói",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "сконфу́зиться",
+     "vi": "đâm bối rối, ngượng chín người",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "неча́янно",
+     "vi": "vô ý, không chủ tâm",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "проси́тель",
+     "vi": "người đến cầu việc, người nộp đơn thỉnh cầu",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "раска́яние",
+     "vi": "lòng hối hận, sự ăn năn",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "фанфаро́н",
+     "vi": "(khẩu ngữ) kẻ khoác lác, hợm hĩnh",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "насме́шка",
+     "vi": "sự giễu cợt, nhạo báng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "га́ркнуть",
+     "vi": "(khẩu ngữ) quát ầm lên",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "попя́титься",
+     "vi": "lùi lại, giật lùi",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "помере́ть",
+     "vi": "(khẩu ngữ dân dã) chết (trung tính: умере́ть; «и... по́мер» — cái kết tỉnh khô của Chekhov)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ехи́дство",
+     "vi": "vẻ hằn học, nham hiểm",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

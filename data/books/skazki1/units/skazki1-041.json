@@ -1,0 +1,197 @@
+{
+ "id": "skazki1-041",
+ "num": 41,
+ "title": "Орел и ворона — Đại bàng và con quạ",
+ "vi": "Орел и ворона — Đại bàng và con quạ",
+ "ru": "Орел и ворона",
+ "icon": "🦅",
+ "color": "#3730a3",
+ "sectionPrefix": "skazki1-041-s",
+ "group": "Truyện № 61–100",
+ "sections": [
+  {
+   "id": "skazki1-041-s001",
+   "type": "story",
+   "num": 74,
+   "title": "№ 74 · Орел и ворона — Đại bàng và con quạ",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Truyện ngụ ngôn loài vật mang giọng giễu nhại một phiên toà xét xử (суд): con quạ ức hiếp những loài chim lớn bị lôi ra trước «toà» của đại bàng lông xám. Mô-típ «phiên toà của muông thú» rất gần với truyện cá «Ёрш Ершович» (sẽ gặp ở unit kế). Ngôn ngữ nhại lối tố tụng cổ — lời buộc tội trang trọng đan với từ chửi rủa dân dã, bị cáo một mực kêu «oan» (напраслина). Afanasyev giữ nguyên cả chữ tục bị kiểm duyệt («г...»)."
+    },
+    {
+     "t": "para",
+     "text": "Жила-была на Руси ворона, с няньками, с мамками, с малыми детками, с ближними соседками. (Ngày xửa ngày xưa, trên đất Nga có một con quạ cái, sống quây quần cùng đám vú em, đám bà bõ, lũ con thơ bé bỏng và mấy chị em hàng xóm láng giềng gần.)"
+    },
+    {
+     "t": "para",
+     "text": "Прилетели гуси-лебеди, нанесли яичек; а ворона стала их забижать, стала у них яички таскать. (Một bận đàn ngỗng trời thiên nga bay tới, đẻ trứng đầy ổ; thế là con quạ đâm ra ức hiếp chúng, cứ rình tha trộm trứng của chúng.)"
+    },
+    {
+     "t": "para",
+     "text": "Случилось лететь мимо сычу; видит он, что ворона больших птиц забижает, и полетел к сизому орлу. (Tình cờ có con cú mèo bay ngang qua; thấy con quạ ức hiếp những loài chim lớn, nó bèn bay thẳng đến chỗ đại bàng lông xám.)"
+    },
+    {
+     "t": "para",
+     "text": "Прилетел и просит: «Батюшка сизый орел! Дай нам праведный суд на шельму ворону». (Đến nơi, nó cầu xin: «Thưa cha đại bàng lông xám! Xin cha xử cho một phen công minh cái con quạ gian manh ấy.»)"
+    },
+    {
+     "t": "para",
+     "text": "Сизый орел послал за вороной легкого посла воробья. (Đại bàng lông xám liền sai chú chim sẻ lanh lẹ làm sứ giả đi triệu con quạ tới.)"
+    },
+    {
+     "t": "para",
+     "text": "Воробей тотчас полетел, захватил ворону; она было упираться, воробей давай ее пинками и привел-таки к сизому орлу. (Chim sẻ lập tức bay đi, tóm ngay lấy con quạ; quạ ta toan giãy giụa chống cự, sẻ liền lấy chân đá túi bụi, rốt cuộc cũng điệu được nó đến trước đại bàng lông xám.)"
+    },
+    {
+     "t": "para",
+     "text": "Орел стал судить. (Đại bàng bắt đầu phân xử.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ах ты шельма ворона, шаловая голова, непотребный нос, г... хвост! (— À cái con quạ gian manh kia, đồ đầu óc càn dở, cái mỏ hỗn hào, cái đuôi thì đồ... thối tha!)"
+    },
+    {
+     "t": "para",
+     "text": "Про тебя говорят, что ты на чужое добро рот разеваешь, у больших птиц яички таскаешь». (Người ta đồn rằng ngươi cứ há mỏ thèm thuồng của cải của kẻ khác, lại đi tha trộm trứng của những loài chim lớn.)"
+    },
+    {
+     "t": "para",
+     "text": "«Напраслина, батюшка сизый орел, напраслина!» (— Oan cho con lắm, thưa cha đại bàng lông xám, oan cho con lắm!)"
+    },
+    {
+     "t": "para",
+     "text": "«Про тебя же сказывают: выйдет мужичок сеять, а ты выскочишь со всем своим содомом и ну разгребать». (— Người ta lại còn kể: hễ bác nông dân ra đồng gieo hạt, là ngươi cùng cả lũ ầm ĩ nhà ngươi xông ra mà bới tung hạt giống lên.)"
+    },
+    {
+     "t": "para",
+     "text": "«Напраслина, батюшка сизый орел, напраслина!» (— Oan cho con lắm, thưa cha đại bàng lông xám, oan cho con lắm!)"
+    },
+    {
+     "t": "para",
+     "text": "«Да еще сказывают: станут бабы жать, нажнут и покладут снопы на поле, а ты выскочишь со всем содомом и опять-таки ну разгребать да ворошить». (— Lại còn nghe nói: mỗi khi các bà đi gặt, gặt xong xếp những bó lúa ngoài đồng, là ngươi cùng cả lũ ầm ĩ lại xông ra bới móc, lục tung cả lên.)"
+    },
+    {
+     "t": "para",
+     "text": "«Напраслина, батюшка сизый орел, напраслина!» (— Oan cho con lắm, thưa cha đại bàng lông xám, oan cho con lắm!)"
+    },
+    {
+     "t": "para",
+     "text": "Осудили ворону в острог посадить. (Cuối cùng, chúng tuyên án tống con quạ vào ngục.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "забижа́ть",
+     "vi": "(phương ngữ = обижать) bắt nạt, ức hiếp, đè nén",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "таска́ть",
+     "vi": "tha đi, lấy cắp, ăn trộm dần (таскать яички — tha trộm trứng)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "сыч",
+     "vi": "con cú mèo (loài cú nhỏ, sống đơn độc)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "си́зый орёл",
+     "vi": "đại bàng lông xám (сизый — màu xám tro phớt xanh, thường tả lông chim)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "пра́ведный суд",
+     "vi": "sự phán xử công minh, công bằng ngay thẳng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ше́льма",
+     "vi": "đồ gian manh, quân lừa đảo, kẻ xảo trá (tiếng mắng)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "посо́л",
+     "vi": "sứ giả, người được phái đi (легкий посол — sứ giả nhanh nhẹn)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "упира́ться",
+     "vi": "giãy giụa chống cự, ngúng nguẩy không chịu đi",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "пино́к",
+     "vi": "cú đá (давать пинки — đá túi bụi)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "суди́ть",
+     "vi": "xét xử, phân xử, luận tội",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ша́ловая голова́",
+     "vi": "(từ шалый) cái đầu càn dở, ngông cuồng, lông bông",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "непотре́бный",
+     "vi": "bậy bạ, đáng ghét, không đứng đắn, hỗn hào",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "разева́ть рот",
+     "vi": "há hốc mỏ/miệng (ở đây: nghĩa bóng — thèm thuồng, nhòm ngó của người)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "напра́слина",
+     "vi": "lời vu oan, điều oan uổng, sự buộc tội bịa đặt",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "содо́м",
+     "vi": "đám đông hỗn loạn ồn ào, lũ nhặng nhít huyên náo",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "разгреба́ть",
+     "vi": "bới tung, cào bới, vạch ra",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "вороши́ть",
+     "vi": "lục tung, xáo trộn, đảo lộn (снопы — đảo tung các bó lúa)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "остро́г",
+     "vi": "nhà ngục, ngục thất (kiểu cổ, có hàng rào cọc gỗ)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

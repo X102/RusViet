@@ -1,0 +1,193 @@
+{
+ "id": "vhnga-016",
+ "num": 16,
+ "title": "«Средь шумного бала…» — Giữa buổi dạ hội ồn ào (A.K. Tolstoy)",
+ "vi": "«Средь шумного бала…» — Giữa buổi dạ hội ồn ào (A.K. Tolstoy)",
+ "ru": "Средь шумного бала…",
+ "icon": "🕊️",
+ "color": "#db2777",
+ "sectionPrefix": "vhnga-016-s",
+ "group": "Алексей К. Толстой · Thơ",
+ "sections": [
+  {
+   "id": "vhnga-016-s001",
+   "type": "story",
+   "num": 16,
+   "title": "«Средь шумного бала, случайно…» — “Giữa buổi dạ hội ồn ào…” (A.K. Tolstoy, 1851)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "A.K. Tolstoy (Алексей Константинович Толстой, 1817–1875) — nhà thơ, nhà viết kịch và tiểu thuyết gia Nga (không nhầm với Lev Tolstoy). «Средь шумного бала, случайно…» (1851) là một trong những bài thơ tình nổi tiếng nhất của ông, viết tặng Sofia Andreyevna Miller — người sau này thành vợ ông — sau lần đầu hai người gặp nhau tại một vũ hội hoá trang ở Sankt-Peterburg. Bài thơ ghi lại khoảnh khắc rung động đầu tiên: giữa đám đông phù hoa, điều đọng lại trong tim chỉ là đôi mắt buồn và giọng nói diệu kỳ của nàng. Năm 1878, nhà soạn nhạc P. Tchaikovsky phổ nhạc bài thơ thành bản tình ca (romance) lừng danh, khiến nó càng bất hủ. Lưu ý: «очи», «стан», «свирель» là những từ mang màu sắc thi ca/cổ."
+    },
+    {
+     "t": "para",
+     "text": "Средь шу́много ба́ла, случа́йно, (Giữa buổi dạ hội ồn ào, tình cờ,)"
+    },
+    {
+     "t": "para",
+     "text": "В трево́ге мирско́й суеты́, (Trong nỗi xao động của phù hoa trần thế,)"
+    },
+    {
+     "t": "para",
+     "text": "Тебя́ я уви́дел, но та́йна (Anh thoáng thấy em, nhưng một màn bí ẩn)"
+    },
+    {
+     "t": "para",
+     "text": "Твои́ покрыва́ла черты́. (Còn che khuất những đường nét dáng em.)"
+    },
+    {
+     "t": "para",
+     "text": "Лишь о́чи печа́льно гляде́ли, (Chỉ đôi mắt nhìn buồn man mác,)"
+    },
+    {
+     "t": "para",
+     "text": "А го́лос так ди́вно звуча́л, (Còn giọng nói vang lên kỳ diệu lạ thường,)"
+    },
+    {
+     "t": "para",
+     "text": "Как звон отдалённой свире́ли, (Như tiếng sáo ngân vọng lại từ chốn xa,)"
+    },
+    {
+     "t": "para",
+     "text": "Как мо́ря игра́ющий вал. (Như ngọn sóng biển dập dờn nô giỡn.)"
+    },
+    {
+     "t": "para",
+     "text": "Мне стан твой понра́вился то́нкий (Anh đem lòng yêu dáng em thon thả,)"
+    },
+    {
+     "t": "para",
+     "text": "И весь твой заду́мчивый вид, (Và cả vẻ trầm tư phảng phất nơi em,)"
+    },
+    {
+     "t": "para",
+     "text": "А смех твой, и гру́стный и зво́нкий, (Còn tiếng em cười, vừa buồn vừa trong trẻo,)"
+    },
+    {
+     "t": "para",
+     "text": "С тех пор в моём се́рдце звучи́т. (Từ bấy đến nay vẫn ngân vang trong tim anh.)"
+    },
+    {
+     "t": "para",
+     "text": "В часы́ одино́кие но́чи (Trong những giờ khuya cô quạnh,)"
+    },
+    {
+     "t": "para",
+     "text": "Люблю́ я, уста́лый, приле́чь — (Anh ưa, mỏi mệt rồi, được ngả lưng nằm —)"
+    },
+    {
+     "t": "para",
+     "text": "Я ви́жу печа́льные о́чи, (Anh lại thấy đôi mắt buồn ấy,)"
+    },
+    {
+     "t": "para",
+     "text": "Я слы́шу весёлую речь; (Anh lại nghe giọng nói vui tươi;)"
+    },
+    {
+     "t": "para",
+     "text": "И гру́стно я так засыпа́ю, (Và anh cứ thế buồn bã thiếp đi,)"
+    },
+    {
+     "t": "para",
+     "text": "И в грёзах неве́домых сплю… (Chìm vào những giấc mộng mơ hồ không tỏ…)"
+    },
+    {
+     "t": "para",
+     "text": "Люблю́ ли тебя́ — я не зна́ю, (Anh có yêu em chăng — anh nào biết,)"
+    },
+    {
+     "t": "para",
+     "text": "Но ка́жется мне, что люблю́! (Nhưng anh ngỡ rằng: anh đang yêu!)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó"
+    },
+    {
+     "t": "vocab",
+     "ru": "бал",
+     "vi": "vũ hội, dạ hội (khiêu vũ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "случа́йно",
+     "vi": "tình cờ, ngẫu nhiên",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "трево́га",
+     "vi": "nỗi lo âu, sự xao động bồn chồn",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "суета́",
+     "vi": "sự bon chen, phù phiếm trần tục",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "та́йна",
+     "vi": "điều bí ẩn, bí mật",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "черта́",
+     "vi": "đường nét; số nhiều «черты» — nét mặt, dáng vẻ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "о́чи",
+     "vi": "đôi mắt (từ thi ca/cổ của «глаза»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ди́вно",
+     "vi": "kỳ diệu, lạ lùng đến mê hồn",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "свире́ль",
+     "vi": "ống sáo (nhạc cụ dân gian Nga)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "вал",
+     "vi": "ngọn sóng lớn, sóng cồn",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "стан",
+     "vi": "vóc dáng, thân hình (mang màu sắc thi ca)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "заду́мчивый",
+     "vi": "trầm tư, tư lự, đăm chiêu",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "звуча́ть",
+     "vi": "vang lên, ngân vang (звучи́т — vang lên)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "грёзы",
+     "vi": "những giấc mộng mơ hồ, mộng tưởng",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

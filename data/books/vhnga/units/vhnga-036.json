@@ -1,0 +1,216 @@
+{
+ "id": "vhnga-036",
+ "num": 36,
+ "title": "«Акула» — Cá mập (Tolstoy)",
+ "vi": "«Акула» — Cá mập (Tolstoy)",
+ "ru": "Акула",
+ "icon": "🦈",
+ "color": "#0369a1",
+ "sectionPrefix": "vhnga-036-s",
+ "sections": [
+  {
+   "id": "vhnga-036-s001",
+   "type": "story",
+   "num": 1,
+   "title": "«Акула» — “Cá mập” (L. Tolstoy, 1875)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Truyện «Аку́ла» (Cá mập) của Lev Nikolaevich Tolstoy (Лев Никола́евич Толсто́й, 1828–1910), thể loại рассказ — truyện ngắn, in trong «Вторая русская книга для чтения» (Sách tập đọc tiếng Nga quyển hai, 1875). Đây là một trong những truyện kịch tính nhất Tolstoy viết cho trẻ em: con tàu thả neo ngoài khơi châu Phi, hai cậu bé bơi thi ngoài biển khơi thì cá mập xuất hiện; người cha — pháo thủ già — trong khoảnh khắc quyết định đã lao tới khẩu pháo và nổ súng, dù biết đạn có thể trúng chính con mình. Bằng những câu văn ngắn, dồn dập, Tolstoy đẩy căng thẳng tới đỉnh điểm (tiếng rú xé tai, làn khói che mắt) rồi mới cho vỡ oà tiếng reo mừng — bài học về lòng can đảm, sự quyết đoán và tình cha con. Điểm ngôn ngữ: «Не выдава́й!» — khẩu ngữ cũ: «đừng bỏ cuộc, đừng chịu thua»; thành ngữ «что бы́ло си́лы» — ra hết sức, «бле́дный как полотно́» — trắng bệch như vải; хо́бот ở đây là càng đuôi giá pháo (хо́бот лафе́та), không phải vòi voi; trọng âm đáng nhớ: за́мерли, спи́ну, подплыла́. Văn bản theo ấn bản hàn lâm (Собр. соч. в 22 т., 1982, т. 10): «в па́русе, они́ взду́мали…» (không có «и»), lời người cha đặt trong ngoặc «…»; riêng «20-ти шаго́в» in thành chữ «двадцати́ шаго́в» cho tiện đọc."
+    },
+    {
+     "t": "para",
+     "text": "Наш кора́бль стоя́л на я́коре у бе́рега А́фрики. (Con tàu của chúng tôi thả neo ngoài khơi bờ biển châu Phi.)"
+    },
+    {
+     "t": "para",
+     "text": "День был прекра́сный, с мо́ря дул све́жий ве́тер; но к ве́черу пого́да измени́лась: ста́ло ду́шно и то́чно из то́пленной пе́чки несло́ на нас горя́чим во́здухом с пусты́ни Саха́ры. (Ngày hôm ấy trời đẹp, gió biển thổi tươi mát; nhưng về chiều thời tiết đổi khác: trời trở nên oi nồng, và hơi nóng từ sa mạc Sahara phả vào chúng tôi hầm hập như từ chiếc lò vừa đốt.)"
+    },
+    {
+     "t": "para",
+     "text": "Пе́ред зака́том со́лнца капита́н вы́шел на па́лубу, кри́кнул: «Купа́ться!» — и в одну́ мину́ту матро́сы попры́гали в во́ду, спусти́ли в во́ду па́рус, привяза́ли его́ и в па́русе устро́или купа́льню. (Trước lúc mặt trời lặn, thuyền trưởng bước ra boong, hô lớn: «Tắm thôi!» — và chỉ trong một phút, các thuỷ thủ nhảy ùm xuống nước, thả cánh buồm xuống biển, buộc chặt lại rồi quây thành một “bể tắm” trong cánh buồm.)"
+    },
+    {
+     "t": "para",
+     "text": "На корабле́ с на́ми бы́ло два ма́льчика. (Trên tàu cùng chúng tôi có hai cậu bé.)"
+    },
+    {
+     "t": "para",
+     "text": "Ма́льчики пе́рвые попры́гали в во́ду, но им те́сно бы́ло в па́русе, они́ взду́мали пла́вать наперегонки́ в откры́том мо́ре. (Hai cậu nhảy xuống nước trước tiên, nhưng thấy trong cánh buồm chật chội, bèn nảy ra ý bơi thi ngoài biển khơi.)"
+    },
+    {
+     "t": "para",
+     "text": "О́ба, как я́щерицы, вытя́гивались в воде́ и что бы́ло си́лы поплы́ли к тому́ ме́сту, где был бочо́нок над я́корем. (Cả hai vươn dài người trong nước như hai con thằn lằn, ra hết sức bơi về phía chiếc thùng phao nổi trên chỗ neo.)"
+    },
+    {
+     "t": "para",
+     "text": "Оди́н ма́льчик снача́ла перегна́л това́рища, но пото́м стал отстава́ть. (Lúc đầu một cậu vượt lên trước bạn, nhưng rồi cứ bị tụt lại dần.)"
+    },
+    {
+     "t": "para",
+     "text": "Оте́ц ма́льчика, ста́рый артиллери́ст, стоя́л на па́лубе и любова́лся на своего́ сыни́шку. (Cha cậu bé, một pháo thủ già, đứng trên boong say sưa ngắm cậu con trai nhỏ.)"
+    },
+    {
+     "t": "para",
+     "text": "Когда́ сын стал отстава́ть, оте́ц кри́кнул ему́: «Не выдава́й! Понату́жься!» (Khi thấy con bị tụt lại, người cha kêu to: «Đừng chịu thua! Gắng lên nào!»)"
+    },
+    {
+     "t": "para",
+     "text": "Вдруг с па́лубы кто́-то кри́кнул: «Аку́ла!» — и все мы увида́ли в воде́ спи́ну морско́го чудо́вища. (Bỗng từ trên boong có ai đó thét lên: «Cá mập!» — và tất cả chúng tôi đều nhìn thấy cái lưng của con quái vật biển trong làn nước.)"
+    },
+    {
+     "t": "para",
+     "text": "Аку́ла плыла́ пря́мо на ма́льчиков. (Con cá mập bơi thẳng về phía hai cậu bé.)"
+    },
+    {
+     "t": "para",
+     "text": "— Наза́д! Наза́д! Верни́тесь! Аку́ла! — закрича́л артиллери́ст. (— Quay lại! Quay lại! Quay vào ngay! Cá mập! — người pháo thủ thét lớn.)"
+    },
+    {
+     "t": "para",
+     "text": "Но ребя́та не слыха́ли его́, плы́ли да́льше, смея́лись и крича́ли ещё веселе́е и гро́мче пре́жнего. (Nhưng hai cậu bé không nghe thấy ông, vẫn bơi tiếp, cười vang và reo hò còn vui hơn, to hơn trước.)"
+    },
+    {
+     "t": "para",
+     "text": "Артиллери́ст, бле́дный как полотно́, не шевеля́сь, смотре́л на дете́й. (Người pháo thủ, mặt trắng bệch như vải, đứng lặng không nhúc nhích, nhìn lũ trẻ.)"
+    },
+    {
+     "t": "para",
+     "text": "Матро́сы спусти́ли ло́дку, бро́сились в неё и, сгиба́я вёсла, понесли́сь что бы́ло си́лы к ма́льчикам; но они́ бы́ли ещё далеко́ от них, когда́ аку́ла уже́ была́ не да́льше двадцати́ шаго́в. (Các thuỷ thủ hạ xuồng, lao xuống và ra sức chèo — mái chèo cong oằn — về phía hai cậu bé; nhưng họ còn cách các cậu khá xa, trong khi con cá mập đã chỉ còn cách chưa đầy hai mươi bước.)"
+    },
+    {
+     "t": "para",
+     "text": "Ма́льчики снача́ла не слыха́ли того́, что им крича́ли, и не вида́ли аку́лы; но пото́м оди́н из них огляну́лся, и мы все услыха́ли пронзи́тельный визг, и ма́льчики поплы́ли в ра́зные сто́роны. (Thoạt đầu hai cậu không nghe thấy tiếng gọi, cũng chẳng trông thấy cá mập; nhưng rồi một cậu ngoái lại — tất cả chúng tôi nghe một tiếng rú xé tai, và hai cậu bé bơi toé ra hai phía.)"
+    },
+    {
+     "t": "para",
+     "text": "Визг э́тот как бу́дто разбуди́л артиллери́ста. (Tiếng rú ấy như đánh thức người pháo thủ.)"
+    },
+    {
+     "t": "para",
+     "text": "Он сорва́лся с ме́ста и побежа́л к пу́шкам. (Ông bật khỏi chỗ, lao về phía dàn pháo.)"
+    },
+    {
+     "t": "para",
+     "text": "Он поверну́л хо́бот, прилёг к пу́шке, прице́лился и взял фити́ль. (Ông quay càng pháo, ghé sát người vào khẩu pháo, ngắm, rồi cầm lấy ngòi châm.)"
+    },
+    {
+     "t": "para",
+     "text": "Мы все, ско́лько нас ни бы́ло на корабле́, за́мерли от стра́ха и жда́ли, что бу́дет. (Tất cả chúng tôi, bao nhiêu người có mặt trên tàu, đều chết lặng vì sợ, chờ xem điều gì sẽ đến.)"
+    },
+    {
+     "t": "para",
+     "text": "Разда́лся вы́стрел, и мы увида́ли, что артиллери́ст упа́л по́дле пу́шки и закры́л лицо́ рука́ми. (Một tiếng nổ vang lên, và chúng tôi thấy người pháo thủ gục xuống bên khẩu pháo, hai tay ôm mặt.)"
+    },
+    {
+     "t": "para",
+     "text": "Что сде́лалось с аку́лой и с ма́льчиками, мы не вида́ли, потому́ что на мину́ту дым застла́л нам глаза́. (Con cá mập và hai cậu bé ra sao, chúng tôi không nhìn thấy, vì trong phút chốc khói đã che kín mắt.)"
+    },
+    {
+     "t": "para",
+     "text": "Но когда́ дым разошёлся над водо́ю, со всех сторо́н послы́шался снача́ла ти́хий ро́пот, пото́м ро́пот э́тот стал сильне́е, и, наконе́ц, со всех сторо́н разда́лся гро́мкий, ра́достный крик. (Nhưng khi khói tan trên mặt nước, bốn phía trước hết nổi lên tiếng rì rầm khe khẽ, rồi tiếng rì rầm ấy mỗi lúc một to, và cuối cùng, từ khắp mọi phía bật lên tiếng reo to mừng rỡ.)"
+    },
+    {
+     "t": "para",
+     "text": "Ста́рый артиллери́ст откры́л лицо́, подня́лся и посмотре́л на мо́ре. (Người pháo thủ già buông tay khỏi mặt, đứng dậy và nhìn ra biển.)"
+    },
+    {
+     "t": "para",
+     "text": "По волна́м колыха́лось жёлтое брю́хо мёртвой аку́лы. (Trên sóng nước dập dềnh cái bụng vàng của con cá mập đã chết.)"
+    },
+    {
+     "t": "para",
+     "text": "В не́сколько мину́т ло́дка подплыла́ к ма́льчикам и привезла́ их на кора́бль. (Chỉ mấy phút sau, chiếc xuồng đã tới chỗ hai cậu bé và đưa các cậu về tàu.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó"
+    },
+    {
+     "t": "vocab",
+     "ru": "я́корь",
+     "vi": "mỏ neo (стоя́ть на я́коре — đậu neo, thả neo)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "па́луба",
+     "vi": "boong tàu",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "матро́с",
+     "vi": "thuỷ thủ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "купа́льня",
+     "vi": "chỗ tắm, “bể tắm” (ở đây: quây bằng cánh buồm thả xuống biển)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "наперегонки́",
+     "vi": "thi nhau, đua nhau (пла́вать наперегонки́ — bơi thi)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "бочо́нок",
+     "vi": "thùng gỗ nhỏ (ở đây: phao thùng đánh dấu chỗ neo)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "артиллери́ст",
+     "vi": "pháo thủ, lính pháo binh",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "понату́житься",
+     "vi": "rán sức, gắng lên (khẩu ngữ; «Понату́жься!» — Gắng lên nào!)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "чудо́вище",
+     "vi": "quái vật (морско́е чудо́вище — quái vật biển)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "пронзи́тельный",
+     "vi": "xé tai, chói tai; xuyên thấu (пронзи́тельный визг — tiếng rú xé tai)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "визг",
+     "vi": "tiếng rú, tiếng ré lanh lảnh",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "хо́бот",
+     "vi": "vòi voi; (quân sự, cũ) càng đuôi giá pháo — поверну́ть хо́бот: quay càng để chĩa nòng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "фити́ль",
+     "vi": "ngòi châm, dây dẫn lửa (điểm hoả đại bác xưa)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ро́пот",
+     "vi": "tiếng rì rầm, lao xao (của đám đông)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

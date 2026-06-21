@@ -1,0 +1,507 @@
+{
+ "id": "skazki1-035",
+ "num": 35,
+ "title": "Собака и дятел — Con chó và con chim gõ kiến",
+ "vi": "Собака и дятел — Con chó và con chim gõ kiến",
+ "ru": "Собака и дятел",
+ "icon": "🐦",
+ "color": "#15803d",
+ "sectionPrefix": "skazki1-035-s",
+ "group": "Truyện № 61–100",
+ "sections": [
+  {
+   "id": "skazki1-035-s001",
+   "type": "story",
+   "num": 66,
+   "title": "№ 66 · Собака и дятел — Con chó và con chim gõ kiến",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Truyện loài vật kiểu «Con chó và con chim gõ kiến» (ATU 248): con chó già bị chủ ruồng bỏ, được chim gõ kiến cưu mang; bộ đôi báo thù bác nông dân vô tình cán chết chó. Bản này kết cục u ám pha hài hước đặc trưng dân gian Nga — chuỗi tai hoạ lan dần từ thùng nhựa → con ngựa → đứa bé, và Afanasyev chép bỏ lửng ngay ở cảnh bi thảm bằng dấu «…»."
+    },
+    {
+     "t": "para",
+     "text": "Жили мужик да баба и не знали, что́ есть за работа. (Ngày xưa có hai vợ chồng nhà nọ, chẳng hề biết làm lụng là gì.)"
+    },
+    {
+     "t": "para",
+     "text": "А была у них собака, она их и кормила и поила. (Nhưng họ có một con chó, chính nó lo cho cả hai miếng ăn nước uống.)"
+    },
+    {
+     "t": "para",
+     "text": "Но пришло время, стала собака стара; куда уж тут кормить мужика с бабой! (Rồi đến một ngày con chó già đi; còn đâu sức mà nuôi ông lão bà lão nữa!)"
+    },
+    {
+     "t": "para",
+     "text": "Чуть сама с голоду не пропадает. (Đến thân nó cũng suýt chết đói.)"
+    },
+    {
+     "t": "para",
+     "text": "«Послушай, старик, — говорит баба, — возьми ты эту собаку, отведи за деревню и прогони; пусть идет куда хочет. (Bà lão bảo: «Này ông, ông đem con chó này dắt ra khỏi làng mà đuổi đi; cho nó muốn đi đâu thì đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Теперича она нам не надобна! (Bây giờ ta chẳng cần đến nó nữa!)"
+    },
+    {
+     "t": "para",
+     "text": "Было время — кормила нас, ну и держали ее». (Hồi nào nó còn nuôi ta thì ta còn giữ nó.»)"
+    },
+    {
+     "t": "para",
+     "text": "Взял старик собаку, вывел за деревню и прогнал прочь. (Ông lão dắt con chó ra khỏi làng rồi đuổi đi biệt tăm.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот собака ходит себе по чистому полю, а домой идти боится: старик со старухою станут бить-колотить. (Thế là con chó lủi thủi đi khắp cánh đồng vắng, chẳng dám về nhà: về thì ông lão bà lão lại đánh đập cho mà xem.)"
+    },
+    {
+     "t": "para",
+     "text": "Ходила-ходила, села наземь и завыла крепким голосом. (Đi mãi đi mãi, nó ngồi phịch xuống đất mà tru lên thảm thiết.)"
+    },
+    {
+     "t": "para",
+     "text": "Летел мимо дятел и спрашивает: «О чем ты воешь?» (Một con chim gõ kiến bay ngang qua, hỏi: «Mày tru thảm thiết gì thế?»)"
+    },
+    {
+     "t": "para",
+     "text": "«Как не выть мне, дятел! (Con chó đáp: «Sao tôi không tru cho được, anh gõ kiến ơi!)"
+    },
+    {
+     "t": "para",
+     "text": "Была я молода, кормила-поила старика со старухою; стала стара, они меня и прогнали. (Hồi còn trẻ tôi nuôi cho ông lão bà lão ăn uống; nay già rồi, họ liền đuổi tôi đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Не знаю, где век доживать». (Chẳng biết về đâu mà sống nốt quãng đời.»)"
+    },
+    {
+     "t": "para",
+     "text": "«Пойдем ко мне, карауль моих детушек, а я кормить тебя стану». (Chim gõ kiến bảo: «Vậy về với tôi đi, trông coi đàn con cho tôi, rồi tôi sẽ nuôi chị.»)"
+    },
+    {
+     "t": "para",
+     "text": "Собака согласилась и побежала за дятлом. (Con chó bằng lòng, lon ton chạy theo chim gõ kiến.)"
+    },
+    {
+     "t": "para",
+     "text": "Дятел прилетел в лес к старому дубу, а в дубе было дупло, а в дупле дятлово гнездо. (Chim gõ kiến bay vào rừng, đến bên một cây sồi già; trong thân sồi có một cái hốc, trong hốc là tổ của nó.)"
+    },
+    {
+     "t": "para",
+     "text": "«Садись около дуба, — говорит дятел, — никого не пущай, а я полечу разыскивать корму». (Chim gõ kiến dặn: «Chị ngồi canh bên gốc sồi, đừng cho ai lại gần, còn tôi bay đi kiếm mồi.»)"
+    },
+    {
+     "t": "para",
+     "text": "Собака уселась возле дуба, а дятел полетел. (Con chó ngồi xuống bên gốc sồi, chim gõ kiến bay đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Летал-летал и увидал: идут по дороге бабы с горшочками, несут мужьям в поле обедать. (Bay mãi bay mãi, nó trông thấy mấy người đàn bà đi trên đường, tay xách những niêu cơm mang ra đồng cho chồng ăn trưa.)"
+    },
+    {
+     "t": "para",
+     "text": "Пустился назад к дубу, прилетел и говорит: (Nó vội bay trở về cây sồi, đến nơi liền bảo:)"
+    },
+    {
+     "t": "para",
+     "text": "«Ну, собака, ступай за мною; по дороге бабы идут с горшочками, несут мужьям в поле обедать. (Chim gõ kiến nói: «Này chị chó, đi theo tôi; ngoài đường mấy người đàn bà đang xách niêu cơm ra đồng cho chồng.)"
+    },
+    {
+     "t": "para",
+     "text": "Ты становись за кустом, а я окунусь в воду да вываляюсь в песку и стану перед бабами по дороге низко порхать, будто взлететь повыше не могу. (Chị nấp sau bụi cây, còn tôi sẽ nhúng mình xuống nước rồi lăn cho dính đầy cát, bay là là trước mặt mấy mụ trên đường, làm như không sao cất mình lên cao được.)"
+    },
+    {
+     "t": "para",
+     "text": "Они начнут меня ловить, горшочки свои постановят наземь, а сами за мною. (Họ sẽ xúm vào bắt tôi, đặt niêu cơm xuống đất mà đuổi theo tôi.)"
+    },
+    {
+     "t": "para",
+     "text": "Ну, ты поскорее к горшочкам-то бросайся да наедайся досыта». (Lúc ấy chị mau xông tới mấy cái niêu mà ăn cho thật no.»)"
+    },
+    {
+     "t": "para",
+     "text": "Собака побежала за дятлом и, как сказано, стала за кустом; а дятел вывалялся весь в песку и начал перед бабами по дороге перепархивать. (Con chó chạy theo chim gõ kiến rồi y lời nấp sau bụi cây; còn chim gõ kiến lăn cho dính đầy cát và bắt đầu chập chờn bay trước mặt mấy người đàn bà trên đường.)"
+    },
+    {
+     "t": "para",
+     "text": "«Смотрите-ка, — говорят бабы, — дятел-то совсем мокрый, давайте его ловить!» (Mấy mụ bảo nhau: «Kìa trông kìa, con gõ kiến ướt sũng cả rồi, ta bắt lấy nó đi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Покинули наземь свои горшки, да за дятлом, а он от них дальше да дальше, отвел их в сторону, поднялся вверх и улетел. (Họ bỏ niêu cơm xuống đất, đuổi theo con gõ kiến; còn nó cứ nhử cho họ ra xa dần, dụ họ đi lệch sang một bên, rồi vút lên cao bay mất.)"
+    },
+    {
+     "t": "para",
+     "text": "А собака меж тем выбежала из-за куста и все, что было в горшочках, приела и ушла. (Trong lúc ấy, con chó từ sau bụi cây chạy ra, chén sạch mọi thứ trong mấy cái niêu rồi bỏ đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Воротились бабы, глянули, а горшки катаются порожние; делать нечего, забрали горшки и пошли домой. (Mấy người đàn bà quay lại nhìn thì thấy niêu lăn lóc trống không; đành chịu, họ thu mấy cái niêu rồi đi về nhà.)"
+    },
+    {
+     "t": "para",
+     "text": "Дятел нагнал собаку и спросил: «Ну что, сыта?» (Chim gõ kiến đuổi kịp con chó, hỏi: «Thế nào, no chưa?»)"
+    },
+    {
+     "t": "para",
+     "text": "«Сыта», — отвечает собака. («No rồi», con chó đáp.)"
+    },
+    {
+     "t": "para",
+     "text": "«Пойдем же домой». («Vậy thì ta về thôi.»)"
+    },
+    {
+     "t": "para",
+     "text": "Вот дятел летит, а собака бежит; попадается им на дороге лиса. (Thế là chim gõ kiến bay trước, con chó chạy sau; dọc đường chúng gặp một con cáo.)"
+    },
+    {
+     "t": "para",
+     "text": "«Лови лису!» — говорит дятел. («Bắt lấy cáo!» chim gõ kiến hô.)"
+    },
+    {
+     "t": "para",
+     "text": "Собака бросилась за лисою, а лиса припустила изо всех сил. (Con chó lao theo con cáo, con cáo cong đuôi chạy thục mạng.)"
+    },
+    {
+     "t": "para",
+     "text": "Случись на ту пору ехать мужику с бочкою дегтю. (Vừa lúc ấy có một bác nông dân đánh xe chở một thùng nhựa hắc ín đi qua.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот лиса кинулась через дорогу, прямо к телеге и проскочила сквозь спицы колеса; собака было за нею, да завязла в колесе; тут из нее и дух вон. (Con cáo phóng vụt qua đường, lao thẳng tới chiếc xe rồi lách qua các nan bánh; con chó đuổi theo nhưng mắc kẹt vào bánh xe — thế là tắt thở ngay tại chỗ.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ну, мужик, — говорит дятел, — когда ты задавил мою собаку, то и я причиню тебе великое горе!» (Chim gõ kiến nói: «Này lão kia, lão đã cán chết con chó của ta, thì ta cũng giáng cho lão một mối hoạ lớn cho biết tay!»)"
+    },
+    {
+     "t": "para",
+     "text": "Сел на телегу и начал долбить дыру в бочке, стучит себе в самое дно. (Nó đậu lên xe, bắt đầu mổ thủng một lỗ ở thùng nhựa, cứ nhằm đáy thùng mà gõ.)"
+    },
+    {
+     "t": "para",
+     "text": "Только отгонит его мужик от бочки, дятел бросится к лошади, сядет промежду ушей и долбит ее в голову. (Bác nông dân vừa xua nó khỏi thùng, nó liền sà tới con ngựa, đậu giữa hai tai mà mổ vào đầu ngựa.)"
+    },
+    {
+     "t": "para",
+     "text": "Сгонит мужик с лошади, а он опять к бочке; таки продолбил в бочке дыру и весь деготь выпустил. (Bác đuổi nó khỏi con ngựa, nó lại quay về thùng; cuối cùng nó cũng mổ thủng được thùng, cho nhựa hắc ín chảy ra hết.)"
+    },
+    {
+     "t": "para",
+     "text": "А сам говорит: «Еще не то тебе будет», — и стал долбить у лошади голову. (Rồi nó nói: «Lão còn chưa biết tay ta đâu!», đoạn lại mổ vào đầu con ngựa.)"
+    },
+    {
+     "t": "para",
+     "text": "Мужик взял большое полено, засел за телегу, выждал время и как хватит изо всей мочи; только в дятла не попал, а со всего маху ударил лошадь по голове и ушиб ее до смерти. (Bác nông dân vớ lấy một khúc củi to, nấp sau xe, rình đúng lúc rồi vung hết sức bổ xuống; nào ngờ chẳng trúng con gõ kiến mà lại giáng trọn cú ấy vào đầu con ngựa, đánh nó chết tươi.)"
+    },
+    {
+     "t": "para",
+     "text": "Дятел полетел к мужиковой избе, прилетел и прямо в окошко. (Con gõ kiến bay đến nhà bác nông dân, đến nơi liền chui thẳng qua cửa sổ.)"
+    },
+    {
+     "t": "para",
+     "text": "Хозяйка тогда печь топила, а малый ребенок сидел на лавке; дятел сел ему на голову и ну долбить. (Lúc ấy bà chủ nhà đang nhóm lò, đứa con nhỏ ngồi trên ghế dài; con gõ kiến đậu lên đầu thằng bé mà mổ lia lịa.)"
+    },
+    {
+     "t": "para",
+     "text": "Баба прогоняла-прогоняла его, не может прогнать: злой дятел все клюет; вот она схватила палку да как ударит: в дятла-то не попала, а ребенка зашибла... (Bà mẹ xua mãi xua mãi vẫn chẳng đuổi được: con gõ kiến hung tợn cứ mổ hoài; bà liền vớ cây gậy phang một cái — chẳng trúng con gõ kiến mà lại đập nhằm đứa con đến trọng thương...)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "поить",
+     "vi": "cho (ai) uống; nuôi nấng (lo ăn uống)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "выть",
+     "vi": "tru, hú, rống lên (kêu thảm)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "дупло",
+     "vi": "hốc cây, bọng cây",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "гнездо",
+     "vi": "tổ (chim)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "окунуться",
+     "vi": "nhúng/dầm mình xuống nước",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "вываляться",
+     "vi": "lăn cho dính đầy (cát, bùn)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "порхать",
+     "vi": "bay chập chờn, vỗ cánh bay là là",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "горшочек",
+     "vi": "niêu/nồi đất nhỏ (đựng thức ăn)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "деготь",
+     "vi": "nhựa hắc ín (bôi trục bánh xe)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "бочка",
+     "vi": "thùng tô-nô (bằng gỗ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "долбить",
+     "vi": "mổ, đục liên hồi",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "спица",
+     "vi": "nan hoa bánh xe",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "полено",
+     "vi": "khúc củi (đã chẻ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "зашибить",
+     "vi": "đánh trúng đến trọng thương",
+     "g": null
+    }
+   ]
+  },
+  {
+   "id": "skazki1-035-s002",
+   "type": "story",
+   "num": 67,
+   "title": "№ 67 · Собака и дятел — Con chó và con chim gõ kiến",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Dị bản thứ hai cùng kiểu truyện (ATU 248), giọng vui nhộn hơn: chó và gõ kiến rủ nhau đi ăn chực đám cưới, trộm rượu, chọc đám thợ đập lúa để cười cho thoả. Đoạn cuối lặp lại mô-típ cáo–chó–bác nông dân như №66, nhưng nhẹ tay hơn: bác chỉ mất con ngựa và vỡ cả xe niêu, còn con gõ kiến thoát thân bay vào rừng."
+    },
+    {
+     "t": "para",
+     "text": "Мужик прогнал со двора старую собаку; она придумала идти в чистое поле и кормиться полевыми мышами. (Một bác nông dân đuổi con chó già ra khỏi nhà; nó bèn tính ra đồng vắng, bắt chuột đồng mà ăn sống qua ngày.)"
+    },
+    {
+     "t": "para",
+     "text": "Пошла в поле; увидел ее дятел и взял к себе в товарищи. (Nó vừa ra đến đồng thì con chim gõ kiến trông thấy, bèn nhận làm bạn.)"
+    },
+    {
+     "t": "para",
+     "text": "«Я голодна», — говорит собака. («Tôi đói lắm», con chó nói.)"
+    },
+    {
+     "t": "para",
+     "text": "«Пойдем в деревню, — отвечает дятел, — там свадьбу справляют, будет чем поживиться». (Chim gõ kiến đáp: «Ta vào làng đi, ở đó người ta đang ăn cưới, thế nào cũng có cái mà kiếm chác.»)"
+    },
+    {
+     "t": "para",
+     "text": "Птица влетела в избу, где свадьбу справляли, и зачала бегать по столам, а гости стали кидать в нее кто чем попало, все перебили и под стол перебросали. (Con chim bay vào ngôi nhà đang ăn cưới, nhảy lon ton khắp các mâm; khách khứa vớ được gì ném nấy vào nó, làm đổ vỡ tung toé, hất cả xuống gầm bàn.)"
+    },
+    {
+     "t": "para",
+     "text": "А собака в такой суматохе незаметно пробралась в эту же избу, затесалась под стол, наелась, сколько душе угодно, и ушла. (Thừa lúc nhốn nháo, con chó lặng lẽ lẻn vào chính ngôi nhà ấy, chui tọt xuống gầm bàn, ăn no nê thoả thích rồi bỏ đi.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ну что — сыта?» — спрашивает дятел. («Thế nào, no chưa?» chim gõ kiến hỏi.)"
+    },
+    {
+     "t": "para",
+     "text": "«Сыта-то сыта, да пить хочу!» — говорит собака. («No thì no rồi, nhưng khát nước quá!» con chó nói.)"
+    },
+    {
+     "t": "para",
+     "text": "«Ступай в другую избу, там старик вино цедит из бочки». («Sang nhà bên kia đi, ở đó có ông lão đang chiết rượu từ thùng ra.»)"
+    },
+    {
+     "t": "para",
+     "text": "Дятел влетел в окошко, сел на бочку и ну долбить в самое дно. (Chim gõ kiến bay qua cửa sổ, đậu lên thùng rượu mà mổ lia vào đáy thùng.)"
+    },
+    {
+     "t": "para",
+     "text": "Старик хотел ударить дятла, кинул в него воронкой, да не попал; воронка куда-то закатилась: старик и туда и сюда, не может найти, а из бочки вино себе льется наземь. (Ông lão toan đánh con gõ kiến, ném cái phễu vào nó nhưng chẳng trúng; cái phễu lăn đi đâu mất, ông lão tìm bên này bên kia chẳng thấy, còn rượu trong thùng thì cứ tự chảy ra lênh láng cả đất.)"
+    },
+    {
+     "t": "para",
+     "text": "Собака пробралась в избу, напилась и назад. (Con chó lẻn vào nhà, uống một bữa đã đời rồi quay ra.)"
+    },
+    {
+     "t": "para",
+     "text": "Сошлась с дятлом и говорит ему: «Я теперь и сыта и пьяна, хочу вдоволь насмеяться!» (Gặp lại chim gõ kiến, nó bảo: «Giờ tôi vừa no vừa say, tôi muốn được cười cho thật đã!»)"
+    },
+    {
+     "t": "para",
+     "text": "«Ладно», — отвечает дятел. («Được thôi», chim gõ kiến đáp.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот увидали они, что работники хлеб молотят. (Chợt chúng trông thấy đám thợ đang đập lúa.)"
+    },
+    {
+     "t": "para",
+     "text": "Дятел тотчас сел к одному работнику на плечо и стал клевать его в затылок; а другой парень схватил палку, хотел ударить птицу, да и свалил с ног работника. (Chim gõ kiến lập tức đậu lên vai một người thợ, mổ vào sau gáy anh ta; một anh khác vớ cây gậy định đập con chim, nào ngờ lại quật ngã chính người thợ kia.)"
+    },
+    {
+     "t": "para",
+     "text": "А собака от смеха так и катается по земле! (Còn con chó thì cười lăn cười lộn cả ra đất!)"
+    },
+    {
+     "t": "para",
+     "text": "После того дятел с собакою пустились в чистое поле и повстречали лисицу. (Sau đó, chim gõ kiến cùng con chó kéo nhau ra đồng vắng và gặp một con cáo.)"
+    },
+    {
+     "t": "para",
+     "text": "Дятел начал манить лисицу; чуть-чуть подымется вверх и опять опустится вниз; лиса ну гоняться за ним по́ полю, а собака подкралась сзади к лисице, подползла на брюхе, хвать ее и начала грызть. (Chim gõ kiến bắt đầu nhử con cáo; khẽ bay lên một chút rồi lại sà xuống; con cáo cứ thế đuổi theo nó khắp cánh đồng, còn con chó rón rén vòng ra sau, bò sát bụng lại gần, đớp lấy con cáo mà cắn xé.)"
+    },
+    {
+     "t": "para",
+     "text": "На ту пору ехал в город мужик с возом горшки продавать, увидел, что собака лису давит, прибежал к ним с поленом, ударил со всего размаху, убил и ту и другую. (Vừa lúc ấy có bác nông dân đánh xe chở niêu ra tỉnh bán; thấy con chó đang vật con cáo, bác vớ khúc củi chạy tới, vung hết sức bổ xuống, đập chết cả hai con.)"
+    },
+    {
+     "t": "para",
+     "text": "Озлился дятел на старика; сел его лошади на голову и стал выклевывать ей глаза. (Chim gõ kiến nổi giận với bác nông dân; nó đậu lên đầu con ngựa của bác mà mổ khoét đôi mắt nó.)"
+    },
+    {
+     "t": "para",
+     "text": "Мужик бежит с поленом, хочет убить дятла; прибежал, как хватит — лошадь тут же и повалилась мертвая. (Bác nông dân cầm khúc củi chạy tới, định đập chết con gõ kiến; tới nơi bổ một cái — con ngựa lăn quay ra chết ngay tại chỗ.)"
+    },
+    {
+     "t": "para",
+     "text": "А дятел увернулся, перелетел на́ воз и пошел бегать по горшкам, а сам так и бьет крылами. (Con gõ kiến né được, bay sang xe, chạy lon ton trên đống niêu, vừa chạy vừa đập cánh phành phạch.)"
+    },
+    {
+     "t": "para",
+     "text": "Мужик за ним и ну поленом по возу-то, по возу-то. (Bác nông dân đuổi theo, cứ thế phang khúc củi xuống xe, xuống xe.)"
+    },
+    {
+     "t": "para",
+     "text": "Перебил все горшки и пошел домой ни с чем, а дятел улетел в лес. (Đập vỡ sạch cả đống niêu, bác đành về nhà tay trắng, còn con gõ kiến thì bay tuốt vào rừng.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "кормиться",
+     "vi": "tự kiếm ăn, nuôi thân",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "свадьба",
+     "vi": "đám cưới",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "справлять",
+     "vi": "tổ chức, làm (lễ, đám cưới)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "поживиться",
+     "vi": "kiếm chác, vớ được lợi",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "суматоха",
+     "vi": "cảnh nhốn nháo, hỗn loạn",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "затесаться",
+     "vi": "chen/lẻn lọt vào (đám đông)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "цедить",
+     "vi": "chiết, rót gạn (rượu từ thùng)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "воронка",
+     "vi": "cái phễu",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "молотить",
+     "vi": "đập (lúa)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "затылок",
+     "vi": "gáy, sau đầu",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "манить",
+     "vi": "nhử, vẫy dụ lại gần",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "подкрасться",
+     "vi": "rón rén lại gần",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "выклевывать",
+     "vi": "mổ khoét (mắt) ra",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "увернуться",
+     "vi": "né tránh, lách được",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "насмеяться",
+     "vi": "cười cho thoả thích, cười no nê",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

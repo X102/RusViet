@@ -1,0 +1,161 @@
+{
+ "id": "vhnga-019",
+ "num": 19,
+ "title": "«Узник» — Người tù (Pushkin)",
+ "vi": "«Узник» — Người tù (Pushkin)",
+ "ru": "Узник",
+ "icon": "🦅",
+ "color": "#475569",
+ "sectionPrefix": "vhnga-019-s",
+ "group": "Александр Пушкин · Thơ",
+ "sections": [
+  {
+   "id": "vhnga-019-s001",
+   "type": "story",
+   "num": 19,
+   "title": "«У́зник» — “Người tù” (A. Pushkin, 1822)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "А.С. Pushkin (Алекса́ндр Серге́евич Пу́шкин, 1799–1837). «У́зник» (Người tù, 1822) được viết khi nhà thơ đang bị đày ở phương Nam (Kishinyov/Chișinău). Bài thơ ngắn 12 dòng (3 khổ) là một trong những tiếng nói khao khát tự do nổi tiếng nhất của thơ ca Nga: người tù trong ngục tối nhìn chú đại bàng non — cũng bị nuôi nhốt trong cảnh giam cầm — như một người bạn đồng cảnh; con chim vẫy gọi anh hãy cùng bay tới miền núi, biển và gió tự do. Hình ảnh đại bàng (орёл) tượng trưng cho khát vọng tự do mãnh liệt; điệp ngữ «Туда́…» (Đến nơi kia…) mở ra ba lần một chân trời tự do. Lưu ý dòng cuối «…где гуля́ем лишь ве́тер… да я!» có cách dùng động từ độc đáo (гуля́ем — ngôi «chúng tôi») tạo nên hiệu ứng riêng của Puskin, như hoà người tù vào ngọn gió."
+    },
+    {
+     "t": "para",
+     "text": "Сижу́ за решёткой в темни́це сыро́й. (Tôi ngồi sau song sắt, trong ngục tối ẩm ướt.)"
+    },
+    {
+     "t": "para",
+     "text": "Вскормлённый в нево́ле орёл молодо́й, (Một chú đại bàng non lớn lên giữa cảnh giam cầm,)"
+    },
+    {
+     "t": "para",
+     "text": "Мой гру́стный това́рищ, маха́я крыло́м, (Người bạn buồn của tôi đang vỗ cánh,)"
+    },
+    {
+     "t": "para",
+     "text": "Крова́вую пи́щу клюёт под окно́м, (Mổ miếng mồi đẫm máu ngay dưới khung cửa sổ,)"
+    },
+    {
+     "t": "para",
+     "text": "Клюёт, и броса́ет, и смо́трит в окно́, (Mổ rồi lại buông, rồi đăm đắm nhìn ra ngoài cửa,)"
+    },
+    {
+     "t": "para",
+     "text": "Как бу́дто со мно́ю заду́мал одно́. (Như thể cùng tôi nung nấu chung một ý nghĩ.)"
+    },
+    {
+     "t": "para",
+     "text": "Зовёт меня́ взгля́дом и кри́ком свои́м (Nó gọi tôi bằng ánh mắt và bằng tiếng kêu của mình,)"
+    },
+    {
+     "t": "para",
+     "text": "И вы́молвить хо́чет: «Дава́й улети́м! (Và như muốn thốt lên: «Ta bay đi thôi!)"
+    },
+    {
+     "t": "para",
+     "text": "Мы во́льные пти́цы; пора́, брат, пора́! (Đôi ta là những cánh chim tự do; đến lúc rồi, anh bạn, đến lúc rồi!)"
+    },
+    {
+     "t": "para",
+     "text": "Туда́, где за ту́чей беле́ет гора́, (Đến chốn kia, nơi sau làn mây ngọn núi trắng hiện ra,)"
+    },
+    {
+     "t": "para",
+     "text": "Туда́, где сине́ют морски́е края́, (Đến chốn kia, nơi những miền biển xanh thẳm,)"
+    },
+    {
+     "t": "para",
+     "text": "Туда́, где гуля́ем лишь ве́тер… да я!…» (Đến chốn kia, nơi chỉ có ngọn gió rong chơi… và ta!…»)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó"
+    },
+    {
+     "t": "vocab",
+     "ru": "у́зник",
+     "vi": "người tù, tù nhân",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "решётка (за решёткой)",
+     "vi": "song sắt, chấn song; за решёткой — sau song sắt, trong tù",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "темни́ца",
+     "vi": "ngục tối, nhà lao (từ cổ/văn chương)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "сыро́й",
+     "vi": "ẩm ướt, ẩm thấp",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "вскорми́ть (вскормлённый)",
+     "vi": "nuôi lớn, nuôi dưỡng; вскормлённый — được nuôi lớn",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "нево́ля",
+     "vi": "cảnh giam cầm, sự mất tự do (в неволе — trong vòng giam hãm)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "орёл",
+     "vi": "đại bàng, chim ưng",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "маха́ть (маха́я)",
+     "vi": "vẫy, vỗ; маха́я крылом — vỗ cánh",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "крова́вый",
+     "vi": "đẫm máu, đầy máu",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "клева́ть (клюёт)",
+     "vi": "mổ (thức ăn)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "вы́молвить",
+     "vi": "thốt ra, nói ra (một lời)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "во́льный",
+     "vi": "tự do, phóng khoáng (вольные птицы — chim tự do)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "пора́",
+     "vi": "đã đến lúc, đến lúc rồi",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "край (края́)",
+     "vi": "miền, xứ, bờ cõi; морские края — những miền biển",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

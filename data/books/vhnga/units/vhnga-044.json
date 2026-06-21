@@ -1,0 +1,160 @@
+{
+ "id": "vhnga-044",
+ "num": 44,
+ "title": "«Есть в осени первоначальной…» — Trong tiết thu buổi đầu (Tyutchev)",
+ "vi": "«Есть в осени первоначальной…» — Trong tiết thu buổi đầu (Tyutchev)",
+ "ru": "Есть в осени первоначальной…",
+ "icon": "🍁",
+ "color": "#b45309",
+ "sectionPrefix": "vhnga-044-s",
+ "sections": [
+  {
+   "id": "vhnga-044-s001",
+   "type": "story",
+   "num": 1,
+   "title": "«Есть в осени первоначальной…» — “Trong tiết thu buổi đầu” (F. Tyutchev, 1857)",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Bài thơ «Есть в о́сени первонача́льной…» (Trong tiết thu buổi đầu…) của Fyodor Tyutchev (Фёдор Ива́нович Тю́тчев, 1803–1873) — cùng tác giả với «Silentium!» (bài 3), «Весенняя гроза» (bài 22), «Умом Россию не понять…» (bài 31) — được viết ngày 22-8-1857 trên đường từ điền trang quê nhà Ovstug (tỉnh Bryansk) về Moskva: nhà thơ ghi vội bằng bút chì lên mặt sau tờ giấy kê danh sách các trạm ngựa và chi phí dọc đường; đoạn xe xóc, con gái Maria chép đỡ cha. In lần đầu trên tạp chí «Ру́сская бесе́да» năm 1858. Đây là bài thơ kinh điển về «ба́бье ле́то» (“hè rớt” — quãng nắng ấm trong trẻo ngắn ngủi đầu thu), được Lev Tolstoy đánh dấu «К!» (Красота́ — Tuyệt đẹp!) trong tuyển tập Tyutchev của mình; chữ đắt nhất là «хруста́льный»: cả ngày thu trong vắt, mong manh, ngân vang «tựa pha lê». Ba khổ — ba bức tranh: (1) quãng thu «ngắn ngủi mà diệu kỳ» với ngày pha lê, chiều rạng ngời; (2) cánh đồng sau mùa gặt — nơi lưỡi liềm «hăng say quăng lượn», bông lúa «gục rơi», giờ chỉ còn «sợi tóc mảnh của mạng nhện» lấp lánh trên «luống cày nhàn nghỉ» — chi tiết nhỏ mà đắt giá bậc nhất của thơ phong cảnh Nga; (3) không trung vắng lặng dần, nhưng «còn xa lắm mới tới những trận bão đầu đông» — và sắc thanh thiên ấm áp «rót xuống» cánh đồng đang nghỉ. Hoán dụ серп/ко́лос gợi cả mùa gặt lẫn người lao động nay đã vắng bóng; nhân hoá «пра́здная борозда́» và «отдыха́ющее по́ле» cho thấy đất đai cũng lao động và nghỉ ngơi như con người. Điểm ngôn ngữ: «как бы» — so sánh giảm nhẹ («như thể»); dạng ngắn số nhiều «лучеза́рны»; «бо́ле» — dạng cổ của «бо́лее» («nữa»); «пра́здный» nghĩa gốc là «nhàn rỗi, bỏ không» (cùng gốc với пра́здник — ngày nghỉ lễ), không phải “lễ hội”; «паути́ны то́нкий во́лос» — đảo ngữ sở hữu (như đã gặp ở bài 37). Nhịp ямб biến chân (4–6 chân xen kẽ) cùng dấu «…» khép các khổ tạo dư âm lắng đọng. NGUYÊN VĂN đối chiếu CHÉO: culture.ru/poems/46383 (UTF-8, khớp toàn văn; bản không in ё, dòng 8 in «борозде…» ba chấm — KHÔNG theo) + ilibrary.ru/text/1773 (Ф. И. Тютчев. Полное собрание стихотворений. Л.: Сов. писатель, 1987, Б-ка поэта, Большая серия — cp1251 mojibake, giải mã khớp ĐỘ DÀI TỪNG TỪ & dấu câu: «вечера...», dòng 8 «борозде.» dấu CHẤM, «поле...», đề ngày «22 августа 1857») + rustih.com (UTF-8 có ё: всё/ещё/льётся/тёплая; «борозде.» dấu chấm khớp ilibrary). Chốt theo ấn bản hàn lâm: dòng 8 kết bằng dấu chấm; chuẩn hoá ё: всё, ещё, льётся, тёплая. Từ trùng glossary đã có từ trước (пора́, просто́р, блесте́ть, лазу́рь) không lặp lại trong mục Từ khó."
+    },
+    {
+     "t": "para",
+     "text": "Есть в о́сени первонача́льной (Trong tiết thu buổi đầu có)"
+    },
+    {
+     "t": "para",
+     "text": "Коро́ткая, но ди́вная пора́ — (Một quãng ngắn ngủi mà diệu kỳ —)"
+    },
+    {
+     "t": "para",
+     "text": "Весь день стои́т как бы хруста́льный, (Cả ngày đứng lặng như thể bằng pha lê,)"
+    },
+    {
+     "t": "para",
+     "text": "И лучеза́рны вечера́… (Và những buổi chiều rạng ngời ánh sáng…)"
+    },
+    {
+     "t": "para",
+     "text": "Где бо́дрый серп гуля́л и па́дал ко́лос, (Nơi lưỡi liềm hăng say từng quăng lượn và bông lúa gục rơi,)"
+    },
+    {
+     "t": "para",
+     "text": "Тепе́рь уж пу́сто всё — просто́р везде́, — (Giờ tất cả đã trống trơn — bốn bề bát ngát, —)"
+    },
+    {
+     "t": "para",
+     "text": "Лишь паути́ны то́нкий во́лос (Chỉ còn sợi tóc mảnh mai của mạng nhện)"
+    },
+    {
+     "t": "para",
+     "text": "Блести́т на пра́здной борозде́. (Lấp lánh trên luống cày nhàn nghỉ.)"
+    },
+    {
+     "t": "para",
+     "text": "Пусте́ет во́здух, птиц не слы́шно бо́ле, (Không trung vắng dần, chẳng còn nghe tiếng chim,)"
+    },
+    {
+     "t": "para",
+     "text": "Но далеко́ ещё до пе́рвых зи́мних бурь — (Nhưng còn xa lắm mới tới những trận bão đầu đông —)"
+    },
+    {
+     "t": "para",
+     "text": "И льётся чи́стая и тёплая лазу́рь (Và sắc thanh thiên trong trẻo, ấm áp đang rót xuống)"
+    },
+    {
+     "t": "para",
+     "text": "На отдыха́ющее по́ле… (Trên cánh đồng đang nghỉ ngơi…)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó"
+    },
+    {
+     "t": "vocab",
+     "ru": "первонача́льный",
+     "vi": "thuở ban đầu, sơ khởi (пе́рвый — thứ nhất + нача́ло — khởi đầu; о́сень первонача́льная — thu sơ, chớm thu)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ди́вный",
+     "vi": "diệu kỳ, tuyệt diệu (ди́во — điều kỳ diệu; cùng gốc удивля́ться — ngạc nhiên)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "хруста́льный",
+     "vi": "bằng pha lê; trong vắt, mong manh như pha lê (хруста́ль — pha lê)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "лучеза́рный",
+     "vi": "rạng ngời, ngời sáng (луч — tia sáng + заря́ — ráng trời; dạng ngắn số nhiều: лучеза́рны)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "бо́дрый",
+     "vi": "hăng hái, sung sức, tráng kiện (бо́дрый серп — lưỡi liềm hăng say, nhân hoá)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "серп",
+     "vi": "lưỡi liềm (серп и мо́лот — búa liềm)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "ко́лос",
+     "vi": "bông lúa (số nhiều bất quy tắc: коло́сья)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "паути́на",
+     "vi": "mạng nhện, tơ nhện (пау́к — con nhện)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "во́лос",
+     "vi": "sợi tóc (паути́ны то́нкий во́лос — sợi tơ nhện mảnh như sợi tóc)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "пра́здный",
+     "vi": "nhàn rỗi, bỏ không (cùng gốc пра́здник — ngày lễ; пра́здная борозда́ — luống cày xong việc, nằm nghỉ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "борозда́",
+     "vi": "luống cày, rãnh cày (trọng âm dồn đuôi: на борозде́)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "пусте́ть",
+     "vi": "trở nên trống vắng, vắng lặng dần (пусто́й — trống rỗng; пусте́ет во́здух — không trung vắng dần)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "бо́ле",
+     "vi": "(dạng cổ) = бо́лее — nữa, hơn nữa (не слы́шно бо́ле — không còn nghe thấy nữa)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "отдыха́ть",
+     "vi": "nghỉ ngơi (о́тдых — sự nghỉ ngơi; отдыха́ющее по́ле — cánh đồng đang nghỉ, tính động từ chủ động hiện tại)",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,443 @@
+{
+ "id": "skazki1-076",
+ "num": 76,
+ "title": "Норка-зверь — Quái thú Norka",
+ "vi": "Норка-зверь — Quái thú Norka",
+ "ru": "Норка-зверь",
+ "icon": "🦡",
+ "color": "#0d9488",
+ "sectionPrefix": "skazki1-076-s",
+ "group": "Truyện № 101–140",
+ "sections": [
+  {
+   "id": "skazki1-076-s001",
+   "type": "story",
+   "num": 132,
+   "title": "№ 132 · Норка-зверь — Quái thú Norka",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Dị bản duy nhất của nhóm «Норка-зверь» (Quái thú Norka), kể bằng phương ngữ chuyển tiếp Nga–Belarus như №126 — kiểu truyện ATU 301: quái thú trốn xuống thế giới dưới đất, ba toà cung điện đồng–bạc–vàng của ba chị em tiên nữ, các anh phản bội cắt dây, chim thần đưa người em về dương thế, nhận mặt nhờ chiếc nhẫn. Giữ nguyên chính tả phương ngữ của nguồn; vết in đáng chú ý: «сев над дерном… яны его кальнули» (дерн hẳn là тёрн — bụi gai), «як только начне- засыпать» thừa dấu gạch, «Не адин не взявсь» (= ни один); đã chuẩn hoá 13 vết footnote (bỏ khoảng trắng thừa trước dấu câu)."
+    },
+    {
+     "t": "para",
+     "text": "Жив сабе царь да царица. (Ngày xưa có một ông vua và một bà hoàng hậu.)"
+    },
+    {
+     "t": "para",
+     "text": "У них было три сына: два разумных, а третий дурень. (Ông bà có ba người con trai: hai chàng khôn ngoan, còn chàng thứ ba là anh ngốc.)"
+    },
+    {
+     "t": "para",
+     "text": "У царя быв зверинец, у которам множества было разных зверей. (Nhà vua có một vườn nuôi thú, trong đó nuôi vô số giống thú khác nhau.)"
+    },
+    {
+     "t": "para",
+     "text": "В етат зверинец унадився вяликий зверь — Норка яго звали — и багата рабив шкоды: каждаю ночь поедав зверей. (Một con quái thú khổng lồ — người ta gọi nó là Norka — quen thói mò vào vườn thú ấy phá phách dữ lắm: đêm nào nó cũng vào ăn thịt thú nuôi.)"
+    },
+    {
+     "t": "para",
+     "text": "Царь чаго не рабив — не мог истребить яго; во упосли сзывая сваих сынов да и кажа: «Хто истребить Норку-зверя, дам тому палавину царства». (Nhà vua làm đủ mọi cách mà không sao trừ nổi nó; sau cùng ngài gọi các con trai đến mà phán: «Ai trừ được quái Norka, ta cho người ấy nửa giang sơn».)"
+    },
+    {
+     "t": "para",
+     "text": "Во старший и памався: як только наступила ночь, ён взяв аружие и пашов; да не пашодши в зверинец, зайшов у трактир и там прагуляв целаю ночь. (Chàng cả liền xung phong: đêm vừa buông, chàng cầm khí giới ra đi; nhưng chưa tới vườn thú đã rẽ vào quán rượu, chè chén ở đó trọn đêm.)"
+    },
+    {
+     "t": "para",
+     "text": "Схамянувся, як рассвяло, да поздно. (Tới lúc trời rạng sáng chàng mới sực tỉnh thì đã muộn.)"
+    },
+    {
+     "t": "para",
+     "text": "Стыдно яму было перед аццом, да нечага рабить. (Chàng thẹn với vua cha lắm, nhưng biết làm sao được.)"
+    },
+    {
+     "t": "para",
+     "text": "На другий день и средний брат зрабив такжа; батько лаяв-лаяв их, да и перестав. (Hôm sau chàng thứ hai cũng làm y như thế; vua cha mắng chán mắng chê rồi cũng thôi.)"
+    },
+    {
+     "t": "para",
+     "text": "Во на третий день собрався меньший. (Sang ngày thứ ba, đến lượt chàng út sửa soạn ra đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Смеялись все з яго, бо був дурный, и яны думали, што ён ничего не зробя; а ён, узявши аружия, пашов прямо у зверинец да и сев над дерном, штоб — як только начне- засыпать — яны его кальнули, ён бы и проснувся. (Ai nấy đều cười chàng, vì chàng vốn ngốc nghếch, ai cũng nghĩ chàng chẳng làm nên trò trống gì; còn chàng cầm khí giới đi thẳng vào vườn thú rồi ngồi xuống cạnh đám gai cỏ, cốt để — hễ vừa chớm thiu thiu ngủ — gai châm vào người cho chàng choàng tỉnh ngay.)"
+    },
+    {
+     "t": "para",
+     "text": "Уже звярнуло с павночи. (Đêm đã quá nửa khuya.)"
+    },
+    {
+     "t": "para",
+     "text": "Во застагнала зямля: то Норка-зверь бяжить и пряма через аграду в зверинец, бо такий бив вяликий. (Bỗng mặt đất rền lên: ấy là quái Norka đang phóng tới, vượt thẳng qua rào vào vườn thú — nó to lớn đến nhường ấy.)"
+    },
+    {
+     "t": "para",
+     "text": "Царевич схамянувся, устав, перекрестився и пашов прямо на зверя; ён назад, царевич за им, а дале ба́ча, што не даго́ня пешком, пабег в канюшню, узяв самага лучшага жеребца, да у пагоню: дагнав таго зверя да и давай бицца. (Hoàng tử sực tỉnh, đứng dậy, làm dấu thánh giá rồi xông thẳng vào con quái; nó quay đầu chạy, hoàng tử đuổi theo, nhưng thấy chạy bộ không kịp, chàng vội vào chuồng ngựa, chọn con tuấn mã hay nhất phi đuổi theo: đuổi kịp con quái, thế là xáp vào đánh nhau.)"
+    },
+    {
+     "t": "para",
+     "text": "Бились яны, бились. Царевич дав зверю три раны. (Họ đánh nhau mãi, đánh nhau hoài. Hoàng tử đâm con quái bị ba vết thương.)"
+    },
+    {
+     "t": "para",
+     "text": "Во убое выбились из мочи да и лягли аддыхать. (Rồi cả hai đều kiệt sức, nằm lăn ra nghỉ.)"
+    },
+    {
+     "t": "para",
+     "text": "Як только царевич заснув, зверь устав да й наутёки. (Hoàng tử vừa thiếp đi, con quái liền vùng dậy chuồn thẳng.)"
+    },
+    {
+     "t": "para",
+     "text": "Конь бу́дя царевича; ён схапився, да у пагоню; дагнавши, изнова зачали бицца. (Con ngựa đánh thức hoàng tử; chàng choàng dậy phóng đuổi theo; đuổi kịp, hai bên lại xáp vào đánh.)"
+    },
+    {
+     "t": "para",
+     "text": "Царевич и тут зрабив зверю три раны, а дале лягли аддыхать. (Lần này hoàng tử lại cho con quái thêm ba vết thương nữa, rồi cả hai lại nằm nghỉ.)"
+    },
+    {
+     "t": "para",
+     "text": "Зверь утёк; царевич, дагнавши, знова зрабив три раны, а дале, як у четвертый раз став даганять, зверь дабег да великага белага камня, падняв яго и пашов на той свет, сказавши царевичу: «Тогда мяне пабедиш, як сюда придеш». (Con quái lại trốn; hoàng tử đuổi kịp, lại đâm thêm ba vết thương nữa; đến lần thứ tư đuổi theo thì con quái chạy tới một tảng đá trắng khổng lồ, nhấc tảng đá lên rồi chui xuống thế giới bên kia, còn ngoái lại bảo hoàng tử: «Bao giờ ngươi xuống được đây thì mới thắng nổi ta».)"
+    },
+    {
+     "t": "para",
+     "text": "Царевич паехав и расказав аццу свайму все и прасив яго, штоб ён вялев звить кожаный канат такий довгий, штоб достав да таго свету. Атец вялев. (Hoàng tử quay về kể hết mọi chuyện cho vua cha nghe, rồi xin cha truyền bện một sợi dây chão bằng da thật dài, dài sao cho thòng xuống tận thế giới bên kia. Vua cha truyền làm ngay.)"
+    },
+    {
+     "t": "para",
+     "text": "Як зрабили канат, царевич, забравши сваих братов, набравши слуг и всяго, што треба было на целый год, паехав туда, где зверь пашов пад камень. (Dây chão bện xong, hoàng tử đem theo các anh, dẫn theo gia nhân cùng đủ thứ lương ăn vật dùng cho trọn một năm, lên đường tới chỗ con quái chui xuống dưới tảng đá.)"
+    },
+    {
+     "t": "para",
+     "text": "Приехавши, яны пастроили там дварец и стали жить. (Tới nơi, họ dựng một toà cung điện và ở lại đó.)"
+    },
+    {
+     "t": "para",
+     "text": "Пригатовились; меньший брат и кажа старшим: «Ну, братцы, хто падымя сей камень?» (Sửa soạn đâu đấy xong, chàng út hỏi các anh: «Nào, các anh, ai nhấc nổi tảng đá này?»)"
+    },
+    {
+     "t": "para",
+     "text": "Ни адин и з места не двинув, а ён як хватив, дак камень далеко палятев, а був вяликий-вяликий — з гору. (Chẳng anh nào lay nổi lấy một li, còn chàng vừa ghì tay nhấc, tảng đá đã văng tít ra xa — mà tảng đá to ơi là to, to bằng cả quả núi.)"
+    },
+    {
+     "t": "para",
+     "text": "Кинувши камень, ён изнова и кажа брата́м: «А хто пайдя на тей свет пабивать Норку-зверя?» (Quẳng tảng đá đi rồi, chàng lại hỏi các anh: «Thế ai chịu xuống thế giới bên kia diệt quái Norka nào?»)"
+    },
+    {
+     "t": "para",
+     "text": "Не адин не взявсь; ён, насмеявшись над ими, што яны трусы, гаворя: «Ну, братцы, прощайтя; апускайтя мяне на той свет, а самы не адходтя ад сяго места, и як толька закалышицца канат — тащитя». (Chẳng ai dám nhận; chàng cười các anh là đồ nhát gan rồi nói: «Thôi, các anh ở lại nhé; hãy thả em xuống thế giới bên kia, còn các anh chớ rời khỏi chỗ này, hễ thấy dây chão lay động thì kéo lên».)"
+    },
+    {
+     "t": "para",
+     "text": "Браты апустили яго. (Các anh thả chàng xuống.)"
+    },
+    {
+     "t": "para",
+     "text": "Ачнувшись на том свете, пад землею, царевич пашов; ишов да ишов; дивицца, аж ходя конь в багатой збруе и кажа яму: «А, здрастуй, Иван-царевич; долга я дожидав табе!» (Tỉnh người lại nơi thế giới bên kia, dưới lòng đất, hoàng tử cất bước; đi mãi đi mãi; ngẩng nhìn — kìa, một con tuấn mã thắng bộ yên cương lộng lẫy đang thong dong, nó cất tiếng chào chàng: «A, chào Ivan hoàng tử; ta đợi chàng đã lâu lắm rồi!»)"
+    },
+    {
+     "t": "para",
+     "text": "Ён сев на таго коня и паехав; едя да едя, глядить, аж стаить медный дварец. (Chàng nhảy lên lưng ngựa phi đi; đi mãi đi mãi, nhìn lên — kìa, một toà cung điện bằng đồng sừng sững.)"
+    },
+    {
+     "t": "para",
+     "text": "Ён взъехав на двор, привязав каня да и пашов у комнаты. (Chàng phi vào sân, buộc ngựa rồi bước vào trong điện.)"
+    },
+    {
+     "t": "para",
+     "text": "Там нагатована абедать; ён сев, паабедав, да и пашов у спальню; там пастель, и ён лег аддыхать. (Trong đó cơm nước đã dọn sẵn; chàng ngồi vào ăn xong bữa, rồi sang phòng ngủ; ở đó có sẵn giường nệm, chàng ngả lưng nằm nghỉ.)"
+    },
+    {
+     "t": "para",
+     "text": "Во приходя панночка, да такая красивая, што ни здумать, ни згадать, только в казце сказать, да и кажа: «Хто в моем доме — азавися: кали старый — будеш батюшка, кали средних лет — брат, а кали маладой — муж любезный; а кали женщина да старая — будеш бабушка, средних лет — матушка, а кали маладая — сестра родная». (Chợt một nàng tiểu thư bước vào, đẹp đến nỗi nghĩ chẳng ra, đoán chẳng nổi, chỉ trong truyện cổ mới tả xiết, nàng cất tiếng: «Ai ở trong nhà ta — hãy lên tiếng: nếu là cụ già — sẽ là cha ta, nếu trung niên — là anh ta, còn nếu trẻ trung — là người chồng yêu dấu; còn nếu là đàn bà mà già — sẽ là bà ta, trung niên — là mẹ ta, còn trẻ trung — là chị em ruột của ta».)"
+    },
+    {
+     "t": "para",
+     "text": "Ён вышов. Яна, як пабачила яго, взрадавалась да и кажа: «Чаго, Иван-царевич (муж мой ты будешь любезный), чаго сюда приехав?» (Chàng bước ra. Vừa trông thấy chàng, nàng mừng rỡ hỏi: «Cớ sao, hỡi Ivan hoàng tử (chàng sẽ là người chồng yêu dấu của thiếp), cớ sao chàng tới chốn này?»)"
+    },
+    {
+     "t": "para",
+     "text": "Ён расказав ёй, што и як. (Chàng kể nàng nghe đầu đuôi sự tình.)"
+    },
+    {
+     "t": "para",
+     "text": "Яна и кажа: «Той зверь, што ты хочеш пабедить, — мой брат. Ён тяперь у средняй сястры, што живе недалеко адсюда в серебряном дварце; я яму залячила три раны, што ты зрабив». (Nàng bảo: «Con quái mà chàng muốn diệt — chính là anh trai thiếp. Giờ nó đang ở chỗ chị giữa, sống cách đây không xa trong toà cung điện bằng bạc; ba vết thương chàng đâm, chính thiếp đã chữa lành cho nó».)"
+    },
+    {
+     "t": "para",
+     "text": "Во упосли сяго яны пили, гуляли, добры мысли мали; а дале царевич, папращавшись, паехав да другой сястры, што в серебряном дварце, и в той также пагастив. (Sau đó hai người ăn uống, vui vầy, chuyện trò tâm đắc; rồi hoàng tử từ biệt, lên đường tới chỗ người chị em thứ hai ở cung điện bạc, và cũng nán lại chơi ở đó.)"
+    },
+    {
+     "t": "para",
+     "text": "Яна сказала яму, што брат яё Норка тяперь у меньшай сястры. (Nàng ấy cho chàng hay anh nàng — quái Norka — hiện đang ở chỗ cô em út.)"
+    },
+    {
+     "t": "para",
+     "text": "Ён паехав да меньшай, што жила в залатом дварце. (Chàng lại lên đường tới chỗ cô út, sống trong toà cung điện bằng vàng.)"
+    },
+    {
+     "t": "para",
+     "text": "Ета сказала яму, што брат яё тяперь спит на синём море, а дале дала яму напицца сильнай вады, дала меч-кладенец и сказала, штоб ён рубав главу брату адразу. (Cô út cho chàng hay anh nàng hiện đang ngủ ngoài biển xanh, rồi cho chàng uống nước thêm sức, trao chàng thanh kiếm báu và dặn phải chém đầu anh nàng bằng một nhát duy nhất.)"
+    },
+    {
+     "t": "para",
+     "text": "Ён, выслухавши ета, паехав. (Nghe dặn xong, chàng lên đường.)"
+    },
+    {
+     "t": "para",
+     "text": "Приезжая царевич к синяму морю, дивицца — аж спить Норка на камне, пасерядине моря, и як храпе́ — да таго на семь вёрст аж вална бье. (Tới biển xanh, hoàng tử nhìn ra — kìa, Norka đang ngủ trên một tảng đá giữa biển, nó ngáy mới ghê chứ — sóng dội ầm ầm lan ra tận bảy dặm.)"
+    },
+    {
+     "t": "para",
+     "text": "Ён перякрястився, пад’ехав к яму, ударив мечем па галаве. (Chàng làm dấu thánh giá, tiến sát lại, vung kiếm bổ xuống đầu nó.)"
+    },
+    {
+     "t": "para",
+     "text": "Галава адскачила да и кажа: «Ну тяперь жа я прапав!» — а дале и павалився у море. (Cái đầu văng ra mà còn kêu: «Thôi phen này ta tận số rồi!» — rồi cả thân quái đổ ụp xuống biển.)"
+    },
+    {
+     "t": "para",
+     "text": "Убивши зверя, царевич вярнувся, пабрав всех трех сястер с сабою, штоб вывести их на етат свет; бо все яго любили и не хатели з им растацца. (Diệt xong con quái, hoàng tử quay lại đón cả ba chị em đi cùng để đưa họ lên dương thế; bởi cả ba đều đem lòng yêu mến chàng, chẳng ai muốn rời xa.)"
+    },
+    {
+     "t": "para",
+     "text": "Кажная из их из свайго дварца зрабила яичко (бо были валшебницы); яго научили, як из яичка зрабить дварец, и наабарот, аддали яму яички и пашли к таму месту, где трэба было падымацца на сей свет. (Mỗi nàng thu toà cung điện của mình lại thành một quả trứng (bởi họ đều là tiên nữ phép màu); họ dạy chàng cách biến trứng thành cung điện và ngược lại, trao trứng cho chàng, rồi cả bọn đi tới chỗ phải leo lên dương thế.)"
+    },
+    {
+     "t": "para",
+     "text": "Як пришли яны к канату, царевич, пасадив девушек, дерганув за канат; ён закалыхався, браты патащили. (Tới chỗ dây chão, hoàng tử đặt các nàng ngồi vào, giật dây; dây lay động, các anh liền kéo lên.)"
+    },
+    {
+     "t": "para",
+     "text": "Як вытащили да пабачили диковинных красавиц, аташли ад их да и кажуть: «Пустим канат, падымем брата, канат перярежим, нехай убьецца, а то ён нам не даст сих красавиц замуж». (Kéo lên rồi, trông thấy các nàng đẹp lạ đẹp lùng, hai anh lánh ra một góc bàn nhau: «Cứ thả dây xuống, kéo thằng em lên lưng chừng rồi cắt phăng dây cho nó rơi chết, kẻo nó chẳng đời nào chịu gả các người đẹp này cho ta».)"
+    },
+    {
+     "t": "para",
+     "text": "Во, сгаварившись, пустили канат: брат быв не промах, дагадався, што братья думають, узяв да и палажив камень, дерганув; братья падняли его высо́ко да и перярезали канат. (Bàn định xong, họ thả dây xuống: nhưng chàng em đâu phải tay vừa, đoán ngay được bụng các anh, bèn đặt một tảng đá vào chỗ mình rồi giật dây; hai anh kéo lên thật cao rồi cắt phăng sợi dây.)"
+    },
+    {
+     "t": "para",
+     "text": "Той камень упав и разбився. Ён заплакав да и пашов. (Tảng đá rơi xuống vỡ tan. Chàng oà khóc rồi cất bước ra đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Ишов, ишов царевич. Во як паднялась буря, заблискала маланья́, загремев гром, полився дождь. (Hoàng tử đi mãi, đi mãi. Bỗng dông bão nổi lên, chớp loè sáng rực, sấm rền vang, mưa trút như thác.)"
+    },
+    {
+     "t": "para",
+     "text": "Ён пришов к деряву, штоб захавацца пад ним; глядить, аж на том деряве маленькие птушки савсем измокли; ён изняв с сабе адёжу да и накрыв их, а сам сев пад деревам. (Chàng tới một gốc cây định trú nhờ; nhìn lên — kìa, trên cây lũ chim non ướt lướt thướt cả; chàng cởi áo ngoài đắp cho chúng, còn mình ngồi nép dưới gốc cây.)"
+    },
+    {
+     "t": "para",
+     "text": "Кали лятить птица, да такая вяликая, што и свет затмився: то было тёмна, а то яще патямнело. (Chợt một con chim bay tới, to đến nỗi che rợp cả bầu trời: trời vốn đã tối, giờ càng tối sầm thêm.)"
+    },
+    {
+     "t": "para",
+     "text": "То — матка тых птушак, што накрыв царевич. (Đó là chim mẹ của lũ chim non mà hoàng tử vừa đắp áo cho.)"
+    },
+    {
+     "t": "para",
+     "text": "Прилятевши, тая птица як пабачила, што яё дятёшаты адеты, и кажа: «Хто накутав маих птушак?» — а дале, пабачивши царевича, и кажа: «Ета ты зрабив? Спасиба табе. Чаго хочеш, праси ад мяне за ета; все сделаю для табе!» (Bay về tới nơi, chim mẹ thấy đàn con được ủ ấm liền hỏi: «Ai đắp áo cho các con ta đây?» — rồi trông thấy hoàng tử, nó nói: «Là chàng làm đấy ư? Cảm ơn chàng. Muốn gì cứ xin ta để đền ơn; ta sẽ làm tất cả vì chàng!»)"
+    },
+    {
+     "t": "para",
+     "text": "Ён кажа: «Выняси мяне на тей свет». (Chàng đáp: «Hãy đưa tôi lên dương thế».)"
+    },
+    {
+     "t": "para",
+     "text": "Яна гаво́ря: «Зраби ж ты вяликий засек, налави всякай дичи да накидай туда, а в другую палавину налий вады, штоб было чим мяне кармить». (Chim mẹ bảo: «Vậy chàng hãy đóng một cái bồ gỗ thật to, săn lấy đủ thứ muông thú chất vào một ngăn, còn ngăn kia đổ đầy nước, để dọc đường có cái nuôi ta».)"
+    },
+    {
+     "t": "para",
+     "text": "Царевич все зрабив. Тая птица, — взятши етат засек на сабе, а царевич сев у серядине, — палятела. (Hoàng tử làm xong đâu đấy. Chim mẹ nhấc cái bồ lên lưng — hoàng tử ngồi vào giữa — rồi cất cánh bay.)"
+    },
+    {
+     "t": "para",
+     "text": "Лятевши чи багата, чи мала — вынясла яго, папращалась и палятела; а ён пашов да и пристав к аднаму партному у хлопцы: такий он быв абодранный, так перемянився, што и невдамет, што царский сын. (Bay chẳng biết bao lâu, bao xa — chim đưa được chàng lên nơi, từ biệt rồi bay đi; còn chàng lần bước xin vào làm chân thợ phụ cho một bác thợ may: trông chàng rách rưới tả tơi, đổi khác đến nỗi chẳng ai ngờ đó là con vua.)"
+    },
+    {
+     "t": "para",
+     "text": "Ставши у таго хазяина за работника, царевич начав распрашувать, што у их царстве и як? (Vào làm cho chủ rồi, hoàng tử mới dò hỏi xem trong nước dạo này có chuyện gì, ra sao?)"
+    },
+    {
+     "t": "para",
+     "text": "Той хазяин и кажа: «Наши два царевича (бо третий прапав) привязли с таго света невест и хочуть жаницца, да тыя невесты упирують: хочуть, штоб им к вянцу нашить всякага платья, такога, як у них было на том свете, и без мерки. Царь звав всих мастяров, да не адин не бярецца». (Bác chủ kể: «Hai hoàng tử nhà ta (vị thứ ba mất tích rồi) đem từ thế giới bên kia về mấy nàng dâu và sắp cưới, nhưng các nàng dâu cứ khăng khăng làm mình làm mẩy: đòi may đủ áo xống mặc ngày cưới giống hệt như đồ các nàng từng có ở thế giới bên kia, mà lại không cần đo người. Vua đã vời hết thợ giỏi trong nước, mà chẳng ai dám nhận».)"
+    },
+    {
+     "t": "para",
+     "text": "Выслухавши все ета, царевич и кажа: «Иди, хазяин, к царю и скажи, што ты нашиеш все па твайму ремяслу». (Nghe xong mọi chuyện, hoàng tử nói: «Bác cứ đến tâu vua rằng nghề của bác, bác may được hết».)"
+    },
+    {
+     "t": "para",
+     "text": "Хазяин и кажа: «Чи мяне ж брацца за такоя платья? Я шию на простонародья». (Bác chủ kêu: «Tôi mà dám nhận may thứ áo xống ấy ư? Tôi chỉ may cho dân thường thôi mà».)"
+    },
+    {
+     "t": "para",
+     "text": "Царевич кажа: «Иди, хазяин! Я отвечаю за всё». (Hoàng tử nói: «Bác cứ đi đi! Mọi việc tôi xin chịu cả».)"
+    },
+    {
+     "t": "para",
+     "text": "Той хазяин пашов. Царь быв рад, што нашовся хоть адин мастяр; дав яму денег, сколько ён хатев. (Bác chủ đành đi. Vua mừng lắm vì rốt cuộc cũng có một người thợ dám nhận; ngài cho bác bao nhiêu tiền tuỳ ý.)"
+    },
+    {
+     "t": "para",
+     "text": "Хазяин той, справившись, прихо́дя дамов. (Lo liệu đâu đấy xong, bác chủ trở về nhà.)"
+    },
+    {
+     "t": "para",
+     "text": "Царевич и гаво́ря яму: «Ну, мались богу да лажись спать; завтра все будя гатова». (Hoàng tử bảo bác: «Nào, bác cứ cầu nguyện rồi đi ngủ đi; sáng mai mọi thứ sẽ xong xuôi cả».)"
+    },
+    {
+     "t": "para",
+     "text": "Ён паслухав свайго парабка, лег спать. (Bác nghe lời anh người làm của mình, đi ngủ.)"
+    },
+    {
+     "t": "para",
+     "text": "Звярнуло с павночи. (Đêm quá nửa khuya.)"
+    },
+    {
+     "t": "para",
+     "text": "Царевич встав, пашов за горад — на поле, выняв из кармана тыя яички, што дали яму невесты, и, як научили яго, зделав из их три дварцы; вашов, пабрав у каждом их платья, вышав, звярнув тые дварцы в яички и пашов дамов. (Hoàng tử trở dậy, ra ngoài thành — tới cánh đồng, móc từ túi ra mấy quả trứng các nàng dâu đã trao, và theo đúng phép được dạy, biến chúng thành ba toà cung điện; chàng vào trong, lấy áo xống của từng nàng, bước ra, thu ba toà cung điện lại thành trứng rồi về nhà.)"
+    },
+    {
+     "t": "para",
+     "text": "Пришовши, развешав платья на стяне да и лег спать. (Về tới nơi, chàng treo áo xống lên tường rồi ngả lưng ngủ.)"
+    },
+    {
+     "t": "para",
+     "text": "Рано праснувся хазяин, глядь — аж висить такоя платья, што ён и не видав! Все сяе златом, да серебром, да камнями самоцветными. (Sáng sớm bác chủ thức giấc, nhìn ra — kìa, treo trên tường là thứ áo xống bác chưa từng thấy bao giờ! Tất cả lấp lánh ánh vàng, ánh bạc cùng đá quý muôn màu.)"
+    },
+    {
+     "t": "para",
+     "text": "Ён зрадовавсь, взяв панёс тоя платья к царю. (Bác mừng quýnh, ôm ngay chỗ áo xống ấy đem dâng vua.)"
+    },
+    {
+     "t": "para",
+     "text": "Царевны, як убачили, што то платья, што у их на том свете, дагадались, што Иван-царевич на сем свете, переглянулись да и замовкли. (Các công nương vừa trông thấy đúng là áo xống của mình ở thế giới bên kia, liền đoán ra Ivan hoàng tử đã về tới dương thế, họ đưa mắt nhìn nhau rồi lặng thinh.)"
+    },
+    {
+     "t": "para",
+     "text": "Хазяин той, аддавши платья, пашов дамов, да не застав уже свайго дарагога работника. (Giao áo xống xong, bác chủ về nhà thì chẳng còn thấy anh người làm quý hoá của mình đâu nữa.)"
+    },
+    {
+     "t": "para",
+     "text": "Ён пашов да пристав к башмашнику, да и таго паслав к царю, и той зарабив; только абхадив ён всих мастяров, и усе благадарили яго, што наживались чрез яго у царя. (Chàng đã sang xin làm cho bác thợ giày, lại xui bác ấy đến hầu vua, và bác ấy cũng được món hời; cứ thế chàng đi giáp lượt các bác thợ, ai nấy đều đội ơn chàng vì nhờ chàng mà kiếm bẫm từ nhà vua.)"
+    },
+    {
+     "t": "para",
+     "text": "Як абхадив царевич-работник всих мастяров, царевны палучили сваё желанье; у их всё платья было такоя, як на том свете; толька яны горько плакали, што царевич не прихо́дя, а наравить, было нельзя, нада бы́ла вянчацца. (Khi chàng-người-làm đã đi giáp vòng các thợ, các công nương được toại nguyện: áo xống của họ thứ gì cũng giống hệt như ở thế giới bên kia; chỉ có điều họ khóc ròng vì hoàng tử vẫn chưa chịu xuất hiện, mà lần lữa mãi thì không được nữa, đã đến ngày phải làm lễ cưới rồi.)"
+    },
+    {
+     "t": "para",
+     "text": "Як сабрались к вянцу, меньшая невеста и кажа царю: «Пазвольте мне, батюшка, пайти самой падарить нищих!» (Lúc sắp rước ra làm lễ cưới, nàng dâu út thưa với vua: «Thưa phụ hoàng, xin cho con được tự tay đi phát quà cho người nghèo khó!»)"
+    },
+    {
+     "t": "para",
+     "text": "Ён пазволив. Яна пашла и начала дарить да приглядацца. (Vua ưng thuận. Nàng đi phát quà, vừa phát vừa chăm chú nhìn từng người.)"
+    },
+    {
+     "t": "para",
+     "text": "Падхо́дя к аднаму; як стала давать яму́ деньги, пабачила кольцо, што дала царевичу на том свете, и кольца сястер сваих (бо то быв ён!), — хватила яго за руку, и привяла яго в комнату, и кажа царю: «Во той, што нас вывяз из таго свету! Братья, кажа, запрятили гаварить нам, што ён жив, и абещали пабить нас, кали мы скажем». (Nàng bước tới trước một người; vừa đưa tiền, nàng chợt nhận ra chiếc nhẫn chính tay mình trao cho hoàng tử ở thế giới bên kia, cùng nhẫn của các chị (bởi người ấy chính là chàng!), — nàng nắm chặt tay chàng, dắt vào cung, rồi thưa với vua: «Đây mới là người đưa chúng con từ thế giới bên kia lên! Hai anh, nàng nói, cấm chúng con hé răng rằng chàng còn sống, còn doạ đánh chết nếu chúng con dám nói ra».)"
+    },
+    {
+     "t": "para",
+     "text": "Царь на тых сынов рассярдився, наказав их, як сам знав; а после гуляли три свадьбы, и я там быв, мед-вино пив, в роте не было, а только па бараде тякло. (Vua nổi trận lôi đình với hai con trai, trừng phạt họ theo ý ngài; rồi sau đó mở liền ba đám cưới linh đình — tôi cũng có mặt ở đấy, uống rượu mật ong, miệng chẳng được giọt nào, chỉ thấy chảy ròng ròng xuống bộ râu.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "унадиться",
+     "vi": "(phương ngữ, = повадиться) quen thói lui tới, hay mò đến (phá phách)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "шкода",
+     "vi": "(phương ngữ) sự phá phách, tác hại; рабить шкоды = gây hại",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "схамянуцца",
+     "vi": "(phương ngữ Belarus) sực tỉnh, chợt hồi tỉnh, chợt nhớ ra",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "наутёки",
+     "vi": "bỏ chạy, chuồn thẳng (пуститься наутёки)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "бачить",
+     "vi": "(phương ngữ Belarus–Ukraina) thấy, nhìn thấy",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "звярнуло с павночи",
+     "vi": "(phương ngữ) đã quá nửa đêm",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "меч-кладенец",
+     "vi": "thanh kiếm báu trong truyện cổ Nga (kiếm thần)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "засек",
+     "vi": "ngăn bồ gỗ lớn (vốn để đựng thóc trong kho)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "невдамет",
+     "vi": "(phương ngữ, = невдомёк) không ngờ tới, không nhận ra",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "упировать",
+     "vi": "(phương ngữ) khăng khăng, nằng nặc đòi (= упираться)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "наравить",
+     "vi": "(phương ngữ, = норовить) chần chừ tìm cách, lần lữa",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "парабок",
+     "vi": "(phương ngữ) anh người làm thuê, người ở",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "дятёшаты",
+     "vi": "(phương ngữ) lũ con nhỏ (ở đây: lũ chim non)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "маланья́",
+     "vi": "(phương ngữ, = молния) tia chớp",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "хлопец",
+     "vi": "(phương ngữ) chàng trai; у хлопцы = vào làm chân thợ phụ/học việc",
+     "g": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,249 @@
+{
+ "id": "skazki1-031",
+ "num": 31,
+ "title": "Сказка о козе лупленой — Truyện con dê lột da",
+ "vi": "Сказка о козе лупленой — Truyện con dê lột da",
+ "ru": "Сказка о козе лупленой",
+ "icon": "🐐",
+ "color": "#854d0e",
+ "sectionPrefix": "skazki1-031-s",
+ "group": "Truyện № 61–100",
+ "sections": [
+  {
+   "id": "skazki1-031-s001",
+   "type": "story",
+   "num": 62,
+   "title": "№ 62 · Сказка о козе лупленой — Truyện con dê lột da",
+   "blocks": [
+    {
+     "t": "note",
+     "text": "Truyện loài vật mang mô-típ «kẻ lạ chiếm nhà» quen thuộc (họ hàng với «Cáo, thỏ và gà trống» №14, kiểu ATU 212 «Con dê dối trá»): một con dê bị lột mất nửa sườn chiếm luôn nhà chú thỏ; các con vật to khoẻ (sói xám, gà trống) đều bó tay trước lời doạ của nó, rốt cuộc một chú ong bé tí mới đuổi được nó đi. Truyện còn được lồng trong khung присказка bông đùa — mở bằng câu rao vần «Nghe đây, lắng tai mà nghe!» và khép lại bằng lối nói trêu vô tận «Bao giờ thỏ tỉnh giấc thì truyện mới bắt đầu»."
+    },
+    {
+     "t": "para",
+     "text": "Коза рухлена, половина бока луплена!.. Слушай, послушивай! (Dê tã tượi đây, nửa sườn đã bị lột da!.. Nghe đây, lắng tai mà nghe!)"
+    },
+    {
+     "t": "para",
+     "text": "Жил-был мужик, у него был зайчик. (Ngày xưa có một bác nông dân, bác nuôi một chú thỏ con.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот и пошёл мужик на́ поле; тут увидал он: лежит коза, половина бока луплена, а половина нет. (Một hôm bác ra đồng; ở đó bác trông thấy: một con dê nằm đó, nửa bên sườn bị lột da, còn nửa kia thì không.)"
+    },
+    {
+     "t": "para",
+     "text": "Мужик сжалился над нею, взял её, принёс домой и положил под сарай. (Bác động lòng thương nó, bèn bế nó về nhà, đặt nằm dưới mái kho.)"
+    },
+    {
+     "t": "para",
+     "text": "Пообедав и отдохнув немножко, вышел он на огород, и зайчик с ним. (Ăn trưa và nghỉ ngơi một lát xong, bác ra vườn rau, chú thỏ cũng đi cùng.)"
+    },
+    {
+     "t": "para",
+     "text": "Тут коза из-под сарая в избу пробрала́сь и там крючком заперлась. (Thừa lúc ấy, con dê từ dưới mái kho lẻn vào nhà rồi cài chốt móc khoá trái cửa lại.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот зайчик захотел поесть и прибежал к дверям избы; хвать лапкой — дверь заперта! (Lúc thỏ đói bụng muốn ăn, nó chạy về tới cửa nhà; quờ chân định mở — cửa đã cài chặt!)"
+    },
+    {
+     "t": "para",
+     "text": "«Кто там?» — спрашивает зайчик. («Ai trong ấy đấy?» — thỏ hỏi.)"
+    },
+    {
+     "t": "para",
+     "text": "Коза отвечает: «Я — коза рухлена, половина бока луплена; выйду — все бока повыбью!» (Con dê đáp: «Ta là dê tã tượi, nửa sườn bị lột da; ta mà ra là đập gãy hết sườn chúng mày!»)"
+    },
+    {
+     "t": "para",
+     "text": "Зайчик с горем отошёл от двери, вышел на улицу и плачет. (Thỏ rầu rĩ rời khỏi cửa, đi ra ngoài đường ngồi khóc.)"
+    },
+    {
+     "t": "para",
+     "text": "Навстречу ему бирюк. (Đi ngược lại phía nó là một con sói xám.)"
+    },
+    {
+     "t": "para",
+     "text": "«Что ты плачешь?» — спросил бирюк. («Mày khóc gì thế?» — sói xám hỏi.)"
+    },
+    {
+     "t": "para",
+     "text": "«У нас в избе кто-то», — сказал сквозь слёзы зайчик. («Trong nhà cháu có ai ấy», — thỏ vừa khóc vừa nói.)"
+    },
+    {
+     "t": "para",
+     "text": "А бирюк: «Иди со мною, я выгоню!» (Sói xám bảo: «Đi với ta, ta đuổi nó ra cho!»)"
+    },
+    {
+     "t": "para",
+     "text": "Пришли к дверям. (Hai con đến trước cửa.)"
+    },
+    {
+     "t": "para",
+     "text": "«Кто здесь?» — спросил бирюк. («Ai trong đó?» — sói xám hỏi.)"
+    },
+    {
+     "t": "para",
+     "text": "Коза затопала ногами и сказала: «Я — коза рухлена, половина бока луплена; выйду — все бока повыбью!» (Con dê giậm chân thình thịch rồi nói: «Ta là dê tã tượi, nửa sườn bị lột da; ta mà ra là đập gãy hết sườn chúng mày!»)"
+    },
+    {
+     "t": "para",
+     "text": "Вот они и ушли от двери. (Thế là cả hai bỏ cửa mà đi.)"
+    },
+    {
+     "t": "para",
+     "text": "Зайчик опять заплакал и вышел на улицу, а бирюк убежал в лес. (Thỏ lại khóc, đi ra ngoài đường, còn sói xám thì chạy biến vào rừng.)"
+    },
+    {
+     "t": "para",
+     "text": "Навстречу зайцу идёт кочет: «Что ты плачешь?» (Đi ngược lại phía thỏ là một chú gà trống: «Mày khóc gì thế?»)"
+    },
+    {
+     "t": "para",
+     "text": "Зайчик ему сказал. (Thỏ kể đầu đuôi cho gà nghe.)"
+    },
+    {
+     "t": "para",
+     "text": "Вот кочет и говорит: «Иди со мною, я выгоню!» (Gà trống bèn nói: «Đi với tao, tao đuổi nó ra cho!»)"
+    },
+    {
+     "t": "para",
+     "text": "Подходя к двери, зайчик, чтобы устрашить козу, кричит: «Идёт кочет на пятах, несёт саблю на плечах, идёт душу губить — козе голову рубить». (Vừa tới gần cửa, thỏ cố hù con dê, hét toáng lên: «Gà trống bước trên gót, vác kiếm trên vai, đi đoạt mạng đây — chặt phăng đầu dê!»)"
+    },
+    {
+     "t": "para",
+     "text": "Вот подошли; кочет и спрашивает: «Кто там?» (Hai con tiến tới; gà trống cất tiếng hỏi: «Ai trong ấy đấy?»)"
+    },
+    {
+     "t": "para",
+     "text": "Коза по-прежнему: «Я — коза рухлена, половина бока луплена; выйду — все бока повыбью!» (Con dê vẫn như cũ: «Ta là dê tã tượi, nửa sườn bị lột da; ta mà ra là đập gãy hết sườn chúng mày!»)"
+    },
+    {
+     "t": "para",
+     "text": "Зайчик опять со слезами ушёл на улицу. (Thỏ lại nước mắt ngắn dài bỏ ra ngoài đường.)"
+    },
+    {
+     "t": "para",
+     "text": "Тут подлетела к нему пчёлка, суетится и спрашивает: «Кто тебя? О чём ты плачешь?» (Bỗng một chú ong bay tới chỗ nó, vo ve rối rít rồi hỏi: «Ai bắt nạt mày? Mày khóc chuyện gì vậy?»)"
+    },
+    {
+     "t": "para",
+     "text": "Зайчик сказал ей, и пчёлка полетела к избе. (Thỏ kể cho ong nghe, thế là ong bay thẳng tới ngôi nhà.)"
+    },
+    {
+     "t": "para",
+     "text": "Тут она спросила: «Кто там?» (Đến nơi nó hỏi: «Ai trong ấy đấy?»)"
+    },
+    {
+     "t": "para",
+     "text": "Коза отвечала по-прежнему. (Con dê vẫn đáp y như cũ.)"
+    },
+    {
+     "t": "para",
+     "text": "Пчёлка рассердилась, начала летать круг стенок; вот жужжала-жужжала и нашла дырочку, влезла туда да за голый бок и жальнула козу ру́хлену и сделала на боку пу́хлину. (Ong nổi giận, bay vòng vòng quanh tường; vo ve mãi vo ve mãi thì tìm ra một cái lỗ nhỏ, chui tọt vào, nhằm đúng bên sườn trụi da mà đốt cho con dê tã tượi một phát, làm chỗ ấy sưng vù lên.)"
+    },
+    {
+     "t": "para",
+     "text": "Коза со всего маху в дверь, и была такова! (Con dê lấy hết đà tông thẳng vào cửa, thế là chạy mất tăm!)"
+    },
+    {
+     "t": "para",
+     "text": "Тут зайчик вбег в избу, наелся-напился и спать повалился. (Thế là thỏ chạy ùa vào nhà, ăn no uống say rồi lăn ra ngủ.)"
+    },
+    {
+     "t": "para",
+     "text": "Когда зайчик проснётся, тогда и сказка начнётся. (Bao giờ thỏ tỉnh giấc, bấy giờ truyện mới bắt đầu.)"
+    },
+    {
+     "t": "subhead",
+     "text": "Từ khó trong truyện"
+    },
+    {
+     "t": "vocab",
+     "ru": "рухлый (рухлена)",
+     "vi": "tã tượi, tàn tạ (về con dê; biến thể dân gian, gốc liên hệ рухлядь «đồ cũ nát»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "лупленый (луплена)",
+     "vi": "bị lột da, trầy da (từ лупить — lột, bóc vỏ/da)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "послушивать",
+     "vi": "lắng nghe, nghe cho kỹ (lối nói присказка, = слушать внимательно)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "сарай",
+     "vi": "nhà kho, gian chái (chứa đồ, nhốt gia súc)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "крючок",
+     "vi": "cái móc cài cửa, chốt cửa",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "кочет",
+     "vi": "gà trống (phương ngữ Nam Nga = петух)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "сабля",
+     "vi": "thanh kiếm cong, mã tấu",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "губить (душу губить)",
+     "vi": "đoạt mạng, hại chết (душу губить = lấy mạng người/vật)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "устрашить",
+     "vi": "làm cho khiếp sợ, hù doạ",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "жальнуть",
+     "vi": "đốt, chích một phát (biến thể khẩu ngữ của жалить)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "пухлина",
+     "vi": "chỗ sưng vù, vết phồng (phương ngữ; ≈ опухоль)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "со всего маху",
+     "vi": "lấy hết đà, dồn hết sức lao tới (thành ngữ)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "была такова",
+     "vi": "biến mất, chuồn mất tăm (thành ngữ «и была такова»)",
+     "g": null
+    },
+    {
+     "t": "vocab",
+     "ru": "затопать",
+     "vi": "giậm chân thình thịch",
+     "g": null
+    }
+   ]
+  }
+ ]
+}
